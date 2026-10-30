@@ -2688,6 +2688,139 @@
       "certainty": "explicit",
       "temporal": "January 1996 return and first Occlumency lesson",
       "model_notes": "Portable joke prop, not a building invisibility field. Ordinary dormitory door and stone circulation confirmed."
+    },
+    {
+      "id": "B05-170",
+      "location": "Great Hall staff seating in January",
+      "category": "interior",
+      "description": "Umbridge eats at the far end of the staff table, looking along it toward Dumbledore and McGonagall; Sprout reads a newspaper propped against a ketchup bottle.",
+      "evidence": [
+        "B05-C025-P0019"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–14 February 1996",
+      "model_notes": "Date-specific staff seating rather than immutable assigned places."
+    },
+    {
+      "id": "B05-171",
+      "location": "Hagrid’s salamander care",
+      "category": "grounds",
+      "description": "Hagrid reports two salamanders with scale rot requiring chilli powder, then leaves through the front doors down the stone steps into damp grounds.",
+      "evidence": [
+        "B05-C025-P0041",
+        "B05-C025-P0043",
+        "B05-C025-P0044",
+        "B05-C025-P0046",
+        "B05-C025-P0047"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–14 February 1996",
+      "model_notes": "Care and number reported; precise enclosure location not given."
+    },
+    {
+      "id": "B05-172",
+      "location": "Herbology Screechsnap trays",
+      "category": "temporary",
+      "description": "Susan Bones tends Screechsnap seedlings in a tray with dragon manure; too much makes the seedlings wriggle and squeak.",
+      "evidence": [
+        "B05-C025-P0050",
+        "B05-C025-P0051"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–14 February 1996",
+      "model_notes": "Actual classroom plants in this lesson, not a proposed collection."
+    },
+    {
+      "id": "B05-173",
+      "location": "House decree notices and surveillance states",
+      "category": "temporary",
+      "description": "Educational Decree Twenty-six appears on house noticeboards. Umbridge observes every Divination and creature lesson, standing by the Divination fire among its perfume, crystal ball, tea leaves and rune stones. Hagrid forbids evening visits to his cabin.",
+      "evidence": [
+        "B05-C025-P0054",
+        "B05-C025-P0056",
+        "B05-C025-P0057",
+        "B05-C025-P0058",
+        "B05-C025-P0059",
+        "B05-C025-P0060",
+        "B05-C025-P0065",
+        "B05-C025-P0066",
+        "B05-C025-P0067"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–14 February 1996",
+      "model_notes": "Notice and inspection state observed; staff-room inability to converse freely is Hermione’s inference. Cabin restriction is an instruction, not a magical seal."
+    },
+    {
+      "id": "B05-174",
+      "location": "January–February weather transition",
+      "category": "temporary",
+      "description": "January gives way to wetter warmer February weather; the Valentine’s outing begins breezy but develops heavy cold rain.",
+      "evidence": [
+        "B05-C025-P0087",
+        "B05-C025-P0105",
+        "B05-C025-P0123",
+        "B05-C025-P0124",
+        "B05-C025-P0165",
+        "B05-C025-P0168"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–14 February 1996",
+      "model_notes": "Seasonal state to reconcile with earlier frozen lake; this passage does not explicitly certify thaw."
+    },
+    {
+      "id": "B05-175",
+      "location": "Hogsmeade route past stadium",
+      "category": "route",
+      "description": "Cho waits beside the oak front doors in the Entrance Hall. After Filch signs them out, she and Harry pass the stadium, seeing Ron and Ginny flying above the stands, then follow the drive downhill and leave through the gates for the village High Street.",
+      "evidence": [
+        "B05-C025-P0099",
+        "B05-C025-P0100",
+        "B05-C025-P0105",
+        "B05-C025-P0114",
+        "B05-C025-P0117"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–14 February 1996",
+      "model_notes": "Stadium is visible from this school exit route; no exact lateral distance."
+    },
+    {
+      "id": "B05-176",
+      "location": "Village boundary security state",
+      "category": "temporary",
+      "description": "Death Eater wanted posters fill shop windows including Dervish and Banges. Cho recalls Dementors throughout Hogsmeade during Sirius’s escape; Harry sees none now.",
+      "evidence": [
+        "B05-C025-P0119",
+        "B05-C025-P0120",
+        "B05-C025-P0121",
+        "B05-C025-P0122",
+        "B05-C025-P0123"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–14 February 1996",
+      "model_notes": "Past patrol is reported; current absence observed locally, not proof no Dementor exists anywhere."
+    },
+    {
+      "id": "B05-177",
+      "location": "Village meeting route and Three Broomsticks",
+      "category": "route",
+      "description": "From High Street near Scrivenshaft’s they go up a side road to Madam Puddifoot’s small teashop. After leaving it Harry turns right and reaches the Three Broomsticks within minutes, moving among crammed tables to a corner seat, then across the crowded room to Hermione’s table.",
+      "evidence": [
+        "B05-C025-P0123",
+        "B05-C025-P0126",
+        "B05-C025-P0165",
+        "B05-C025-P0166",
+        "B05-C025-P0167",
+        "B05-C025-P0169",
+        "B05-C025-P0170",
+        "B05-C025-P0171",
+        "B05-C025-P0188",
+        "B05-C025-P0190",
+        "B05-C025-P0192",
+        "B05-C025-P0193"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–14 February 1996",
+      "model_notes": "Retained to situate the school-linked interview meeting; tea-shop romantic furnishings do not constrain Hogwarts and are not separately inventoried."
     }
   ],
   "chapter_reviews": [
@@ -2954,6 +3087,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs, including full Grimmauld confrontation, bus ride, lesson and aftermath. Paragraph 227 identifies the repeated dream corridor as the Ministry Department of Mysteries, resolving it outside castle scope."
+    },
+    {
+      "chapter": 25,
+      "reviewed_ranges": [
+        [
+          1,
+          245
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs, both newspaper articles, Valentine date and complete interview setup. Death Eaters in the Shack and future break-in are explicitly rumours, not validated habitation or damage. Village coverage limited to school exit, access/security and meeting route."
     }
   ]
 }
