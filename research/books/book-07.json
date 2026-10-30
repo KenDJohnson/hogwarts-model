@@ -145,6 +145,45 @@
       "certainty": "reported",
       "temporal": "August 1997 explanation of continuing constraint",
       "model_notes": "Species-specific access rule; do not apply the wizard prohibition to house-elves. The sea cave discussed alongside it is a separate remote site."
+    },
+    {
+      "id": "B07-011",
+      "location": "Hogwarts Express approach context",
+      "category": "route",
+      "description": "Harry remembers following the scarlet steam engine by air as it passed between fields and hills.",
+      "evidence": [
+        "B07-C012-P0025"
+      ],
+      "certainty": "explicit",
+      "temporal": "Recollection on 1 September 1997 of an earlier school journey",
+      "model_notes": "Rural railway landscape, not a surveyed immediate castle approach; no distances or exact segment identified."
+    },
+    {
+      "id": "B07-012",
+      "location": "Headmaster’s office",
+      "category": "interior",
+      "description": "The Headmaster’s office is a circular room at the top of a tower. Harry associates it with Dumbledore’s delicate silver instruments, stone Pensieve, Sorting Hat and the sword of Gryffindor, whose continued presence he is unsure of.",
+      "evidence": [
+        "B07-C012-P0031"
+      ],
+      "certainty": "explicit",
+      "temporal": "Remembered office on 1 September 1997; Snape’s occupation anticipated",
+      "model_notes": "Room form and remembered contents are narrated; Harry is imagining Snape there and explicitly allows that the sword may have moved. Do not treat this as a witnessed inventory under Snape."
+    },
+    {
+      "id": "B07-013",
+      "location": "Headmaster’s office / Phineas Nigellus portrait",
+      "category": "magic",
+      "description": "Phineas Nigellus can move between his framed portrait at Grimmauld Place and the one hanging in the Headmaster’s office. Hermione puts the portable frame in her enlarged handbag to prevent its subject seeing the house for Snape.",
+      "evidence": [
+        "B07-C012-P0029",
+        "B07-C012-P0030",
+        "B07-C012-P0031",
+        "B07-C012-P0032"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1997",
+      "model_notes": "Linked portrait travel and visual access depend on frame placement; no physical tunnel implied."
     }
   ],
   "chapter_reviews": [
@@ -268,6 +307,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs. Grimmauld Place action and Dumbledore family history add no school geometry. Reported compulsory attendance and blood-status admissions are administrative policy without physical/spatial detail."
+    },
+    {
+      "chapter": 12,
+      "reviewed_ranges": [
+        [
+          1,
+          215
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Recorded railway recollection, tower-top circular study and portrait surveillance mechanism. Ministry architecture and London entrance routes excluded."
     }
   ]
 }
