@@ -2975,6 +2975,160 @@
       "certainty": "explicit",
       "temporal": "March–late May 1995; maze briefing and Crouch encounter in late May",
       "model_notes": "Tree roots, leaves and twigs are present at the meeting place. Karkaroff’s collision with a tree sheds twigs and leaves but no lasting trunk damage is described."
+    },
+    {
+      "id": "B04-191",
+      "location": "Hogwarts departure and map boundaries",
+      "category": "magic",
+      "description": "Hermione reiterates that Disapparition is impossible within the grounds; Ron says the Marauder’s Map reaches only to the boundaries, and Harry says it shows invisible people.",
+      "evidence": [
+        "B04-C029-P0003",
+        "B04-C029-P0004",
+        "B04-C029-P0024",
+        "B04-C029-P0025",
+        "B04-C029-P0072",
+        "B04-C029-P0073",
+        "B04-C029-P0074",
+        "B04-C029-P0078",
+        "B04-C029-P0080",
+        "B04-C029-P0081",
+        "B04-C029-P0083"
+      ],
+      "certainty": "reported",
+      "temporal": "Late May–early June 1995, after Crouch disappearance",
+      "model_notes": "Reported limits. Abduction by broom and Crouch leaving the boundary are theories, not witnessed routes."
+    },
+    {
+      "id": "B04-192",
+      "location": "Owlery dawn state and entrance",
+      "category": "interior",
+      "description": "The misty grounds are visible from the Owlery at dawn. Half the perches are empty as owls return through the windows carrying hunted mice. Steps lead up to a hinged entrance door, and the departure stair is spiral.",
+      "evidence": [
+        "B04-C029-P0008",
+        "B04-C029-P0018",
+        "B04-C029-P0027",
+        "B04-C029-P0032",
+        "B04-C029-P0038",
+        "B04-C029-P0048",
+        "B04-C029-P0062"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–early June 1995, after Crouch disappearance",
+      "model_notes": "Adds entrance construction and morning occupancy to the earlier tower description."
+    },
+    {
+      "id": "B04-193",
+      "location": "History of Magic classroom desks",
+      "category": "furnishing",
+      "description": "History of Magic pupils sit at desks facing Binns’s teaching area.",
+      "evidence": [
+        "B04-C029-P0064"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–early June 1995, after Crouch disappearance",
+      "model_notes": "Only ordinary desks are established; no classroom floor, dimensions or special fittings are stated."
+    },
+    {
+      "id": "B04-194",
+      "location": "Defence classroom lake sightline",
+      "category": "exterior",
+      "description": "From Moody’s classroom the topmost sail of the Durmstrang ship is visible through the window.",
+      "evidence": [
+        "B04-C029-P0065",
+        "B04-C029-P0067",
+        "B04-C029-P0068",
+        "B04-C029-P0070",
+        "B04-C029-P0090"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–early June 1995, after Crouch disappearance",
+      "model_notes": "Specific partial sightline, not proof that the hull or whole lake is visible."
+    },
+    {
+      "id": "B04-195",
+      "location": "Charms classroom cushion storage",
+      "category": "furnishing",
+      "description": "Flitwick keeps the Banishing-practice cushions in a cabinet or cupboard. Harry’s group takes them out to cushion Stunning practice in the classroom and returns them before leaving.",
+      "evidence": [
+        "B04-C029-P0106",
+        "B04-C029-P0107",
+        "B04-C029-P0108",
+        "B04-C029-P0109",
+        "B04-C029-P0110",
+        "B04-C029-P0113"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–early June 1995, after Crouch disappearance",
+      "model_notes": "Adds storage purpose; the narration uses cabinet and cupboard for this storage, not clearly two separate items."
+    },
+    {
+      "id": "B04-196",
+      "location": "Sunlit route towards North Tower",
+      "category": "route",
+      "description": "Harry and Ron follow a corridor towards North Tower where high windows cast broad strips of golden sunlight, then climb towards the silver ladder and trapdoor.",
+      "evidence": [
+        "B04-C029-P0114",
+        "B04-C029-P0115"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–early June 1995, after Crouch disappearance",
+      "model_notes": "Sunlight direction is not given; the gold strips cannot establish a compass alignment."
+    },
+    {
+      "id": "B04-197",
+      "location": "Divination summer ventilation and teaching model",
+      "category": "temporary",
+      "description": "Trelawney’s room is sweltering with heavy perfumed fumes from its continuously burning fire. Harry opens a curtained window an inch, bringing a breeze to his chintz chair. Trelawney extinguishes the lamps so only firelight remains and takes a floating miniature solar system under a glass dome from beneath her winged chair.",
+      "evidence": [
+        "B04-C029-P0115",
+        "B04-C029-P0116",
+        "B04-C029-P0117",
+        "B04-C029-P0118",
+        "B04-C029-P0131",
+        "B04-C029-P0141"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–early June 1995, after Crouch disappearance",
+      "model_notes": "Observed operable window, lighting change and stored model. The later owl/mermaid dream images do not alter the physical classroom."
+    },
+    {
+      "id": "B04-198",
+      "location": "North Tower to Headmaster’s entrance",
+      "category": "route",
+      "description": "Harry leaves through the Divination trapdoor and stepladder and walks the corridors to the stone gargoyle guarding Dumbledore’s entrance.",
+      "evidence": [
+        "B04-C029-P0141",
+        "B04-C029-P0142",
+        "B04-C029-P0143"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–early June 1995, after Crouch disappearance",
+      "model_notes": "No traced floor-by-floor descent is supplied."
+    },
+    {
+      "id": "B04-199",
+      "location": "Headmaster’s moving staircase and outer door",
+      "category": "magic",
+      "description": "After failed password guesses, Cockroach cluster makes the gargoyle jump aside. Harry enters a gap in the wall and stands on a spiral stone stair which slowly carries him upwards as the lower doors close, reaching a polished oak door with a brass knocker. Office voices can be heard beyond it.",
+      "evidence": [
+        "B04-C029-P0143",
+        "B04-C029-P0144",
+        "B04-C029-P0145",
+        "B04-C029-P0146",
+        "B04-C029-P0147",
+        "B04-C029-P0148",
+        "B04-C029-P0149",
+        "B04-C029-P0150",
+        "B04-C029-P0151",
+        "B04-C029-P0152",
+        "B04-C029-P0153",
+        "B04-C029-P0154",
+        "B04-C029-P0155",
+        "B04-C029-P0164"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–early June 1995, after Crouch disappearance",
+      "model_notes": "Dated valid password. Preserve the moving stair and separate upper office door; no numeric rise or fixed floor count is given."
     }
   ],
   "chapter_reviews": [
@@ -3285,6 +3439,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed in three untruncated ranges. Included Owlery panorama, confirmed excavation purpose, electrical interference report, growing maze, Forest/castle route and moving Headmaster entrance. Fleur’s treasure-tunnel theory is a conjecture, not an actual tunnel."
+    },
+    {
+      "chapter": 29,
+      "reviewed_ranges": [
+        [
+          1,
+          164
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included dawn Owlery entrance and spiral stair, map/Disapparition limits, classroom sail view, cushion storage, hot Divination room and moving Headmaster access. Dream at paragraphs 119–129 describes a remote house, not Hogwarts."
     }
   ]
 }
