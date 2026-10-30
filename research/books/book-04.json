@@ -1,0 +1,2328 @@
+{
+  "book": 4,
+  "entries": [
+    {
+      "id": "B04-001",
+      "location": "Forbidden Forest",
+      "category": "grounds",
+      "description": "The Weasleys’ former Ford Anglia is described as running wild in the Forbidden Forest.",
+      "evidence": [
+        "B04-C004-P0009"
+      ],
+      "certainty": "explicit",
+      "temporal": "Summer before the 1994–95 school year",
+      "model_notes": "A mobile inhabitant of the Forest at this date, not a fixed parked vehicle or a constraint on the Forest’s dimensions."
+    },
+    {
+      "id": "B04-002",
+      "location": "Hogwarts concealment",
+      "category": "magic",
+      "description": "Hermione explains that Muggles see Hogwarts as a deteriorating ruin with an entrance warning declaring it dangerous and unsafe to enter.",
+      "evidence": [
+        "B04-C011-P0079",
+        "B04-C011-P0081"
+      ],
+      "certainty": "reported",
+      "temporal": "September 1994; described as an existing enchantment",
+      "model_notes": "Character explanation, attributed to her reading of Hogwarts: A History. This defines a Muggle-facing appearance; it does not establish that the actual castle is ruined. The subsequent Unplottability discussion concerns Durmstrang, not a confirmed Hogwarts property."
+    },
+    {
+      "id": "B04-003",
+      "location": "London to Hogsmeade station",
+      "category": "route",
+      "description": "The Hogwarts Express departs the concealed platform nine and three-quarters at King’s Cross, travels north, and arrives at Hogsmeade station after dark. The London platform is accessed through the apparently solid barrier between platforms nine and ten.",
+      "evidence": [
+        "B04-C011-P0046",
+        "B04-C011-P0047",
+        "B04-C011-P0063",
+        "B04-C011-P0065",
+        "B04-C011-P0089",
+        "B04-C011-P0116"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "Regional approach context only. No travel distance or exact bearing beyond northward travel is given."
+    },
+    {
+      "id": "B04-004",
+      "location": "Hogsmeade station to Hogwarts",
+      "category": "route",
+      "description": "At the stormy evening arrival, Hagrid waits at the far end of the platform. First-years traditionally sail across the lake to the castle; approximately a hundred apparently horseless carriages wait outside the station and carry the other pupils up a track towards Hogwarts.",
+      "evidence": [
+        "B04-C011-P0117",
+        "B04-C011-P0118",
+        "B04-C011-P0120",
+        "B04-C011-P0121"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994 arrival",
+      "model_notes": "Retain Harry’s perception of horseless carriages. The paragraph gives the upward route and approximate vehicle count, not the track’s measured length or the lake landing geometry."
+    },
+    {
+      "id": "B04-005",
+      "location": "Main gates and castle approach",
+      "category": "route",
+      "description": "Carriages pass through gates flanked by winged-boar statues and climb a sweeping drive to the great oak front doors above a flight of stone steps. Many illuminated castle windows are visible through the rain.",
+      "evidence": [
+        "B04-C012-P0001"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "Preserve the ordered station–gates–drive–steps–front-doors approach. No count of steps, gate material, or precise drive curvature is supplied."
+    },
+    {
+      "id": "B04-006",
+      "location": "Entrance Hall",
+      "category": "interior",
+      "description": "The Entrance Hall is cavernous and torch-lit and contains a magnificent marble staircase. Peeves hovers twenty feet above arriving pupils; water balloons leave the floor wet and slippery.",
+      "evidence": [
+        "B04-C012-P0001",
+        "B04-C012-P0003",
+        "B04-C012-P0005",
+        "B04-C012-P0010",
+        "B04-C012-P0012"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "The hovering height supplies at least that much clearance at his position, not a measured ceiling height. Wetness belongs to this incident."
+    },
+    {
+      "id": "B04-007",
+      "location": "Entrance Hall to Great Hall",
+      "category": "route",
+      "description": "Double doors on the right of the Entrance Hall lead into the Great Hall.",
+      "evidence": [
+        "B04-C012-P0012",
+        "B04-C012-P0171"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "The right-hand relation is given on entering via the front doors; preserve that viewpoint."
+    },
+    {
+      "id": "B04-008",
+      "location": "Great Hall",
+      "category": "interior",
+      "description": "Hundreds of candles float above four long student house tables. Golden plates and goblets stand on the tables; at the top of the Hall the staff sit along one side of a fifth table facing the pupils. Harry’s route passes Slytherin, Ravenclaw and Hufflepuff before reaching Gryffindor at the far side, with Slytherin subsequently described across the Hall.",
+      "evidence": [
+        "B04-C012-P0013",
+        "B04-C012-P0081",
+        "B04-C012-P0118"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "Record the observed traversal and opposite-side relation without assuming equal table spacing. The tablecloth is white linen; spilled pumpkin juice stains it during this meal."
+    },
+    {
+      "id": "B04-009",
+      "location": "Great Hall staff table",
+      "category": "furnishing",
+      "description": "Flitwick sits on a large pile of cushions beside Sprout, who is beside Sinistra; Snape is on Sinistra’s other side. A vacant seat separates Snape from Dumbledore at the centre. The arriving Moody is given the seat on Dumbledore’s right, while Hagrid sits at an end of the table.",
+      "evidence": [
+        "B04-C012-P0029",
+        "B04-C012-P0030",
+        "B04-C012-P0087",
+        "B04-C012-P0147"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "A dated seating arrangement. Harry guesses that the vacant seat is McGonagall’s; do not treat that identification as directly observed or fix all seating permanently."
+    },
+    {
+      "id": "B04-010",
+      "location": "Great Hall ceiling and windows",
+      "category": "magic",
+      "description": "The enchanted ceiling shows the outdoor sky: swirling black and purple storm clouds and flashes of lightning. High dark windows admit the sound of heavy rain and shake with thunder.",
+      "evidence": [
+        "B04-C012-P0030",
+        "B04-C012-P0131",
+        "B04-C012-P0134",
+        "B04-C012-P0143"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "Separate the magical visible sky from the actual roof structure, whose construction and height are not specified."
+    },
+    {
+      "id": "B04-011",
+      "location": "Great Hall Sorting position",
+      "category": "temporary",
+      "description": "The first-years line up along the staff table facing the rest of the school. McGonagall places the ancient patched Sorting Hat on a three-legged stool in front of them and removes both when the Sorting ends.",
+      "evidence": [
+        "B04-C012-P0032",
+        "B04-C012-P0033",
+        "B04-C012-P0074",
+        "B04-C012-P0105"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "A removable start-of-term installation, not a permanent obstruction."
+    },
+    {
+      "id": "B04-012",
+      "location": "Great Hall rear door",
+      "category": "route",
+      "description": "Hagrid enters through a door behind the teachers’ table.",
+      "evidence": [
+        "B04-C012-P0087"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "The door’s destination and dimensions are unstated; keep a usable connection without inventing its route."
+    },
+    {
+      "id": "B04-013",
+      "location": "Lake first-year crossing",
+      "category": "grounds",
+      "description": "Dennis reports falling into the lake and being pushed back into the boat by something underwater. Colin suggests the giant squid; the narration describes the lake as fathoms deep.",
+      "evidence": [
+        "B04-C012-P0090",
+        "B04-C012-P0091",
+        "B04-C012-P0092"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1994",
+      "model_notes": "The rescue is a character report; the squid identification is speculation. Fathoms deep is qualitative, not a mapped bathymetric measurement."
+    },
+    {
+      "id": "B04-014",
+      "location": "Great Hall meal service",
+      "category": "magic",
+      "description": "Empty dishes fill with food without visible delivery. The first course vanishes and is instantly replaced by puddings, and remaining crumbs later disappear leaving clean plates.",
+      "evidence": [
+        "B04-C012-P0109",
+        "B04-C012-P0131",
+        "B04-C012-P0134"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "Allow magical food-state changes at the tables. These paragraphs do not establish the mechanism or the kitchen’s position."
+    },
+    {
+      "id": "B04-015",
+      "location": "Hogwarts kitchens",
+      "category": "temporary",
+      "description": "Nearly Headless Nick reports that Peeves threw pots and pans around and left the kitchens flooded with soup before the feast.",
+      "evidence": [
+        "B04-C012-P0112",
+        "B04-C012-P0114",
+        "B04-C012-P0117"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1994",
+      "model_notes": "A reported disruption earlier the same evening, not the normal kitchen state."
+    },
+    {
+      "id": "B04-016",
+      "location": "Hogwarts kitchens and servicing",
+      "category": "interior",
+      "description": "Nearly Headless Nick says Hogwarts has over a hundred house-elves, normally in the kitchens by day, emerging at night to clean and attend to fires.",
+      "evidence": [
+        "B04-C012-P0120",
+        "B04-C012-P0122"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1994",
+      "model_notes": "The stated count and work pattern are reported. They imply staffing and nighttime activity, not a proven kitchen capacity or plan."
+    },
+    {
+      "id": "B04-017",
+      "location": "Filch’s office",
+      "category": "furnishing",
+      "description": "Dumbledore says the castle’s list of about 437 prohibited objects can be consulted in Filch’s office.",
+      "evidence": [
+        "B04-C012-P0136"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1994",
+      "model_notes": "Provides a displayed or consultable office list; its mounting and format are unstated."
+    },
+    {
+      "id": "B04-018",
+      "location": "Forest and Hogsmeade access",
+      "category": "route",
+      "description": "Dumbledore reminds pupils that the Forest within the grounds is out of bounds and Hogsmeade is barred to pupils below third year.",
+      "evidence": [
+        "B04-C012-P0138"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1994",
+      "model_notes": "Institutional access rules at this date, not an impassable physical barrier."
+    },
+    {
+      "id": "B04-019",
+      "location": "Route to Gryffindor Tower: concealed staircase",
+      "category": "route",
+      "description": "On the route from the Entrance Hall towards Gryffindor Tower the group passes through a door hidden behind a tapestry and climbs a narrower staircase. A step halfway up lets Neville’s foot sink through; a suit of armour at the top laughs, and Ron closes its visor.",
+      "evidence": [
+        "B04-C012-P0176",
+        "B04-C012-P0181",
+        "B04-C012-P0185",
+        "B04-C012-P0186"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "No intervening route or floor number is given. The narration calls this one of many Hogwarts trick stairs; model this local trap without making every staircase identical."
+    },
+    {
+      "id": "B04-020",
+      "location": "Gryffindor Tower entrance and common room",
+      "category": "interior",
+      "description": "A large portrait of the Fat Lady in pink silk hides the entrance. After the password she swings forward to expose a hole in the wall. The circular common room has a crackling fire, squashy armchairs, tables, and a doorway to the girls’ dormitories.",
+      "evidence": [
+        "B04-C012-P0187",
+        "B04-C012-P0188",
+        "B04-C012-P0189",
+        "B04-C012-P0190"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "Password at this visit is Balderdash. Retain a climb-through wall opening and a separate girls’ dormitory doorway; the opening’s exact height is unspecified."
+    },
+    {
+      "id": "B04-021",
+      "location": "Gryffindor boys’ fourth-year dormitory",
+      "category": "interior",
+      "description": "A final spiral staircase reaches the boys’ dormitory at the top of the Tower. Five four-poster beds with deep crimson hangings stand against the walls, trunks at their feet. Bedside tables and headboards support Dean’s Krum and West Ham posters and Seamus’s Ireland rosette; warming pans have been placed in the sheets.",
+      "evidence": [
+        "B04-C012-P0191",
+        "B04-C012-P0193"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "Specific to this dormitory and date. Harry attributes the warming pans to house-elves without witnessing placement; do not infer other dormitories’ bed counts."
+    },
+    {
+      "id": "B04-022",
+      "location": "Great Hall breakfast",
+      "category": "magic",
+      "description": "The ceiling displays pewter-grey clouds after the storm; around a hundred owls fly through the open windows and circle the house tables delivering post.",
+      "evidence": [
+        "B04-C013-P0001",
+        "B04-C013-P0008"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1994",
+      "model_notes": "Establishes functional window entry for a large owl flight; the owl count is approximate and does not give window dimensions."
+    },
+    {
+      "id": "B04-023",
+      "location": "Vegetable path and greenhouse three",
+      "category": "route",
+      "description": "The pupils cross a sodden vegetable path to greenhouse three, where black slug-like Bubotubers protrude upright from soil and produce a petrol-smelling yellow-green liquid when squeezed.",
+      "evidence": [
+        "B04-C013-P0009",
+        "B04-C013-P0010",
+        "B04-C013-P0012",
+        "B04-C013-P0013"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1994",
+      "model_notes": "Keep the source wording vegetable path; its exact planting layout is not established. The plants and collecting bottles are a dated lesson installation."
+    },
+    {
+      "id": "B04-024",
+      "location": "Greenhouses to Hagrid’s cabin",
+      "category": "route",
+      "description": "A booming castle bell is audible in the grounds. After Herbology the Hufflepuffs go up stone steps for Transfiguration, while the Gryffindors head in the other direction down a sloping lawn towards Hagrid’s small wooden cabin at the Forbidden Forest edge. They later walk back uphill to the castle for lunch.",
+      "evidence": [
+        "B04-C013-P0017",
+        "B04-C013-P0041"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1994",
+      "model_notes": "Defines relative slope and route branching, not an immediate adjacency between the greenhouse and the Transfiguration classroom."
+    },
+    {
+      "id": "B04-025",
+      "location": "Hagrid’s cabin lesson area",
+      "category": "temporary",
+      "description": "Several open wooden crates stand on the ground outside the cabin, each containing about a hundred newly hatched six-inch Blast-Ended Skrewts. The area has a rotting-fish smell, rattles, small explosions and sparks.",
+      "evidence": [
+        "B04-C013-P0018",
+        "B04-C013-P0021",
+        "B04-C013-P0023",
+        "B04-C013-P0024"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1994",
+      "model_notes": "A dated teaching setup; creature counts are approximate. Crates can be approached from the outside lesson area."
+    },
+    {
+      "id": "B04-026",
+      "location": "North Tower Divination access",
+      "category": "route",
+      "description": "At the top of a tightly spiralling staircase in North Tower a silver stepladder leads through a circular ceiling trapdoor into Trelawney’s room.",
+      "evidence": [
+        "B04-C013-P0050"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1994",
+      "model_notes": "Preserve both the staircase and the ladder stage. The route to North Tower and its exact floor level are unspecified."
+    },
+    {
+      "id": "B04-027",
+      "location": "Divination classroom",
+      "category": "interior",
+      "description": "The circular room has closed curtains, dim reddish light from many lamps covered with scarves and shawls, and a sweet-smelling hot fire. Chintz chairs and pouffes crowd the space around small circular tables. Trelawney sits in a large winged armchair before the fire facing the class.",
+      "evidence": [
+        "B04-C013-P0051",
+        "B04-C013-P0055",
+        "B04-C013-P0057",
+        "B04-C013-P0062"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1994",
+      "model_notes": "Furnish densely while retaining paths through occupied seating. Closed curtains describe the customary state here, not a lack of windows."
+    },
+    {
+      "id": "B04-028",
+      "location": "North Tower to Entrance Hall",
+      "category": "route",
+      "description": "After Divination the pupils descend staircases towards dinner in the Great Hall and reach the Entrance Hall, where pupils queue.",
+      "evidence": [
+        "B04-C013-P0076",
+        "B04-C013-P0079"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1994",
+      "model_notes": "A descending route is explicit; the text does not enumerate the flights or establish a direct single stair."
+    },
+    {
+      "id": "B04-029",
+      "location": "Entrance Hall floor and dungeon access",
+      "category": "interior",
+      "description": "The Entrance Hall floor is stone-flagged. The marble staircase descends into the Hall; from here Malfoy moves towards the dungeons, and Moody later escorts him that way to see Snape. Footsteps and shouts echo in the Hall.",
+      "evidence": [
+        "B04-C013-P0098",
+        "B04-C013-P0100",
+        "B04-C013-P0107",
+        "B04-C013-P0111",
+        "B04-C013-P0113",
+        "B04-C013-P0125",
+        "B04-C013-P0127"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1994",
+      "model_notes": "Dungeon access is connected to the Hall but its doorway position and intervening steps are unstated. The magical ferret incident adds no permanent architectural damage."
+    },
+    {
+      "id": "B04-030",
+      "location": "Defence Against the Dark Arts classroom",
+      "category": "furnishing",
+      "description": "Pupils have chairs and desks, including three seats directly before the teacher’s wooden desk. Moody stores a jar of spiders in a desk drawer and conducts demonstrations on its top. A blackboard stands within Harry’s line of sight from the front seats.",
+      "evidence": [
+        "B04-C014-P0011",
+        "B04-C014-P0012",
+        "B04-C014-P0023",
+        "B04-C014-P0028",
+        "B04-C014-P0051",
+        "B04-C014-P0061",
+        "B04-C014-P0067"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Thursday of term, September 1994",
+      "model_notes": "The pupils’ desk is solid wood; the teacher’s desktop is also explicitly wooden. The mention of throwing a spider from a window is a hypothetical action, not a demonstrated exit."
+    },
+    {
+      "id": "B04-031",
+      "location": "Side passage near Defence classroom",
+      "category": "route",
+      "description": "After leaving the classroom, the pupils find Neville halfway along a side passage opposite a stone wall. Moody meets them there, offers to take Neville up to his office to see books, and leads him away around a corner.",
+      "evidence": [
+        "B04-C014-P0075",
+        "B04-C014-P0079",
+        "B04-C014-P0080",
+        "B04-C014-P0088",
+        "B04-C014-P0089",
+        "B04-C014-P0094",
+        "B04-C014-P0095",
+        "B04-C014-P0096"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Thursday of term, September 1994",
+      "model_notes": "Preserve a nearby branching passage and corner. Up to the office is Moody’s wording, not a fully traced stair route; books in the office are reported."
+    },
+    {
+      "id": "B04-032",
+      "location": "Gryffindor common room window",
+      "category": "interior",
+      "description": "A moonlit window-sill can support Hedwig outside the common room. Harry opens the window; she flies across the room to a table and later leaves through the opening.",
+      "evidence": [
+        "B04-C014-P0159",
+        "B04-C014-P0160",
+        "B04-C014-P0161",
+        "B04-C014-P0177",
+        "B04-C014-P0178"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Thursday of term, September 1994",
+      "model_notes": "An operable exterior window with a sill and clear flight path. No compass bearing, size, or elevation is given."
+    },
+    {
+      "id": "B04-033",
+      "location": "Owlery feeding",
+      "category": "furnishing",
+      "description": "Harry directs Hedwig up to the Owlery for food.",
+      "evidence": [
+        "B04-C014-P0177"
+      ],
+      "certainty": "reported",
+      "temporal": "First Thursday of term, September 1994",
+      "model_notes": "Reports the Owlery’s feeding function and Harry’s upward direction, not a directly observed feeder or exact route."
+    },
+    {
+      "id": "B04-034",
+      "location": "Gryffindor Tower to Owlery",
+      "category": "route",
+      "description": "Harry leaves the portrait hole and makes his way upwards through the castle, passing a large vase halfway along the fourth-floor corridor, to the Owlery at the top of West Tower.",
+      "evidence": [
+        "B04-C015-P0005"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early September 1994, dawn",
+      "model_notes": "Preserve the narrated route despite any assumed floor relationships; it does not enumerate every stair or identify where the climb begins. Peeves attempts to tip the vase during this visit."
+    },
+    {
+      "id": "B04-035",
+      "location": "Owlery, West Tower",
+      "category": "interior",
+      "description": "The Owlery is a circular stone room with unglazed window openings and cold draughts. Straw, owl droppings, and regurgitated mouse and vole skeletons cover the slippery floor. Perches rise nearly to the top of the tower and hold hundreds of owls. Harry takes Hedwig to a wall opening and watches her fly into the sunrise.",
+      "evidence": [
+        "B04-C015-P0006",
+        "B04-C015-P0007",
+        "B04-C015-P0008",
+        "B04-C015-P0009"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early September 1994, dawn",
+      "model_notes": "No fixed compass direction is given for a particular opening; the sunrise is a sightline in this scene. Different owl breeds share the perches."
+    },
+    {
+      "id": "B04-036",
+      "location": "Defence Against the Dark Arts classroom",
+      "category": "temporary",
+      "description": "Moody moves the classroom desks aside with his wand, leaving a large clear central area for Imperius practice. A desk remains close enough for Harry to collide with and knock over.",
+      "evidence": [
+        "B04-C015-P0016",
+        "B04-C015-P0021",
+        "B04-C015-P0031"
+      ],
+      "certainty": "explicit",
+      "temporal": "September–October 1994",
+      "model_notes": "A movable teaching layout, with no dimensions or reported structural damage."
+    },
+    {
+      "id": "B04-037",
+      "location": "Entrance Hall tournament notice",
+      "category": "temporary",
+      "description": "A large tournament notice is erected at the foot of the marble staircase, where the crowd reading it obstructs passage through the Entrance Hall. It directs pupils to assemble in front of the castle for the foreign delegations’ arrival.",
+      "evidence": [
+        "B04-C015-P0048",
+        "B04-C015-P0049",
+        "B04-C015-P0050",
+        "B04-C015-P0052",
+        "B04-C015-P0056"
+      ],
+      "certainty": "explicit",
+      "temporal": "Week before 30 October 1994",
+      "model_notes": "A temporary freestanding or erected sign; construction is unstated. Its announced date is 30 October."
+    },
+    {
+      "id": "B04-038",
+      "location": "Castle portraits and armour",
+      "category": "temporary",
+      "description": "Before the guests arrive, grimy portraits are scrubbed and their subjects appear pink-faced and uncomfortable. Suits of armour are polished until they gleam and move without squeaking.",
+      "evidence": [
+        "B04-C015-P0063"
+      ],
+      "certainty": "explicit",
+      "temporal": "Week before 30 October 1994",
+      "model_notes": "A cleaning state transition affecting existing furnishings; the individual frames and armour positions are not given."
+    },
+    {
+      "id": "B04-039",
+      "location": "Great Hall tournament banners",
+      "category": "temporary",
+      "description": "Enormous silk house banners hang on the Hall walls: red with a gold lion, blue with a bronze eagle, yellow with a black badger, and green with a silver serpent. The largest banner, behind the staff table, bears the combined Hogwarts arms around an H.",
+      "evidence": [
+        "B04-C015-P0066"
+      ],
+      "certainty": "explicit",
+      "temporal": "30 October 1994",
+      "model_notes": "Retain the stated bronze Ravenclaw eagle and the location of the larger school banner."
+    },
+    {
+      "id": "B04-040",
+      "location": "House-elf maintenance",
+      "category": "interior",
+      "description": "Hermione describes house-elves changing bed sheets, lighting fires, cleaning classrooms and cooking food. George says he and Fred have repeatedly visited the kitchens for food.",
+      "evidence": [
+        "B04-C015-P0083",
+        "B04-C015-P0086",
+        "B04-C015-P0087",
+        "B04-C015-P0088"
+      ],
+      "certainty": "reported",
+      "temporal": "September–October 1994",
+      "model_notes": "Reported servicing and student kitchen access. This passage supplies no kitchen entrance route."
+    },
+    {
+      "id": "B04-041",
+      "location": "Castle forecourt and grounds sightlines",
+      "category": "exterior",
+      "description": "Pupils file down the front steps and stand in rows in front of the castle, with the drive descending towards the front gates. From the top of the lawns they overlook the grounds and have a clear view of the lake’s surface. The moon is seen over the Forest; light streams outside from the Entrance Hall and front doors.",
+      "evidence": [
+        "B04-C015-P0103",
+        "B04-C015-P0104",
+        "B04-C015-P0117",
+        "B04-C015-P0121",
+        "B04-C015-P0147",
+        "B04-C015-P0151",
+        "B04-C015-P0152",
+        "B04-C015-P0154"
+      ],
+      "certainty": "explicit",
+      "temporal": "30 October 1994, dusk",
+      "model_notes": "Use these specific viewpoints and relative slopes without inferring compass bearings or that every part of the shore is visible."
+    },
+    {
+      "id": "B04-042",
+      "location": "Hogwarts grounds Apparition restriction",
+      "category": "magic",
+      "description": "Hermione states that Apparition cannot be performed inside the Hogwarts grounds.",
+      "evidence": [
+        "B04-C015-P0108",
+        "B04-C015-P0109"
+      ],
+      "certainty": "reported",
+      "temporal": "30 October 1994",
+      "model_notes": "A reported magical boundary condition; no perimeter dimensions or exception mechanism is supplied."
+    },
+    {
+      "id": "B04-043",
+      "location": "Beauxbatons carriage arrival",
+      "category": "temporary",
+      "description": "A house-sized powder-blue carriage flies over the Forest canopy and lands near the waiting pupils outside the castle. It has enormous wheels, a door emblazoned with crossed golden wands each emitting three stars, and fold-out golden steps. Twelve winged palomino horses, each elephant-sized, draw it.",
+      "evidence": [
+        "B04-C015-P0113",
+        "B04-C015-P0114",
+        "B04-C015-P0117",
+        "B04-C015-P0118",
+        "B04-C015-P0119",
+        "B04-C015-P0120"
+      ],
+      "certainty": "explicit",
+      "temporal": "30 October 1994, evening",
+      "model_notes": "Temporary guest transport and its landing clearance. The exact standing position after arrival is not yet specified."
+    },
+    {
+      "id": "B04-044",
+      "location": "Beauxbatons horse care",
+      "category": "temporary",
+      "description": "Madame Maxime says her powerful horses require forceful handling and drink only single-malt whisky; Dumbledore assigns Hagrid to their care.",
+      "evidence": [
+        "B04-C015-P0131",
+        "B04-C015-P0132",
+        "B04-C015-P0134",
+        "B04-C015-P0135",
+        "B04-C015-P0136",
+        "B04-C015-P0137"
+      ],
+      "certainty": "reported",
+      "temporal": "30 October 1994 onwards",
+      "model_notes": "Reported care requirement useful for the later temporary paddock; no stable is established here."
+    },
+    {
+      "id": "B04-045",
+      "location": "Lake and Durmstrang ship arrival",
+      "category": "magic",
+      "description": "Rumbling and sucking sounds precede bubbles, waves spilling over muddy banks, and a whirlpool in the middle of the lake. A mast, rigging and skeletal-looking ship rise from it; dim misty lights shine at the portholes. Once fully afloat the ship glides to shore, drops anchor in the shallows, and lowers a plank onto the bank. The delegation walks uphill across the lawns to the castle.",
+      "evidence": [
+        "B04-C015-P0145",
+        "B04-C015-P0146",
+        "B04-C015-P0147",
+        "B04-C015-P0148",
+        "B04-C015-P0149",
+        "B04-C015-P0150",
+        "B04-C015-P0151",
+        "B04-C015-P0152"
+      ],
+      "certainty": "explicit",
+      "temporal": "30 October 1994, evening",
+      "model_notes": "A temporary magical arrival and mooring, not evidence for a permanent lake drain. No actual underwater route or external origin is visible."
+    },
+    {
+      "id": "B04-046",
+      "location": "Great Hall guest seating",
+      "category": "temporary",
+      "description": "Beauxbatons pupils sit at the Ravenclaw table and Durmstrang at Slytherin. Filch adds four staff chairs, two on either side of Dumbledore: Maxime sits to his left with Crouch beyond her, and Bagman sits beyond Karkaroff on the other side. The ceiling shows a black starry sky.",
+      "evidence": [
+        "B04-C016-P0008",
+        "B04-C016-P0013",
+        "B04-C016-P0017",
+        "B04-C016-P0018",
+        "B04-C016-P0021",
+        "B04-C016-P0051"
+      ],
+      "certainty": "explicit",
+      "temporal": "30 October 1994 feast",
+      "model_notes": "A dated additional seating state; do not permanently enlarge the normal staff complement."
+    },
+    {
+      "id": "B04-047",
+      "location": "Great Hall Goblet presentation",
+      "category": "temporary",
+      "description": "Filch brings an ancient-looking wooden chest encrusted with jewels to the table before Dumbledore. Three wand taps open its creaking lid; Dumbledore removes the large roughly hewn wooden Goblet, filled with blue-white flames, and displays it on the closed chest.",
+      "evidence": [
+        "B04-C016-P0064",
+        "B04-C016-P0065",
+        "B04-C016-P0068",
+        "B04-C016-P0069"
+      ],
+      "certainty": "explicit",
+      "temporal": "30 October 1994 feast",
+      "model_notes": "Portable tournament equipment, large enough to be seen across the Hall."
+    },
+    {
+      "id": "B04-048",
+      "location": "Durmstrang ship accommodation",
+      "category": "temporary",
+      "description": "Karkaroff directs his students back to the ship after the feast and offers to send mulled wine from the kitchens.",
+      "evidence": [
+        "B04-C016-P0077",
+        "B04-C016-P0078",
+        "B04-C016-P0079"
+      ],
+      "certainty": "reported",
+      "temporal": "30 October 1994 onwards",
+      "model_notes": "Reported use of the ship as guest accommodation, rather than a Hogwarts dormitory allocation. No cabins are described."
+    },
+    {
+      "id": "B04-049",
+      "location": "Entrance Hall Goblet and Age Line",
+      "category": "magic",
+      "description": "The Goblet stands in the centre of the Entrance Hall on the stool normally used for the Sorting Hat. A thin golden circle is marked on the floor ten feet around it in every direction. Dumbledore says under-seventeens cannot cross; Fred and George’s Ageing Potion fails and the line ejects them onto the cold stone floor ten feet away, giving them white beards. Names dropped into the Goblet briefly turn its blue-white fire red and produce sparks.",
+      "evidence": [
+        "B04-C016-P0070",
+        "B04-C016-P0071",
+        "B04-C016-P0094",
+        "B04-C016-P0107",
+        "B04-C016-P0108",
+        "B04-C016-P0133"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1994, before selection",
+      "model_notes": "Preserve both the stated ten-foot extent around the Goblet and the separately stated ejection distance. Neither should be silently converted into a ten-foot diameter. The age restriction is explained and then observed."
+    },
+    {
+      "id": "B04-050",
+      "location": "Entrance Hall to hospital wing",
+      "category": "route",
+      "description": "Dumbledore tells the bearded twins to go up to Madam Pomfrey, and they depart for the hospital wing.",
+      "evidence": [
+        "B04-C016-P0110",
+        "B04-C016-P0111"
+      ],
+      "certainty": "reported",
+      "temporal": "31 October 1994, morning",
+      "model_notes": "An upward direction is reported; the scene does not trace the stairs or specify the hospital floor."
+    },
+    {
+      "id": "B04-051",
+      "location": "Great Hall Hallowe’en decorations",
+      "category": "temporary",
+      "description": "Live bats fly around the enchanted ceiling and hundreds of carved pumpkins occupy the Hall’s corners. For the selection ceremony Dumbledore extinguishes all candles except those in the pumpkins, leaving semi-darkness dominated by the bright Goblet.",
+      "evidence": [
+        "B04-C016-P0112",
+        "B04-C016-P0183"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1994",
+      "model_notes": "Dated lighting and decorations. The text does not state explicitly whether the previous house banners have been removed."
+    },
+    {
+      "id": "B04-052",
+      "location": "Beauxbatons carriage and paddock",
+      "category": "temporary",
+      "description": "The carriage is parked two hundred yards from Hagrid’s front door near the Forest edge. Students climb inside it, and its winged horses graze in a makeshift paddock alongside.",
+      "evidence": [
+        "B04-C016-P0140"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1994 onwards",
+      "model_notes": "A measured separation from the cabin front door, without a compass bearing. The temporary paddock is adjacent to the carriage."
+    },
+    {
+      "id": "B04-053",
+      "location": "Hagrid’s pumpkin patch and Skrewt boxes",
+      "category": "temporary",
+      "description": "Hagrid says the surviving Skrewts, now nearly three feet long and about twenty in number, are kept in separate boxes out by the pumpkin patch because they have begun killing one another.",
+      "evidence": [
+        "B04-C016-P0145",
+        "B04-C016-P0147"
+      ],
+      "certainty": "reported",
+      "temporal": "31 October 1994",
+      "model_notes": "Reported dated husbandry arrangement; the pumpkin patch’s distance or orientation relative to the cabin is unspecified."
+    },
+    {
+      "id": "B04-054",
+      "location": "Hagrid’s cabin interior",
+      "category": "interior",
+      "description": "The cabin contains a single room with a gigantic patchwork-covered bed in one corner, a chest of drawers beside it, and an enormous wooden table and chairs before the fire. Cured hams and dead birds hang from the ceiling over the table. Rain is audible at the window.",
+      "evidence": [
+        "B04-C016-P0149",
+        "B04-C016-P0154",
+        "B04-C016-P0161"
+      ],
+      "certainty": "explicit",
+      "temporal": "30–31 October 1994",
+      "model_notes": "Explicit single-room plan; retain oversized furnishings while leaving actual dimensions unassigned."
+    },
+    {
+      "id": "B04-055",
+      "location": "Hagrid’s window and water barrel",
+      "category": "grounds",
+      "description": "A water barrel stands outside the cabin window. From inside, Harry and his friends see Hagrid washing at it and see Maxime and her pupils emerging from their carriage; they can see Hagrid speaking to Maxime but cannot hear the conversation.",
+      "evidence": [
+        "B04-C016-P0166",
+        "B04-C016-P0169",
+        "B04-C016-P0170"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1994, evening",
+      "model_notes": "Connect this particular cabin window with barrel and carriage sightlines; the two-hundred-yard carriage distance does not prove every part of that view is equally distant."
+    },
+    {
+      "id": "B04-056",
+      "location": "Cabin and lake to castle routes",
+      "category": "route",
+      "description": "From Hagrid’s cabin the pupils walk uphill over sloping lawns towards the castle. They see the Durmstrang party also coming uphill from the lake and entering the castle front doors ahead of them.",
+      "evidence": [
+        "B04-C016-P0172",
+        "B04-C016-P0174",
+        "B04-C016-P0176"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1994, evening",
+      "model_notes": "Two approaches converge on the front entrance. Neither exact junction nor path surfacing is given."
+    },
+    {
+      "id": "B04-057",
+      "location": "Great Hall championship selection layout",
+      "category": "temporary",
+      "description": "For selection the Goblet is moved from the Entrance Hall to the staff table before Dumbledore’s chair. Champions are instructed to go along the staff table into the next chamber through the door behind it; Krum turns right at the table to reach it. Fleur walks between Ravenclaw and Hufflepuff; Hufflepuff is the next table from Gryffindor.",
+      "evidence": [
+        "B04-C016-P0177",
+        "B04-C016-P0182",
+        "B04-C016-P0188",
+        "B04-C016-P0192",
+        "B04-C016-P0194",
+        "B04-C016-P0197"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1994 selection",
+      "model_notes": "Krum’s right turn is from his approach towards the staff table. These are local route constraints, not a complete overhead seating plan."
+    },
+    {
+      "id": "B04-058",
+      "location": "Great Hall to champions’ chamber",
+      "category": "route",
+      "description": "Harry walks between Gryffindor and Hufflepuff to the staff table, passes Hagrid’s end seat and enters the smaller room beyond the rear door. Great Hall voices are audible when its door is open.",
+      "evidence": [
+        "B04-C017-P0010",
+        "B04-C017-P0011",
+        "B04-C017-P0012",
+        "B04-C017-P0024"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1994, after selection",
+      "model_notes": "A contiguous route and acoustic connection. The perceived very long walk is subjective, not a distance measurement."
+    },
+    {
+      "id": "B04-059",
+      "location": "Chamber behind Great Hall",
+      "category": "interior",
+      "description": "Paintings of witches and wizards line the smaller room. A roaring fireplace with a mantelpiece is opposite the entrance, and a candle-filled chandelier hangs low enough for Maxime’s head to brush it. Some parts of the room beyond the firelight remain in shadow.",
+      "evidence": [
+        "B04-C017-P0012",
+        "B04-C017-P0014",
+        "B04-C017-P0027",
+        "B04-C017-P0047"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1994, after selection",
+      "model_notes": "Maxime’s height is not measured here, so the chandelier contact gives a relational clearance only."
+    },
+    {
+      "id": "B04-060",
+      "location": "Chamber portraits and Violet",
+      "category": "magic",
+      "description": "A wizened witch moves from her painting into the adjacent frame containing a walrus-moustached wizard. Later the same witch, identified as Violet, shares the Fat Lady’s portrait at Gryffindor Tower.",
+      "evidence": [
+        "B04-C017-P0013",
+        "B04-C017-P0105",
+        "B04-C017-P0106",
+        "B04-C017-P0109"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1994, after selection",
+      "model_notes": "Observed movement and shared frames establish portrait travel. The specific route through every picture on seven staircases is Harry’s reconstruction rather than a witnessed sequence."
+    },
+    {
+      "id": "B04-061",
+      "location": "Great Hall and Entrance Hall after selection",
+      "category": "temporary",
+      "description": "The deserted Great Hall is lit by low-burning candles inside carved pumpkins, whose jagged mouths flicker. The Entrance Hall has only torchlight after the Goblet’s removal.",
+      "evidence": [
+        "B04-C017-P0092",
+        "B04-C017-P0095"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1994, after selection",
+      "model_notes": "Late Hallowe’en lighting state; does not mean permanent candles are absent elsewhere in the building."
+    },
+    {
+      "id": "B04-062",
+      "location": "Entrance Hall door beside marble staircase",
+      "category": "route",
+      "description": "Cedric takes a door to the right of the marble staircase and descends stone steps beyond it, while Harry climbs the marble staircase towards Gryffindor.",
+      "evidence": [
+        "B04-C017-P0098"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1994, after selection",
+      "model_notes": "This is Cedric’s departure towards his house celebrations; the text does not yet explicitly identify the steps’ destination. Do not conflate the door with the Great Hall’s right-hand entrance."
+    },
+    {
+      "id": "B04-063",
+      "location": "Gryffindor boys’ dormitory curtains",
+      "category": "furnishing",
+      "description": "Ron closes the hangings around his four-poster; they are dark red velvet.",
+      "evidence": [
+        "B04-C017-P0141"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1994, after selection",
+      "model_notes": "Adds the curtain material to the earlier crimson-colour description; the curtains can conceal an occupant."
+    },
+    {
+      "id": "B04-064",
+      "location": "Lakeside morning walk",
+      "category": "grounds",
+      "description": "Harry and Hermione descend from Gryffindor, cross the Entrance Hall, and walk across the lawns to the lake and moored Durmstrang ship. Owls occupy a nearby tree. A large tentacle rises from the lake to take a piece of toast floating on the surface.",
+      "evidence": [
+        "B04-C018-P0002",
+        "B04-C018-P0005",
+        "B04-C018-P0018",
+        "B04-C018-P0022",
+        "B04-C018-P0026"
+      ],
+      "certainty": "explicit",
+      "temporal": "Morning after Hallowe’en 1994",
+      "model_notes": "The tentacle is observed; this passage does not directly name its owner or establish a permanent feeding point."
+    },
+    {
+      "id": "B04-065",
+      "location": "Owlery rafters and school owls",
+      "category": "interior",
+      "description": "The Owlery has long lines of perches, straw on the floor, and high rafters to which Hedwig can fly out of reach. School owls are kept here; Hermione says anyone may borrow them.",
+      "evidence": [
+        "B04-C018-P0030",
+        "B04-C018-P0031",
+        "B04-C018-P0036",
+        "B04-C018-P0037",
+        "B04-C018-P0038"
+      ],
+      "certainty": "explicit",
+      "temporal": "Morning after Hallowe’en 1994",
+      "model_notes": "Observed structure and stock, with unrestricted borrowing as Hermione’s report. No count of school-owned versus privately owned owls is established."
+    },
+    {
+      "id": "B04-066",
+      "location": "Herbology Bouncing Bulb work area",
+      "category": "temporary",
+      "description": "Pupils share a tray while re-potting Bouncing Bulbs in Herbology; the bulbs can wriggle free and strike nearby pupils.",
+      "evidence": [
+        "B04-C018-P0042"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "A specific lesson installation. The passage does not name its greenhouse or establish that it is the same room as the earlier Bubotubers."
+    },
+    {
+      "id": "B04-067",
+      "location": "Hagrid’s cabin and Skrewt exercise lawn",
+      "category": "temporary",
+      "description": "Hagrid brings individual Skrewt crates from behind his cabin. Pupils take the now armoured, over-three-foot Skrewts on leashes across the lawn, scattering widely as the creatures blast forward several yards at a time.",
+      "evidence": [
+        "B04-C018-P0046",
+        "B04-C018-P0048",
+        "B04-C018-P0056",
+        "B04-C018-P0057"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "A dated outdoor lesson. The crates come from behind the cabin, not explicitly from an interior room or shed."
+    },
+    {
+      "id": "B04-068",
+      "location": "Charms classroom equipment",
+      "category": "furnishing",
+      "description": "During Summoning practice Hermione draws board dusters, wastepaper baskets and Lunascopes across Flitwick’s classroom.",
+      "evidence": [
+        "B04-C018-P0065"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "Identifies classroom equipment and room-crossing paths but gives no quantities or storage arrangement."
+    },
+    {
+      "id": "B04-069",
+      "location": "Potions dungeon and approach",
+      "category": "interior",
+      "description": "A dim underground stone passage runs outside Snape’s dungeon; voices echo in it. Within the classroom pupils sit at tables and desks, with Snape’s desk at the front and seating extending to the back and across the room.",
+      "evidence": [
+        "B04-C018-P0067",
+        "B04-C018-P0068",
+        "B04-C018-P0076",
+        "B04-C018-P0078",
+        "B04-C018-P0097",
+        "B04-C018-P0098",
+        "B04-C018-P0100",
+        "B04-C018-P0104",
+        "B04-C018-P0105",
+        "B04-C018-P0116"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "No fixed seating map is supplied. The badge lights brighten the passage during this incident, not as permanent illumination."
+    },
+    {
+      "id": "B04-070",
+      "location": "Potions dungeon to weighing room",
+      "category": "route",
+      "description": "Harry and Colin leave the dungeon towards steps leading into the Entrance Hall, then reach the classroom used for the Wand Weighing. Harry later goes down from that room to dinner.",
+      "evidence": [
+        "B04-C018-P0107",
+        "B04-C018-P0113",
+        "B04-C018-P0117",
+        "B04-C018-P0118",
+        "B04-C018-P0121",
+        "B04-C018-P0200",
+        "B04-C018-P0205"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "The route establishes an ascent from the dungeon and a later descent to dinner; it does not enumerate the intermediate flights or identify the weighing room’s floor."
+    },
+    {
+      "id": "B04-071",
+      "location": "Wand Weighing classroom",
+      "category": "temporary",
+      "description": "A fairly small classroom is rearranged with most desks at the back, a large central clearing, and three desks end-to-end beneath a long velvet covering before the blackboard. Five chairs stand behind them for judges; champions sit near the door. It has an open window through which conjured birds fly into daylight.",
+      "evidence": [
+        "B04-C018-P0122",
+        "B04-C018-P0170",
+        "B04-C018-P0171",
+        "B04-C018-P0172",
+        "B04-C018-P0173",
+        "B04-C018-P0192",
+        "B04-C018-P0204"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "The photographer cannot stand far enough back to frame Maxime standing, but lens and framing are unknown; do not derive a numeric room width from that problem."
+    },
+    {
+      "id": "B04-072",
+      "location": "Broom cupboard near weighing classroom",
+      "category": "interior",
+      "description": "A nearby door opens into a cramped broom cupboard. Rita seats herself on an upturned bucket and Harry on a cardboard box, using a crate of Mrs Skower’s cleaning fluid as a writing support. Closing the door leaves it dark until she conjures floating candles; light from outside is bright when Dumbledore opens it.",
+      "evidence": [
+        "B04-C018-P0132",
+        "B04-C018-P0133",
+        "B04-C018-P0134",
+        "B04-C018-P0135",
+        "B04-C018-P0136",
+        "B04-C018-P0139",
+        "B04-C018-P0165",
+        "B04-C018-P0166"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "Preserve storage contents and the temporary candle illumination. The cupboard is near the weighing classroom but not stated to open directly from it."
+    },
+    {
+      "id": "B04-073",
+      "location": "Library bookshelves",
+      "category": "furnishing",
+      "description": "Groups of pupils watch Krum from behind the library bookshelves while others read; their giggling is audible enough to distract Hermione.",
+      "evidence": [
+        "B04-C019-P0026",
+        "B04-C019-P0027"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "Establishes shelving used as visual cover and shared reading space, without a complete shelf plan."
+    },
+    {
+      "id": "B04-074",
+      "location": "Hogsmeade visit and High Street",
+      "category": "route",
+      "description": "Third-years and older are permitted a village visit. Harry and Hermione walk into Hogsmeade, visit Honeydukes and the Three Broomsticks, and see the street towards its far end. Outside Honeydukes Harry backs against its wall to avoid Rita passing from the pub.",
+      "evidence": [
+        "B04-C019-P0032",
+        "B04-C019-P0039",
+        "B04-C019-P0040",
+        "B04-C019-P0041",
+        "B04-C019-P0045",
+        "B04-C019-P0048"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "Boundary-visit context and local proximity only; no tunnel is traversed in this visit and no precise shop-to-pub distance is given."
+    },
+    {
+      "id": "B04-075",
+      "location": "Three Broomsticks",
+      "category": "interior",
+      "description": "The pub is densely crowded with Hogwarts pupils and other magical visitors. Tables extend into a corner where Harry and Hermione sit; drinks are bought separately and Rosmerta collects glasses among the tables.",
+      "evidence": [
+        "B04-C019-P0049",
+        "B04-C019-P0050",
+        "B04-C019-P0051",
+        "B04-C019-P0058",
+        "B04-C019-P0063",
+        "B04-C019-P0064"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "Village destination context only. Do not turn this into a full unrelated village inventory or infer exact floor dimensions."
+    },
+    {
+      "id": "B04-076",
+      "location": "Moody’s magical-eye visibility",
+      "category": "magic",
+      "description": "Moody recognises Harry beneath his Invisibility Cloak in the pub and states that his eye can see through such cloaks.",
+      "evidence": [
+        "B04-C019-P0064",
+        "B04-C019-P0067",
+        "B04-C019-P0069",
+        "B04-C019-P0070",
+        "B04-C019-P0071"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "A magical visibility exception relevant to stealth routes throughout the school. This is observed recognition plus a reported explanation, not general transparency to every observer."
+    },
+    {
+      "id": "B04-077",
+      "location": "Night route from castle to carriage",
+      "category": "route",
+      "description": "Harry descends the dark lawn towards lights in Hagrid’s cabin. The nearby Beauxbatons carriage is illuminated inside, and Maxime’s voice is audible as he knocks at the cabin. Hagrid then leads him from the cabin to the carriage and around the edge of the horse paddock.",
+      "evidence": [
+        "B04-C019-P0078",
+        "B04-C019-P0079",
+        "B04-C019-P0087",
+        "B04-C019-P0089",
+        "B04-C019-P0090",
+        "B04-C019-P0091",
+        "B04-C019-P0092"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late November 1994, night before first-task preparations",
+      "model_notes": "Preserve both this auditory description and the earlier two-hundred-yard carriage position without inventing a relocation."
+    },
+    {
+      "id": "B04-078",
+      "location": "Forest perimeter to hidden dragon enclosure",
+      "category": "route",
+      "description": "Hagrid leads the party around the Forest perimeter until the castle and lake are out of sight, then around a clump of trees to the dragon enclosure. On his return Harry skirts the Forest edge, encounters Karkaroff near the trees, and enters the castle front doors before climbing the marble stairs and continuing to Gryffindor.",
+      "evidence": [
+        "B04-C019-P0092",
+        "B04-C019-P0096",
+        "B04-C019-P0097",
+        "B04-C019-P0098",
+        "B04-C019-P0124",
+        "B04-C019-P0126",
+        "B04-C019-P0129",
+        "B04-C019-P0130",
+        "B04-C019-P0132",
+        "B04-C019-P0133",
+        "B04-C019-P0134"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "Tree screening and route ordering are explicit; the exact enclosure bearing and distance from castle are not. The return takes Harry from under fifteen minutes remaining to under five at the castle, but his pace is unknown."
+    },
+    {
+      "id": "B04-079",
+      "location": "Dragon holding enclosure",
+      "category": "temporary",
+      "description": "Four adult dragons occupy an enclosure fenced with thick wooden planks. About thirty keepers restrain them using chains fixed to heavy leather neck and leg straps; after Stunning them, the keepers secure chains to iron pegs driven deep into the ground. The rearing dragons’ extended mouths are fifty feet high and their fire lights the night.",
+      "evidence": [
+        "B04-C019-P0100",
+        "B04-C019-P0101",
+        "B04-C019-P0104",
+        "B04-C019-P0105",
+        "B04-C019-P0106",
+        "B04-C019-P0107",
+        "B04-C019-P0108",
+        "B04-C019-P0109"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "Temporary first-task holding installation, separate from the later spectator arena unless further evidence connects them. Do not use the dragons’ rearing height as fence height."
+    },
+    {
+      "id": "B04-080",
+      "location": "Dragon enclosure occupants and eggs",
+      "category": "temporary",
+      "description": "The enclosure holds a blue-grey horned Swedish Short-Snout, a smaller smooth green Welsh dragon, a red Chinese Fireball with facial gold spikes, and a black Hungarian Horntail with bronze tail spikes every few inches. Keepers lay huge granite-grey eggs beside the Horntail.",
+      "evidence": [
+        "B04-C019-P0100",
+        "B04-C019-P0111",
+        "B04-C019-P0112",
+        "B04-C019-P0118",
+        "B04-C019-P0119",
+        "B04-C019-P0120"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "Includes visually distinctive creatures as the enclosure’s dated contents. Charlie supplies breed names and says nesting mothers were requested; biological details do not define permanent terrain."
+    },
+    {
+      "id": "B04-081",
+      "location": "Dragon-fire clearance",
+      "category": "temporary",
+      "description": "A keeper warns that the dragons can project fire twenty feet and that the Horntail has reached forty feet.",
+      "evidence": [
+        "B04-C019-P0102"
+      ],
+      "certainty": "reported",
+      "temporal": "November 1994, before first task",
+      "model_notes": "Reported hazard ranges for modelling the temporary enclosure; do not confuse these horizontal fire ranges with the narrated fifty-foot rearing height."
+    },
+    {
+      "id": "B04-082",
+      "location": "Gryffindor fireplace communication",
+      "category": "magic",
+      "description": "In the otherwise unlit common room, the fire alone illuminates chairs and a nearby table. Sirius’s head appears in its flames for a face-to-face conversation, then vanishes with a small pop. Footsteps descending the dormitory spiral staircase can be heard from the hearth area; Harry can watch the stair’s bottom across the room.",
+      "evidence": [
+        "B04-C019-P0135",
+        "B04-C019-P0136",
+        "B04-C019-P0141",
+        "B04-C019-P0165",
+        "B04-C019-P0166",
+        "B04-C019-P0167",
+        "B04-C019-P0168",
+        "B04-C019-P0169"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "Observed magical fire communication; Sirius reports using a fireplace in another wizard’s house. Preserve the hearth-to-stair acoustic and visual relation without inventing network topology."
+    },
+    {
+      "id": "B04-083",
+      "location": "Lake circuit",
+      "category": "route",
+      "description": "Harry and Hermione walk three times around the lake before returning to the library.",
+      "evidence": [
+        "B04-C020-P0001",
+        "B04-C020-P0004"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, first-task preparation",
+      "model_notes": "Establishes that a complete walking circuit is possible in this state, not that it is a surfaced path of uniform width or known length."
+    },
+    {
+      "id": "B04-084",
+      "location": "Entrance Hall to Charms corridor",
+      "category": "route",
+      "description": "Harry follows Cedric up the marble staircase from the Entrance Hall towards the Charms corridor, where Cedric’s friends enter Flitwick’s classroom. Moody emerges from a nearby classroom and takes Harry to his office.",
+      "evidence": [
+        "B04-C020-P0020",
+        "B04-C020-P0023",
+        "B04-C020-P0024",
+        "B04-C020-P0038",
+        "B04-C020-P0039",
+        "B04-C020-P0041",
+        "B04-C020-P0043"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, first-task preparation",
+      "model_notes": "Preserve the upper route and local classroom proximity; the office’s exact floor or direct adjacency to Flitwick’s room is not stated."
+    },
+    {
+      "id": "B04-085",
+      "location": "Defence teacher’s office, previous occupants",
+      "category": "history",
+      "description": "Harry recalls the same office under Lockhart, with walls covered in smiling self-portraits, and under Lupin, who kept specimens of Dark creatures for lessons.",
+      "evidence": [
+        "B04-C020-P0047"
+      ],
+      "certainty": "explicit",
+      "temporal": "Lockhart and Lupin tenures before 1994–95",
+      "model_notes": "Narrated recollection of changing office contents, not additional rooms or permanent portrait subjects."
+    },
+    {
+      "id": "B04-086",
+      "location": "Moody’s office furnishings",
+      "category": "furnishing",
+      "description": "A large cracked glass Sneakoscope stands on the desk. A humming squiggly golden Secrecy Sensor sits on a small table in a corner. On the wall opposite Harry hangs a Foe-Glass showing indistinct moving figures instead of the room. A large trunk under the window has seven keyholes in a row.",
+      "evidence": [
+        "B04-C020-P0046",
+        "B04-C020-P0048",
+        "B04-C020-P0049",
+        "B04-C020-P0050",
+        "B04-C020-P0052",
+        "B04-C020-P0053",
+        "B04-C020-P0054"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, first-task preparation",
+      "model_notes": "Preserve the desk, corner table, wall display and under-window trunk as this occupant’s arrangement; a single view does not fix all their relative distances."
+    },
+    {
+      "id": "B04-087",
+      "location": "Moody’s office detectors",
+      "category": "magic",
+      "description": "Moody says the Secrecy Sensor vibrates at concealment or lies and constantly hums amid school activity. His extra-sensitive Sneakoscope can detect trouble roughly a mile away and has been disabled because it would not stop whistling. He says the Foe-Glass sharpens its hostile figures as danger becomes near.",
+      "evidence": [
+        "B04-C020-P0051",
+        "B04-C020-P0053"
+      ],
+      "certainty": "reported",
+      "temporal": "November 1994, first-task preparation",
+      "model_notes": "Reported operating rules, not a guarantee that the objects discriminate threats correctly or that every hum is caused by homework lies."
+    },
+    {
+      "id": "B04-088",
+      "location": "Greenhouse three Flutterby Bush",
+      "category": "temporary",
+      "description": "Hermione prunes a quivering Flutterby Bush in greenhouse three.",
+      "evidence": [
+        "B04-C020-P0074",
+        "B04-C020-P0075"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, first-task preparation",
+      "model_notes": "A dated plant and lesson placement; no permanent bed arrangement is described."
+    },
+    {
+      "id": "B04-089",
+      "location": "Unused classroom for Summoning practice",
+      "category": "interior",
+      "description": "Harry and Hermione use a free classroom for room-crossing Summoning practice. It contains chairs, which Peeves later throws across the room, driving them out after midnight.",
+      "evidence": [
+        "B04-C020-P0078",
+        "B04-C020-P0084"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, first-task preparation",
+      "model_notes": "Unnamed room; do not automatically identify it with another unused classroom in later chapters."
+    },
+    {
+      "id": "B04-090",
+      "location": "Gryffindor common room practice state",
+      "category": "temporary",
+      "description": "At two in the morning Harry practises near the fireplace amid books, quills, upturned chairs, an old Gobstones set and Neville’s toad.",
+      "evidence": [
+        "B04-C020-P0085",
+        "B04-C020-P0087",
+        "B04-C020-P0088"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night immediately before first task",
+      "model_notes": "Temporary clutter after practice, not the normal furniture layout."
+    },
+    {
+      "id": "B04-091",
+      "location": "First-task approach and champions’ tent",
+      "category": "temporary",
+      "description": "McGonagall leads Harry down the front stone steps and around the Forest edge towards the dragon enclosure. A tent erected before the screening trees faces the approach and blocks the dragons from view. Inside are low wooden stools and space for pacing; the audience passes outside, and crowd noise and amplified commentary are audible inside. A short walk from the tent enters the trees.",
+      "evidence": [
+        "B04-C020-P0093",
+        "B04-C020-P0100",
+        "B04-C020-P0103",
+        "B04-C020-P0104",
+        "B04-C020-P0105",
+        "B04-C020-P0106",
+        "B04-C020-P0110",
+        "B04-C020-P0111",
+        "B04-C020-P0116",
+        "B04-C020-P0117",
+        "B04-C020-P0126",
+        "B04-C020-P0127",
+        "B04-C020-P0128",
+        "B04-C020-P0133",
+        "B04-C020-P0140"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 November 1994, first task",
+      "model_notes": "The competition uses the place of the previously visited enclosure; no unexplained relocation is needed. Preserve the approach-facing tent and auditory connection."
+    },
+    {
+      "id": "B04-092",
+      "location": "First-task arena and stands",
+      "category": "temporary",
+      "description": "From the tent Harry passes trees and a gap in the fence into the enclosure. Newly conjured spectator stands rise above him with hundreds of faces looking down. The Horntail crouches at the far end over her eggs on hard ground, cutting yard-long gouges with her tail.",
+      "evidence": [
+        "B04-C020-P0140",
+        "B04-C020-P0141",
+        "B04-C020-P0149"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 November 1994, first task",
+      "model_notes": "Explicitly adds stands to the earlier holding site. The yard measurement is gouge length, not arena size or depth."
+    },
+    {
+      "id": "B04-093",
+      "location": "First-task aerial clearance and Summoning route",
+      "category": "magic",
+      "description": "The summoned Firebolt approaches behind Harry around the edge of the woods and enters the enclosure. Harry flies high above the dragon, circles and dives, then flies over and back across the stands to land near the enclosure entrance.",
+      "evidence": [
+        "B04-C020-P0143",
+        "B04-C020-P0144",
+        "B04-C020-P0145",
+        "B04-C020-P0146",
+        "B04-C020-P0147",
+        "B04-C020-P0150",
+        "B04-C020-P0152",
+        "B04-C020-P0153",
+        "B04-C020-P0154",
+        "B04-C020-P0157",
+        "B04-C020-P0158",
+        "B04-C020-P0160",
+        "B04-C020-P0161",
+        "B04-C020-P0163"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 November 1994, first task",
+      "model_notes": "Observed open aerial route and magical object delivery from the castle. The text does not show the Firebolt’s entire path out of its storage place. The shimmering view before arrival is Harry’s stressed perception, not a confirmed magical barrier."
+    },
+    {
+      "id": "B04-094",
+      "location": "First-aid tent at first task",
+      "category": "temporary",
+      "description": "A second tent outside the enclosure serves as first aid. It is divided into cubicles by canvas; Cedric’s sitting silhouette is visible through a partition. Pomfrey moves from Harry’s area to the adjacent treatment space.",
+      "evidence": [
+        "B04-C020-P0164",
+        "B04-C020-P0169",
+        "B04-C020-P0170",
+        "B04-C020-P0171",
+        "B04-C020-P0173",
+        "B04-C020-P0174",
+        "B04-C020-P0175",
+        "B04-C020-P0190"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 November 1994, first task",
+      "model_notes": "Separate from the champions’ waiting tent. Preserve translucent canvas partitions without inventing their number or furniture type."
+    },
+    {
+      "id": "B04-095",
+      "location": "First-task terrain changes in other trials",
+      "category": "temporary",
+      "description": "Ron reports that Cedric Transfigured a rock in the arena into a dog, while Krum’s eye spell caused his dragon to trample and crush about half the real eggs.",
+      "evidence": [
+        "B04-C020-P0191"
+      ],
+      "certainty": "reported",
+      "temporal": "24 November 1994, earlier competitors",
+      "model_notes": "Reported earlier rounds; the rock supplies a terrain object and the eggs record temporary damage. Harry did not directly see those rounds."
+    },
+    {
+      "id": "B04-096",
+      "location": "First-task judges’ position",
+      "category": "temporary",
+      "description": "After the Horntail is removed, five judges are visible at the opposite end of the enclosure in raised seats draped in gold. They display scores as large magical numerals in the air.",
+      "evidence": [
+        "B04-C020-P0192",
+        "B04-C020-P0193",
+        "B04-C020-P0195",
+        "B04-C020-P0197",
+        "B04-C020-P0198",
+        "B04-C020-P0201"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 November 1994, judging",
+      "model_notes": "Visibility is obstructed by the dragon until removal. The seats are raised but their supporting structure and height are unstated."
+    },
+    {
+      "id": "B04-097",
+      "location": "First-task return route",
+      "category": "route",
+      "description": "After revisiting the champions’ tent Harry and Ron return around the Forest edge and pass the clump of trees which screened the first dragon sighting before continuing to the castle.",
+      "evidence": [
+        "B04-C020-P0204",
+        "B04-C020-P0205",
+        "B04-C020-P0210",
+        "B04-C020-P0211",
+        "B04-C020-P0214"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 November 1994, after first task",
+      "model_notes": "Confirms the same screening clump on the return route; Rita’s hiding place is temporary."
+    },
+    {
+      "id": "B04-098",
+      "location": "Owlery exterior clearance",
+      "category": "exterior",
+      "description": "After Ron releases Pigwidgeon from an Owlery window, the owl drops twelve feet before recovering flight.",
+      "evidence": [
+        "B04-C021-P0004",
+        "B04-C021-P0008"
+      ],
+      "certainty": "explicit",
+      "temporal": "Evening after first task, November 1994",
+      "model_notes": "Establishes at least twelve feet of unobstructed descent outside that opening, not its total elevation above ground."
+    },
+    {
+      "id": "B04-099",
+      "location": "Gryffindor first-task celebration",
+      "category": "temporary",
+      "description": "Cakes and flagons of pumpkin juice and Butterbeer cover common-room surfaces. Fireworks fill the air with stars and sparks, and Dean’s new banners depict Harry flying around the Horntail and Cedric with his head aflame.",
+      "evidence": [
+        "B04-C021-P0009",
+        "B04-C021-P0010"
+      ],
+      "certainty": "explicit",
+      "temporal": "Evening after first task, November 1994",
+      "model_notes": "Temporary party dressing. The open golden egg adds a loud screeching sound later in the scene, but is a carried task prop rather than architecture."
+    },
+    {
+      "id": "B04-100",
+      "location": "Castle and lake in early winter",
+      "category": "temporary",
+      "description": "Wind and sleet arrive in December. The castle is draughty but has thick walls and fires; on the lake the Durmstrang ship pitches in high winds with black sails billowing.",
+      "evidence": [
+        "B04-C021-P0042"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early December 1994",
+      "model_notes": "Observed weather state and contrasting shelter. Harry only supposes the carriage is chilly; that interior temperature is not verified."
+    },
+    {
+      "id": "B04-101",
+      "location": "Beauxbatons paddock trough",
+      "category": "furnishing",
+      "description": "A trough in a corner of the temporary horse paddock contains single-malt whisky; strong fumes reach the nearby Care of Magical Creatures class.",
+      "evidence": [
+        "B04-C021-P0042"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early December 1994",
+      "model_notes": "Dated paddock fixture and an acoustic/olfactory proximity cue; no trough dimensions are given."
+    },
+    {
+      "id": "B04-102",
+      "location": "Pumpkin-patch Skrewt escape and damage",
+      "category": "temporary",
+      "description": "In the windy pumpkin patch Hagrid tries to shut ten nearly six-foot Skrewts into enormous boxes lined with pillows and fluffy blankets. They break out, leaving smouldering box wreckage. One blasts fire that withers nearby pumpkin plants; nine others are restrained and tied up.",
+      "evidence": [
+        "B04-C021-P0043",
+        "B04-C021-P0044",
+        "B04-C021-P0045",
+        "B04-C021-P0046",
+        "B04-C021-P0047",
+        "B04-C021-P0051"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early December 1994 lesson",
+      "model_notes": "Record before-and-after box state and plant damage, not a permanent ruined garden."
+    },
+    {
+      "id": "B04-103",
+      "location": "Hagrid’s cabin rear access and garden fence",
+      "category": "grounds",
+      "description": "Pupils flee the pumpkin patch through the cabin’s back door and barricade it. Harry and Ron retreat against an outside cabin wall, while Rita watches by leaning on Hagrid’s garden fence. Pupils inside watch through the glazed cabin windows.",
+      "evidence": [
+        "B04-C021-P0046",
+        "B04-C021-P0048",
+        "B04-C021-P0050",
+        "B04-C021-P0065"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early December 1994 lesson",
+      "model_notes": "Connects pumpkin patch, rear door, exterior wall, garden fence and outward window views. The fence is not described as a defensive perimeter."
+    },
+    {
+      "id": "B04-104",
+      "location": "Divination stair ventilation",
+      "category": "interior",
+      "description": "Leaving Trelawney’s room, Harry and Ron regain fresher air on the staircase beneath it.",
+      "evidence": [
+        "B04-C021-P0083"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late November–early December 1994",
+      "model_notes": "A relative air-quality observation supporting the perfumed, enclosed classroom state; no additional vent or doorway is established."
+    },
+    {
+      "id": "B04-105",
+      "location": "Library shelving rows",
+      "category": "furnishing",
+      "description": "Ron watches Krum from behind bookshelves and finds six or seven girls hidden in the next row of books doing the same.",
+      "evidence": [
+        "B04-C021-P0085"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late November–early December 1994",
+      "model_notes": "Adds multiple neighbouring shelving rows and inter-row hiding space without determining their number or alignment."
+    },
+    {
+      "id": "B04-106",
+      "location": "Gryffindor Tower to kitchen corridor",
+      "category": "route",
+      "description": "Hermione leads Harry and Ron from the Gryffindor portrait corridor down through six floors, then down the marble staircase into the Entrance Hall. Turning left at its foot, they take the door Cedric used and descend a flight of stone steps into a broad, brightly torch-lit stone corridor decorated mainly with cheerful food paintings.",
+      "evidence": [
+        "B04-C021-P0088",
+        "B04-C021-P0090",
+        "B04-C021-P0094",
+        "B04-C021-P0097",
+        "B04-C021-P0099",
+        "B04-C021-P0184",
+        "B04-C021-P0185"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late November–early December 1994",
+      "model_notes": "Left is from the descending-stair viewpoint, consistent with the earlier door on the staircase’s right when viewed from the Hall. This corridor differs from Snape’s gloomy dungeon approach; do not merge them."
+    },
+    {
+      "id": "B04-107",
+      "location": "Kitchen fruit portrait entrance",
+      "category": "magic",
+      "description": "A painting showing a gigantic silver fruit bowl stands partway down the corridor. Tickling its huge green pear makes it wriggle and laugh, then transform into a large green door handle; pulling the handle opens the concealed kitchen door.",
+      "evidence": [
+        "B04-C021-P0100",
+        "B04-C021-P0103",
+        "B04-C021-P0108"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late November–early December 1994",
+      "model_notes": "This directly observed operation confirms Fred’s earlier directions in this chapter. Keep the handle transformation and opening action distinct."
+    },
+    {
+      "id": "B04-108",
+      "location": "Hogwarts kitchen structure",
+      "category": "interior",
+      "description": "The kitchen is an enormous high-ceilinged room as large as the Great Hall above it, with stone walls and a flagged stone floor. Glittering brass pots and pans are piled around the walls. A great brick fireplace occupies the far end, with a stool by it.",
+      "evidence": [
+        "B04-C021-P0109",
+        "B04-C021-P0120",
+        "B04-C021-P0122",
+        "B04-C021-P0125",
+        "B04-C021-P0140"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late November–early December 1994",
+      "model_notes": "Explicit scale relation to the Great Hall and far-end fireplace placement; no numeric dimensions or ceiling construction are supplied."
+    },
+    {
+      "id": "B04-109",
+      "location": "Kitchen tables and staffing",
+      "category": "furnishing",
+      "description": "Four long wooden kitchen tables stand exactly beneath the corresponding four house tables in the Great Hall. They are bare after dinner. At least a hundred house-elves in Hogwarts-crested tea-towels occupy the kitchen, serve tea on a silver tray, and gather at the door when visitors leave.",
+      "evidence": [
+        "B04-C021-P0118",
+        "B04-C021-P0119",
+        "B04-C021-P0129",
+        "B04-C021-P0161",
+        "B04-C021-P0180",
+        "B04-C021-P0181"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late November–early December 1994",
+      "model_notes": "Table alignment is narrated as an observation. No separate fifth staff-service table is described; do not silently add one."
+    },
+    {
+      "id": "B04-110",
+      "location": "Kitchen-to-Hall food transfer",
+      "category": "magic",
+      "description": "Harry supposes that before dinner the lower tables carried the dishes which were then sent through the ceiling to their counterparts in the Great Hall.",
+      "evidence": [
+        "B04-C021-P0118"
+      ],
+      "certainty": "inference",
+      "temporal": "Late November–early December 1994",
+      "model_notes": "Explicitly Harry’s deduction from the observed alignment and timing; the actual transfer is not witnessed in this scene."
+    },
+    {
+      "id": "B04-111",
+      "location": "Transfiguration classroom",
+      "category": "furnishing",
+      "description": "A large cage of guinea-fowl and transformed guinea-pigs stands on McGonagall’s desk. Homework is written on the blackboard, visible from the pupils’ working area including seats at the back.",
+      "evidence": [
+        "B04-C022-P0002",
+        "B04-C022-P0003",
+        "B04-C022-P0014"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1994, end of term",
+      "model_notes": "The cage is a lesson prop; the desk and blackboard are classroom fixtures. No room shape is given."
+    },
+    {
+      "id": "B04-112",
+      "location": "Yule Ball Great Hall access",
+      "category": "temporary",
+      "description": "McGonagall announces that the Great Hall ball runs from eight until midnight on Christmas Day, open to fourth-years and above and to younger invited partners; the champions and partners open the dancing.",
+      "evidence": [
+        "B04-C022-P0005",
+        "B04-C022-P0007",
+        "B04-C022-P0015",
+        "B04-C022-P0018",
+        "B04-C022-P0021"
+      ],
+      "certainty": "reported",
+      "temporal": "Announced for Christmas Day 1994",
+      "model_notes": "Reported rules and scheduled use before the event, not confirmation of a room layout."
+    },
+    {
+      "id": "B04-113",
+      "location": "Sheltered work area behind Hagrid’s cabin",
+      "category": "furnishing",
+      "description": "For the final Care of Magical Creatures lesson of term pupils shelter behind the cabin at a trestle table, preparing Skrewt food with knives and a large metal bowl.",
+      "evidence": [
+        "B04-C022-P0041",
+        "B04-C022-P0043",
+        "B04-C022-P0044"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1994, end of term",
+      "model_notes": "A rear outdoor work area; the cabin itself provides shelter without establishing a roofed outbuilding."
+    },
+    {
+      "id": "B04-114",
+      "location": "Castle Christmas decorations",
+      "category": "temporary",
+      "description": "Everlasting icicles hang from the marble staircase banisters. Twelve Great Hall Christmas trees carry luminous holly berries and real hooting golden owls. Suits of armour sing carols when passed; Peeves hides inside them and adds rude lyrics until Filch removes him.",
+      "evidence": [
+        "B04-C022-P0095"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1994, end of term",
+      "model_notes": "Dated decorations and triggered armour audio. Icicles are magical persistent decorations, not evidence of a frozen interior."
+    },
+    {
+      "id": "B04-115",
+      "location": "Moaning Myrtle’s bathroom",
+      "category": "interior",
+      "description": "Moaning Myrtle haunts the girls’ toilets on the second floor.",
+      "evidence": [
+        "B04-C022-P0097"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1994, end of term",
+      "model_notes": "Narratorial identification of location and level. No bathroom plan is supplied in this paragraph."
+    },
+    {
+      "id": "B04-116",
+      "location": "Gryffindor girls’ dormitory access",
+      "category": "route",
+      "description": "Hermione leaves the common room by the girls’ staircase, later described as the route towards the girls’ dormitories.",
+      "evidence": [
+        "B04-C022-P0093",
+        "B04-C022-P0164"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1994, end of term",
+      "model_notes": "Adds a staircase beyond the previously noted girls’ dormitory doorway; does not specify number of flights."
+    },
+    {
+      "id": "B04-117",
+      "location": "Fat Lady Christmas entrance state",
+      "category": "temporary",
+      "description": "The Gryffindor password has changed to Fairy lights and the Fat Lady wears a new tinsel hairband as her portrait opens.",
+      "evidence": [
+        "B04-C022-P0128",
+        "B04-C022-P0129"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1994, end of term",
+      "model_notes": "Dated access credential and portrait decoration, not a permanent password."
+    },
+    {
+      "id": "B04-118",
+      "location": "Snow-covered grounds and guest transport",
+      "category": "temporary",
+      "description": "Heavy snow covers castle and grounds; Hagrid’s cabin and the Beauxbatons carriage are frosted over. Ice glazes the ship’s portholes and frost whitens its rigging. On Christmas afternoon the otherwise untouched snow has deep channels made by foreign students walking up to the castle.",
+      "evidence": [
+        "B04-C023-P0002",
+        "B04-C023-P0060",
+        "B04-C023-P0061"
+      ],
+      "certainty": "explicit",
+      "temporal": "Christmas 1994",
+      "model_notes": "Snow and ice are seasonal overlays, not permanent surface materials. The cabin and carriage comparisons to confectionery are similes."
+    },
+    {
+      "id": "B04-119",
+      "location": "Gryffindor common room snowy window",
+      "category": "temporary",
+      "description": "Harry and friends sit apart from the crowd beside a dark common-room window that is gradually filling with snow.",
+      "evidence": [
+        "B04-C023-P0022"
+      ],
+      "certainty": "explicit",
+      "temporal": "Christmas 1994",
+      "model_notes": "A dated external snow-accumulation state at a window; no bearing or additional floor is given."
+    },
+    {
+      "id": "B04-120",
+      "location": "Gryffindor boys’ dormitory mirror",
+      "category": "furnishing",
+      "description": "A long mirror stands in the corner of the boys’ dormitory and allows Ron to inspect his dress robes.",
+      "evidence": [
+        "B04-C023-P0064"
+      ],
+      "certainty": "explicit",
+      "temporal": "Christmas 1994",
+      "model_notes": "An explicit corner furnishing, not a portable mirror held by a character."
+    },
+    {
+      "id": "B04-121",
+      "location": "Fat Lady portrait Christmas state",
+      "category": "temporary",
+      "description": "Violet shares the Fat Lady’s frame; both are tipsy and empty chocolate-liqueur boxes litter the bottom of the picture. They are asleep there after the ball and need a shouted password to wake them.",
+      "evidence": [
+        "B04-C023-P0062",
+        "B04-C023-P0063",
+        "B04-C023-P0244"
+      ],
+      "certainty": "explicit",
+      "temporal": "Christmas 1994",
+      "model_notes": "Contents are within the portrait image. The access response can be delayed by the portrait subject’s state; the password remains Fairy lights."
+    },
+    {
+      "id": "B04-122",
+      "location": "Slytherin common-room approach",
+      "category": "route",
+      "description": "Slytherin pupils come up steps into the Entrance Hall from their dungeon common room.",
+      "evidence": [
+        "B04-C023-P0073",
+        "B04-C023-P0078"
+      ],
+      "certainty": "explicit",
+      "temporal": "Christmas 1994",
+      "model_notes": "Narration explicitly identifies an underground common-room origin. The passage does not locate its exact entrance or count flights."
+    },
+    {
+      "id": "B04-123",
+      "location": "Yule Ball lawn grotto",
+      "category": "temporary",
+      "description": "The lawn immediately before the castle is transformed into a grotto with conjured rose bushes, hundreds of living fairies as lights, and statues apparently depicting Father Christmas and reindeer. It is visible over arriving guests through the open oak front doors.",
+      "evidence": [
+        "B04-C023-P0079"
+      ],
+      "certainty": "explicit",
+      "temporal": "Christmas 1994",
+      "model_notes": "Temporary lawn conversion, not proof of a permanent rose garden at this position."
+    },
+    {
+      "id": "B04-124",
+      "location": "Great Hall ball dining layout",
+      "category": "temporary",
+      "description": "The four house tables have vanished, replaced by about a hundred small lantern-lit tables seating around twelve apiece. The champions and partners process to a large round judges’ table at the top. Other staff sit at additional tables. Sparkling silver frost covers the walls and hundreds of mistletoe and ivy garlands cross the black starry ceiling.",
+      "evidence": [
+        "B04-C023-P0081",
+        "B04-C023-P0085",
+        "B04-C023-P0086",
+        "B04-C023-P0087",
+        "B04-C023-P0089",
+        "B04-C023-P0090",
+        "B04-C023-P0108"
+      ],
+      "certainty": "explicit",
+      "temporal": "Christmas 1994",
+      "model_notes": "Separate this state from normal five-long-table dining. Approximate table and seat counts describe this event and should not be used as an exact permanent pupil census."
+    },
+    {
+      "id": "B04-125",
+      "location": "Yule Ball spoken meal orders",
+      "category": "magic",
+      "description": "Menus lie beside empty golden plates. Diners speak their chosen food to the plates and the dishes appear without waiters.",
+      "evidence": [
+        "B04-C023-P0095",
+        "B04-C023-P0096"
+      ],
+      "certainty": "explicit",
+      "temporal": "Christmas 1994",
+      "model_notes": "A different observed meal-service behaviour for the ball; the kitchen-side operation remains unseen."
+    },
+    {
+      "id": "B04-126",
+      "location": "Relative school scale reported by Krum",
+      "category": "exterior",
+      "description": "Krum describes Durmstrang’s castle as smaller and less comfortable than Hogwarts but its grounds as larger than Hogwarts’s.",
+      "evidence": [
+        "B04-C023-P0098"
+      ],
+      "certainty": "reported",
+      "temporal": "Christmas 1994",
+      "model_notes": "A character’s qualitative comparison only; Durmstrang’s stated four floors does not establish Hogwarts’s floor count or area. Its lakes and mountains are not Hogwarts terrain."
+    },
+    {
+      "id": "B04-127",
+      "location": "Vanishing chamberpot room",
+      "category": "magic",
+      "description": "Dumbledore reports taking a wrong turn towards a bathroom that morning and finding a well-proportioned unfamiliar room filled with chamberpots; it was gone when he returned.",
+      "evidence": [
+        "B04-C023-P0102",
+        "B04-C023-P0103"
+      ],
+      "certainty": "reported",
+      "temporal": "Christmas morning 1994, reported at ball",
+      "model_notes": "Reported encounter, possibly told playfully. His suggestions about time, lunar phase or bladder fullness are guesses, not demonstrated access rules. No floor or corridor is named."
+    },
+    {
+      "id": "B04-128",
+      "location": "Great Hall dance-floor conversion",
+      "category": "temporary",
+      "description": "After dinner Dumbledore moves the tables along the walls and conjures a raised platform against the right-hand wall, with drums, guitars, lute, cello and bagpipes. The other tables’ lanterns go out while the dance floor remains brightly lit; people can sit at tables close to it or farther away.",
+      "evidence": [
+        "B04-C023-P0113",
+        "B04-C023-P0114",
+        "B04-C023-P0116",
+        "B04-C023-P0123",
+        "B04-C023-P0124",
+        "B04-C023-P0125",
+        "B04-C023-P0218"
+      ],
+      "certainty": "explicit",
+      "temporal": "Christmas 1994",
+      "model_notes": "Right-hand wall is the narration’s Hall viewpoint, without an absolute compass bearing. Model the cleared floor, peripheral seating and raised music stage as an event state."
+    },
+    {
+      "id": "B04-129",
+      "location": "Yule Ball rose garden paths and seating",
+      "category": "temporary",
+      "description": "Harry and Ron leave via the Entrance Hall and open front doors, descend the steps, and follow winding ornamental paths among rose bushes, large stone statues and carved benches. Splashing first suggests a fountain; farther along they see tall sparkling jets beyond a large stone reindeer and a stone bench facing the water.",
+      "evidence": [
+        "B04-C023-P0180",
+        "B04-C023-P0181",
+        "B04-C023-P0188",
+        "B04-C023-P0191",
+        "B04-C023-P0193",
+        "B04-C023-P0195",
+        "B04-C023-P0199",
+        "B04-C023-P0200"
+      ],
+      "certainty": "explicit",
+      "temporal": "Christmas 1994",
+      "model_notes": "The fountain is initially heard and subsequently observed. Bushes, shadows and the reindeer screen people from one another while voices remain audible. Beetle presence is transient."
+    },
+    {
+      "id": "B04-130",
+      "location": "Yule Ball garden damage",
+      "category": "temporary",
+      "description": "Snape blasts rose bushes apart, exposing hiding pupils. Later Maxime pushes through bushes, sending multi-coloured fairy swarms into the air; Hagrid leaves the garden towards his cabin rather than returning to the castle.",
+      "evidence": [
+        "B04-C023-P0185",
+        "B04-C023-P0186",
+        "B04-C023-P0193",
+        "B04-C023-P0208",
+        "B04-C023-P0209"
+      ],
+      "certainty": "explicit",
+      "temporal": "Christmas 1994",
+      "model_notes": "Record local temporary damage and a path from the garden into the wider grounds; no permanent demolition or exact route to the cabin is established."
+    },
+    {
+      "id": "B04-131",
+      "location": "Prefects’ bathroom directions",
+      "category": "route",
+      "description": "Cedric tells Harry the Prefects’ bathroom is the fourth door to the left of Boris the Bewildered’s statue on the fifth floor, with password Pine-fresh.",
+      "evidence": [
+        "B04-C023-P0235",
+        "B04-C023-P0237",
+        "B04-C023-P0239",
+        "B04-C023-P0241"
+      ],
+      "certainty": "reported",
+      "temporal": "After Yule Ball, Christmas night 1994",
+      "model_notes": "Reported precise landmark and door-count directions. Left depends on the statue-viewpoint context; do not invent a compass orientation or statue pose until directly described."
+    },
+    {
+      "id": "B04-132",
+      "location": "Greenhouses in snow",
+      "category": "temporary",
+      "description": "Snow remains thick on the grounds and condensation on the greenhouse windows prevents pupils seeing out during Herbology.",
+      "evidence": [
+        "B04-C024-P0008"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1995",
+      "model_notes": "A seasonal loss of visibility, not opaque glazing or a permanent greenhouse alteration."
+    },
+    {
+      "id": "B04-133",
+      "location": "Unicorn lesson at Forest edge",
+      "category": "route",
+      "description": "Grubbly-Plank leads the class from Hagrid’s front door around and past the horse paddock to a tree at the Forest edge, where a white, golden-hoofed unicorn is tethered. Boys remain by the paddock fence while girls approach the unicorn; the teacher’s voice carries back to them.",
+      "evidence": [
+        "B04-C024-P0009",
+        "B04-C024-P0016",
+        "B04-C024-P0020",
+        "B04-C024-P0023",
+        "B04-C024-P0024",
+        "B04-C024-P0025",
+        "B04-C024-P0051"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1995",
+      "model_notes": "The horse paddock, forest-edge tree and cabin are close enough for this continuous lesson route. No tether length or tree species is given."
+    },
+    {
+      "id": "B04-134",
+      "location": "Hagrid’s closed cabin state",
+      "category": "temporary",
+      "description": "During Hagrid’s withdrawal all cabin curtains are closed. Visitors hear Fang barking, scratching and whining behind the unopened door; knocking at a window also produces no response.",
+      "evidence": [
+        "B04-C024-P0016",
+        "B04-C024-P0067",
+        "B04-C024-P0068",
+        "B04-C024-P0069",
+        "B04-C024-P0071",
+        "B04-C024-P0159"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1995",
+      "model_notes": "A temporary occupied-but-closed state. Failure to answer is not proof of an architectural lock or spell."
+    },
+    {
+      "id": "B04-135",
+      "location": "Castle to Hogsmeade via gates",
+      "category": "route",
+      "description": "The pupils leave the castle through cold wet grounds towards the gates, pass the moored Durmstrang ship, and continue down the slushy High Street to the pub. On return they run uphill along the road through the winged-boar gates and across the grounds to Hagrid’s cabin.",
+      "evidence": [
+        "B04-C024-P0073",
+        "B04-C024-P0078",
+        "B04-C024-P0084",
+        "B04-C024-P0085",
+        "B04-C024-P0154",
+        "B04-C024-P0157",
+        "B04-C024-P0158"
+      ],
+      "certainty": "explicit",
+      "temporal": "Mid-January 1995 Hogsmeade visit",
+      "model_notes": "Confirms the gate road as the ordinary village connection and an ascending return. Passing the lake does not fix the road to a compass side of it."
+    },
+    {
+      "id": "B04-136",
+      "location": "Durmstrang ship winter swimming access",
+      "category": "grounds",
+      "description": "Krum emerges on the ship’s deck in swimming trunks, climbs onto its side and dives into the lake, then swims towards its middle.",
+      "evidence": [
+        "B04-C024-P0078",
+        "B04-C024-P0079",
+        "B04-C024-P0080",
+        "B04-C024-P0081"
+      ],
+      "certainty": "explicit",
+      "temporal": "Mid-January 1995",
+      "model_notes": "The lake is open enough to dive and swim at this date despite cold weather; do not impose a continuous winter ice lid."
+    },
+    {
+      "id": "B04-137",
+      "location": "Three Broomsticks bar and mirror",
+      "category": "interior",
+      "description": "A mirror behind the bar reflects the pub’s shadowy corner tables. Bagman and Harry converse at the end of the bar farthest from Rosmerta while watching the goblins in the mirror.",
+      "evidence": [
+        "B04-C024-P0085",
+        "B04-C024-P0086",
+        "B04-C024-P0087",
+        "B04-C024-P0088",
+        "B04-C024-P0094",
+        "B04-C024-P0096",
+        "B04-C024-P0147"
+      ],
+      "certainty": "explicit",
+      "temporal": "Mid-January 1995",
+      "model_notes": "Local sightline and bar arrangement for a castle-linked village destination, without a full pub plan."
+    },
+    {
+      "id": "B04-138",
+      "location": "Hagrid’s cabin dresser and tea visit",
+      "category": "furnishing",
+      "description": "Hagrid keeps a family photograph in a dresser drawer. During the visit Dumbledore conjures a revolving tea tray and cakes into mid-air, then places them on the table around which the visitors sit.",
+      "evidence": [
+        "B04-C024-P0167",
+        "B04-C024-P0171",
+        "B04-C024-P0188",
+        "B04-C024-P0189"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1995",
+      "model_notes": "The dresser is an observed fixture; the tea setup is temporary. The apple tree in the photograph is unlocated and cannot be assigned to Hogwarts grounds."
+    }
+  ],
+  "chapter_reviews": [
+    {
+      "chapter": 1,
+      "reviewed_ranges": [
+        [
+          1,
+          108
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. Non-Hogwarts locations and plot-only references excluded."
+    },
+    {
+      "chapter": 2,
+      "reviewed_ranges": [
+        [
+          1,
+          43
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. Non-Hogwarts locations and plot-only references excluded."
+    },
+    {
+      "chapter": 3,
+      "reviewed_ranges": [
+        [
+          1,
+          91
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. Non-Hogwarts locations and plot-only references excluded."
+    },
+    {
+      "chapter": 4,
+      "reviewed_ranges": [
+        [
+          1,
+          100
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. Non-Hogwarts locations and plot-only references excluded."
+    },
+    {
+      "chapter": 5,
+      "reviewed_ranges": [
+        [
+          1,
+          112
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. Burrow and World Cup locations are outside the Hogwarts boundary/tunnel scope; no additional spatial evidence."
+    },
+    {
+      "chapter": 6,
+      "reviewed_ranges": [
+        [
+          1,
+          87
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. Burrow and World Cup locations are outside the Hogwarts boundary/tunnel scope; no additional spatial evidence."
+    },
+    {
+      "chapter": 7,
+      "reviewed_ranges": [
+        [
+          1,
+          164
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. Burrow and World Cup locations are outside the Hogwarts boundary/tunnel scope; no additional spatial evidence."
+    },
+    {
+      "chapter": 8,
+      "reviewed_ranges": [
+        [
+          1,
+          156
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. World Cup, Burrow, and unrelated Ministry descriptions excluded; Hogwarts access and concealment recorded where present."
+    },
+    {
+      "chapter": 9,
+      "reviewed_ranges": [
+        [
+          1,
+          262
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. World Cup, Burrow, and unrelated Ministry descriptions excluded; Hogwarts access and concealment recorded where present."
+    },
+    {
+      "chapter": 10,
+      "reviewed_ranges": [
+        [
+          1,
+          115
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. World Cup, Burrow, and unrelated Ministry descriptions excluded; Hogwarts access and concealment recorded where present."
+    },
+    {
+      "chapter": 11,
+      "reviewed_ranges": [
+        [
+          1,
+          121
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. World Cup, Burrow, and unrelated Ministry descriptions excluded; Hogwarts access and concealment recorded where present."
+    },
+    {
+      "chapter": 12,
+      "reviewed_ranges": [
+        [
+          1,
+          196
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed, including Sorting song, kitchen reports, lake rescue report, approach, Hall, and dormitory route. Founders’ places of origin do not establish Hogwarts terrain."
+    },
+    {
+      "chapter": 13,
+      "reviewed_ranges": [
+        [
+          1,
+          154
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Recorded greenhouse and cabin approach, Divination room and access, Hall floor, and dungeon direction."
+    },
+    {
+      "chapter": 14,
+      "reviewed_ranges": [
+        [
+          1,
+          183
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Hypothetical ferret punishment, invented horoscopes, and memories of the Potters’ home do not establish Hogwarts geometry."
+    },
+    {
+      "chapter": 15,
+      "reviewed_ranges": [
+        [
+          1,
+          157
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included Owlery, teaching layout changes, cleaning, banners, arrival sightlines, carriage and lake ship. Historical tournament narrative supplies no located Hogwarts geometry."
+    },
+    {
+      "chapter": 16,
+      "reviewed_ranges": [
+        [
+          1,
+          202
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included Goblet relocation and Age Line behaviour, guest accommodation, paddock distance, cabin furnishings, window views, and Hallowe’en lighting."
+    },
+    {
+      "chapter": 17,
+      "reviewed_ranges": [
+        [
+          1,
+          141
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Distinguished observed portrait movement from Harry’s seven-staircase reconstruction. The Goblet’s alleged tampering is character explanation, not measured building geometry."
+    },
+    {
+      "chapter": 18,
+      "reviewed_ranges": [
+        [
+          1,
+          214
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included unnamed teaching and storage spaces, cabin rear access, lakeside fauna, Owlery rafters, and dungeon-to-weighing route; wand specifications and unrelated shop memories excluded."
+    },
+    {
+      "chapter": 19,
+      "reviewed_ranges": [
+        [
+          1,
+          177
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included library screening, village visit context, the full nighttime perimeter route, holding-enclosure fixtures, dragon clearances, and fireplace communication."
+    },
+    {
+      "chapter": 20,
+      "reviewed_ranges": [
+        [
+          1,
+          214
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included lake circuits, office history and detectors, unused practice classroom, all first-task installations and travel, reported terrain changes, and temporary damage. Stress-induced shimmering not treated as a barrier."
+    },
+    {
+      "chapter": 21,
+      "reviewed_ranges": [
+        [
+          1,
+          193
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included winter states, pumpkin-patch damage, rear cabin access, six-floor kitchen route, portrait operation, kitchen geometry and alignment. Food transfer remains an inference."
+    },
+    {
+      "chapter": 22,
+      "reviewed_ranges": [
+        [
+          1,
+          188
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included teaching fixtures, rear trestle table, Christmas decorations, second-floor bathroom location, girls’ staircase and password change. Unverified mead-barrel rumour not treated as stored stock."
+    },
+    {
+      "chapter": 23,
+      "reviewed_ranges": [
+        [
+          1,
+          250
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed in three untruncated ranges. Included winter surfaces, mirrors, Slytherin stairs, all ball layout/lighting conversions, conjured garden and damage, vanishing-room report and fifth-floor bathroom directions. Foreign-school scenery not imported into Hogwarts."
+    },
+    {
+      "chapter": 24,
+      "reviewed_ranges": [
+        [
+          1,
+          197
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included snow/condensation, unicorn lesson route, cabin closure, ship dive and open water, village gate-road connection, bar mirror, and dresser. Rita’s allegations and unlocated photograph scenery not treated as observed Hogwarts structure."
+    }
+  ]
+}
