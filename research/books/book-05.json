@@ -1794,6 +1794,190 @@
       "certainty": "explicit",
       "temporal": "October 1995, first DA meeting and preceding storm",
       "model_notes": "Observed closure effect; does not prove the contents cease to exist."
+    },
+    {
+      "id": "B05-117",
+      "location": "Room of Requirement detector table damage",
+      "category": "temporary",
+      "description": "During later DA practice Parvati’s Reductor Curse reduces the table carrying the Sneakoscopes to dust.",
+      "evidence": [
+        "B05-C019-P0001"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "A table is present in this later manifestation; do not silently substitute the earlier detector shelves. Repair is not described."
+    },
+    {
+      "id": "B05-118",
+      "location": "DA meeting tokens",
+      "category": "magic",
+      "description": "Hermione distributes fake Galleons from a basket. Their edge numbers communicate meeting dates and times through a Protean Charm and grow hot when changed.",
+      "evidence": [
+        "B05-C019-P0003",
+        "B05-C019-P0004",
+        "B05-C019-P0013",
+        "B05-C019-P0017",
+        "B05-C019-P0018"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Portable props for meeting coordination; not fixed geometry."
+    },
+    {
+      "id": "B05-119",
+      "location": "McGonagall study trophy",
+      "category": "furnishing",
+      "description": "McGonagall says she is accustomed to keeping the Quidditch Cup in her study.",
+      "evidence": [
+        "B05-C019-P0021"
+      ],
+      "certainty": "reported",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Reported trophy location, without a display stand or case."
+    },
+    {
+      "id": "B05-120",
+      "location": "Pitch scheduling and library jinx",
+      "category": "history",
+      "description": "Snape books the pitch repeatedly for Slytherin practices, restricting Gryffindor access. Fourteen witnesses report Alicia being jinxed from behind while working in the library; she attends the hospital wing.",
+      "evidence": [
+        "B05-C019-P0022",
+        "B05-C019-P0048"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Pitch access is scheduled, not fenced by House. Library attack is a reported incident, with no asserted furniture damage."
+    },
+    {
+      "id": "B05-121",
+      "location": "Early November castle and mountains",
+      "category": "temporary",
+      "description": "Hard morning frosts and icy draughts follow October storms. Surrounding mountains are snowcapped, the sky and Great Hall ceiling pale pearly grey, and castle corridors become cold enough for dragonskin gloves.",
+      "evidence": [
+        "B05-C019-P0026"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Seasonal thermal and distant-terrain state."
+    },
+    {
+      "id": "B05-122",
+      "location": "Match-day stadium approach",
+      "category": "route",
+      "description": "From the Hall the players cross the Entrance Hall, descend stone steps and follow frost-crunching sloping lawns down to the stadium and changing rooms.",
+      "evidence": [
+        "B05-C019-P0049",
+        "B05-C019-P0051",
+        "B05-C019-P0057",
+        "B05-C019-P0058",
+        "B05-C019-P0059"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Repeated route with frozen ground; calm overcast conditions improve visibility."
+    },
+    {
+      "id": "B05-123",
+      "location": "Quidditch stands and circulation",
+      "category": "exterior",
+      "description": "Banked benches in spectator stands receive hundreds of spectators. Players file from the changing room onto the pitch; supporters occupy identifiable Slytherin and Gryffindor sections, with Pansy at the front of the Slytherin stands.",
+      "evidence": [
+        "B05-C019-P0064",
+        "B05-C019-P0065",
+        "B05-C019-P0066",
+        "B05-C019-P0070",
+        "B05-C019-P0074",
+        "B05-C019-P0076",
+        "B05-C019-P0091",
+        "B05-C019-P0093",
+        "B05-C019-P0097",
+        "B05-C019-P0112",
+        "B05-C019-P0115",
+        "B05-C019-P0121"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Sound carries throughout stadium. Three goalhoops at each defended end; no precise audience capacity or compass placement."
+    },
+    {
+      "id": "B05-124",
+      "location": "Frozen pitch and low flight space",
+      "category": "temporary",
+      "description": "The Snitch flies near the foot of a goalpost toward the other side of the stands. Harry catches it only feet above the surface and falls five or six feet onto the frozen pitch after a Bludger strike.",
+      "evidence": [
+        "B05-C019-P0126",
+        "B05-C019-P0129",
+        "B05-C019-P0130",
+        "B05-C019-P0131",
+        "B05-C019-P0134",
+        "B05-C019-P0136",
+        "B05-C019-P0140"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Specific local flight and fall clearances, not goalpost height."
+    },
+    {
+      "id": "B05-125",
+      "location": "Pitch to McGonagall’s office",
+      "category": "route",
+      "description": "After the fight Harry and George walk from the pitch uphill to the castle, through a quiet Entrance Hall, then along a corridor to McGonagall’s office; she approaches behind them.",
+      "evidence": [
+        "B05-C019-P0152",
+        "B05-C019-P0153",
+        "B05-C019-P0154",
+        "B05-C019-P0155"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Intervening floors and stairs are not described."
+    },
+    {
+      "id": "B05-126",
+      "location": "McGonagall desk accident",
+      "category": "temporary",
+      "description": "McGonagall’s tartan biscuit tin slides off her desk and bursts open on the floor, scattering Ginger Newts; she has thrown her scarf onto the floor.",
+      "evidence": [
+        "B05-C019-P0155",
+        "B05-C019-P0158",
+        "B05-C019-P0162",
+        "B05-C019-P0166"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Temporary movable clutter; no permanent office damage."
+    },
+    {
+      "id": "B05-127",
+      "location": "Confiscated broom storage order",
+      "category": "temporary",
+      "description": "Umbridge announces that Harry’s, Fred’s and George’s brooms will be confiscated and kept in her office after their lifetime Quidditch bans.",
+      "evidence": [
+        "B05-C019-P0178",
+        "B05-C019-P0180",
+        "B05-C019-P0182",
+        "B05-C019-P0185"
+      ],
+      "certainty": "reported",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Announced storage plan rather than a narrated transfer in this chapter."
+    },
+    {
+      "id": "B05-128",
+      "location": "November common-room snow view",
+      "category": "temporary",
+      "description": "Snow swirls against the dark common-room window; Hermione sees enough outside to announce Hagrid’s return. The captured Snitch flies around the room as Crookshanks leaps between chairs pursuing it.",
+      "evidence": [
+        "B05-C019-P0189",
+        "B05-C019-P0194",
+        "B05-C019-P0200",
+        "B05-C019-P0204",
+        "B05-C019-P0217",
+        "B05-C019-P0223"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Return signal is not specified here; do not invent a lamp sighting until described."
     }
   ],
   "chapter_reviews": [
@@ -1994,6 +2178,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read every paragraph in three chunks, including dream and Dobby discussion, complete room discovery, lesson and departures. Windowless dream corridor is not assigned to Hogwarts."
+    },
+    {
+      "chapter": 19,
+      "reviewed_ranges": [
+        [
+          1,
+          223
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs, complete game and song, punishment and evening discussion. Captured Snitch and damage states retained; no game dimensions invented."
     }
   ]
 }
