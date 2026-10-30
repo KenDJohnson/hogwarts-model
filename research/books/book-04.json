@@ -470,6 +470,187 @@
       "certainty": "reported",
       "temporal": "First Thursday of term, September 1994",
       "model_notes": "Reports the Owlery’s feeding function and Harry’s upward direction, not a directly observed feeder or exact route."
+    },
+    {
+      "id": "B04-034",
+      "location": "Gryffindor Tower to Owlery",
+      "category": "route",
+      "description": "Harry leaves the portrait hole and makes his way upwards through the castle, passing a large vase halfway along the fourth-floor corridor, to the Owlery at the top of West Tower.",
+      "evidence": [
+        "B04-C015-P0005"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early September 1994, dawn",
+      "model_notes": "Preserve the narrated route despite any assumed floor relationships; it does not enumerate every stair or identify where the climb begins. Peeves attempts to tip the vase during this visit."
+    },
+    {
+      "id": "B04-035",
+      "location": "Owlery, West Tower",
+      "category": "interior",
+      "description": "The Owlery is a circular stone room with unglazed window openings and cold draughts. Straw, owl droppings, and regurgitated mouse and vole skeletons cover the slippery floor. Perches rise nearly to the top of the tower and hold hundreds of owls. Harry takes Hedwig to a wall opening and watches her fly into the sunrise.",
+      "evidence": [
+        "B04-C015-P0006",
+        "B04-C015-P0007",
+        "B04-C015-P0008",
+        "B04-C015-P0009"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early September 1994, dawn",
+      "model_notes": "No fixed compass direction is given for a particular opening; the sunrise is a sightline in this scene. Different owl breeds share the perches."
+    },
+    {
+      "id": "B04-036",
+      "location": "Defence Against the Dark Arts classroom",
+      "category": "temporary",
+      "description": "Moody moves the classroom desks aside with his wand, leaving a large clear central area for Imperius practice. A desk remains close enough for Harry to collide with and knock over.",
+      "evidence": [
+        "B04-C015-P0016",
+        "B04-C015-P0021",
+        "B04-C015-P0031"
+      ],
+      "certainty": "explicit",
+      "temporal": "September–October 1994",
+      "model_notes": "A movable teaching layout, with no dimensions or reported structural damage."
+    },
+    {
+      "id": "B04-037",
+      "location": "Entrance Hall tournament notice",
+      "category": "temporary",
+      "description": "A large tournament notice is erected at the foot of the marble staircase, where the crowd reading it obstructs passage through the Entrance Hall. It directs pupils to assemble in front of the castle for the foreign delegations’ arrival.",
+      "evidence": [
+        "B04-C015-P0048",
+        "B04-C015-P0049",
+        "B04-C015-P0050",
+        "B04-C015-P0052",
+        "B04-C015-P0056"
+      ],
+      "certainty": "explicit",
+      "temporal": "Week before 30 October 1994",
+      "model_notes": "A temporary freestanding or erected sign; construction is unstated. Its announced date is 30 October."
+    },
+    {
+      "id": "B04-038",
+      "location": "Castle portraits and armour",
+      "category": "temporary",
+      "description": "Before the guests arrive, grimy portraits are scrubbed and their subjects appear pink-faced and uncomfortable. Suits of armour are polished until they gleam and move without squeaking.",
+      "evidence": [
+        "B04-C015-P0063"
+      ],
+      "certainty": "explicit",
+      "temporal": "Week before 30 October 1994",
+      "model_notes": "A cleaning state transition affecting existing furnishings; the individual frames and armour positions are not given."
+    },
+    {
+      "id": "B04-039",
+      "location": "Great Hall tournament banners",
+      "category": "temporary",
+      "description": "Enormous silk house banners hang on the Hall walls: red with a gold lion, blue with a bronze eagle, yellow with a black badger, and green with a silver serpent. The largest banner, behind the staff table, bears the combined Hogwarts arms around an H.",
+      "evidence": [
+        "B04-C015-P0066"
+      ],
+      "certainty": "explicit",
+      "temporal": "30 October 1994",
+      "model_notes": "Retain the stated bronze Ravenclaw eagle and the location of the larger school banner."
+    },
+    {
+      "id": "B04-040",
+      "location": "House-elf maintenance",
+      "category": "interior",
+      "description": "Hermione describes house-elves changing bed sheets, lighting fires, cleaning classrooms and cooking food. George says he and Fred have repeatedly visited the kitchens for food.",
+      "evidence": [
+        "B04-C015-P0083",
+        "B04-C015-P0086",
+        "B04-C015-P0087",
+        "B04-C015-P0088"
+      ],
+      "certainty": "reported",
+      "temporal": "September–October 1994",
+      "model_notes": "Reported servicing and student kitchen access. This passage supplies no kitchen entrance route."
+    },
+    {
+      "id": "B04-041",
+      "location": "Castle forecourt and grounds sightlines",
+      "category": "exterior",
+      "description": "Pupils file down the front steps and stand in rows in front of the castle, with the drive descending towards the front gates. From the top of the lawns they overlook the grounds and have a clear view of the lake’s surface. The moon is seen over the Forest; light streams outside from the Entrance Hall and front doors.",
+      "evidence": [
+        "B04-C015-P0103",
+        "B04-C015-P0104",
+        "B04-C015-P0117",
+        "B04-C015-P0121",
+        "B04-C015-P0147",
+        "B04-C015-P0151",
+        "B04-C015-P0152",
+        "B04-C015-P0154"
+      ],
+      "certainty": "explicit",
+      "temporal": "30 October 1994, dusk",
+      "model_notes": "Use these specific viewpoints and relative slopes without inferring compass bearings or that every part of the shore is visible."
+    },
+    {
+      "id": "B04-042",
+      "location": "Hogwarts grounds Apparition restriction",
+      "category": "magic",
+      "description": "Hermione states that Apparition cannot be performed inside the Hogwarts grounds.",
+      "evidence": [
+        "B04-C015-P0108",
+        "B04-C015-P0109"
+      ],
+      "certainty": "reported",
+      "temporal": "30 October 1994",
+      "model_notes": "A reported magical boundary condition; no perimeter dimensions or exception mechanism is supplied."
+    },
+    {
+      "id": "B04-043",
+      "location": "Beauxbatons carriage arrival",
+      "category": "temporary",
+      "description": "A house-sized powder-blue carriage flies over the Forest canopy and lands near the waiting pupils outside the castle. It has enormous wheels, a door emblazoned with crossed golden wands each emitting three stars, and fold-out golden steps. Twelve winged palomino horses, each elephant-sized, draw it.",
+      "evidence": [
+        "B04-C015-P0113",
+        "B04-C015-P0114",
+        "B04-C015-P0117",
+        "B04-C015-P0118",
+        "B04-C015-P0119",
+        "B04-C015-P0120"
+      ],
+      "certainty": "explicit",
+      "temporal": "30 October 1994, evening",
+      "model_notes": "Temporary guest transport and its landing clearance. The exact standing position after arrival is not yet specified."
+    },
+    {
+      "id": "B04-044",
+      "location": "Beauxbatons horse care",
+      "category": "temporary",
+      "description": "Madame Maxime says her powerful horses require forceful handling and drink only single-malt whisky; Dumbledore assigns Hagrid to their care.",
+      "evidence": [
+        "B04-C015-P0131",
+        "B04-C015-P0132",
+        "B04-C015-P0134",
+        "B04-C015-P0135",
+        "B04-C015-P0136",
+        "B04-C015-P0137"
+      ],
+      "certainty": "reported",
+      "temporal": "30 October 1994 onwards",
+      "model_notes": "Reported care requirement useful for the later temporary paddock; no stable is established here."
+    },
+    {
+      "id": "B04-045",
+      "location": "Lake and Durmstrang ship arrival",
+      "category": "magic",
+      "description": "Rumbling and sucking sounds precede bubbles, waves spilling over muddy banks, and a whirlpool in the middle of the lake. A mast, rigging and skeletal-looking ship rise from it; dim misty lights shine at the portholes. Once fully afloat the ship glides to shore, drops anchor in the shallows, and lowers a plank onto the bank. The delegation walks uphill across the lawns to the castle.",
+      "evidence": [
+        "B04-C015-P0145",
+        "B04-C015-P0146",
+        "B04-C015-P0147",
+        "B04-C015-P0148",
+        "B04-C015-P0149",
+        "B04-C015-P0150",
+        "B04-C015-P0151",
+        "B04-C015-P0152"
+      ],
+      "certainty": "explicit",
+      "temporal": "30 October 1994, evening",
+      "model_notes": "A temporary magical arrival and mooring, not evidence for a permanent lake drain. No actual underwater route or external origin is visible."
     }
   ],
   "chapter_reviews": [
@@ -626,6 +807,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed. Hypothetical ferret punishment, invented horoscopes, and memories of the Potters’ home do not establish Hogwarts geometry."
+    },
+    {
+      "chapter": 15,
+      "reviewed_ranges": [
+        [
+          1,
+          157
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included Owlery, teaching layout changes, cleaning, banners, arrival sightlines, carriage and lake ship. Historical tournament narrative supplies no located Hogwarts geometry."
     }
   ]
 }
