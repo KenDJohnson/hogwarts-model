@@ -1287,6 +1287,232 @@
       "certainty": "reported",
       "temporal": "Late September and first October Hogsmeade weekend, 1995",
       "model_notes": "Separate proposed venues from confirmed use; Ron’s past-use recollection is reported."
+    },
+    {
+      "id": "B05-086",
+      "location": "Lakeside beech",
+      "category": "grounds",
+      "description": "The friends study in the shade of a large beech on the lake edge during the last autumn sunshine.",
+      "evidence": [
+        "B05-C017-P0001"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "A specific lakeshore tree and usable shaded ground; no precise compass position."
+    },
+    {
+      "id": "B05-087",
+      "location": "Gryffindor noticeboard contents",
+      "category": "temporary",
+      "description": "A large decree covers the common-room board’s secondhand-book lists, school rules, training timetable, Chocolate Frog trades, joke-test recruitment, Hogsmeade dates and lost-and-found notices.",
+      "evidence": [
+        "B05-C017-P0003",
+        "B05-C017-P0004",
+        "B05-C017-P0005",
+        "B05-C017-P0006",
+        "B05-C017-P0007",
+        "B05-C017-P0008",
+        "B05-C017-P0009",
+        "B05-C017-P0010",
+        "B05-C017-P0011",
+        "B05-C017-P0012"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "October notice state; decree disbands groups of three or more until approved."
+    },
+    {
+      "id": "B05-088",
+      "location": "Girls’ dormitory staircase enchantment",
+      "category": "magic",
+      "description": "Behind the girls’ door a spiral staircase transforms when Ron reaches its sixth step: a klaxon sounds and the steps merge into a long smooth spiralling stone slide, delivering him to the common room. Girls, including Hermione, slide down onto a rug.",
+      "evidence": [
+        "B05-C017-P0022",
+        "B05-C017-P0023",
+        "B05-C017-P0024",
+        "B05-C017-P0025",
+        "B05-C017-P0026",
+        "B05-C017-P0027",
+        "B05-C017-P0028",
+        "B05-C017-P0029"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "Observed access prevention for Ron. Hermione’s explanation that founders distrusted boys and that girls can enter boys’ rooms is reported; no reset timing shown."
+    },
+    {
+      "id": "B05-089",
+      "location": "History classroom seating and window",
+      "category": "interior",
+      "description": "Binns floats an inch above his chair. The classroom has rows of seats and a narrow external window ledge, thick window glass and a sliding catch; Harry opens it to admit injured Hedwig.",
+      "evidence": [
+        "B05-C017-P0062",
+        "B05-C017-P0064",
+        "B05-C017-P0066",
+        "B05-C017-P0067",
+        "B05-C017-P0072"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "Operable classroom window; small ledge need not be a human route."
+    },
+    {
+      "id": "B05-090",
+      "location": "History classroom to staff room",
+      "category": "route",
+      "description": "Harry leaves History of Magic, follows its corridor past a window overlooking the grounds near Hagrid’s cabin, then goes downstairs to the staff room.",
+      "evidence": [
+        "B05-C017-P0076",
+        "B05-C017-P0077",
+        "B05-C017-P0078"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "The classroom is above the staff-room approach, without an exact floor difference."
+    },
+    {
+      "id": "B05-091",
+      "location": "Staff-room entrance",
+      "category": "magic",
+      "description": "Two stone gargoyles flank the staff-room door and speak to Harry. Teachers open the door from inside; at break the adjacent corridor carries students in both directions and leads out into a courtyard with a sheltered corner.",
+      "evidence": [
+        "B05-C017-P0078",
+        "B05-C017-P0080",
+        "B05-C017-P0081",
+        "B05-C017-P0085",
+        "B05-C017-P0088",
+        "B05-C017-P0097",
+        "B05-C017-P0099",
+        "B05-C017-P0102",
+        "B05-C017-P0104"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "Talking guards do not demonstrate a password or physically blocked entry."
+    },
+    {
+      "id": "B05-092",
+      "location": "Hogwarts Thestrals and owl safety",
+      "category": "grounds",
+      "description": "Grubbly-Plank says Hagrid has trained the Hogwarts Thestrals not to attack owls, although Thestrals can prey on birds.",
+      "evidence": [
+        "B05-C017-P0091"
+      ],
+      "certainty": "reported",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "Reported local animal-management constraint; Hedwig’s actual attacker remains unproven."
+    },
+    {
+      "id": "B05-093",
+      "location": "Courtyard to dungeon classroom",
+      "category": "route",
+      "description": "After courtyard break the friends descend stone steps to the dungeons; at the bottom they reach the queue outside Snape’s classroom door.",
+      "evidence": [
+        "B05-C017-P0104",
+        "B05-C017-P0117",
+        "B05-C017-P0118",
+        "B05-C017-P0128"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "Retain bottom-of-stairs classroom relationship without importing an exact floor count."
+    },
+    {
+      "id": "B05-094",
+      "location": "Potions classroom rows and inspection corner",
+      "category": "interior",
+      "description": "Snape’s classroom has two lines of desks with circulation between them and a dim corner occupied by Umbridge. Potion mixtures remain from the preceding lesson over the weekend; instructions appear on the board.",
+      "evidence": [
+        "B05-C017-P0135",
+        "B05-C017-P0137",
+        "B05-C017-P0138",
+        "B05-C017-P0139",
+        "B05-C017-P0141",
+        "B05-C017-P0159",
+        "B05-C017-P0160"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "Not proof of exactly two desk rows in the whole room; describes the lines she walks between."
+    },
+    {
+      "id": "B05-095",
+      "location": "Divination teacher’s chair",
+      "category": "furnishing",
+      "description": "The Divination room is hot and heavily perfumed, with student pouffes and a high-backed teacher’s chair.",
+      "evidence": [
+        "B05-C017-P0166",
+        "B05-C017-P0167",
+        "B05-C017-P0169"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "Adds teacher-chair form to repeated classroom atmosphere."
+    },
+    {
+      "id": "B05-096",
+      "location": "Common-room demonstration and hearth",
+      "category": "temporary",
+      "description": "The twins demonstrate vomiting sweets into a bucket, whose contents Lee magically vanishes. Later the friends kneel on the hearthrug, which has a hole; the fireplace has a solid brick side wall and hot flames.",
+      "evidence": [
+        "B05-C017-P0197",
+        "B05-C017-P0198",
+        "B05-C017-P0202",
+        "B05-C017-P0206",
+        "B05-C017-P0208",
+        "B05-C017-P0210",
+        "B05-C017-P0212",
+        "B05-C017-P0232",
+        "B05-C017-P0252"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "Temporary demonstration equipment; the wall and worn rug are permanent fittings."
+    },
+    {
+      "id": "B05-097",
+      "location": "Fourth-floor mirror passage",
+      "category": "route",
+      "description": "Sirius recalls a roomy secret passage behind a large fourth-floor mirror, potentially wide enough for jinx practice. Harry reports the twins saying it is now blocked by a cave-in or similar collapse.",
+      "evidence": [
+        "B05-C017-P0249",
+        "B05-C017-P0250",
+        "B05-C017-P0251"
+      ],
+      "certainty": "reported",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "Historical capacity and present blockage are reports; collapse wording is uncertain, and no destination is given."
+    },
+    {
+      "id": "B05-098",
+      "location": "Common-room Floo interception",
+      "category": "magic",
+      "description": "Sirius disappears from the common-room fire as Umbridge’s ringed hand appears and gropes through the flames. Harry can still see the hand from the boys’ dormitory doorway while the friends flee.",
+      "evidence": [
+        "B05-C017-P0252",
+        "B05-C017-P0254",
+        "B05-C017-P0256",
+        "B05-C017-P0257",
+        "B05-C017-P0258"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "Demonstrates remote reaching and doorway-to-hearth sightline, not a secret physical tunnel."
+    },
+    {
+      "id": "B05-099",
+      "location": "Shrieking Shack meeting access proposal",
+      "category": "route",
+      "description": "Sirius proposes the Shrieking Shack for lessons; Hermione contrasts four past animal-form users with twenty-eight current pupils who could not all be concealed by one cloak.",
+      "evidence": [
+        "B05-C017-P0246",
+        "B05-C017-P0247",
+        "B05-C017-P0248",
+        "B05-C017-P0249"
+      ],
+      "certainty": "reported",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "A rejected access/concealment proposal, not an actual journey or measured shack capacity."
     }
   ],
   "chapter_reviews": [
@@ -1465,6 +1691,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read every paragraph, including complete meeting and return to High Street. Remote village shops are used as route landmarks; their unrelated stock displays are not expanded into a separate village model."
+    },
+    {
+      "chapter": 17,
+      "reviewed_ranges": [
+        [
+          1,
+          258
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph, including decree, staircase transformation, owl treatment, inspections and full fireplace discussion."
     }
   ]
 }
