@@ -2095,6 +2095,239 @@
       "certainty": "reported",
       "temporal": "Snowy November night of Hagrid’s return, 1995",
       "model_notes": "Reported still-unnamed herd; location and species await the next lesson."
+    },
+    {
+      "id": "B05-136",
+      "location": "Frozen grounds and tower windows",
+      "category": "temporary",
+      "description": "Two feet of snow cover the grounds; students skate on the frozen lake, toboggan and enchant snowballs to fly up and hit Gryffindor Tower windows. Ron opens a common-room window and is struck by a snowball before shutting it.",
+      "evidence": [
+        "B05-C021-P0001",
+        "B05-C021-P0002",
+        "B05-C021-P0003",
+        "B05-C021-P0004",
+        "B05-C021-P0005"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "November freeze and student use, not year-round lake solidity."
+    },
+    {
+      "id": "B05-137",
+      "location": "Forest visit report",
+      "category": "grounds",
+      "description": "Hermione says she waits at Hagrid’s door for half an hour before he emerges from the Forest.",
+      "evidence": [
+        "B05-C021-P0007",
+        "B05-C021-P0008",
+        "B05-C021-P0009"
+      ],
+      "certainty": "reported",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Does not confirm a Chimaera: Hermione explicitly doubts he has one."
+    },
+    {
+      "id": "B05-138",
+      "location": "Hall central aisle adjacency",
+      "category": "interior",
+      "description": "Pupils run up the aisle between Gryffindor and Hufflepuff tables to greet Hagrid at the staff table.",
+      "evidence": [
+        "B05-C021-P0010"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Repeated adjacency and aisle-to-staff-table connection."
+    },
+    {
+      "id": "B05-139",
+      "location": "Forest lesson approach",
+      "category": "route",
+      "description": "Hagrid waits at the Forest edge carrying half a dead cow, then leads pupils into dark trees for about ten minutes to a dense stand where the light resembles twilight and no snow reaches the ground.",
+      "evidence": [
+        "B05-C021-P0011",
+        "B05-C021-P0012",
+        "B05-C021-P0013",
+        "B05-C021-P0016",
+        "B05-C021-P0021",
+        "B05-C021-P0022",
+        "B05-C021-P0023"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Sheltered snowy-season route; no compass direction or measured distance."
+    },
+    {
+      "id": "B05-140",
+      "location": "Thestral feeding habitat",
+      "category": "grounds",
+      "description": "Hagrid lays the carcass on the ground and gives shrieking calls. Thestrals emerge among the trees, one from between two gnarled yews, and eat with pointed fangs; more arrive with leathery wings folded and long black tails swishing.",
+      "evidence": [
+        "B05-C021-P0023",
+        "B05-C021-P0024",
+        "B05-C021-P0025",
+        "B05-C021-P0026",
+        "B05-C021-P0027",
+        "B05-C021-P0029",
+        "B05-C021-P0030",
+        "B05-C021-P0034",
+        "B05-C021-P0036",
+        "B05-C021-P0038",
+        "B05-C021-P0039",
+        "B05-C021-P0077"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Actual Forest feeding site, distinct from the coach road."
+    },
+    {
+      "id": "B05-141",
+      "location": "Thestral herd history and work",
+      "category": "history",
+      "description": "Hagrid identifies a resident Forest herd founded with one male and five females; Tenebrus was the first born there. He says the herd mainly pulls school coaches, sometimes carrying Dumbledore on journeys, and tame animals have an exceptional sense of direction.",
+      "evidence": [
+        "B05-C021-P0036",
+        "B05-C021-P0038",
+        "B05-C021-P0057",
+        "B05-C021-P0060",
+        "B05-C021-P0062",
+        "B05-C021-P0066",
+        "B05-C021-P0071"
+      ],
+      "certainty": "reported",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Reported husbandry and abilities; not a census of the current herd."
+    },
+    {
+      "id": "B05-142",
+      "location": "Thestral visibility rule",
+      "category": "magic",
+      "description": "Hermione states, and Hagrid confirms, that people who have seen death can see Thestrals. Harry, Neville and one Slytherin see the feeding animals while others see flesh disappear.",
+      "evidence": [
+        "B05-C021-P0029",
+        "B05-C021-P0031",
+        "B05-C021-P0032",
+        "B05-C021-P0033",
+        "B05-C021-P0034",
+        "B05-C021-P0035",
+        "B05-C021-P0040",
+        "B05-C021-P0041",
+        "B05-C021-P0042",
+        "B05-C021-P0043",
+        "B05-C021-P0044",
+        "B05-C021-P0073",
+        "B05-C021-P0074",
+        "B05-C021-P0075",
+        "B05-C021-P0076",
+        "B05-C021-P0089"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Rule is reported and classroom visibility difference directly observed. Do not infer that Umbridge sees them from her mere arrival."
+    },
+    {
+      "id": "B05-143",
+      "location": "Forest to greenhouses in snow",
+      "category": "route",
+      "description": "Pupils return uphill toward the castle along channels previously made through snow. Hermione melts an easier route through untouched snow between the class and the greenhouses using hot air from her wand.",
+      "evidence": [
+        "B05-C021-P0082",
+        "B05-C021-P0090",
+        "B05-C021-P0091",
+        "B05-C021-P0092"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Retain travel sequence without straight-line assumptions."
+    },
+    {
+      "id": "B05-144",
+      "location": "December castle holiday state",
+      "category": "temporary",
+      "description": "Further snow and bitter cold keep younger pupils indoors during breaks. Prefects supervise castle decorations including tinsel and patrol corridors with Filch.",
+      "evidence": [
+        "B05-C021-P0094",
+        "B05-C021-P0095"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Tinsel difficulty is Ron’s report; no specific decorated room supplied."
+    },
+    {
+      "id": "B05-145",
+      "location": "Room of Requirement Christmas decorations",
+      "category": "temporary",
+      "description": "Torches flare when Harry enters. A hundred golden Harry-faced Christmas baubles hang from the ceiling until he removes them; a large clump of mistletoe with white berries remains overhead.",
+      "evidence": [
+        "B05-C021-P0098",
+        "B05-C021-P0099",
+        "B05-C021-P0100",
+        "B05-C021-P0101",
+        "B05-C021-P0102",
+        "B05-C021-P0104",
+        "B05-C021-P0146",
+        "B05-C021-P0147"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Harry attributes decorations to Dobby; actual baubles and mistletoe observed. Nargles are Luna’s unsupported claim."
+    },
+    {
+      "id": "B05-146",
+      "location": "DA Stunning-room capacity",
+      "category": "interior",
+      "description": "Cushions are laid across the floor for Stunning practice, but the room is too confined for everyone to practise simultaneously; half observe while half cast, then swap. Cushions are stacked afterward and pupils depart in twos and threes.",
+      "evidence": [
+        "B05-C021-P0114",
+        "B05-C021-P0119",
+        "B05-C021-P0120",
+        "B05-C021-P0121",
+        "B05-C021-P0122",
+        "B05-C021-P0123",
+        "B05-C021-P0125",
+        "B05-C021-P0127"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Concrete capacity constraint despite the room’s spacious appearance; no metric size."
+    },
+    {
+      "id": "B05-147",
+      "location": "Common-room hearthrug ink spill",
+      "category": "temporary",
+      "description": "The friends work beside the fire at a table and armchairs; Ron lies on the hearthrug and knocks his ink bottle over it when sitting up.",
+      "evidence": [
+        "B05-C021-P0155",
+        "B05-C021-P0156",
+        "B05-C021-P0167",
+        "B05-C021-P0171",
+        "B05-C021-P0206",
+        "B05-C021-P0210",
+        "B05-C021-P0211",
+        "B05-C021-P0212"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Ink spill is temporary; no subsequent rug cleaning described."
+    },
+    {
+      "id": "B05-148",
+      "location": "Boys’ dormitory window and bed relation",
+      "category": "interior",
+      "description": "With his bed hangings open, Harry sees stars through a window beside Neville’s bed. His glasses rest on his bedside table and Ron speaks from his right; McGonagall later reaches the dormitory via the stairs.",
+      "evidence": [
+        "B05-C021-P0216",
+        "B05-C021-P0217",
+        "B05-C021-P0221",
+        "B05-C021-P0231",
+        "B05-C021-P0233",
+        "B05-C021-P0240",
+        "B05-C021-P0247",
+        "B05-C021-P0248",
+        "B05-C021-P0249"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Right is from Harry’s position in bed; the subsequent snake-vision corridor is not Hogwarts."
     }
   ],
   "chapter_reviews": [
@@ -2317,6 +2550,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs, including entire giant expedition account. Continental mountain camp and lake are not Hogwarts terrain; retained cabin visit, search, local travel and reported domestic herd."
+    },
+    {
+      "chapter": 21,
+      "reviewed_ranges": [
+        [
+          1,
+          259
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph including full Forest lesson, final preholiday DA lesson, kiss discussion, ordinary dream and snake vision. Dream baubles are not installed room decor; attacked-man corridor is not assigned to school."
     }
   ]
 }
