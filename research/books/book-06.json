@@ -2829,6 +2829,146 @@
       "certainty": "reported",
       "temporal": "Night of tower attack, June 1997",
       "model_notes": "Security limitation with remote magical communication, not a geometry feature; retain as an access/guard-state constraint. Dumbledore’s reconstruction of the bathroom delivery is a deduction, not his eyewitness account."
+    },
+    {
+      "id": "B06-183",
+      "location": "Astronomy stair–battle corridor",
+      "category": "route",
+      "description": "From the rampart door Harry runs down the dark spiral stair, jumps its final ten steps and lands in a dim corridor. Snape escapes around a corner at the corridor’s far end.",
+      "evidence": [
+        "B06-C028-P0003",
+        "B06-C028-P0005",
+        "B06-C028-P0007",
+        "B06-C028-P0017",
+        "B06-C028-P0018"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night of tower attack, June 1997",
+      "model_notes": "Top-to-corridor connection; ten is the number of steps jumped, not the staircase’s total step count."
+    },
+    {
+      "id": "B06-184",
+      "location": "Corridor structural battle damage",
+      "category": "temporary",
+      "description": "Dust fills the corridor and roughly half its ceiling appears collapsed. Curses ricochet off stone walls, crack stone, shatter a nearby window and blast wall fragments overhead. Blood and fallen people make the floor slippery and obstructed.",
+      "evidence": [
+        "B06-C028-P0007",
+        "B06-C028-P0009",
+        "B06-C028-P0011",
+        "B06-C028-P0012",
+        "B06-C028-P0013",
+        "B06-C028-P0016",
+        "B06-C028-P0017",
+        "B06-C028-P0018"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night of tower attack, June 1997",
+      "model_notes": "Observed local damage; “half” is an impression, not surveyed area. Avoid labelling fallen people dead before later confirmation."
+    },
+    {
+      "id": "B06-185",
+      "location": "Marble-stair landing portrait and destroyed armour",
+      "category": "temporary",
+      "description": "After further corridor corners Harry shelters behind a suit of armour that explodes under a curse. On the landing a portrait of several wig-wearing witches is struck; its occupants flee into neighbouring paintings as the Carrows descend the marble stairs.",
+      "evidence": [
+        "B06-C028-P0018",
+        "B06-C028-P0019"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night of tower attack, June 1997",
+      "model_notes": "Armour, landing artwork cluster and dated destruction; portrait subjects move between frames, rather than physically into the corridor."
+    },
+    {
+      "id": "B06-186",
+      "location": "Concealed stair shortcut with vanishing step",
+      "category": "route",
+      "description": "Harry uses a concealed staircase shortcut, jumping a vanishing step halfway down. A tapestry at its bottom opens into a corridor occupied by Hufflepuffs; he then reaches a landing and descends the remaining marble stairs to the Entrance Hall, overtaking the Carrows.",
+      "evidence": [
+        "B06-C028-P0020",
+        "B06-C028-P0021",
+        "B06-C028-P0022",
+        "B06-C028-P0026"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night of tower attack, June 1997",
+      "model_notes": "Shortcut joins levels of the marble-stair route and contains a specific step hazard. Hufflepuff presence does not establish this corridor as their common-room entrance or basement."
+    },
+    {
+      "id": "B06-187",
+      "location": "Entrance Hall blast damage and Gryffindor hourglass",
+      "category": "temporary",
+      "description": "The oak front doors have been blasted open, blood smears the flagstone floor, and students shelter against the walls. The giant Gryffindor hourglass is cursed and its rubies fall rattling onto the flagstones.",
+      "evidence": [
+        "B06-C028-P0022",
+        "B06-C028-P0023"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night of tower attack, June 1997",
+      "model_notes": "Fixed score hourglass material/contents and damaged state. No dimensions, exact hourglass wall position or conditions of the other houses’ counters supplied."
+    },
+    {
+      "id": "B06-188",
+      "location": "Lawn escape route and Apparition boundary",
+      "category": "route",
+      "description": "From the front doors the fugitives cross the lawn towards the gates, intending to Disapparate beyond the school boundary. Hagrid intercepts them after emerging from his cabin; Snape eventually Disapparates just outside the boundary while Buckbeak circles the gates.",
+      "evidence": [
+        "B06-C028-P0023",
+        "B06-C028-P0024",
+        "B06-C028-P0025",
+        "B06-C028-P0028",
+        "B06-C028-P0030",
+        "B06-C028-P0044",
+        "B06-C028-P0052",
+        "B06-C028-P0053"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night of tower attack, June 1997",
+      "model_notes": "Boundary crossing is the operative restriction; gates are the route used here, not proof that Apparition is restricted to a single point outside them. Twenty yards at P0030 is a transient duel separation, not fixed site scale."
+    },
+    {
+      "id": "B06-189",
+      "location": "Hagrid cabin fire and extinguishing",
+      "category": "temporary",
+      "description": "Incendio ignites Hagrid’s wooden house, throwing orange light across the grounds and the nearby fight. Fang is trapped inside until Hagrid carries him out. Harry and Hagrid extinguish the flames with water jets, leaving a smoking wreck smelling of burnt wood and dog hair.",
+      "evidence": [
+        "B06-C028-P0032",
+        "B06-C028-P0033",
+        "B06-C028-P0034",
+        "B06-C028-P0035",
+        "B06-C028-P0046",
+        "B06-C028-P0047",
+        "B06-C028-P0051",
+        "B06-C028-P0055",
+        "B06-C028-P0057",
+        "B06-C028-P0061",
+        "B06-C028-P0062",
+        "B06-C028-P0063",
+        "B06-C028-P0064",
+        "B06-C028-P0067"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night of tower attack, June 1997",
+      "model_notes": "Dated major cabin damage, not demonstrated total destruction or reconstruction. Hagrid believes injured Bowtruckles inside have burned; their fate is not inspected. No proof all previous fixtures survive."
+    },
+    {
+      "id": "B06-190",
+      "location": "Castle-front night lighting and Astronomy Tower foot",
+      "category": "exterior",
+      "description": "Many castle windows are now lit; light from the open oak doors falls onto the drive and lawn, and people descend the front steps. A crowd gathers on the grass at the foot of the Astronomy Tower near the castle front, directly beneath the Dark Mark, around Dumbledore’s body. Lit wands illuminate the scene.",
+      "evidence": [
+        "B06-C028-P0082",
+        "B06-C028-P0083",
+        "B06-C028-P0084",
+        "B06-C028-P0086",
+        "B06-C028-P0087",
+        "B06-C028-P0088",
+        "B06-C028-P0089",
+        "B06-C028-P0090",
+        "B06-C028-P0093"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night of tower attack, June 1997",
+      "model_notes": "Tower base–front lawn relationship and temporary light sources. Harry’s distant imagined body at P0083 is superseded by close observation; no exact tower-to-door spacing."
     }
   ],
   "chapter_reviews": [
@@ -3128,6 +3268,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two blocks. Captured village lights/views/brooms, aerial route/boundary inference, highest-tower ramparts/iron-ring stair door, Mark lighting/trap report, Cabinet route with earlier evidence reconciliation, stair obstruction and exterior fall. Distinguish Draco’s accounts, Dumbledore’s reconstructions and Harry’s interpretations."
+    },
+    {
+      "chapter": 28,
+      "reviewed_ranges": [
+        [
+          1,
+          97
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in a single non-truncated block. Captured spiral descent and corridor damage, marble landing artwork/armour, concealed stair/vanishing step/tapestry shortcut, blasted front/score hourglass, lawn/gates escape, cabin fire/extinguishing and tower-foot/body/lighting relationship. Harry’s guesses about a blocked Room retreat are not confirmed physical changes."
     }
   ]
 }
