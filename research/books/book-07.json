@@ -399,6 +399,76 @@
       "certainty": "reported",
       "temporal": "March 1998 account of remembered school space",
       "model_notes": "Harry is falsely claiming Slytherin membership; Scabior accepts the architectural answer as convincing. Retain the account as reported rather than a witnessed current state. No window form, lake depth or entrance password supplied."
+    },
+    {
+      "id": "B07-029",
+      "location": "Tallest tower / lawn at its foot",
+      "category": "exterior",
+      "description": "Dobby’s death recalls Harry kneeling beside Dumbledore’s body on the grass at the foot of Hogwarts’ tallest tower.",
+      "evidence": [
+        "B07-C024-P0001"
+      ],
+      "certainty": "explicit",
+      "temporal": "March 1998 recollection of June 1997",
+      "model_notes": "Confirms highest-tower base on lawn; no new tower plan or height."
+    },
+    {
+      "id": "B07-030",
+      "location": "Lakeside funeral site / Dumbledore’s tomb",
+      "category": "temporary",
+      "description": "Harry remembers rows and rows of golden chairs at Dumbledore’s funeral, the Minister for Magic in the front row, and a stately white marble tomb.",
+      "evidence": [
+        "B07-C024-P0022"
+      ],
+      "certainty": "explicit",
+      "temporal": "March 1998 recollection of June 1997 funeral",
+      "model_notes": "Adds chair colour and seating arrangement. The rough earth grave and bushes described in the present scene belong to Dobby’s remote Shell Cottage burial."
+    },
+    {
+      "id": "B07-031",
+      "location": "Hogsmeade / regional position",
+      "category": "route",
+      "description": "In the dawn vision, Hogsmeade’s main street remains dark while the sun has already risen at Shell Cottage; the narration attributes the difference to its position much farther north.",
+      "evidence": [
+        "B07-C024-P0046",
+        "B07-C024-P0054",
+        "B07-C024-P0111",
+        "B07-C024-P0225"
+      ],
+      "certainty": "explicit",
+      "temporal": "March 1998 early-morning journey",
+      "model_notes": "Narrated relative geography, not a usable numerical latitude, travel distance or astronomical measurement."
+    },
+    {
+      "id": "B07-032",
+      "location": "Hogwarts gates → grounds → lakeshore → castle path",
+      "category": "route",
+      "description": "Harry sees Voldemort at the school gates as a lamp approaches through the pre-dawn. He then experiences travel alongside Snape up through the grounds towards the lake. Snape returns up the path towards the castle; Voldemort continues around the lake edge, with the castle in view and no lights in its windows.",
+      "evidence": [
+        "B07-C024-P0238",
+        "B07-C024-P0248",
+        "B07-C024-P0249",
+        "B07-C024-P0250",
+        "B07-C024-P0251"
+      ],
+      "certainty": "explicit",
+      "temporal": "March 1998 pre-dawn",
+      "model_notes": "Narrated through Harry’s connection to Voldemort. Preserve the sequence and uphill wording without assuming the exact junction of the lake path and entrance drive."
+    },
+    {
+      "id": "B07-033",
+      "location": "Dumbledore’s lakeside tomb",
+      "category": "temporary",
+      "description": "The white marble tomb stands beside the lake and is reflected in its dark water. Voldemort splits it open lengthwise from head to foot, revealing a shrouded, long thin body; the wrappings open and the wand is removed from beneath the folded hands on its chest.",
+      "evidence": [
+        "B07-C024-P0252",
+        "B07-C024-P0253",
+        "B07-C024-P0254",
+        "B07-C024-P0255"
+      ],
+      "certainty": "explicit",
+      "temporal": "March 1998 tomb desecration",
+      "model_notes": "Dated open/broken state, not the intact funeral model. No lid thickness, cavity dimensions or repair yet established."
     }
   ],
   "chapter_reviews": [
@@ -654,6 +724,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs in three complete chunks. Recorded Harry’s Slytherin common-room account. Malfoy Manor, its escape-proof cellar, the distant black fortress and Shell Cottage are separate sites; no architectural details from them transferred to Hogwarts."
+    },
+    {
+      "chapter": 24,
+      "reviewed_ranges": [
+        [
+          1,
+          255
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three complete chunks. Recorded tower-base and funeral recollections, northern Hogsmeade position, gate/grounds/lake journey and tomb damage through Voldemort vision. Shell Cottage architecture excluded."
     }
   ]
 }
