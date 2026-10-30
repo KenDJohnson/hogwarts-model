@@ -2632,6 +2632,19 @@
       "certainty": "reported",
       "temporal": "Trelawney’s recruitment, recalled June 1997",
       "model_notes": "Limited village lodging/stair context for the school visit; no room floor number, exact stair configuration or modern condition established."
+    },
+    {
+      "id": "B06-172",
+      "location": "Headmaster office scale comparison",
+      "category": "interior",
+      "description": "The small flat rocky island in the remote sea cave is described as no larger than Dumbledore’s office.",
+      "evidence": [
+        "B06-C026-P0109",
+        "B06-C026-P0111"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1997 cave visit",
+      "model_notes": "Relative scale comparison only, with no numeric dimension. The distant cave is explicitly outside Hogwarts surroundings and its underground lake is not the Hogwarts lake; do not transplant its layout, boat or Inferi into the school grounds."
     }
   ],
   "chapter_reviews": [
@@ -2909,6 +2922,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two blocks, including Trelawney’s reports and all departure dialogue. Captured newspaper archive, corridor sides/niche, reported Room ejection, sunset view, protection claim, front drive/gates and lane/pub/Apparition route. Off-site cave identified as many miles away, so it is not a Hogwarts-lake or grounds cave."
+    },
+    {
+      "chapter": 26,
+      "reviewed_ranges": [
+        [
+          1,
+          225
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two non-truncated blocks, including sea approach, full cave/lake voyage, dialogue and return. This cave is identified in C025-P0139 as many miles away on the coast; its lake, island, boat and defences are not Hogwarts grounds and are excluded except the explicit office-size comparison at P0111. No Hogwarts underwater review is implied by reading this remote lake scene."
     }
   ]
 }
