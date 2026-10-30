@@ -3297,6 +3297,303 @@
       "certainty": "explicit",
       "temporal": "March–early April 1996, new Divination class and DA discovery",
       "model_notes": "Observed phoenix departure is separate from prohibited ordinary Disapparition. Destination not shown."
+    },
+    {
+      "id": "B05-206",
+      "location": "Headmistress notices",
+      "category": "temporary",
+      "description": "Decree Twenty-eight notices naming Umbridge Headmistress go up throughout the school overnight.",
+      "evidence": [
+        "B05-C028-P0001",
+        "B05-C028-P0002",
+        "B05-C028-P0003",
+        "B05-C028-P0004",
+        "B05-C028-P0005"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Administrative/visual state following Dumbledore’s departure."
+    },
+    {
+      "id": "B05-207",
+      "location": "Headmaster office sealed against Umbridge",
+      "category": "magic",
+      "description": "Ernie relays the Fat Friar’s report that Umbridge could not pass the gargoyle after searching the castle and grounds: the office sealed itself against her.",
+      "evidence": [
+        "B05-C028-P0006"
+      ],
+      "certainty": "reported",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Secondhand report, not Harry’s direct test; no new locking mechanism invented."
+    },
+    {
+      "id": "B05-208",
+      "location": "Entrance Hall House hourglasses",
+      "category": "furnishing",
+      "description": "Giant House-point hourglasses occupy wall niches in an Entrance Hall corner. Gems rise from the lower bulbs as points are deducted; Slytherin’s contains emeralds. The marble staircase reaches the same hall.",
+      "evidence": [
+        "B05-C028-P0007",
+        "B05-C028-P0009",
+        "B05-C028-P0019",
+        "B05-C028-P0021",
+        "B05-C028-P0022",
+        "B05-C028-P0134"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Specific gem only given for Slytherin here; Gryffindor is later nearly empty."
+    },
+    {
+      "id": "B05-209",
+      "location": "First-floor Vanishing Cabinet incident",
+      "category": "magic",
+      "description": "Fred and George say they forced Montague headfirst into a Vanishing Cabinet on the first floor and do not know where he went. Later Malfoy reports him jammed in a fourth-floor toilet, confused.",
+      "evidence": [
+        "B05-C028-P0023",
+        "B05-C028-P0025",
+        "B05-C028-P0028",
+        "B05-C028-P0165",
+        "B05-C028-P0166",
+        "B05-C028-P0167"
+      ],
+      "certainty": "reported",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Both incident accounts are reported. Do not infer an ordinary passage linking those floors."
+    },
+    {
+      "id": "B05-210",
+      "location": "Entrance Hall to Umbridge office",
+      "category": "route",
+      "description": "Filch takes Harry from the Entrance Hall up the marble staircase past its first landing to Umbridge’s office.",
+      "evidence": [
+        "B05-C028-P0049",
+        "B05-C028-P0050",
+        "B05-C028-P0052",
+        "B05-C028-P0054"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Third-floor location established elsewhere; this journey omits intervening details."
+    },
+    {
+      "id": "B05-211",
+      "location": "Umbridge office Headmistress state",
+      "category": "furnishing",
+      "description": "A large wooden HEADMISTRESS block with gold letters lies across the desk front. Harry’s Firebolt and the twins’ Cleansweeps are chained and padlocked to a stout iron wall peg behind the desk; kitten plates animate overhead.",
+      "evidence": [
+        "B05-C028-P0055",
+        "B05-C028-P0056",
+        "B05-C028-P0059",
+        "B05-C028-P0070"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Confiscated storage is now directly observed."
+    },
+    {
+      "id": "B05-212",
+      "location": "Office drinks and vase",
+      "category": "temporary",
+      "description": "Umbridge conjures drinks onto her desk and gives Harry tea in a cup and saucer. During the distraction he empties it into a nearby vase of dried flowers.",
+      "evidence": [
+        "B05-C028-P0063",
+        "B05-C028-P0067",
+        "B05-C028-P0068",
+        "B05-C028-P0073",
+        "B05-C028-P0080",
+        "B05-C028-P0087",
+        "B05-C028-P0089"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Tea contamination not established here; cup does not prove a permanent refreshment station."
+    },
+    {
+      "id": "B05-213",
+      "location": "School communication surveillance claim",
+      "category": "magic",
+      "description": "Umbridge says every Hogwarts fire except her own is watched by a Floo Network Regulator, the Squad reads all owl post and Filch monitors all secret routes into and out of the castle.",
+      "evidence": [
+        "B05-C028-P0082",
+        "B05-C028-P0085"
+      ],
+      "certainty": "reported",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Reported surveillance scope and explicit office-fire exception; does not mean every passage is physically closed."
+    },
+    {
+      "id": "B05-214",
+      "location": "Fireworks outbreak and route to second floor",
+      "category": "temporary",
+      "description": "One floor below Umbridge’s office, fireworks fill corridors with green-and-gold dragons, five-foot pink Catherine wheels, silver-tailed rockets, airborne written words and firecrackers. A wheel exits a stair window across the grounds; dragons and a purple bat use an open corridor-end door toward the second floor.",
+      "evidence": [
+        "B05-C028-P0087",
+        "B05-C028-P0089",
+        "B05-C028-P0090",
+        "B05-C028-P0091",
+        "B05-C028-P0092",
+        "B05-C028-P0093",
+        "B05-C028-P0094"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Narration says one floor down, then movement toward second floor; preserve both without forcing a geometrically consistent floor grid."
+    },
+    {
+      "id": "B05-215",
+      "location": "Fireworks painting damage and cupboard",
+      "category": "temporary",
+      "description": "A Stunned rocket explodes and blasts a hole in a painting of a witch in a meadow; she escapes into the adjacent card-playing wizards’ painting. Filch takes a broom from a nearby cupboard and its head catches fire.",
+      "evidence": [
+        "B05-C028-P0095",
+        "B05-C028-P0096",
+        "B05-C028-P0097"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Specific local damage and neighbouring frames; no restoration shown."
+    },
+    {
+      "id": "B05-216",
+      "location": "Tapestry-hidden corridor door",
+      "category": "route",
+      "description": "Harry ducks through a door concealed behind a tapestry a short way along the fireworks corridor, finding the twins just behind it.",
+      "evidence": [
+        "B05-C028-P0098",
+        "B05-C028-P0099",
+        "B05-C028-P0100"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Unnamed hidden opening; no destination beyond this refuge supplied."
+    },
+    {
+      "id": "B05-217",
+      "location": "Fireworks magical persistence",
+      "category": "magic",
+      "description": "Fireworks continue spreading into classrooms all afternoon; George says Vanishing them multiplies them tenfold. Escaped rockets pass Gryffindor windows at night; a Catherine-wheel/rocket collision produces flying pink-and-silver piglets.",
+      "evidence": [
+        "B05-C028-P0100",
+        "B05-C028-P0101",
+        "B05-C028-P0102",
+        "B05-C028-P0103",
+        "B05-C028-P0104",
+        "B05-C028-P0105",
+        "B05-C028-P0111",
+        "B05-C028-P0114",
+        "B05-C028-P0115",
+        "B05-C028-P0116",
+        "B05-C028-P0126",
+        "B05-C028-P0127",
+        "B05-C028-P0129"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Multiplication is reported; persistence, outdoor flights and hybrid display observed. Lower Gryffindor dormitories are audible beneath Harry’s."
+    },
+    {
+      "id": "B05-218",
+      "location": "Pensieve light in Snape’s office",
+      "category": "temporary",
+      "description": "After the interrupted lesson the Pensieve stands on Snape’s desk, casting rippling silvery light onto the wall and doorframe. Harry views the Hall memory through its transparent contents, then enters it.",
+      "evidence": [
+        "B05-C028-P0149",
+        "B05-C028-P0151",
+        "B05-C028-P0155",
+        "B05-C028-P0157",
+        "B05-C028-P0168",
+        "B05-C028-P0169",
+        "B05-C028-P0171",
+        "B05-C028-P0172",
+        "B05-C028-P0174",
+        "B05-C028-P0176",
+        "B05-C028-P0177",
+        "B05-C028-P0179"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Memory-space access is magical, not a physical opening in the desk or school floor."
+    },
+    {
+      "id": "B05-219",
+      "location": "Historical Great Hall examination layout",
+      "category": "history",
+      "description": "In Snape’s O.W.L. memory the four House tables are absent, replaced by over a hundred small tables facing one direction, with aisles for invigilation. Sunlight enters through high windows.",
+      "evidence": [
+        "B05-C028-P0181",
+        "B05-C028-P0182",
+        "B05-C028-P0183",
+        "B05-C028-P0186",
+        "B05-C028-P0187",
+        "B05-C028-P0190",
+        "B05-C028-P0191",
+        "B05-C028-P0193",
+        "B05-C028-P0194",
+        "B05-C028-P0197"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Narrated Pensieve observation of past layout, not present-day furniture."
+    },
+    {
+      "id": "B05-220",
+      "location": "Historical Hall-to-lakeshore route",
+      "category": "history",
+      "description": "The exam crowd leaves through doors into the Entrance Hall and front doors to sunlit grounds, then walks down the lawn toward the lake.",
+      "evidence": [
+        "B05-C028-P0197",
+        "B05-C028-P0198",
+        "B05-C028-P0199",
+        "B05-C028-P0202",
+        "B05-C028-P0207"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Travel shown in Snape’s memory; no invented date beyond his O.W.L. year."
+    },
+    {
+      "id": "B05-221",
+      "location": "Historical lakeshore beech and bushes",
+      "category": "history",
+      "description": "James’s group sits on grass beneath the same lakeside beech used by Harry’s group in autumn. Nearby dense bushes shade Snape; girls sit on the bank with bare feet in the smooth sunlit water. Open grass between them accommodates the confrontation.",
+      "evidence": [
+        "B05-C028-P0211",
+        "B05-C028-P0212",
+        "B05-C028-P0213",
+        "B05-C028-P0224",
+        "B05-C028-P0227",
+        "B05-C028-P0228",
+        "B05-C028-P0229",
+        "B05-C028-P0230",
+        "B05-C028-P0231",
+        "B05-C028-P0237",
+        "B05-C028-P0242",
+        "B05-C028-P0253",
+        "B05-C028-P0256",
+        "B05-C028-P0269",
+        "B05-C028-P0275"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Explicit cross-time identity of beech. Short wand-flight distances are action positions, not a fixed site plan."
+    },
+    {
+      "id": "B05-222",
+      "location": "Snape study stone floor and jar damage",
+      "category": "temporary",
+      "description": "Harry returns from the Pensieve to the study’s stone floor. Snape throws him down; a jar of dead cockroaches explodes over his head as he exits. Harry flees along the corridor and climbs until three floors separate them.",
+      "evidence": [
+        "B05-C028-P0277",
+        "B05-C028-P0279",
+        "B05-C028-P0285",
+        "B05-C028-P0287",
+        "B05-C028-P0288",
+        "B05-C028-P0289",
+        "B05-C028-P0290"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Local breakage and flight; stopping floor is not named and no repair is shown."
     }
   ],
   "chapter_reviews": [
@@ -3596,6 +3893,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read every paragraph, complete enchanted classroom, warning, evacuation, hearing and office fight. Preserved hostile claims separately from narrated attempted bathroom escape."
+    },
+    {
+      "chapter": 28,
+      "reviewed_ranges": [
+        [
+          1,
+          290
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three chunks, including entire fireworks sequence, Ministry dream, interrupted lesson and complete Pensieve memory. Historical lakeshore and exam layout explicitly dated as past states."
     }
   ]
 }
