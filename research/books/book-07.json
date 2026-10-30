@@ -208,6 +208,20 @@
       "certainty": "explicit",
       "temporal": "Recollection in September 1997 of Umbridge’s 1995–96 Hogwarts office",
       "model_notes": "Confirms cabinets and folder organisation, without assigning their room position or number."
+    },
+    {
+      "id": "B07-016",
+      "location": "Forbidden Forest / Hagrid’s hut",
+      "category": "grounds",
+      "description": "Harry initially mistakes another wood for the Forbidden Forest and imagines slipping through its trees to Hagrid’s hut. He distinguishes the other wood by its younger, more widely spaced trees and clearer ground.",
+      "evidence": [
+        "B07-C014-P0001",
+        "B07-C014-P0002",
+        "B07-C014-P0034"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1997 recollection",
+      "model_notes": "Relative comparison supports older, denser trees and more obstructed ground in the Forbidden Forest, not uniform tree ages or measured spacing. The observed canopy and clearing belong to the World Cup woods, not Hogwarts."
     }
   ],
   "chapter_reviews": [
@@ -353,6 +367,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs. Recorded explicit comparisons with Hogwarts office decorations and Filch’s files. Remaining Ministry architecture, courtroom and escape route are outside scope."
+    },
+    {
+      "chapter": 14,
+      "reviewed_ranges": [
+        [
+          1,
+          137
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Recorded explicit Forbidden Forest comparison and imagined wooded approach to Hagrid. World Cup woods, tent and Gregorovitch workshop are not school sites."
     }
   ]
 }
