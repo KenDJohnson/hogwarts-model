@@ -822,6 +822,191 @@
       "certainty": "explicit",
       "temporal": "May 1998 return to Hogwarts",
       "model_notes": "Dormitory destination and upward relation are Harry’s guess, distinct from directly observed niche/door placement. Circlet replica supplies the visible diadem shape, not a claim that the actual object is here."
+    },
+    {
+      "id": "B07-056",
+      "location": "Ravenclaw common room / dormitory staircase",
+      "category": "route",
+      "description": "Alecto’s fall rattles glass in bookcases; the ceiling trembles with running feet from sleepers above, who enter through the dormitory door. Students retreat back up the staircase to their beds.",
+      "evidence": [
+        "B07-C030-P0002",
+        "B07-C030-P0004",
+        "B07-C030-P0006",
+        "B07-C030-P0014",
+        "B07-C030-P0022",
+        "B07-C030-P0032"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, preparations for the battle",
+      "model_notes": "Confirms the previous chapter’s guessed dormitories above and stair access. Bookcases have glass fronts."
+    },
+    {
+      "id": "B07-057",
+      "location": "Ravenclaw entrance / reasoning challenge",
+      "category": "magic",
+      "description": "Amycus cannot open the door by shouting, shaking or loud bangs. McGonagall answers the eagle’s question about vanished objects with an explanation of non-being, and the door opens. She says Flitwick previously admitted Alecto at Amycus’s request.",
+      "evidence": [
+        "B07-C030-P0011",
+        "B07-C030-P0012",
+        "B07-C030-P0013",
+        "B07-C030-P0014",
+        "B07-C030-P0016",
+        "B07-C030-P0017",
+        "B07-C030-P0019",
+        "B07-C030-P0020",
+        "B07-C030-P0021"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, preparations for the battle",
+      "model_notes": "Correct reasoning admits a non-Ravenclaw teacher. Prior admission of Alecto is McGonagall’s report; no house-only enchantment is established."
+    },
+    {
+      "id": "B07-058",
+      "location": "Ravenclaw common room / battle damage and restraint",
+      "category": "temporary",
+      "description": "Amycus is thrown into a glass-fronted bookcase, smashing the glass. McGonagall binds the Carrows with silver rope and hoists their netted bodies to hang under the ceiling, here described as blue and gold.",
+      "evidence": [
+        "B07-C030-P0040",
+        "B07-C030-P0053",
+        "B07-C030-P0054",
+        "B07-C030-P0068"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, preparations for the battle",
+      "model_notes": "Dated broken furniture and suspended prisoners. Preserve this blue-and-gold ceiling wording alongside the preceding star-painted dome and bronze wall silks rather than silently standardising colours."
+    },
+    {
+      "id": "B07-059",
+      "location": "School evacuation / magical transport constraints",
+      "category": "magic",
+      "description": "McGonagall says the Floo Network is watched and Apparition impossible within the grounds. Harry proposes evacuating through the Hog’s Head tunnel and Disapparating from that pub while attackers focus on school boundaries.",
+      "evidence": [
+        "B07-C030-P0058",
+        "B07-C030-P0060",
+        "B07-C030-P0062",
+        "B07-C030-P0064",
+        "B07-C030-P0065",
+        "B07-C030-P0066",
+        "B07-C030-P0067"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998, preparations for the battle",
+      "model_notes": "Grounds prohibition and observed town street failure do not preclude the specifically proposed pub transport endpoint. Evacuation concerns hundreds of students."
+    },
+    {
+      "id": "B07-060",
+      "location": "Ravenclaw spiral stair → lower corridor / unnamed classroom",
+      "category": "route",
+      "description": "The group descends the spiral staircase and travels along corridors, then descends two additional floors before meeting Snape concealed behind armour. A wall torch sits in a bracket. Snape flees through a classroom door farther along that corridor and escapes through its window, flying towards the perimeter wall.",
+      "evidence": [
+        "B07-C030-P0069",
+        "B07-C030-P0070",
+        "B07-C030-P0071",
+        "B07-C030-P0073",
+        "B07-C030-P0090",
+        "B07-C030-P0091",
+        "B07-C030-P0092",
+        "B07-C030-P0094",
+        "B07-C030-P0096",
+        "B07-C030-P0097",
+        "B07-C030-P0099",
+        "B07-C030-P0100",
+        "B07-C030-P0103"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, preparations for the battle",
+      "model_notes": "Do not equate “two more floors” with a surveyed tower height. The classroom is unnamed; view establishes line of sight towards the perimeter."
+    },
+    {
+      "id": "B07-061",
+      "location": "Unnamed corridor and classroom / duel damage",
+      "category": "temporary",
+      "description": "The torch is pulled from its wall bracket and transformed into a corridor-filling ring of fire, then serpent, smoke and daggers. Daggers pierce a suit of armour, which is animated, hurled against the wall and shattered. Snape leaves a body-shaped hole in the classroom window.",
+      "evidence": [
+        "B07-C030-P0090",
+        "B07-C030-P0091",
+        "B07-C030-P0094",
+        "B07-C030-P0096",
+        "B07-C030-P0103"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, preparations for the battle",
+      "model_notes": "Dated magical transformations and broken fittings, not permanent materials of corridor structure."
+    },
+    {
+      "id": "B07-062",
+      "location": "Grounds defensive enchantments",
+      "category": "magic",
+      "description": "From the broken classroom window Flitwick directs complex protective incantations into the grounds, producing a rushing sound like wind; Protego horribilis is named. The teachers expect to delay Voldemort rather than exclude him indefinitely.",
+      "evidence": [
+        "B07-C030-P0105",
+        "B07-C030-P0106",
+        "B07-C030-P0107",
+        "B07-C030-P0108",
+        "B07-C030-P0109",
+        "B07-C030-P0111",
+        "B07-C030-P0112",
+        "B07-C030-P0114",
+        "B07-C030-P0120"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, preparations for the battle",
+      "model_notes": "Sprout’s named plants are planned weapons at this point, not observed planted barricades."
+    },
+    {
+      "id": "B07-063",
+      "location": "Castle statues and suits of armour",
+      "category": "temporary",
+      "description": "McGonagall animates statues and armour along the corridor, with echoing crashes indicating the same on floors above and below, and orders them to man the boundaries. They leave their plinths, including figures smaller and larger than life and animals; the armour carries swords and spiked balls on chains.",
+      "evidence": [
+        "B07-C030-P0124",
+        "B07-C030-P0125",
+        "B07-C030-P0131",
+        "B07-C030-P0132",
+        "B07-C030-P0133",
+        "B07-C030-P0134"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, preparations for the battle",
+      "model_notes": "Records original plinth-mounted displays and mobilised battle state. Activation elsewhere is inferred by Harry from sound and is described as such."
+    },
+    {
+      "id": "B07-064",
+      "location": "Room of Requirement / refuge return and bathroom",
+      "category": "route",
+      "description": "Harry and Luna return from the next staircase to the enchanted wall, which opens when Harry leans against it, and descend the steep staircase into a now densely crowded refuge. The open doorway to its bathroom leads directly off the Room; Harry finds it empty.",
+      "evidence": [
+        "B07-C030-P0135",
+        "B07-C030-P0136",
+        "B07-C030-P0140",
+        "B07-C030-P0142",
+        "B07-C030-P0143",
+        "B07-C030-P0148",
+        "B07-C030-P0149",
+        "B07-C030-P0150",
+        "B07-C030-P0162",
+        "B07-C030-P0163",
+        "B07-C030-P0180",
+        "B07-C030-P0182",
+        "B07-C030-P0190",
+        "B07-C030-P0191",
+        "B07-C030-P0192"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, preparations for the battle",
+      "model_notes": "Demonstrates bidirectional return through the same evening’s castle exit and direct bathroom connection. Repeated arrivals use the separate Hog’s Head tunnel."
+    },
+    {
+      "id": "B07-065",
+      "location": "Hogwarts main gates / night view",
+      "category": "exterior",
+      "description": "Harry’s final vision looks through high wrought-iron gates flanked by pillars carrying winged boars, across dark grounds to the castle blazing with lights.",
+      "evidence": [
+        "B07-C030-P0194"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, preparations for the battle",
+      "model_notes": "Gate material, flanking ornaments and castle sightline; change from unlit pre-dawn windows in chapter 24 reflects a different night/state."
     }
   ],
   "chapter_reviews": [
@@ -1143,6 +1328,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs in two complete chunks. Recorded all described tunnel surfaces and route, sealed passage reports, graffiti, refuge configurations/access/food/bathroom, changing fifth-floor exit, corridor route and Ravenclaw entry/interior/statue. Distinguished guessed dormitory connection from observation."
+    },
+    {
+      "chapter": 30,
+      "reviewed_ranges": [
+        [
+          1,
+          194
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in two complete chunks. Recorded confirmed dormitories above Ravenclaw, entry challenge, damaged bookcase, suspended Carrows, evacuation constraints, stair/corridor/classroom route, duel damage, protections, animated armour/statues, refuge bathroom and gate view. Remote Horcrux cave visions excluded."
     }
   ]
 }
