@@ -416,6 +416,414 @@
       "certainty": "explicit",
       "temporal": "First Defence lesson, September 1992",
       "model_notes": "First-lesson damage state; no repair timing is supplied."
+    },
+    {
+      "id": "B02-025",
+      "location": "Castle to Quidditch stadium — dawn route",
+      "category": "route",
+      "description": "Harry descends the dormitory spiral stair, crosses the common room, exits the portrait hole and leaves the castle for dew-covered grass and sloping lawns down to the stadium changing rooms.",
+      "evidence": [
+        "B02-C007-P0005",
+        "B02-C007-P0010",
+        "B02-C007-P0016",
+        "B02-C007-P0018",
+        "B02-C007-P0024",
+        "B02-C007-P0029",
+        "B02-C007-P0030",
+        "B02-C007-P0031",
+        "B02-C007-P0042"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1992, first Saturday",
+      "model_notes": "Reaffirms downhill pitch route; dawn mist and birdsong are seasonal scene conditions."
+    },
+    {
+      "id": "B02-026",
+      "location": "Quidditch changing room — seating and tactics boards",
+      "category": "furnishing",
+      "description": "Players sit on opposite sides of the changing room with a wall behind one side; Wood presents three boards of pitch diagrams, with coloured arrows animated by a wand tap.",
+      "evidence": [
+        "B02-C007-P0031",
+        "B02-C007-P0033",
+        "B02-C007-P0034",
+        "B02-C007-P0035",
+        "B02-C007-P0039",
+        "B02-C007-P0041"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1992, first Saturday",
+      "model_notes": "Seating is observed without a specified bench form. Portable tactical boards do not fix pitch shape beyond the text."
+    },
+    {
+      "id": "B02-027",
+      "location": "Quidditch stadium — high seats and sound",
+      "category": "grounds",
+      "description": "Colin occupies one of the highest spectator seats; his camera clicks sound strangely amplified across the otherwise deserted stadium. Players fly round the stadium and a corner.",
+      "evidence": [
+        "B02-C007-P0042",
+        "B02-C007-P0045",
+        "B02-C007-P0046",
+        "B02-C007-P0047",
+        "B02-C007-P0048",
+        "B02-C007-P0050"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1992, first Saturday",
+      "model_notes": "Corner wording alone is insufficient for a rectangular field or square stands."
+    },
+    {
+      "id": "B02-028",
+      "location": "Stadium to Hagrid’s hut — nearby refuge",
+      "category": "route",
+      "description": "Harry calls Hagrid’s the nearest place to take Ron. They leave the stadium, cross the grounds towards the Forest’s edge, and hide behind a nearby bush within twenty feet of the cabin when Lockhart emerges.",
+      "evidence": [
+        "B02-C007-P0087",
+        "B02-C007-P0088",
+        "B02-C007-P0090",
+        "B02-C007-P0091",
+        "B02-C007-P0092",
+        "B02-C007-P0093",
+        "B02-C007-P0094",
+        "B02-C007-P0095"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1992, first Saturday",
+      "model_notes": "Observed route and bush proximity; nearest is Harry’s judgment, not a measured comparison with hospital distance."
+    },
+    {
+      "id": "B02-029",
+      "location": "Hagrid’s cabin — corners, table and basin",
+      "category": "interior",
+      "description": "The one-room cabin has an enormous bed in one corner and a crackling fire in another. Chairs surround a scrubbed table used for tea; Hagrid brings a large copper basin for Ron.",
+      "evidence": [
+        "B02-C007-P0098",
+        "B02-C007-P0099",
+        "B02-C007-P0101",
+        "B02-C007-P0103",
+        "B02-C007-P0107",
+        "B02-C007-P0121",
+        "B02-C007-P0125"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1992, first Saturday",
+      "model_notes": "Adds separate bed/fire corners and table finish; rooster and basin are temporary objects."
+    },
+    {
+      "id": "B02-030",
+      "location": "Hagrid’s rear vegetable patch",
+      "category": "grounds",
+      "description": "A small vegetable patch behind the cabin contains about a dozen boulder-sized pumpkins being grown for the Hallowe’en feast. Hagrid’s pink umbrella leans against the cabin’s back wall.",
+      "evidence": [
+        "B02-C007-P0125",
+        "B02-C007-P0126",
+        "B02-C007-P0127",
+        "B02-C007-P0129",
+        "B02-C007-P0130",
+        "B02-C007-P0131",
+        "B02-C007-P0132",
+        "B02-C007-P0135"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1992, first Saturday",
+      "model_notes": "Pumpkins receive admitted magical help; Hermione proposes an Engorgement Charm. This patch is not automatically identical to the castle-to-greenhouse vegetable patch."
+    },
+    {
+      "id": "B02-031",
+      "location": "Hagrid’s cabin to Entrance Hall",
+      "category": "route",
+      "description": "The pupils walk back uphill to the castle and enter the cool Entrance Hall before proceeding into the Great Hall for lunch.",
+      "evidence": [
+        "B02-C007-P0136",
+        "B02-C007-P0137",
+        "B02-C007-P0144"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1992, first Saturday",
+      "model_notes": "Confirms castle above hut approach; no path material or precise distance."
+    },
+    {
+      "id": "B02-032",
+      "location": "Trophy room — silver and named awards",
+      "category": "furnishing",
+      "description": "Ron’s detention involves polishing silver trophies without magic. He later reports repeatedly cleaning the Quidditch Cup and a Special Award for Services to the School.",
+      "evidence": [
+        "B02-C007-P0139",
+        "B02-C007-P0145",
+        "B02-C007-P0166",
+        "B02-C007-P0167"
+      ],
+      "certainty": "reported",
+      "temporal": "September 1992, first Saturday",
+      "model_notes": "Named displayed awards and polishing; Ron’s estimate of a hundred cups is not an exact inventory."
+    },
+    {
+      "id": "B02-033",
+      "location": "Lockhart’s office — second floor and photographs",
+      "category": "interior",
+      "description": "Harry reaches Lockhart’s office along the second-floor corridor. Many candles light countless framed photographs of Lockhart on the walls; another large pile of photographs lies on his desk.",
+      "evidence": [
+        "B02-C007-P0147",
+        "B02-C007-P0148",
+        "B02-C007-P0149",
+        "B02-C007-P0150",
+        "B02-C007-P0151",
+        "B02-C007-P0153",
+        "B02-C007-P0154",
+        "B02-C007-P0164",
+        "B02-C007-P0165"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1992, first Saturday",
+      "model_notes": "Explicit office floor, desk and candlelit self-portrait decor; office is separate from classroom."
+    },
+    {
+      "id": "B02-034",
+      "location": "Lockhart’s office — unexplained voice",
+      "category": "magic",
+      "description": "During detention Harry hears a venomous disembodied voice while Lockhart says he hears nothing. The office otherwise contains candle sounds and Lockhart’s speech.",
+      "evidence": [
+        "B02-C007-P0154",
+        "B02-C007-P0155",
+        "B02-C007-P0156",
+        "B02-C007-P0160",
+        "B02-C007-P0161",
+        "B02-C007-P0162",
+        "B02-C007-P0163",
+        "B02-C007-P0165",
+        "B02-C007-P0168",
+        "B02-C007-P0169"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1992, first Saturday",
+      "model_notes": "Dated acoustic event, not proof of an invisible occupant or of a door opening; source route unresolved at this point."
+    },
+    {
+      "id": "B02-035",
+      "location": "Grounds and castle — prolonged autumn rain",
+      "category": "temporary",
+      "description": "Damp chill enters grounds and castle. Days of heavy rain thunder on the windows, raise the lake, turn flowerbeds into muddy streams and swell Hagrid’s pumpkins to garden-shed size.",
+      "evidence": [
+        "B02-C008-P0001",
+        "B02-C008-P0002",
+        "B02-C008-P0004",
+        "B02-C008-P0006",
+        "B02-C008-P0079"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1992",
+      "model_notes": "Flooded planting beds and lake rise are seasonal, with no numeric level change."
+    },
+    {
+      "id": "B02-036",
+      "location": "Dungeon five — ceiling mess",
+      "category": "temporary",
+      "description": "Nick reports that third-years plastered frog brains over the ceiling in dungeon five and that Filch has been cleaning it.",
+      "evidence": [
+        "B02-C008-P0020"
+      ],
+      "certainty": "reported",
+      "temporal": "Late October 1992",
+      "model_notes": "Named/numbered dungeon, not identified as the usual Potions room."
+    },
+    {
+      "id": "B02-037",
+      "location": "Upper corridor tapestry route to Filch’s office",
+      "category": "route",
+      "description": "Filch emerges through a tapestry on Harry’s right in a corridor with a window, then takes him downstairs to his office. Harry later leaves the office along a corridor and climbs back upstairs.",
+      "evidence": [
+        "B02-C008-P0004",
+        "B02-C008-P0006",
+        "B02-C008-P0021",
+        "B02-C008-P0022",
+        "B02-C008-P0023",
+        "B02-C008-P0024",
+        "B02-C008-P0059"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1992",
+      "model_notes": "Relative floor change only; tapestry suggests concealed circulation but no passage destination is independently mapped."
+    },
+    {
+      "id": "B02-038",
+      "location": "Filch’s office",
+      "category": "interior",
+      "description": "The office is dingy and windowless, with a low ceiling supporting a single hanging oil lamp and a faint fried-fish smell. Wooden filing cabinets line the walls; a desk with drawers and quill/ink containers faces a wall display of polished chains and manacles. A moth-eaten chair stands beside the desk.",
+      "evidence": [
+        "B02-C008-P0024",
+        "B02-C008-P0025",
+        "B02-C008-P0027",
+        "B02-C008-P0032",
+        "B02-C008-P0036",
+        "B02-C008-P0048",
+        "B02-C008-P0052"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1992",
+      "model_notes": "Punishment records occupy labelled cabinets, including a drawer for Fred and George. Ceiling-hanging punishments remain a reported request, not current practice."
+    },
+    {
+      "id": "B02-039",
+      "location": "Classroom over Filch’s office — damaged cabinet",
+      "category": "temporary",
+      "description": "A loud overhead crash rattles Filch’s lamp. Back upstairs Harry sees the wreckage of a large black-and-gold cabinet in a classroom; Nick says he had Peeves crash it directly above the office, and Filch calls it a valuable vanishing cabinet.",
+      "evidence": [
+        "B02-C008-P0032",
+        "B02-C008-P0033",
+        "B02-C008-P0034",
+        "B02-C008-P0050",
+        "B02-C008-P0059",
+        "B02-C008-P0060",
+        "B02-C008-P0061",
+        "B02-C008-P0062",
+        "B02-C008-P0063"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October 1992, Nick’s diversion",
+      "model_notes": "Observed wreckage plus reported identity and cause. No paired cabinet, transport destination or later repair inferred."
+    },
+    {
+      "id": "B02-040",
+      "location": "Gryffindor common room — salamander fireworks",
+      "category": "temporary",
+      "description": "A fire-dwelling orange salamander smoulders on a table among armchairs before the twins’ firework makes it whirl about the common room shedding sparks and orange stars; it escapes into the hearth with explosions.",
+      "evidence": [
+        "B02-C008-P0079",
+        "B02-C008-P0080"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1992",
+      "model_notes": "Temporary magical disturbance; no lasting furniture damage is stated."
+    },
+    {
+      "id": "B02-041",
+      "location": "Great Hall — Hallowe’en 1992",
+      "category": "temporary",
+      "description": "The Hall is decorated with live bats and huge pumpkin lanterns, large enough for three men to sit inside. Golden plates and candles glitter at the packed feast; dancing skeleton entertainment is only rumoured.",
+      "evidence": [
+        "B02-C008-P0082",
+        "B02-C008-P0084"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1992",
+      "model_notes": "Pumpkin scale is explicit but not numeric; keep the skeleton troupe unconfirmed."
+    },
+    {
+      "id": "B02-042",
+      "location": "Great Hall approach to Deathday dungeon",
+      "category": "route",
+      "description": "At seven the trio pass the Great Hall doorway and head down towards the dungeons. The party passage is lined with thin black candles burning blue; temperature drops along it. A corner leads to a doorway draped in black velvet.",
+      "evidence": [
+        "B02-C008-P0071",
+        "B02-C008-P0084",
+        "B02-C008-P0085",
+        "B02-C008-P0086",
+        "B02-C008-P0087",
+        "B02-C008-P0088"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1992 Deathday party",
+      "model_notes": "A roomier dungeon is the reported venue. No dungeon number or relation to Snape’s office is supplied."
+    },
+    {
+      "id": "B02-043",
+      "location": "Deathday dungeon — dance floor, orchestra and chandelier",
+      "category": "temporary",
+      "description": "Hundreds of translucent ghosts crowd a dance floor. An orchestra of thirty musical saws performs on a black-draped platform; a chandelier holds a thousand black candles with midnight-blue flames. The dungeon is cold enough to mist the pupils’ breath.",
+      "evidence": [
+        "B02-C008-P0089",
+        "B02-C008-P0090",
+        "B02-C008-P0091",
+        "B02-C008-P0131",
+        "B02-C008-P0132",
+        "B02-C008-P0134",
+        "B02-C008-P0135",
+        "B02-C008-P0144",
+        "B02-C008-P0145",
+        "B02-C008-P0146",
+        "B02-C008-P0148"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1992",
+      "model_notes": "Party installation includes a podium in an icy-blue spotlight and wall-penetrating ghost horses. No physical stable or horse-access door is required."
+    },
+    {
+      "id": "B02-044",
+      "location": "Deathday dungeon — food table",
+      "category": "temporary",
+      "description": "Across the dungeon a long black-velvet-covered table holds rotten fish on silver platters, burnt cakes on salvers, maggoty haggis, mouldy cheese and a tombstone-shaped anniversary cake. Ghosts pass through the table and food to try tasting them.",
+      "evidence": [
+        "B02-C008-P0097",
+        "B02-C008-P0098",
+        "B02-C008-P0099",
+        "B02-C008-P0100",
+        "B02-C008-P0101",
+        "B02-C008-P0102",
+        "B02-C008-P0103",
+        "B02-C008-P0104",
+        "B02-C008-P0106",
+        "B02-C008-P0109"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1992",
+      "model_notes": "Temporary olfactory and table arrangement; ghost permeability does not imply walk-through solid surfaces for people."
+    },
+    {
+      "id": "B02-045",
+      "location": "Myrtle’s girls’ toilet — floor and disrepair report",
+      "category": "interior",
+      "description": "Hermione identifies Myrtle’s haunt as the girls’ toilet on the first floor, out of order all year because Myrtle’s tantrums flood it.",
+      "evidence": [
+        "B02-C008-P0092",
+        "B02-C008-P0094",
+        "B02-C008-P0095",
+        "B02-C008-P0096",
+        "B02-C008-P0115"
+      ],
+      "certainty": "reported",
+      "temporal": "Reported Hallowe’en 1992",
+      "model_notes": "Preserve this reported first-floor placement; reconcile separately with subsequent journey descriptions rather than silently changing it."
+    },
+    {
+      "id": "B02-046",
+      "location": "Deathday dungeon to second-floor writing corridor",
+      "category": "route",
+      "description": "Leaving the dungeon, the trio return up the candlelit passage towards the Entrance Hall steps. Harry follows a voice apparently moving upward, climbs into the Entrance Hall, up the marble staircase to the first floor, then another flight to the second; he runs round that floor to its last deserted passage.",
+      "evidence": [
+        "B02-C008-P0150",
+        "B02-C008-P0151",
+        "B02-C008-P0153",
+        "B02-C008-P0154",
+        "B02-C008-P0155",
+        "B02-C008-P0161",
+        "B02-C008-P0162",
+        "B02-C008-P0165",
+        "B02-C008-P0166",
+        "B02-C008-P0167"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1992, after Deathday party",
+      "model_notes": "Floor sequence explicit. Sound source travelling through ceilings is Harry’s hypothesis; no phantom route is established."
+    },
+    {
+      "id": "B02-047",
+      "location": "Second-floor writing corridor — windows, torches, water and cat",
+      "category": "temporary",
+      "description": "Foot-high warning words about the Chamber’s opening shine on a wall between two windows in torchlight. A large puddle covers the nearby floor; Mrs Norris hangs stiffly by her tail from a torch bracket beneath the writing. After the feast, pupils reach this passage from both ends via stairs.",
+      "evidence": [
+        "B02-C008-P0167",
+        "B02-C008-P0169",
+        "B02-C008-P0171",
+        "B02-C008-P0172",
+        "B02-C008-P0173",
+        "B02-C008-P0174",
+        "B02-C008-P0175",
+        "B02-C008-P0176",
+        "B02-C008-P0180",
+        "B02-C008-P0181"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1992 first Chamber attack",
+      "model_notes": "Dated attack state with two-ended circulation, windows and bracket; no ink material, window spacing or exact stair count."
     }
   ],
   "chapter_reviews": [
@@ -484,6 +892,28 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter read; greenhouse numbering, layout, hazardous plants and classroom damage retained. No greenhouse material or fixed classroom floor invented."
+    },
+    {
+      "chapter": 7,
+      "reviewed_ranges": [
+        [
+          1,
+          170
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Kept Hagrid’s rear patch distinct from the main vegetable patch. Advice about kelpies in a well does not locate a well at Hogwarts."
+    },
+    {
+      "chapter": 8,
+      "reviewed_ranges": [
+        [
+          1,
+          184
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Recorded first-floor Myrtle report and explicit second-floor attack route separately; no silent floor reconciliation. Vanishing cabinet identity and overhead cause labelled as reports."
     }
   ]
 }
