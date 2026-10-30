@@ -1860,6 +1860,578 @@
       "certainty": "explicit",
       "temporal": "After the February 1994 dormitory intrusion",
       "model_notes": "Abridged upward sequence, no inferred uninterrupted single flight from Hall to seventh-floor Tower."
+    },
+    {
+      "id": "B03-099",
+      "location": "Hagrid’s cabin — Buckbeak return and visit restriction",
+      "category": "temporary",
+      "description": "Hagrid’s letter says he may bring Buckbeak back to Hogwarts pending an execution date. Later security measures make evening visits impossible, leaving creature lessons as the pupils’ only opportunity to speak with him.",
+      "evidence": [
+        "B03-C015-P0003",
+        "B03-C015-P0004",
+        "B03-C015-P0005",
+        "B03-C015-P0007",
+        "B03-C015-P0016",
+        "B03-C015-P0017",
+        "B03-C015-P0018",
+        "B03-C015-P0020",
+        "B03-C015-P0021",
+        "B03-C015-P0022"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter 1994 and Quidditch final",
+      "model_notes": "Return authorised/reported, not a changed physical paddock. Evening access changes relative to the preceding escorted visit."
+    },
+    {
+      "id": "B03-100",
+      "location": "Creature lessons to Charms — entrance branches",
+      "category": "route",
+      "description": "Pupils return uphill to the castle steps and doors. Malfoy flees into the dungeon passage while the trio climb the marble staircase to Flitwick’s classroom, whose back desks they use.",
+      "evidence": [
+        "B03-C015-P0020",
+        "B03-C015-P0021",
+        "B03-C015-P0024",
+        "B03-C015-P0032",
+        "B03-C015-P0035",
+        "B03-C015-P0036",
+        "B03-C015-P0037",
+        "B03-C015-P0038",
+        "B03-C015-P0040",
+        "B03-C015-P0043",
+        "B03-C015-P0045",
+        "B03-C015-P0046"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter 1994 and Quidditch final",
+      "model_notes": "Useful ground-level branch to dungeon and upward Charms route; no specific classroom floor."
+    },
+    {
+      "id": "B03-101",
+      "location": "Gryffindor portrait — spring password",
+      "category": "magic",
+      "description": "Security trolls still guard the approach. The password Flibbertigibbet admits pupils through the Fat Lady portrait.",
+      "evidence": [
+        "B03-C015-P0045",
+        "B03-C015-P0046",
+        "B03-C015-P0047"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter 1994 and Quidditch final",
+      "model_notes": "Dated access state; do not apply the password to other years."
+    },
+    {
+      "id": "B03-102",
+      "location": "Divination room — crystal-ball configuration and burn",
+      "category": "furnishing",
+      "description": "Glowing mist-filled crystal balls sit on every small table in the dim hot room. The trio’s table is rickety and has a burn Ron attributes to spilled candle wax/flame. Trelawney sits with her back to the fire; Hermione kicks open the trapdoor and descends the ladder.",
+      "evidence": [
+        "B03-C015-P0055",
+        "B03-C015-P0057",
+        "B03-C015-P0060",
+        "B03-C015-P0061",
+        "B03-C015-P0064",
+        "B03-C015-P0066",
+        "B03-C015-P0067",
+        "B03-C015-P0068",
+        "B03-C015-P0070",
+        "B03-C015-P0074",
+        "B03-C015-P0082",
+        "B03-C015-P0083",
+        "B03-C015-P0084",
+        "B03-C015-P0088",
+        "B03-C015-P0091"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter 1994 and Quidditch final",
+      "model_notes": "Crystal lesson installation, marked furniture and outward trapdoor operation; claimed portent imagery not established physical objects."
+    },
+    {
+      "id": "B03-103",
+      "location": "Gryffindor common room — tactical model",
+      "category": "furnishing",
+      "description": "Before the final Wood crouches over a model Quidditch pitch in a corner, moving tiny player figures with his wand. Harry keeps the Firebolt locked in his bedroom trunk between uses.",
+      "evidence": [
+        "B03-C015-P0102",
+        "B03-C015-P0104",
+        "B03-C015-P0106",
+        "B03-C015-P0110"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter 1994 and Quidditch final",
+      "model_notes": "Portable model and lockable personal storage; model dimensions are unspecified."
+    },
+    {
+      "id": "B03-104",
+      "location": "Boys’ dormitory — water jug and grounds view",
+      "category": "interior",
+      "description": "A silver water jug and goblet stand beneath the window. From there Harry sees still Forest treetops, the motionless Willow, a silvery lawn and Crookshanks with a huge black dog at the Forest edge; he can climb on the sill and look down into castle shadows.",
+      "evidence": [
+        "B03-C015-P0112",
+        "B03-C015-P0113",
+        "B03-C015-P0114",
+        "B03-C015-P0115",
+        "B03-C015-P0116",
+        "B03-C015-P0117",
+        "B03-C015-P0118",
+        "B03-C015-P0119",
+        "B03-C015-P0120",
+        "B03-C015-P0123",
+        "B03-C015-P0125",
+        "B03-C015-P0126"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter 1994 and Quidditch final",
+      "model_notes": "Direct window-to-Willow/Forest/lawn sightlines, without precise bearings. Dragon-riding match is explicitly only a dream."
+    },
+    {
+      "id": "B03-105",
+      "location": "Quidditch pitch — spring surface and castle sightline",
+      "category": "grounds",
+      "description": "At the final the ground is fairly hard, wind slight and sun bright enough to risk vision. From the pitch the team can see distant castle front doors opening and pupils emerging onto the lawn.",
+      "evidence": [
+        "B03-C015-P0130",
+        "B03-C015-P0132",
+        "B03-C015-P0133",
+        "B03-C015-P0134",
+        "B03-C015-P0135",
+        "B03-C015-P0136"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter 1994 and Quidditch final",
+      "model_notes": "Clear pitch-to-front-entrance line of sight and seasonal turf state; no numerical distance."
+    },
+    {
+      "id": "B03-106",
+      "location": "Quidditch final — supporter areas and megaphone",
+      "category": "temporary",
+      "description": "About three-quarters of supporters wear scarlet, flags and lion banners, while roughly two hundred green-clad Slytherins gather behind their goalposts, Snape in the front row. Lee uses a magical megaphone. At victory supporters pour over pitch barriers and the Cup waits with Dumbledore in the stands.",
+      "evidence": [
+        "B03-C015-P0136",
+        "B03-C015-P0137",
+        "B03-C015-P0138",
+        "B03-C015-P0145",
+        "B03-C015-P0151",
+        "B03-C015-P0153",
+        "B03-C015-P0155",
+        "B03-C015-P0161",
+        "B03-C015-P0162",
+        "B03-C015-P0172",
+        "B03-C015-P0178",
+        "B03-C015-P0186",
+        "B03-C015-P0187",
+        "B03-C015-P0188",
+        "B03-C015-P0199",
+        "B03-C015-P0205",
+        "B03-C015-P0206",
+        "B03-C015-P0207",
+        "B03-C015-P0208"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter 1994 and Quidditch final",
+      "model_notes": "Dated crowd distribution, sound fixture and trophy presentation. Scoring area is named in the rules but not dimensioned."
+    },
+    {
+      "id": "B03-107",
+      "location": "Grounds and lake — sultry summer",
+      "category": "temporary",
+      "description": "Cloudless hot days invite sitting on lawns; the giant squid propels itself over the lake’s surface. Summer air enters classroom windows.",
+      "evidence": [
+        "B03-C016-P0001",
+        "B03-C016-P0002",
+        "B03-C016-P0014"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1994 exams and Buckbeak appeal",
+      "model_notes": "Observed seasonal use and squid surface activity, no underwater geometry."
+    },
+    {
+      "id": "B03-108",
+      "location": "Exam spaces — quiet room, tubs and tallest tower",
+      "category": "temporary",
+      "description": "After the upstairs Charms exam Ron is taken to a quiet room to recover. Creature exams use a large tub of new Flobberworms. Astronomy takes place at midnight on the tallest tower; History is stifling and the greenhouses bake in the sun.",
+      "evidence": [
+        "B03-C016-P0024",
+        "B03-C016-P0028",
+        "B03-C016-P0029",
+        "B03-C016-P0030",
+        "B03-C016-P0031",
+        "B03-C016-P0032"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1994 exams and Buckbeak appeal",
+      "model_notes": "New worm supply distinct from Hagrid’s dead earlier stock. Quiet room is unnamed; tallest astronomy tower reaffirms book 1."
+    },
+    {
+      "id": "B03-109",
+      "location": "Outdoor Defence exam course",
+      "category": "temporary",
+      "description": "Lupin lays out a sunny obstacle course: a deep paddling pool with Grindylow, potholes containing Red Caps, a marsh with misleading Hinkypunk and an old trunk containing a Boggart. Ron sinks waist-deep into the quagmire.",
+      "evidence": [
+        "B03-C016-P0033",
+        "B03-C016-P0034",
+        "B03-C016-P0035",
+        "B03-C016-P0036",
+        "B03-C016-P0037",
+        "B03-C016-P0038"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1994 exams and Buckbeak appeal",
+      "model_notes": "Dated exam installation, no proof pool, potholes or marsh are permanent grounds topography."
+    },
+    {
+      "id": "B03-110",
+      "location": "Front steps — lake and cabin views",
+      "category": "exterior",
+      "description": "From the top of the castle steps Fudge looks over the grounds/lake; a Committee member squints towards Hagrid’s cabin after emerging from the front doors.",
+      "evidence": [
+        "B03-C016-P0038",
+        "B03-C016-P0039",
+        "B03-C016-P0042",
+        "B03-C016-P0048",
+        "B03-C016-P0049",
+        "B03-C016-P0050"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1994 exams and Buckbeak appeal",
+      "model_notes": "Explicit front-entrance sightlines, not measured distances."
+    },
+    {
+      "id": "B03-111",
+      "location": "Great Hall to Divination — seventh-floor approach",
+      "category": "route",
+      "description": "After lunch the trio ascend the marble stair. Hermione turns off on the first floor; the boys continue to the seventh and queue on the spiral steps/landing below Trelawney’s ladder. A sunny window and wall seating space are present on the landing.",
+      "evidence": [
+        "B03-C016-P0053",
+        "B03-C016-P0054",
+        "B03-C016-P0056",
+        "B03-C016-P0058",
+        "B03-C016-P0059",
+        "B03-C016-P0060",
+        "B03-C016-P0063",
+        "B03-C016-P0064",
+        "B03-C016-P0065",
+        "B03-C016-P0068",
+        "B03-C016-P0069",
+        "B03-C016-P0101",
+        "B03-C016-P0102"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1994 exams and Buckbeak appeal",
+      "model_notes": "First floor is Hermione’s turn-off, not a proven Muggle Studies classroom floor. Seventh is the approach to the tower stair, not automatically its room floor."
+    },
+    {
+      "id": "B03-112",
+      "location": "Divination exam — hot curtained room",
+      "category": "temporary",
+      "description": "The tower is especially hot, with closed curtains, an active scented fire and cluttered chairs/tables. Trelawney sits in an armchair beside a large crystal ball for individual tests.",
+      "evidence": [
+        "B03-C016-P0069",
+        "B03-C016-P0070",
+        "B03-C016-P0071",
+        "B03-C016-P0073",
+        "B03-C016-P0078",
+        "B03-C016-P0083",
+        "B03-C016-P0086",
+        "B03-C016-P0088",
+        "B03-C016-P0090",
+        "B03-C016-P0093",
+        "B03-C016-P0100"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1994 exams and Buckbeak appeal",
+      "model_notes": "Temperature/arrangement for exam; claimed and invented ball visions are not actual grounds events."
+    },
+    {
+      "id": "B03-113",
+      "location": "Entrance Hall side chamber to cabin — sunset route",
+      "category": "route",
+      "description": "After dinner the trio wait in an empty chamber off the Entrance Hall, then cross under the Cloak and descend the front stone steps. Sun sinks behind the Forest, gilding its upper branches, as they reach Hagrid’s cabin.",
+      "evidence": [
+        "B03-C016-P0120",
+        "B03-C016-P0124",
+        "B03-C016-P0125",
+        "B03-C016-P0126",
+        "B03-C016-P0127",
+        "B03-C016-P0128",
+        "B03-C016-P0129"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1994 exams and Buckbeak appeal",
+      "model_notes": "Antechamber not positively identified with book 1 waiting room. Sunset direction constrains this viewpoint; no single-point Forest bearing assigned."
+    },
+    {
+      "id": "B03-114",
+      "location": "Hagrid’s cabin — milk cupboard and sightline",
+      "category": "interior",
+      "description": "Hagrid spills milk over the table and breaks a jug on the floor. A cupboard contains another jug with Scabbers hidden inside. From a cabin window the pupils see officials descending the distant castle steps.",
+      "evidence": [
+        "B03-C016-P0131",
+        "B03-C016-P0133",
+        "B03-C016-P0134",
+        "B03-C016-P0135",
+        "B03-C016-P0136",
+        "B03-C016-P0141",
+        "B03-C016-P0144",
+        "B03-C016-P0145",
+        "B03-C016-P0148",
+        "B03-C016-P0150",
+        "B03-C016-P0152",
+        "B03-C016-P0153",
+        "B03-C016-P0154"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1994 exams and Buckbeak appeal",
+      "model_notes": "Adds cupboard storage, dated spill and direct cabin-window-to-castle-steps sightline."
+    },
+    {
+      "id": "B03-115",
+      "location": "Hagrid’s back garden — door and tether tree",
+      "category": "grounds",
+      "description": "A back door opens into Hagrid’s garden. Buckbeak is tethered a few yards away to a tree behind the pumpkin patch; Hagrid lets the pupils out here while officials approach the front.",
+      "evidence": [
+        "B03-C016-P0132",
+        "B03-C016-P0133",
+        "B03-C016-P0143",
+        "B03-C016-P0154",
+        "B03-C016-P0155",
+        "B03-C016-P0157",
+        "B03-C016-P0158",
+        "B03-C016-P0159",
+        "B03-C016-P0164",
+        "B03-C016-P0165",
+        "B03-C016-P0166",
+        "B03-C016-P0167"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1994 exams and Buckbeak appeal",
+      "model_notes": "Front/back circulation, tree and patch relation explicit; numeric yards and tree species not supplied."
+    },
+    {
+      "id": "B03-116",
+      "location": "Cabin to castle — evening departure and axe sound",
+      "category": "route",
+      "description": "The trio circle the cabin from the back and climb the sloping lawn. The sky is purple-grey with red glow to the west; they hear voices and a swishing axe-thud from the garden behind them.",
+      "evidence": [
+        "B03-C016-P0168",
+        "B03-C016-P0169",
+        "B03-C016-P0170",
+        "B03-C016-P0171",
+        "B03-C016-P0173",
+        "B03-C016-P0174",
+        "B03-C016-P0176",
+        "B03-C016-P0177",
+        "B03-C016-P0179",
+        "B03-C016-P0180",
+        "B03-C016-P0181",
+        "B03-C016-P0182",
+        "B03-C016-P0183"
+      ],
+      "certainty": "explicit",
+      "temporal": "6 June 1994 sunset, first viewpoint",
+      "model_notes": "Axe sound is observed, Buckbeak’s death only inferred by the children and must not be recorded as fact."
+    },
+    {
+      "id": "B03-117",
+      "location": "Grounds: Hagrid’s cabin to Whomping Willow",
+      "category": "route",
+      "description": "Returning from Hagrid toward the castle at sunset, the children reach open ground as darkness settles. Their pursuit of Scabbers takes them into the shadow of the Whomping Willow, where its moving branches prevent approach to the roots.",
+      "evidence": [
+        "B03-C017-P0001",
+        "B03-C017-P0007",
+        "B03-C017-P0017",
+        "B03-C017-P0019",
+        "B03-C017-P0023",
+        "B03-C017-P0025",
+        "B03-C017-P0028",
+        "B03-C017-P0029",
+        "B03-C017-P0031",
+        "B03-C017-P0039"
+      ],
+      "certainty": "explicit",
+      "temporal": "End of third year; evening of Buckbeak execution order",
+      "model_notes": "Preserve the walked sequence and interception; no measured separation or compass bearing is supplied."
+    },
+    {
+      "id": "B03-118",
+      "location": "Whomping Willow: trunk and root entrance",
+      "category": "magic",
+      "description": "The thick-trunked Willow strikes approaching people with heavy branches. A large gap at the base among its roots leads underground. Crookshanks places his front paws on a knot on the trunk and the entire tree abruptly becomes motionless, allowing access.",
+      "evidence": [
+        "B03-C017-P0031",
+        "B03-C017-P0032",
+        "B03-C017-P0033",
+        "B03-C017-P0034",
+        "B03-C017-P0038",
+        "B03-C017-P0039",
+        "B03-C017-P0041",
+        "B03-C017-P0042",
+        "B03-C017-P0045"
+      ],
+      "certainty": "explicit",
+      "temporal": "End of third year; evening of Buckbeak execution order",
+      "model_notes": "Model the root opening and reachable trunk knot as distinct features. Immobilization is observed; no permanent opening width or reset time is given."
+    },
+    {
+      "id": "B03-119",
+      "location": "Whomping Willow to Shrieking Shack tunnel",
+      "category": "route",
+      "description": "Entry headfirst through the root gap leads down an earthy slope into a very low tunnel. Harry and Hermione travel bent almost double. The passage continues a long way, then rises and twists before a small opening admits dim light from a room.",
+      "evidence": [
+        "B03-C017-P0045",
+        "B03-C017-P0047",
+        "B03-C017-P0049",
+        "B03-C017-P0050",
+        "B03-C017-P0051",
+        "B03-C017-P0052",
+        "B03-C017-P0055"
+      ],
+      "certainty": "explicit",
+      "temporal": "End of third year; evening of Buckbeak execution order",
+      "model_notes": "Harry feels it is at least as long as the Honeydukes tunnel; retain that subjective comparison rather than an exact length. The map runs off its edge toward Hogsmeade."
+    },
+    {
+      "id": "B03-120",
+      "location": "Shrieking Shack: tunnel arrival room",
+      "category": "interior",
+      "description": "The tunnel opens into a disordered dusty room with peeling wallpaper, stained floor, boarded windows and broken furniture. A nearby wooden chair has large chunks torn out and an entire leg missing. To the entrants’ right, an open door leads into a shadowy hallway.",
+      "evidence": [
+        "B03-C017-P0053",
+        "B03-C017-P0055",
+        "B03-C017-P0057"
+      ],
+      "certainty": "explicit",
+      "temporal": "End of third year; evening of Buckbeak execution order",
+      "model_notes": "Use arrival-relative right, not an invented compass direction; these are observed interior conditions, independent of the village’s ghost stories."
+    },
+    {
+      "id": "B03-121",
+      "location": "Shrieking Shack: hall, stairs and upstairs landing",
+      "category": "route",
+      "description": "From the arrival room Harry and Hermione enter the hall and climb a crumbling staircase to a dark landing. Thick dust covers everything except a wide shiny stripe on the floor where something has been dragged upstairs. Only one door on the landing is open.",
+      "evidence": [
+        "B03-C017-P0059",
+        "B03-C017-P0060",
+        "B03-C017-P0061",
+        "B03-C017-P0062",
+        "B03-C017-P0063"
+      ],
+      "certainty": "explicit",
+      "temporal": "End of third year; evening of Buckbeak execution order",
+      "model_notes": "The upstairs movement is audible through the ceiling and later footsteps echo up through the floor. Do not infer the number of closed rooms from “only one door was open”."
+    },
+    {
+      "id": "B03-122",
+      "location": "Shrieking Shack: upstairs room",
+      "category": "furnishing",
+      "description": "The upstairs room contains a magnificent four-poster bed with dusty hangings, with enough floor space beside it for Ron and the confrontation. Its door can be closed from inside; Lupin later bursts through it in red sparks. Dust rises as he paces.",
+      "evidence": [
+        "B03-C017-P0064",
+        "B03-C017-P0071",
+        "B03-C017-P0086",
+        "B03-C017-P0097",
+        "B03-C017-P0098",
+        "B03-C017-P0114",
+        "B03-C017-P0116",
+        "B03-C017-P0117",
+        "B03-C017-P0153",
+        "B03-C017-P0164"
+      ],
+      "certainty": "explicit",
+      "temporal": "End of third year; evening of Buckbeak execution order",
+      "model_notes": "Door damage is not explicitly described despite the sparks. Keep the bed and general room arrangement without inventing dimensions."
+    },
+    {
+      "id": "B03-123",
+      "location": "Marauder’s Map: grounds and concealed occupants",
+      "category": "magic",
+      "description": "Lupin reports that the map showed the children crossing the grounds to Hagrid’s hut and returning twenty minutes later, despite their Invisibility Cloak. It labelled Sirius approaching them and showed two people being pulled into the Willow, counting the concealed Pettigrew as a person.",
+      "evidence": [
+        "B03-C017-P0159",
+        "B03-C017-P0161",
+        "B03-C017-P0163",
+        "B03-C017-P0165",
+        "B03-C017-P0167",
+        "B03-C017-P0169",
+        "B03-C017-P0171",
+        "B03-C017-P0173",
+        "B03-C017-P0181",
+        "B03-C017-P0183",
+        "B03-C017-P0184"
+      ],
+      "certainty": "reported",
+      "temporal": "End of third year; evening of Buckbeak execution order",
+      "model_notes": "This is Lupin’s account of reading the map, not a newly narrated map view. Supports a map overlay that can expose cloak wearers and Animagi, without supplying additional physical geometry."
+    },
+    {
+      "id": "B03-124",
+      "location": "Whomping Willow, tunnel and Shrieking Shack",
+      "category": "history",
+      "description": "Lupin says the Shack and its connecting tunnel were built for his use, and the Willow planted at the tunnel mouth to keep people away during his monthly transformations. He was secretly taken out of the castle to the house. Its supposed haunting was the sound of his transformations; Dumbledore encouraged that explanation, and villagers still avoid the long-silent house.",
+      "evidence": [
+        "B03-C018-P0032",
+        "B03-C018-P0036",
+        "B03-C018-P0037",
+        "B03-C018-P0039"
+      ],
+      "certainty": "reported",
+      "temporal": "Lupin’s school years, recounted at end of Harry’s third year",
+      "model_notes": "This revises the earlier ghost-story interpretation, not the observed boarded and damaged state. No construction dimensions or castle exit are specified."
+    },
+    {
+      "id": "B03-125",
+      "location": "Whomping Willow: remote control of trunk knot",
+      "category": "magic",
+      "description": "Lupin reports that Pettigrew could slip beneath the branches in rat form and touch the immobilizing knot, after which the others entered the tunnel. Sirius also told Snape that prodding the trunk knot with a long stick would admit him; James intercepted Snape after he had seen Lupin at the tunnel’s far end.",
+      "evidence": [
+        "B03-C018-P0046",
+        "B03-C018-P0059"
+      ],
+      "certainty": "reported",
+      "temporal": "Lupin’s school years, recounted at end of Harry’s third year",
+      "model_notes": "Adds historical access by small animal or long stick to the directly observed paw activation in chapter 17."
+    },
+    {
+      "id": "B03-126",
+      "location": "Grounds and Hogsmeade: historical night journeys",
+      "category": "history",
+      "description": "Lupin reports that the friends left the Shack and roamed the school grounds and village at night, gaining the knowledge used to make the Marauder’s Map. Pomfrey had led him across the grounds toward the Willow on an evening observed by Snape.",
+      "evidence": [
+        "B03-C018-P0048",
+        "B03-C018-P0051",
+        "B03-C018-P0059"
+      ],
+      "certainty": "reported",
+      "temporal": "Lupin’s school years, recounted at end of Harry’s third year",
+      "model_notes": "Shows the Shack route as a traversable connection rather than a sealed dead end. The claim of exceptionally comprehensive knowledge supplies no extra paths or geometry."
+    },
+    {
+      "id": "B03-127",
+      "location": "Lupin’s office: full-moon use",
+      "category": "temporary",
+      "description": "Lupin explains that after taking Wolfsbane Potion during the preceding week he can remain mentally himself in wolf form and curl up in his office until the moon wanes.",
+      "evidence": [
+        "B03-C018-P0035"
+      ],
+      "certainty": "reported",
+      "temporal": "Third year, full moons when Wolfsbane Potion is taken",
+      "model_notes": "Reported use of the existing office, not evidence of a separate cell, cage, or modified room."
+    },
+    {
+      "id": "B03-128",
+      "location": "Shrieking Shack: bedroom door and concealed entry",
+      "category": "temporary",
+      "description": "The bedroom door creaks open apparently by itself; Lupin looks onto an apparently empty landing. Snape is subsequently revealed against the wall behind him as he removes the Invisibility Cloak.",
+      "evidence": [
+        "B03-C018-P0029",
+        "B03-C018-P0030",
+        "B03-C018-P0031",
+        "B03-C018-P0032",
+        "B03-C018-P0061",
+        "B03-C018-P0062"
+      ],
+      "certainty": "explicit",
+      "temporal": "Same evening as the Shack confrontation",
+      "model_notes": "The scene does not establish a self-opening enchanted door or a haunting; preserve the concealed-person explanation."
     }
   ],
   "chapter_reviews": [
@@ -2016,6 +2588,50 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter read. Guard changes, doorway recognition training and transit hearth distinguished from proven prevention. Shack haunting is a report; direct interior reviewed later."
+    },
+    {
+      "chapter": 15,
+      "reviewed_ranges": [
+        [
+          1,
+          208
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read, including entire match and dreams. Only actual sightlines/fixtures and changed states retained; no fictional dragon access or unmeasured scoring-zone outline."
+    },
+    {
+      "chapter": 16,
+      "reviewed_ranges": [
+        [
+          1,
+          183
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read, including prophecy. Actual back-garden geometry distinguished from invented crystal visions and mistaken death inference. Dated outdoor course not assumed permanent terrain."
+    },
+    {
+      "chapter": 17,
+      "reviewed_ranges": [
+        [
+          1,
+          184
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph, including dialogue about map operation; recorded Willow entrance, complete tunnel traversal, Shack rooms and temporary conditions."
+    },
+    {
+      "chapter": 18,
+      "reviewed_ranges": [
+        [
+          1,
+          62
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph; recorded historical construction, access method, map origins and office use, separating Lupin’s explanations from observed concealed entry."
     }
   ]
 }
