@@ -24,6 +24,398 @@
       "certainty": "reported",
       "temporal": "Summer 1992",
       "model_notes": "Establishes school cabbage-growing and a pest problem, without identifying a bed, greenhouse or location beside Hagrid’s hut."
+    },
+    {
+      "id": "B02-003",
+      "location": "King’s Cross — sealed school gateway",
+      "category": "temporary",
+      "description": "The usually traversable barrier between platforms nine and ten becomes solid to Harry and Ron after the other Weasleys pass through. Their trolleys collide, pushing does not open it, and no train sound is audible through the cold metal.",
+      "evidence": [
+        "B02-C005-P0014",
+        "B02-C005-P0015",
+        "B02-C005-P0016",
+        "B02-C005-P0017",
+        "B02-C005-P0019",
+        "B02-C005-P0020",
+        "B02-C005-P0021",
+        "B02-C005-P0026",
+        "B02-C005-P0028",
+        "B02-C005-P0030",
+        "B02-C005-P0032",
+        "B02-C005-P0033"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1992 arrival",
+      "model_notes": "Remote school-transport access state; its cause is not yet known. The gateway is concealed from Muggle sight."
+    },
+    {
+      "id": "B02-004",
+      "location": "Railway and flying-car approach",
+      "category": "route",
+      "description": "The boys follow the Hogwarts Express north, using the car’s compass and repeated checks. Fields give way to purple moors, villages and a large city; later the railway winds past a snow-capped mountain.",
+      "evidence": [
+        "B02-C005-P0056",
+        "B02-C005-P0058",
+        "B02-C005-P0059",
+        "B02-C005-P0060",
+        "B02-C005-P0061",
+        "B02-C005-P0066",
+        "B02-C005-P0068",
+        "B02-C005-P0069"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1992 arrival",
+      "model_notes": "North is the observed journey heading, not a castle facade bearing. No city or mountain is named."
+    },
+    {
+      "id": "B02-005",
+      "location": "Castle cliff and lake — aerial view",
+      "category": "exterior",
+      "description": "Hogwarts’ many towers and turrets silhouette the horizon on a cliff above the lake. The car approaches over the smooth black water, described as a mile below, with the castle ahead.",
+      "evidence": [
+        "B02-C005-P0075",
+        "B02-C005-P0076",
+        "B02-C005-P0077",
+        "B02-C005-P0080",
+        "B02-C005-P0081",
+        "B02-C005-P0083"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1992 arrival",
+      "model_notes": "Mile refers to an aerial separation estimate at that moment, not the height of the supporting cliff."
+    },
+    {
+      "id": "B02-006",
+      "location": "Aerial crash route — castle wall to Willow",
+      "category": "route",
+      "description": "The descending car almost hits a dark stone castle wall, turns in an arc over dark greenhouses, then a vegetable patch, then black lawns, and hits a thick tree trunk.",
+      "evidence": [
+        "B02-C005-P0086",
+        "B02-C005-P0087",
+        "B02-C005-P0088",
+        "B02-C005-P0089",
+        "B02-C005-P0090",
+        "B02-C005-P0091",
+        "B02-C005-P0092"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1992 arrival",
+      "model_notes": "Explicit ordered overflight; no compass side, spacing or proof that the cabbages occupy this particular patch."
+    },
+    {
+      "id": "B02-007",
+      "location": "Whomping Willow",
+      "category": "magic",
+      "description": "The ancient gnarled tree bends its trunk almost double and strikes the car with twisted branches, thick boughs and knucklelike twigs. Its roots creak as it reaches after the reversing car, and its branches continue flailing after escape.",
+      "evidence": [
+        "B02-C005-P0092",
+        "B02-C005-P0096",
+        "B02-C005-P0098",
+        "B02-C005-P0099",
+        "B02-C005-P0100",
+        "B02-C005-P0101",
+        "B02-C005-P0102",
+        "B02-C005-P0107",
+        "B02-C005-P0108",
+        "B02-C005-P0134"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1992 arrival",
+      "model_notes": "The name comes from Snape’s later identification. Reach and trunk size are relative; no numeric safety radius established."
+    },
+    {
+      "id": "B02-008",
+      "location": "Whomping Willow — collision damage",
+      "category": "temporary",
+      "description": "Snape reports considerable damage to the old valuable Whomping Willow after the car collision.",
+      "evidence": [
+        "B02-C005-P0134",
+        "B02-C005-P0135",
+        "B02-C005-P0156"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1992 arrival",
+      "model_notes": "Reported damage without itemised broken branches; car dents do not establish corresponding tree wounds."
+    },
+    {
+      "id": "B02-009",
+      "location": "Whomping Willow vicinity to front entrance",
+      "category": "route",
+      "description": "After being ejected onto damp ground, the boys drag trunks up a grassy slope towards the huge oak front doors, leaving luggage at the foot of the front steps.",
+      "evidence": [
+        "B02-C005-P0104",
+        "B02-C005-P0109",
+        "B02-C005-P0110",
+        "B02-C005-P0111"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1992 arrival",
+      "model_notes": "Confirms a lower crash area relative to the entrance approach; no distance from Willow to doors."
+    },
+    {
+      "id": "B02-010",
+      "location": "Great Hall — exterior window sightline and sorting",
+      "category": "interior",
+      "description": "From a brightly lit window near the front steps the boys watch sorting inside the Great Hall: hovering candles above four long tables, golden plates and goblets, the starry ceiling, and a stool for the Sorting Hat before the first-years.",
+      "evidence": [
+        "B02-C005-P0111",
+        "B02-C005-P0112",
+        "B02-C005-P0113",
+        "B02-C005-P0114",
+        "B02-C005-P0115",
+        "B02-C005-P0116",
+        "B02-C005-P0117"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1992 arrival",
+      "model_notes": "Exterior visibility of Hall interior is a significant constraint. No window side, sill height or exact angle is given."
+    },
+    {
+      "id": "B02-011",
+      "location": "Entrance Hall to Snape’s office",
+      "category": "route",
+      "description": "Snape takes them up the steps into the vast torchlit echoing Entrance Hall, then down a narrow stone staircase into the dungeons, opening a door halfway along a cold passage to his office.",
+      "evidence": [
+        "B02-C005-P0124",
+        "B02-C005-P0125",
+        "B02-C005-P0126",
+        "B02-C005-P0127"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1992 arrival",
+      "model_notes": "Office door is halfway along this passage; passage length and dungeon level are not specified."
+    },
+    {
+      "id": "B02-012",
+      "location": "Snape’s office — jars, desk and hearth seating",
+      "category": "interior",
+      "description": "Shelves of large specimen jars line the shadowy walls. A large slimy object in green liquid stands on a shelf behind the desk. The initially empty fireplace is lit by McGonagall’s wand, and two chairs stand beside it.",
+      "evidence": [
+        "B02-C005-P0127",
+        "B02-C005-P0137",
+        "B02-C005-P0138",
+        "B02-C005-P0139",
+        "B02-C005-P0147",
+        "B02-C005-P0167"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1992 arrival",
+      "model_notes": "Office distinct from Potions classroom; a usable hearth and desk-relative specimen shelf are observed."
+    },
+    {
+      "id": "B02-013",
+      "location": "Snape’s office — conjured supper",
+      "category": "magic",
+      "description": "McGonagall produces sandwiches, two silver goblets and iced pumpkin juice on Snape’s desk; the sandwich plate refills as the boys eat.",
+      "evidence": [
+        "B02-C005-P0167",
+        "B02-C005-P0168",
+        "B02-C005-P0169",
+        "B02-C005-P0170",
+        "B02-C005-P0171",
+        "B02-C005-P0175"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1992 arrival",
+      "model_notes": "Temporary office meal service, not a permanent catering installation."
+    },
+    {
+      "id": "B02-014",
+      "location": "Snape’s office to Gryffindor Tower",
+      "category": "route",
+      "description": "The return route passes murmuring portraits and creaking suits of armour, climbs narrow stone stair flights and reaches the passage containing the Fat Lady’s oil painting in a pink silk dress.",
+      "evidence": [
+        "B02-C005-P0175",
+        "B02-C005-P0176",
+        "B02-C005-P0178",
+        "B02-C005-P0183",
+        "B02-C005-P0184"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1992 arrival",
+      "model_notes": "Adds stair materials, sounds and portrait medium; no complete turn-by-turn map."
+    },
+    {
+      "id": "B02-015",
+      "location": "Gryffindor common room — password and tables",
+      "category": "interior",
+      "description": "The new password Wattlebird opens the portrait onto the crowded circular common room, whose furniture includes lop-sided tables and squashy armchairs.",
+      "evidence": [
+        "B02-C005-P0178",
+        "B02-C005-P0182",
+        "B02-C005-P0183",
+        "B02-C005-P0184"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1992 arrival",
+      "model_notes": "Furniture shapes are observed during a temporary welcome crowd; password dated to this arrival."
+    },
+    {
+      "id": "B02-016",
+      "location": "Gryffindor second-year dormitory",
+      "category": "interior",
+      "description": "A door across the common room leads to a spiral stair. Climbing right to its top reaches the same circular dormitory as last year, now signed second-years, with five red-velvet-hung four-posters and high narrow windows. Trunks stand at bed ends.",
+      "evidence": [
+        "B02-C005-P0187",
+        "B02-C005-P0189",
+        "B02-C005-P0192"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1992 arrival",
+      "model_notes": "Same cohort retains the room while its sign changes. Right to the top describes this route at this time; tower-storey count remains unspecified."
+    },
+    {
+      "id": "B02-017",
+      "location": "Great Hall — cloudy ceiling and Howler acoustics",
+      "category": "interior",
+      "description": "The ceiling mirrors a dull grey cloudy sky over the four breakfast tables. Ron’s Howler fills the Hall with amplified sound, rattling tableware, echoing from stone walls and shaking dust from the ceiling.",
+      "evidence": [
+        "B02-C006-P0001",
+        "B02-C006-P0003",
+        "B02-C006-P0016",
+        "B02-C006-P0017",
+        "B02-C006-P0018",
+        "B02-C006-P0021",
+        "B02-C006-P0022"
+      ],
+      "certainty": "explicit",
+      "temporal": "2 September 1992",
+      "model_notes": "Observed acoustic and ceiling behaviour; no sound-pressure level or ceiling construction inferred."
+    },
+    {
+      "id": "B02-018",
+      "location": "Castle, vegetable patch, greenhouses and Willow",
+      "category": "route",
+      "description": "The pupils leave the castle and cross the vegetable patch to the greenhouses. From outside the greenhouses, the Willow is visible in the distance with several branches in slings; Sprout approaches across the lawn carrying bandages.",
+      "evidence": [
+        "B02-C006-P0028",
+        "B02-C006-P0029",
+        "B02-C006-P0031",
+        "B02-C006-P0032"
+      ],
+      "certainty": "explicit",
+      "temporal": "2 September 1992",
+      "model_notes": "Adds ground route and sightline; sling damage state dated after the car crash."
+    },
+    {
+      "id": "B02-019",
+      "location": "Greenhouse Three — access and hanging flowers",
+      "category": "interior",
+      "description": "Sprout unlocks Greenhouse Three with a large belt key; pupils have previously worked only in Greenhouse One. Three contains more dangerous plants, damp earth and fertiliser smells, and strongly perfumed umbrella-sized flowers hanging from the ceiling.",
+      "evidence": [
+        "B02-C006-P0032",
+        "B02-C006-P0033",
+        "B02-C006-P0035",
+        "B02-C006-P0044"
+      ],
+      "certainty": "explicit",
+      "temporal": "2 September 1992",
+      "model_notes": "At least separately numbered One and Three exist; numbering alone does not describe greenhouse Two. Door is lockable."
+    },
+    {
+      "id": "B02-020",
+      "location": "Greenhouse Three — teaching bench and Mandrakes",
+      "category": "furnishing",
+      "description": "A trestle bench stands centrally with about twenty pairs of coloured earmuffs. Deep trays hold roughly a hundred purple-green seedling Mandrakes in rows; pots are stored under the table, with more pots and sacks of compost available. Four pupils work to each tray.",
+      "evidence": [
+        "B02-C006-P0045",
+        "B02-C006-P0051",
+        "B02-C006-P0052",
+        "B02-C006-P0053",
+        "B02-C006-P0054",
+        "B02-C006-P0055",
+        "B02-C006-P0056",
+        "B02-C006-P0058",
+        "B02-C006-P0059",
+        "B02-C006-P0060",
+        "B02-C006-P0061",
+        "B02-C006-P0063",
+        "B02-C006-P0066",
+        "B02-C006-P0068"
+      ],
+      "certainty": "explicit",
+      "temporal": "2 September 1992",
+      "model_notes": "Layout and safety equipment for the repotting lesson; quantities are approximate."
+    },
+    {
+      "id": "B02-021",
+      "location": "Greenhouse Three — hazardous plants",
+      "category": "magic",
+      "description": "The Mandrake earmuffs block all sound; Sprout says seedling cries cause hours of unconsciousness while mature cries are fatal. A spiky dark-red Venomous Tentacula extends long feelers towards her and withdraws after a slap.",
+      "evidence": [
+        "B02-C006-P0050",
+        "B02-C006-P0051",
+        "B02-C006-P0055",
+        "B02-C006-P0056",
+        "B02-C006-P0058",
+        "B02-C006-P0060",
+        "B02-C006-P0061",
+        "B02-C006-P0062"
+      ],
+      "certainty": "explicit",
+      "temporal": "2 September 1992",
+      "model_notes": "Sound blocking and Tentacula response are observed; cry hazards are taught by Hermione/Sprout, not tested on pupils."
+    },
+    {
+      "id": "B02-022",
+      "location": "Courtyard — stone step and side-door route",
+      "category": "route",
+      "description": "After lunch the pupils go into the courtyard, where Hermione sits on a stone step and voices echo. Lockhart takes Harry into the castle through a side door, down a corridor and up a staircase to his classroom.",
+      "evidence": [
+        "B02-C006-P0076",
+        "B02-C006-P0081",
+        "B02-C006-P0086",
+        "B02-C006-P0101",
+        "B02-C006-P0102",
+        "B02-C006-P0103",
+        "B02-C006-P0104",
+        "B02-C006-P0106"
+      ],
+      "certainty": "explicit",
+      "temporal": "2 September 1992",
+      "model_notes": "Links courtyard side entrance to an ascending classroom route without a floor number; class bells are audible outside."
+    },
+    {
+      "id": "B02-023",
+      "location": "Defence classroom — furniture and window relation",
+      "category": "interior",
+      "description": "Lockhart’s classroom has pupil desks, his desk at the front, wall pictures, ink bottles, a waste bin, a window by the back rows, and a ceiling candelabrum. He places a large covered cage on his desk.",
+      "evidence": [
+        "B02-C006-P0106",
+        "B02-C006-P0107",
+        "B02-C006-P0110",
+        "B02-C006-P0114",
+        "B02-C006-P0119",
+        "B02-C006-P0123",
+        "B02-C006-P0125",
+        "B02-C006-P0128",
+        "B02-C006-P0133",
+        "B02-C006-P0135",
+        "B02-C006-P0138"
+      ],
+      "certainty": "explicit",
+      "temporal": "2 September 1992",
+      "model_notes": "Window proximity inferred directly from the back row showered with glass, not a measured window-wall plan."
+    },
+    {
+      "id": "B02-024",
+      "location": "Defence classroom — pixie damage",
+      "category": "temporary",
+      "description": "Released Cornish pixies shatter a window, spray ink, shred papers and books, tear pictures from walls and overturn the bin, throwing objects outside. Neville hangs from the candelabrum, which later gives way, dropping him. Pupils shelter beneath desks; remaining pixies are immobilised and recaged.",
+      "evidence": [
+        "B02-C006-P0134",
+        "B02-C006-P0135",
+        "B02-C006-P0136",
+        "B02-C006-P0137",
+        "B02-C006-P0138",
+        "B02-C006-P0139",
+        "B02-C006-P0140",
+        "B02-C006-P0141",
+        "B02-C006-P0142"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Defence lesson, September 1992",
+      "model_notes": "First-lesson damage state; no repair timing is supplied."
     }
   ],
   "chapter_reviews": [
@@ -70,6 +462,28 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter read. London shops, Floo route and Burrow excluded from castle-boundary model; Hagrid’s school-cabbage report retained."
+    },
+    {
+      "chapter": 5,
+      "reviewed_ranges": [
+        [
+          1,
+          196
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Imagined triumphant landing excluded as imagined; actual overflight order, external Hall sightline, dungeon office and retained dormitory recorded."
+    },
+    {
+      "chapter": 6,
+      "reviewed_ranges": [
+        [
+          1,
+          144
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read; greenhouse numbering, layout, hazardous plants and classroom damage retained. No greenhouse material or fixed classroom floor invented."
     }
   ]
 }
