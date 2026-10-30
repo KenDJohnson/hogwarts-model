@@ -267,11 +267,12 @@
         "B07-C015-P0199",
         "B07-C015-P0200",
         "B07-C015-P0202",
-        "B07-C015-P0204"
+        "B07-C015-P0204",
+        "B07-C021-P0125"
       ],
       "certainty": "reported",
       "temporal": "Autumn 1997",
-      "model_notes": "Castle boundary limits portrait travel; the painted subject can move to a linked self-portrait and remains able to hear while blindfolded. Do not permit unrestricted travel through arbitrary off-site portraits."
+      "model_notes": "Castle boundary limits portrait travel; the painted subject can move to a linked self-portrait and remains able to hear while blindfolded. Do not permit unrestricted travel through arbitrary off-site portraits. A later explicit comparison with Luna’s painted ceiling confirms that Hogwarts portraits move."
     },
     {
       "id": "B07-020",
@@ -589,6 +590,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs. Recorded direct comparison with Room of Requirement’s hiding state. Ottery St Catchpole, Lovegood tower, its garden and inventions are outside school boundary/tunnel context."
+    },
+    {
+      "chapter": 21,
+      "reviewed_ranges": [
+        [
+          1,
+          181
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs, including complete embedded Three Brothers tale. Combined the comparison confirming moving Hogwarts portraits with portrait evidence. Lovegood house and its destruction are outside school scope."
     }
   ]
 }
