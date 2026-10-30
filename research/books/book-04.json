@@ -1649,6 +1649,100 @@
       "certainty": "inference",
       "temporal": "Late November–early December 1994",
       "model_notes": "Explicitly Harry’s deduction from the observed alignment and timing; the actual transfer is not witnessed in this scene."
+    },
+    {
+      "id": "B04-111",
+      "location": "Transfiguration classroom",
+      "category": "furnishing",
+      "description": "A large cage of guinea-fowl and transformed guinea-pigs stands on McGonagall’s desk. Homework is written on the blackboard, visible from the pupils’ working area including seats at the back.",
+      "evidence": [
+        "B04-C022-P0002",
+        "B04-C022-P0003",
+        "B04-C022-P0014"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1994, end of term",
+      "model_notes": "The cage is a lesson prop; the desk and blackboard are classroom fixtures. No room shape is given."
+    },
+    {
+      "id": "B04-112",
+      "location": "Yule Ball Great Hall access",
+      "category": "temporary",
+      "description": "McGonagall announces that the Great Hall ball runs from eight until midnight on Christmas Day, open to fourth-years and above and to younger invited partners; the champions and partners open the dancing.",
+      "evidence": [
+        "B04-C022-P0005",
+        "B04-C022-P0007",
+        "B04-C022-P0015",
+        "B04-C022-P0018",
+        "B04-C022-P0021"
+      ],
+      "certainty": "reported",
+      "temporal": "Announced for Christmas Day 1994",
+      "model_notes": "Reported rules and scheduled use before the event, not confirmation of a room layout."
+    },
+    {
+      "id": "B04-113",
+      "location": "Sheltered work area behind Hagrid’s cabin",
+      "category": "furnishing",
+      "description": "For the final Care of Magical Creatures lesson of term pupils shelter behind the cabin at a trestle table, preparing Skrewt food with knives and a large metal bowl.",
+      "evidence": [
+        "B04-C022-P0041",
+        "B04-C022-P0043",
+        "B04-C022-P0044"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1994, end of term",
+      "model_notes": "A rear outdoor work area; the cabin itself provides shelter without establishing a roofed outbuilding."
+    },
+    {
+      "id": "B04-114",
+      "location": "Castle Christmas decorations",
+      "category": "temporary",
+      "description": "Everlasting icicles hang from the marble staircase banisters. Twelve Great Hall Christmas trees carry luminous holly berries and real hooting golden owls. Suits of armour sing carols when passed; Peeves hides inside them and adds rude lyrics until Filch removes him.",
+      "evidence": [
+        "B04-C022-P0095"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1994, end of term",
+      "model_notes": "Dated decorations and triggered armour audio. Icicles are magical persistent decorations, not evidence of a frozen interior."
+    },
+    {
+      "id": "B04-115",
+      "location": "Moaning Myrtle’s bathroom",
+      "category": "interior",
+      "description": "Moaning Myrtle haunts the girls’ toilets on the second floor.",
+      "evidence": [
+        "B04-C022-P0097"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1994, end of term",
+      "model_notes": "Narratorial identification of location and level. No bathroom plan is supplied in this paragraph."
+    },
+    {
+      "id": "B04-116",
+      "location": "Gryffindor girls’ dormitory access",
+      "category": "route",
+      "description": "Hermione leaves the common room by the girls’ staircase, later described as the route towards the girls’ dormitories.",
+      "evidence": [
+        "B04-C022-P0093",
+        "B04-C022-P0164"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1994, end of term",
+      "model_notes": "Adds a staircase beyond the previously noted girls’ dormitory doorway; does not specify number of flights."
+    },
+    {
+      "id": "B04-117",
+      "location": "Fat Lady Christmas entrance state",
+      "category": "temporary",
+      "description": "The Gryffindor password has changed to Fairy lights and the Fat Lady wears a new tinsel hairband as her portrait opens.",
+      "evidence": [
+        "B04-C022-P0128",
+        "B04-C022-P0129"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1994, end of term",
+      "model_notes": "Dated access credential and portrait decoration, not a permanent password."
     }
   ],
   "chapter_reviews": [
@@ -1882,6 +1976,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed. Included winter states, pumpkin-patch damage, rear cabin access, six-floor kitchen route, portrait operation, kitchen geometry and alignment. Food transfer remains an inference."
+    },
+    {
+      "chapter": 22,
+      "reviewed_ranges": [
+        [
+          1,
+          188
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included teaching fixtures, rear trestle table, Christmas decorations, second-floor bathroom location, girls’ staircase and password change. Unverified mead-barrel rumour not treated as stored stock."
     }
   ]
 }
