@@ -460,6 +460,91 @@
       "certainty": "explicit",
       "temporal": "First school day, September 1996",
       "model_notes": "Lesson-specific vessels and effects. Amortentia’s perceived scent differs by observer, so Harry’s food/wood/flower notes are not a permanent ambient scent."
+    },
+    {
+      "id": "B06-034",
+      "location": "Corridors between Gryffindor and headmaster entrance",
+      "category": "interior",
+      "description": "An unnamed statue along Harry’s route is large enough to hide him crouching behind it while Trelawney passes and pauses on its other side.",
+      "evidence": [
+        "B06-C010-P0009",
+        "B06-C010-P0010",
+        "B06-C010-P0011",
+        "B06-C010-P0012",
+        "B06-C010-P0013"
+      ],
+      "certainty": "explicit",
+      "temporal": "First private lesson, September 1996",
+      "model_notes": "Local concealment and circulation constraint only; statue subject, material and exact corridor unspecified."
+    },
+    {
+      "id": "B06-035",
+      "location": "Headmaster entrance on seventh floor",
+      "category": "route",
+      "description": "A single gargoyle stands against the wall in a seventh-floor corridor. Saying Acid Pops makes it leap aside and the wall slide apart, revealing a moving spiral stone staircase that carries Harry upwards in smooth circles to the office door, which has a brass knocker.",
+      "evidence": [
+        "B06-C010-P0013",
+        "B06-C010-P0014",
+        "B06-C010-P0015",
+        "B06-C010-P0017"
+      ],
+      "certainty": "explicit",
+      "temporal": "First private lesson, September 1996",
+      "model_notes": "Office access begins on seventh floor and rises. Do not place the office itself on the seventh-floor corridor level or assign an unmentioned higher floor number."
+    },
+    {
+      "id": "B06-036",
+      "location": "Headmaster’s circular office",
+      "category": "interior",
+      "description": "The office is circular. Delicate silver instruments smoke and whirr on spindle-legged tables; portraits of former headmasters and headmistresses hang in frames; Fawkes has a perch behind the door.",
+      "evidence": [
+        "B06-C010-P0023"
+      ],
+      "certainty": "explicit",
+      "temporal": "First private lesson, September 1996",
+      "model_notes": "Shape, furnishings, light motion/sound and perch-to-door relationship; exact count and portrait wall arrangement unspecified."
+    },
+    {
+      "id": "B06-037",
+      "location": "Headmaster’s cabinet and Pensieve",
+      "category": "furnishing",
+      "description": "A cabinet beside the door holds a shallow stone Pensieve with unusual markings around its rim. Dumbledore walks around his desk past Harry to retrieve it, then puts it on the desk in front of Harry.",
+      "evidence": [
+        "B06-C010-P0034"
+      ],
+      "certainty": "explicit",
+      "temporal": "First private lesson, September 1996",
+      "model_notes": "Cabinet-door adjacency, desk and visitor seating relationship. Pensieve is movable; do not turn its lesson position into a permanent built-in basin."
+    },
+    {
+      "id": "B06-038",
+      "location": "Pensieve memory access",
+      "category": "magic",
+      "description": "After a bottled silvery substance is poured into the Pensieve, Harry plunges his face into it and experiences falling into a memory scene. Dumbledore later takes his elbow and draws him out, returning them to their feet in the office.",
+      "evidence": [
+        "B06-C010-P0039",
+        "B06-C010-P0048",
+        "B06-C010-P0049",
+        "B06-C010-P0050",
+        "B06-C010-P0161"
+      ],
+      "certainty": "explicit",
+      "temporal": "First private lesson, September 1996",
+      "model_notes": "Memory is a separate experiential space, not an actual geographical passage from the office to Little Hangleton."
+    },
+    {
+      "id": "B06-039",
+      "location": "Headmaster office lamps and temporary display",
+      "category": "furnishing",
+      "description": "Extra lamps are lit by wand when the visitors return to the twilit office. A gold ring with a large cracked black stone stands on one of the small spindle-legged tables near Harry’s exit route.",
+      "evidence": [
+        "B06-C010-P0162",
+        "B06-C010-P0185",
+        "B06-C010-P0198"
+      ],
+      "certainty": "explicit",
+      "temporal": "First private lesson, September 1996",
+      "model_notes": "Lamps are room fittings; ring is a dated display state rather than architecture. Exact table position relative to the door is not fixed by being noticed on departure."
     }
   ],
   "chapter_reviews": [
@@ -561,6 +646,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two blocks. Recorded portrait exit, common-room fabric/light, Hall windows/ceiling, Defence floor relationship and Snape decoration, password, and dungeon route/fittings/lesson state. Potion recipes and personal possessions are not separately catalogued."
+    },
+    {
+      "chapter": 10,
+      "reviewed_ranges": [
+        [
+          1,
+          213
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in three non-truncated blocks, including the full Gaunt memory and explanatory dialogue. Captured unnamed concealment statue, seventh-floor gargoyle route, circular office/fittings and Pensieve transition. Little Hangleton and Gaunt cottage are geographically unrelated to Hogwarts and excluded."
     }
   ]
 }
