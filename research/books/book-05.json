@@ -1513,6 +1513,287 @@
       "certainty": "reported",
       "temporal": "Early October 1995, after first Hogsmeade meeting",
       "model_notes": "A rejected access/concealment proposal, not an actual journey or measured shack capacity."
+    },
+    {
+      "id": "B05-100",
+      "location": "Charms rain lesson",
+      "category": "temporary",
+      "description": "Bullfrogs and ravens occupy classroom desks during Silencing practice; heavy rain pounds the windows.",
+      "evidence": [
+        "B05-C018-P0004",
+        "B05-C018-P0005",
+        "B05-C018-P0007",
+        "B05-C018-P0009",
+        "B05-C018-P0015",
+        "B05-C018-P0020",
+        "B05-C018-P0023"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Temporary living practice materials and weather."
+    },
+    {
+      "id": "B05-101",
+      "location": "First-floor break classroom",
+      "category": "interior",
+      "description": "Rain keeps pupils indoors for break in an overcrowded first-floor classroom with seats, windows and a chandelier near which Peeves floats while firing ink pellets.",
+      "evidence": [
+        "B05-C018-P0025",
+        "B05-C018-P0028",
+        "B05-C018-P0029",
+        "B05-C018-P0044",
+        "B05-C018-P0048",
+        "B05-C018-P0054"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "An unnamed room, distinct from an assumed identity with Charms."
+    },
+    {
+      "id": "B05-102",
+      "location": "Quidditch changing building",
+      "category": "interior",
+      "description": "The changing rooms are warm and lit, with a roof audibly struck by rain, a window, benches and cloak pegs. Angelina emerges from the Captain’s office.",
+      "evidence": [
+        "B05-C018-P0056",
+        "B05-C018-P0059",
+        "B05-C018-P0065",
+        "B05-C018-P0072",
+        "B05-C018-P0078",
+        "B05-C018-P0081",
+        "B05-C018-P0083",
+        "B05-C018-P0084",
+        "B05-C018-P0092",
+        "B05-C018-P0103",
+        "B05-C018-P0109"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Building is exposed to wind and rain; no material of roof stated."
+    },
+    {
+      "id": "B05-103",
+      "location": "Rain-soaked pitch and uphill return",
+      "category": "temporary",
+      "description": "Grass on the approach is sodden and slippery, the pitch centre deepens into mud, and fading light, wind and sweeping rain severely restrict visibility. Rain beating the lake can be heard from the pitch. Players return uphill over muddy lawns.",
+      "evidence": [
+        "B05-C018-P0056",
+        "B05-C018-P0069",
+        "B05-C018-P0071",
+        "B05-C018-P0072",
+        "B05-C018-P0114"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "October storm state; Impervius improves rain shedding without restoring useful visibility."
+    },
+    {
+      "id": "B05-104",
+      "location": "Common room night cleaning",
+      "category": "history",
+      "description": "After midnight the common-room candles are all extinguished and its fire is almost out. Dobby returns Hedwig beside the hat-covered table and says other elves now refuse to clean Gryffindor Tower because hidden clothing insults them, so he does all its cleaning.",
+      "evidence": [
+        "B05-C018-P0118",
+        "B05-C018-P0129",
+        "B05-C018-P0130",
+        "B05-C018-P0134",
+        "B05-C018-P0135",
+        "B05-C018-P0138",
+        "B05-C018-P0139",
+        "B05-C018-P0141",
+        "B05-C018-P0142",
+        "B05-C018-P0145",
+        "B05-C018-P0150"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Dark room observed; exclusive cleaning arrangement is Dobby’s report, not proof any elf has been freed."
+    },
+    {
+      "id": "B05-105",
+      "location": "Room of Requirement operating rule",
+      "category": "magic",
+      "description": "Dobby calls it the Come and Go Room or Room of Requirement: it can be entered by a person with real need, appears intermittently, and supplies what that seeker needs. He says few know it and many accidental users cannot find it again.",
+      "evidence": [
+        "B05-C018-P0154",
+        "B05-C018-P0156",
+        "B05-C018-P0157",
+        "B05-C018-P0158",
+        "B05-C018-P0161",
+        "B05-C018-P0162"
+      ],
+      "certainty": "reported",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Reported rules here; later observed entrance is separately recorded."
+    },
+    {
+      "id": "B05-106",
+      "location": "Room of Requirement prior uses",
+      "category": "history",
+      "description": "Dobby reports an elf-sized bed and Butterbeer antidotes when sheltering drunken Winky, and extra cleaning supplies for Filch. Harry recalls Dumbledore’s chamber-pot room and proposes that it is the same place; Dobby expects it could be.",
+      "evidence": [
+        "B05-C018-P0158",
+        "B05-C018-P0159",
+        "B05-C018-P0160",
+        "B05-C018-P0173"
+      ],
+      "certainty": "reported",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Bed and supplies are reported; identification of the chamber-pot room is a character inference rather than independently confirmed identity."
+    },
+    {
+      "id": "B05-107",
+      "location": "Storm lesson relocations",
+      "category": "temporary",
+      "description": "Pupils splash across a flooded vegetable patch to Herbology while rain hammers the greenhouse roof. Creature lessons are moved from the exposed grounds to a free classroom on the ground floor; evening Quidditch is cancelled.",
+      "evidence": [
+        "B05-C018-P0168"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Ground-floor room is unnamed; do not assign it other classes’ identity."
+    },
+    {
+      "id": "B05-108",
+      "location": "Seventh-floor Room of Requirement approach",
+      "category": "route",
+      "description": "The meeting place is on the seventh floor opposite the tapestry of Barnabas the Barmy trying to teach trolls ballet. The friends leave Gryffindor, reach the top of a final staircase and follow the corridor to a blank wall facing the enormous moving tapestry.",
+      "evidence": [
+        "B05-C018-P0169",
+        "B05-C018-P0179",
+        "B05-C018-P0180",
+        "B05-C018-P0185",
+        "B05-C018-P0186"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Fifth-years may use corridors until nine; staircase sequence supplies no exact common-room level change."
+    },
+    {
+      "id": "B05-109",
+      "location": "Entrance ritual landmarks",
+      "category": "magic",
+      "description": "They pass the blank wall three times concentrating on a concealed practice place, turning at a window just beyond it and a man-sized vase on its other side. A highly polished door with a brass handle appears after the third pass.",
+      "evidence": [
+        "B05-C018-P0186",
+        "B05-C018-P0187",
+        "B05-C018-P0188",
+        "B05-C018-P0189",
+        "B05-C018-P0190"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Window and vase bound the walking segment; no measured separation."
+    },
+    {
+      "id": "B05-110",
+      "location": "Practice-room volume and floor relation",
+      "category": "interior",
+      "description": "The door opens into a spacious room lit with flickering torches like those in the dungeons eight floors below.",
+      "evidence": [
+        "B05-C018-P0190"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Eight-floor relation is textual; avoid deriving ceiling heights or a global building grid."
+    },
+    {
+      "id": "B05-111",
+      "location": "Practice-room books and cushions",
+      "category": "furnishing",
+      "description": "Wooden bookcases line the walls with hundreds of large leather-bound defence books. Large silk cushions replace chairs on the floor and allow all twenty-eight participants to sit.",
+      "evidence": [
+        "B05-C018-P0191",
+        "B05-C018-P0192",
+        "B05-C018-P0193",
+        "B05-C018-P0194",
+        "B05-C018-P0197",
+        "B05-C018-P0218"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "State supplied for this meeting, not a permanent layout across requirements."
+    },
+    {
+      "id": "B05-112",
+      "location": "Practice-room detectors and lock",
+      "category": "furnishing",
+      "description": "Far-end shelves hold Sneakoscopes, Secrecy Sensors and a large cracked Foe-Glass with moving indistinct figures. Harry recognises the glass as apparently the one from impostor Moody’s office. The entrance has a key protruding from a working lock.",
+      "evidence": [
+        "B05-C018-P0191",
+        "B05-C018-P0197",
+        "B05-C018-P0201",
+        "B05-C018-P0202",
+        "B05-C018-P0203"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Recognition is Harry’s belief, not proven transfer of the same object; detectors can be fooled according to Harry."
+    },
+    {
+      "id": "B05-113",
+      "location": "Room of Requirement broom-cupboard history",
+      "category": "history",
+      "description": "Fred recalls that he and George once hid from Filch in this room when it was a broom cupboard.",
+      "evidence": [
+        "B05-C018-P0200"
+      ],
+      "certainty": "reported",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Reported previous manifestation; not an extra simultaneously accessible room."
+    },
+    {
+      "id": "B05-114",
+      "location": "DA wall notice and practice clearances",
+      "category": "temporary",
+      "description": "Hermione pins the signed Dumbledore’s Army parchment on the wall. Paired duelling leaves room for Harry to circulate, sends books off shelves and a wand against the ceiling; Harry finds a whistle atop books immediately after needing one.",
+      "evidence": [
+        "B05-C018-P0219",
+        "B05-C018-P0220",
+        "B05-C018-P0227",
+        "B05-C018-P0228",
+        "B05-C018-P0230",
+        "B05-C018-P0234",
+        "B05-C018-P0236",
+        "B05-C018-P0238",
+        "B05-C018-P0240",
+        "B05-C018-P0242",
+        "B05-C018-P0249",
+        "B05-C018-P0252",
+        "B05-C018-P0253"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Local movement and conjured/provided prop, without invented dimensions or lasting structural damage."
+    },
+    {
+      "id": "B05-115",
+      "location": "House routes after DA meeting",
+      "category": "route",
+      "description": "The Marauder’s Map shows Hufflepuffs returning to the basement corridor that also leads to the kitchens, Ravenclaws to a tower on the west side, and Gryffindors along the corridor to the Fat Lady.",
+      "evidence": [
+        "B05-C018-P0181",
+        "B05-C018-P0182",
+        "B05-C018-P0184",
+        "B05-C018-P0258"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Narrated observation through the map; no complete Hufflepuff entrance or Ravenclaw interior supplied."
+    },
+    {
+      "id": "B05-116",
+      "location": "Room of Requirement disappearing door",
+      "category": "magic",
+      "description": "After the final three pupils leave, the door melts back into stone behind them.",
+      "evidence": [
+        "B05-C018-P0259",
+        "B05-C018-P0260",
+        "B05-C018-P0264"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Observed closure effect; does not prove the contents cease to exist."
     }
   ],
   "chapter_reviews": [
@@ -1702,6 +1983,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read every paragraph, including decree, staircase transformation, owl treatment, inspections and full fireplace discussion."
+    },
+    {
+      "chapter": 18,
+      "reviewed_ranges": [
+        [
+          1,
+          264
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph in three chunks, including dream and Dobby discussion, complete room discovery, lesson and departures. Windowless dream corridor is not assigned to Hogwarts."
     }
   ]
 }
