@@ -485,6 +485,138 @@
       "certainty": "reported",
       "temporal": "May 1998, immediately before the return to Hogwarts",
       "model_notes": "The impossibility is Voldemort’s confidence, not an established absolute barrier. Protection mechanisms are not described here; preserve subsequent observations separately."
+    },
+    {
+      "id": "B07-035",
+      "location": "Hogsmeade High Street / Hogwarts approach",
+      "category": "route",
+      "description": "On arrival Harry sees dark shop fronts, black mountains beyond the village, the curve in the road ahead leading towards Hogwarts, and light from the Three Broomsticks. They retreat from the High Street into the nearest narrow side street.",
+      "evidence": [
+        "B07-C028-P0001",
+        "B07-C028-P0002",
+        "B07-C028-P0007"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Local street curve and mountain backdrop without compass bearing. Three Broomsticks functions as a Death Eater base that night."
+    },
+    {
+      "id": "B07-036",
+      "location": "Hogsmeade curfew / Caterwauling Charm",
+      "category": "magic",
+      "description": "Their night arrival causes a piercing scream, which a Death Eater silences with his wand. The Death Eaters call it a Caterwauling Charm enforcing curfew; Aberforth says moving outdoors in darkness triggers it and that curfew lifts at daybreak.",
+      "evidence": [
+        "B07-C028-P0002",
+        "B07-C028-P0003",
+        "B07-C028-P0031",
+        "B07-C028-P0032",
+        "B07-C028-P0033",
+        "B07-C028-P0034",
+        "B07-C028-P0035",
+        "B07-C028-P0041",
+        "B07-C028-P0067"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Observed alarm plus attributed explanation. The alarm detects an outdoor presence despite the Invisibility Cloak; it does not itself identify the trio’s exact position."
+    },
+    {
+      "id": "B07-037",
+      "location": "Hogsmeade anti-Apparition protections / Dementors",
+      "category": "magic",
+      "description": "The trio cannot Disapparate: the air feels solid. Dementors draw light from the surroundings and stars, bring intense cold, and approach around a corner of the side street, ten or more appearing darker than the darkness. A Patronus drives them away and the stars return.",
+      "evidence": [
+        "B07-C028-P0010",
+        "B07-C028-P0011",
+        "B07-C028-P0014",
+        "B07-C028-P0015",
+        "B07-C028-P0016",
+        "B07-C028-P0017",
+        "B07-C028-P0018",
+        "B07-C028-P0019",
+        "B07-C028-P0020",
+        "B07-C028-P0021"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Dated town restriction and environmental effect, not proof of permanent year-round town anti-Apparition rules."
+    },
+    {
+      "id": "B07-038",
+      "location": "Hog’s Head side entrance → upstairs sitting room",
+      "category": "route",
+      "description": "A bolted door opens on the left side of the narrow street into the Hog’s Head’s grubby, sawdust-strewn bar, lit by one flickering candle. Behind the counter a second doorway leads to a rickety wooden staircase opening into the upstairs sitting room.",
+      "evidence": [
+        "B07-C028-P0021",
+        "B07-C028-P0022",
+        "B07-C028-P0023",
+        "B07-C028-P0024",
+        "B07-C028-P0025",
+        "B07-C028-P0042"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Tunnel access approach; relative left is from the trio’s retreat, not a compass direction. The upstairs grimy window overlooks the street."
+    },
+    {
+      "id": "B07-039",
+      "location": "Hog’s Head upstairs sitting room / tunnel anteroom",
+      "category": "furnishing",
+      "description": "The sitting room has a threadbare carpet, small fireplace, wobble-legged chair and a small table before the fire. One large oil painting of a blonde girl hangs above the fireplace; it is the room’s only picture. A small rectangular mirror stands on the mantelpiece directly below it. Harry closes the window curtains; Aberforth lights lamps and the fire.",
+      "evidence": [
+        "B07-C028-P0024",
+        "B07-C028-P0025",
+        "B07-C028-P0042",
+        "B07-C028-P0043",
+        "B07-C028-P0055",
+        "B07-C028-P0057",
+        "B07-C028-P0066",
+        "B07-C028-P0092",
+        "B07-C028-P0093",
+        "B07-C028-P0094"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Necessary model context for tunnel mouth. Mirror is a communication object, separate from the passage portrait; no Albus photograph is present."
+    },
+    {
+      "id": "B07-040",
+      "location": "Hogsmeade → mountain refuge / Apparition boundary",
+      "category": "route",
+      "description": "Aberforth advises waiting until daylight, leaving Hogsmeade on foot and climbing into the mountains, where Apparition becomes possible. He reports Hagrid hiding in a cave there with Grawp after the attempted arrest.",
+      "evidence": [
+        "B07-C028-P0067"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "No surveyed town boundary, cave coordinates or identity with the earlier mountain cave supplied."
+    },
+    {
+      "id": "B07-041",
+      "location": "Hogwarts boundary walls / old passages / patrols",
+      "category": "temporary",
+      "description": "Aberforth reports all old secret passages watched at both ends, Dementors around the boundary walls, and regular patrols within the school; he says his alternative is now the only way in.",
+      "evidence": [
+        "B07-C028-P0149"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "His sources support a very heavily guarded wartime state; “only” is his assessment, not a guarantee against every magical exception."
+    },
+    {
+      "id": "B07-042",
+      "location": "Hog’s Head Ariana portrait / real tunnel entrance",
+      "category": "route",
+      "description": "Ariana’s painted figure walks away into a long dark tunnel depicted behind her, then returns with Neville. The whole picture swings forwards like a little door, revealing a real tunnel. Neville climbs out and jumps down from the mantelpiece.",
+      "evidence": [
+        "B07-C028-P0145",
+        "B07-C028-P0146",
+        "B07-C028-P0147",
+        "B07-C028-P0151"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Portrait aperture is above the fireplace/mantelpiece; the painted approach depicts the real tunnel’s traveller. Far endpoint and dimensions await the next chapter."
     }
   ],
   "chapter_reviews": [
@@ -784,6 +916,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs. Recorded Hogsmeade/school surveillance expectation and proposed approach. The dragon’s landing lake is an unnamed remote mountain lake, not the Hogwarts lake; Voldemort’s other lake is the sea-cave Horcrux site."
+    },
+    {
+      "chapter": 28,
+      "reviewed_ranges": [
+        [
+          1,
+          151
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in two complete chunks, including Aberforth’s entire family narrative. Recorded town approach, curfew/alarm, failed Apparition, Dementors, Hog’s Head access rooms, mountain escape option and portrait tunnel; family home history adds no Hogwarts geometry."
     }
   ]
 }
