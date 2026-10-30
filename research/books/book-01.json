@@ -1454,6 +1454,793 @@
       "certainty": "explicit",
       "temporal": "Midnight Saturday, spring 1992",
       "model_notes": "Open-air landing/collection area is explicit; no parapet, roof, tower plan, compass side or dimension is described."
+    },
+    {
+      "id": "B01-102",
+      "location": "Tallest astronomy tower — identity and access restriction",
+      "category": "interior",
+      "description": "The previous midnight visit is identified as being up the tallest astronomy tower, which is out of bounds except for classes.",
+      "evidence": [
+        "B01-C015-P0002",
+        "B01-C015-P0006"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1992",
+      "model_notes": "Reconciles chapter 14’s tallest tower with the astronomy tower. Restricted use is a rule, not a physical lock."
+    },
+    {
+      "id": "B01-103",
+      "location": "McGonagall’s study",
+      "category": "route",
+      "description": "Filch takes the pupils down from the astronomy tower to McGonagall’s first-floor study, where they sit and wait.",
+      "evidence": [
+        "B01-C015-P0002"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1992",
+      "model_notes": "Explicit first-floor location and downward route; chair types and doorway details unknown."
+    },
+    {
+      "id": "B01-104",
+      "location": "House-point hourglasses",
+      "category": "furnishing",
+      "description": "Giant hourglasses record the house points and are visible to passing Gryffindors.",
+      "evidence": [
+        "B01-C015-P0018"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1992",
+      "model_notes": "No location, contents or mounting arrangement given here; do not place them in the Entrance Hall from memory."
+    },
+    {
+      "id": "B01-105",
+      "location": "Unnamed classroom near library route",
+      "category": "interior",
+      "description": "Returning from the library, Harry hears Quirrell in a classroom ahead. After Quirrell leaves he sees an empty room with a second door ajar at the other end.",
+      "evidence": [
+        "B01-C015-P0029",
+        "B01-C015-P0030",
+        "B01-C015-P0032",
+        "B01-C015-P0033",
+        "B01-C015-P0035"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1992",
+      "model_notes": "A through-room arrangement near the route, not a demonstrated shortcut or proof that Snape used the far door."
+    },
+    {
+      "id": "B01-106",
+      "location": "Filch’s office — punishment chains report",
+      "category": "history",
+      "description": "Filch claims former punishments included hanging pupils by the wrists from the ceiling for days, and says he still keeps the chains oiled in his office.",
+      "evidence": [
+        "B01-C015-P0052"
+      ],
+      "certainty": "reported",
+      "temporal": "Late spring 1992",
+      "model_notes": "Character’s threatening historical claim, not an observed punishment room or confirmed current practice."
+    },
+    {
+      "id": "B01-107",
+      "location": "Entrance Hall to forest-edge rendezvous",
+      "category": "route",
+      "description": "The detention party meets in the Entrance Hall, follows Filch’s lamp outdoors and across dark grounds toward Hagrid’s lit hut, then goes to the Forest’s edge.",
+      "evidence": [
+        "B01-C015-P0048",
+        "B01-C015-P0051",
+        "B01-C015-P0052",
+        "B01-C015-P0053",
+        "B01-C015-P0054",
+        "B01-C015-P0061",
+        "B01-C015-P0065",
+        "B01-C015-P0072",
+        "B01-C015-P0073"
+      ],
+      "certainty": "explicit",
+      "temporal": "11 p.m. detention, late spring 1992",
+      "model_notes": "Lit hut windows guide the approach. Distances and exact rendezvous point remain unstated."
+    },
+    {
+      "id": "B01-108",
+      "location": "Forbidden Forest entrance path and fork",
+      "category": "grounds",
+      "description": "A narrow winding earth track enters thick dark trees. A little way in it forks; Harry, Hermione and Hagrid take the left branch while the other group takes the right. Fallen leaves cover the ground and moonlight intermittently penetrates the canopy.",
+      "evidence": [
+        "B01-C015-P0073",
+        "B01-C015-P0074",
+        "B01-C015-P0076",
+        "B01-C015-P0078",
+        "B01-C015-P0079",
+        "B01-C015-P0080"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1992",
+      "model_notes": "Left/right belong to the inward approach; path has no measured width. Blood is a temporary trail, not surface material."
+    },
+    {
+      "id": "B01-109",
+      "location": "Forest — mossy stump, oak and slithering sound",
+      "category": "grounds",
+      "description": "Along the winding path are a mossy tree stump and a towering oak big enough to conceal Hagrid and both pupils off the path. Running water is audible nearby and something slithers across dead leaves.",
+      "evidence": [
+        "B01-C015-P0084",
+        "B01-C015-P0085",
+        "B01-C015-P0086",
+        "B01-C015-P0087",
+        "B01-C015-P0089"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1992",
+      "model_notes": "Running water is observed acoustically; a nearby stream is the narrator’s inference, without a mapped watercourse."
+    },
+    {
+      "id": "B01-110",
+      "location": "Forest — centaur clearing and population",
+      "category": "grounds",
+      "description": "A clearing ahead contains Ronan; Bane comes through trees behind him. The canopy blocks the clearing from view after the party leaves. Hagrid says a fair number of centaurs live in the Forest.",
+      "evidence": [
+        "B01-C015-P0090",
+        "B01-C015-P0092",
+        "B01-C015-P0096",
+        "B01-C015-P0109",
+        "B01-C015-P0113",
+        "B01-C015-P0116",
+        "B01-C015-P0118",
+        "B01-C015-P0119"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1992",
+      "model_notes": "Two centaurs are directly observed; wider population is Hagrid’s report, not a settlement map."
+    },
+    {
+      "id": "B01-111",
+      "location": "Forest — path bend and cross-country connection",
+      "category": "route",
+      "description": "After another bend in the dense trees, red sparks are visible from the other party. Hagrid leaves the path and crashes through undergrowth, later returning with the others.",
+      "evidence": [
+        "B01-C015-P0122",
+        "B01-C015-P0123",
+        "B01-C015-P0124",
+        "B01-C015-P0125",
+        "B01-C015-P0129",
+        "B01-C015-P0130"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1992",
+      "model_notes": "Shows signalling visibility and traversable undergrowth between party routes; does not establish the fork’s angle or spacing."
+    },
+    {
+      "id": "B01-112",
+      "location": "Forest heart — ancient oak and unicorn clearing",
+      "category": "grounds",
+      "description": "After nearly half an hour deeper into the Forest, the path is almost obscured by dense trees. Blood marks exposed roots, and a clearing is visible through tangled branches of an ancient oak; a bush grows at its edge.",
+      "evidence": [
+        "B01-C015-P0131",
+        "B01-C015-P0132",
+        "B01-C015-P0133",
+        "B01-C015-P0134",
+        "B01-C015-P0135"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1992",
+      "model_notes": "Travel time is not distance. Keep this clearing separate from the earlier Ronan/Bane clearing unless further evidence connects them."
+    },
+    {
+      "id": "B01-113",
+      "location": "Forest clearing — dead unicorn and attacker",
+      "category": "temporary",
+      "description": "A dead white unicorn lies on dark leaves in the deeper clearing, its mane spread out and legs awkwardly extended. A hooded figure emerges from an edge bush and drinks its blood before Firenze intervenes.",
+      "evidence": [
+        "B01-C015-P0134",
+        "B01-C015-P0135",
+        "B01-C015-P0136",
+        "B01-C015-P0137",
+        "B01-C015-P0138",
+        "B01-C015-P0139",
+        "B01-C015-P0145",
+        "B01-C015-P0154"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1992",
+      "model_notes": "Temporary narrative state and encounter site; the attacker’s identity is not established by geometry."
+    },
+    {
+      "id": "B01-114",
+      "location": "Forest — centaur return route",
+      "category": "route",
+      "description": "Firenze carries Harry away through the trees, warns him to duck low branches, and traverses a particularly dense patch. They eventually meet Hermione and Hagrid on the path, from which Hagrid returns to examine the unicorn.",
+      "evidence": [
+        "B01-C015-P0143",
+        "B01-C015-P0144",
+        "B01-C015-P0155",
+        "B01-C015-P0158",
+        "B01-C015-P0169",
+        "B01-C015-P0170",
+        "B01-C015-P0171",
+        "B01-C015-P0172",
+        "B01-C015-P0175"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1992",
+      "model_notes": "Traversable off-path terrain with low clearance above a centaur rider. Full loop, distance and relation to the original fork remain unspecified."
+    },
+    {
+      "id": "B01-115",
+      "location": "Forest danger — werewolf rumour and Hagrid’s assurance",
+      "category": "grounds",
+      "description": "Malfoy says he has heard of werewolves in the Forest. Hagrid says nothing resident will harm pupils accompanied by him or Fang, while warning them to keep to the path; he later judges the slithering presence to be neither werewolf nor unicorn.",
+      "evidence": [
+        "B01-C015-P0058",
+        "B01-C015-P0060",
+        "B01-C015-P0076",
+        "B01-C015-P0082",
+        "B01-C015-P0083",
+        "B01-C015-P0086",
+        "B01-C015-P0087",
+        "B01-C015-P0088",
+        "B01-C015-P0089"
+      ],
+      "certainty": "reported",
+      "temporal": "Night of the forest detention",
+      "model_notes": "Conflicting and limited character assessments; neither werewolf residency nor universal safety is confirmed."
+    },
+    {
+      "id": "B01-116",
+      "location": "Exam classroom",
+      "category": "temporary",
+      "description": "Written examinations take place in a large classroom, swelteringly hot in the summer weather, using new anti-cheating quills. Flitwick’s practical exam uses his classroom desk as a pineapple’s dance surface.",
+      "evidence": [
+        "B01-C016-P0002",
+        "B01-C016-P0003",
+        "B01-C016-P0006"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, approach to the Stone",
+      "model_notes": "Exam installation; classroom identity and floor unknown."
+    },
+    {
+      "id": "B01-117",
+      "location": "Lakeshore — tree, grass and squid shallows",
+      "category": "grounds",
+      "description": "Pupils wander down to the lake and rest on grass beneath a tree. A giant squid basks in warm shallows close enough for other pupils to tickle its tentacles.",
+      "evidence": [
+        "B01-C016-P0007",
+        "B01-C016-P0008",
+        "B01-C016-P0009"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, approach to the Stone",
+      "model_notes": "Demonstrates accessible shallow water and a lakeshore tree; no species, shoreline orientation or total squid dimensions."
+    },
+    {
+      "id": "B01-118",
+      "location": "Lakeside to Hagrid’s hut",
+      "category": "route",
+      "description": "Harry climbs a grassy slope away from the lakeside and runs across the grounds towards the Forest. Hagrid sits in an armchair outside his house shelling peas.",
+      "evidence": [
+        "B01-C016-P0020",
+        "B01-C016-P0021",
+        "B01-C016-P0022",
+        "B01-C016-P0023",
+        "B01-C016-P0024"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, approach to the Stone",
+      "model_notes": "Slope and route sequence, plus outdoor chair use; no direct adjacency of hut and shore."
+    },
+    {
+      "id": "B01-119",
+      "location": "Hog’s Head — nearby village connection",
+      "category": "route",
+      "description": "Hagrid identifies the Hog’s Head as one of the pubs down in the village where he met the hooded stranger.",
+      "evidence": [
+        "B01-C016-P0027",
+        "B01-C016-P0028",
+        "B01-C016-P0030",
+        "B01-C016-P0033"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1992, approach to the Stone",
+      "model_notes": "Resolves the unnamed drinking premises in chapter 14; village name is not supplied here."
+    },
+    {
+      "id": "B01-120",
+      "location": "Fluffy — music vulnerability",
+      "category": "magic",
+      "description": "Hagrid says that playing music makes Fluffy fall asleep. The later flute performance visibly puts him to sleep; he stirs and growls during a pause and sleeps again when playing resumes.",
+      "evidence": [
+        "B01-C016-P0035",
+        "B01-C016-P0036",
+        "B01-C016-P0037",
+        "B01-C016-P0154",
+        "B01-C016-P0156",
+        "B01-C016-P0157",
+        "B01-C016-P0158",
+        "B01-C016-P0167",
+        "B01-C016-P0178"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, approach to the Stone",
+      "model_notes": "Reported mechanism subsequently observed. Guard remains physically dangerous and responsive to smell under the Cloak."
+    },
+    {
+      "id": "B01-121",
+      "location": "Entrance Hall — summer contrast and staff-room direction",
+      "category": "interior",
+      "description": "Returning from sunlit grounds, the Entrance Hall feels cold and gloomy. Snape leaves it in the direction of the staff room; the pupils then stand outside on the stone steps.",
+      "evidence": [
+        "B01-C016-P0038",
+        "B01-C016-P0065",
+        "B01-C016-P0068",
+        "B01-C016-P0071",
+        "B01-C016-P0073",
+        "B01-C016-P0074"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, approach to the Stone",
+      "model_notes": "Season-dependent perception and a route direction; no staff-room entrance position is fixed."
+    },
+    {
+      "id": "B01-122",
+      "location": "Gryffindor common room — grandfather clock",
+      "category": "furnishing",
+      "description": "A grandfather clock stands by the common-room door; armchairs and a shadowed corner provide space for Neville to hide.",
+      "evidence": [
+        "B01-C016-P0105",
+        "B01-C016-P0110",
+        "B01-C016-P0114"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, approach to the Stone",
+      "model_notes": "Do not automatically merge the grandfather clock with chapter 14’s wall clock; two descriptions may indicate different clocks or a reconciliation issue."
+    },
+    {
+      "id": "B01-123",
+      "location": "Night route to third floor — stairs, carpet and statues",
+      "category": "route",
+      "description": "The pupils pass statue shadows, then climb a first set of stairs around Mrs Norris. They encounter Peeves halfway up the staircase to the third floor, loosening its carpet, and shortly reach the forbidden corridor’s ajar door.",
+      "evidence": [
+        "B01-C016-P0132",
+        "B01-C016-P0133",
+        "B01-C016-P0134",
+        "B01-C016-P0135",
+        "B01-C016-P0136",
+        "B01-C016-P0141",
+        "B01-C016-P0145",
+        "B01-C016-P0147"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, approach to the Stone",
+      "model_notes": "Explicit carpeted third-floor approach stair; full route from seventh-floor Gryffindor is omitted, so local ascents must not be treated as a complete floor sequence."
+    },
+    {
+      "id": "B01-124",
+      "location": "Forbidden corridor — harp, dog and ringed trapdoor",
+      "category": "interior",
+      "description": "A harp lies at Fluffy’s feet. Once the dog sleeps, pupils step over its legs to a trapdoor opened by pulling a ring; it swings upward. The dark opening has no visible bottom or means of climbing down.",
+      "evidence": [
+        "B01-C016-P0153",
+        "B01-C016-P0154",
+        "B01-C016-P0155",
+        "B01-C016-P0156",
+        "B01-C016-P0158",
+        "B01-C016-P0159",
+        "B01-C016-P0160",
+        "B01-C016-P0162",
+        "B01-C016-P0163",
+        "B01-C016-P0164",
+        "B01-C016-P0168"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, approach to the Stone",
+      "model_notes": "Observed guard installation; no harp-playing automation is described here, and the depth is not measured."
+    },
+    {
+      "id": "B01-125",
+      "location": "Trapdoor shaft — long drop to plant",
+      "category": "route",
+      "description": "Harry lowers himself by his fingertips and drops through cold damp air onto a soft plant. From below the open trapdoor appears postage-stamp-sized; Ron and Hermione land beside him.",
+      "evidence": [
+        "B01-C016-P0169",
+        "B01-C016-P0172",
+        "B01-C016-P0173",
+        "B01-C016-P0174",
+        "B01-C016-P0175",
+        "B01-C016-P0177",
+        "B01-C016-P0178",
+        "B01-C016-P0179"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, approach to the Stone",
+      "model_notes": "A substantial vertical shaft is supported. Hermione’s claim of being miles underground is an impression and must not set a metric depth."
+    },
+    {
+      "id": "B01-126",
+      "location": "Devil’s Snare chamber",
+      "category": "magic",
+      "description": "The landing plant entwines pupils in long snake-like creepers, tightening as they struggle. Hermione escapes to a damp wall, recalls its preference for dark damp conditions, and blue magical flames cause it to recoil from light and warmth and release the boys.",
+      "evidence": [
+        "B01-C016-P0182",
+        "B01-C016-P0183",
+        "B01-C016-P0184",
+        "B01-C016-P0185",
+        "B01-C016-P0187",
+        "B01-C016-P0188",
+        "B01-C016-P0189",
+        "B01-C016-P0192",
+        "B01-C016-P0193"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, approach to the Stone",
+      "model_notes": "Observed plant defence with reported botanical explanation; no invented bed depth or room diameter."
+    },
+    {
+      "id": "B01-127",
+      "location": "Plant chamber to winged-key chamber",
+      "category": "route",
+      "description": "The sole onward route is a stone passage sloping downward, with trickling water on its walls and audible dripping. Rustling, clinking, wings and light precede its opening into the next chamber.",
+      "evidence": [
+        "B01-C016-P0195",
+        "B01-C016-P0196",
+        "B01-C016-P0197",
+        "B01-C016-P0198",
+        "B01-C016-P0200",
+        "B01-C016-P0201",
+        "B01-C016-P0202"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, approach to the Stone",
+      "model_notes": "One onward passage from the landing chamber; downward slope is explicit."
+    },
+    {
+      "id": "B01-128",
+      "location": "Winged-key chamber — architecture and lock",
+      "category": "interior",
+      "description": "The brilliantly lit chamber has a high arched ceiling, stone walls and a heavy wooden door opposite the entry. Its silver-handled lock resists force and Alohomora. Broomsticks are available in the room.",
+      "evidence": [
+        "B01-C016-P0202",
+        "B01-C016-P0205",
+        "B01-C016-P0206",
+        "B01-C016-P0210",
+        "B01-C016-P0212",
+        "B01-C016-P0213",
+        "B01-C016-P0214",
+        "B01-C016-P0217",
+        "B01-C016-P0219",
+        "B01-C016-P0220",
+        "B01-C016-P0221"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, approach to the Stone",
+      "model_notes": "Room permits three simultaneous broom riders and a collision with its high ceiling; no numeric size or light-source fixtures described."
+    },
+    {
+      "id": "B01-129",
+      "location": "Winged-key defence",
+      "category": "magic",
+      "description": "Hundreds of fluttering jewellike forms prove to be keys with rainbow-feathered wings. The working key is large and silver with bright-blue wings, one crumpled/bent; after unlocking the door it flies away again.",
+      "evidence": [
+        "B01-C016-P0202",
+        "B01-C016-P0209",
+        "B01-C016-P0210",
+        "B01-C016-P0211",
+        "B01-C016-P0214",
+        "B01-C016-P0215",
+        "B01-C016-P0216",
+        "B01-C016-P0218",
+        "B01-C016-P0219",
+        "B01-C016-P0220"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, approach to the Stone",
+      "model_notes": "A temporary enchantment population and identifiable target key; damage predates Harry’s capture and increases afterwards."
+    },
+    {
+      "id": "B01-130",
+      "location": "Giant chess chamber — architecture",
+      "category": "interior",
+      "description": "Through the key-room door is a dark chamber that lights when entered. A huge chessboard begins behind black pieces taller than the pupils and apparently carved of black stone; faceless white pieces stand across it, with another door behind them.",
+      "evidence": [
+        "B01-C016-P0221",
+        "B01-C016-P0222",
+        "B01-C016-P0223",
+        "B01-C016-P0226",
+        "B01-C016-P0229",
+        "B01-C016-P0238"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, approach to the Stone",
+      "model_notes": "Defines entry side and onward side. Apparent stone is later supported by the queen’s stone arm; no board-square dimension supplied."
+    },
+    {
+      "id": "B01-131",
+      "location": "Giant chess defence and damage",
+      "category": "magic",
+      "description": "The pieces animate, accept three human substitutes for a black knight, bishop and rook, and move on command. Captured pieces are struck and dragged to the edge; limp black pieces accumulate along the wall. After checkmate the king discards his crown and the pieces part and bow to clear the onward door.",
+      "evidence": [
+        "B01-C016-P0229",
+        "B01-C016-P0230",
+        "B01-C016-P0231",
+        "B01-C016-P0235",
+        "B01-C016-P0237",
+        "B01-C016-P0238",
+        "B01-C016-P0240",
+        "B01-C016-P0241",
+        "B01-C016-P0243",
+        "B01-C016-P0245",
+        "B01-C016-P0248",
+        "B01-C016-P0250",
+        "B01-C016-P0257",
+        "B01-C016-P0258",
+        "B01-C016-P0259"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, approach to the Stone",
+      "model_notes": "Models a dangerous interactive chess state and displaced pieces, without assuming permanent room damage."
+    },
+    {
+      "id": "B01-132",
+      "location": "Chess chamber to troll chamber",
+      "category": "route",
+      "description": "After crossing the chess room, Harry and Hermione take the next passage to another door. Beyond is a foul-smelling chamber with an unconscious troll larger than the Hallowe’en troll, lying on the floor with a bloody head lump; they step over its leg to the next door.",
+      "evidence": [
+        "B01-C016-P0259",
+        "B01-C016-P0262",
+        "B01-C016-P0263",
+        "B01-C016-P0266",
+        "B01-C016-P0267",
+        "B01-C016-P0268",
+        "B01-C016-P0269"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, approach to the Stone",
+      "model_notes": "Passage wording does not provide a measured rise. Troll is already disabled when observed, so its active defence is not witnessed."
+    },
+    {
+      "id": "B01-133",
+      "location": "Potion chamber — table and flame thresholds",
+      "category": "magic",
+      "description": "Beyond the troll room is a table bearing seven differently shaped bottles in one line, with a written riddle beside them. Crossing the threshold triggers purple fire in the entry doorway and black flames in the onward doorway.",
+      "evidence": [
+        "B01-C016-P0269",
+        "B01-C016-P0271",
+        "B01-C016-P0272",
+        "B01-C016-P0273",
+        "B01-C016-P0274",
+        "B01-C016-P0275",
+        "B01-C016-P0276",
+        "B01-C016-P0277",
+        "B01-C016-P0278",
+        "B01-C016-P0279",
+        "B01-C016-P0280",
+        "B01-C016-P0281",
+        "B01-C016-P0282",
+        "B01-C016-P0283",
+        "B01-C016-P0284",
+        "B01-C016-P0285",
+        "B01-C016-P0286",
+        "B01-C016-P0287",
+        "B01-C016-P0288"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, approach to the Stone",
+      "model_notes": "Temporary defence installation, two distinct thresholds. The riddle constrains bottle order but supplies insufficient visual dimensions to reconstruct every shape."
+    },
+    {
+      "id": "B01-134",
+      "location": "Potion chamber — bottle selection and passage",
+      "category": "magic",
+      "description": "The riddle specifies three poisons, two nettle wines and two passage-enabling drinks; wine has poison on its left side as worded, end bottles differ, neither end leads onward, smallest/largest are safe, and second from each end taste alike. Hermione identifies the tiny smallest bottle for black fire and a rounded bottle at the right end for purple fire. The cold-tasting drinks allow her to retreat and Harry to enter the last chamber unburnt.",
+      "evidence": [
+        "B01-C016-P0273",
+        "B01-C016-P0274",
+        "B01-C016-P0275",
+        "B01-C016-P0276",
+        "B01-C016-P0277",
+        "B01-C016-P0278",
+        "B01-C016-P0281",
+        "B01-C016-P0282",
+        "B01-C016-P0283",
+        "B01-C016-P0284",
+        "B01-C016-P0285",
+        "B01-C016-P0286",
+        "B01-C016-P0287",
+        "B01-C016-P0288",
+        "B01-C016-P0292",
+        "B01-C016-P0295",
+        "B01-C016-P0296",
+        "B01-C016-P0297",
+        "B01-C016-P0298",
+        "B01-C016-P0300",
+        "B01-C016-P0301",
+        "B01-C016-P0311",
+        "B01-C016-P0313",
+        "B01-C016-P0317",
+        "B01-C016-P0318",
+        "B01-C016-P0319",
+        "B01-C016-P0320"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, approach to the Stone",
+      "model_notes": "Positions of smallest and largest within the line are not numbered in the prose; do not invent them. The smallest bottle has only one swallow left. The riddle’s left-side statement should be preserved as a puzzle constraint, not a complete bottle map."
+    },
+    {
+      "id": "B01-135",
+      "location": "Planned escape from underground defences",
+      "category": "route",
+      "description": "Harry instructs Hermione to retrieve Ron and use brooms from the key chamber to fly out through the trapdoor past Fluffy, then send an owl from the owlery.",
+      "evidence": [
+        "B01-C016-P0302"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1992, approach to the Stone",
+      "model_notes": "A proposed escape route, not a witnessed complete traversal. No owlery floor or direct tunnel to it established."
+    },
+    {
+      "id": "B01-136",
+      "location": "Last underground chamber — mirror and flame entrance",
+      "category": "interior",
+      "description": "The final chamber holds the Mirror of Erised, with enough space for Quirrell to walk around its frame and behind it. The flame doorway remains Harry’s attempted exit.",
+      "evidence": [
+        "B01-C017-P0017",
+        "B01-C017-P0018",
+        "B01-C017-P0021",
+        "B01-C017-P0022",
+        "B01-C017-P0034",
+        "B01-C017-P0037",
+        "B01-C017-P0044",
+        "B01-C017-P0047",
+        "B01-C017-P0048",
+        "B01-C017-P0053",
+        "B01-C017-P0054",
+        "B01-C017-P0069",
+        "B01-C017-P0072"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, end of first year",
+      "model_notes": "Movable mirror relocated from the disused classroom. No pedestal, stair, pit or final chamber dimensions described."
+    },
+    {
+      "id": "B01-137",
+      "location": "Mirror of Erised — Stone concealment rule",
+      "category": "magic",
+      "description": "Harry’s reflection takes a blood-red stone from its pocket and replaces it; the real Stone appears in Harry’s pocket. Dumbledore explains that only someone wanting to find the Stone without using it could obtain it.",
+      "evidence": [
+        "B01-C017-P0047",
+        "B01-C017-P0048",
+        "B01-C017-P0053",
+        "B01-C017-P0137",
+        "B01-C017-P0138"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, end of first year",
+      "model_notes": "Observed transfer plus reported access rule; do not make a physical compartment in the mirror an established fact."
+    },
+    {
+      "id": "B01-138",
+      "location": "Stone chambers — dungeon classification and removal",
+      "category": "history",
+      "description": "Dumbledore calls Harry’s encounter with Quirrell an event down in the dungeons, says he interrupted it and later states that the Stone has been destroyed.",
+      "evidence": [
+        "B01-C017-P0091",
+        "B01-C017-P0092",
+        "B01-C017-P0094",
+        "B01-C017-P0096",
+        "B01-C017-P0098",
+        "B01-C017-P0102",
+        "B01-C017-P0104",
+        "B01-C017-P0106"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1992, end of first year",
+      "model_notes": "Reported dungeon identification and end of the Stone’s purpose. No statement establishes when every obstacle or room was dismantled."
+    },
+    {
+      "id": "B01-139",
+      "location": "Hallowe’en incursion and disabled chamber troll",
+      "category": "history",
+      "description": "Quirrell admits introducing the Hallowe’en troll as a diversion to examine the Stone’s guards, and claims responsibility for disabling the larger troll in the underground chamber.",
+      "evidence": [
+        "B01-C017-P0013",
+        "B01-C017-P0014",
+        "B01-C017-P0015"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1992, end of first year",
+      "model_notes": "Retrospective character admission resolves the security incident; it supplies no entry gate or troll delivery route."
+    },
+    {
+      "id": "B01-140",
+      "location": "Hospital wing — bed, table, window and visitor door",
+      "category": "interior",
+      "description": "Harry wakes in a hospital bed with white linen sheets, beside a table piled with sweets. A window has a sill where a bird sits, and visitors enter through a door and can sit beside the bed.",
+      "evidence": [
+        "B01-C017-P0090",
+        "B01-C017-P0091",
+        "B01-C017-P0092",
+        "B01-C017-P0109",
+        "B01-C017-P0122",
+        "B01-C017-P0141",
+        "B01-C017-P0147",
+        "B01-C017-P0148",
+        "B01-C017-P0163",
+        "B01-C017-P0168",
+        "B01-C017-P0170"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, end of first year",
+      "model_notes": "Defines bedside furnishings and exterior window, not ward bed count or a measured floor plan."
+    },
+    {
+      "id": "B01-141",
+      "location": "Underground escape to Entrance Hall and third floor",
+      "category": "route",
+      "description": "Hermione reports returning through the defences, reviving Ron and hurrying up towards the owlery; they meet Dumbledore in the Entrance Hall, and he heads to the third floor.",
+      "evidence": [
+        "B01-C017-P0157",
+        "B01-C017-P0158"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1992, end of first year",
+      "model_notes": "Reported actual return, but no explicit confirmation of the proposed broom method or exact owlery position."
+    },
+    {
+      "id": "B01-142",
+      "location": "Hospital wing to Great Hall",
+      "category": "route",
+      "description": "Harry goes down from the hospital wing to the end-of-year feast in the Great Hall.",
+      "evidence": [
+        "B01-C017-P0166",
+        "B01-C017-P0167",
+        "B01-C017-P0168",
+        "B01-C017-P0182",
+        "B01-C017-P0183"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, end of first year",
+      "model_notes": "Vertical relation is explicit without a hospital floor number."
+    },
+    {
+      "id": "B01-143",
+      "location": "Great Hall — House Cup decoration change",
+      "category": "temporary",
+      "description": "Green and silver Slytherin hangings decorate the full Hall and a huge serpent banner covers the wall behind the High Table. Dumbledore’s clap turns the hangings scarlet and gold and replaces the serpent with a towering Gryffindor lion. Stars are visible on the enchanted ceiling during the feast.",
+      "evidence": [
+        "B01-C017-P0182",
+        "B01-C017-P0194",
+        "B01-C017-P0203",
+        "B01-C017-P0204"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, end of first year",
+      "model_notes": "Two successive end-of-year decoration states, with an identified banner wall; no permanent stone relief inferred."
+    },
+    {
+      "id": "B01-144",
+      "location": "Gryffindor dormitories and school toilets — departure fixtures",
+      "category": "furnishing",
+      "description": "At departure the pupils’ wardrobes have been emptied and trunks packed; Neville’s toad is found in a corner of the toilets.",
+      "evidence": [
+        "B01-C017-P0208"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, end of first year",
+      "model_notes": "Confirms wardrobes as dormitory storage. Unspecified toilets are not automatically the Hallowe’en bathroom."
+    },
+    {
+      "id": "B01-145",
+      "location": "School departure — boats, railway and London barrier",
+      "category": "route",
+      "description": "Hagrid escorts the pupils down to a fleet of boats crossing the lake before they board the Hogwarts Express. Returning towards London the countryside grows greener and tidier. At King’s Cross a guard releases pupils through the barrier in groups of two or three so Muggles do not see a mass emergence from the solid wall.",
+      "evidence": [
+        "B01-C017-P0208",
+        "B01-C017-P0209",
+        "B01-C017-P0212",
+        "B01-C017-P0217"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992, end of first year",
+      "model_notes": "End-of-first-year route uses lake boats; do not assume later-year carriage arrangements here. Station-to-boat intermediate steps are omitted."
     }
   ],
   "chapter_reviews": [
@@ -1610,6 +2397,39 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter read. Tallest tower remains unnamed in this chapter; no remembered tower identification imposed. Dragon-size predictions not treated as dimensions."
+    },
+    {
+      "chapter": 15,
+      "reviewed_ranges": [
+        [
+          1,
+          189
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Tallest-tower identity resolved here. Kept stream as auditory inference, werewolves as rumour, and distinct forest clearings separate."
+    },
+    {
+      "chapter": 16,
+      "reviewed_ranges": [
+        [
+          1,
+          321
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read, including the entire bottle riddle. Preserved chamber order and distinct fire thresholds. Shaft depth is not measured; proposed broom escape is separate from observation."
+    },
+    {
+      "chapter": 17,
+      "reviewed_ranges": [
+        [
+          1,
+          233
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Final confrontation, hospital dialogue, feast and departure reviewed; no unread paragraphs remain in book 1. Definitive retrospective source identifies the confrontation as down in the dungeons."
     }
   ]
 }
