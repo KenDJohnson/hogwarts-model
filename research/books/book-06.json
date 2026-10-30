@@ -1,0 +1,28 @@
+{
+  "book": 6,
+  "entries": [],
+  "chapter_reviews": [
+    {
+      "chapter": 1,
+      "reviewed_ranges": [
+        [
+          1,
+          135
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter. Hogwarts is named in remembered ministerial news; imported Triwizard creatures are reported without a Hogwarts siting or spatial installation. Prime Minister office and unrelated national damage are outside model scope."
+    },
+    {
+      "chapter": 2,
+      "reviewed_ranges": [
+        [
+          1,
+          175
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter. Spinner’s End house and town are outside Hogwarts boundary context. Dialogue about Hogwarts employment, the Stone and Draco’s task adds no physical or spatial constraint."
+    }
+  ]
+}
