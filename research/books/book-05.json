@@ -4966,6 +4966,278 @@
       "certainty": "explicit",
       "temporal": "June 1996 end of Ministry battle",
       "model_notes": "Observed inbound Portkey access despite ordinary Apparition restriction; Fudge protests lack of Ministry authorisation, so do not call it legally authorised."
+    },
+    {
+      "id": "B05-298",
+      "location": "Hospital wing recovery layout",
+      "category": "interior",
+      "description": "Ron and Hermione occupy beds with Neville seated between them; Ron has a bedside cabinet piled with Chocolate Frogs and a water jug. Umbridge lies in a bed opposite; Pomfrey can look out from her office door. Daylight and blue sky show through the ward window.",
+      "evidence": [
+        "B05-C038-P0009",
+        "B05-C038-P0011",
+        "B05-C038-P0013",
+        "B05-C038-P0022",
+        "B05-C038-P0025",
+        "B05-C038-P0027",
+        "B05-C038-P0030",
+        "B05-C038-P0031",
+        "B05-C038-P0032",
+        "B05-C038-P0033",
+        "B05-C038-P0042",
+        "B05-C038-P0043",
+        "B05-C038-P0044",
+        "B05-C038-P0045"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Recovery occupancy is temporal, not a fixed patient allocation."
+    },
+    {
+      "id": "B05-299",
+      "location": "Swamp remnant",
+      "category": "temporary",
+      "description": "Ginny reports Flitwick removing the corridor swamp in about three seconds but preserving a tiny roped-off patch beneath a window, praising its magic.",
+      "evidence": [
+        "B05-C038-P0019",
+        "B05-C038-P0020",
+        "B05-C038-P0021",
+        "B05-C038-P0022",
+        "B05-C038-P0024"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Reported post-restoration state; Ron’s memorial interpretation is an inference."
+    },
+    {
+      "id": "B05-300",
+      "location": "Umbridge Forest rescue",
+      "category": "history",
+      "description": "Dumbledore goes alone into the Forest and returns supporting Umbridge without visible injury; the rescue method is unknown.",
+      "evidence": [
+        "B05-C038-P0027",
+        "B05-C038-P0028",
+        "B05-C038-P0035",
+        "B05-C038-P0036"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Narrated outcome, no invented centaur settlement or rescue route."
+    },
+    {
+      "id": "B05-301",
+      "location": "Upper corridor grounds panorama",
+      "category": "exterior",
+      "description": "After leaving the hospital wing Harry sees from corridor windows people flying over the Quidditch pitch and students swimming in the lake beside the giant squid.",
+      "evidence": [
+        "B05-C038-P0046",
+        "B05-C038-P0047"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Sunny end-of-term use and occupied lake; exact viewing window location not identified."
+    },
+    {
+      "id": "B05-302",
+      "location": "Entrance Hall Slytherin and office routes",
+      "category": "route",
+      "description": "Descending the last marble step into the Entrance Hall, Harry sees Malfoy’s group emerge from a door on his right known to lead down to Slytherin common room. Snape emerges from stairs down to his office; McGonagall arrives up the exterior stone steps and sends luggage upstairs toward her office via the marble staircase.",
+      "evidence": [
+        "B05-C038-P0048",
+        "B05-C038-P0061",
+        "B05-C038-P0069",
+        "B05-C038-P0070",
+        "B05-C038-P0071",
+        "B05-C038-P0072",
+        "B05-C038-P0073",
+        "B05-C038-P0078"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Right is from a descending-marble-stair viewpoint, not from entering the front doors. Slytherin entrance itself is not described."
+    },
+    {
+      "id": "B05-303",
+      "location": "House-point gem materials",
+      "category": "furnishing",
+      "description": "Gryffindor’s empty hourglass receives falling rubies as points are awarded, and Ravenclaw’s receives sapphires. Deducted Gryffindor rubies rise into the upper bulb.",
+      "evidence": [
+        "B05-C038-P0066",
+        "B05-C038-P0067",
+        "B05-C038-P0074",
+        "B05-C038-P0075",
+        "B05-C038-P0076",
+        "B05-C038-P0077"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Adds explicit gem identities to earlier hourglass mechanics."
+    },
+    {
+      "id": "B05-304",
+      "location": "Summer lawns and Hagrid garden",
+      "category": "grounds",
+      "description": "Pupils sunbathe, talk and read on hot lawns. Behind Hagrid’s cabin a fenced back garden grows runner beans which he harvests; Fang can run around the cabin corner. Inside, Hagrid serves iced dandelion juice at his wooden table.",
+      "evidence": [
+        "B05-C038-P0079",
+        "B05-C038-P0080",
+        "B05-C038-P0081",
+        "B05-C038-P0082",
+        "B05-C038-P0093",
+        "B05-C038-P0098",
+        "B05-C038-P0099",
+        "B05-C038-P0101"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Runner beans add a specific garden crop and rear/front circulation."
+    },
+    {
+      "id": "B05-305",
+      "location": "Hagrid hiding place and Grawp report",
+      "category": "history",
+      "description": "Hagrid says he hid in a mountain cave after fleeing and reports Grawp better behaved on his return. A possible female companion is only an idea.",
+      "evidence": [
+        "B05-C038-P0085",
+        "B05-C038-P0086",
+        "B05-C038-P0087",
+        "B05-C038-P0089",
+        "B05-C038-P0090"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Reported refuge not located as Sirius’s exact cave; no second giant installed."
+    },
+    {
+      "id": "B05-306",
+      "location": "Lakeside shrub refuge and opposite bank",
+      "category": "grounds",
+      "description": "A short walk around the lake brings Harry to a bank hidden from passers-by by tangled shrubs. Directly across the water is the opposite-bank spot where Sirius once collapsed defending himself from Dementors; Harry stays until after sunset, then returns to the castle.",
+      "evidence": [
+        "B05-C038-P0103",
+        "B05-C038-P0104",
+        "B05-C038-P0105",
+        "B05-C038-P0106",
+        "B05-C038-P0107"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Explicit cross-lake relation between two event sites; no shoreline distances or orientation."
+    },
+    {
+      "id": "B05-307",
+      "location": "Umbridge departure path",
+      "category": "temporary",
+      "description": "During dinner Umbridge leaves the hospital wing and is chased from school by Peeves with a walking stick and chalk-filled sock. Students watch from the Entrance Hall as she runs down the path.",
+      "evidence": [
+        "B05-C038-P0110"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Departure and implement use narrated; no new attack damage to architecture."
+    },
+    {
+      "id": "B05-308",
+      "location": "Dormitory mirror and ghost-search route",
+      "category": "route",
+      "description": "Harry breaks Sirius’s small square two-way mirror in his trunk, then descends the spiral stairs, crosses the empty common room, passes the portrait hole and runs down further stairs and corridors to a point outside Charms. He enters the nearest classroom to talk to Nick.",
+      "evidence": [
+        "B05-C038-P0111",
+        "B05-C038-P0112",
+        "B05-C038-P0114",
+        "B05-C038-P0115",
+        "B05-C038-P0117",
+        "B05-C038-P0118",
+        "B05-C038-P0119",
+        "B05-C038-P0121",
+        "B05-C038-P0123",
+        "B05-C038-P0127",
+        "B05-C038-P0128",
+        "B05-C038-P0130",
+        "B05-C038-P0133",
+        "B05-C038-P0134",
+        "B05-C038-P0136",
+        "B05-C038-P0137",
+        "B05-C038-P0141",
+        "B05-C038-P0142",
+        "B05-C038-P0144",
+        "B05-C038-P0145",
+        "B05-C038-P0146",
+        "B05-C038-P0148",
+        "B05-C038-P0171",
+        "B05-C038-P0172"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Mirror’s prior detention use is Sirius’s note; no successful new remote connection. Unnamed classroom has a grounds-facing window; Nick traverses solid walls."
+    },
+    {
+      "id": "B05-309",
+      "location": "Ghost movement and persistence",
+      "category": "magic",
+      "description": "Nearly Headless Nick explains that some wizards choose to leave a pale imprint in places they once walked; he can move and speak in Hogwarts and pass through its stone walls, but says Sirius will not return as a ghost.",
+      "evidence": [
+        "B05-C038-P0136",
+        "B05-C038-P0137",
+        "B05-C038-P0144",
+        "B05-C038-P0149",
+        "B05-C038-P0150",
+        "B05-C038-P0152",
+        "B05-C038-P0154",
+        "B05-C038-P0157",
+        "B05-C038-P0159",
+        "B05-C038-P0161",
+        "B05-C038-P0164",
+        "B05-C038-P0168",
+        "B05-C038-P0170",
+        "B05-C038-P0171"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Choice and afterlife account are Nick’s report; wall traversal directly observed. No newly added Sirius apparition."
+    },
+    {
+      "id": "B05-310",
+      "location": "Board near Fat Lady corridor",
+      "category": "furnishing",
+      "description": "On the return upward from Charms, Harry turns toward the Fat Lady’s corridor and finds Luna pinning a lost-property list on a wall noticeboard; there are no useful nearby hiding places.",
+      "evidence": [
+        "B05-C038-P0172",
+        "B05-C038-P0173",
+        "B05-C038-P0174",
+        "B05-C038-P0175",
+        "B05-C038-P0176",
+        "B05-C038-P0177",
+        "B05-C038-P0182",
+        "B05-C038-P0183",
+        "B05-C038-P0198",
+        "B05-C038-P0200"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "A corridor noticeboard distinct from the board inside Gryffindor common room."
+    },
+    {
+      "id": "B05-311",
+      "location": "Hogwarts Express homeward connection",
+      "category": "route",
+      "description": "The homeward train has a toilet and glass-windowed compartments opening to its corridor, luggage racks holding cages, and a food trolley. After arrival at King’s Cross a ticket inspector regulates when pupils cross the magical barrier between platforms nine and ten.",
+      "evidence": [
+        "B05-C038-P0202",
+        "B05-C038-P0203",
+        "B05-C038-P0204",
+        "B05-C038-P0205",
+        "B05-C038-P0207",
+        "B05-C038-P0208",
+        "B05-C038-P0222",
+        "B05-C038-P0223",
+        "B05-C038-P0224",
+        "B05-C038-P0225",
+        "B05-C038-P0238",
+        "B05-C038-P0264"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "No departure journey from castle to Hogsmeade station is narrated in this closing chapter."
     }
   ],
   "chapter_reviews": [
@@ -5375,6 +5647,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read every paragraph in three chunks, including full prophecy and explanation. Privet Drive blood protection and locked Ministry room are not Hogwarts wards. Recorded office repair then fresh damage in correct sequence."
+    },
+    {
+      "chapter": 38,
+      "reviewed_ranges": [
+        [
+          1,
+          264
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph in three untruncated chunks, including newspaper statement, recovery, all final castle visits, ghost discussion, train journey and complete station farewell. No unread paragraphs remain in Book 5."
     }
   ]
 }
