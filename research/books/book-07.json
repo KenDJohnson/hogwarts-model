@@ -1,0 +1,17 @@
+{
+  "book": 7,
+  "entries": [],
+  "chapter_reviews": [
+    {
+      "chapter": 1,
+      "reviewed_ranges": [
+        [
+          1,
+          108
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter. Malfoy Manor and its security are not Hogwarts grounds; Charity Burbage’s employment, departure plans and Ministry transport discussions add no school-specific physical or spatial description. No manor feature is transferred to Hogwarts."
+    }
+  ]
+}
