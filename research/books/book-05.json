@@ -1159,6 +1159,134 @@
       "certainty": "explicit",
       "temporal": "Second week of September term, 1995",
       "model_notes": "Confirms sofa with under-clearance and glazed windows; broken bowl is repaired locally in the scene."
+    },
+    {
+      "id": "B05-078",
+      "location": "School exit and Hogsmeade road",
+      "category": "route",
+      "description": "Filch checks a parental-permission list before pupils leave onto the stone steps. The friends descend the wide drive to the gates, pass between the winged-boar-topped stone pillars and turn left onto the village road.",
+      "evidence": [
+        "B05-C016-P0037",
+        "B05-C016-P0038",
+        "B05-C016-P0039",
+        "B05-C016-P0044",
+        "B05-C016-P0046"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late September and first October Hogsmeade weekend, 1995",
+      "model_notes": "Explicit gate-to-village turn; compass orientation unspecified."
+    },
+    {
+      "id": "B05-079",
+      "location": "Hogsmeade approach to Hog’s Head",
+      "category": "route",
+      "description": "Following the main street past Zonko’s and the post office, they turn up a side street to a small inn at its top. Returning, they turn into the High Street and stop outside Scrivenshaft’s.",
+      "evidence": [
+        "B05-C016-P0048",
+        "B05-C016-P0049",
+        "B05-C016-P0184",
+        "B05-C016-P0191",
+        "B05-C016-P0192",
+        "B05-C016-P0205"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late September and first October Hogsmeade weekend, 1995",
+      "model_notes": "Village detail retained as a route to the off-main-road school meeting, not a complete village inventory."
+    },
+    {
+      "id": "B05-080",
+      "location": "Hog’s Head sign and entrance",
+      "category": "exterior",
+      "description": "A battered wooden sign hangs above the door from a rusty bracket, showing a severed boar’s head bleeding onto a white cloth. Opening the door lets a band of dusty sunlight cross the bar.",
+      "evidence": [
+        "B05-C016-P0049",
+        "B05-C016-P0050",
+        "B05-C016-P0068"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late September and first October Hogsmeade weekend, 1995",
+      "model_notes": "Wind makes the hanging sign creak."
+    },
+    {
+      "id": "B05-081",
+      "location": "Hog’s Head bar room",
+      "category": "interior",
+      "description": "The bar is one small dingy dirty room smelling of goats, with grime-encrusted bay windows admitting little daylight. Candle stubs on rough wooden tables supply light; accumulated dirt covers a stone floor.",
+      "evidence": [
+        "B05-C016-P0051"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late September and first October Hogsmeade weekend, 1995",
+      "model_notes": "Observed 1995 condition of the castle-boundary meeting location."
+    },
+    {
+      "id": "B05-082",
+      "location": "Hog’s Head internal arrangement",
+      "category": "interior",
+      "description": "A table stands in one window; a shadowy corner is beside the fireplace. The barman comes from a back room; bottles are stored under the counter, and an ancient wooden till opens its drawer automatically. The group takes the table farthest from the bar and adds chairs for twenty-five newcomers.",
+      "evidence": [
+        "B05-C016-P0052",
+        "B05-C016-P0057",
+        "B05-C016-P0060",
+        "B05-C016-P0062",
+        "B05-C016-P0068",
+        "B05-C016-P0069",
+        "B05-C016-P0071",
+        "B05-C016-P0073",
+        "B05-C016-P0074",
+        "B05-C016-P0079",
+        "B05-C016-P0080",
+        "B05-C016-P0081"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late September and first October Hogsmeade weekend, 1995",
+      "model_notes": "At least twenty-eight students occupy the room; retain count as event occupancy, not a code capacity."
+    },
+    {
+      "id": "B05-083",
+      "location": "Village pubs and school access",
+      "category": "history",
+      "description": "Hermione describes the Three Broomsticks as usually crowded and noisy and reports Flitwick confirming that pupils may enter the Hog’s Head. Harry contrasts its dirt with the Three Broomsticks’ large clean warm-looking bar.",
+      "evidence": [
+        "B05-C016-P0048",
+        "B05-C016-P0051",
+        "B05-C016-P0055"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late September and first October Hogsmeade weekend, 1995",
+      "model_notes": "Pub access permission is reported; no physical enforcement barrier asserted."
+    },
+    {
+      "id": "B05-084",
+      "location": "Dumbledore’s office sword and portraits",
+      "category": "furnishing",
+      "description": "Terry Boot reports seeing a sword in Dumbledore’s office and hearing one of the wall portraits tell of Harry using it to kill the Basilisk; Harry confirms the deed.",
+      "evidence": [
+        "B05-C016-P0117",
+        "B05-C016-P0118"
+      ],
+      "certainty": "reported",
+      "temporal": "Late September and first October Hogsmeade weekend, 1995",
+      "model_notes": "Reported office contents and talking wall portrait; this does not newly describe the sword’s display case."
+    },
+    {
+      "id": "B05-085",
+      "location": "Proposed Defence practice rooms",
+      "category": "history",
+      "description": "Katie suggests the library, Dean an unused classroom, and Ron recalls McGonagall permitting use of her room for Harry’s Triwizard practice. No meeting room is selected here.",
+      "evidence": [
+        "B05-C016-P0163",
+        "B05-C016-P0164",
+        "B05-C016-P0165",
+        "B05-C016-P0166",
+        "B05-C016-P0167",
+        "B05-C016-P0168",
+        "B05-C016-P0169",
+        "B05-C016-P0170"
+      ],
+      "certainty": "reported",
+      "temporal": "Late September and first October Hogsmeade weekend, 1995",
+      "model_notes": "Separate proposed venues from confirmed use; Ron’s past-use recollection is reported."
     }
   ],
   "chapter_reviews": [
@@ -1326,6 +1454,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs including newspaper decree text, inspections and defence-study discussion. Closing corridor dreams remain unlocated; proposed creature syllabus is not an observation of animals present."
+    },
+    {
+      "chapter": 16,
+      "reviewed_ranges": [
+        [
+          1,
+          210
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph, including complete meeting and return to High Street. Remote village shops are used as route landmarks; their unrelated stock displays are not expanded into a separate village model."
     }
   ]
 }
