@@ -4745,6 +4745,53 @@
       "certainty": "explicit",
       "temporal": "June 1996 evening following final exam",
       "model_notes": "Blood attraction is Ginny’s inference, supported by licking and arrival; it is not an explicitly demonstrated summoning spell."
+    },
+    {
+      "id": "B05-286",
+      "location": "Thestral mounting in Forest",
+      "category": "route",
+      "description": "Harry mounts from a nearby stump, securing his knees behind the wing joints; riders grip manes. Luna helps the three pupils unable to see the animals mount separate Thestrals.",
+      "evidence": [
+        "B05-C034-P0001",
+        "B05-C034-P0002",
+        "B05-C034-P0004",
+        "B05-C034-P0005",
+        "B05-C034-P0006",
+        "B05-C034-P0007",
+        "B05-C034-P0008",
+        "B05-C034-P0009",
+        "B05-C034-P0011",
+        "B05-C034-P0012"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 sunset and night, Department of Mysteries expedition",
+      "model_notes": "Physical riding arrangement and stump aid, not saddles or bridles."
+    },
+    {
+      "id": "B05-287",
+      "location": "Forest-to-London aerial route",
+      "category": "route",
+      "description": "On a spoken destination command, Thestrals extend their wings, crouch and climb steeply through the topmost branches into sunset. Six riders streak over the castle, grounds and Hogsmeade, then mountains, gullies, villages and winding hillside roads before reaching London after dark.",
+      "evidence": [
+        "B05-C034-P0012",
+        "B05-C034-P0013",
+        "B05-C034-P0014",
+        "B05-C034-P0015",
+        "B05-C034-P0016",
+        "B05-C034-P0017",
+        "B05-C034-P0018",
+        "B05-C034-P0023",
+        "B05-C034-P0024",
+        "B05-C034-P0025",
+        "B05-C034-P0026",
+        "B05-C034-P0027",
+        "B05-C034-P0029",
+        "B05-C034-P0030",
+        "B05-C034-P0039"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 sunset and night, Department of Mysteries expedition",
+      "model_notes": "School boundary aerial egress and surrounding terrain; no speed, duration, exact bearing or continuous mapped road course supplied. London endpoint is Ministry visitors’ entrance."
     }
   ],
   "chapter_reviews": [
@@ -5110,6 +5157,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read every paragraph including complete centaur confrontation, Grawp fight, reunion and mount debate. Fabricated weapon location excluded; actual path distinguished from earlier Grawp route."
+    },
+    {
+      "chapter": 34,
+      "reviewed_ranges": [
+        [
+          1,
+          181
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three chunks, entire flight and Ministry exploration. Recorded Hogwarts aerial departure; Ministry Atrium, rotating room, brains, veil, time and prophecy rooms are not castle rooms."
     }
   ]
 }
