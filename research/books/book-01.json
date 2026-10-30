@@ -1,0 +1,63 @@
+{
+  "book": 1,
+  "entries": [
+    {
+      "id": "B01-001",
+      "location": "Hogwarts — historical security",
+      "category": "history",
+      "description": "Hagrid reports that Hogwarts was among the few safe places during Voldemort’s earlier rise; Voldemort did not attempt to take the school then, reportedly because he feared Dumbledore.",
+      "evidence": [
+        "B01-C004-P0107"
+      ],
+      "certainty": "reported",
+      "temporal": "First rise of Voldemort, before October 1981; reported July 1991",
+      "model_notes": "A historical security claim, not evidence of a particular wall, ward, or physical defensive mechanism."
+    }
+  ],
+  "chapter_reviews": [
+    {
+      "chapter": 1,
+      "reviewed_ranges": [
+        [
+          1,
+          111
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter; Privet Drive and Godric’s Hollow events do not describe Hogwarts or its boundaries."
+    },
+    {
+      "chapter": 2,
+      "reviewed_ranges": [
+        [
+          1,
+          100
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read; no descriptions of Hogwarts or its boundaries."
+    },
+    {
+      "chapter": 3,
+      "reviewed_ranges": [
+        [
+          1,
+          136
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read; no descriptions of Hogwarts or its boundaries."
+    },
+    {
+      "chapter": 4,
+      "reviewed_ranges": [
+        [
+          1,
+          149
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Off-site homes, zoo and seaside hut excluded; Hogwarts safety report retained in chapter 4."
+    }
+  ]
+}
