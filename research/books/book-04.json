@@ -1466,6 +1466,189 @@
       "certainty": "explicit",
       "temporal": "24 November 1994, after first task",
       "model_notes": "Confirms the same screening clump on the return route; Rita’s hiding place is temporary."
+    },
+    {
+      "id": "B04-098",
+      "location": "Owlery exterior clearance",
+      "category": "exterior",
+      "description": "After Ron releases Pigwidgeon from an Owlery window, the owl drops twelve feet before recovering flight.",
+      "evidence": [
+        "B04-C021-P0004",
+        "B04-C021-P0008"
+      ],
+      "certainty": "explicit",
+      "temporal": "Evening after first task, November 1994",
+      "model_notes": "Establishes at least twelve feet of unobstructed descent outside that opening, not its total elevation above ground."
+    },
+    {
+      "id": "B04-099",
+      "location": "Gryffindor first-task celebration",
+      "category": "temporary",
+      "description": "Cakes and flagons of pumpkin juice and Butterbeer cover common-room surfaces. Fireworks fill the air with stars and sparks, and Dean’s new banners depict Harry flying around the Horntail and Cedric with his head aflame.",
+      "evidence": [
+        "B04-C021-P0009",
+        "B04-C021-P0010"
+      ],
+      "certainty": "explicit",
+      "temporal": "Evening after first task, November 1994",
+      "model_notes": "Temporary party dressing. The open golden egg adds a loud screeching sound later in the scene, but is a carried task prop rather than architecture."
+    },
+    {
+      "id": "B04-100",
+      "location": "Castle and lake in early winter",
+      "category": "temporary",
+      "description": "Wind and sleet arrive in December. The castle is draughty but has thick walls and fires; on the lake the Durmstrang ship pitches in high winds with black sails billowing.",
+      "evidence": [
+        "B04-C021-P0042"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early December 1994",
+      "model_notes": "Observed weather state and contrasting shelter. Harry only supposes the carriage is chilly; that interior temperature is not verified."
+    },
+    {
+      "id": "B04-101",
+      "location": "Beauxbatons paddock trough",
+      "category": "furnishing",
+      "description": "A trough in a corner of the temporary horse paddock contains single-malt whisky; strong fumes reach the nearby Care of Magical Creatures class.",
+      "evidence": [
+        "B04-C021-P0042"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early December 1994",
+      "model_notes": "Dated paddock fixture and an acoustic/olfactory proximity cue; no trough dimensions are given."
+    },
+    {
+      "id": "B04-102",
+      "location": "Pumpkin-patch Skrewt escape and damage",
+      "category": "temporary",
+      "description": "In the windy pumpkin patch Hagrid tries to shut ten nearly six-foot Skrewts into enormous boxes lined with pillows and fluffy blankets. They break out, leaving smouldering box wreckage. One blasts fire that withers nearby pumpkin plants; nine others are restrained and tied up.",
+      "evidence": [
+        "B04-C021-P0043",
+        "B04-C021-P0044",
+        "B04-C021-P0045",
+        "B04-C021-P0046",
+        "B04-C021-P0047",
+        "B04-C021-P0051"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early December 1994 lesson",
+      "model_notes": "Record before-and-after box state and plant damage, not a permanent ruined garden."
+    },
+    {
+      "id": "B04-103",
+      "location": "Hagrid’s cabin rear access and garden fence",
+      "category": "grounds",
+      "description": "Pupils flee the pumpkin patch through the cabin’s back door and barricade it. Harry and Ron retreat against an outside cabin wall, while Rita watches by leaning on Hagrid’s garden fence. Pupils inside watch through the glazed cabin windows.",
+      "evidence": [
+        "B04-C021-P0046",
+        "B04-C021-P0048",
+        "B04-C021-P0050",
+        "B04-C021-P0065"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early December 1994 lesson",
+      "model_notes": "Connects pumpkin patch, rear door, exterior wall, garden fence and outward window views. The fence is not described as a defensive perimeter."
+    },
+    {
+      "id": "B04-104",
+      "location": "Divination stair ventilation",
+      "category": "interior",
+      "description": "Leaving Trelawney’s room, Harry and Ron regain fresher air on the staircase beneath it.",
+      "evidence": [
+        "B04-C021-P0083"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late November–early December 1994",
+      "model_notes": "A relative air-quality observation supporting the perfumed, enclosed classroom state; no additional vent or doorway is established."
+    },
+    {
+      "id": "B04-105",
+      "location": "Library shelving rows",
+      "category": "furnishing",
+      "description": "Ron watches Krum from behind bookshelves and finds six or seven girls hidden in the next row of books doing the same.",
+      "evidence": [
+        "B04-C021-P0085"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late November–early December 1994",
+      "model_notes": "Adds multiple neighbouring shelving rows and inter-row hiding space without determining their number or alignment."
+    },
+    {
+      "id": "B04-106",
+      "location": "Gryffindor Tower to kitchen corridor",
+      "category": "route",
+      "description": "Hermione leads Harry and Ron from the Gryffindor portrait corridor down through six floors, then down the marble staircase into the Entrance Hall. Turning left at its foot, they take the door Cedric used and descend a flight of stone steps into a broad, brightly torch-lit stone corridor decorated mainly with cheerful food paintings.",
+      "evidence": [
+        "B04-C021-P0088",
+        "B04-C021-P0090",
+        "B04-C021-P0094",
+        "B04-C021-P0097",
+        "B04-C021-P0099",
+        "B04-C021-P0184",
+        "B04-C021-P0185"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late November–early December 1994",
+      "model_notes": "Left is from the descending-stair viewpoint, consistent with the earlier door on the staircase’s right when viewed from the Hall. This corridor differs from Snape’s gloomy dungeon approach; do not merge them."
+    },
+    {
+      "id": "B04-107",
+      "location": "Kitchen fruit portrait entrance",
+      "category": "magic",
+      "description": "A painting showing a gigantic silver fruit bowl stands partway down the corridor. Tickling its huge green pear makes it wriggle and laugh, then transform into a large green door handle; pulling the handle opens the concealed kitchen door.",
+      "evidence": [
+        "B04-C021-P0100",
+        "B04-C021-P0103",
+        "B04-C021-P0108"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late November–early December 1994",
+      "model_notes": "This directly observed operation confirms Fred’s earlier directions in this chapter. Keep the handle transformation and opening action distinct."
+    },
+    {
+      "id": "B04-108",
+      "location": "Hogwarts kitchen structure",
+      "category": "interior",
+      "description": "The kitchen is an enormous high-ceilinged room as large as the Great Hall above it, with stone walls and a flagged stone floor. Glittering brass pots and pans are piled around the walls. A great brick fireplace occupies the far end, with a stool by it.",
+      "evidence": [
+        "B04-C021-P0109",
+        "B04-C021-P0120",
+        "B04-C021-P0122",
+        "B04-C021-P0125",
+        "B04-C021-P0140"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late November–early December 1994",
+      "model_notes": "Explicit scale relation to the Great Hall and far-end fireplace placement; no numeric dimensions or ceiling construction are supplied."
+    },
+    {
+      "id": "B04-109",
+      "location": "Kitchen tables and staffing",
+      "category": "furnishing",
+      "description": "Four long wooden kitchen tables stand exactly beneath the corresponding four house tables in the Great Hall. They are bare after dinner. At least a hundred house-elves in Hogwarts-crested tea-towels occupy the kitchen, serve tea on a silver tray, and gather at the door when visitors leave.",
+      "evidence": [
+        "B04-C021-P0118",
+        "B04-C021-P0119",
+        "B04-C021-P0129",
+        "B04-C021-P0161",
+        "B04-C021-P0180",
+        "B04-C021-P0181"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late November–early December 1994",
+      "model_notes": "Table alignment is narrated as an observation. No separate fifth staff-service table is described; do not silently add one."
+    },
+    {
+      "id": "B04-110",
+      "location": "Kitchen-to-Hall food transfer",
+      "category": "magic",
+      "description": "Harry supposes that before dinner the lower tables carried the dishes which were then sent through the ceiling to their counterparts in the Great Hall.",
+      "evidence": [
+        "B04-C021-P0118"
+      ],
+      "certainty": "inference",
+      "temporal": "Late November–early December 1994",
+      "model_notes": "Explicitly Harry’s deduction from the observed alignment and timing; the actual transfer is not witnessed in this scene."
     }
   ],
   "chapter_reviews": [
@@ -1688,6 +1871,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed. Included lake circuits, office history and detectors, unused practice classroom, all first-task installations and travel, reported terrain changes, and temporary damage. Stress-induced shimmering not treated as a barrier."
+    },
+    {
+      "chapter": 21,
+      "reviewed_ranges": [
+        [
+          1,
+          193
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included winter states, pumpkin-patch damage, rear cabin access, six-floor kitchen route, portrait operation, kitchen geometry and alignment. Food transfer remains an inference."
     }
   ]
 }
