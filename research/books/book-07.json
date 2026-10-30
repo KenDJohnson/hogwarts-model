@@ -735,6 +735,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs in three complete chunks. Recorded tower-base and funeral recollections, northern Hogsmeade position, gate/grounds/lake journey and tomb damage through Voldemort vision. Shell Cottage architecture excluded."
+    },
+    {
+      "chapter": 25,
+      "reviewed_ranges": [
+        [
+          1,
+          164
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Shell Cottage, sword ownership debate and diadem replica add no school geometry. Luna reports being taken from Hogwarts Express before Christmas, without describing a railway/station location or physical change."
     }
   ]
 }
