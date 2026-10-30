@@ -746,6 +746,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs. Shell Cottage, sword ownership debate and diadem replica add no school geometry. Luna reports being taken from Hogwarts Express before Christmas, without describing a railway/station location or physical change."
+    },
+    {
+      "chapter": 26,
+      "reviewed_ranges": [
+        [
+          1,
+          187
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three complete chunks. Gringotts bank, underground lake, vaults, tunnels and dragon escape are London sites, not Hogwarts; no added school spatial descriptions."
     }
   ]
 }
