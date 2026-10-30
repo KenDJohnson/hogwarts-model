@@ -533,6 +533,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs. Recorded remote map view, village access restrictions, school Christmas recollections and tomb material comparison. Godric’s Hollow streets, church and graves are geographically separate and excluded."
+    },
+    {
+      "chapter": 17,
+      "reviewed_ranges": [
+        [
+          1,
+          207
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Godric’s Hollow cottage, Bathilda’s house, Voldemort’s recollection of the Potters’ deaths and subsequent campsite are outside Hogwarts scope; no added school spatial descriptions."
     }
   ]
 }
