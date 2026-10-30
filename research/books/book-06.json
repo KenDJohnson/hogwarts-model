@@ -1837,6 +1837,180 @@
       "certainty": "reported",
       "temporal": "Historical effect continuing to 1996–97",
       "model_notes": "Reported magical constraint on the post; do not locate a curse source in the classroom or invent a visible fixture."
+    },
+    {
+      "id": "B06-124",
+      "location": "Slytherin dormitory dungeon placement",
+      "category": "interior",
+      "description": "Kreacher reports that Draco sleeps in a dormitory in the dungeons.",
+      "evidence": [
+        "B06-C021-P0051"
+      ],
+      "certainty": "reported",
+      "temporal": "March–early April 1997",
+      "model_notes": "Explicit reported vertical zone, not a measured depth or fully mapped entrance."
+    },
+    {
+      "id": "B06-125",
+      "location": "Room of Requirement concealed seventh-floor entrance",
+      "category": "route",
+      "description": "The Room’s concealed entrance lies in a stretch of wall on the seventh floor opposite the tapestry of Barnabas the Barmy teaching ballet to trolls. An approach corner and corridor allow lookouts to wait outside.",
+      "evidence": [
+        "B06-C021-P0053",
+        "B06-C021-P0089",
+        "B06-C021-P0090",
+        "B06-C021-P0091",
+        "B06-C021-P0104",
+        "B06-C021-P0151",
+        "B06-C021-P0152"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–early April 1997",
+      "model_notes": "Tapestry identifies the earlier tutu-troll landmark. Door location is precise relative to tapestry, not to a compass direction; no visible doorway when unavailable."
+    },
+    {
+      "id": "B06-126",
+      "location": "Room of Requirement access denial",
+      "category": "magic",
+      "description": "Harry walks past three times concentrating on several requests to see what Draco is doing; no door appears. The exposed stone is solid under a push and later a kick, and repeated attempts over an hour and on another visit fail.",
+      "evidence": [
+        "B06-C021-P0091",
+        "B06-C021-P0092",
+        "B06-C021-P0093",
+        "B06-C021-P0096",
+        "B06-C021-P0097",
+        "B06-C021-P0098",
+        "B06-C021-P0101",
+        "B06-C021-P0102",
+        "B06-C021-P0103",
+        "B06-C021-P0105",
+        "B06-C021-P0153",
+        "B06-C021-P0154",
+        "B06-C021-P0155",
+        "B06-C021-P0173"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–early April 1997",
+      "model_notes": "Observed request-dependent denial. Dobby says entry is impossible, while Hermione proposes that knowing the exact required room is necessary; those interpretations are not a universal proven access algorithm."
+    },
+    {
+      "id": "B06-127",
+      "location": "Room of Requirement mapping and requirement theory",
+      "category": "magic",
+      "description": "Harry says he has never seen the Room on the Marauder’s Map. Hermione suggests it can be unplottable when required, and that Draco entered the DA headquarters by knowing precisely what room to request, whereas Harry does not know Draco’s room.",
+      "evidence": [
+        "B06-C021-P0054",
+        "B06-C021-P0055",
+        "B06-C021-P0056",
+        "B06-C021-P0057",
+        "B06-C021-P0058",
+        "B06-C021-P0059",
+        "B06-C021-P0060",
+        "B06-C021-P0079",
+        "B06-C021-P0151"
+      ],
+      "certainty": "reported",
+      "temporal": "March–early April 1997",
+      "model_notes": "Preserve hypotheses as hypotheses; map omission is corroborated on the later visit at P0151. Do not make user speculation into a fixed geometry rule."
+    },
+    {
+      "id": "B06-128",
+      "location": "Headmaster entrance relative to Room corridor",
+      "category": "route",
+      "description": "Harry tells Tonks that Dumbledore’s office is around the other side of the castle from this Room of Requirement corridor, behind the gargoyle.",
+      "evidence": [
+        "B06-C021-P0157",
+        "B06-C021-P0159",
+        "B06-C021-P0161",
+        "B06-C021-P0162"
+      ],
+      "certainty": "reported",
+      "temporal": "March–early April 1997",
+      "model_notes": "Both entrances have seventh-floor evidence, but are geographically separated around the castle; no exact distance or bearing."
+    },
+    {
+      "id": "B06-129",
+      "location": "Common-room positions on the Map",
+      "category": "interior",
+      "description": "Inspecting the Map, Harry sees Gryffindors in one tower, Ravenclaws in another, Slytherins in the dungeons and Hufflepuffs in a basement near the kitchens.",
+      "evidence": [
+        "B06-C021-P0150",
+        "B06-C021-P0151"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–early April 1997",
+      "model_notes": "Narrated interpretation of a diegetic map; preserve distinct towers and basement/dungeon zones without supplying unshown coordinates or treating “near” as a shared wall."
+    },
+    {
+      "id": "B06-130",
+      "location": "Boys’ bathroom visited by Myrtle",
+      "category": "interior",
+      "description": "An old tiled boys’ bathroom contains a cracked mirror and toilets in cubicles behind the boys. Myrtle rises from one toilet, floats in midair, is visible in the mirror, and dives back in, splashing water onto the floor; voices echo.",
+      "evidence": [
+        "B06-C021-P0125",
+        "B06-C021-P0126",
+        "B06-C021-P0127",
+        "B06-C021-P0128",
+        "B06-C021-P0130",
+        "B06-C021-P0132",
+        "B06-C021-P0133",
+        "B06-C021-P0136",
+        "B06-C021-P0138",
+        "B06-C021-P0142"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–early April 1997",
+      "model_notes": "Fixture relationships and acoustics; no floor identified in this scene. Myrtle says she lives in a different girls’ bathroom but can visit other places, so this is not her usual bathroom."
+    },
+    {
+      "id": "B06-131",
+      "location": "Slughorn office gramophone sound",
+      "category": "furnishing",
+      "description": "On an unanswered office visit Harry is sure he hears a quickly stifled old gramophone.",
+      "evidence": [
+        "B06-C021-P0146"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–early April 1997",
+      "model_notes": "Unconfirmed auditory identification; do not present the exact device or its position as visually inspected."
+    },
+    {
+      "id": "B06-132",
+      "location": "Supervised Hogsmeade Apparition route",
+      "category": "route",
+      "description": "A notice offers extra supervised Apparition practice in Hogsmeade. Students queue at Filch’s Entrance Hall screening before leaving. Ron later reports aiming for outside Madam Puddifoot’s and arriving near Scrivenshaft’s; the group visits the Three Broomsticks afterward.",
+      "evidence": [
+        "B06-C021-P0006",
+        "B06-C021-P0144",
+        "B06-C021-P0145",
+        "B06-C021-P0149",
+        "B06-C021-P0174",
+        "B06-C021-P0175",
+        "B06-C021-P0177"
+      ],
+      "certainty": "reported",
+      "temporal": "March–early April 1997",
+      "model_notes": "School-to-village permitted training and destinations; no exact spacing inferred from Ron’s overshoot. Distinguish practice permission from the cancelled recreational visit."
+    },
+    {
+      "id": "B06-133",
+      "location": "House-elf Disapparition in Gryffindor common room",
+      "category": "magic",
+      "description": "Kreacher and Dobby appear with cracks by the common-room fire, then Kreacher explicitly Disapparates and Dobby vanishes after giving their reports.",
+      "evidence": [
+        "B06-C021-P0029",
+        "B06-C021-P0030",
+        "B06-C021-P0031",
+        "B06-C021-P0034",
+        "B06-C021-P0035",
+        "B06-C021-P0047",
+        "B06-C021-P0063",
+        "B06-C021-P0064",
+        "B06-C021-P0082"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–early April 1997",
+      "model_notes": "Confirms elf Disapparition inside castle independently of human anti-Apparition rules. Arrival position is near the group/fire, not an invented fixed teleport point."
     }
   ],
   "chapter_reviews": [
@@ -2059,6 +2233,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two blocks, including both memories and Dumbledore’s speculations. Captured seventh-floor tapestry route, new gargoyle credential, Dippet portrait, ancient-magic report, historical office window/cabinet/furniture and Defence-post effect. Hepzibah’s home and travelling heirlooms are not Hogwarts architecture; Hog’s Head rendezvous adds only a place mention."
+    },
+    {
+      "chapter": 21,
+      "reviewed_ranges": [
+        [
+          1,
+          191
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks. Captured reported Slytherin dungeon dorm, seventh-floor Room/tapestry/corner, observed failed access versus speculative rule explanations, opposite-side headmaster relationship, Map common-room zones, boys’ bathroom plumbing/mirror/acoustics, office sound, supervised village practice and elf Disapparition. Harry’s dream and Polyjuice theory are not treated as new geometry."
     }
   ]
 }
