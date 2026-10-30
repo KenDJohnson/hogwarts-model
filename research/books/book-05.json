@@ -2821,6 +2821,201 @@
       "certainty": "explicit",
       "temporal": "January–14 February 1996",
       "model_notes": "Retained to situate the school-linked interview meeting; tea-shop romantic furnishings do not constrain Hogwarts and are not separately inventoried."
+    },
+    {
+      "id": "B05-178",
+      "location": "Common-room grounds view and study",
+      "category": "interior",
+      "description": "The common-room windows overlook dark grounds and cloudy night sky. Pupils work at tables with piles of books, pull up chairs, and later watch a magically enlarged talking Quibbler cover hung on a wall.",
+      "evidence": [
+        "B05-C026-P0031",
+        "B05-C026-P0032",
+        "B05-C026-P0033",
+        "B05-C026-P0034",
+        "B05-C026-P0036",
+        "B05-C026-P0038",
+        "B05-C026-P0043",
+        "B05-C026-P0047",
+        "B05-C026-P0128"
+      ],
+      "certainty": "explicit",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Talking poster is a temporary joke enchantment whose voice degrades over time."
+    },
+    {
+      "id": "B05-179",
+      "location": "Quidditch spectator tiers",
+      "category": "exterior",
+      "description": "Harry and Hermione watch the Hufflepuff match from seats a few rows above Umbridge.",
+      "evidence": [
+        "B05-C026-P0051",
+        "B05-C026-P0052",
+        "B05-C026-P0059",
+        "B05-C026-P0065",
+        "B05-C026-P0066"
+      ],
+      "certainty": "explicit",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Relative tier seating; no dimensions added by the game result."
+    },
+    {
+      "id": "B05-180",
+      "location": "Quibbler decree fixtures",
+      "category": "temporary",
+      "description": "Enormous Decree Twenty-seven notices are posted throughout school, including corridors, classrooms and house noticeboards, banning possession of The Quibbler.",
+      "evidence": [
+        "B05-C026-P0107",
+        "B05-C026-P0109",
+        "B05-C026-P0110",
+        "B05-C026-P0111",
+        "B05-C026-P0112",
+        "B05-C026-P0113",
+        "B05-C026-P0114",
+        "B05-C026-P0119"
+      ],
+      "certainty": "explicit",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Institutional restriction represented through temporary notices; not an automatic magical confiscation field."
+    },
+    {
+      "id": "B05-181",
+      "location": "Girls’ toilet cubicles",
+      "category": "interior",
+      "description": "Hermione reports other girls discussing Harry’s interview from occupied toilet cubicles.",
+      "evidence": [
+        "B05-C026-P0117",
+        "B05-C026-P0118"
+      ],
+      "certainty": "reported",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Reported cubicle-based girls’ lavatory, unnamed and unlocated."
+    },
+    {
+      "id": "B05-182",
+      "location": "Herbology watering equipment",
+      "category": "furnishing",
+      "description": "Harry passes Sprout a watering can during Herbology.",
+      "evidence": [
+        "B05-C026-P0120"
+      ],
+      "certainty": "explicit",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Small functional greenhouse prop."
+    },
+    {
+      "id": "B05-183",
+      "location": "Dormitory windows and water jug",
+      "category": "furnishing",
+      "description": "Harry rests his forehead against a cool glass window beside his own bed. A water jug stands on his bedside table; the room has bed curtains, mattresses and pillows, with moonlight during his later awakening.",
+      "evidence": [
+        "B05-C026-P0129",
+        "B05-C026-P0151",
+        "B05-C026-P0153",
+        "B05-C026-P0164",
+        "B05-C026-P0165",
+        "B05-C026-P0167",
+        "B05-C026-P0170"
+      ],
+      "certainty": "explicit",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Adds Harry’s own bedside window, not a replacement for Neville’s separately described window."
+    },
+    {
+      "id": "B05-184",
+      "location": "Courtyard usual corner",
+      "category": "exterior",
+      "description": "The friends talk in their usual corner of the cool breezy courtyard while the twins sell Headless Hats across the yard.",
+      "evidence": [
+        "B05-C026-P0172"
+      ],
+      "certainty": "explicit",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Repeated shared courtyard with opposing areas; no identification with a specific named quadrangle."
+    },
+    {
+      "id": "B05-185",
+      "location": "Snape office specimens and repaired jar",
+      "category": "temporary",
+      "description": "Snape’s office collection includes a dead frog in purple liquid and a dead eel. Harry staggers several steps into wall shelves, breaking a specimen jar and spilling potion; Snape repairs it immediately with Reparo. The Pensieve remains in use.",
+      "evidence": [
+        "B05-C026-P0189",
+        "B05-C026-P0198",
+        "B05-C026-P0202",
+        "B05-C026-P0217",
+        "B05-C026-P0218",
+        "B05-C026-P0219",
+        "B05-C026-P0222"
+      ],
+      "certainty": "explicit",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Damage repaired; spilled potion is not explicitly recovered. Revealed childhood rooms are not identified as Hogwarts."
+    },
+    {
+      "id": "B05-186",
+      "location": "Snape office to Entrance Hall",
+      "category": "route",
+      "description": "A scream reaches Snape’s office from above. Harry follows him toward the stone steps up from the dungeons and emerges into the Entrance Hall, crowded with pupils from dinner in the Great Hall and on the marble staircase.",
+      "evidence": [
+        "B05-C026-P0235",
+        "B05-C026-P0236",
+        "B05-C026-P0238",
+        "B05-C026-P0239",
+        "B05-C026-P0240",
+        "B05-C026-P0241"
+      ],
+      "certainty": "explicit",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Confirms office below Entrance Hall acoustically and by travel; floor count unspecified."
+    },
+    {
+      "id": "B05-187",
+      "location": "Trelawney dismissal scene",
+      "category": "temporary",
+      "description": "Trelawney stands with two large trunks and a sherry bottle in a spectator ring in the Entrance Hall, then sits on a trunk. Umbridge stands near the stair foot. Staff lead Trelawney up the marble stairs and levitate her trunks after her.",
+      "evidence": [
+        "B05-C026-P0242",
+        "B05-C026-P0244",
+        "B05-C026-P0246",
+        "B05-C026-P0247",
+        "B05-C026-P0248",
+        "B05-C026-P0258",
+        "B05-C026-P0259",
+        "B05-C026-P0260"
+      ],
+      "certainty": "explicit",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "One trunk looks thrown downstairs to Harry, an impression rather than a witnessed fall; no structural damage."
+    },
+    {
+      "id": "B05-188",
+      "location": "Misty front doorway and Firenze arrival",
+      "category": "route",
+      "description": "Dumbledore opens the oak front doors from the grounds and leaves them wide as mist enters. Firenze’s palomino horse body passes through the doors while spectators clear a path.",
+      "evidence": [
+        "B05-C026-P0251",
+        "B05-C026-P0266",
+        "B05-C026-P0267",
+        "B05-C026-P0268"
+      ],
+      "certainty": "explicit",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Observed centaur clearance through the front entrance; no metric door width."
+    },
+    {
+      "id": "B05-189",
+      "location": "Divination accommodation after dismissal",
+      "category": "history",
+      "description": "Dumbledore insists Trelawney may continue living at Hogwarts after losing her post; he says the new teacher will prefer ground-floor lodgings.",
+      "evidence": [
+        "B05-C026-P0245",
+        "B05-C026-P0253",
+        "B05-C026-P0256",
+        "B05-C026-P0262",
+        "B05-C026-P0263"
+      ],
+      "certainty": "reported",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Ground-floor preference announced here; actual classroom and sleeping arrangements await later evidence."
     }
   ],
   "chapter_reviews": [
@@ -3098,6 +3293,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs, both newspaper articles, Valentine date and complete interview setup. Death Eaters in the Shack and future break-in are explicitly rumours, not validated habitation or damage. Village coverage limited to school exit, access/security and meeting route."
+    },
+    {
+      "chapter": 26,
+      "reviewed_ranges": [
+        [
+          1,
+          268
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three chunks, including relationship discussion, both dreams, lesson and complete dismissal scene. Ministry dream rooms and unidentified childhood memories are excluded from castle geometry."
     }
   ]
 }
