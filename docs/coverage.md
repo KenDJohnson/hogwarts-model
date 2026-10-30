@@ -2,7 +2,7 @@
 
 This reports the reviewers' declared reading ranges. Structural validation checks that those ranges cover the corpus; it cannot prove semantic completeness or that every description has been captured.
 
-Reviewed: **34,836/38,426 paragraphs**. Records: **1211**.
+Reviewed: **35,027/38,426 paragraphs**. Records: **1222**.
 
 ## Book 1: Harry Potter and the Philosopher's Stone
 
@@ -51,7 +51,7 @@ Reviewed: **34,836/38,426 paragraphs**. Records: **1211**.
 
 ## Book 3: Harry Potter and the Prisoner of Azkaban
 
-4,036/4,227 paragraphs; 155 records.
+4,227/4,227 paragraphs; 166 records.
 
 - Chapter 1, Owl Post: Reviewed (101/101).
 - Chapter 2, Aunt Marge’s Big Mistake: Reviewed (134/134).
@@ -74,7 +74,7 @@ Reviewed: **34,836/38,426 paragraphs**. Records: **1211**.
 - Chapter 19, The Servant of Lord Voldemort: Reviewed (193/193).
 - Chapter 20, The Dementors’ Kiss: Reviewed (75/75).
 - Chapter 21, Hermione’s Secret: Reviewed (345/345).
-- Chapter 22, Owl Post Again: Unread: ¶1–191 (0/191).
+- Chapter 22, Owl Post Again: Reviewed (191/191).
 
 ## Book 4: Harry Potter and the Goblet of Fire
 

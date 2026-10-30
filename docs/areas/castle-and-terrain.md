@@ -597,6 +597,47 @@ Model: The fourth stretcher’s occupant is inferred to be Ron in the narration.
 - [Book 3, ch. 21, “Hermione’s Secret”, ref p. 416, ¶316 (B03-C021-P0316)](../../build/reader/book-03.html#B03-C021-P0316)
 - [Book 3, ch. 21, “Hermione’s Secret”, ref p. 416, ¶317 (B03-C021-P0317)](../../build/reader/book-03.html#B03-C021-P0317)
 
+## B03-158: Castle: Apparition restriction reaffirmed
+
+Snape insists that Apparition and Disapparition are impossible inside the castle, rejecting Fudge’s proposed explanation for Sirius’s escape.
+
+Evidence: reported; state: End of third year, following the midnight rescue.
+
+Model: This is a knowledgeable character’s categorical statement, matching Hermione’s earlier report. It gives no precise boundary beyond “inside this castle”, nor a list of exceptions.
+
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 421, ¶28 (B03-C022-P0028)](../../build/reader/book-03.html#B03-C022-P0028)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 421–422, ¶29 (B03-C022-P0029)](../../build/reader/book-03.html#B03-C022-P0029)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 422, ¶30 (B03-C022-P0030)](../../build/reader/book-03.html#B03-C022-P0030)
+
+## B03-160: Castle grounds and lake: post-rescue summer day
+
+At noon the following day the hot, nearly deserted castle gives way to grounds where the children sit by the lake. The giant squid lazily raises its tentacles above the water. Harry can look across to the opposite bank where he had been rescued the previous night.
+
+Evidence: explicit; state: End of third year, following the midnight rescue.
+
+Model: Adds daylight visibility and seasonal creature activity; no squid size, permanent emergence location or underwater terrain is described.
+
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 424, ¶55 (B03-C022-P0055)](../../build/reader/book-03.html#B03-C022-P0055)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 424, ¶56 (B03-C022-P0056)](../../build/reader/book-03.html#B03-C022-P0056)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 424–425, ¶61 (B03-C022-P0061)](../../build/reader/book-03.html#B03-C022-P0061)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 425, ¶63 (B03-C022-P0063)](../../build/reader/book-03.html#B03-C022-P0063)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 425, ¶66 (B03-C022-P0066)](../../build/reader/book-03.html#B03-C022-P0066)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 425, ¶67 (B03-C022-P0067)](../../build/reader/book-03.html#B03-C022-P0067)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 425, ¶70 (B03-C022-P0070)](../../build/reader/book-03.html#B03-C022-P0070)
+
+## B03-162: Castle to gates: departing staff carriage
+
+Dumbledore tells Lupin that his carriage is waiting at the gates. Lupin declines an escort and leaves the office carrying his luggage.
+
+Evidence: reported; state: End of third year, following the midnight rescue.
+
+Model: The vehicle and gate destination are reported; neither the route through the castle nor the carriage propulsion is described.
+
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427, ¶95 (B03-C022-P0095)](../../build/reader/book-03.html#B03-C022-P0095)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427, ¶97 (B03-C022-P0097)](../../build/reader/book-03.html#B03-C022-P0097)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427–428, ¶98 (B03-C022-P0098)](../../build/reader/book-03.html#B03-C022-P0098)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 428, ¶100 (B03-C022-P0100)](../../build/reader/book-03.html#B03-C022-P0100)
+
 ## B04-002: Hogwarts concealment
 
 Hermione explains that Muggles see Hogwarts as a deteriorating ruin with an entrance warning declaring it dangerous and unsafe to enter.

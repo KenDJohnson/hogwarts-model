@@ -740,6 +740,132 @@
           "reason": "Character fears during an already described return flight, no additional site fact."
         }
       ]
+    },
+    {
+      "book": 3,
+      "catalogue_entries_at_audit": 165,
+      "candidates_inspected": [
+        {
+          "id": "B03-C012-P0112",
+          "score": 12,
+          "disposition": "supplemented",
+          "reason": "Added B03-166 to preserve the recurrent corner study setup and its books/charts/papers."
+        },
+        {
+          "id": "B03-C015-P0101",
+          "score": 12,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Inter-house tension and injuries, no new room geometry or environmental installation."
+        },
+        {
+          "id": "B03-C005-P0113",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Character descriptions and team roles, not environmental features."
+        },
+        {
+          "id": "B03-C013-P0044",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "A carried broom displayed on an existing house table, no new fixture."
+        },
+        {
+          "id": "B03-C015-P0129",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Applause and hissing from existing house tables, no new room layout."
+        },
+        {
+          "id": "B03-C004-P0005",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        },
+        {
+          "id": "B03-C014-P0061",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Existing Hall-to-marble-stair route, with no new fixed viewpoint or intermediate space."
+        },
+        {
+          "id": "B03-C001-P0007",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        },
+        {
+          "id": "B03-C004-P0035",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        },
+        {
+          "id": "B03-C003-P0041",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        },
+        {
+          "id": "B03-C005-P0007",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        },
+        {
+          "id": "B03-C002-P0001",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        },
+        {
+          "id": "B03-C002-P0016",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        },
+        {
+          "id": "B03-C002-P0128",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        },
+        {
+          "id": "B03-C005-P0258",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Character applause at existing table, no new spatial detail."
+        },
+        {
+          "id": "B03-C006-P0226",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Conversation at existing Slytherin table, no new environmental feature."
+        },
+        {
+          "id": "B03-C021-P0238",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Recounted Patronus crossing; direct lake sightline and Patronus observations already catalogued."
+        },
+        {
+          "id": "B03-C002-P0051",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        },
+        {
+          "id": "B03-C002-P0067",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        },
+        {
+          "id": "B03-C003-P0162",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        }
+      ]
     }
   ]
 }

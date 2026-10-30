@@ -223,6 +223,22 @@ Model: The left rein turn is relative to their approach, not a cardinal orientat
 - [Book 3, ch. 21, “Hermione’s Secret”, ref p. 417, ¶325 (B03-C021-P0325)](../../build/reader/book-03.html#B03-C021-P0325)
 - [Book 3, ch. 21, “Hermione’s Secret”, ref p. 417, ¶326 (B03-C021-P0326)](../../build/reader/book-03.html#B03-C021-P0326)
 
+## B03-160: Castle grounds and lake: post-rescue summer day
+
+At noon the following day the hot, nearly deserted castle gives way to grounds where the children sit by the lake. The giant squid lazily raises its tentacles above the water. Harry can look across to the opposite bank where he had been rescued the previous night.
+
+Evidence: explicit; state: End of third year, following the midnight rescue.
+
+Model: Adds daylight visibility and seasonal creature activity; no squid size, permanent emergence location or underwater terrain is described.
+
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 424, ¶55 (B03-C022-P0055)](../../build/reader/book-03.html#B03-C022-P0055)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 424, ¶56 (B03-C022-P0056)](../../build/reader/book-03.html#B03-C022-P0056)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 424–425, ¶61 (B03-C022-P0061)](../../build/reader/book-03.html#B03-C022-P0061)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 425, ¶63 (B03-C022-P0063)](../../build/reader/book-03.html#B03-C022-P0063)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 425, ¶66 (B03-C022-P0066)](../../build/reader/book-03.html#B03-C022-P0066)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 425, ¶67 (B03-C022-P0067)](../../build/reader/book-03.html#B03-C022-P0067)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 425, ¶70 (B03-C022-P0070)](../../build/reader/book-03.html#B03-C022-P0070)
+
 ## B04-013: Lake first-year crossing
 
 Dennis reports falling into the lake and being pushed back into the boat by something underwater. Colin suggests the giant squid; the narration describes the lake as fathoms deep.

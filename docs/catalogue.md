@@ -1,6 +1,6 @@
 # Hogwarts description catalogue
 
-1211 reviewed description records. Reading ledger: 34,836/38,426 paragraphs.
+1222 reviewed description records. Reading ledger: 35,027/38,426 paragraphs.
 
 All pages below are **project reference pages (ref250-v1, 250 words)**, not print pages. Book titles and exact source paths are in the machine-readable catalogue. Rebuild the local reader to open source-text links.
 
@@ -5603,6 +5603,15 @@ Harry exits, follows a corridor round a corner, then detours behind a suit of ar
 - [Book 3, ch. 12, “The Patronus”, ref p. 249, ¶151 (B03-C012-P0151)](../build/reader/book-03.html#B03-C012-P0151)
 - [Book 3, ch. 12, “The Patronus”, ref p. 250, ¶155 (B03-C012-P0155)](../build/reader/book-03.html#B03-C012-P0155)
 
+<a id="b03-166"></a>
+### B03-166 · Gryffindor common room — Hermione’s study corner
+
+During the January term Hermione regularly occupies a common-room corner with several tables spread with books, Arithmancy charts, Rune dictionaries, diagrams of Muggles lifting heavy objects and extensive files of notes.
+
+- Category: temporary; evidence: explicit; state: 1994 January term.
+- Model: A recurrent study setup within the existing common room, with portable books and papers; it does not imply a separate permanent study room.
+- [Book 3, ch. 12, “The Patronus”, ref p. 244–245, ¶112 (B03-C012-P0112)](../build/reader/book-03.html#B03-C012-P0112)
+
 <a id="b03-081"></a>
 ### B03-081 · Gryffindor entrance — lost password list
 
@@ -6821,6 +6830,156 @@ Buckbeak carries all three upward from the office window to the top of the West 
 - [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶343 (B03-C021-P0343)](../build/reader/book-03.html#B03-C021-P0343)
 - [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶344 (B03-C021-P0344)](../build/reader/book-03.html#B03-C021-P0344)
 - [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶345 (B03-C021-P0345)](../build/reader/book-03.html#B03-C021-P0345)
+
+<a id="b03-156"></a>
+### B03-156 · West Tower battlements to hospital wing
+
+A doorway from the tower top leads down a tightly spiralling stone staircase to a corridor at its foot. After waiting for Fudge and Snape, the pair run in the opposite direction, descend one staircase and then another, and take a new corridor. They hide in a deserted classroom on their left, then continue to the corridor containing the hospital-wing entrance.
+
+- Category: route; evidence: explicit; state: Immediately before five minutes to midnight on rescue night.
+- Model: Keep the full sequence, including three separate descending stair sections and the unnamed classroom refuge. Stair sections are not a reliable count of floor levels; no classroom furnishings are given.
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 418–419, ¶2 (B03-C022-P0002)](../build/reader/book-03.html#B03-C022-P0002)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 419, ¶3 (B03-C022-P0003)](../build/reader/book-03.html#B03-C022-P0003)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 419, ¶4 (B03-C022-P0004)](../build/reader/book-03.html#B03-C022-P0004)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 419, ¶5 (B03-C022-P0005)](../build/reader/book-03.html#B03-C022-P0005)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 419, ¶7 (B03-C022-P0007)](../build/reader/book-03.html#B03-C022-P0007)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 419, ¶8 (B03-C022-P0008)](../build/reader/book-03.html#B03-C022-P0008)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420, ¶9 (B03-C022-P0009)](../build/reader/book-03.html#B03-C022-P0009)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420, ¶10 (B03-C022-P0010)](../build/reader/book-03.html#B03-C022-P0010)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420, ¶11 (B03-C022-P0011)](../build/reader/book-03.html#B03-C022-P0011)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420, ¶12 (B03-C022-P0012)](../build/reader/book-03.html#B03-C022-P0012)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420, ¶13 (B03-C022-P0013)](../build/reader/book-03.html#B03-C022-P0013)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420, ¶14 (B03-C022-P0014)](../build/reader/book-03.html#B03-C022-P0014)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420, ¶15 (B03-C022-P0015)](../build/reader/book-03.html#B03-C022-P0015)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420, ¶16 (B03-C022-P0016)](../build/reader/book-03.html#B03-C022-P0016)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420, ¶17 (B03-C022-P0017)](../build/reader/book-03.html#B03-C022-P0017)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420–421, ¶20 (B03-C022-P0020)](../build/reader/book-03.html#B03-C022-P0020)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 421, ¶21 (B03-C022-P0021)](../build/reader/book-03.html#B03-C022-P0021)
+
+<a id="b03-157"></a>
+### B03-157 · Hospital wing: lock and sound from above
+
+Dumbledore closes the ward door and prepares to lock it with his wand, admitting the returning pair first; the lock clicks behind them. Ron remains in the end bed and Pomfrey emerges from her office. They later hear a distant roar from somewhere above, then approaching voices in the corridor before the door bursts open. Pomfrey locks it again after the visitors leave.
+
+- Category: magic; evidence: explicit; state: Midnight on rescue night.
+- Model: The overhead sound suggests an upper location for the discovered escape, but does not independently assign the ward a floor. The visitors open the locked door; no destructive breach is described.
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420, ¶17 (B03-C022-P0017)](../build/reader/book-03.html#B03-C022-P0017)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420–421, ¶20 (B03-C022-P0020)](../build/reader/book-03.html#B03-C022-P0020)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 421, ¶21 (B03-C022-P0021)](../build/reader/book-03.html#B03-C022-P0021)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 421, ¶23 (B03-C022-P0023)](../build/reader/book-03.html#B03-C022-P0023)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 421, ¶24 (B03-C022-P0024)](../build/reader/book-03.html#B03-C022-P0024)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 421, ¶25 (B03-C022-P0025)](../build/reader/book-03.html#B03-C022-P0025)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 421, ¶27 (B03-C022-P0027)](../build/reader/book-03.html#B03-C022-P0027)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 422, ¶31 (B03-C022-P0031)](../build/reader/book-03.html#B03-C022-P0031)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 422, ¶32 (B03-C022-P0032)](../build/reader/book-03.html#B03-C022-P0032)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 422, ¶33 (B03-C022-P0033)](../build/reader/book-03.html#B03-C022-P0033)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 422, ¶36 (B03-C022-P0036)](../build/reader/book-03.html#B03-C022-P0036)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 422, ¶40 (B03-C022-P0040)](../build/reader/book-03.html#B03-C022-P0040)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 423, ¶49 (B03-C022-P0049)](../build/reader/book-03.html#B03-C022-P0049)
+
+<a id="b03-158"></a>
+### B03-158 · Castle: Apparition restriction reaffirmed
+
+Snape insists that Apparition and Disapparition are impossible inside the castle, rejecting Fudge’s proposed explanation for Sirius’s escape.
+
+- Category: magic; evidence: reported; state: End of third year, following the midnight rescue.
+- Model: This is a knowledgeable character’s categorical statement, matching Hermione’s earlier report. It gives no precise boundary beyond “inside this castle”, nor a list of exceptions.
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 421, ¶28 (B03-C022-P0028)](../build/reader/book-03.html#B03-C022-P0028)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 421–422, ¶29 (B03-C022-P0029)](../build/reader/book-03.html#B03-C022-P0029)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 422, ¶30 (B03-C022-P0030)](../build/reader/book-03.html#B03-C022-P0030)
+
+<a id="b03-159"></a>
+### B03-159 · School entrances: withdrawal of Dementors
+
+Fudge says the Dementors will be sent back to Azkaban that night after their attack on Harry. His suggestion of dragons at the entrance is only a proposal.
+
+- Category: temporary; evidence: reported; state: End of third year, following the midnight rescue.
+- Model: Represent the removal as an announced security change; do not install dragons based on this dialogue. Sirius’s later letter still anticipates further easing of castle security (paragraph 164).
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 423, ¶47 (B03-C022-P0047)](../build/reader/book-03.html#B03-C022-P0047)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 423, ¶48 (B03-C022-P0048)](../build/reader/book-03.html#B03-C022-P0048)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 423, ¶49 (B03-C022-P0049)](../build/reader/book-03.html#B03-C022-P0049)
+
+<a id="b03-160"></a>
+### B03-160 · Castle grounds and lake: post-rescue summer day
+
+At noon the following day the hot, nearly deserted castle gives way to grounds where the children sit by the lake. The giant squid lazily raises its tentacles above the water. Harry can look across to the opposite bank where he had been rescued the previous night.
+
+- Category: grounds; evidence: explicit; state: End of third year, following the midnight rescue.
+- Model: Adds daylight visibility and seasonal creature activity; no squid size, permanent emergence location or underwater terrain is described.
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 424, ¶55 (B03-C022-P0055)](../build/reader/book-03.html#B03-C022-P0055)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 424, ¶56 (B03-C022-P0056)](../build/reader/book-03.html#B03-C022-P0056)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 424–425, ¶61 (B03-C022-P0061)](../build/reader/book-03.html#B03-C022-P0061)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 425, ¶63 (B03-C022-P0063)](../build/reader/book-03.html#B03-C022-P0063)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 425, ¶66 (B03-C022-P0066)](../build/reader/book-03.html#B03-C022-P0066)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 425, ¶67 (B03-C022-P0067)](../build/reader/book-03.html#B03-C022-P0067)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 425, ¶70 (B03-C022-P0070)](../build/reader/book-03.html#B03-C022-P0070)
+
+<a id="b03-161"></a>
+### B03-161 · Lupin’s office: departure state and furniture
+
+At departure Lupin’s office door is initially open. His empty Grindylow tank stands beside an open, nearly packed battered suitcase. He works at the desk, empties its drawers, packs his final books and leaves with the tank and case. Harry sits in his vacated chair after the door closes.
+
+- Category: furnishing; evidence: explicit; state: End of third year, following the midnight rescue.
+- Model: Desk drawers and a chair are physical furnishings; tank, books and suitcase are removed with the occupant. Map use reveals Harry approaching, without identifying a window view or corridor layout.
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 425, ¶72 (B03-C022-P0072)](../build/reader/book-03.html#B03-C022-P0072)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 425, ¶73 (B03-C022-P0073)](../build/reader/book-03.html#B03-C022-P0073)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 425–426, ¶75 (B03-C022-P0075)](../build/reader/book-03.html#B03-C022-P0075)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 426, ¶77 (B03-C022-P0077)](../build/reader/book-03.html#B03-C022-P0077)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 426, ¶83 (B03-C022-P0083)](../build/reader/book-03.html#B03-C022-P0083)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427, ¶88 (B03-C022-P0088)](../build/reader/book-03.html#B03-C022-P0088)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427, ¶92 (B03-C022-P0092)](../build/reader/book-03.html#B03-C022-P0092)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427, ¶93 (B03-C022-P0093)](../build/reader/book-03.html#B03-C022-P0093)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427, ¶94 (B03-C022-P0094)](../build/reader/book-03.html#B03-C022-P0094)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427, ¶97 (B03-C022-P0097)](../build/reader/book-03.html#B03-C022-P0097)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427–428, ¶98 (B03-C022-P0098)](../build/reader/book-03.html#B03-C022-P0098)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 428, ¶100 (B03-C022-P0100)](../build/reader/book-03.html#B03-C022-P0100)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 428, ¶101 (B03-C022-P0101)](../build/reader/book-03.html#B03-C022-P0101)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 431, ¶128 (B03-C022-P0128)](../build/reader/book-03.html#B03-C022-P0128)
+
+<a id="b03-162"></a>
+### B03-162 · Castle to gates: departing staff carriage
+
+Dumbledore tells Lupin that his carriage is waiting at the gates. Lupin declines an escort and leaves the office carrying his luggage.
+
+- Category: route; evidence: reported; state: End of third year, following the midnight rescue.
+- Model: The vehicle and gate destination are reported; neither the route through the castle nor the carriage propulsion is described.
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427, ¶95 (B03-C022-P0095)](../build/reader/book-03.html#B03-C022-P0095)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427, ¶97 (B03-C022-P0097)](../build/reader/book-03.html#B03-C022-P0097)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427–428, ¶98 (B03-C022-P0098)](../build/reader/book-03.html#B03-C022-P0098)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 428, ¶100 (B03-C022-P0100)](../build/reader/book-03.html#B03-C022-P0100)
+
+<a id="b03-163"></a>
+### B03-163 · Great Hall: third-year end-of-term feast
+
+The end-of-term feast is decorated in scarlet and gold for Gryffindor’s House Championship victory, and the Gryffindor table is particularly noisy with celebration.
+
+- Category: temporary; evidence: explicit; state: Last evening of third year.
+- Model: A dated house-colour state; no additional permanent Hall geometry is supplied.
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 432, ¶138 (B03-C022-P0138)](../build/reader/book-03.html#B03-C022-P0138)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 432–433, ¶139 (B03-C022-P0139)](../build/reader/book-03.html#B03-C022-P0139)
+
+<a id="b03-164"></a>
+### B03-164 · Hogwarts Express departure: mountain occlusion
+
+After the train leaves the local station the next morning, Harry watches Hogwarts disappear from view behind a mountain.
+
+- Category: exterior; evidence: explicit; state: Morning after the third-year end-of-term feast.
+- Model: This is a sight-line and surrounding relief constraint along the departure railway. No mountain name, bearing, distance or route curvature is supplied.
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 433, ¶141 (B03-C022-P0141)](../build/reader/book-03.html#B03-C022-P0141)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 433, ¶146 (B03-C022-P0146)](../build/reader/book-03.html#B03-C022-P0146)
+
+<a id="b03-165"></a>
+### B03-165 · Hogsmeade access: godfather’s permission
+
+Sirius supplies written permission as Harry’s godfather for weekend Hogsmeade visits; Harry expects Dumbledore to accept it.
+
+- Category: route; evidence: reported; state: Letter received on the train after third year.
+- Model: Adds a proposed satisfaction of the existing permission rule, rather than a new physical access route or confirmed removal of all security.
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 435, ¶164 (B03-C022-P0164)](../build/reader/book-03.html#B03-C022-P0164)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 436, ¶171 (B03-C022-P0171)](../build/reader/book-03.html#B03-C022-P0171)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 436, ¶175 (B03-C022-P0175)](../build/reader/book-03.html#B03-C022-P0175)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 436, ¶176 (B03-C022-P0176)](../build/reader/book-03.html#B03-C022-P0176)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 436, ¶177 (B03-C022-P0177)](../build/reader/book-03.html#B03-C022-P0177)
 
 ## Book 4: Harry Potter and the Goblet of Fire
 

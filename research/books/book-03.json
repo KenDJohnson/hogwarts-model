@@ -3137,6 +3137,18 @@
       "certainty": "reported",
       "temporal": "Letter received on the train after third year",
       "model_notes": "Adds a proposed satisfaction of the existing permission rule, rather than a new physical access route or confirmed removal of all security."
+    },
+    {
+      "id": "B03-166",
+      "location": "Gryffindor common room — Hermione’s study corner",
+      "category": "temporary",
+      "description": "During the January term Hermione regularly occupies a common-room corner with several tables spread with books, Arithmancy charts, Rune dictionaries, diagrams of Muggles lifting heavy objects and extensive files of notes.",
+      "evidence": [
+        "B03-C012-P0112"
+      ],
+      "certainty": "explicit",
+      "temporal": "1994 January term",
+      "model_notes": "A recurrent study setup within the existing common room, with portable books and papers; it does not imply a separate permanent study room."
     }
   ],
   "chapter_reviews": [

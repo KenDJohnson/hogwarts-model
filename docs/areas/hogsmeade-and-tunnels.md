@@ -677,6 +677,20 @@ Model: This supplies direct observation of the stick method previously reported 
 - [Book 3, ch. 21, “Hermione’s Secret”, ref p. 408, ¶231 (B03-C021-P0231)](../../build/reader/book-03.html#B03-C021-P0231)
 - [Book 3, ch. 21, “Hermione’s Secret”, ref p. 408, ¶234 (B03-C021-P0234)](../../build/reader/book-03.html#B03-C021-P0234)
 
+## B03-165: Hogsmeade access: godfather’s permission
+
+Sirius supplies written permission as Harry’s godfather for weekend Hogsmeade visits; Harry expects Dumbledore to accept it.
+
+Evidence: reported; state: Letter received on the train after third year.
+
+Model: Adds a proposed satisfaction of the existing permission rule, rather than a new physical access route or confirmed removal of all security.
+
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 435, ¶164 (B03-C022-P0164)](../../build/reader/book-03.html#B03-C022-P0164)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 436, ¶171 (B03-C022-P0171)](../../build/reader/book-03.html#B03-C022-P0171)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 436, ¶175 (B03-C022-P0175)](../../build/reader/book-03.html#B03-C022-P0175)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 436, ¶176 (B03-C022-P0176)](../../build/reader/book-03.html#B03-C022-P0176)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 436, ¶177 (B03-C022-P0177)](../../build/reader/book-03.html#B03-C022-P0177)
+
 ## B04-003: London to Hogsmeade station
 
 The Hogwarts Express departs the concealed platform nine and three-quarters at King’s Cross, travels north, and arrives at Hogsmeade station after dark. The London platform is accessed through the apparently solid barrier between platforms nine and ten.

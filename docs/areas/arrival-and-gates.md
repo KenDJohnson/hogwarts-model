@@ -381,6 +381,30 @@ Model: The tower top can support the landing and passengers. Do not infer its fo
 - [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶344 (B03-C021-P0344)](../../build/reader/book-03.html#B03-C021-P0344)
 - [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶345 (B03-C021-P0345)](../../build/reader/book-03.html#B03-C021-P0345)
 
+## B03-162: Castle to gates: departing staff carriage
+
+Dumbledore tells Lupin that his carriage is waiting at the gates. Lupin declines an escort and leaves the office carrying his luggage.
+
+Evidence: reported; state: End of third year, following the midnight rescue.
+
+Model: The vehicle and gate destination are reported; neither the route through the castle nor the carriage propulsion is described.
+
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427, ¶95 (B03-C022-P0095)](../../build/reader/book-03.html#B03-C022-P0095)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427, ¶97 (B03-C022-P0097)](../../build/reader/book-03.html#B03-C022-P0097)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427–428, ¶98 (B03-C022-P0098)](../../build/reader/book-03.html#B03-C022-P0098)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 428, ¶100 (B03-C022-P0100)](../../build/reader/book-03.html#B03-C022-P0100)
+
+## B03-164: Hogwarts Express departure: mountain occlusion
+
+After the train leaves the local station the next morning, Harry watches Hogwarts disappear from view behind a mountain.
+
+Evidence: explicit; state: Morning after the third-year end-of-term feast.
+
+Model: This is a sight-line and surrounding relief constraint along the departure railway. No mountain name, bearing, distance or route curvature is supplied.
+
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 433, ¶141 (B03-C022-P0141)](../../build/reader/book-03.html#B03-C022-P0141)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 433, ¶146 (B03-C022-P0146)](../../build/reader/book-03.html#B03-C022-P0146)
+
 ## B04-003: London to Hogsmeade station
 
 The Hogwarts Express departs the concealed platform nine and three-quarters at King’s Cross, travels north, and arrives at Hogsmeade station after dark. The London platform is accessed through the apparently solid barrier between platforms nine and ten.

@@ -266,6 +266,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B01-069](catalogue.md#b01-069)
 
+## Castle grounds and lake: post-rescue summer day
+
+[B03-160](catalogue.md#b03-160)
+
 ## Castle grounds — summer flowers and mullioned windows
 
 [B02-116](catalogue.md#b02-116)
@@ -301,6 +305,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Castle staircases
 
 [B01-025](catalogue.md#b01-025)
+
+## Castle to gates: departing staff carriage
+
+[B03-162](catalogue.md#b03-162)
 
 ## Castle to Hagrid’s cabin — snow state
 
@@ -357,6 +365,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Castle-front night lighting and Astronomy Tower foot
 
 [B06-190](catalogue.md#b06-190)
+
+## Castle: Apparition restriction reaffirmed
+
+[B03-158](catalogue.md#b03-158)
 
 ## Castle–Quidditch stadium
 
@@ -1778,6 +1790,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B02-101](catalogue.md#b02-101)
 
+## Great Hall: third-year end-of-term feast
+
+[B03-163](catalogue.md#b03-163)
+
 ## Great Hall–lakeshore ceremony route
 
 [B06-205](catalogue.md#b06-205)
@@ -1953,6 +1969,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Gryffindor common room — hearth seating
 
 [B01-075](catalogue.md#b01-075)
+
+## Gryffindor common room — Hermione’s study corner
+
+[B03-166](catalogue.md#b03-166)
 
 ## Gryffindor common room — noticeboard and chest of drawers
 
@@ -2582,6 +2602,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B06-108](catalogue.md#b06-108)
 
+## Hogsmeade access: godfather’s permission
+
+[B03-165](catalogue.md#b03-165)
+
 ## Hogsmeade anti-Apparition protections / Dementors
 
 [B07-037](catalogue.md#b07-037)
@@ -2725,6 +2749,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Hogwarts Express carriage
 
 [B06-010](catalogue.md#b06-010)
+
+## Hogwarts Express departure: mountain occlusion
+
+[B03-164](catalogue.md#b03-164)
 
 ## Hogwarts Express interior
 
@@ -2945,6 +2973,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Hospital wing: beds, corridor door and matron’s office
 
 [B03-138](catalogue.md#b03-138)
+
+## Hospital wing: lock and sound from above
+
+[B03-157](catalogue.md#b03-157)
 
 ## Hospital wing–marble staircase–Gryffindor route
 
@@ -3225,6 +3257,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Lupin’s office — tank and tea furnishings
 
 [B03-037](catalogue.md#b03-037)
+
+## Lupin’s office: departure state and furniture
+
+[B03-161](catalogue.md#b03-161)
 
 ## Lupin’s office: full-moon use
 
@@ -4050,6 +4086,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B02-163](catalogue.md#b02-163)
 
+## School entrances: withdrawal of Dementors
+
+[B03-159](catalogue.md#b03-159)
+
 ## School exit and Hogsmeade road
 
 [B05-078](catalogue.md#b05-078)
@@ -4689,6 +4729,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Wand Weighing classroom
 
 [B04-071](catalogue.md#b04-071)
+
+## West Tower battlements to hospital wing
+
+[B03-156](catalogue.md#b03-156)
 
 ## West Tower: aerial arrival and battlements
 

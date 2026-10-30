@@ -461,6 +461,16 @@ Model: Dated crowding/smell and furniture use, not an alteration to room plan.
 - [Book 3, ch. 11, “The Firebolt”, ref p. 213, ¶17 (B03-C011-P0017)](../../build/reader/book-03.html#B03-C011-P0017)
 - [Book 3, ch. 11, “The Firebolt”, ref p. 221–222, ¶104 (B03-C011-P0104)](../../build/reader/book-03.html#B03-C011-P0104)
 
+## B03-166: Gryffindor common room — Hermione’s study corner
+
+During the January term Hermione regularly occupies a common-room corner with several tables spread with books, Arithmancy charts, Rune dictionaries, diagrams of Muggles lifting heavy objects and extensive files of notes.
+
+Evidence: explicit; state: 1994 January term.
+
+Model: A recurrent study setup within the existing common room, with portable books and papers; it does not imply a separate permanent study room.
+
+- [Book 3, ch. 12, “The Patronus”, ref p. 244–245, ¶112 (B03-C012-P0112)](../../build/reader/book-03.html#B03-C012-P0112)
+
 ## B03-081: Gryffindor entrance — lost password list
 
 Neville is refused entry after losing the written week’s passwords that Cadogan supplied him. Harry gives Oddsbodikins and the portrait admits the group.

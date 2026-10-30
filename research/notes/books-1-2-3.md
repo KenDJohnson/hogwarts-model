@@ -6,8 +6,10 @@ All narrative paragraphs in the supplied extracted corpus were read semantically
 | --- | ---: | ---: | ---: | ---: |
 | 1 | 145 | 17 | 3,094 | 78,559 |
 | 2 | 163 | 18 | 3,217 | 86,242 |
-| 3 | 165 | 22 | 4,227 | 109,315 |
-| Total | 473 | 57 | 10,538 | 274,116 |
+| 3 | 166 | 22 | 4,227 | 109,315 |
+| Total | 474 | 57 | 10,538 | 274,116 |
+
+The parent’s second-pass audit added B03-166 for Hermione’s recurrent study corner; the counts above include that supplement.
 
 There are no unread assigned ranges. Every chapter has one review row covering its full paragraph range. Book 2 chapter 12 was deduplicated in commit `eb55658`: the earlier partial range was removed when the completed 1–215 range was retained. The parent’s book 1 omission audit required no changes, and book 1 was left unchanged after that feedback.
 

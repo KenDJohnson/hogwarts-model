@@ -714,6 +714,18 @@ Model: This is Lupin’s account of reading the map, not a newly narrated map vi
 - [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 350, ¶183 (B03-C017-P0183)](../../build/reader/book-03.html#B03-C017-P0183)
 - [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 350, ¶184 (B03-C017-P0184)](../../build/reader/book-03.html#B03-C017-P0184)
 
+## B03-159: School entrances: withdrawal of Dementors
+
+Fudge says the Dementors will be sent back to Azkaban that night after their attack on Harry. His suggestion of dragons at the entrance is only a proposal.
+
+Evidence: reported; state: End of third year, following the midnight rescue.
+
+Model: Represent the removal as an announced security change; do not install dragons based on this dialogue. Sirius’s later letter still anticipates further easing of castle security (paragraph 164).
+
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 423, ¶47 (B03-C022-P0047)](../../build/reader/book-03.html#B03-C022-P0047)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 423, ¶48 (B03-C022-P0048)](../../build/reader/book-03.html#B03-C022-P0048)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 423, ¶49 (B03-C022-P0049)](../../build/reader/book-03.html#B03-C022-P0049)
+
 ## B04-042: Hogwarts grounds Apparition restriction
 
 Hermione states that Apparition cannot be performed inside the Hogwarts grounds.

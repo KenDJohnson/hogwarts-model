@@ -53,6 +53,32 @@ Model: The tower top can support the landing and passengers. Do not infer its fo
 - [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶344 (B03-C021-P0344)](../../build/reader/book-03.html#B03-C021-P0344)
 - [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶345 (B03-C021-P0345)](../../build/reader/book-03.html#B03-C021-P0345)
 
+## B03-156: West Tower battlements to hospital wing
+
+A doorway from the tower top leads down a tightly spiralling stone staircase to a corridor at its foot. After waiting for Fudge and Snape, the pair run in the opposite direction, descend one staircase and then another, and take a new corridor. They hide in a deserted classroom on their left, then continue to the corridor containing the hospital-wing entrance.
+
+Evidence: explicit; state: Immediately before five minutes to midnight on rescue night.
+
+Model: Keep the full sequence, including three separate descending stair sections and the unnamed classroom refuge. Stair sections are not a reliable count of floor levels; no classroom furnishings are given.
+
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 418–419, ¶2 (B03-C022-P0002)](../../build/reader/book-03.html#B03-C022-P0002)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 419, ¶3 (B03-C022-P0003)](../../build/reader/book-03.html#B03-C022-P0003)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 419, ¶4 (B03-C022-P0004)](../../build/reader/book-03.html#B03-C022-P0004)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 419, ¶5 (B03-C022-P0005)](../../build/reader/book-03.html#B03-C022-P0005)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 419, ¶7 (B03-C022-P0007)](../../build/reader/book-03.html#B03-C022-P0007)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 419, ¶8 (B03-C022-P0008)](../../build/reader/book-03.html#B03-C022-P0008)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420, ¶9 (B03-C022-P0009)](../../build/reader/book-03.html#B03-C022-P0009)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420, ¶10 (B03-C022-P0010)](../../build/reader/book-03.html#B03-C022-P0010)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420, ¶11 (B03-C022-P0011)](../../build/reader/book-03.html#B03-C022-P0011)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420, ¶12 (B03-C022-P0012)](../../build/reader/book-03.html#B03-C022-P0012)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420, ¶13 (B03-C022-P0013)](../../build/reader/book-03.html#B03-C022-P0013)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420, ¶14 (B03-C022-P0014)](../../build/reader/book-03.html#B03-C022-P0014)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420, ¶15 (B03-C022-P0015)](../../build/reader/book-03.html#B03-C022-P0015)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420, ¶16 (B03-C022-P0016)](../../build/reader/book-03.html#B03-C022-P0016)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420, ¶17 (B03-C022-P0017)](../../build/reader/book-03.html#B03-C022-P0017)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 420–421, ¶20 (B03-C022-P0020)](../../build/reader/book-03.html#B03-C022-P0020)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 421, ¶21 (B03-C022-P0021)](../../build/reader/book-03.html#B03-C022-P0021)
+
 ## B04-033: Owlery feeding
 
 Harry directs Hedwig up to the Owlery for food.

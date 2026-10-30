@@ -814,6 +814,29 @@ Model: This opening is usable by a thin adult, not evidence of a full-height exi
 - [Book 3, ch. 21, “Hermione’s Secret”, ref p. 417, ¶332 (B03-C021-P0332)](../../build/reader/book-03.html#B03-C021-P0332)
 - [Book 3, ch. 21, “Hermione’s Secret”, ref p. 417–418, ¶333 (B03-C021-P0333)](../../build/reader/book-03.html#B03-C021-P0333)
 
+## B03-161: Lupin’s office: departure state and furniture
+
+At departure Lupin’s office door is initially open. His empty Grindylow tank stands beside an open, nearly packed battered suitcase. He works at the desk, empties its drawers, packs his final books and leaves with the tank and case. Harry sits in his vacated chair after the door closes.
+
+Evidence: explicit; state: End of third year, following the midnight rescue.
+
+Model: Desk drawers and a chair are physical furnishings; tank, books and suitcase are removed with the occupant. Map use reveals Harry approaching, without identifying a window view or corridor layout.
+
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 425, ¶72 (B03-C022-P0072)](../../build/reader/book-03.html#B03-C022-P0072)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 425, ¶73 (B03-C022-P0073)](../../build/reader/book-03.html#B03-C022-P0073)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 425–426, ¶75 (B03-C022-P0075)](../../build/reader/book-03.html#B03-C022-P0075)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 426, ¶77 (B03-C022-P0077)](../../build/reader/book-03.html#B03-C022-P0077)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 426, ¶83 (B03-C022-P0083)](../../build/reader/book-03.html#B03-C022-P0083)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427, ¶88 (B03-C022-P0088)](../../build/reader/book-03.html#B03-C022-P0088)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427, ¶92 (B03-C022-P0092)](../../build/reader/book-03.html#B03-C022-P0092)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427, ¶93 (B03-C022-P0093)](../../build/reader/book-03.html#B03-C022-P0093)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427, ¶94 (B03-C022-P0094)](../../build/reader/book-03.html#B03-C022-P0094)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427, ¶97 (B03-C022-P0097)](../../build/reader/book-03.html#B03-C022-P0097)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427–428, ¶98 (B03-C022-P0098)](../../build/reader/book-03.html#B03-C022-P0098)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 428, ¶100 (B03-C022-P0100)](../../build/reader/book-03.html#B03-C022-P0100)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 428, ¶101 (B03-C022-P0101)](../../build/reader/book-03.html#B03-C022-P0101)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 431, ¶128 (B03-C022-P0128)](../../build/reader/book-03.html#B03-C022-P0128)
+
 ## B04-017: Filch’s office
 
 Dumbledore says the castle’s list of about 437 prohibited objects can be consulted in Filch’s office.

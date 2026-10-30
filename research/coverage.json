@@ -1,9 +1,9 @@
 {
   "source_sha256": "fc554e217f5ec7edc995b24de3d62f50cee929c524fa6ec5e0a7ae23a7ca2732",
   "paragraphs": 38426,
-  "reviewed": 34836,
+  "reviewed": 35027,
   "complete": false,
-  "entries": 1211,
+  "entries": 1222,
   "books": [
     {
       "book": 1,
@@ -271,9 +271,9 @@
     {
       "book": 3,
       "title": "Harry Potter and the Prisoner of Azkaban",
-      "entries": 155,
+      "entries": 166,
       "paragraphs": 4227,
-      "reviewed": 4036,
+      "reviewed": 4227,
       "chapters": [
         {
           "chapter": 1,
@@ -426,13 +426,8 @@
           "chapter": 22,
           "title": "Owl Post Again",
           "paragraphs": 191,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              191
-            ]
-          ]
+          "reviewed": 191,
+          "unread_ranges": []
         }
       ]
     },

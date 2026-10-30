@@ -529,6 +529,17 @@ Model: First floor is Hermione’s turn-off, not a proven Muggle Studies classro
 - [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 326, ¶101 (B03-C016-P0101)](../../build/reader/book-03.html#B03-C016-P0101)
 - [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 326, ¶102 (B03-C016-P0102)](../../build/reader/book-03.html#B03-C016-P0102)
 
+## B03-163: Great Hall: third-year end-of-term feast
+
+The end-of-term feast is decorated in scarlet and gold for Gryffindor’s House Championship victory, and the Gryffindor table is particularly noisy with celebration.
+
+Evidence: explicit; state: Last evening of third year.
+
+Model: A dated house-colour state; no additional permanent Hall geometry is supplied.
+
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 432, ¶138 (B03-C022-P0138)](../../build/reader/book-03.html#B03-C022-P0138)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 432–433, ¶139 (B03-C022-P0139)](../../build/reader/book-03.html#B03-C022-P0139)
+
 ## B04-007: Entrance Hall to Great Hall
 
 Double doors on the right of the Entrance Hall lead into the Great Hall.
