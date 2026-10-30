@@ -1690,6 +1690,383 @@
       "certainty": "explicit",
       "temporal": "December 1992",
       "model_notes": "Observed return resolves no bathroom floor number. Hospital leg is proposed here and confirmed by later recovery scenes."
+    },
+    {
+      "id": "B02-096",
+      "location": "Hospital wing — screened bed and bedside work",
+      "category": "temporary",
+      "description": "Pomfrey puts curtains around Hermione’s bed to block passing pupils’ view during her weeks of recovery. A bedside table holds books brought by Harry and Ron.",
+      "evidence": [
+        "B02-C013-P0001",
+        "B02-C013-P0002",
+        "B02-C013-P0003",
+        "B02-C013-P0004",
+        "B02-C013-P0007",
+        "B02-C013-P0008",
+        "B02-C013-P0012",
+        "B02-C013-P0051"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–February 1993",
+      "model_notes": "Movable curtains are deployed for privacy; recovery lasts until early February."
+    },
+    {
+      "id": "B02-097",
+      "location": "Hospital wing to writing corridor — upward route",
+      "category": "route",
+      "description": "Leaving Hermione’s hospital dormitory, the boys climb stairs towards Gryffindor Tower. Filch’s voice comes from the floor above; going up and round a corner brings them to the earlier cat-attack site outside Myrtle’s bathroom.",
+      "evidence": [
+        "B02-C013-P0013",
+        "B02-C013-P0014",
+        "B02-C013-P0015",
+        "B02-C013-P0016",
+        "B02-C013-P0017",
+        "B02-C013-P0018",
+        "B02-C013-P0019",
+        "B02-C013-P0021"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–February 1993",
+      "model_notes": "Places this bathroom/attack corridor above the ward departure point in this scene, adding to unresolved floor constraints."
+    },
+    {
+      "id": "B02-098",
+      "location": "Myrtle’s bathroom and corridor — flood",
+      "category": "temporary",
+      "description": "Water seeps beneath the bathroom door and covers half the corridor. Inside, water has soaked walls and stone flooring and extinguished the candles; Myrtle’s wails echo. Her emergence from the toilet sends another wave across the floor, and a discarded diary lies under a sink.",
+      "evidence": [
+        "B02-C013-P0019",
+        "B02-C013-P0021",
+        "B02-C013-P0022",
+        "B02-C013-P0025",
+        "B02-C013-P0026",
+        "B02-C013-P0030",
+        "B02-C013-P0031",
+        "B02-C013-P0037",
+        "B02-C013-P0038"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–February 1993",
+      "model_notes": "Flooded extent and acoustic state; no drain capacity or quantified water depth."
+    },
+    {
+      "id": "B02-099",
+      "location": "Trophy room — Riddle’s awards",
+      "category": "furnishing",
+      "description": "Riddle’s burnished gold special-services shield occupies a corner cabinet. His name also appears on an old Medal for Magical Merit and a list of former Head Boys.",
+      "evidence": [
+        "B02-C013-P0040",
+        "B02-C013-P0042",
+        "B02-C013-P0054",
+        "B02-C013-P0073",
+        "B02-C013-P0074",
+        "B02-C013-P0075"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–February 1993",
+      "model_notes": "Observed shield location and awards, separate from Ron’s earlier cleaning recollection."
+    },
+    {
+      "id": "B02-100",
+      "location": "Mandrakes — winter maturation",
+      "category": "temporary",
+      "description": "Pomfrey reports Mandrakes becoming moody and secretive, soon needing another repotting after their acne clears, before being ready to cut and stew for restoration.",
+      "evidence": [
+        "B02-C013-P0078",
+        "B02-C013-P0079"
+      ],
+      "certainty": "reported",
+      "temporal": "January–February 1993",
+      "model_notes": "Reported growth timetable, without a new greenhouse location or precise maturity date."
+    },
+    {
+      "id": "B02-101",
+      "location": "Great Hall — Valentine decorations and roving dwarfs",
+      "category": "temporary",
+      "description": "Large vivid pink flowers cover all the walls; heart-shaped confetti falls from a pale-blue ceiling. Twelve dwarfs wearing gold wings and carrying harps march in through the Entrance Hall doors and spend the day entering classes to deliver Valentines.",
+      "evidence": [
+        "B02-C013-P0086",
+        "B02-C013-P0087",
+        "B02-C013-P0088",
+        "B02-C013-P0089",
+        "B02-C013-P0090",
+        "B02-C013-P0091",
+        "B02-C013-P0092",
+        "B02-C013-P0094",
+        "B02-C013-P0095"
+      ],
+      "certainty": "explicit",
+      "temporal": "14 February 1993",
+      "model_notes": "Dated decorative/event configuration, not permanent wall flowers."
+    },
+    {
+      "id": "B02-102",
+      "location": "Gryffindor dormitory — bedside cabinet",
+      "category": "furnishing",
+      "description": "Harry retrieves a fresh ink bottle from a cabinet beside his four-poster.",
+      "evidence": [
+        "B02-C013-P0125",
+        "B02-C013-P0126",
+        "B02-C013-P0127"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–February 1993",
+      "model_notes": "Confirms personal bedside cabinet; no material or drawer count."
+    },
+    {
+      "id": "B02-103",
+      "location": "Chamber history — diary’s self-serving account",
+      "category": "history",
+      "description": "The diary claims that in Riddle’s fifth year several pupils were attacked, a girl died, an accused pupil was expelled and a false accident story concealed the events. It offers a memory of the night he supposedly caught the culprit.",
+      "evidence": [
+        "B02-C013-P0134",
+        "B02-C013-P0136",
+        "B02-C013-P0139",
+        "B02-C013-P0141",
+        "B02-C013-P0142",
+        "B02-C013-P0144",
+        "B02-C013-P0147"
+      ],
+      "certainty": "reported",
+      "temporal": "Diary account of events fifty years earlier",
+      "model_notes": "Uncorroborated account presented by the diary; Hagrid’s guilt must not be treated as established."
+    },
+    {
+      "id": "B02-104",
+      "location": "Headmaster’s office in diary memory",
+      "category": "history",
+      "description": "The June-thirteenth memory shows the same circular room and sleeping portraits, with Dippet at a candlelit desk, a curtained window looking onto a red sunset, and visitor seating. Fawkes and Dumbledore’s silver devices are absent.",
+      "evidence": [
+        "B02-C013-P0147",
+        "B02-C013-P0148",
+        "B02-C013-P0149",
+        "B02-C013-P0151",
+        "B02-C013-P0154",
+        "B02-C013-P0155",
+        "B02-C013-P0156",
+        "B02-C013-P0159",
+        "B02-C013-P0160",
+        "B02-C013-P0161",
+        "B02-C013-P0162",
+        "B02-C013-P0163",
+        "B02-C013-P0181",
+        "B02-C013-P0183"
+      ],
+      "certainty": "reported",
+      "temporal": "13 June, fifty years before the 1992–93 investigation",
+      "model_notes": "Diary-mediated historical scene, not independently authenticated observation; no compass bearing inferred from sunset view."
+    },
+    {
+      "id": "B02-105",
+      "location": "Headmaster’s office to Potions dungeon in diary memory",
+      "category": "history",
+      "description": "Riddle leaves by the moving spiral stair past the gargoyle, walks to the Entrance Hall and sees young Dumbledore on the marble stairs, then descends the stone dungeon steps to the very classroom Harry knows as Snape’s Potions room. Its torches are unlit; a nearly closed door allows watching the passage.",
+      "evidence": [
+        "B02-C013-P0183",
+        "B02-C013-P0184",
+        "B02-C013-P0185",
+        "B02-C013-P0187",
+        "B02-C013-P0188",
+        "B02-C013-P0189",
+        "B02-C013-P0190",
+        "B02-C013-P0191",
+        "B02-C013-P0192",
+        "B02-C013-P0193"
+      ],
+      "certainty": "reported",
+      "temporal": "13 June, fifty years earlier",
+      "model_notes": "Historical memory sequence, indicating apparent continuity of entrance mechanism and classroom use. No measured route or floor count."
+    },
+    {
+      "id": "B02-106",
+      "location": "Dungeon creature cupboard in diary memory",
+      "category": "history",
+      "description": "Following footsteps for perhaps five minutes beyond the Potions room and round a corner, Riddle confronts young Hagrid at a closed door beside a large box. The door is blasted open against an opposite wall and a large hairy many-legged creature escapes along the corridor.",
+      "evidence": [
+        "B02-C013-P0193",
+        "B02-C013-P0194",
+        "B02-C013-P0195",
+        "B02-C013-P0197",
+        "B02-C013-P0198",
+        "B02-C013-P0199",
+        "B02-C013-P0200",
+        "B02-C013-P0205",
+        "B02-C013-P0206",
+        "B02-C013-P0207",
+        "B02-C013-P0208",
+        "B02-C013-P0209",
+        "B02-C013-P0210"
+      ],
+      "certainty": "reported",
+      "temporal": "13 June, fifty years earlier",
+      "model_notes": "Diary-mediated historical storage/escape scene. Room dimensions and creature destination are unstated; this is not the revealed Chamber of Secrets."
+    },
+    {
+      "id": "B02-107",
+      "location": "Greenhouse Three — Mandrake maturation",
+      "category": "temporary",
+      "description": "In March several Mandrakes hold a noisy party in greenhouse three. Sprout says attempts to move into one another’s pots will signal full maturity.",
+      "evidence": [
+        "B02-C014-P0014",
+        "B02-C014-P0015"
+      ],
+      "certainty": "explicit",
+      "temporal": "March 1993",
+      "model_notes": "Confirms continued greenhouse-three cultivation and reported maturity criterion."
+    },
+    {
+      "id": "B02-108",
+      "location": "Gryffindor dormitory — searched belongings",
+      "category": "temporary",
+      "description": "Harry’s trunk is emptied across the room, his cloak ripped on the floor, bedding stripped and a bedside-cabinet drawer pulled out with its contents over the mattress. The diary is missing.",
+      "evidence": [
+        "B02-C014-P0028",
+        "B02-C014-P0029",
+        "B02-C014-P0030",
+        "B02-C014-P0031",
+        "B02-C014-P0032",
+        "B02-C014-P0033",
+        "B02-C014-P0034",
+        "B02-C014-P0036",
+        "B02-C014-P0038",
+        "B02-C014-P0039",
+        "B02-C014-P0041",
+        "B02-C014-P0043"
+      ],
+      "certainty": "explicit",
+      "temporal": "Spring 1993",
+      "model_notes": "Observed damage and drawer storage; the culprit’s house membership is the pupils’ deduction from the password, not verified access control."
+    },
+    {
+      "id": "B02-109",
+      "location": "Great Hall to library and pitch",
+      "category": "route",
+      "description": "At the marble staircase after breakfast Harry hears the voice again. Hermione runs upstairs towards the library while other pupils leave the Great Hall through the front doors for the pitch. Harry collects his broom in Gryffindor Tower before crossing the grounds to the changing room.",
+      "evidence": [
+        "B02-C014-P0049",
+        "B02-C014-P0050",
+        "B02-C014-P0051",
+        "B02-C014-P0052",
+        "B02-C014-P0053",
+        "B02-C014-P0054",
+        "B02-C014-P0055",
+        "B02-C014-P0059",
+        "B02-C014-P0060",
+        "B02-C014-P0061",
+        "B02-C014-P0062"
+      ],
+      "certainty": "explicit",
+      "temporal": "Spring 1993",
+      "model_notes": "Upstairs library route, front-door stadium route; voice location/mechanism still unresolved."
+    },
+    {
+      "id": "B02-110",
+      "location": "Quidditch stadium to hospital wing",
+      "category": "route",
+      "description": "After the match is cancelled, McGonagall leads the boys back to the castle and up the marble staircase to the hospital wing.",
+      "evidence": [
+        "B02-C014-P0063",
+        "B02-C014-P0065",
+        "B02-C014-P0067",
+        "B02-C014-P0069",
+        "B02-C014-P0070",
+        "B02-C014-P0072",
+        "B02-C014-P0073",
+        "B02-C014-P0074"
+      ],
+      "certainty": "explicit",
+      "temporal": "Spring 1993",
+      "model_notes": "Adds direct stadium-to-ward journey; hospital floor is not named."
+    },
+    {
+      "id": "B02-111",
+      "location": "Hospital wing — adjacent beds and library attack report",
+      "category": "temporary",
+      "description": "Hermione lies petrified in the bed next to Penelope Clearwater. McGonagall says they were found near the library with a small round mirror on the floor.",
+      "evidence": [
+        "B02-C014-P0075",
+        "B02-C014-P0076",
+        "B02-C014-P0077",
+        "B02-C014-P0078",
+        "B02-C014-P0079",
+        "B02-C014-P0080",
+        "B02-C014-P0088",
+        "B02-C014-P0089"
+      ],
+      "certainty": "explicit",
+      "temporal": "Spring 1993 double attack",
+      "model_notes": "Ward arrangement observed; attack location and mirror discovery reported by the teacher."
+    },
+    {
+      "id": "B02-112",
+      "location": "Castle — emergency movement rules",
+      "category": "temporary",
+      "description": "All pupils must return to common rooms by six, remain in dormitories thereafter, attend lessons under teacher escort and use bathrooms only with a teacher. Quidditch and evening activities are suspended; closure is threatened if the culprit is not caught.",
+      "evidence": [
+        "B02-C014-P0081",
+        "B02-C014-P0083",
+        "B02-C014-P0084",
+        "B02-C014-P0085",
+        "B02-C014-P0092"
+      ],
+      "certainty": "reported",
+      "temporal": "After Hermione/Penelope attack, spring 1993",
+      "model_notes": "Schoolwide time-dependent access restrictions, not newly built barriers."
+    },
+    {
+      "id": "B02-113",
+      "location": "Castle — paired night patrols",
+      "category": "temporary",
+      "description": "Teachers, Prefects and ghosts patrol the nighttime corridors in pairs. Under the Cloak the boys pass close to Snape on guard, then ease open the oak front doors and head towards Hagrid’s lit windows.",
+      "evidence": [
+        "B02-C014-P0095",
+        "B02-C014-P0096",
+        "B02-C014-P0097"
+      ],
+      "certainty": "explicit",
+      "temporal": "Spring 1993",
+      "model_notes": "Observed implementation of emergency security; Cloak does not suppress sound and front doors can still be opened from inside."
+    },
+    {
+      "id": "B02-114",
+      "location": "Hagrid’s cabin — defensive state and height clearance",
+      "category": "temporary",
+      "description": "Hagrid answers the door with a crossbow. Inside, the kettle can spill onto the hearth, a teapot is smashed, the boys hide in a corner and Fang occupies a basket. When Hagrid stands abruptly his head grazes the ceiling.",
+      "evidence": [
+        "B02-C014-P0098",
+        "B02-C014-P0099",
+        "B02-C014-P0100",
+        "B02-C014-P0101",
+        "B02-C014-P0102",
+        "B02-C014-P0105",
+        "B02-C014-P0106",
+        "B02-C014-P0112",
+        "B02-C014-P0124",
+        "B02-C014-P0127",
+        "B02-C014-P0134",
+        "B02-C014-P0137",
+        "B02-C014-P0144",
+        "B02-C014-P0146",
+        "B02-C014-P0148",
+        "B02-C014-P0149",
+        "B02-C014-P0151"
+      ],
+      "certainty": "explicit",
+      "temporal": "Spring 1993",
+      "model_notes": "Ceiling height is relative to Hagrid, not a numeric measurement; basket and hiding corner add furniture/usable space."
+    },
+    {
+      "id": "B02-115",
+      "location": "Forest investigation — follow-spiders instruction",
+      "category": "route",
+      "description": "Before being taken away, Hagrid tells unseen listeners that following the spiders would lead them to information, and asks for Fang to be fed.",
+      "evidence": [
+        "B02-C014-P0146",
+        "B02-C014-P0148"
+      ],
+      "certainty": "reported",
+      "temporal": "Spring 1993",
+      "model_notes": "A reported route clue rather than a mapped path; actual destination reviewed in the next chapter."
     }
   ],
   "chapter_reviews": [
@@ -1835,6 +2212,28 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter read. Detailed Slytherin route and room recorded without importing lake windows. Malfoy Manor’s unrelated secret chamber excluded."
+    },
+    {
+      "chapter": 13,
+      "reviewed_ranges": [
+        [
+          1,
+          216
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read, including all diary dialogue and memory. Historical scenes labelled diary-mediated reports; no claim that the presented accusation proves who opened the Chamber."
+    },
+    {
+      "chapter": 14,
+      "reviewed_ranges": [
+        [
+          1,
+          151
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Password-based assumptions about the theft not treated as proof; emergency rules distinguished from observed patrols and unlocked outward doors."
     }
   ]
 }
