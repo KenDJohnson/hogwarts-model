@@ -1,6 +1,19 @@
 {
   "book": 5,
-  "entries": [],
+  "entries": [
+    {
+      "id": "B05-001",
+      "location": "Hogwarts Quidditch match in storm",
+      "category": "history",
+      "description": "During the broom journey Harry recalls extreme cold while playing Hufflepuff in a storm in his third year.",
+      "evidence": [
+        "B05-C003-P0164"
+      ],
+      "certainty": "explicit",
+      "temporal": "Recollection in August 1995 of third-year Quidditch storm",
+      "model_notes": "Narrated weather memory, without a new pitch layout or numerical temperature. The present broom flight ends in London and is not a Hogwarts access route."
+    }
+  ],
   "chapter_reviews": [
     {
       "chapter": 1,
@@ -23,6 +36,39 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed. Privet Drive/Little Whinging, Dementor attack, Ministry letters and unlocated corridor dreams add no Hogwarts spatial description."
+    },
+    {
+      "chapter": 3,
+      "reviewed_ranges": [
+        [
+          1,
+          182
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Retained the explicit school-match weather recollection; Privet Drive departure and London headquarters flight/arrival are outside Hogwarts boundary context."
+    },
+    {
+      "chapter": 4,
+      "reviewed_ranges": [
+        [
+          1,
+          230
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Grimmauld Place interiors and its protective magic are not Hogwarts; the unidentified building plan is not assigned to Hogwarts. School recollections here add no new spatial constraint."
+    },
+    {
+      "chapter": 5,
+      "reviewed_ranges": [
+        [
+          1,
+          209
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Grimmauld Place interiors and its protective magic are not Hogwarts; the unidentified building plan is not assigned to Hogwarts. School recollections here add no new spatial constraint."
     }
   ]
 }
