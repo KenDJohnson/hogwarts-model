@@ -2328,6 +2328,179 @@
       "certainty": "explicit",
       "temporal": "November–December 1995 before Christmas departure",
       "model_notes": "Right is from Harry’s position in bed; the subsequent snake-vision corridor is not Hogwarts."
+    },
+    {
+      "id": "B05-149",
+      "location": "Gryffindor to Headmaster at night",
+      "category": "route",
+      "description": "McGonagall leads Harry and Ron down the dormitory spiral stairs, across the common room and through the portrait hole along the Fat Lady’s moonlit corridor. After a few minutes they reach the office’s stone gargoyle.",
+      "evidence": [
+        "B05-C022-P0003",
+        "B05-C022-P0004"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
+      "model_notes": "Travel duration approximate; intervening corridor turns and floors not supplied."
+    },
+    {
+      "id": "B05-150",
+      "location": "Headmaster staircase and door",
+      "category": "magic",
+      "description": "Fizzing Whizzbee makes the gargoyle leap aside and the wall split, exposing continuously ascending stone spiral stairs. The wall closes behind riders; tight circles bring them to a polished oak door with a brass griffin-shaped knocker. The door opens of itself after three knocks.",
+      "evidence": [
+        "B05-C022-P0004",
+        "B05-C022-P0005",
+        "B05-C022-P0006",
+        "B05-C022-P0007"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
+      "model_notes": "Password belongs to December 1995."
+    },
+    {
+      "id": "B05-151",
+      "location": "Headmaster office night fittings",
+      "category": "interior",
+      "description": "Tables hold fragile silver instruments, unusually still and smokeless tonight; former heads’ portraits cover the walls. Fawkes sleeps on a perch beside and behind the entrance door. A candle lights papers on Dumbledore’s desk, behind which stands his high-backed chair.",
+      "evidence": [
+        "B05-C022-P0008",
+        "B05-C022-P0010",
+        "B05-C022-P0024",
+        "B05-C022-P0025",
+        "B05-C022-P0029",
+        "B05-C022-P0030",
+        "B05-C022-P0033",
+        "B05-C022-P0036",
+        "B05-C022-P0040"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
+      "model_notes": "Fawkes perch position explicit; instrument activity varies with time."
+    },
+    {
+      "id": "B05-152",
+      "location": "Portrait communication network",
+      "category": "magic",
+      "description": "Everard’s portrait hangs near the ceiling beside Dilys’s; after they leave their frames, one shows a dark curtain and the other a leather armchair. They return with reports from other institutions. Dumbledore explains they travel among their own portraits; Hogwarts subjects usually enter neighbouring pictures.",
+      "evidence": [
+        "B05-C022-P0024",
+        "B05-C022-P0025",
+        "B05-C022-P0029",
+        "B05-C022-P0030",
+        "B05-C022-P0040",
+        "B05-C022-P0043",
+        "B05-C022-P0045"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
+      "model_notes": "Remote institutional connection, not a physical passage. Everard returns at the top of the wall to the visitors’ right."
+    },
+    {
+      "id": "B05-153",
+      "location": "Conjured office visitor chairs",
+      "category": "temporary",
+      "description": "McGonagall conjures three straight-backed wooden chairs for herself, Harry and Ron.",
+      "evidence": [
+        "B05-C022-P0032",
+        "B05-C022-P0033"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
+      "model_notes": "Event furniture, distinct from Dumbledore’s comfortable chintz chairs at the Ministry."
+    },
+    {
+      "id": "B05-154",
+      "location": "Office smoke instrument",
+      "category": "magic",
+      "description": "Dumbledore places a silver instrument from its spindly table onto his desk and activates it by wand. A tiny top tube emits pale-green smoke forming a serpent that divides into two; a second tap stops it and the smoke vanishes.",
+      "evidence": [
+        "B05-C022-P0036",
+        "B05-C022-P0037",
+        "B05-C022-P0038",
+        "B05-C022-P0039",
+        "B05-C022-P0040"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
+      "model_notes": "Function remains unexplained; do not label it a confirmed truth detector."
+    },
+    {
+      "id": "B05-155",
+      "location": "Phineas Nigellus portrait connection",
+      "category": "magic",
+      "description": "A portrait of pointed-bearded Phineas in Slytherin green and silver hangs in the office with a Slytherin banner backdrop. He moves to his other portrait in Harry’s Grimmauld Place bedroom to deliver a message, then returns.",
+      "evidence": [
+        "B05-C022-P0054",
+        "B05-C022-P0055",
+        "B05-C022-P0056",
+        "B05-C022-P0060",
+        "B05-C022-P0061",
+        "B05-C022-P0063",
+        "B05-C022-P0064",
+        "B05-C022-P0065",
+        "B05-C022-P0066",
+        "B05-C022-P0067",
+        "B05-C022-P0068",
+        "B05-C022-P0069",
+        "B05-C022-P0077"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
+      "model_notes": "Specific remote portrait connection observed through departures/return and Dumbledore’s explanation; Armando Dippet also has an office portrait."
+    },
+    {
+      "id": "B05-156",
+      "location": "Office cupboard and Portkey departure",
+      "category": "magic",
+      "description": "A cupboard behind Harry and Ron contains a blackened old kettle. Dumbledore enchants it blue momentarily with Portus; five pupils touch it at his desk and are transported to Grimmauld Place’s basement kitchen.",
+      "evidence": [
+        "B05-C022-P0053",
+        "B05-C022-P0069",
+        "B05-C022-P0071",
+        "B05-C022-P0073",
+        "B05-C022-P0079",
+        "B05-C022-P0080",
+        "B05-C022-P0081",
+        "B05-C022-P0083",
+        "B05-C022-P0084",
+        "B05-C022-P0087"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
+      "model_notes": "Demonstrated authorised Portkey departure inside Hogwarts, distinct from unsafe watched Floo travel; no general permission for all Portkeys inferred."
+    },
+    {
+      "id": "B05-157",
+      "location": "Fawkes office warning",
+      "category": "magic",
+      "description": "Fawkes disappears in a flash of fire; later flame appears in mid-office leaving one golden feather as a warning of an approaching visitor.",
+      "evidence": [
+        "B05-C022-P0034",
+        "B05-C022-P0035",
+        "B05-C022-P0051",
+        "B05-C022-P0074",
+        "B05-C022-P0075",
+        "B05-C022-P0076"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
+      "model_notes": "Remote phoenix warning transport, not an architectural passage."
+    },
+    {
+      "id": "B05-158",
+      "location": "Dilys Derwent external portrait",
+      "category": "history",
+      "description": "The hospital reception contains a second portrait of Dilys Derwent with silver ringlets, labelled Hogwarts headmistress 1741–1768; she notices Harry’s group and leaves her frame.",
+      "evidence": [
+        "B05-C022-P0167",
+        "B05-C022-P0168",
+        "B05-C022-P0169",
+        "B05-C022-P0170",
+        "B05-C022-P0171"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
+      "model_notes": "Only the school-linked portrait network is catalogued from this remote hospital; unrelated ward architecture excluded."
     }
   ],
   "chapter_reviews": [
@@ -2561,6 +2734,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read every paragraph including full Forest lesson, final preholiday DA lesson, kiss discussion, ordinary dream and snake vision. Dream baubles are not installed room decor; attacked-man corridor is not assigned to school."
+    },
+    {
+      "chapter": 22,
+      "reviewed_ranges": [
+        [
+          1,
+          242
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph in three chunks, including London house, transit, hospital guide and eavesdropping. Remote hospital rooms are not Hogwarts hospital wing; retained its portrait link only."
     }
   ]
 }
