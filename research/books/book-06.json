@@ -2645,6 +2645,190 @@
       "certainty": "explicit",
       "temporal": "June 1997 cave visit",
       "model_notes": "Relative scale comparison only, with no numeric dimension. The distant cave is explicitly outside Hogwarts surroundings and its underground lake is not the Hogwarts lake; do not transplant its layout, boat or Inferi into the school grounds."
+    },
+    {
+      "id": "B06-173",
+      "location": "Hogsmeade High Street return and castle view",
+      "category": "route",
+      "description": "Harry and Dumbledore Apparate into the dark High Street, lit by a few streetlamps and upper windows. Rosmerta says she saw them from her bedroom curtains. From the street the green Dark Mark is visible above Hogwarts.",
+      "evidence": [
+        "B06-C027-P0001",
+        "B06-C027-P0002",
+        "B06-C027-P0004",
+        "B06-C027-P0015",
+        "B06-C027-P0016",
+        "B06-C027-P0022",
+        "B06-C027-P0023",
+        "B06-C027-P0024",
+        "B06-C027-P0026"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night of tower attack, June 1997",
+      "model_notes": "Ground-level village → school-sky visibility and bedroom → High Street reported view; imagined Inferi around shops at P0002 are not real village occupants."
+    },
+    {
+      "id": "B06-174",
+      "location": "Three Broomsticks stored brooms",
+      "category": "furnishing",
+      "description": "Rosmerta says she keeps two brooms behind the bar; Harry Summons them, bursting open the pub’s front door as they fly into the street.",
+      "evidence": [
+        "B06-C027-P0027",
+        "B06-C027-P0028",
+        "B06-C027-P0029",
+        "B06-C027-P0030",
+        "B06-C027-P0031",
+        "B06-C027-P0032"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night of tower attack, June 1997",
+      "model_notes": "Ancillary return transport storage and bar-to-street path; not an ordinary unattended flight route through walls."
+    },
+    {
+      "id": "B06-175",
+      "location": "Broom flight from village to Astronomy Tower",
+      "category": "route",
+      "description": "They fly from the village over the dark twisting lane, cross the boundary wall into the grounds, then land over crenellated ramparts on the Astronomy Tower, the highest tower of the castle.",
+      "evidence": [
+        "B06-C027-P0033",
+        "B06-C027-P0034",
+        "B06-C027-P0036",
+        "B06-C027-P0037",
+        "B06-C027-P0038"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night of tower attack, June 1997",
+      "model_notes": "Aerial approach and height hierarchy. The lane is seen from above; no exact flight length or wall height."
+    },
+    {
+      "id": "B06-176",
+      "location": "Boundary enchantment during aerial entry",
+      "category": "magic",
+      "description": "As Dumbledore mutters a strange language, Harry’s broom shudders crossing the boundary wall; Harry interprets this as Dumbledore undoing his own protective enchantments to admit them quickly.",
+      "evidence": [
+        "B06-C027-P0036"
+      ],
+      "certainty": "inference",
+      "temporal": "Night of tower attack, June 1997",
+      "model_notes": "Sound and shudder are observed, while barrier purpose and deliberate suspension are Harry’s interpretation. No evidence of a physically moving wall or blanket permanent removal."
+    },
+    {
+      "id": "B06-177",
+      "location": "Astronomy Tower ramparts and stair door",
+      "category": "exterior",
+      "description": "The tower top has crenellated ramparts/battlements and a wall against which Harry and Dumbledore can lean. A door with an iron ring opens to a spiral stair down into the castle. Initially it is closed and the ramparts are deserted.",
+      "evidence": [
+        "B06-C027-P0036",
+        "B06-C027-P0037",
+        "B06-C027-P0038",
+        "B06-C027-P0044",
+        "B06-C027-P0045",
+        "B06-C027-P0046",
+        "B06-C027-P0047",
+        "B06-C027-P0048",
+        "B06-C027-P0082",
+        "B06-C027-P0097",
+        "B06-C027-P0102",
+        "B06-C027-P0125",
+        "B06-C027-P0146"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night of tower attack, June 1997",
+      "model_notes": "Tower-top enclosure and descent route, not a roofed interior room. Door material is not specified by its iron handle."
+    },
+    {
+      "id": "B06-178",
+      "location": "Dark Mark over tower",
+      "category": "temporary",
+      "description": "The luminous green skull and serpent-tongue Dark Mark hangs directly above the Astronomy Tower, casting dim green light over its occupants and ramparts. Draco says it was placed there to draw Dumbledore to an apparent murder scene.",
+      "evidence": [
+        "B06-C027-P0024",
+        "B06-C027-P0036",
+        "B06-C027-P0039",
+        "B06-C027-P0040",
+        "B06-C027-P0047",
+        "B06-C027-P0052",
+        "B06-C027-P0062",
+        "B06-C027-P0104",
+        "B06-C027-P0105",
+        "B06-C027-P0106",
+        "B06-C027-P0107"
+      ],
+      "certainty": "reported",
+      "temporal": "Night of tower attack, June 1997",
+      "model_notes": "Placement/light are observed; trap purpose is Draco’s account. A Mark alone is not proof that someone died at that spot before arrival."
+    },
+    {
+      "id": "B06-179",
+      "location": "Vanishing Cabinet passage into Hogwarts",
+      "category": "magic",
+      "description": "Draco says he spent the year repairing the broken Hogwarts Vanishing Cabinet in which Montague was trapped. Its mate is in Borgin and Burkes; together they form a passage. Montague reportedly heard both school and shop while trapped between them and eventually Apparated out at great risk. Death Eaters used the repaired pair to enter the school.",
+      "evidence": [
+        "B06-C027-P0074",
+        "B06-C027-P0077",
+        "B06-C027-P0078",
+        "B06-C027-P0079",
+        "B06-C027-P0081",
+        "B06-C027-P0090",
+        "B06-C024-P0105",
+        "B06-C006-P0184",
+        "B06-C006-P0198",
+        "B06-C006-P0211"
+      ],
+      "certainty": "reported",
+      "temporal": "Night of tower attack, June 1997",
+      "model_notes": "Magical off-site bypass, not a physical tunnel under the perimeter. Chapter 24 locates the Hogwarts cabinet in the hiding room. Chapter 6’s shop cabinet description can be reconciled as the off-site endpoint but its identity is not visually demonstrated by this account."
+    },
+    {
+      "id": "B06-180",
+      "location": "Guard fight and tower staircase barrier",
+      "category": "temporary",
+      "description": "Muffled cries from the castle below grow into fighting sounds on the spiral staircase. Four Death Eaters reach the ramparts; a voice below says the stairs are blocked and casts Reducto. Snape subsequently comes through the stair door.",
+      "evidence": [
+        "B06-C027-P0057",
+        "B06-C027-P0066",
+        "B06-C027-P0069",
+        "B06-C027-P0095",
+        "B06-C027-P0111",
+        "B06-C027-P0125",
+        "B06-C027-P0150",
+        "B06-C027-P0151",
+        "B06-C027-P0156"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night of tower attack, June 1997",
+      "model_notes": "Battle route and temporary stair obstruction, with barrier inferred by Harry from sounds here; exact construction clarified only by later witnesses. Snape’s passage does not prove everyone can pass."
+    },
+    {
+      "id": "B06-181",
+      "location": "Tower battlement fatal fall",
+      "category": "temporary",
+      "description": "Snape’s curse throws Dumbledore upward and backwards over the battlements, where he disappears below the edge.",
+      "evidence": [
+        "B06-C027-P0161",
+        "B06-C027-P0164",
+        "B06-C027-P0165",
+        "B06-C027-P0166"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night of tower attack, June 1997",
+      "model_notes": "Confirms an exposed fall over the parapet to the exterior below; no measured tower height, fall duration or impact position supplied until following scene."
+    },
+    {
+      "id": "B06-182",
+      "location": "School communication monitoring bypass",
+      "category": "magic",
+      "description": "Dumbledore says school communications were monitored. Draco explains that enchanted paired coins allowed messages to Rosmerta, who saw Dumbledore leave; this informed the timing of the attack.",
+      "evidence": [
+        "B06-C027-P0095",
+        "B06-C027-P0096",
+        "B06-C027-P0097",
+        "B06-C027-P0098",
+        "B06-C027-P0104",
+        "B06-C027-P0105"
+      ],
+      "certainty": "reported",
+      "temporal": "Night of tower attack, June 1997",
+      "model_notes": "Security limitation with remote magical communication, not a geometry feature; retain as an access/guard-state constraint. Dumbledore’s reconstruction of the bathroom delivery is a deduction, not his eyewitness account."
     }
   ],
   "chapter_reviews": [
@@ -2933,6 +3117,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two non-truncated blocks, including sea approach, full cave/lake voyage, dialogue and return. This cave is identified in C025-P0139 as many miles away on the coast; its lake, island, boat and defences are not Hogwarts grounds and are excluded except the explicit office-size comparison at P0111. No Hogwarts underwater review is implied by reading this remote lake scene."
+    },
+    {
+      "chapter": 27,
+      "reviewed_ranges": [
+        [
+          1,
+          166
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks. Captured village lights/views/brooms, aerial route/boundary inference, highest-tower ramparts/iron-ring stair door, Mark lighting/trap report, Cabinet route with earlier evidence reconciliation, stair obstruction and exterior fall. Distinguish Draco’s accounts, Dumbledore’s reconstructions and Harry’s interpretations."
     }
   ]
 }
