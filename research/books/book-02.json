@@ -2887,6 +2887,116 @@
       "certainty": "explicit",
       "temporal": "Late May 1993, Chamber confrontation",
       "model_notes": "Short narrated transition without stairs or floor number. Do not silently resolve earlier floor conflicts by adding stairs."
+    },
+    {
+      "id": "B02-158",
+      "location": "McGonagall’s office — hearth, desk and drawers",
+      "category": "interior",
+      "description": "The office has a fire with mantelpiece, chairs beside it, and McGonagall’s desk with drawers holding quill and ink. Harry lays the recovered Hat, sword and diary on the desk.",
+      "evidence": [
+        "B02-C018-P0001",
+        "B02-C018-P0003",
+        "B02-C018-P0004",
+        "B02-C018-P0007",
+        "B02-C018-P0011",
+        "B02-C018-P0036",
+        "B02-C018-P0044",
+        "B02-C018-P0045",
+        "B02-C018-P0062",
+        "B02-C018-P0065"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1993",
+      "model_notes": "Office identity explicitly confirmed; no room shape or first-floor statement repeated here."
+    },
+    {
+      "id": "B02-159",
+      "location": "McGonagall’s office — routes to ward and feast",
+      "category": "route",
+      "description": "Dumbledore sends Ginny and later Lockhart up to the hospital wing, and tells Harry to go down to the feast.",
+      "evidence": [
+        "B02-C018-P0023",
+        "B02-C018-P0026",
+        "B02-C018-P0027",
+        "B02-C018-P0028",
+        "B02-C018-P0042",
+        "B02-C018-P0043",
+        "B02-C018-P0066",
+        "B02-C018-P0099"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1993",
+      "model_notes": "Adds office-between-ward-and-feast vertical relations; no full route or direct adjacency."
+    },
+    {
+      "id": "B02-160",
+      "location": "McGonagall’s office to staircase landing",
+      "category": "route",
+      "description": "Leaving the office, Harry hears Dobby round a corner and runs along a dark corridor to the top of stairs. Dobby’s defensive magic throws Malfoy down the stairs onto a lower landing; a nearby window admits moonlight.",
+      "evidence": [
+        "B02-C018-P0067",
+        "B02-C018-P0068",
+        "B02-C018-P0070",
+        "B02-C018-P0097",
+        "B02-C018-P0100",
+        "B02-C018-P0101",
+        "B02-C018-P0113",
+        "B02-C018-P0115",
+        "B02-C018-P0116",
+        "B02-C018-P0117",
+        "B02-C018-P0118",
+        "B02-C018-P0119",
+        "B02-C018-P0127"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1993",
+      "model_notes": "Confirms a corridor corner, stair flight and lower landing near office. Dobby later vanishes with a crack; no physical exit route needed for that departure."
+    },
+    {
+      "id": "B02-161",
+      "location": "Great Hall — recovery feast and restored school state",
+      "category": "temporary",
+      "description": "An all-night feast is attended in pyjamas after the petrified victims recover; Hagrid returns at half past three. Exams are cancelled and normal summer school life resumes, except for cancelled Defence classes.",
+      "evidence": [
+        "B02-C018-P0023",
+        "B02-C018-P0025",
+        "B02-C018-P0027",
+        "B02-C018-P0129",
+        "B02-C018-P0132"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1993",
+      "model_notes": "Closes emergency occupancy/access state; normal school life does not explicitly repair the underground rockfall or remove the basilisk corpse."
+    },
+    {
+      "id": "B02-162",
+      "location": "Unnamed classroom — reported private meeting",
+      "category": "interior",
+      "description": "Ginny reports finding Percy and Penelope kissing in an otherwise empty classroom during their secret meetings around the school.",
+      "evidence": [
+        "B02-C018-P0135",
+        "B02-C018-P0136",
+        "B02-C018-P0139"
+      ],
+      "certainty": "reported",
+      "temporal": "Late May–June 1993",
+      "model_notes": "Reported unnamed classroom use; no floor, furnishings or identity with prior meeting rooms."
+    },
+    {
+      "id": "B02-163",
+      "location": "School departure — Hogwarts Express and London gateway",
+      "category": "route",
+      "description": "The pupils return by Hogwarts Express to King’s Cross, then join the crowd at the enchanted barrier and pass back into the Muggle station.",
+      "evidence": [
+        "B02-C018-P0133",
+        "B02-C018-P0134",
+        "B02-C018-P0142",
+        "B02-C018-P0145",
+        "B02-C018-P0147"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1993",
+      "model_notes": "School-to-station transfer mode is omitted this year; do not reuse book 1’s boat detail as a fresh observation."
     }
   ],
   "chapter_reviews": [
@@ -3087,6 +3197,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter read. Statue-mouth exit, true vault, combat clearances and return reset retained; no film-derived pool or bridge. Riddle’s claims remain admissions, with hostile fauna allegations unverified."
+    },
+    {
+      "chapter": 18,
+      "reviewed_ranges": [
+        [
+          1,
+          147
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Recovery, office vertical relations and departure included. No unread paragraphs remain in book 2."
     }
   ]
 }
