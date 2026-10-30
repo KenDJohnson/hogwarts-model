@@ -617,6 +617,1750 @@
       "certainty": "explicit",
       "temporal": "May 1998 return to Hogwarts",
       "model_notes": "Portrait aperture is above the fireplace/mantelpiece; the painted approach depicts the real tunnel’s traveller. Far endpoint and dimensions await the next chapter."
+    },
+    {
+      "id": "B07-043",
+      "location": "Hogsmeade / Hog’s Head Apparition access",
+      "category": "magic",
+      "description": "Aberforth says the Caterwauling Charm covers the entire village. Neville explains that arriving allies will Apparate directly into the Hog’s Head bar.",
+      "evidence": [
+        "B07-C029-P0005",
+        "B07-C029-P0006"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Indoor arrival is offered despite failed outdoor Disapparition in chapter 28. Preserve that distinction; do not infer a universal town-wide ban on every direction or destination of Apparition."
+    },
+    {
+      "id": "B07-044",
+      "location": "Hog’s Head → Room of Requirement tunnel",
+      "category": "route",
+      "description": "Beyond the portrait are smooth stone steps and a worn, smooth earthy floor, with brass wall lamps casting moving shadows. The passage later slopes steeply uphill, turns a corner, and ends at a short flight of steps and a small door like the portrait aperture, opening into the Room of Requirement.",
+      "evidence": [
+        "B07-C029-P0007",
+        "B07-C029-P0010",
+        "B07-C029-P0011",
+        "B07-C029-P0027",
+        "B07-C029-P0032",
+        "B07-C029-P0043",
+        "B07-C029-P0046",
+        "B07-C029-P0050",
+        "B07-C029-P0051",
+        "B07-C029-P0052"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Apparently aged surfaces do not prove age: Neville says the passage appeared recently. No length or compass bearing given."
+    },
+    {
+      "id": "B07-045",
+      "location": "Seven old Hogwarts secret passages",
+      "category": "temporary",
+      "description": "Neville says all the seven old school passages had been sealed before the school year began, with curses over entrances and Death Eaters and Dementors at exits.",
+      "evidence": [
+        "B07-C029-P0011",
+        "B07-C029-P0012"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Dated 1997–98 closures; number seven is Ron’s understanding, accepted in Neville’s reply. Do not confuse this new passage, absent from the Map discussion, with one of the old seven."
+    },
+    {
+      "id": "B07-046",
+      "location": "Castle walls / resistance graffiti",
+      "category": "temporary",
+      "description": "Neville reports Dumbledore’s Army sneaking out at night to put recruitment graffiti on the walls, angering Snape.",
+      "evidence": [
+        "B07-C029-P0039",
+        "B07-C029-P0040"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "No corridor or inscription location identified. Physical wartime wall markings, not a permanent decorative layer."
+    },
+    {
+      "id": "B07-047",
+      "location": "Room of Requirement / resistance refuge interior",
+      "category": "interior",
+      "description": "The enormous refuge resembles a lavish tree house or a ship’s cabin: dark wood panelling on windowless walls, a balcony running around them, and multicoloured hammocks suspended from the ceiling and balcony. Bright tapestries show a gold Gryffindor lion on scarlet, black Hufflepuff badger on yellow and bronze Ravenclaw eagle on blue; Slytherin green and silver are absent.",
+      "evidence": [
+        "B07-C029-P0057",
+        "B07-C029-P0059"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Specific refuge configuration; do not transfer windowlessness, balcony or house banners to every room state."
+    },
+    {
+      "id": "B07-048",
+      "location": "Room of Requirement / refuge furnishings",
+      "category": "furnishing",
+      "description": "Bulging bookcases, broomsticks leaning against the walls, lamps, chairs and a large wooden-cased wireless in a corner furnish the refuge, occupied by more than twenty people.",
+      "evidence": [
+        "B07-C029-P0057",
+        "B07-C029-P0059",
+        "B07-C029-P0068",
+        "B07-C029-P0088",
+        "B07-C029-P0095",
+        "B07-C029-P0097",
+        "B07-C029-P0106",
+        "B07-C029-P0108",
+        "B07-C029-P0109",
+        "B07-C029-P0124"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Multiple tunnel arrivals enlarge the gathering; “more than twenty” describes the initial welcome, not maximum capacity."
+    },
+    {
+      "id": "B07-049",
+      "location": "Room of Requirement / adaptive refuge and bathroom",
+      "category": "magic",
+      "description": "Neville reports the refuge beginning much smaller, with one hammock and only Gryffindor hangings, then enlarging as more DA members arrived. Seamus says it creates additional hammocks as needed and added a bathroom when girls joined the nearly two-week-old refuge.",
+      "evidence": [
+        "B07-C029-P0061",
+        "B07-C029-P0066",
+        "B07-C029-P0067"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Responsive size, occupancy furniture and sanitation, not fixed bathroom dimensions or a stable total hammock count."
+    },
+    {
+      "id": "B07-050",
+      "location": "Room of Requirement / refuge access and food limits",
+      "category": "magic",
+      "description": "Seamus says the refuge remains inaccessible to the Carrows while one defender stays inside, provided the request excludes Carrow supporters and closes loopholes. Neville says that after about a day and a half of hunger the Room created the Hog’s Head passage, through which Aberforth supplies food; the Room itself does not produce food.",
+      "evidence": [
+        "B07-C029-P0062",
+        "B07-C029-P0063",
+        "B07-C029-P0064",
+        "B07-C029-P0065"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Request-specific access rule and workaround for food exception; refuge tunnel has existed about two weeks, despite its worn appearance."
+    },
+    {
+      "id": "B07-051",
+      "location": "Room of Requirement cupboard → changing castle exit",
+      "category": "route",
+      "description": "A small cupboard in a corner opens onto a steep, long torchlit staircase with unexpected bends. Neville says its endpoint changes daily. Harry and Luna climb to apparent solid wall, push it so it melts away, and emerge into a dark fifth-floor corridor; it reseals immediately.",
+      "evidence": [
+        "B07-C029-P0141",
+        "B07-C029-P0142",
+        "B07-C029-P0143",
+        "B07-C029-P0144",
+        "B07-C029-P0146",
+        "B07-C029-P0147",
+        "B07-C029-P0148",
+        "B07-C029-P0149"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Fifth floor is this evening’s exit, not a permanent corridor connection or proof that the refuge occupies a lower fixed floor."
+    },
+    {
+      "id": "B07-052",
+      "location": "Fifth-floor corridor route → Ravenclaw stair",
+      "category": "route",
+      "description": "With Filch a corridor ahead, Harry and Luna traverse moonlit squares, corners and suits of armour whose helmets creak at their footsteps, pausing for two passing ghosts. Luna leads them onto a spiral staircase, which rises in tight dizzying circles to Ravenclaw’s door.",
+      "evidence": [
+        "B07-C029-P0149",
+        "B07-C029-P0151",
+        "B07-C029-P0152",
+        "B07-C029-P0153"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "No count of floors, turns, armour suits or total stairs supplied; the Map gives only the starting fifth floor."
+    },
+    {
+      "id": "B07-053",
+      "location": "Ravenclaw common-room entrance",
+      "category": "magic",
+      "description": "The entrance is aged wood with neither handle nor keyhole, only a bronze eagle knocker. A knock makes its beak speak musically and ask a question. Luna says a wrong answer requires waiting for somebody who answers correctly; her answer about a circle’s lack of beginning opens it.",
+      "evidence": [
+        "B07-C029-P0153",
+        "B07-C029-P0154",
+        "B07-C029-P0155",
+        "B07-C029-P0156",
+        "B07-C029-P0157",
+        "B07-C029-P0158",
+        "B07-C029-P0159",
+        "B07-C029-P0160",
+        "B07-C029-P0161",
+        "B07-C029-P0162"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Reasoning challenge rather than a fixed password; one observed question does not define its entire set of questions."
+    },
+    {
+      "id": "B07-054",
+      "location": "Ravenclaw common room",
+      "category": "interior",
+      "description": "The wide circular room is exceptionally airy, with graceful arched windows between blue-and-bronze silk wall hangings. Surrounding mountains can be seen by day. A domed ceiling painted with stars is echoed by the midnight-blue carpet; tables, chairs and bookcases occupy the room.",
+      "evidence": [
+        "B07-C029-P0163"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Night visit with narrated daytime view potential. No window count, compass orientation or room diameter."
+    },
+    {
+      "id": "B07-055",
+      "location": "Ravenclaw common room / Rowena statue and adjoining door",
+      "category": "furnishing",
+      "description": "Opposite the entrance, a niche contains a tall white-marble statue of Rowena Ravenclaw on a plinth. Beside it is a door Harry guesses leads to dormitories above. The statue has a beautiful, slightly intimidating quizzical half-smile and a delicate marble circlet etched with the motto “Wit beyond measure is man’s greatest treasure.”",
+      "evidence": [
+        "B07-C029-P0136",
+        "B07-C029-P0163",
+        "B07-C029-P0164",
+        "B07-C029-P0165"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Dormitory destination and upward relation are Harry’s guess, distinct from directly observed niche/door placement. Circlet replica supplies the visible diadem shape, not a claim that the actual object is here."
+    },
+    {
+      "id": "B07-056",
+      "location": "Ravenclaw common room / dormitory staircase",
+      "category": "route",
+      "description": "Alecto’s fall rattles glass in bookcases; the ceiling trembles with running feet from sleepers above, who enter through the dormitory door. Students retreat back up the staircase to their beds.",
+      "evidence": [
+        "B07-C030-P0002",
+        "B07-C030-P0004",
+        "B07-C030-P0006",
+        "B07-C030-P0014",
+        "B07-C030-P0022",
+        "B07-C030-P0032"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, preparations for the battle",
+      "model_notes": "Confirms the previous chapter’s guessed dormitories above and stair access. Bookcases have glass fronts."
+    },
+    {
+      "id": "B07-057",
+      "location": "Ravenclaw entrance / reasoning challenge",
+      "category": "magic",
+      "description": "Amycus cannot open the door by shouting, shaking or loud bangs. McGonagall answers the eagle’s question about vanished objects with an explanation of non-being, and the door opens. She says Flitwick previously admitted Alecto at Amycus’s request.",
+      "evidence": [
+        "B07-C030-P0011",
+        "B07-C030-P0012",
+        "B07-C030-P0013",
+        "B07-C030-P0014",
+        "B07-C030-P0016",
+        "B07-C030-P0017",
+        "B07-C030-P0019",
+        "B07-C030-P0020",
+        "B07-C030-P0021"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, preparations for the battle",
+      "model_notes": "Correct reasoning admits a non-Ravenclaw teacher. Prior admission of Alecto is McGonagall’s report; no house-only enchantment is established."
+    },
+    {
+      "id": "B07-058",
+      "location": "Ravenclaw common room / battle damage and restraint",
+      "category": "temporary",
+      "description": "Amycus is thrown into a glass-fronted bookcase, smashing the glass. McGonagall binds the Carrows with silver rope and hoists their netted bodies to hang under the ceiling, here described as blue and gold.",
+      "evidence": [
+        "B07-C030-P0040",
+        "B07-C030-P0053",
+        "B07-C030-P0054",
+        "B07-C030-P0068"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, preparations for the battle",
+      "model_notes": "Dated broken furniture and suspended prisoners. Preserve this blue-and-gold ceiling wording alongside the preceding star-painted dome and bronze wall silks rather than silently standardising colours."
+    },
+    {
+      "id": "B07-059",
+      "location": "School evacuation / magical transport constraints",
+      "category": "magic",
+      "description": "McGonagall says the Floo Network is watched and Apparition impossible within the grounds. Harry proposes evacuating through the Hog’s Head tunnel and Disapparating from that pub while attackers focus on school boundaries.",
+      "evidence": [
+        "B07-C030-P0058",
+        "B07-C030-P0060",
+        "B07-C030-P0062",
+        "B07-C030-P0064",
+        "B07-C030-P0065",
+        "B07-C030-P0066",
+        "B07-C030-P0067"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998, preparations for the battle",
+      "model_notes": "Grounds prohibition and observed town street failure do not preclude the specifically proposed pub transport endpoint. Evacuation concerns hundreds of students."
+    },
+    {
+      "id": "B07-060",
+      "location": "Ravenclaw spiral stair → lower corridor / unnamed classroom",
+      "category": "route",
+      "description": "The group descends the spiral staircase and travels along corridors, then descends two additional floors before meeting Snape concealed behind armour. A wall torch sits in a bracket. Snape flees through a classroom door farther along that corridor and escapes through its window, flying towards the perimeter wall.",
+      "evidence": [
+        "B07-C030-P0069",
+        "B07-C030-P0070",
+        "B07-C030-P0071",
+        "B07-C030-P0073",
+        "B07-C030-P0090",
+        "B07-C030-P0091",
+        "B07-C030-P0092",
+        "B07-C030-P0094",
+        "B07-C030-P0096",
+        "B07-C030-P0097",
+        "B07-C030-P0099",
+        "B07-C030-P0100",
+        "B07-C030-P0103"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, preparations for the battle",
+      "model_notes": "Do not equate “two more floors” with a surveyed tower height. The classroom is unnamed; view establishes line of sight towards the perimeter."
+    },
+    {
+      "id": "B07-061",
+      "location": "Unnamed corridor and classroom / duel damage",
+      "category": "temporary",
+      "description": "The torch is pulled from its wall bracket and transformed into a corridor-filling ring of fire, then serpent, smoke and daggers. Daggers pierce a suit of armour, which is animated, hurled against the wall and shattered. Snape leaves a body-shaped hole in the classroom window.",
+      "evidence": [
+        "B07-C030-P0090",
+        "B07-C030-P0091",
+        "B07-C030-P0094",
+        "B07-C030-P0096",
+        "B07-C030-P0103"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, preparations for the battle",
+      "model_notes": "Dated magical transformations and broken fittings, not permanent materials of corridor structure."
+    },
+    {
+      "id": "B07-062",
+      "location": "Grounds defensive enchantments",
+      "category": "magic",
+      "description": "From the broken classroom window Flitwick directs complex protective incantations into the grounds, producing a rushing sound like wind; Protego horribilis is named. The teachers expect to delay Voldemort rather than exclude him indefinitely.",
+      "evidence": [
+        "B07-C030-P0105",
+        "B07-C030-P0106",
+        "B07-C030-P0107",
+        "B07-C030-P0108",
+        "B07-C030-P0109",
+        "B07-C030-P0111",
+        "B07-C030-P0112",
+        "B07-C030-P0114",
+        "B07-C030-P0120"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, preparations for the battle",
+      "model_notes": "Sprout’s named plants are planned weapons at this point, not observed planted barricades."
+    },
+    {
+      "id": "B07-063",
+      "location": "Castle statues and suits of armour",
+      "category": "temporary",
+      "description": "McGonagall animates statues and armour along the corridor, with echoing crashes indicating the same on floors above and below, and orders them to man the boundaries. They leave their plinths, including figures smaller and larger than life and animals; the armour carries swords and spiked balls on chains.",
+      "evidence": [
+        "B07-C030-P0124",
+        "B07-C030-P0125",
+        "B07-C030-P0131",
+        "B07-C030-P0132",
+        "B07-C030-P0133",
+        "B07-C030-P0134"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, preparations for the battle",
+      "model_notes": "Records original plinth-mounted displays and mobilised battle state. Activation elsewhere is inferred by Harry from sound and is described as such."
+    },
+    {
+      "id": "B07-064",
+      "location": "Room of Requirement / refuge return and bathroom",
+      "category": "route",
+      "description": "Harry and Luna return from the next staircase to the enchanted wall, which opens when Harry leans against it, and descend the steep staircase into a now densely crowded refuge. The open doorway to its bathroom leads directly off the Room; Harry finds it empty.",
+      "evidence": [
+        "B07-C030-P0135",
+        "B07-C030-P0136",
+        "B07-C030-P0140",
+        "B07-C030-P0142",
+        "B07-C030-P0143",
+        "B07-C030-P0148",
+        "B07-C030-P0149",
+        "B07-C030-P0150",
+        "B07-C030-P0162",
+        "B07-C030-P0163",
+        "B07-C030-P0180",
+        "B07-C030-P0182",
+        "B07-C030-P0190",
+        "B07-C030-P0191",
+        "B07-C030-P0192"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, preparations for the battle",
+      "model_notes": "Demonstrates bidirectional return through the same evening’s castle exit and direct bathroom connection. Repeated arrivals use the separate Hog’s Head tunnel."
+    },
+    {
+      "id": "B07-065",
+      "location": "Hogwarts main gates / night view",
+      "category": "exterior",
+      "description": "Harry’s final vision looks through high wrought-iron gates flanked by pillars carrying winged boars, across dark grounds to the castle blazing with lights.",
+      "evidence": [
+        "B07-C030-P0194"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, preparations for the battle",
+      "model_notes": "Gate material, flanking ornaments and castle sightline; change from unlit pre-dawn windows in chapter 24 reflects a different night/state."
+    },
+    {
+      "id": "B07-066",
+      "location": "Great Hall / evacuation assembly",
+      "category": "interior",
+      "description": "The enchanted ceiling is dark with stars above four long house tables and benches. School ghosts shine pearly white among students. McGonagall addresses them from the raised platform at the top of the Hall, with teachers and Order members behind her. Harry walks alongside the Gryffindor table; Slytherins leave on the other side of the Hall.",
+      "evidence": [
+        "B07-C031-P0001",
+        "B07-C031-P0003",
+        "B07-C031-P0010",
+        "B07-C031-P0018",
+        "B07-C031-P0020",
+        "B07-C031-P0022",
+        "B07-C031-P0024",
+        "B07-C031-P0027"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Opposite-side relationship in this scene, not a complete surveyed table order. Platform supports an assembly rather than a newly installed structure."
+    },
+    {
+      "id": "B07-067",
+      "location": "Castle / Hogsmeade / mountain-cave acoustics",
+      "category": "magic",
+      "description": "Voldemort’s disembodied voice seems to issue from the Great Hall walls. Hagrid reports hearing the ultimatum in his mountain cave, and Aberforth says all Hogsmeade heard it.",
+      "evidence": [
+        "B07-C031-P0012",
+        "B07-C031-P0013",
+        "B07-C031-P0014",
+        "B07-C031-P0015",
+        "B07-C031-P0016",
+        "B07-C031-P0116",
+        "B07-C031-P0138"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Observed Hall sound with reported wider reach; not ordinary acoustic proof of physical proximity between cave, pub and castle."
+    },
+    {
+      "id": "B07-068",
+      "location": "Astronomy, Ravenclaw and Gryffindor towers / siege positions",
+      "category": "exterior",
+      "description": "Kingsley names Ravenclaw, Astronomy and Gryffindor as the three highest towers and assigns defenders there for their good overview and spell-casting positions, with other groups covering the grounds and passage entrances.",
+      "evidence": [
+        "B07-C031-P0028",
+        "B07-C031-P0029",
+        "B07-C031-P0030"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Names the three highest without ranking them individually here; previous highest-Astronomy evidence remains separate."
+    },
+    {
+      "id": "B07-069",
+      "location": "Great Hall → Entrance Hall → marble stairs → refuge evacuation route",
+      "category": "route",
+      "description": "Evacuees fill the Entrance Hall beyond the Great Hall and move up the marble staircase towards the Room of Requirement. At the top Harry follows a deserted corridor and sits on an empty statue plinth halfway along a passage, then returns to the stairs and descends to Nick below. Hundreds continue towards the refuge; Aberforth later reports hundreds passing through his pub.",
+      "evidence": [
+        "B07-C031-P0036",
+        "B07-C031-P0041",
+        "B07-C031-P0042",
+        "B07-C031-P0044",
+        "B07-C031-P0136",
+        "B07-C031-P0137",
+        "B07-C031-P0138"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Local sequence and flows, not an exact floor-to-floor survey. Vacant plinth follows the statue mobilisation."
+    },
+    {
+      "id": "B07-070",
+      "location": "Entrance Hall / adjoining corridor and ghosts",
+      "category": "magic",
+      "description": "The Grey Lady crosses a solid wall from the Entrance Hall into a corridor Harry reaches through its door, then glides a few inches above the floor. She is tall, with waist-length hair and a floor-length cloak; she identifies herself as Helena Ravenclaw. She shows the dark wound in her chest and says the Bloody Baron wears chains in penitence.",
+      "evidence": [
+        "B07-C031-P0049",
+        "B07-C031-P0053",
+        "B07-C031-P0054",
+        "B07-C031-P0055",
+        "B07-C031-P0057",
+        "B07-C031-P0060",
+        "B07-C031-P0061",
+        "B07-C031-P0074",
+        "B07-C031-P0077",
+        "B07-C031-P0088",
+        "B07-C031-P0090"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Observed ghost appearance and wall passage; Baron-chain explanation is her report. Her Albanian forest and hollow tree are remote and not Hogwarts vegetation."
+    },
+    {
+      "id": "B07-071",
+      "location": "Castle / hypothesised historical diadem deposition",
+      "category": "history",
+      "description": "Harry deduces that Riddle hid the diadem during his visit to request a teaching job, on the way to or from Dumbledore’s office.",
+      "evidence": [
+        "B07-C031-P0100",
+        "B07-C031-P0102",
+        "B07-C031-P0103",
+        "B07-C031-P0105",
+        "B07-C031-P0107",
+        "B07-C031-P0123",
+        "B07-C031-P0124",
+        "B07-C031-P0125"
+      ],
+      "certainty": "inference",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Reasoning links the hiding room to the remembered job interview, without proving an exact route or time of placement."
+    },
+    {
+      "id": "B07-072",
+      "location": "Forest-side boundary → castle corridor window",
+      "category": "route",
+      "description": "Hagrid reports Grawp carrying him and Fang from their cave, smashing through the boundary by the Forest and putting them through a castle window. Harry sees Hagrid crash through a window to his left into the opposite corridor wall, with Grawp outside. Hagrid’s later footfalls shake the corridor’s floorboards.",
+      "evidence": [
+        "B07-C031-P0108",
+        "B07-C031-P0109",
+        "B07-C031-P0111",
+        "B07-C031-P0112",
+        "B07-C031-P0113",
+        "B07-C031-P0116",
+        "B07-C031-P0118",
+        "B07-C031-P0119",
+        "B07-C031-P0120"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Dated breach and wooden corridor floor; boundary material and height of this window are not given."
+    },
+    {
+      "id": "B07-073",
+      "location": "Staff-room entrance / stone gargoyles",
+      "category": "temporary",
+      "description": "Two stone gargoyles normally guarding the staff-room entrance are smashed by a jinx entering through a broken window. Their fragments still stir and one detached head speaks from the floor.",
+      "evidence": [
+        "B07-C031-P0121"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Establishes paired stone guardians and damaged animated remnants, without identifying floor or side of doorway."
+    },
+    {
+      "id": "B07-074",
+      "location": "Castle walls / Mandrake defence",
+      "category": "temporary",
+      "description": "Sprout, Neville and about half a dozen others carry large potted Mandrakes while wearing earmuffs. Neville says they intend to throw them over the walls.",
+      "evidence": [
+        "B07-C031-P0126",
+        "B07-C031-P0127"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Observed plants and ear protection; deployment over a particular wall is still intended, not seen here."
+    },
+    {
+      "id": "B07-075",
+      "location": "Castle portraits / news network and Sir Cadogan",
+      "category": "magic",
+      "description": "Painted figures in historical dress race alongside Harry through neighbouring canvases, cramming into each other’s pictures and shouting news from elsewhere in the castle. Sir Cadogan, a small armoured knight with a fat pony, accompanies him from frame to frame along one corridor.",
+      "evidence": [
+        "B07-C031-P0128",
+        "B07-C031-P0130",
+        "B07-C031-P0131"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Within-castle portrait movement and information flow. No frame dimensions or permanent hanging order supplied."
+    },
+    {
+      "id": "B07-076",
+      "location": "Castle passages / vase and displaced display statue",
+      "category": "temporary",
+      "description": "A huge vase explodes from its plinth as the castle shakes. In another corridor Fred’s group guards a concealed hole beside an empty plinth whose former statue hid a secret passage; owls crowd a subsequent corridor.",
+      "evidence": [
+        "B07-C031-P0128",
+        "B07-C031-P0129",
+        "B07-C031-P0132",
+        "B07-C031-P0133"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Do not identify this unnamed statue passage with a known named tunnel without cross-book evidence. Owls’ presence does not locate the Owlery."
+    },
+    {
+      "id": "B07-077",
+      "location": "Chamber of Secrets / entry and Basilisk remains",
+      "category": "magic",
+      "description": "Ron and Hermione report visiting the Chamber, tearing great curved dirty-yellow fangs from the dead Basilisk’s skull and using one to destroy the cup. Ron opened the entrance by imitating Harry’s Parseltongue command after several attempts.",
+      "evidence": [
+        "B07-C031-P0142",
+        "B07-C031-P0144",
+        "B07-C031-P0146",
+        "B07-C031-P0148",
+        "B07-C031-P0149",
+        "B07-C031-P0150",
+        "B07-C031-P0151",
+        "B07-C031-P0152",
+        "B07-C031-P0153",
+        "B07-C031-P0156"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "The required sound can be reproduced without natural Parseltongue ability; no new entrance geometry or proof of every remaining skeleton element."
+    },
+    {
+      "id": "B07-078",
+      "location": "Room of Requirement / refuge exit and tunnel closure",
+      "category": "magic",
+      "description": "Harry leads the trio down the concealed staircase into the almost-empty refuge. He knows the Room cannot transform while users remain inside. Augusta says she was the last through the Hog’s Head passage and sealed it after Aberforth left; the last refuge occupants then leave by the stone steps.",
+      "evidence": [
+        "B07-C031-P0159",
+        "B07-C031-P0160",
+        "B07-C031-P0161",
+        "B07-C031-P0164",
+        "B07-C031-P0165",
+        "B07-C031-P0166",
+        "B07-C031-P0168",
+        "B07-C031-P0172",
+        "B07-C031-P0173",
+        "B07-C031-P0174",
+        "B07-C031-P0175",
+        "B07-C031-P0187"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Reported sealing method unspecified. Physical stair exit and later three-pass hiding-room entrance are narrated separately; do not force the variable refuge route into one fixed plan."
+    },
+    {
+      "id": "B07-079",
+      "location": "Hogwarts kitchens / house-elves",
+      "category": "interior",
+      "description": "Ron expects the house-elves to be down in the kitchen during the battle and urges warning them to escape.",
+      "evidence": [
+        "B07-C031-P0176",
+        "B07-C031-P0177",
+        "B07-C031-P0178",
+        "B07-C031-P0179",
+        "B07-C031-P0180"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Expectation of occupied kitchen, not a witnessed headcount or an evacuation that is shown taking place."
+    },
+    {
+      "id": "B07-080",
+      "location": "Corridor windows / castle foot / North Battlements",
+      "category": "temporary",
+      "description": "Back upstairs dust fills shaking corridors. Through one window Harry sees fighting flashes close to the castle’s foot and Grawp carrying what looks like a roof-torn stone gargoyle. At the next window, missing several panes, Ginny casts into fighters below. Aberforth reports enemy giants apparently breaching the North Battlements.",
+      "evidence": [
+        "B07-C031-P0187",
+        "B07-C031-P0188",
+        "B07-C031-P0189",
+        "B07-C031-P0190",
+        "B07-C031-P0191",
+        "B07-C031-P0192",
+        "B07-C031-P0194",
+        "B07-C031-P0196"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "North is explicit for battlements, not necessarily for these windows. Gargoyle origin and breach are qualified observations/reports, not surveyed facts."
+    },
+    {
+      "id": "B07-081",
+      "location": "Room of Requirement / hidden-things entrance and acoustic isolation",
+      "category": "magic",
+      "description": "Harry’s mental request for the place where everything is hidden makes a door appear on the third pass along its wall. Closing it silences the battle; the huge room produces echoes. Hermione’s Summoning Charm fails to bring the diadem.",
+      "evidence": [
+        "B07-C031-P0196",
+        "B07-C031-P0197",
+        "B07-C031-P0198",
+        "B07-C031-P0199",
+        "B07-C031-P0200",
+        "B07-C031-P0202"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "One failed object-summoning attempt does not establish that all charms always fail throughout the Room. Hidden-things state is available after the refuge empties."
+    },
+    {
+      "id": "B07-082",
+      "location": "Room of Hidden Things / scale, contents and landmarks",
+      "category": "interior",
+      "description": "The cathedral-sized space resembles a city with towering walls of hidden objects and aisles between them. Harry passes the stuffed troll and the Vanishing Cabinet Malfoy repaired. Piles contain bottles, hats, crates, chairs, books, weapons, broomsticks and bats; one junk wall of old furniture, broken trunks, books and robes is fifty feet high. A three-legged wardrobe and a tower of desks also provide cover.",
+      "evidence": [
+        "B07-C031-P0198",
+        "B07-C031-P0200",
+        "B07-C031-P0201",
+        "B07-C031-P0203",
+        "B07-C031-P0204",
+        "B07-C031-P0206",
+        "B07-C031-P0212",
+        "B07-C031-P0219",
+        "B07-C031-P0220",
+        "B07-C031-P0221",
+        "B07-C031-P0222",
+        "B07-C031-P0234",
+        "B07-C031-P0237",
+        "B07-C031-P0238",
+        "B07-C031-P0254"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Fifty feet belongs to a particular heap, not the ceiling height. Aisle to Harry’s right contains Ron behind a junk wall; speech becomes inaudible at greater distance."
+    },
+    {
+      "id": "B07-083",
+      "location": "Hidden-things cupboard / bust / diadem marker",
+      "category": "furnishing",
+      "description": "A blistered old cupboard holds Harry’s old Potions book. On top stands a pockmarked stone effigy of an ugly old warlock wearing a dusty wig and an ancient discoloured tiara. Harry recognises this marker from his previous visit, and identifies the tiara as the lost diadem.",
+      "evidence": [
+        "B07-C031-P0122",
+        "B07-C031-P0123",
+        "B07-C031-P0124",
+        "B07-C031-P0142",
+        "B07-C031-P0160",
+        "B07-C031-P0203",
+        "B07-C031-P0206",
+        "B07-C031-P0207",
+        "B07-C031-P0215",
+        "B07-C031-P0229",
+        "B07-C031-P0267"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Same marker group as book 6; discovery establishes the identity that was not then known. Harry is ten feet away when interrupted, not a measurement of cupboard height."
+    },
+    {
+      "id": "B07-084",
+      "location": "Room of Hidden Things / duel destabilisation",
+      "category": "temporary",
+      "description": "Crabbe’s Descendo makes a fifty-foot junk wall crumble into the adjacent aisle; Harry steadies it with Finite. A later curse blasts the stone bust into the air, sending the diadem into the heap below.",
+      "evidence": [
+        "B07-C031-P0219",
+        "B07-C031-P0220",
+        "B07-C031-P0221",
+        "B07-C031-P0222",
+        "B07-C031-P0223",
+        "B07-C031-P0229"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Dated changes before the fire, preserving the marker’s loss rather than leaving it standing afterward."
+    },
+    {
+      "id": "B07-085",
+      "location": "Room of Hidden Things / Fiendfyre destruction",
+      "category": "temporary",
+      "description": "Crabbe’s cursed fire climbs heaps that turn to soot, evaporates Harry’s water jet, pursues the fugitives and forms huge fiery serpents, Chimaeras, dragons and a birdlike raptor. It consumes and throws objects high into dense black smoke and overwhelming heat. Harry and his friends use two stored broomsticks to fly above it, rescuing Malfoy and Goyle from charred desks.",
+      "evidence": [
+        "B07-C031-P0241",
+        "B07-C031-P0242",
+        "B07-C031-P0243",
+        "B07-C031-P0244",
+        "B07-C031-P0246",
+        "B07-C031-P0247",
+        "B07-C031-P0248",
+        "B07-C031-P0250",
+        "B07-C031-P0251",
+        "B07-C031-P0253",
+        "B07-C031-P0254",
+        "B07-C031-P0255",
+        "B07-C031-P0256",
+        "B07-C031-P0257",
+        "B07-C031-P0258",
+        "B07-C031-P0269",
+        "B07-C031-P0271",
+        "B07-C031-P0273"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Hermione identifies it as Fiendfyre. Destruction of much stored material is explicit; complete destruction of every item or every future room configuration is not proved."
+    },
+    {
+      "id": "B07-086",
+      "location": "Room of Requirement / escape aperture and uncertain future usability",
+      "category": "temporary",
+      "description": "Harry sees the doorway as a rectangular patch through smoke and flies through it, colliding with the corridor wall beyond. The door has vanished when the survivors sit outside. Ron questions whether the Room will still work after the fire.",
+      "evidence": [
+        "B07-C031-P0251",
+        "B07-C031-P0256",
+        "B07-C031-P0257",
+        "B07-C031-P0258",
+        "B07-C031-P0259",
+        "B07-C031-P0263",
+        "B07-C031-P0264",
+        "B07-C031-P0265",
+        "B07-C031-P0262"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 immediately after Fiendfyre escape",
+      "model_notes": "Do not turn an unanswered question into a permanent closure claim. The Headless Hunt subsequently gallops through the corridor on ghostly horses, carrying their heads beneath their arms."
+    },
+    {
+      "id": "B07-087",
+      "location": "Ravenclaw diadem / destruction outside hiding room",
+      "category": "temporary",
+      "description": "The recovered old diadem is blackened and hot, its tiny wisdom motto still legible. A dark tarry fluid leaks out before it vibrates and breaks into fragments in Harry’s hands.",
+      "evidence": [
+        "B07-C031-P0267",
+        "B07-C031-P0268",
+        "B07-C031-P0269",
+        "B07-C031-P0271"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Dated destruction of the formerly stored object; its material is not specified in these paragraphs."
+    },
+    {
+      "id": "B07-088",
+      "location": "Corridor outside Room of Requirement / exploded outer wall",
+      "category": "temporary",
+      "description": "Death Eaters enter the castle and duel in the corridor. An explosion throws the group into rubble, blowing away part of the castle’s outer side and admitting cold air. Harry and Hermione stumble over stone and wood beside the blasted wall, where Fred has been killed.",
+      "evidence": [
+        "B07-C031-P0275",
+        "B07-C031-P0276",
+        "B07-C031-P0277",
+        "B07-C031-P0278",
+        "B07-C031-P0279",
+        "B07-C031-P0280",
+        "B07-C031-P0281",
+        "B07-C031-P0282",
+        "B07-C031-P0283",
+        "B07-C031-P0284"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "No named floor or explicit source of this particular explosion. Keep this damage distinct from the Room’s fire."
+    },
+    {
+      "id": "B07-089",
+      "location": "Blasted outer corridor / armour niche",
+      "category": "temporary",
+      "description": "Curses and a falling body pass the large outer-wall breach. Car-sized giant spiders climb the castle side and try to enter through it. Fred is hidden in a niche formerly occupied by armour; farther along, dust and falling masonry fill a corridor whose windows have lost their glass.",
+      "evidence": [
+        "B07-C032-P0002",
+        "B07-C032-P0003",
+        "B07-C032-P0005",
+        "B07-C032-P0006",
+        "B07-C032-P0007",
+        "B07-C032-P0009",
+        "B07-C032-P0010"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Aragog’s descendants are identified in narration. Death Eater penetration of their Forest is Harry’s inference; exact exterior wall orientation remains unknown."
+    },
+    {
+      "id": "B07-090",
+      "location": "Concealed stair / two tapestries / lower corridor",
+      "category": "route",
+      "description": "Behind the tapestry where Hermione restrains Ron is a staircase with concealing tapestries at top and bottom. Glisseo flattens it into a chute and the trio slide through the lower tapestry to the opposite wall. Hermione turns that tapestry to stone with Duro, stopping the pursuing Death Eaters; a nearby door shelters the trio as McGonagall drives animated desks past.",
+      "evidence": [
+        "B07-C032-P0011",
+        "B07-C032-P0012",
+        "B07-C032-P0047",
+        "B07-C032-P0048",
+        "B07-C032-P0049",
+        "B07-C032-P0050",
+        "B07-C032-P0051",
+        "B07-C032-P0052"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Specific temporary slide and stone obstruction, not permanent stair design. No named floor or identified relationship to earlier tapestry shortcuts."
+    },
+    {
+      "id": "B07-091",
+      "location": "Lower corridor → marble staircase / active plant weapons",
+      "category": "route",
+      "description": "After another descending staircase they reach a corridor full of duellers and portraits crowded with advisers. Peeves flies overhead dropping Snargaluff pods, whose green wormlike roots engulf heads and spill slippery juice. The trio run through it to the upper landing of the marble staircase leading into the Entrance Hall.",
+      "evidence": [
+        "B07-C032-P0054",
+        "B07-C032-P0055",
+        "B07-C032-P0057",
+        "B07-C032-P0058",
+        "B07-C032-P0059",
+        "B07-C032-P0060",
+        "B07-C032-P0061",
+        "B07-C032-P0062",
+        "B07-C032-P0064"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Concrete travel sequence and battle surface hazard. Neville carries Venomous Tentacula into the Hall, where it coils around and reels in an enemy."
+    },
+    {
+      "id": "B07-092",
+      "location": "Entrance Hall / hourglass, balcony, marble banisters and doors",
+      "category": "temporary",
+      "description": "As the trio descend the marble stairs, the Slytherin points hourglass shatters on their left and spills emeralds underfoot. Two bodies fall from a balcony overhead. Greyback is thrown into marble banisters; Trelawney attacks from above them with crystal balls, one smashing a window across the Hall. Heavy wooden front doors burst open for giant spiders.",
+      "evidence": [
+        "B07-C032-P0064",
+        "B07-C032-P0065",
+        "B07-C032-P0066",
+        "B07-C032-P0067",
+        "B07-C032-P0068",
+        "B07-C032-P0069",
+        "B07-C032-P0070",
+        "B07-C032-P0073",
+        "B07-C032-P0075"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Slytherin hourglass, not the previously broken Gryffindor one. “Left” is relative to descent, with no compass direction or complete arrangement of house clocks."
+    },
+    {
+      "id": "B07-093",
+      "location": "Castle front steps / giant attack / upper window",
+      "category": "temporary",
+      "description": "Outside the front steps a twenty-foot giant is illuminated at its shins by light from the castle doors; it smashes an upper window and reaches through for people. Harry shelters in the doorway from falling glass. Grawp rounds a castle corner, fights it beside trembling stone steps, and the trio run down into the grounds towards the Forest.",
+      "evidence": [
+        "B07-C032-P0077",
+        "B07-C032-P0079",
+        "B07-C032-P0080",
+        "B07-C032-P0081",
+        "B07-C032-P0083",
+        "B07-C032-P0084"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Visible scale and reach, without assigning a numbered floor to the broken window. Grawp is smaller than this enemy giant."
+    },
+    {
+      "id": "B07-094",
+      "location": "Grounds between castle and Forest / Dementor wave and giant",
+      "category": "temporary",
+      "description": "Halfway towards the Forest the trio meet about a hundred Dementors advancing towards the castle. Their cold freezes breath and muffles battle sounds; Patronuses scatter them and warmth and normal volume return. Another giant emerges from the Forest direction carrying a club taller than the students, forcing them to run towards the Whomping Willow.",
+      "evidence": [
+        "B07-C032-P0084",
+        "B07-C032-P0085",
+        "B07-C032-P0086",
+        "B07-C032-P0090",
+        "B07-C032-P0091",
+        "B07-C032-P0092",
+        "B07-C032-P0096",
+        "B07-C032-P0098",
+        "B07-C032-P0099",
+        "B07-C032-P0100",
+        "B07-C032-P0101"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Approximate encounter midpoint and directional origin, no measured separation between Forest and Willow."
+    },
+    {
+      "id": "B07-095",
+      "location": "Lake / Forbidden Forest during battle",
+      "category": "temporary",
+      "description": "While running to the Willow, Harry hears the lake crashing like the sea and the Forbidden Forest creaking despite a windless night, as though the grounds themselves are in rebellion.",
+      "evidence": [
+        "B07-C032-P0103"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Dated magical or battle disturbance; no ordinary-weather explanation or permanent rough-lake condition implied."
+    },
+    {
+      "id": "B07-096",
+      "location": "Whomping Willow / root entrance and disabling knot",
+      "category": "magic",
+      "description": "Whip-like branches defend the secret at the old Willow’s roots. A single knot in the bark near the roots paralyses the tree when jabbed. Ron levitates a fallen twig through its branches to touch that spot, making it still.",
+      "evidence": [
+        "B07-C032-P0103",
+        "B07-C032-P0104",
+        "B07-C032-P0105",
+        "B07-C032-P0106",
+        "B07-C032-P0107",
+        "B07-C032-P0108",
+        "B07-C032-P0109",
+        "B07-C032-P0114"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Remote physical pressure works; no need for a person or animal to touch the knot directly. Keep knot low near roots, without inventing its exact side."
+    },
+    {
+      "id": "B07-097",
+      "location": "Whomping Willow → Shrieking Shack tunnel",
+      "category": "route",
+      "description": "The earthy passage hidden among the roots has a low ceiling: where they once had to stoop four years earlier, the older trio must now crawl. It runs without any encountered barriers, then slopes upwards towards light. A crate blocks its final opening into the Shack room, leaving a small viewing gap against the wall; Harry levitates it an inch up and sideways to enter.",
+      "evidence": [
+        "B07-C032-P0114",
+        "B07-C032-P0115",
+        "B07-C032-P0116",
+        "B07-C032-P0117",
+        "B07-C032-P0118",
+        "B07-C032-P0119",
+        "B07-C032-P0170",
+        "B07-C032-P0171"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Observed navigability differs from the earlier general claim that old passages were all sealed; preserve rather than silently resolve that discrepancy. No exact length, bearing or numbered Shack floor supplied."
+    },
+    {
+      "id": "B07-098",
+      "location": "Shrieking Shack / occupied room and castle view",
+      "category": "interior",
+      "description": "The desolate room has peeling wallpaper, boarded windows except one, and a solitary oil lamp. Its open window shows distant battle flashes at the castle, whose sounds are muffled. Lucius sits in its darkest corner. At the tunnel end Harry can see the edge of a table with Voldemort beside it; Snape passes within inches of the concealed opening.",
+      "evidence": [
+        "B07-C032-P0022",
+        "B07-C032-P0024",
+        "B07-C032-P0034",
+        "B07-C032-P0037",
+        "B07-C032-P0118",
+        "B07-C032-P0119",
+        "B07-C032-P0123",
+        "B07-C032-P0124",
+        "B07-C032-P0129",
+        "B07-C032-P0134",
+        "B07-C032-P0135"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Room identified by Harry after the vision and then reached physically. Visibility from a tunnel gap is restricted, so do not infer a complete furnishing inventory."
+    },
+    {
+      "id": "B07-099",
+      "location": "Shrieking Shack / Nagini’s protective sphere",
+      "category": "magic",
+      "description": "Nagini floats and coils in a transparent starry sphere, described as between a cage and tank. Voldemort moves it through the air to enclose Snape’s head and shoulders so the snake can attack; Snape cannot push it off. The sphere then lifts free and follows Voldemort out, leaving Snape on the floor.",
+      "evidence": [
+        "B07-C032-P0035",
+        "B07-C032-P0037",
+        "B07-C032-P0119",
+        "B07-C032-P0123",
+        "B07-C032-P0137",
+        "B07-C032-P0154",
+        "B07-C032-P0165",
+        "B07-C032-P0166",
+        "B07-C032-P0167",
+        "B07-C032-P0169"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Temporary movable magical containment, not a built feature of the Shack. Physical force does not remove it in the observed attack; other counters are not tested."
+    },
+    {
+      "id": "B07-100",
+      "location": "Shrieking Shack / castle / Hogsmeade broadcast",
+      "category": "magic",
+      "description": "Voldemort’s voice reverberates from the Shack walls and floor with the intimacy of someone standing beside the listeners. Harry understands it is being heard equally clearly at Hogwarts and throughout the surrounding area, including Hogsmeade.",
+      "evidence": [
+        "B07-C033-P0001",
+        "B07-C033-P0002",
+        "B07-C033-P0003",
+        "B07-C033-P0005",
+        "B07-C033-P0006",
+        "B07-C033-P0007"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, battle ceasefire",
+      "model_notes": "Wide-area magical sound during the one-hour retreat; not an ordinary room-acoustic relationship."
+    },
+    {
+      "id": "B07-101",
+      "location": "Willow tunnel → front lawn → castle steps",
+      "category": "route",
+      "description": "The trio crawl back through the tunnel and hurry towards the castle stone steps. Small bundles litter the front lawn in near-dawn darkness, and an abandoned giant’s clog, like a small boat, lies there; the giants themselves are absent.",
+      "evidence": [
+        "B07-C033-P0011",
+        "B07-C033-P0012",
+        "B07-C033-P0014"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, battle ceasefire",
+      "model_notes": "Bundles are not identified individually. The text jumps from tunnel transit to front lawn without surveying the intervening grounds route."
+    },
+    {
+      "id": "B07-102",
+      "location": "Entrance Hall / ceasefire damage",
+      "category": "temporary",
+      "description": "The deserted, silent Entrance Hall has blood-stained flagstones, scattered emeralds, broken marble and splintered wood. Part of the banisters has been blasted away.",
+      "evidence": [
+        "B07-C033-P0015",
+        "B07-C033-P0016",
+        "B07-C033-P0017"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, battle ceasefire",
+      "model_notes": "Continues chapter 32’s points-clock and stair damage, adding broken banisters and debris materials."
+    },
+    {
+      "id": "B07-103",
+      "location": "Great Hall / casualty and treatment configuration",
+      "category": "temporary",
+      "description": "The house tables have been removed. Survivors gather in groups, the injured are treated by Pomfrey and helpers on the raised platform, and the dead lie in a row through the middle. Remus and Tonks lie beside Fred beneath the dark enchanted ceiling.",
+      "evidence": [
+        "B07-C033-P0018",
+        "B07-C033-P0019",
+        "B07-C033-P0020",
+        "B07-C033-P0021"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, battle ceasefire",
+      "model_notes": "Dated cleared floor and triage platform, distinct from the earlier seated assembly; no disposal or restoration method for tables stated."
+    },
+    {
+      "id": "B07-104",
+      "location": "Great Hall → Headmaster’s office / password",
+      "category": "route",
+      "description": "Harry turns from the Great Hall doorway, runs up the marble staircase and through the empty castle to the stone gargoyle. Saying Dumbledore makes it slide aside and reveal the spiral staircase to the circular office.",
+      "evidence": [
+        "B07-C033-P0021",
+        "B07-C033-P0022",
+        "B07-C033-P0023",
+        "B07-C033-P0024",
+        "B07-C033-P0025",
+        "B07-C033-P0026"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, battle ceasefire",
+      "model_notes": "Password works at this time; not proof of a permanent password or a measured direct stair connection from Entrance Hall to office."
+    },
+    {
+      "id": "B07-105",
+      "location": "Headmaster’s office / portraits, chair and Pensieve",
+      "category": "furnishing",
+      "description": "Portraits hang all around the circular office, now empty; Dumbledore’s deserted frame is directly behind the Headmaster’s chair. The stone Pensieve is kept in its cabinet and is lifted onto the desk. Its wide basin has runic markings around the edge, and the office floor is carpeted.",
+      "evidence": [
+        "B07-C033-P0026",
+        "B07-C033-P0027",
+        "B07-C033-P0358"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, battle ceasefire",
+      "model_notes": "Narration speculates that absent headmasters are watching battle events through castle pictures; absence is directly seen but their exact destinations are not."
+    },
+    {
+      "id": "B07-106",
+      "location": "Hogwarts Express / historical journey furnishing",
+      "category": "route",
+      "description": "At platform nine and three-quarters students load trunks aboard the scarlet steam engine, carrying cats and caged owls. On the countryside journey a corridor serves compartments with sliding doors, facing seats and window-side corner seating.",
+      "evidence": [
+        "B07-C033-P0099",
+        "B07-C033-P0102",
+        "B07-C033-P0117",
+        "B07-C033-P0118",
+        "B07-C033-P0130",
+        "B07-C033-P0131",
+        "B07-C033-P0143",
+        "B07-C033-P0146"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1971 memory",
+      "model_notes": "Historical school transport geometry; London platform is retained only as the school railway’s departure context, not a separate city model."
+    },
+    {
+      "id": "B07-107",
+      "location": "Great Hall / historical Sorting arrangement",
+      "category": "history",
+      "description": "Candlelit house tables and benches face the Sorting area with a rickety stool on which the Hat is placed on each child. Lily joins Gryffindor; Snape moves to the other side of the Hall to sit with Slytherin.",
+      "evidence": [
+        "B07-C033-P0148",
+        "B07-C033-P0149",
+        "B07-C033-P0150",
+        "B07-C033-P0151",
+        "B07-C033-P0152",
+        "B07-C033-P0153"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1971 memory",
+      "model_notes": "Corroborates opposite-side Gryffindor/Slytherin seating decades earlier; no intervening table order or precise stool placement."
+    },
+    {
+      "id": "B07-108",
+      "location": "Castle courtyard / pillar",
+      "category": "exterior",
+      "description": "Lily and Snape cross the castle courtyard while arguing; Lily stops and leans against a pillar.",
+      "evidence": [
+        "B07-C033-P0155",
+        "B07-C033-P0158",
+        "B07-C033-P0175"
+      ],
+      "certainty": "explicit",
+      "temporal": "School years in the mid-1970s, exact year not specified",
+      "model_notes": "An unnamed courtyard contains at least one pillar; no covered walkway, cloister, shape or dimension supplied."
+    },
+    {
+      "id": "B07-109",
+      "location": "Whomping Willow tunnel / historical danger",
+      "category": "history",
+      "description": "Lily reports Snape going down the tunnel by the Whomping Willow and James saving him from what was below; the preceding conversation mentions Lupin’s full-moon absences.",
+      "evidence": [
+        "B07-C033-P0163",
+        "B07-C033-P0164",
+        "B07-C033-P0165",
+        "B07-C033-P0166",
+        "B07-C033-P0169",
+        "B07-C033-P0170"
+      ],
+      "certainty": "reported",
+      "temporal": "Mid-1970s school memory",
+      "model_notes": "Historical use and danger; do not add a new trap, chamber or new geometry not stated in the conversation."
+    },
+    {
+      "id": "B07-110",
+      "location": "Great Hall → grounds beech tree",
+      "category": "route",
+      "description": "After his Defence O.W.L. in the Great Hall, Snape walks away from the castle and inadvertently nears a beech tree under which James, Sirius, Lupin and Pettigrew sit.",
+      "evidence": [
+        "B07-C033-P0177"
+      ],
+      "certainty": "explicit",
+      "temporal": "Fifth-year O.W.L. period, 1976 memory",
+      "model_notes": "Tree species and exam-to-grounds sequence; no lake relationship is stated in this paragraph."
+    },
+    {
+      "id": "B07-111",
+      "location": "Gryffindor Tower entrance / Fat Lady",
+      "category": "history",
+      "description": "At night Lily stands in a corridor before the Fat Lady’s portrait at the Gryffindor Tower entrance, then climbs back through the portrait hole, leaving Snape outside.",
+      "evidence": [
+        "B07-C033-P0179",
+        "B07-C033-P0180",
+        "B07-C033-P0181",
+        "B07-C033-P0182",
+        "B07-C033-P0183",
+        "B07-C033-P0184",
+        "B07-C033-P0185",
+        "B07-C033-P0191",
+        "B07-C033-P0192"
+      ],
+      "certainty": "explicit",
+      "temporal": "1976 memory after the O.W.L. incident",
+      "model_notes": "Shows the same type of portrait entrance in an earlier generation; no newly specified floor or password."
+    },
+    {
+      "id": "B07-112",
+      "location": "Entrance Hall / Yule Ball circulation",
+      "category": "route",
+      "description": "Dumbledore and Snape speak apart in the Entrance Hall as the last Yule Ball guests pass towards bed; Fleur and Roger Davies come in from the grounds and continue past them.",
+      "evidence": [
+        "B07-C033-P0239",
+        "B07-C033-P0240",
+        "B07-C033-P0241",
+        "B07-C033-P0242",
+        "B07-C033-P0243",
+        "B07-C033-P0245"
+      ],
+      "certainty": "explicit",
+      "temporal": "Christmas 1994 memory",
+      "model_notes": "Grounds-to-Hall and onward sleeping-area circulation, without assuming a specifically named exterior door or bedroom destination."
+    },
+    {
+      "id": "B07-113",
+      "location": "Headmaster’s office / desk chairs and objects",
+      "category": "furnishing",
+      "description": "Dumbledore occupies a throne-like chair behind the desk, with a visitor’s chair across from him. The cracked Gaunt ring and Gryffindor sword lie together on the desk. Fawkes is present, audibly gnawing cuttlebone.",
+      "evidence": [
+        "B07-C033-P0217",
+        "B07-C033-P0235",
+        "B07-C033-P0246",
+        "B07-C033-P0248",
+        "B07-C033-P0259",
+        "B07-C033-P0260",
+        "B07-C033-P0263",
+        "B07-C033-P0276"
+      ],
+      "certainty": "explicit",
+      "temporal": "Memories spanning 1981, 1991 and summer 1996; detailed desk scene summer 1996",
+      "model_notes": "Earlier office scenes corroborate seating but the throne-like shape, opposite guest chair and ring/sword layout belong to the 1996 treatment scene, not every year."
+    },
+    {
+      "id": "B07-114",
+      "location": "Headmaster’s office / window and Patronus",
+      "category": "magic",
+      "description": "In a later night office conversation, with dark windows and Fawkes sitting silently, Snape’s silver doe lands on the floor, bounds across the office and soars out of the window as Dumbledore watches.",
+      "evidence": [
+        "B07-C033-P0309",
+        "B07-C033-P0310",
+        "B07-C033-P0331",
+        "B07-C033-P0332"
+      ],
+      "certainty": "explicit",
+      "temporal": "1996–97 memory",
+      "model_notes": "A visible outward window route for a Patronus, not proof a solid body could pass without opening the window. No compass direction given."
+    },
+    {
+      "id": "B07-115",
+      "location": "Headmaster’s office / portrait communication under Snape",
+      "category": "magic",
+      "description": "Snape consults Dumbledore’s portrait behind his desk. Phineas returns into his school frame with a location heard when Hermione opened her handbag, and Dumbledore’s portrait speaks from behind the Headmaster’s chair.",
+      "evidence": [
+        "B07-C033-P0335",
+        "B07-C033-P0336",
+        "B07-C033-P0348",
+        "B07-C033-P0349",
+        "B07-C033-P0350",
+        "B07-C033-P0351",
+        "B07-C033-P0352"
+      ],
+      "certainty": "explicit",
+      "temporal": "1997 and Christmas 1997 memories",
+      "model_notes": "Confirms functioning Dumbledore portrait and Phineas’s listening through the portable frame; it was the open bag that exposed the location."
+    },
+    {
+      "id": "B07-116",
+      "location": "Headmaster’s office / hidden cavity behind Dumbledore’s portrait",
+      "category": "furnishing",
+      "description": "Snape pulls the side of Dumbledore’s portrait so it swings forwards, exposing a hidden cavity behind it from which he takes the real sword of Gryffindor before leaving through the office door.",
+      "evidence": [
+        "B07-C033-P0352",
+        "B07-C033-P0353",
+        "B07-C033-P0354",
+        "B07-C033-P0355",
+        "B07-C033-P0356",
+        "B07-C033-P0357",
+        "B07-C033-P0358"
+      ],
+      "certainty": "explicit",
+      "temporal": "Christmas 1997 memory",
+      "model_notes": "Physical concealed sword store behind a movable portrait, directly observed through memory. Its construction date and dimensions are unspecified; this resolves the real sword’s storage before delivery, not the timing of the display-case substitution."
+    },
+    {
+      "id": "B07-117",
+      "location": "Headmaster’s office → Entrance Hall → front grounds",
+      "category": "route",
+      "description": "Harry leaves the dusty carpeted office with portraits still absent, descends through the floors to the marble staircase, crosses the Entrance Hall and exits by the front doors and steps. Neville and Wood bring a body in from the grounds to the Great Hall; the grounds nearby hold other dead and wounded.",
+      "evidence": [
+        "B07-C034-P0001",
+        "B07-C034-P0004",
+        "B07-C034-P0011",
+        "B07-C034-P0012",
+        "B07-C034-P0013",
+        "B07-C034-P0014",
+        "B07-C034-P0015",
+        "B07-C034-P0016",
+        "B07-C034-P0017",
+        "B07-C034-P0018",
+        "B07-C034-P0019",
+        "B07-C034-P0038",
+        "B07-C034-P0039",
+        "B07-C034-P0040",
+        "B07-C034-P0041",
+        "B07-C034-P0046"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, near four in the morning during the ceasefire",
+      "model_notes": "Narrated uninterrupted route but no turn or floor count. Near-four-o’clock timing is explicit."
+    },
+    {
+      "id": "B07-118",
+      "location": "Front grounds → Hagrid’s hut → Forbidden Forest edge",
+      "category": "route",
+      "description": "Continuing away from the castle, Harry passes Hagrid’s hut, dark and silent, then reaches the Forest edge. The hut recalls a copper kettle shining on the fire, rock cakes and giant grubs from earlier visits.",
+      "evidence": [
+        "B07-C034-P0039",
+        "B07-C034-P0046",
+        "B07-C034-P0047",
+        "B07-C034-P0048",
+        "B07-C034-P0049"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, near four in the morning during the ceasefire",
+      "model_notes": "Confirms the hut is standing during this battle after book 6’s fire, without supplying the rebuilding history or exact distance from castle/Forest."
+    },
+    {
+      "id": "B07-119",
+      "location": "Forbidden Forest outer edge / Dementors and terrain",
+      "category": "grounds",
+      "description": "Earthy, twig-strewn ground marks the outer Forest edge. Dementors glide among the trees, bringing chill. A cold breeze seems to issue from deeper in the Forest.",
+      "evidence": [
+        "B07-C034-P0048",
+        "B07-C034-P0049",
+        "B07-C034-P0058",
+        "B07-C034-P0075"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, near four in the morning during the ceasefire",
+      "model_notes": "Local terrain and dated enemy presence; breeze attribution is qualified by the narration."
+    },
+    {
+      "id": "B07-120",
+      "location": "Forbidden Forest / dense interior route",
+      "category": "grounds",
+      "description": "Harry proceeds deeper through old trees growing close together, with tangled branches and gnarled twisted roots underfoot. He stumbles and slips; a pair of patrolling Death Eaters emerge from behind a nearby tree, then lead him farther in.",
+      "evidence": [
+        "B07-C034-P0082",
+        "B07-C034-P0083",
+        "B07-C034-P0084",
+        "B07-C034-P0085",
+        "B07-C034-P0086",
+        "B07-C034-P0087",
+        "B07-C034-P0088",
+        "B07-C034-P0089",
+        "B07-C034-P0090",
+        "B07-C034-P0091",
+        "B07-C034-P0092",
+        "B07-C034-P0093"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, near four in the morning during the ceasefire",
+      "model_notes": "Natural obstacles and dense woodland, without a named established path or a compass bearing. Dolohov’s statement about Hagrid keeping creatures there is a character report."
+    },
+    {
+      "id": "B07-121",
+      "location": "Forbidden Forest / Resurrection Stone effects and loss",
+      "category": "magic",
+      "description": "At the Forest edge Harry turns the Stone three times and sees his dead parents, Sirius and Lupin, more substantial than ghosts but less than living bodies. They are invisible to others and shield him emotionally from Dementors like Patronuses. On entering the clearing’s firelight he drops the Stone and they vanish.",
+      "evidence": [
+        "B07-C034-P0054",
+        "B07-C034-P0055",
+        "B07-C034-P0057",
+        "B07-C034-P0058",
+        "B07-C034-P0059",
+        "B07-C034-P0076",
+        "B07-C034-P0077",
+        "B07-C034-P0078",
+        "B07-C034-P0079",
+        "B07-C034-P0082",
+        "B07-C034-P0086",
+        "B07-C034-P0107"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, near four in the morning during the ceasefire",
+      "model_notes": "Dated supernatural companions and lost object at the approach to the clearing; no exact drop coordinates or persistent visible figures afterward."
+    },
+    {
+      "id": "B07-122",
+      "location": "Aragog’s former clearing / Death Eater camp",
+      "category": "temporary",
+      "description": "After only minutes following the patrol deeper in, Harry reaches the clearing where Aragog lived. Remnants of his vast web remain, but the descendants have been driven out to fight. A fire burns in the centre, surrounded by silent Death Eaters; two giants sit at the group’s outskirts, casting huge shadows.",
+      "evidence": [
+        "B07-C034-P0093",
+        "B07-C034-P0094",
+        "B07-C034-P0095"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, near four in the morning during the ceasefire",
+      "model_notes": "Relative few-minute final segment, not total castle-to-clearing travel time. Dated occupation and reduced spider presence."
+    },
+    {
+      "id": "B07-123",
+      "location": "Forest clearing / Voldemort, fire, protective sphere and prisoner tree",
+      "category": "temporary",
+      "description": "Voldemort stands beyond the fire with Nagini’s glittering sphere floating behind his head. Bellatrix sits closest to him. Harry enters the firelight and faces him across only the fire; Hagrid is bound to a nearby tree, his struggles shaking its branches.",
+      "evidence": [
+        "B07-C034-P0095",
+        "B07-C034-P0096",
+        "B07-C034-P0097",
+        "B07-C034-P0101",
+        "B07-C034-P0103",
+        "B07-C034-P0104",
+        "B07-C034-P0107",
+        "B07-C034-P0108",
+        "B07-C034-P0111",
+        "B07-C034-P0113",
+        "B07-C034-P0114",
+        "B07-C034-P0115",
+        "B07-C034-P0117",
+        "B07-C034-P0118",
+        "B07-C034-P0119"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, near four in the morning during the ceasefire",
+      "model_notes": "Local staging for this confrontation, no fixed camp architecture. Tree species, direction and precise separation are unstated."
+    },
+    {
+      "id": "B07-124",
+      "location": "Forest clearing → thinning trees → outer edge",
+      "category": "route",
+      "description": "Harry lies on cold hard ground in the clearing, then Hagrid carries him through close-growing trees whose branches catch his hair and robes. The two following giants knock trees over, disturbing shrieking birds. The trees gradually thin towards open ground; centaurs watch before the party reaches the fresh air of the edge, where Dementors patrol the outer trees.",
+      "evidence": [
+        "B07-C036-P0001",
+        "B07-C036-P0008",
+        "B07-C036-P0012",
+        "B07-C036-P0021",
+        "B07-C036-P0024",
+        "B07-C036-P0025",
+        "B07-C036-P0028",
+        "B07-C036-P0029",
+        "B07-C036-P0030",
+        "B07-C036-P0031",
+        "B07-C036-P0032",
+        "B07-C036-P0033",
+        "B07-C036-P0034",
+        "B07-C036-P0035"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Return-route vegetation gradient and dated tree destruction; Hagrid’s words establish watching centaurs without a witnessed number."
+    },
+    {
+      "id": "B07-125",
+      "location": "Forest edge → castle front lawn and steps",
+      "category": "route",
+      "description": "Voldemort magnifies his voice through the grounds from the Forest edge, then leads the procession towards the castle. The Death Eaters form a line facing its open front doors, lit red by light from the Entrance Hall; defenders fill the doorway and front steps. Harry is lowered onto grass at Voldemort’s feet between the opposing groups.",
+      "evidence": [
+        "B07-C036-P0033",
+        "B07-C036-P0034",
+        "B07-C036-P0035",
+        "B07-C036-P0036",
+        "B07-C036-P0037",
+        "B07-C036-P0038",
+        "B07-C036-P0039",
+        "B07-C036-P0040",
+        "B07-C036-P0042",
+        "B07-C036-P0043",
+        "B07-C036-P0044",
+        "B07-C036-P0046",
+        "B07-C036-P0051",
+        "B07-C036-P0052",
+        "B07-C036-P0053",
+        "B07-C036-P0056",
+        "B07-C036-P0060"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Front lawn, lit Hall sightline and open staging, without measured distances. Nagini has been released from her protective sphere and rides Voldemort’s shoulders."
+    },
+    {
+      "id": "B07-126",
+      "location": "Castle window / Sorting Hat during confrontation",
+      "category": "temporary",
+      "description": "Voldemort summons the ragged, empty, mildewed Sorting Hat from a shattered castle window, places it on Neville and ignites it. Neville breaks free of his binding curse and draws a silver sword with a glittering rubied handle from the flaming Hat, then beheads Nagini.",
+      "evidence": [
+        "B07-C036-P0065",
+        "B07-C036-P0066",
+        "B07-C036-P0067",
+        "B07-C036-P0068",
+        "B07-C036-P0069",
+        "B07-C036-P0071",
+        "B07-C036-P0072",
+        "B07-C036-P0073"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Air route of a summoned object, not proof of office window location. Announced abolition of houses is Voldemort’s intention, not an observed redecoration."
+    },
+    {
+      "id": "B07-127",
+      "location": "School boundary / grounds counterattack",
+      "category": "temporary",
+      "description": "Uproar comes from the distant, out-of-sight boundary walls as what sounds like hundreds climb over and run towards the castle. Grawp rounds the castle side; enemy giants rush him while charging centaurs fire arrows. Thestrals and Buckbeak attack the giants’ eyes from the air, and the fighters are driven back into the castle.",
+      "evidence": [
+        "B07-C036-P0071",
+        "B07-C036-P0073",
+        "B07-C036-P0074",
+        "B07-C036-P0075",
+        "B07-C036-P0076",
+        "B07-C036-P0078"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Wall crossing is initially heard and interpreted rather than seen. Later arrivals appear to include Hogsmeade residents and fighters’ families under Charlie and Slughorn; no particular gate used is stated."
+    },
+    {
+      "id": "B07-128",
+      "location": "Front steps → Entrance Hall → Great Hall / kitchen route",
+      "category": "route",
+      "description": "The crowd enters through the front doors and Harry is swept into the Entrance Hall, where Voldemort backs across into the Great Hall. Further reinforcements climb the front steps, centaurs enter, and the door leading to the kitchens is blasted off its hinges as armed house-elves swarm into the Entrance Hall.",
+      "evidence": [
+        "B07-C036-P0076",
+        "B07-C036-P0077",
+        "B07-C036-P0078",
+        "B07-C036-P0079",
+        "B07-C036-P0080",
+        "B07-C036-P0081",
+        "B07-C036-P0082"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Kitchen-route door connects with the Entrance Hall circulation, but does not establish that the kitchen room itself directly adjoins it without intervening stairs/passages."
+    },
+    {
+      "id": "B07-129",
+      "location": "Great Hall / final duels and floor damage",
+      "category": "temporary",
+      "description": "Crowds fill the Great Hall and hundreds line its walls around the last two fights. Voldemort and Bellatrix duel about fifty yards apart. Hagrid throws Macnair against a stone wall. Molly and Bellatrix’s spells heat and crack the floor around their feet.",
+      "evidence": [
+        "B07-C036-P0081",
+        "B07-C036-P0082",
+        "B07-C036-P0083",
+        "B07-C036-P0084",
+        "B07-C036-P0085",
+        "B07-C036-P0086",
+        "B07-C036-P0088",
+        "B07-C036-P0089",
+        "B07-C036-P0091",
+        "B07-C036-P0095",
+        "B07-C036-P0096",
+        "B07-C036-P0097",
+        "B07-C036-P0098",
+        "B07-C036-P0099"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Fifty-yard distance is between duellists in this scene, establishing a substantial room span but not its exact length or width."
+    },
+    {
+      "id": "B07-130",
+      "location": "Great Hall / dawn window and enchanted ceiling",
+      "category": "interior",
+      "description": "A red-gold glow crosses the enchanted ceiling as dazzling sunlight appears over the nearest window sill, striking Harry’s and Voldemort’s faces simultaneously. The Elder Wand spins across that sky-like ceiling against the sunrise; the rising sun then dazzles the windows and fills the Hall with light.",
+      "evidence": [
+        "B07-C036-P0152",
+        "B07-C036-P0155",
+        "B07-C036-P0156",
+        "B07-C036-P0157"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Useful sunrise sightline; no explicit compass orientation or identification of which wall carries this window."
+    },
+    {
+      "id": "B07-131",
+      "location": "Great Hall / house tables restored and adjacent chamber",
+      "category": "temporary",
+      "description": "Voldemort’s body is placed in a chamber off the Hall, apart from the fallen defenders. McGonagall restores the house tables and benches, though people sit mingled across houses and species. Firenze recovers in a corner. Grawp peers through a smashed window while people throw him food, and aisles remain between tables.",
+      "evidence": [
+        "B07-C036-P0158",
+        "B07-C036-P0162",
+        "B07-C036-P0163",
+        "B07-C036-P0164",
+        "B07-C036-P0165"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Post-battle communal configuration and an unnamed adjoining chamber; broken window permits Grawp’s face and food exchange without fixing his stance or window height."
+    },
+    {
+      "id": "B07-132",
+      "location": "Great Hall → damaged marble stairs → office approach",
+      "category": "temporary",
+      "description": "The trio leave the Hall and climb marble stairs missing large chunks and part of the balustrade, with rubble and bloodstains every few steps. They continue through a doorway and along the castle route to the office, hearing Peeves’s victory song in distant corridors.",
+      "evidence": [
+        "B07-C036-P0165",
+        "B07-C036-P0166",
+        "B07-C036-P0169",
+        "B07-C036-P0170",
+        "B07-C036-P0171"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Damage remains after table restoration. No wholesale castle repair is narrated."
+    },
+    {
+      "id": "B07-133",
+      "location": "Headmaster’s office / displaced gargoyle and moving staircase",
+      "category": "temporary",
+      "description": "The guarding gargoyle has been knocked aside and stands lopsided. It grants access conversationally; the trio climb over it onto the spiral stone staircase, which moves slowly upward like an escalator, then pass through the door at the top.",
+      "evidence": [
+        "B07-C036-P0171",
+        "B07-C036-P0172",
+        "B07-C036-P0173",
+        "B07-C036-P0174"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Current access bypasses the normal password request. Harry’s doubt whether it can distinguish passwords is speculation, not a diagnosed permanent loss."
+    },
+    {
+      "id": "B07-134",
+      "location": "Headmaster’s office / returned portraits and desk",
+      "category": "furnishing",
+      "description": "The Pensieve still stands on the desk where Harry left it. The returned heads’ portraits surround the walls, their subjects standing on painted chairs and reaching between frames to shake hands. Dilys Derwent weeps, Dexter Fortescue waves an ear-trumpet and Phineas calls out; Dumbledore occupies the largest portrait directly behind the Headmaster’s chair.",
+      "evidence": [
+        "B07-C036-P0175",
+        "B07-C036-P0176",
+        "B07-C036-P0177",
+        "B07-C036-P0178",
+        "B07-C036-P0190",
+        "B07-C036-P0191"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Returned subjects and comparative frame size, with desk still usable. The portraits’ chairs are painted contents, not real chairs along the office walls."
+    },
+    {
+      "id": "B07-135",
+      "location": "Forbidden Forest / lost Stone and proposed tomb return",
+      "category": "history",
+      "description": "Harry tells Dumbledore’s portrait that he dropped the Stone in the Forest and does not know exactly where. He intends to leave it unsearched, and to put the Elder Wand back where it came from.",
+      "evidence": [
+        "B07-C036-P0179",
+        "B07-C036-P0180",
+        "B07-C036-P0181",
+        "B07-C036-P0185",
+        "B07-C036-P0186",
+        "B07-C036-P0192",
+        "B07-C036-P0193",
+        "B07-C036-P0194",
+        "B07-C036-P0195"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998, post-battle plans",
+      "model_notes": "Location discussion after the battle does not depict a completed return of the wand or a repaired tomb. Earlier chapters identify the wand’s source as Dumbledore’s tomb."
+    },
+    {
+      "id": "B07-136",
+      "location": "Gryffindor Tower / four-poster bed",
+      "category": "furnishing",
+      "description": "As he leaves the office conversation, Harry thinks of the four-poster bed awaiting him in Gryffindor Tower and of asking Kreacher to bring a sandwich there.",
+      "evidence": [
+        "B07-C036-P0196"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, post-battle",
+      "model_notes": "Expected sleeping furniture and tower destination, not a narrated post-battle visit or a confirmed food delivery."
+    },
+    {
+      "id": "B07-137",
+      "location": "Hogwarts Express / London departure connection",
+      "category": "route",
+      "description": "Families pass through the barrier between platforms nine and ten without collision to reach platform nine and three-quarters, clouded by thick white steam from the scarlet Hogwarts Express. Carriages have doors and opening windows, with a corridor along which James runs; the train leaves near eleven and rounds a corner out of sight.",
+      "evidence": [
+        "B07-C037-P0001",
+        "B07-C037-P0004",
+        "B07-C037-P0008",
+        "B07-C037-P0014",
+        "B07-C037-P0015",
+        "B07-C037-P0017",
+        "B07-C037-P0019",
+        "B07-C037-P0024",
+        "B07-C037-P0047",
+        "B07-C037-P0056",
+        "B07-C037-P0069",
+        "B07-C037-P0072",
+        "B07-C037-P0073"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 2017 epilogue",
+      "model_notes": "School railway departure endpoint only; the fifty-yard separation of families on the platform is not a Hogwarts grounds measurement. No Hogsmeade station arrival is depicted in the epilogue."
+    },
+    {
+      "id": "B07-138",
+      "location": "School arrival boats / Thestral carriages",
+      "category": "route",
+      "description": "Harry tells first-year Albus he will go up to school in the boats rather than the carriages. James warns him about Thestrals, which Albus says James described as invisible; Harry calls them gentle.",
+      "evidence": [
+        "B07-C037-P0054",
+        "B07-C037-P0055",
+        "B07-C037-P0057"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 2017 epilogue",
+      "model_notes": "Confirms the two arrival modes remain in use nineteen years after the battle. No launch site, lake course, carriage road or universal visibility rule is supplied here."
+    },
+    {
+      "id": "B07-139",
+      "location": "Unnamed Hogwarts detention site",
+      "category": "temporary",
+      "description": "Neville reports that Michael Corner was caught releasing a first-year whom the Carrows had chained up, and was then tortured for doing so.",
+      "evidence": [
+        "B07-C029-P0042",
+        "B07-C029-P0044"
+      ],
+      "certainty": "reported",
+      "temporal": "1997–98 school year, before Neville’s refuge in late April 1998",
+      "model_notes": "Physical restraint in the school’s punishment regime; no room, chain anchorage or prisoner position is identified. Do not invent a dedicated dungeon cell."
     }
   ],
   "chapter_reviews": [
@@ -927,6 +2671,105 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs in two complete chunks, including Aberforth’s entire family narrative. Recorded town approach, curfew/alarm, failed Apparition, Dementors, Hog’s Head access rooms, mountain escape option and portrait tunnel; family home history adds no Hogwarts geometry."
+    },
+    {
+      "chapter": 29,
+      "reviewed_ranges": [
+        [
+          1,
+          167
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in two complete chunks. Recorded all described tunnel surfaces and route, sealed passage reports, graffiti, refuge configurations/access/food/bathroom, changing fifth-floor exit, corridor route and Ravenclaw entry/interior/statue. Distinguished guessed dormitory connection from observation."
+    },
+    {
+      "chapter": 30,
+      "reviewed_ranges": [
+        [
+          1,
+          194
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in two complete chunks. Recorded confirmed dormitories above Ravenclaw, entry challenge, damaged bookcase, suspended Carrows, evacuation constraints, stair/corridor/classroom route, duel damage, protections, animated armour/statues, refuge bathroom and gate view. Remote Horcrux cave visions excluded."
+    },
+    {
+      "chapter": 31,
+      "reviewed_ranges": [
+        [
+          1,
+          284
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three complete chunks. Recorded assembly/evacuation, tower strategy, ghost/corridor constraints, forest breach, staff-room guardians, wall defences, portrait travel, hidden statue passage, Chamber visit, refuge closure/transform rules, North Battlements, hiding-room scale/contents/markers, Fiendfyre and separate outer-wall explosion. Albanian tree and remote cave/lake excluded."
+    },
+    {
+      "chapter": 32,
+      "reviewed_ranges": [
+        [
+          1,
+          178
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in two complete chunks. Recorded breach/spiders, armour niche, tapestry stair/slide, route to Hall, plant attacks, shattered points clock/balcony/banisters/doors, giant and Dementor grounds encounters, windless lake/forest sounds, Willow mechanism, crawl tunnel, Shack room/window/table/crate and protective sphere. Flagged open Willow tunnel against earlier blanket closure report."
+    },
+    {
+      "chapter": 33,
+      "reviewed_ranges": [
+        [
+          1,
+          358
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in four complete chunks, including every childhood, school and adult memory. Recorded ceasefire/broadcast, return route and damage, Great Hall triage, office access/fixtures, historical train/Sorting/courtyard/Willow/beech/portrait/ball routes, office desk/window scenes and hidden sword cavity. Childhood playground, riverside and unspecified adult hilltop are not identified as Hogwarts grounds and excluded."
+    },
+    {
+      "chapter": 34,
+      "reviewed_ranges": [
+        [
+          1,
+          119
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in two complete chunks. Recorded office-to-grounds route, extant dark hut and remembered kettle, Forest-edge/interior terrain and Dementors, Stone effects/drop, Aragog clearing web remains and detailed confrontation layout."
+    },
+    {
+      "chapter": 35,
+      "reviewed_ranges": [
+        [
+          1,
+          175
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. The bright mist, glass-roofed hall, seats and railings belong to Harry’s liminal King’s Cross experience, not Hogwarts. His initial Room of Requirement question is explicitly tentative; the hall being larger than the Great Hall supplies no usable school geometry. Dialogue adds no new physical school description."
+    },
+    {
+      "chapter": 36,
+      "reviewed_ranges": [
+        [
+          1,
+          196
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three complete chunks. Recorded Forest return/tree damage, outer-tree Dementors, lawn/steps confrontation, Hat/window/sword, wall-crossing reinforcements and aerial creatures, kitchen-route door, Hall duels/size/floor/sunrise, tables restored and adjoining chamber, stair/gargoyle damage, moving office stair, returning portraits and intended object dispositions. No unobserved tomb repair or whole-castle restoration inferred."
+    },
+    {
+      "chapter": 37,
+      "reviewed_ranges": [
+        [
+          1,
+          77
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph of the Nineteen Years Later epilogue. Recorded school railway departure connection and reported first-year boats versus carriages/Thestrals. School operation/house/teacher names without additional physical detail are not separate spatial entries."
     }
   ]
 }
