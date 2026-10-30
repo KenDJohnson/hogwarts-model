@@ -592,6 +592,699 @@
       "certainty": "explicit",
       "temporal": "September 1993",
       "model_notes": "Temporary shape-shifter, not real staff-room banshee, giant spider or mummy residency. The silvery orb’s identity is not established by Lavender’s guess."
+    },
+    {
+      "id": "B03-031",
+      "location": "Creature lessons — Flobberworm state",
+      "category": "temporary",
+      "description": "Hagrid’s lessons switch to Flobberworms fed shredded lettuce after the hippogriff incident.",
+      "evidence": [
+        "B03-C008-P0006",
+        "B03-C008-P0007"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1993",
+      "model_notes": "No enclosure or precise lesson location stated; generic Red Cap/Kappa habitats in the syllabus are not proof of Hogwarts populations."
+    },
+    {
+      "id": "B03-032",
+      "location": "Quidditch pitch — hoop height and edge changing rooms",
+      "category": "grounds",
+      "description": "The goals include fifty-foot-high hoops at each end; the team meets in chilly changing rooms at the edge of the darkening pitch. Autumn training continues through mud, wind and rain.",
+      "evidence": [
+        "B03-C008-P0009",
+        "B03-C008-P0010",
+        "B03-C008-P0011",
+        "B03-C008-P0025"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1993",
+      "model_notes": "Reaffirms height and places changing facilities at pitch edge, without a stand plan."
+    },
+    {
+      "id": "B03-033",
+      "location": "Gryffindor common room — noticeboard and chest of drawers",
+      "category": "furnishing",
+      "description": "A battered noticeboard announces the Hogsmeade weekend. Fire-side chairs are preferred study seats; an old chest of drawers across the room has a low gap where Scabbers hides after crossing tables and pupils’ legs.",
+      "evidence": [
+        "B03-C008-P0026",
+        "B03-C008-P0027",
+        "B03-C008-P0028",
+        "B03-C008-P0030",
+        "B03-C008-P0040",
+        "B03-C008-P0041",
+        "B03-C008-P0044",
+        "B03-C008-P0046",
+        "B03-C008-P0047",
+        "B03-C008-P0048",
+        "B03-C008-P0049",
+        "B03-C008-P0055"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1993",
+      "model_notes": "Adds storage furniture distinct from bedroom cabinets; no numeric chest clearance."
+    },
+    {
+      "id": "B03-034",
+      "location": "Greenhouse — Puffapod handling",
+      "category": "magic",
+      "description": "Pupils strip fat pink pods from Puffapods into a wooden pail; fallen shining beans immediately burst into bloom on the greenhouse floor.",
+      "evidence": [
+        "B03-C008-P0057",
+        "B03-C008-P0058",
+        "B03-C008-P0059",
+        "B03-C008-P0060"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1993",
+      "model_notes": "Observed plant response and lesson equipment; greenhouse number unspecified."
+    },
+    {
+      "id": "B03-035",
+      "location": "Hogsmeade permission — enforced check",
+      "category": "temporary",
+      "description": "McGonagall requires signed parent/guardian forms and refuses Harry an exception. On Hallowe’en Filch stands inside the front doors checking faces and names against a long list before allowing departures.",
+      "evidence": [
+        "B03-C008-P0081",
+        "B03-C008-P0084",
+        "B03-C008-P0091",
+        "B03-C008-P0093",
+        "B03-C008-P0095",
+        "B03-C008-P0096",
+        "B03-C008-P0097",
+        "B03-C008-P0102",
+        "B03-C008-P0105",
+        "B03-C008-P0109",
+        "B03-C008-P0110",
+        "B03-C008-P0111"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1993 first village visit",
+      "model_notes": "Observed administrative gatekeeping, separate from Dementor capability."
+    },
+    {
+      "id": "B03-036",
+      "location": "Corridor towards Owlery — Lupin’s office",
+      "category": "route",
+      "description": "After abandoning his library walk Harry climbs a staircase, vaguely considering the Owlery, and reaches a corridor with Lupin’s office. Lupin calls through its doorway.",
+      "evidence": [
+        "B03-C008-P0119",
+        "B03-C008-P0121",
+        "B03-C008-P0126",
+        "B03-C008-P0127",
+        "B03-C008-P0128",
+        "B03-C008-P0129",
+        "B03-C008-P0131",
+        "B03-C008-P0133"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1993",
+      "model_notes": "Places the office on this upward wandering route; does not prove it shares a corridor with the Owlery."
+    },
+    {
+      "id": "B03-037",
+      "location": "Lupin’s office — tank and tea furnishings",
+      "category": "interior",
+      "description": "A very large water tank stands in a corner, holding a horned green Grindylow and tangled waterweed. The office has a desk, visitor seating, kettle, dusty tea tin and chipped mug; Snape places a smoking potion goblet on the desk.",
+      "evidence": [
+        "B03-C008-P0133",
+        "B03-C008-P0134",
+        "B03-C008-P0135",
+        "B03-C008-P0136",
+        "B03-C008-P0138",
+        "B03-C008-P0139",
+        "B03-C008-P0142",
+        "B03-C008-P0146",
+        "B03-C008-P0161",
+        "B03-C008-P0162",
+        "B03-C008-P0163",
+        "B03-C008-P0164",
+        "B03-C008-P0165",
+        "B03-C008-P0166",
+        "B03-C008-P0169",
+        "B03-C008-P0173",
+        "B03-C008-P0180",
+        "B03-C008-P0182",
+        "B03-C008-P0183"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1993",
+      "model_notes": "Temporary teaching creature and potion; tank size is qualitative, no floor or office window given."
+    },
+    {
+      "id": "B03-038",
+      "location": "Hogsmeade visit — boundary amenities report",
+      "category": "route",
+      "description": "The friends report visiting Dervish and Banges, Zonko’s and the Three Broomsticks. They describe a post office with roughly two hundred owls on shelves, colour-coded by delivery speed, and think they saw an ogre at the pub.",
+      "evidence": [
+        "B03-C008-P0185",
+        "B03-C008-P0186",
+        "B03-C008-P0187",
+        "B03-C008-P0188",
+        "B03-C008-P0189",
+        "B03-C008-P0190",
+        "B03-C008-P0191",
+        "B03-C008-P0192"
+      ],
+      "certainty": "reported",
+      "temporal": "31 October 1993",
+      "model_notes": "Village access context; ogre sighting uncertain, and no unrelated full village inventory intended."
+    },
+    {
+      "id": "B03-039",
+      "location": "Great Hall — Hallowe’en 1993 decorations",
+      "category": "temporary",
+      "description": "Hundreds of candlelit pumpkins, live bats and flaming-orange streamers decorate the Hall; the streamers drift across a stormy ceiling. Ghosts perform formation gliding through walls and tables after the feast.",
+      "evidence": [
+        "B03-C008-P0198",
+        "B03-C008-P0200",
+        "B03-C008-P0201",
+        "B03-C008-P0202",
+        "B03-C008-P0203"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1993 evening",
+      "model_notes": "Distinct 1993 event state and ghost-permeable furnishings."
+    },
+    {
+      "id": "B03-040",
+      "location": "Gryffindor portrait — slashed canvas and missing guardian",
+      "category": "temporary",
+      "description": "The approach corridor is blocked by returning pupils because the Fat Lady’s portrait is closed and its occupant absent. Deep slashes and missing chunks leave canvas strips on the floor.",
+      "evidence": [
+        "B03-C008-P0204",
+        "B03-C008-P0205",
+        "B03-C008-P0206",
+        "B03-C008-P0207",
+        "B03-C008-P0208",
+        "B03-C008-P0211",
+        "B03-C008-P0212",
+        "B03-C008-P0213",
+        "B03-C008-P0214",
+        "B03-C008-P0215"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1993",
+      "model_notes": "Observed entrance damage, without assuming a destroyed masonry opening."
+    },
+    {
+      "id": "B03-041",
+      "location": "Fat Lady’s flight and intruder report",
+      "category": "history",
+      "description": "Peeves says he saw the Fat Lady weeping through a fourth-floor landscape painting among trees, and reports that Sirius Black attacked after she refused him entry.",
+      "evidence": [
+        "B03-C008-P0215",
+        "B03-C008-P0216",
+        "B03-C008-P0219",
+        "B03-C008-P0220",
+        "B03-C008-P0221"
+      ],
+      "certainty": "reported",
+      "temporal": "31 October 1993",
+      "model_notes": "Report of attack and portrait-travel refuge; fourth-floor trees are painted, not castle vegetation."
+    },
+    {
+      "id": "B03-042",
+      "location": "Great Hall — emergency dormitory",
+      "category": "temporary",
+      "description": "All houses assemble for the castle search; every Hall door is shut and Prefects guard the entrances. Dining tables move against the walls and hundreds of squashy purple sleeping bags cover the floor; the trio occupy a corner. Teachers check hourly.",
+      "evidence": [
+        "B03-C009-P0001",
+        "B03-C009-P0002",
+        "B03-C009-P0003",
+        "B03-C009-P0004",
+        "B03-C009-P0005",
+        "B03-C009-P0007",
+        "B03-C009-P0008",
+        "B03-C009-P0011",
+        "B03-C009-P0021",
+        "B03-C009-P0023",
+        "B03-C009-P0027"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night of 31 October–1 November 1993",
+      "model_notes": "Multiple guarded Hall entrances and movable tables, no permanent dormitory conversion."
+    },
+    {
+      "id": "B03-043",
+      "location": "Great Hall — night lighting",
+      "category": "magic",
+      "description": "Candles extinguish together at lights-out. Silvery ghosts and the starry enchanted ceiling then provide the only light over sleeping pupils.",
+      "evidence": [
+        "B03-C009-P0021",
+        "B03-C009-P0022",
+        "B03-C009-P0023",
+        "B03-C009-P0046"
+      ],
+      "certainty": "explicit",
+      "temporal": "After Hallowe’en 1993",
+      "model_notes": "Observed night illumination; comparison to sleeping outdoors does not remove the physical roof."
+    },
+    {
+      "id": "B03-044",
+      "location": "Castle protection — Apparition and stealth",
+      "category": "magic",
+      "description": "Hermione cites school history for anti-stealth enchantments and states that people cannot Apparate into the castle. She argues Dementors would detect disguises or flight and assumes Filch’s known secret passages are covered.",
+      "evidence": [
+        "B03-C009-P0014",
+        "B03-C009-P0015",
+        "B03-C009-P0016",
+        "B03-C009-P0017",
+        "B03-C009-P0018",
+        "B03-C009-P0019",
+        "B03-C009-P0020"
+      ],
+      "certainty": "reported",
+      "temporal": "After Hallowe’en 1993",
+      "model_notes": "Reported constraints; Filch’s comprehensive knowledge/coverage is her assumption, not independently established."
+    },
+    {
+      "id": "B03-045",
+      "location": "Fat Lady — map refuge and intended restoration",
+      "category": "history",
+      "description": "Dumbledore reports finding her in a second-floor map of Argyllshire, distressed after refusing Black entry without the password. He plans for Filch to restore the torn painting after she calms.",
+      "evidence": [
+        "B03-C009-P0027",
+        "B03-C009-P0028",
+        "B03-C009-P0029"
+      ],
+      "certainty": "reported",
+      "temporal": "Night after portrait attack",
+      "model_notes": "Different later refuge from Peeves’s fourth-floor landscape sighting; restoration is prospective here."
+    },
+    {
+      "id": "B03-046",
+      "location": "Dementors — castle threshold exclusion",
+      "category": "temporary",
+      "description": "Dumbledore refuses the Dementors permission to cross the castle threshold during the search, despite their wish to help. Snape reports the third floor, dungeons, Astronomy Tower, Trelawney’s room and Owlery searched without finding Black.",
+      "evidence": [
+        "B03-C009-P0030",
+        "B03-C009-P0031",
+        "B03-C009-P0032",
+        "B03-C009-P0033",
+        "B03-C009-P0034",
+        "B03-C009-P0042",
+        "B03-C009-P0043",
+        "B03-C009-P0044",
+        "B03-C009-P0045"
+      ],
+      "certainty": "reported",
+      "temporal": "Night of 31 October 1993",
+      "model_notes": "Headmaster-imposed boundary rule, not physical inability to enter; search coverage is reported."
+    },
+    {
+      "id": "B03-047",
+      "location": "Gryffindor entrance — Sir Cadogan replacement",
+      "category": "temporary",
+      "description": "The slashed Fat Lady canvas is removed and replaced by Sir Cadogan and his grey pony. He controls entry with complicated passwords changed at least twice daily; Percy says other portraits refused the job.",
+      "evidence": [
+        "B03-C009-P0050",
+        "B03-C009-P0051",
+        "B03-C009-P0052"
+      ],
+      "certainty": "explicit",
+      "temporal": "After Hallowe’en 1993",
+      "model_notes": "Observed replacement and access churn; no claim that the portrait hole itself moved."
+    },
+    {
+      "id": "B03-048",
+      "location": "McGonagall’s office — pitch view and training guard",
+      "category": "route",
+      "description": "From her office window McGonagall can see the Quidditch pitch through rain. She regards it as exposed and arranges Madam Hooch to supervise Harry’s evening practices; teachers and Percy also escort/watch him in corridors.",
+      "evidence": [
+        "B03-C009-P0053",
+        "B03-C009-P0054",
+        "B03-C009-P0056",
+        "B03-C009-P0057",
+        "B03-C009-P0059",
+        "B03-C009-P0061"
+      ],
+      "certainty": "explicit",
+      "temporal": "After Hallowe’en 1993",
+      "model_notes": "Explicit office-to-pitch sightline; security judgment and supervision dated to the Black threat."
+    },
+    {
+      "id": "B03-049",
+      "location": "Castle — storm lighting and audible Forest",
+      "category": "temporary",
+      "description": "Extra torches and lanterns illuminate dark classrooms/corridors during heavy wind and rain. From his dormitory Harry hears thunder, wind pounding the walls and distant creaking Forest trees; the storm sounds even louder in the common room.",
+      "evidence": [
+        "B03-C009-P0065",
+        "B03-C009-P0076",
+        "B03-C009-P0077",
+        "B03-C009-P0121",
+        "B03-C009-P0124",
+        "B03-C009-P0127",
+        "B03-C009-P0128"
+      ],
+      "certainty": "explicit",
+      "temporal": "After Hallowe’en 1993",
+      "model_notes": "Seasonal acoustic and light state, without measured window-to-Forest distance."
+    },
+    {
+      "id": "B03-050",
+      "location": "Hospital wing — bedpans report",
+      "category": "furnishing",
+      "description": "Ron reports a detention requiring him to scrub hospital-wing bedpans without magic.",
+      "evidence": [
+        "B03-C009-P0119"
+      ],
+      "certainty": "reported",
+      "temporal": "After Hallowe’en 1993",
+      "model_notes": "Ward sanitary equipment, not a mapped toilet room."
+    },
+    {
+      "id": "B03-051",
+      "location": "Quidditch pitch — gale and umbrella shelter",
+      "category": "temporary",
+      "description": "The school descends lawns to the pitch in strong wind. Players emerge from changing rooms on opposing sides; mud grips their feet, thunder masks cheers/commentary, and rain obscures teams and stands. During time-out Gryffindor shelters beneath a large umbrella at the pitch edge.",
+      "evidence": [
+        "B03-C009-P0134",
+        "B03-C009-P0135",
+        "B03-C009-P0136",
+        "B03-C009-P0137",
+        "B03-C009-P0139",
+        "B03-C009-P0140",
+        "B03-C009-P0141",
+        "B03-C009-P0142",
+        "B03-C009-P0143",
+        "B03-C009-P0147",
+        "B03-C009-P0149",
+        "B03-C009-P0150",
+        "B03-C009-P0153",
+        "B03-C009-P0154"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1993 Gryffindor–Hufflepuff match",
+      "model_notes": "Weather, visibility and temporary shelter; the water-repelling spectacle charm affects Harry’s view, not global weather."
+    },
+    {
+      "id": "B03-052",
+      "location": "Quidditch stands — black dog sighting",
+      "category": "temporary",
+      "description": "Lightning reveals a large shaggy black dog silhouetted in the topmost otherwise empty row of seats; it has vanished when Harry looks again.",
+      "evidence": [
+        "B03-C009-P0155",
+        "B03-C009-P0156"
+      ],
+      "certainty": "explicit",
+      "temporal": "After Hallowe’en 1993",
+      "model_notes": "Observed brief stadium occupant, not proof of an omen or an access mechanism."
+    },
+    {
+      "id": "B03-053",
+      "location": "Quidditch pitch — Dementor intrusion and hospital transfer",
+      "category": "temporary",
+      "description": "At least a hundred Dementors gather below Harry on the pitch, bringing perceived silence and intense cold; he falls. His friends report Dumbledore slowing the fall, driving them out with silver magic and taking Harry uphill to school on a floating stretcher.",
+      "evidence": [
+        "B03-C009-P0161",
+        "B03-C009-P0162",
+        "B03-C009-P0163",
+        "B03-C009-P0164",
+        "B03-C009-P0168",
+        "B03-C009-P0169",
+        "B03-C009-P0173",
+        "B03-C009-P0179",
+        "B03-C009-P0183",
+        "B03-C009-P0191",
+        "B03-C009-P0201",
+        "B03-C009-P0203",
+        "B03-C009-P0204",
+        "B03-C009-P0205"
+      ],
+      "certainty": "explicit",
+      "temporal": "After Hallowe’en 1993",
+      "model_notes": "Observed incursion plus reported rescue. Fred’s fifty-foot fall estimate is not a measured flight height; Wood’s presence in showers is also a friend’s report."
+    },
+    {
+      "id": "B03-054",
+      "location": "Whomping Willow — isolated central position and wrecked broom",
+      "category": "grounds",
+      "description": "The Willow stands alone in the middle of the grounds. Hermione reports that wind carried Harry’s unattended broom into it; Flitwick returns the splintered remains.",
+      "evidence": [
+        "B03-C009-P0207",
+        "B03-C009-P0211",
+        "B03-C009-P0213",
+        "B03-C009-P0214",
+        "B03-C009-P0216",
+        "B03-C009-P0217",
+        "B03-C009-P0218"
+      ],
+      "certainty": "explicit",
+      "temporal": "After Hallowe’en 1993",
+      "model_notes": "Central/isolated position explicit, exact map point and reach unstated. Broken broom is a dated incident, not new tree damage."
+    },
+    {
+      "id": "B03-055",
+      "location": "Defence classroom — Hinkypunk box and daylight",
+      "category": "furnishing",
+      "description": "Lupin brings a glass box containing a smoky one-legged Hinkypunk with a lantern, and covers it with cloth afterwards. Wintry sunlight falls across the classroom.",
+      "evidence": [
+        "B03-C010-P0023",
+        "B03-C010-P0024",
+        "B03-C010-P0025",
+        "B03-C010-P0028",
+        "B03-C010-P0029",
+        "B03-C010-P0038"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1993",
+      "model_notes": "A contained teaching specimen; its reported bog-luring habitat does not locate a bog on the grounds."
+    },
+    {
+      "id": "B03-056",
+      "location": "Whomping Willow — planting and exclusion history",
+      "category": "history",
+      "description": "Lupin says the Willow was planted when he first arrived at Hogwarts. Pupils used to try touching its trunk until Davey Gudgeon nearly lost an eye, after which approaching it was forbidden.",
+      "evidence": [
+        "B03-C010-P0030",
+        "B03-C010-P0032"
+      ],
+      "certainty": "reported",
+      "temporal": "November–December 1993",
+      "model_notes": "Date relative to Lupin’s enrolment; no independent calendar year or initial tree size supplied."
+    },
+    {
+      "id": "B03-057",
+      "location": "Dementors — restrained entrance posts",
+      "category": "temporary",
+      "description": "Lupin reports Dementors resenting Dumbledore’s exclusion from the grounds/school and being drawn to the match crowd. Through late November and December Harry sees none inside, with the sentries apparently kept at entrances.",
+      "evidence": [
+        "B03-C010-P0035",
+        "B03-C010-P0039",
+        "B03-C010-P0043",
+        "B03-C010-P0048",
+        "B03-C010-P0050",
+        "B03-C010-P0056"
+      ],
+      "certainty": "explicit",
+      "temporal": "After the November pitch intrusion",
+      "model_notes": "Reported motives and observed absence, not a demonstrated unbreakable barrier."
+    },
+    {
+      "id": "B03-058",
+      "location": "Castle grounds and Charms classroom — early winter",
+      "category": "temporary",
+      "description": "Rain persists into December before glittering frost covers the muddy grounds and later snow falls. Flitwick decorates his classroom with shimmering lights that are living fluttering fairies.",
+      "evidence": [
+        "B03-C010-P0056",
+        "B03-C010-P0057",
+        "B03-C010-P0061"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1993",
+      "model_notes": "Seasonal weather and temporary classroom inhabitants."
+    },
+    {
+      "id": "B03-059",
+      "location": "Third-floor one-eyed witch and neighbouring classroom",
+      "category": "route",
+      "description": "Halfway along the third-floor corridor stands a humpbacked one-eyed witch statue. An empty classroom lies to its left; it contains desks and a closable door used by the twins for presenting the map.",
+      "evidence": [
+        "B03-C010-P0061",
+        "B03-C010-P0063",
+        "B03-C010-P0065",
+        "B03-C010-P0066",
+        "B03-C010-P0067",
+        "B03-C010-P0068",
+        "B03-C010-P0106",
+        "B03-C010-P0112",
+        "B03-C010-P0113"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1993",
+      "model_notes": "Left is approach-relative; statue and classroom floor explicit."
+    },
+    {
+      "id": "B03-060",
+      "location": "Filch’s cabinet — confiscated objects report",
+      "category": "furnishing",
+      "description": "The twins say a filing cabinet drawer in Filch’s office was labelled Confiscated and Highly Dangerous and held the map they stole during a first-year diversion.",
+      "evidence": [
+        "B03-C010-P0075",
+        "B03-C010-P0077",
+        "B03-C010-P0078",
+        "B03-C010-P0079",
+        "B03-C010-P0082",
+        "B03-C010-P0084",
+        "B03-C010-P0085"
+      ],
+      "certainty": "reported",
+      "temporal": "Twins’ first year, recounted December 1993",
+      "model_notes": "Reported historical storage; present contents not established."
+    },
+    {
+      "id": "B03-061",
+      "location": "Marauder’s Map — live spatial display",
+      "category": "magic",
+      "description": "After a wand touch and the activation pledge, ink develops a detailed castle-and-grounds map with named moving dots for people, Mrs Norris and Peeves. It shows Dumbledore pacing his study, hidden passages and Harry’s current third-floor position, and supplies the statue-opening instruction. A touch and Mischief managed blanks it.",
+      "evidence": [
+        "B03-C010-P0090",
+        "B03-C010-P0091",
+        "B03-C010-P0092",
+        "B03-C010-P0095",
+        "B03-C010-P0096",
+        "B03-C010-P0097",
+        "B03-C010-P0101",
+        "B03-C010-P0102",
+        "B03-C010-P0103",
+        "B03-C010-P0107",
+        "B03-C010-P0111",
+        "B03-C010-P0113",
+        "B03-C010-P0116"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1993",
+      "model_notes": "Map position on the parchment is not a compass coordinate. Its depiction/reporting capability is observed, not proof that every magical space must be included."
+    },
+    {
+      "id": "B03-062",
+      "location": "Seven secret Hogsmeade passages — reported coverage",
+      "category": "route",
+      "description": "The twins identify seven tunnels out to Hogsmeade, saying Filch knows four. Of the other three, a fourth-floor mirror passage has been completely collapsed since the previous winter; a Willow-covered entrance seems unused to them; the one-eyed-witch route reaches Honeydukes’ cellar.",
+      "evidence": [
+        "B03-C010-P0097",
+        "B03-C010-P0098",
+        "B03-C010-P0142"
+      ],
+      "certainty": "reported",
+      "temporal": "November–December 1993",
+      "model_notes": "Coverage and unused-Willow claim are the twins’ report, not omniscient facts; collapse is a dated state. No destinations invented for the four known passages."
+    },
+    {
+      "id": "B03-063",
+      "location": "One-eyed witch entrance and stone slide",
+      "category": "magic",
+      "description": "Tapping the witch with a wand while saying Dissendium opens its hump just wide enough for a thin person. Harry enters headfirst and slides a considerable distance down stone onto cold damp earth in a very low narrow passage.",
+      "evidence": [
+        "B03-C010-P0112",
+        "B03-C010-P0113",
+        "B03-C010-P0114",
+        "B03-C010-P0115",
+        "B03-C010-P0116"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1993",
+      "model_notes": "Actual traversed entrance and descent; numeric aperture or slide length unknown."
+    },
+    {
+      "id": "B03-064",
+      "location": "Honeydukes tunnel — winding earth, rise and stair",
+      "category": "route",
+      "description": "The unlit earthy passage twists repeatedly over uneven footing. After what feels like an hour it begins rising; about ten minutes later Harry reaches worn stone stairs, loses count after hundreds of steps and hits the underside of a trapdoor.",
+      "evidence": [
+        "B03-C010-P0116",
+        "B03-C010-P0117",
+        "B03-C010-P0118",
+        "B03-C010-P0119",
+        "B03-C010-P0120"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1993",
+      "model_notes": "Subjective durations and lost count must not become exact distance or stair totals."
+    },
+    {
+      "id": "B03-065",
+      "location": "Honeydukes cellar — hidden trapdoor and shop stairs",
+      "category": "interior",
+      "description": "The trapdoor blends invisibly into the dusty cellar floor among wooden crates and boxes. A wooden staircase rises to a door behind the shop counter; Harry hides behind a large crate as an owner descends to stock stored by the opposite wall.",
+      "evidence": [
+        "B03-C010-P0121",
+        "B03-C010-P0122",
+        "B03-C010-P0123",
+        "B03-C010-P0124",
+        "B03-C010-P0125",
+        "B03-C010-P0126"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1993",
+      "model_notes": "Observed tunnel endpoint and commercial circulation. No exact cellar dimensions or entrance-to-stairs spacing."
+    },
+    {
+      "id": "B03-066",
+      "location": "Honeydukes — shop and nocturnal security",
+      "category": "interior",
+      "description": "The crowded shop has extensive sweet shelves, barrels, a furthest-corner Unusual Tastes display, mullioned windows and a Ministry notice on the inside door announcing nightly Dementor patrols after sundown. Ron says the owners live above it.",
+      "evidence": [
+        "B03-C010-P0126",
+        "B03-C010-P0127",
+        "B03-C010-P0128",
+        "B03-C010-P0143",
+        "B03-C010-P0144",
+        "B03-C010-P0145",
+        "B03-C010-P0146",
+        "B03-C010-P0147",
+        "B03-C010-P0149",
+        "B03-C010-P0153",
+        "B03-C010-P0154"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1993",
+      "model_notes": "Interior retained because it is a tunnel exit. Owner residence is reported; patrol notice describes policy rather than observed every-night coverage."
+    },
+    {
+      "id": "B03-067",
+      "location": "Hogsmeade winter streets to Three Broomsticks",
+      "category": "route",
+      "description": "Snow covers thatched cottages and shops, door holly wreaths and candle-strung trees. The friends walk up the street past indicated post office/Zonko’s directions, consider going up to the Shack, then cross the road and reach the tiny Three Broomsticks within minutes.",
+      "evidence": [
+        "B03-C010-P0154",
+        "B03-C010-P0155",
+        "B03-C010-P0156",
+        "B03-C010-P0157",
+        "B03-C010-P0158",
+        "B03-C010-P0159",
+        "B03-C010-P0160",
+        "B03-C010-P0161"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1993",
+      "model_notes": "Boundary-village travel context; indicated directions are not a complete surveyed shop map."
+    },
+    {
+      "id": "B03-068",
+      "location": "Three Broomsticks — warm interior and screening tree",
+      "category": "interior",
+      "description": "The small inn is crowded, noisy, smoky and warm, with a bar and a rear vacant table between a window and a Christmas tree beside the fireplace. Hermione moves the tree before their table to conceal them from an adjacent table of teachers.",
+      "evidence": [
+        "B03-C010-P0162",
+        "B03-C010-P0163",
+        "B03-C010-P0164",
+        "B03-C010-P0167",
+        "B03-C010-P0168",
+        "B03-C010-P0169",
+        "B03-C010-P0170",
+        "B03-C010-P0171",
+        "B03-C010-P0172",
+        "B03-C010-P0182",
+        "B03-C010-P0189",
+        "B03-C010-P0190",
+        "B03-C010-P0241",
+        "B03-C010-P0242"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1993",
+      "model_notes": "Temporary tree changes sightlines. Rosmerta reports two disruptive Dementor searches; teachers later head uphill to the castle. Village scope limited to school journey/meeting context."
     }
   ],
   "chapter_reviews": [
@@ -671,6 +1364,39 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter read. Boggart forms retained as temporary lesson behaviour rather than actual castle fauna. Hermione’s anomalous stair position not used to invent architecture."
+    },
+    {
+      "chapter": 8,
+      "reviewed_ranges": [
+        [
+          1,
+          221
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Generic creature habitats excluded; uncertain ogre, office/Owlery route and portrait refuge qualified. Damage at Gryffindor entrance retained for subsequent repair tracking."
+    },
+    {
+      "chapter": 9,
+      "reviewed_ranges": [
+        [
+          1,
+          218
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Apparition prohibition, restricted Dementor threshold and its later grounds incursion preserved separately; map refuge and replacement portrait are dated states."
+    },
+    {
+      "chapter": 10,
+      "reviewed_ranges": [
+        [
+          1,
+          244
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read, including full overheard historical conversation. Off-site Potter-house and London explosion details excluded. Map/tunnel assumptions separated from directly traversed Honeydukes route."
     }
   ]
 }
