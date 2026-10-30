@@ -821,11 +821,14 @@
         "B06-C012-P0133",
         "B06-C012-P0142",
         "B06-C012-P0143",
-        "B06-C012-P0151"
+        "B06-C012-P0151",
+        "B06-C024-P0037",
+        "B06-C024-P0038",
+        "B06-C024-P0039"
       ],
       "certainty": "explicit",
       "temporal": "Mid-October 1996 Hogsmeade day",
-      "model_notes": "Limited village interior context tied to the attempted castle delivery; no bathroom floor level or adjacency is established."
+      "model_notes": "Limited village interior context tied to the attempted castle delivery; no bathroom floor level or adjacency is established. Katie later remembers pushing the ladies’ door open, but a person behind it is her deduction, not a recovered observation."
     },
     {
       "id": "B06-058",
@@ -2269,6 +2272,216 @@
       "certainty": "explicit",
       "temporal": "After Aragog burial, spring 1997",
       "model_notes": "Observed wall position, glass enclosure and jewelled sword. Provenance is Dumbledore’s statement; no case dimensions supplied."
+    },
+    {
+      "id": "B06-150",
+      "location": "Charms classroom accidental snowfall",
+      "category": "temporary",
+      "description": "Ron’s misdirected wand makes large fake snowflakes fall from the classroom ceiling onto nearby pupils. They work at neighbouring tables with glass flasks; Flitwick shelters under a table when a flask explodes.",
+      "evidence": [
+        "B06-C024-P0002",
+        "B06-C024-P0003",
+        "B06-C024-P0004",
+        "B06-C024-P0005",
+        "B06-C024-P0017",
+        "B06-C024-P0019",
+        "B06-C024-P0020"
+      ],
+      "certainty": "explicit",
+      "temporal": "Morning after Aragog burial, spring 1997",
+      "model_notes": "Lesson-specific spell effect and work furniture; not weather penetrating the castle."
+    },
+    {
+      "id": "B06-151",
+      "location": "Gryffindor common-room window table",
+      "category": "furnishing",
+      "description": "The common room is sunny and contains a table at a window where the trio sit to talk.",
+      "evidence": [
+        "B06-C024-P0031",
+        "B06-C024-P0040"
+      ],
+      "certainty": "explicit",
+      "temporal": "Spring 1997",
+      "model_notes": "Table-window relationship; no bearing or proof this is the same table used on previous occasions."
+    },
+    {
+      "id": "B06-152",
+      "location": "Sixth-floor boys’ bathroom approach",
+      "category": "route",
+      "description": "From a seventh-floor detour Harry sees Draco’s Map dot in a boys’ bathroom one floor below. After colliding with a suit of armour, he runs down a marble staircase and along the lower passage to the bathroom door; he later returns there from the Room’s seventh-floor corridor.",
+      "evidence": [
+        "B06-C024-P0060",
+        "B06-C024-P0061",
+        "B06-C024-P0100",
+        "B06-C024-P0101",
+        "B06-C024-P0106"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1997",
+      "model_notes": "Bathroom is on the floor below seventh, thus sixth in this numbering. The text calls this staircase marble; retain that statement without silently equating it with the Entrance Hall’s principal marble staircase."
+    },
+    {
+      "id": "B06-153",
+      "location": "Boys’ bathroom sink, mirror and fixtures",
+      "category": "interior",
+      "description": "A grimy sink basin faces a cracked mirror in which Draco sees Harry standing behind him near the door. The tiled bathroom has toilet cubicles, a wall lamp beside Harry and a bin behind him; a cistern is beneath Myrtle’s hovering position.",
+      "evidence": [
+        "B06-C024-P0062",
+        "B06-C024-P0063",
+        "B06-C024-P0065",
+        "B06-C024-P0066",
+        "B06-C024-P0067",
+        "B06-C024-P0068",
+        "B06-C024-P0082",
+        "B06-C024-P0083",
+        "B06-C024-P0125"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1997",
+      "model_notes": "Fixture/view relationships and reverberation. Repeated cracked mirror and Myrtle connect this scene with chapter 21’s bathroom; no exact room dimensions."
+    },
+    {
+      "id": "B06-154",
+      "location": "Boys’ bathroom duel damage and flooding",
+      "category": "temporary",
+      "description": "A missed hex shatters the wall lamp, another blast explodes the bin, and a rebounding spell smashes a toilet cistern. Water floods the tiled floor, makes it slippery and mixes with Draco’s blood. The room remains wrecked and soaked when Snape questions Harry.",
+      "evidence": [
+        "B06-C024-P0066",
+        "B06-C024-P0067",
+        "B06-C024-P0068",
+        "B06-C024-P0069",
+        "B06-C024-P0070",
+        "B06-C024-P0072",
+        "B06-C024-P0074",
+        "B06-C024-P0077",
+        "B06-C024-P0080",
+        "B06-C024-P0081",
+        "B06-C024-P0083",
+        "B06-C024-P0091",
+        "B06-C024-P0093"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1997",
+      "model_notes": "Dated damaged fixture and floor state; no subsequent repair is narrated here. Injury-related visual shimmer at P0090 is not structural transformation."
+    },
+    {
+      "id": "B06-155",
+      "location": "Room of Requirement hiding request and door",
+      "category": "magic",
+      "description": "Harry walks three times before the blank seventh-floor wall asking for a place to hide his book; a door appears and he enters. On leaving he slams the door and it immediately turns back into stone.",
+      "evidence": [
+        "B06-C024-P0100",
+        "B06-C024-P0101",
+        "B06-C024-P0102",
+        "B06-C024-P0103",
+        "B06-C024-P0105"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1997",
+      "model_notes": "Successful hiding-room state despite earlier failed requests about Draco. Door concealment is observed; do not infer that all possible users obtain separate inventories."
+    },
+    {
+      "id": "B06-156",
+      "location": "Room of hidden objects volume and light",
+      "category": "interior",
+      "description": "The room is the size of a large cathedral. High windows send shafts of light over a city-like mass of stored objects, with many alleys and road-like passages between towering piles of damaged furniture and hidden goods.",
+      "evidence": [
+        "B06-C024-P0104",
+        "B06-C024-P0105"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1997",
+      "model_notes": "Narrated scale analogy and navigable maze of objects, not a literal town or calibrated dimensions. Claimed generations of use and reasons for hiding items are Harry’s interpretation."
+    },
+    {
+      "id": "B06-157",
+      "location": "Room of hidden objects contents",
+      "category": "furnishing",
+      "description": "The piles contain thousands of books, winged catapults and Fanged Frisbees still hovering weakly, chipped bottles of congealed potions, hats, jewels, cloaks, apparent dragon eggshells, corked bottles with sinister shimmering contents, rusty swords and a heavy bloodstained axe.",
+      "evidence": [
+        "B06-C024-P0104"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1997",
+      "model_notes": "Inventory groups and materials/condition for storage ambience. Eggshell identification is tentative; no need to copy thousands of individual carried-object instances."
+    },
+    {
+      "id": "B06-158",
+      "location": "Hiding-room route to damaged cupboard",
+      "category": "route",
+      "description": "Entering an alley, Harry turns right past an enormous stuffed troll, continues briefly, then turns left at the broken Vanishing Cabinet in which Montague had been lost. He reaches a large cupboard with a blistered, apparently acid-damaged surface.",
+      "evidence": [
+        "B06-C024-P0105"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1997",
+      "model_notes": "Exact local turn sequence and landmarks; no corridor lengths or absolute bearings. Acid is Harry’s explanation of visible blistering, not confirmed chemical cause."
+    },
+    {
+      "id": "B06-159",
+      "location": "Book-hiding cupboard and assembled marker",
+      "category": "furnishing",
+      "description": "The cupboard has creaking doors and contains a cage holding a long-dead five-legged skeleton. Harry hides his book behind the cage, then moves a chipped bust of an ugly old warlock from a nearby crate onto the cupboard and adds a dusty wig and tarnished tiara to its head.",
+      "evidence": [
+        "B06-C024-P0105"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1997",
+      "model_notes": "Precise book placement and newly assembled retrieval marker. Tiara’s identity is not supplied here; retain appearance and placement without importing later canon."
+    },
+    {
+      "id": "B06-160",
+      "location": "Dungeon office approach and acoustic isolation",
+      "category": "route",
+      "description": "During the final match Harry descends stone steps into the dungeons and walks until crowd sounds disappear. Snape’s office remains in the dungeons although his teaching is now floors above. Leaving, Harry climbs the stone steps back towards the Great Hall and then the marble staircase to Gryffindor.",
+      "evidence": [
+        "B06-C024-P0143",
+        "B06-C024-P0144",
+        "B06-C024-P0155",
+        "B06-C024-P0156"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1997",
+      "model_notes": "Dated route and loss of distant pitch sound; no proof of purpose-built soundproofing. Separate dungeon stone stairs from subsequent marble ascent."
+    },
+    {
+      "id": "B06-161",
+      "location": "Snape dungeon office fixtures and detention files",
+      "category": "interior",
+      "description": "The dim office has slimy dead specimens suspended in coloured potions around the walls. Cobwebbed boxes of damaged, mouse-chewed or faded punishment record cards are piled on a table where Harry sits to copy them. A large clock ticks on the wall.",
+      "evidence": [
+        "B06-C024-P0144",
+        "B06-C024-P0145",
+        "B06-C024-P0147",
+        "B06-C024-P0148",
+        "B06-C024-P0149",
+        "B06-C024-P0150",
+        "B06-C024-P0151",
+        "B06-C024-P0152",
+        "B06-C024-P0153"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1997",
+      "model_notes": "Specimen display, worktable, clock and temporary files. Harry’s suspicion that the clock runs slowly is unverified and should not drive an animation rule."
+    },
+    {
+      "id": "B06-162",
+      "location": "Gryffindor final-match celebration access",
+      "category": "temporary",
+      "description": "The Fat Lady admits Harry on Quid agis, revealing a noisy common-room celebration. Ron carries a silver championship Cup; around fifty people witness Harry and Ginny’s kiss.",
+      "evidence": [
+        "B06-C024-P0157",
+        "B06-C024-P0158",
+        "B06-C024-P0159",
+        "B06-C024-P0160",
+        "B06-C024-P0161",
+        "B06-C024-P0162",
+        "B06-C024-P0163",
+        "B06-C024-P0164"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1997",
+      "model_notes": "Dated password, trophy and crowd occupancy; not a room-capacity figure or permanent trophy display."
     }
   ],
   "chapter_reviews": [
@@ -2524,6 +2737,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two blocks, including full genuine memory and long Horcrux/prophesy discussion. Captured third-floor shortcut, Fat Lady’s explicitly retracted security claim, Astronomy Tower ghost report, portrait subject and sword case. Reconciled historical Slughorn furniture against genuine memory. Figurative arena at end is not Hogwarts architecture."
+    },
+    {
+      "chapter": 24,
+      "reviewed_ranges": [
+        [
+          1,
+          164
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks. Captured Charms effects/tables, window seating, sixth-floor bathroom route and fixture damage, full hidden-object room volume/inventory/turns/cupboard marker and stone door, dungeon office/stairs/acoustics/files, and celebration credential. Reconciled Katie’s uncertain bathroom recollection; no remembered identity assigned to tiara."
     }
   ]
 }
