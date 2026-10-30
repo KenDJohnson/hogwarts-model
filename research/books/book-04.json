@@ -1053,6 +1053,176 @@
       "certainty": "explicit",
       "temporal": "November 1994, before first task",
       "model_notes": "Preserve storage contents and the temporary candle illumination. The cupboard is near the weighing classroom but not stated to open directly from it."
+    },
+    {
+      "id": "B04-073",
+      "location": "Library bookshelves",
+      "category": "furnishing",
+      "description": "Groups of pupils watch Krum from behind the library bookshelves while others read; their giggling is audible enough to distract Hermione.",
+      "evidence": [
+        "B04-C019-P0026",
+        "B04-C019-P0027"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "Establishes shelving used as visual cover and shared reading space, without a complete shelf plan."
+    },
+    {
+      "id": "B04-074",
+      "location": "Hogsmeade visit and High Street",
+      "category": "route",
+      "description": "Third-years and older are permitted a village visit. Harry and Hermione walk into Hogsmeade, visit Honeydukes and the Three Broomsticks, and see the street towards its far end. Outside Honeydukes Harry backs against its wall to avoid Rita passing from the pub.",
+      "evidence": [
+        "B04-C019-P0032",
+        "B04-C019-P0039",
+        "B04-C019-P0040",
+        "B04-C019-P0041",
+        "B04-C019-P0045",
+        "B04-C019-P0048"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "Boundary-visit context and local proximity only; no tunnel is traversed in this visit and no precise shop-to-pub distance is given."
+    },
+    {
+      "id": "B04-075",
+      "location": "Three Broomsticks",
+      "category": "interior",
+      "description": "The pub is densely crowded with Hogwarts pupils and other magical visitors. Tables extend into a corner where Harry and Hermione sit; drinks are bought separately and Rosmerta collects glasses among the tables.",
+      "evidence": [
+        "B04-C019-P0049",
+        "B04-C019-P0050",
+        "B04-C019-P0051",
+        "B04-C019-P0058",
+        "B04-C019-P0063",
+        "B04-C019-P0064"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "Village destination context only. Do not turn this into a full unrelated village inventory or infer exact floor dimensions."
+    },
+    {
+      "id": "B04-076",
+      "location": "Moody’s magical-eye visibility",
+      "category": "magic",
+      "description": "Moody recognises Harry beneath his Invisibility Cloak in the pub and states that his eye can see through such cloaks.",
+      "evidence": [
+        "B04-C019-P0064",
+        "B04-C019-P0067",
+        "B04-C019-P0069",
+        "B04-C019-P0070",
+        "B04-C019-P0071"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "A magical visibility exception relevant to stealth routes throughout the school. This is observed recognition plus a reported explanation, not general transparency to every observer."
+    },
+    {
+      "id": "B04-077",
+      "location": "Night route from castle to carriage",
+      "category": "route",
+      "description": "Harry descends the dark lawn towards lights in Hagrid’s cabin. The nearby Beauxbatons carriage is illuminated inside, and Maxime’s voice is audible as he knocks at the cabin. Hagrid then leads him from the cabin to the carriage and around the edge of the horse paddock.",
+      "evidence": [
+        "B04-C019-P0078",
+        "B04-C019-P0079",
+        "B04-C019-P0087",
+        "B04-C019-P0089",
+        "B04-C019-P0090",
+        "B04-C019-P0091",
+        "B04-C019-P0092"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late November 1994, night before first-task preparations",
+      "model_notes": "Preserve both this auditory description and the earlier two-hundred-yard carriage position without inventing a relocation."
+    },
+    {
+      "id": "B04-078",
+      "location": "Forest perimeter to hidden dragon enclosure",
+      "category": "route",
+      "description": "Hagrid leads the party around the Forest perimeter until the castle and lake are out of sight, then around a clump of trees to the dragon enclosure. On his return Harry skirts the Forest edge, encounters Karkaroff near the trees, and enters the castle front doors before climbing the marble stairs and continuing to Gryffindor.",
+      "evidence": [
+        "B04-C019-P0092",
+        "B04-C019-P0096",
+        "B04-C019-P0097",
+        "B04-C019-P0098",
+        "B04-C019-P0124",
+        "B04-C019-P0126",
+        "B04-C019-P0129",
+        "B04-C019-P0130",
+        "B04-C019-P0132",
+        "B04-C019-P0133",
+        "B04-C019-P0134"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "Tree screening and route ordering are explicit; the exact enclosure bearing and distance from castle are not. The return takes Harry from under fifteen minutes remaining to under five at the castle, but his pace is unknown."
+    },
+    {
+      "id": "B04-079",
+      "location": "Dragon holding enclosure",
+      "category": "temporary",
+      "description": "Four adult dragons occupy an enclosure fenced with thick wooden planks. About thirty keepers restrain them using chains fixed to heavy leather neck and leg straps; after Stunning them, the keepers secure chains to iron pegs driven deep into the ground. The rearing dragons’ extended mouths are fifty feet high and their fire lights the night.",
+      "evidence": [
+        "B04-C019-P0100",
+        "B04-C019-P0101",
+        "B04-C019-P0104",
+        "B04-C019-P0105",
+        "B04-C019-P0106",
+        "B04-C019-P0107",
+        "B04-C019-P0108",
+        "B04-C019-P0109"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "Temporary first-task holding installation, separate from the later spectator arena unless further evidence connects them. Do not use the dragons’ rearing height as fence height."
+    },
+    {
+      "id": "B04-080",
+      "location": "Dragon enclosure occupants and eggs",
+      "category": "temporary",
+      "description": "The enclosure holds a blue-grey horned Swedish Short-Snout, a smaller smooth green Welsh dragon, a red Chinese Fireball with facial gold spikes, and a black Hungarian Horntail with bronze tail spikes every few inches. Keepers lay huge granite-grey eggs beside the Horntail.",
+      "evidence": [
+        "B04-C019-P0100",
+        "B04-C019-P0111",
+        "B04-C019-P0112",
+        "B04-C019-P0118",
+        "B04-C019-P0119",
+        "B04-C019-P0120"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "Includes visually distinctive creatures as the enclosure’s dated contents. Charlie supplies breed names and says nesting mothers were requested; biological details do not define permanent terrain."
+    },
+    {
+      "id": "B04-081",
+      "location": "Dragon-fire clearance",
+      "category": "temporary",
+      "description": "A keeper warns that the dragons can project fire twenty feet and that the Horntail has reached forty feet.",
+      "evidence": [
+        "B04-C019-P0102"
+      ],
+      "certainty": "reported",
+      "temporal": "November 1994, before first task",
+      "model_notes": "Reported hazard ranges for modelling the temporary enclosure; do not confuse these horizontal fire ranges with the narrated fifty-foot rearing height."
+    },
+    {
+      "id": "B04-082",
+      "location": "Gryffindor fireplace communication",
+      "category": "magic",
+      "description": "In the otherwise unlit common room, the fire alone illuminates chairs and a nearby table. Sirius’s head appears in its flames for a face-to-face conversation, then vanishes with a small pop. Footsteps descending the dormitory spiral staircase can be heard from the hearth area; Harry can watch the stair’s bottom across the room.",
+      "evidence": [
+        "B04-C019-P0135",
+        "B04-C019-P0136",
+        "B04-C019-P0141",
+        "B04-C019-P0165",
+        "B04-C019-P0166",
+        "B04-C019-P0167",
+        "B04-C019-P0168",
+        "B04-C019-P0169"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "Observed magical fire communication; Sirius reports using a fireplace in another wizard’s house. Preserve the hearth-to-stair acoustic and visual relation without inventing network topology."
     }
   ],
   "chapter_reviews": [
@@ -1253,6 +1423,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed. Included unnamed teaching and storage spaces, cabin rear access, lakeside fauna, Owlery rafters, and dungeon-to-weighing route; wand specifications and unrelated shop memories excluded."
+    },
+    {
+      "chapter": 19,
+      "reviewed_ranges": [
+        [
+          1,
+          177
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included library screening, village visit context, the full nighttime perimeter route, holding-enclosure fixtures, dragon clearances, and fireplace communication."
     }
   ]
 }
