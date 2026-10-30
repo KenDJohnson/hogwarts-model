@@ -24,6 +24,18 @@
       "certainty": "explicit",
       "temporal": "August 1995 comparison with existing Hogwarts dungeon approach",
       "model_notes": "Record the rough stone and torch-bracket comparison. The heavy bolted doors described as here belong to the Ministry corridor and are not imported as Hogwarts door specifications."
+    },
+    {
+      "id": "B05-003",
+      "location": "Grounds: route to Herbology greenhouses",
+      "category": "route",
+      "description": "Harry recalls walking across the vegetable patches to reach the Herbology greenhouses.",
+      "evidence": [
+        "B05-C009-P0082"
+      ],
+      "certainty": "explicit",
+      "temporal": "Recollection before September 1995 return to school",
+      "model_notes": "A remembered everyday approach, not a newly observed journey; establishes vegetable plots along a greenhouse approach without a compass bearing."
     }
   ],
   "chapter_reviews": [
@@ -103,6 +115,28 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed. Ministry rooms and transport are out of scope, but retained the explicit comparison establishing the Snape-approach rough stone walls and torch brackets."
+    },
+    {
+      "chapter": 8,
+      "reviewed_ranges": [
+        [
+          1,
+          156
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Ministry hearing and references to school discipline add no Hogwarts physical or spatial detail; the dungeon here is the Ministry courtroom."
+    },
+    {
+      "chapter": 9,
+      "reviewed_ranges": [
+        [
+          1,
+          320
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph, including Ministry departure, Grimmauld Place, recollections and Boggart scene. Recorded the remembered greenhouse approach; London interiors and photograph are outside the castle model."
     }
   ]
 }
