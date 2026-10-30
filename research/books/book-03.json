@@ -2957,6 +2957,186 @@
       "certainty": "explicit",
       "temporal": "6 June, third year; time-shifted evening and midnight rescue",
       "model_notes": "The tower top can support the landing and passengers. Do not infer its footprint, crenellation dimensions or relative height among other towers."
+    },
+    {
+      "id": "B03-156",
+      "location": "West Tower battlements to hospital wing",
+      "category": "route",
+      "description": "A doorway from the tower top leads down a tightly spiralling stone staircase to a corridor at its foot. After waiting for Fudge and Snape, the pair run in the opposite direction, descend one staircase and then another, and take a new corridor. They hide in a deserted classroom on their left, then continue to the corridor containing the hospital-wing entrance.",
+      "evidence": [
+        "B03-C022-P0002",
+        "B03-C022-P0003",
+        "B03-C022-P0004",
+        "B03-C022-P0005",
+        "B03-C022-P0007",
+        "B03-C022-P0008",
+        "B03-C022-P0009",
+        "B03-C022-P0010",
+        "B03-C022-P0011",
+        "B03-C022-P0012",
+        "B03-C022-P0013",
+        "B03-C022-P0014",
+        "B03-C022-P0015",
+        "B03-C022-P0016",
+        "B03-C022-P0017",
+        "B03-C022-P0020",
+        "B03-C022-P0021"
+      ],
+      "certainty": "explicit",
+      "temporal": "Immediately before five minutes to midnight on rescue night",
+      "model_notes": "Keep the full sequence, including three separate descending stair sections and the unnamed classroom refuge. Stair sections are not a reliable count of floor levels; no classroom furnishings are given."
+    },
+    {
+      "id": "B03-157",
+      "location": "Hospital wing: lock and sound from above",
+      "category": "magic",
+      "description": "Dumbledore closes the ward door and prepares to lock it with his wand, admitting the returning pair first; the lock clicks behind them. Ron remains in the end bed and Pomfrey emerges from her office. They later hear a distant roar from somewhere above, then approaching voices in the corridor before the door bursts open. Pomfrey locks it again after the visitors leave.",
+      "evidence": [
+        "B03-C022-P0017",
+        "B03-C022-P0020",
+        "B03-C022-P0021",
+        "B03-C022-P0023",
+        "B03-C022-P0024",
+        "B03-C022-P0025",
+        "B03-C022-P0027",
+        "B03-C022-P0031",
+        "B03-C022-P0032",
+        "B03-C022-P0033",
+        "B03-C022-P0036",
+        "B03-C022-P0040",
+        "B03-C022-P0049"
+      ],
+      "certainty": "explicit",
+      "temporal": "Midnight on rescue night",
+      "model_notes": "The overhead sound suggests an upper location for the discovered escape, but does not independently assign the ward a floor. The visitors open the locked door; no destructive breach is described."
+    },
+    {
+      "id": "B03-158",
+      "location": "Castle: Apparition restriction reaffirmed",
+      "category": "magic",
+      "description": "Snape insists that Apparition and Disapparition are impossible inside the castle, rejecting Fudge’s proposed explanation for Sirius’s escape.",
+      "evidence": [
+        "B03-C022-P0028",
+        "B03-C022-P0029",
+        "B03-C022-P0030"
+      ],
+      "certainty": "reported",
+      "temporal": "End of third year, following the midnight rescue",
+      "model_notes": "This is a knowledgeable character’s categorical statement, matching Hermione’s earlier report. It gives no precise boundary beyond “inside this castle”, nor a list of exceptions."
+    },
+    {
+      "id": "B03-159",
+      "location": "School entrances: withdrawal of Dementors",
+      "category": "temporary",
+      "description": "Fudge says the Dementors will be sent back to Azkaban that night after their attack on Harry. His suggestion of dragons at the entrance is only a proposal.",
+      "evidence": [
+        "B03-C022-P0047",
+        "B03-C022-P0048",
+        "B03-C022-P0049"
+      ],
+      "certainty": "reported",
+      "temporal": "End of third year, following the midnight rescue",
+      "model_notes": "Represent the removal as an announced security change; do not install dragons based on this dialogue. Sirius’s later letter still anticipates further easing of castle security (paragraph 164)."
+    },
+    {
+      "id": "B03-160",
+      "location": "Castle grounds and lake: post-rescue summer day",
+      "category": "grounds",
+      "description": "At noon the following day the hot, nearly deserted castle gives way to grounds where the children sit by the lake. The giant squid lazily raises its tentacles above the water. Harry can look across to the opposite bank where he had been rescued the previous night.",
+      "evidence": [
+        "B03-C022-P0055",
+        "B03-C022-P0056",
+        "B03-C022-P0061",
+        "B03-C022-P0063",
+        "B03-C022-P0066",
+        "B03-C022-P0067",
+        "B03-C022-P0070"
+      ],
+      "certainty": "explicit",
+      "temporal": "End of third year, following the midnight rescue",
+      "model_notes": "Adds daylight visibility and seasonal creature activity; no squid size, permanent emergence location or underwater terrain is described."
+    },
+    {
+      "id": "B03-161",
+      "location": "Lupin’s office: departure state and furniture",
+      "category": "furnishing",
+      "description": "At departure Lupin’s office door is initially open. His empty Grindylow tank stands beside an open, nearly packed battered suitcase. He works at the desk, empties its drawers, packs his final books and leaves with the tank and case. Harry sits in his vacated chair after the door closes.",
+      "evidence": [
+        "B03-C022-P0072",
+        "B03-C022-P0073",
+        "B03-C022-P0075",
+        "B03-C022-P0077",
+        "B03-C022-P0083",
+        "B03-C022-P0088",
+        "B03-C022-P0092",
+        "B03-C022-P0093",
+        "B03-C022-P0094",
+        "B03-C022-P0097",
+        "B03-C022-P0098",
+        "B03-C022-P0100",
+        "B03-C022-P0101",
+        "B03-C022-P0128"
+      ],
+      "certainty": "explicit",
+      "temporal": "End of third year, following the midnight rescue",
+      "model_notes": "Desk drawers and a chair are physical furnishings; tank, books and suitcase are removed with the occupant. Map use reveals Harry approaching, without identifying a window view or corridor layout."
+    },
+    {
+      "id": "B03-162",
+      "location": "Castle to gates: departing staff carriage",
+      "category": "route",
+      "description": "Dumbledore tells Lupin that his carriage is waiting at the gates. Lupin declines an escort and leaves the office carrying his luggage.",
+      "evidence": [
+        "B03-C022-P0095",
+        "B03-C022-P0097",
+        "B03-C022-P0098",
+        "B03-C022-P0100"
+      ],
+      "certainty": "reported",
+      "temporal": "End of third year, following the midnight rescue",
+      "model_notes": "The vehicle and gate destination are reported; neither the route through the castle nor the carriage propulsion is described."
+    },
+    {
+      "id": "B03-163",
+      "location": "Great Hall: third-year end-of-term feast",
+      "category": "temporary",
+      "description": "The end-of-term feast is decorated in scarlet and gold for Gryffindor’s House Championship victory, and the Gryffindor table is particularly noisy with celebration.",
+      "evidence": [
+        "B03-C022-P0138",
+        "B03-C022-P0139"
+      ],
+      "certainty": "explicit",
+      "temporal": "Last evening of third year",
+      "model_notes": "A dated house-colour state; no additional permanent Hall geometry is supplied."
+    },
+    {
+      "id": "B03-164",
+      "location": "Hogwarts Express departure: mountain occlusion",
+      "category": "exterior",
+      "description": "After the train leaves the local station the next morning, Harry watches Hogwarts disappear from view behind a mountain.",
+      "evidence": [
+        "B03-C022-P0141",
+        "B03-C022-P0146"
+      ],
+      "certainty": "explicit",
+      "temporal": "Morning after the third-year end-of-term feast",
+      "model_notes": "This is a sight-line and surrounding relief constraint along the departure railway. No mountain name, bearing, distance or route curvature is supplied."
+    },
+    {
+      "id": "B03-165",
+      "location": "Hogsmeade access: godfather’s permission",
+      "category": "route",
+      "description": "Sirius supplies written permission as Harry’s godfather for weekend Hogsmeade visits; Harry expects Dumbledore to accept it.",
+      "evidence": [
+        "B03-C022-P0164",
+        "B03-C022-P0171",
+        "B03-C022-P0175",
+        "B03-C022-P0176",
+        "B03-C022-P0177"
+      ],
+      "certainty": "reported",
+      "temporal": "Letter received on the train after third year",
+      "model_notes": "Adds a proposed satisfaction of the existing permission rule, rather than a new physical access route or confirmed removal of all security."
     }
   ],
   "chapter_reviews": [
@@ -3190,6 +3370,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs in four complete chunks. Recorded ward, cupboard, alternative grounds routes, multiple lookout sight lines, tether discrepancy, Willow controls, lakeside surface and aerial office/West Tower rescue."
+    },
+    {
+      "chapter": 22,
+      "reviewed_ranges": [
+        [
+          1,
+          191
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph, including the train journey and letter. Recorded tower-to-ward route, locking, Apparition rule, security change, office departure, summer lake, feast and mountain sight line."
     }
   ]
 }
