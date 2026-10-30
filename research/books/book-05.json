@@ -1064,6 +1064,101 @@
       "certainty": "explicit",
       "temporal": "First September weekend, 1995",
       "model_notes": "Remote head communication is observed, hourly checks reported. Do not model full-body arrival from this scene."
+    },
+    {
+      "id": "B05-072",
+      "location": "Potions to Entrance Hall",
+      "category": "route",
+      "description": "After using the blackboard and submitting potion flasks at Snape’s desk, pupils climb steps out of the dungeon and cross the Entrance Hall toward lunch.",
+      "evidence": [
+        "B05-C015-P0034",
+        "B05-C015-P0035",
+        "B05-C015-P0039"
+      ],
+      "certainty": "explicit",
+      "temporal": "Second week of September term, 1995",
+      "model_notes": "Explicit upward connection from dungeon circulation to Entrance Hall."
+    },
+    {
+      "id": "B05-073",
+      "location": "Divination inspection furniture and route",
+      "category": "temporary",
+      "description": "Harry sits at the back of the shadowed classroom. Umbridge enters through the floor trapdoor and draws an armchair to a point a few inches behind Trelawney’s seat; she later descends the silver ladder, and the pupils reach Defence ten minutes afterward.",
+      "evidence": [
+        "B05-C015-P0069",
+        "B05-C015-P0071",
+        "B05-C015-P0074",
+        "B05-C015-P0083",
+        "B05-C015-P0108"
+      ],
+      "certainty": "explicit",
+      "temporal": "Second week of September term, 1995",
+      "model_notes": "Movable inspection chair and approximate travel interval, not a measured direct-route duration."
+    },
+    {
+      "id": "B05-074",
+      "location": "Defence classroom desk rows",
+      "category": "interior",
+      "description": "Umbridge walks around the front row of student desks to address Hermione, then returns to the front of the room.",
+      "evidence": [
+        "B05-C015-P0111",
+        "B05-C015-P0112",
+        "B05-C015-P0126"
+      ],
+      "certainty": "explicit",
+      "temporal": "Second week of September term, 1995",
+      "model_notes": "Confirms desks arranged in rows; the count and spacing are unspecified."
+    },
+    {
+      "id": "B05-075",
+      "location": "Transfiguration inspection and workstations",
+      "category": "temporary",
+      "description": "Umbridge sits in a classroom corner with her clipboard. McGonagall has a teacher’s desk; a box of live mice is passed among pupils for Vanishing practice.",
+      "evidence": [
+        "B05-C015-P0152",
+        "B05-C015-P0155",
+        "B05-C015-P0168",
+        "B05-C015-P0169",
+        "B05-C015-P0170"
+      ],
+      "certainty": "explicit",
+      "temporal": "Second week of September term, 1995",
+      "model_notes": "Inspection seating and lesson materials are temporary."
+    },
+    {
+      "id": "B05-076",
+      "location": "Outdoor Bowtruckle lesson",
+      "category": "grounds",
+      "description": "Pupils walk down the lawns toward the Forest to a trestle table holding captive Bowtruckles searching for woodlice. Umbridge walks among the students and returns across the lawn to the castle afterward.",
+      "evidence": [
+        "B05-C015-P0177",
+        "B05-C015-P0178",
+        "B05-C015-P0185",
+        "B05-C015-P0197"
+      ],
+      "certainty": "explicit",
+      "temporal": "Second week of September term, 1995",
+      "model_notes": "Repeated concrete lesson setup; planned Porlocks, Kneazles, Crups and Knarls are not confirmed installed exhibits."
+    },
+    {
+      "id": "B05-077",
+      "location": "Common-room sofa, windows and repair",
+      "category": "furnishing",
+      "description": "Windowpanes rattle in a night breeze and the fire gutters. Crookshanks runs under a sofa when Harry breaks a china bowl; Harry’s Reparo reassembles the bowl, leaving its spilled liquid unrecovered.",
+      "evidence": [
+        "B05-C015-P0199",
+        "B05-C015-P0200",
+        "B05-C015-P0201",
+        "B05-C015-P0227",
+        "B05-C015-P0252",
+        "B05-C015-P0264",
+        "B05-C015-P0265",
+        "B05-C015-P0266",
+        "B05-C015-P0267"
+      ],
+      "certainty": "explicit",
+      "temporal": "Second week of September term, 1995",
+      "model_notes": "Confirms sofa with under-clearance and glazed windows; broken bowl is repaired locally in the scene."
     }
   ],
   "chapter_reviews": [
@@ -1220,6 +1315,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs in three chunks, including full newspaper excerpts, Percy letter and hearth discussion."
+    },
+    {
+      "chapter": 15,
+      "reviewed_ranges": [
+        [
+          1,
+          267
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs including newspaper decree text, inspections and defence-study discussion. Closing corridor dreams remain unlocated; proposed creature syllabus is not an observation of animals present."
     }
   ]
 }
