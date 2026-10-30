@@ -2515,6 +2515,179 @@
       "certainty": "reported",
       "temporal": "Christmas holidays, December 1995",
       "model_notes": "Reported general restriction and eyewitness denial of that journey; do not conflate it with the separately observed authorised Portkey departure."
+    },
+    {
+      "id": "B05-160",
+      "location": "Knight Bus school return",
+      "category": "route",
+      "description": "The purple three-decker Knight Bus carries the pupils from London through magically compressed road travel into snowy Hogsmeade, past the Hog’s Head side-street sign, stopping outside Hogwarts gates.",
+      "evidence": [
+        "B05-C024-P0072",
+        "B05-C024-P0085",
+        "B05-C024-P0092",
+        "B05-C024-P0094",
+        "B05-C024-P0095",
+        "B05-C024-P0096",
+        "B05-C024-P0099",
+        "B05-C024-P0101",
+        "B05-C024-P0102",
+        "B05-C024-P0104",
+        "B05-C024-P0105"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1996 return and first Occlumency lesson",
+      "model_notes": "School connection only; intermediate Britain-wide streets are not mapped as contiguous castle approaches."
+    },
+    {
+      "id": "B05-161",
+      "location": "Knight Bus passenger arrangement",
+      "category": "interior",
+      "description": "Daytime mismatched chairs cluster by windows, replacing the brass beds Harry recalls at night. Stairs lead to the top deck; there are candle brackets and a large front window.",
+      "evidence": [
+        "B05-C024-P0088",
+        "B05-C024-P0092",
+        "B05-C024-P0093",
+        "B05-C024-P0094",
+        "B05-C024-P0095",
+        "B05-C024-P0104",
+        "B05-C024-P0105"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1996 return and first Occlumency lesson",
+      "model_notes": "Transport state relevant to arrival; seats slide during abrupt travel."
+    },
+    {
+      "id": "B05-162",
+      "location": "January gate-to-castle approach",
+      "category": "route",
+      "description": "After leaving the bus on a deserted road outside the gates, six pupils drag trunks uphill along a slippery drive to the oaken front doors. Tonks says they will be safe within the grounds.",
+      "evidence": [
+        "B05-C024-P0104",
+        "B05-C024-P0105",
+        "B05-C024-P0106",
+        "B05-C024-P0109"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1996 return and first Occlumency lesson",
+      "model_notes": "Slippery winter state observed; safety assurance is Tonks’s report."
+    },
+    {
+      "id": "B05-163",
+      "location": "Entrance Hall to library approach",
+      "category": "route",
+      "description": "Hermione takes Ron from the Entrance Hall toward the marble staircase to go to the library; Cho ascends the same stair and Harry catches her halfway up before going to the library himself.",
+      "evidence": [
+        "B05-C024-P0113",
+        "B05-C024-P0117",
+        "B05-C024-P0119",
+        "B05-C024-P0130",
+        "B05-C024-P0132",
+        "B05-C024-P0133",
+        "B05-C024-P0135"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1996 return and first Occlumency lesson",
+      "model_notes": "Library lies along this upward route, with no stated floor or direct stair landing entrance."
+    },
+    {
+      "id": "B05-164",
+      "location": "Snape’s office stores and furniture",
+      "category": "interior",
+      "description": "The shadowy office has shelves of hundreds of glass jars containing slimy animal and plant parts in coloured potions, an ingredient cupboard in one corner, a desk in candlelight and a visitor’s chair opposite it. The desk has legs against which Harry strikes his knee.",
+      "evidence": [
+        "B05-C024-P0137",
+        "B05-C024-P0138",
+        "B05-C024-P0139",
+        "B05-C024-P0140",
+        "B05-C024-P0171",
+        "B05-C024-P0186",
+        "B05-C024-P0193"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1996 return and first Occlumency lesson",
+      "model_notes": "Distinguish private office cupboard from the classroom ingredient cupboard."
+    },
+    {
+      "id": "B05-165",
+      "location": "Pensieve in Snape’s office",
+      "category": "temporary",
+      "description": "Dumbledore’s shallow stone Pensieve, engraved with runes and symbols, stands on Snape’s desk. Snape deposits three strands of memory into it, moves it to an out-of-the-way shelf and later retrieves the memories.",
+      "evidence": [
+        "B05-C024-P0138",
+        "B05-C024-P0184",
+        "B05-C024-P0186",
+        "B05-C024-P0243"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1996 return and first Occlumency lesson",
+      "model_notes": "Temporary transfer for Occlumency, not a second independent permanent basin."
+    },
+    {
+      "id": "B05-166",
+      "location": "Castle physical and mental protections",
+      "category": "magic",
+      "description": "Snape says many ancient spells and charms guard the walls and grounds for occupants’ bodily and mental safety; distance and eye contact matter in Legilimency, while Harry’s connection is an exception to normal rules.",
+      "evidence": [
+        "B05-C024-P0153",
+        "B05-C024-P0155",
+        "B05-C024-P0156",
+        "B05-C024-P0157",
+        "B05-C024-P0158",
+        "B05-C024-P0159"
+      ],
+      "certainty": "reported",
+      "temporal": "January 1996 return and first Occlumency lesson",
+      "model_notes": "Reported protective scope without invented wards or absolute protection against all mental intrusion."
+    },
+    {
+      "id": "B05-167",
+      "location": "Earlier Hogwarts scenes recalled in Occlumency",
+      "category": "history",
+      "description": "Harry recalls Hermione in the hospital wing with a fur-covered face, Dementors approaching across the dark grounds lake, and his parents’ reflections in an enchanted mirror.",
+      "evidence": [
+        "B05-C024-P0191",
+        "B05-C024-P0209",
+        "B05-C024-P0220"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1996 return and first Occlumency lesson",
+      "model_notes": "Memory fragments add event/environment states without locating the mirror anew."
+    },
+    {
+      "id": "B05-168",
+      "location": "Library windows and reading space",
+      "category": "interior",
+      "description": "Students work at lamp-lit tables while the sky darkens beyond mullioned windows; Madam Pince patrols the aisles. A window opposite Harry reflects his face.",
+      "evidence": [
+        "B05-C024-P0244",
+        "B05-C024-P0245",
+        "B05-C024-P0249",
+        "B05-C024-P0262"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1996 return and first Occlumency lesson",
+      "model_notes": "Specific glazing pattern and reflective evening state; table/chair layout otherwise unspecified."
+    },
+    {
+      "id": "B05-169",
+      "location": "Common-room demonstration and boys’ stairs",
+      "category": "temporary",
+      "description": "The crowded common room hosts Headless Hat demonstrations: a pink-feathered pointed hat makes itself and the wearer’s head invisible until removed. Harry crosses to the cool stone boys’ staircase and opens the dormitory door above.",
+      "evidence": [
+        "B05-C024-P0263",
+        "B05-C024-P0264",
+        "B05-C024-P0265",
+        "B05-C024-P0266",
+        "B05-C024-P0267",
+        "B05-C024-P0268",
+        "B05-C024-P0275",
+        "B05-C024-P0276",
+        "B05-C024-P0280",
+        "B05-C024-P0287"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1996 return and first Occlumency lesson",
+      "model_notes": "Portable joke prop, not a building invisibility field. Ordinary dormitory door and stone circulation confirmed."
     }
   ],
   "chapter_reviews": [
@@ -2770,6 +2943,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read every paragraph, including corridor dream, full Christmas house and hospital scenes. Only school Apparition boundary adds Hogwarts constraints; London boiler den, hospital ward and dream passage are not castle rooms."
+    },
+    {
+      "chapter": 24,
+      "reviewed_ranges": [
+        [
+          1,
+          287
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs, including full Grimmauld confrontation, bus ride, lesson and aftermath. Paragraph 227 identifies the repeated dream corridor as the Ministry Department of Mysteries, resolving it outside castle scope."
     }
   ]
 }
