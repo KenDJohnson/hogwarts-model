@@ -1007,6 +1007,435 @@
       "certainty": "explicit",
       "temporal": "May 1998, preparations for the battle",
       "model_notes": "Gate material, flanking ornaments and castle sightline; change from unlit pre-dawn windows in chapter 24 reflects a different night/state."
+    },
+    {
+      "id": "B07-066",
+      "location": "Great Hall / evacuation assembly",
+      "category": "interior",
+      "description": "The enchanted ceiling is dark with stars above four long house tables and benches. School ghosts shine pearly white among students. McGonagall addresses them from the raised platform at the top of the Hall, with teachers and Order members behind her. Harry walks alongside the Gryffindor table; Slytherins leave on the other side of the Hall.",
+      "evidence": [
+        "B07-C031-P0001",
+        "B07-C031-P0003",
+        "B07-C031-P0010",
+        "B07-C031-P0018",
+        "B07-C031-P0020",
+        "B07-C031-P0022",
+        "B07-C031-P0024",
+        "B07-C031-P0027"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Opposite-side relationship in this scene, not a complete surveyed table order. Platform supports an assembly rather than a newly installed structure."
+    },
+    {
+      "id": "B07-067",
+      "location": "Castle / Hogsmeade / mountain-cave acoustics",
+      "category": "magic",
+      "description": "Voldemort’s disembodied voice seems to issue from the Great Hall walls. Hagrid reports hearing the ultimatum in his mountain cave, and Aberforth says all Hogsmeade heard it.",
+      "evidence": [
+        "B07-C031-P0012",
+        "B07-C031-P0013",
+        "B07-C031-P0014",
+        "B07-C031-P0015",
+        "B07-C031-P0016",
+        "B07-C031-P0116",
+        "B07-C031-P0138"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Observed Hall sound with reported wider reach; not ordinary acoustic proof of physical proximity between cave, pub and castle."
+    },
+    {
+      "id": "B07-068",
+      "location": "Astronomy, Ravenclaw and Gryffindor towers / siege positions",
+      "category": "exterior",
+      "description": "Kingsley names Ravenclaw, Astronomy and Gryffindor as the three highest towers and assigns defenders there for their good overview and spell-casting positions, with other groups covering the grounds and passage entrances.",
+      "evidence": [
+        "B07-C031-P0028",
+        "B07-C031-P0029",
+        "B07-C031-P0030"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Names the three highest without ranking them individually here; previous highest-Astronomy evidence remains separate."
+    },
+    {
+      "id": "B07-069",
+      "location": "Great Hall → Entrance Hall → marble stairs → refuge evacuation route",
+      "category": "route",
+      "description": "Evacuees fill the Entrance Hall beyond the Great Hall and move up the marble staircase towards the Room of Requirement. At the top Harry follows a deserted corridor and sits on an empty statue plinth halfway along a passage, then returns to the stairs and descends to Nick below. Hundreds continue towards the refuge; Aberforth later reports hundreds passing through his pub.",
+      "evidence": [
+        "B07-C031-P0036",
+        "B07-C031-P0041",
+        "B07-C031-P0042",
+        "B07-C031-P0044",
+        "B07-C031-P0136",
+        "B07-C031-P0137",
+        "B07-C031-P0138"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Local sequence and flows, not an exact floor-to-floor survey. Vacant plinth follows the statue mobilisation."
+    },
+    {
+      "id": "B07-070",
+      "location": "Entrance Hall / adjoining corridor and ghosts",
+      "category": "magic",
+      "description": "The Grey Lady crosses a solid wall from the Entrance Hall into a corridor Harry reaches through its door, then glides a few inches above the floor. She is tall, with waist-length hair and a floor-length cloak; she identifies herself as Helena Ravenclaw. She shows the dark wound in her chest and says the Bloody Baron wears chains in penitence.",
+      "evidence": [
+        "B07-C031-P0049",
+        "B07-C031-P0053",
+        "B07-C031-P0054",
+        "B07-C031-P0055",
+        "B07-C031-P0057",
+        "B07-C031-P0060",
+        "B07-C031-P0061",
+        "B07-C031-P0074",
+        "B07-C031-P0077",
+        "B07-C031-P0088",
+        "B07-C031-P0090"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Observed ghost appearance and wall passage; Baron-chain explanation is her report. Her Albanian forest and hollow tree are remote and not Hogwarts vegetation."
+    },
+    {
+      "id": "B07-071",
+      "location": "Castle / hypothesised historical diadem deposition",
+      "category": "history",
+      "description": "Harry deduces that Riddle hid the diadem during his visit to request a teaching job, on the way to or from Dumbledore’s office.",
+      "evidence": [
+        "B07-C031-P0100",
+        "B07-C031-P0102",
+        "B07-C031-P0103",
+        "B07-C031-P0105",
+        "B07-C031-P0107",
+        "B07-C031-P0123",
+        "B07-C031-P0124",
+        "B07-C031-P0125"
+      ],
+      "certainty": "inference",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Reasoning links the hiding room to the remembered job interview, without proving an exact route or time of placement."
+    },
+    {
+      "id": "B07-072",
+      "location": "Forest-side boundary → castle corridor window",
+      "category": "route",
+      "description": "Hagrid reports Grawp carrying him and Fang from their cave, smashing through the boundary by the Forest and putting them through a castle window. Harry sees Hagrid crash through a window to his left into the opposite corridor wall, with Grawp outside. Hagrid’s later footfalls shake the corridor’s floorboards.",
+      "evidence": [
+        "B07-C031-P0108",
+        "B07-C031-P0109",
+        "B07-C031-P0111",
+        "B07-C031-P0112",
+        "B07-C031-P0113",
+        "B07-C031-P0116",
+        "B07-C031-P0118",
+        "B07-C031-P0119",
+        "B07-C031-P0120"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Dated breach and wooden corridor floor; boundary material and height of this window are not given."
+    },
+    {
+      "id": "B07-073",
+      "location": "Staff-room entrance / stone gargoyles",
+      "category": "temporary",
+      "description": "Two stone gargoyles normally guarding the staff-room entrance are smashed by a jinx entering through a broken window. Their fragments still stir and one detached head speaks from the floor.",
+      "evidence": [
+        "B07-C031-P0121"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Establishes paired stone guardians and damaged animated remnants, without identifying floor or side of doorway."
+    },
+    {
+      "id": "B07-074",
+      "location": "Castle walls / Mandrake defence",
+      "category": "temporary",
+      "description": "Sprout, Neville and about half a dozen others carry large potted Mandrakes while wearing earmuffs. Neville says they intend to throw them over the walls.",
+      "evidence": [
+        "B07-C031-P0126",
+        "B07-C031-P0127"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Observed plants and ear protection; deployment over a particular wall is still intended, not seen here."
+    },
+    {
+      "id": "B07-075",
+      "location": "Castle portraits / news network and Sir Cadogan",
+      "category": "magic",
+      "description": "Painted figures in historical dress race alongside Harry through neighbouring canvases, cramming into each other’s pictures and shouting news from elsewhere in the castle. Sir Cadogan, a small armoured knight with a fat pony, accompanies him from frame to frame along one corridor.",
+      "evidence": [
+        "B07-C031-P0128",
+        "B07-C031-P0130",
+        "B07-C031-P0131"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Within-castle portrait movement and information flow. No frame dimensions or permanent hanging order supplied."
+    },
+    {
+      "id": "B07-076",
+      "location": "Castle passages / vase and displaced display statue",
+      "category": "temporary",
+      "description": "A huge vase explodes from its plinth as the castle shakes. In another corridor Fred’s group guards a concealed hole beside an empty plinth whose former statue hid a secret passage; owls crowd a subsequent corridor.",
+      "evidence": [
+        "B07-C031-P0128",
+        "B07-C031-P0129",
+        "B07-C031-P0132",
+        "B07-C031-P0133"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Do not identify this unnamed statue passage with a known named tunnel without cross-book evidence. Owls’ presence does not locate the Owlery."
+    },
+    {
+      "id": "B07-077",
+      "location": "Chamber of Secrets / entry and Basilisk remains",
+      "category": "magic",
+      "description": "Ron and Hermione report visiting the Chamber, tearing great curved dirty-yellow fangs from the dead Basilisk’s skull and using one to destroy the cup. Ron opened the entrance by imitating Harry’s Parseltongue command after several attempts.",
+      "evidence": [
+        "B07-C031-P0142",
+        "B07-C031-P0144",
+        "B07-C031-P0146",
+        "B07-C031-P0148",
+        "B07-C031-P0149",
+        "B07-C031-P0150",
+        "B07-C031-P0151",
+        "B07-C031-P0152",
+        "B07-C031-P0153",
+        "B07-C031-P0156"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "The required sound can be reproduced without natural Parseltongue ability; no new entrance geometry or proof of every remaining skeleton element."
+    },
+    {
+      "id": "B07-078",
+      "location": "Room of Requirement / refuge exit and tunnel closure",
+      "category": "magic",
+      "description": "Harry leads the trio down the concealed staircase into the almost-empty refuge. He knows the Room cannot transform while users remain inside. Augusta says she was the last through the Hog’s Head passage and sealed it after Aberforth left; the last refuge occupants then leave by the stone steps.",
+      "evidence": [
+        "B07-C031-P0159",
+        "B07-C031-P0160",
+        "B07-C031-P0161",
+        "B07-C031-P0164",
+        "B07-C031-P0165",
+        "B07-C031-P0166",
+        "B07-C031-P0168",
+        "B07-C031-P0172",
+        "B07-C031-P0173",
+        "B07-C031-P0174",
+        "B07-C031-P0175",
+        "B07-C031-P0187"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Reported sealing method unspecified. Physical stair exit and later three-pass hiding-room entrance are narrated separately; do not force the variable refuge route into one fixed plan."
+    },
+    {
+      "id": "B07-079",
+      "location": "Hogwarts kitchens / house-elves",
+      "category": "interior",
+      "description": "Ron expects the house-elves to be down in the kitchen during the battle and urges warning them to escape.",
+      "evidence": [
+        "B07-C031-P0176",
+        "B07-C031-P0177",
+        "B07-C031-P0178",
+        "B07-C031-P0179",
+        "B07-C031-P0180"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Expectation of occupied kitchen, not a witnessed headcount or an evacuation that is shown taking place."
+    },
+    {
+      "id": "B07-080",
+      "location": "Corridor windows / castle foot / North Battlements",
+      "category": "temporary",
+      "description": "Back upstairs dust fills shaking corridors. Through one window Harry sees fighting flashes close to the castle’s foot and Grawp carrying what looks like a roof-torn stone gargoyle. At the next window, missing several panes, Ginny casts into fighters below. Aberforth reports enemy giants apparently breaching the North Battlements.",
+      "evidence": [
+        "B07-C031-P0187",
+        "B07-C031-P0188",
+        "B07-C031-P0189",
+        "B07-C031-P0190",
+        "B07-C031-P0191",
+        "B07-C031-P0192",
+        "B07-C031-P0194",
+        "B07-C031-P0196"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "North is explicit for battlements, not necessarily for these windows. Gargoyle origin and breach are qualified observations/reports, not surveyed facts."
+    },
+    {
+      "id": "B07-081",
+      "location": "Room of Requirement / hidden-things entrance and acoustic isolation",
+      "category": "magic",
+      "description": "Harry’s mental request for the place where everything is hidden makes a door appear on the third pass along its wall. Closing it silences the battle; the huge room produces echoes. Hermione’s Summoning Charm fails to bring the diadem.",
+      "evidence": [
+        "B07-C031-P0196",
+        "B07-C031-P0197",
+        "B07-C031-P0198",
+        "B07-C031-P0199",
+        "B07-C031-P0200",
+        "B07-C031-P0202"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "One failed object-summoning attempt does not establish that all charms always fail throughout the Room. Hidden-things state is available after the refuge empties."
+    },
+    {
+      "id": "B07-082",
+      "location": "Room of Hidden Things / scale, contents and landmarks",
+      "category": "interior",
+      "description": "The cathedral-sized space resembles a city with towering walls of hidden objects and aisles between them. Harry passes the stuffed troll and the Vanishing Cabinet Malfoy repaired. Piles contain bottles, hats, crates, chairs, books, weapons, broomsticks and bats; one junk wall of old furniture, broken trunks, books and robes is fifty feet high. A three-legged wardrobe and a tower of desks also provide cover.",
+      "evidence": [
+        "B07-C031-P0198",
+        "B07-C031-P0200",
+        "B07-C031-P0201",
+        "B07-C031-P0203",
+        "B07-C031-P0204",
+        "B07-C031-P0206",
+        "B07-C031-P0212",
+        "B07-C031-P0219",
+        "B07-C031-P0220",
+        "B07-C031-P0221",
+        "B07-C031-P0222",
+        "B07-C031-P0234",
+        "B07-C031-P0237",
+        "B07-C031-P0238",
+        "B07-C031-P0254"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Fifty feet belongs to a particular heap, not the ceiling height. Aisle to Harry’s right contains Ron behind a junk wall; speech becomes inaudible at greater distance."
+    },
+    {
+      "id": "B07-083",
+      "location": "Hidden-things cupboard / bust / diadem marker",
+      "category": "furnishing",
+      "description": "A blistered old cupboard holds Harry’s old Potions book. On top stands a pockmarked stone effigy of an ugly old warlock wearing a dusty wig and an ancient discoloured tiara. Harry recognises this marker from his previous visit, and identifies the tiara as the lost diadem.",
+      "evidence": [
+        "B07-C031-P0122",
+        "B07-C031-P0123",
+        "B07-C031-P0124",
+        "B07-C031-P0142",
+        "B07-C031-P0160",
+        "B07-C031-P0203",
+        "B07-C031-P0206",
+        "B07-C031-P0207",
+        "B07-C031-P0215",
+        "B07-C031-P0229",
+        "B07-C031-P0267"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Same marker group as book 6; discovery establishes the identity that was not then known. Harry is ten feet away when interrupted, not a measurement of cupboard height."
+    },
+    {
+      "id": "B07-084",
+      "location": "Room of Hidden Things / duel destabilisation",
+      "category": "temporary",
+      "description": "Crabbe’s Descendo makes a fifty-foot junk wall crumble into the adjacent aisle; Harry steadies it with Finite. A later curse blasts the stone bust into the air, sending the diadem into the heap below.",
+      "evidence": [
+        "B07-C031-P0219",
+        "B07-C031-P0220",
+        "B07-C031-P0221",
+        "B07-C031-P0222",
+        "B07-C031-P0223",
+        "B07-C031-P0229"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Dated changes before the fire, preserving the marker’s loss rather than leaving it standing afterward."
+    },
+    {
+      "id": "B07-085",
+      "location": "Room of Hidden Things / Fiendfyre destruction",
+      "category": "temporary",
+      "description": "Crabbe’s cursed fire climbs heaps that turn to soot, evaporates Harry’s water jet, pursues the fugitives and forms huge fiery serpents, Chimaeras, dragons and a birdlike raptor. It consumes and throws objects high into dense black smoke and overwhelming heat. Harry and his friends use two stored broomsticks to fly above it, rescuing Malfoy and Goyle from charred desks.",
+      "evidence": [
+        "B07-C031-P0241",
+        "B07-C031-P0242",
+        "B07-C031-P0243",
+        "B07-C031-P0244",
+        "B07-C031-P0246",
+        "B07-C031-P0247",
+        "B07-C031-P0248",
+        "B07-C031-P0250",
+        "B07-C031-P0251",
+        "B07-C031-P0253",
+        "B07-C031-P0254",
+        "B07-C031-P0255",
+        "B07-C031-P0256",
+        "B07-C031-P0257",
+        "B07-C031-P0258",
+        "B07-C031-P0269",
+        "B07-C031-P0271",
+        "B07-C031-P0273"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Hermione identifies it as Fiendfyre. Destruction of much stored material is explicit; complete destruction of every item or every future room configuration is not proved."
+    },
+    {
+      "id": "B07-086",
+      "location": "Room of Requirement / escape aperture and uncertain future usability",
+      "category": "temporary",
+      "description": "Harry sees the doorway as a rectangular patch through smoke and flies through it, colliding with the corridor wall beyond. The door has vanished when the survivors sit outside. Ron questions whether the Room will still work after the fire.",
+      "evidence": [
+        "B07-C031-P0251",
+        "B07-C031-P0256",
+        "B07-C031-P0257",
+        "B07-C031-P0258",
+        "B07-C031-P0259",
+        "B07-C031-P0263",
+        "B07-C031-P0264",
+        "B07-C031-P0265"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 immediately after Fiendfyre escape",
+      "model_notes": "Do not turn an unanswered question into a permanent closure claim. The Headless Hunt subsequently gallops through the corridor on ghostly horses, carrying their heads beneath their arms."
+    },
+    {
+      "id": "B07-087",
+      "location": "Ravenclaw diadem / destruction outside hiding room",
+      "category": "temporary",
+      "description": "The recovered old diadem is blackened and hot, its tiny wisdom motto still legible. A dark tarry fluid leaks out before it vibrates and breaks into fragments in Harry’s hands.",
+      "evidence": [
+        "B07-C031-P0267",
+        "B07-C031-P0268",
+        "B07-C031-P0269",
+        "B07-C031-P0271"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "Dated destruction of the formerly stored object; its material is not specified in these paragraphs."
+    },
+    {
+      "id": "B07-088",
+      "location": "Corridor outside Room of Requirement / exploded outer wall",
+      "category": "temporary",
+      "description": "Death Eaters enter the castle and duel in the corridor. An explosion throws the group into rubble, blowing away part of the castle’s outer side and admitting cold air. Harry and Hermione stumble over stone and wood beside the blasted wall, where Fred has been killed.",
+      "evidence": [
+        "B07-C031-P0275",
+        "B07-C031-P0276",
+        "B07-C031-P0277",
+        "B07-C031-P0278",
+        "B07-C031-P0279",
+        "B07-C031-P0280",
+        "B07-C031-P0281",
+        "B07-C031-P0282",
+        "B07-C031-P0283",
+        "B07-C031-P0284"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
+      "model_notes": "No named floor or explicit source of this particular explosion. Keep this damage distinct from the Room’s fire."
     }
   ],
   "chapter_reviews": [
@@ -1339,6 +1768,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs in two complete chunks. Recorded confirmed dormitories above Ravenclaw, entry challenge, damaged bookcase, suspended Carrows, evacuation constraints, stair/corridor/classroom route, duel damage, protections, animated armour/statues, refuge bathroom and gate view. Remote Horcrux cave visions excluded."
+    },
+    {
+      "chapter": 31,
+      "reviewed_ranges": [
+        [
+          1,
+          284
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three complete chunks. Recorded assembly/evacuation, tower strategy, ghost/corridor constraints, forest breach, staff-room guardians, wall defences, portrait travel, hidden statue passage, Chamber visit, refuge closure/transform rules, North Battlements, hiding-room scale/contents/markers, Fiendfyre and separate outer-wall explosion. Albanian tree and remote cave/lake excluded."
     }
   ]
 }
