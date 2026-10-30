@@ -2482,6 +2482,156 @@
       "certainty": "explicit",
       "temporal": "May 1997",
       "model_notes": "Dated password, trophy and crowd occupancy; not a room-capacity figure or permanent trophy display."
+    },
+    {
+      "id": "B06-163",
+      "location": "Library newspaper archive",
+      "category": "furnishing",
+      "description": "Hermione reports a whole collection of old Daily Prophets in the library, from which she obtains Eileen Prince’s school photograph and news item.",
+      "evidence": [
+        "B06-C025-P0023",
+        "B06-C025-P0024",
+        "B06-C025-P0025",
+        "B06-C025-P0036",
+        "B06-C025-P0037",
+        "B06-C025-P0039"
+      ],
+      "certainty": "reported",
+      "temporal": "Early June 1997",
+      "model_notes": "Archival collection, not evidence of where within the library it is shelved; proposed Potions-award search is not confirmation of a physical display."
+    },
+    {
+      "id": "B06-164",
+      "location": "Room of Requirement corridor left/right relation",
+      "category": "route",
+      "description": "Approaching Trelawney’s fallen position from a nearby corner, Harry sees the dancing-troll tapestry on his right and the smooth stone wall hiding the Room on his left.",
+      "evidence": [
+        "B06-C025-P0055",
+        "B06-C025-P0056",
+        "B06-C025-P0058",
+        "B06-C025-P0063"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1997, departure evening",
+      "model_notes": "View-relative sides only; no compass bearing. Corridors are quiet shortly before curfew."
+    },
+    {
+      "id": "B06-165",
+      "location": "Trelawney’s hiding-room ejection",
+      "category": "magic",
+      "description": "Trelawney reports entering the Room to hide personal items, hearing an apparently male celebratory whoop, calling out, then being plunged into darkness and thrown headfirst outside. Harry hears her scream and finds her on the corridor floor with sherry bottles.",
+      "evidence": [
+        "B06-C025-P0056",
+        "B06-C025-P0057",
+        "B06-C025-P0058",
+        "B06-C025-P0070",
+        "B06-C025-P0073",
+        "B06-C025-P0075",
+        "B06-C025-P0077",
+        "B06-C025-P0079",
+        "B06-C025-P0082",
+        "B06-C025-P0084",
+        "B06-C025-P0086",
+        "B06-C025-P0088",
+        "B06-C025-P0092",
+        "B06-C025-P0094"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1997, departure evening",
+      "model_notes": "Room entry, voice/darkness and ejection are her report; the scream and aftermath are witnessed. Occupant identity, darkness cause and physical ejection mechanism remain unproven in this scene."
+    },
+    {
+      "id": "B06-166",
+      "location": "Niche vase near Room corridor",
+      "category": "furnishing",
+      "description": "A large blue-and-white vase stands in a nearby niche; Trelawney puts her sherry bottles into it before accompanying Harry.",
+      "evidence": [
+        "B06-C025-P0105",
+        "B06-C025-P0106"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1997, departure evening",
+      "model_notes": "Fixed decorative vessel in wall recess with temporary concealed bottles; exact recess placement not specified."
+    },
+    {
+      "id": "B06-167",
+      "location": "Headmaster office sunset view",
+      "category": "route",
+      "description": "Dumbledore stands at the office window looking out over the grounds. The setting sun casts gold then red light into the room and appears as a ruby-red glare along the horizon.",
+      "evidence": [
+        "B06-C025-P0126",
+        "B06-C025-P0127",
+        "B06-C025-P0142",
+        "B06-C025-P0150",
+        "B06-C025-P0191"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1997, departure evening",
+      "model_notes": "Grounds and sunset line of sight from window. Do not assign a precise azimuth or identify which window from this alone."
+    },
+    {
+      "id": "B06-168",
+      "location": "Extra protection during Headmaster absence",
+      "category": "magic",
+      "description": "Dumbledore says he has never left Hogwarts unprotected during his absences that year and will put additional protection in place that evening.",
+      "evidence": [
+        "B06-C025-P0167",
+        "B06-C025-P0169",
+        "B06-C025-P0170",
+        "B06-C025-P0196"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1997, departure evening",
+      "model_notes": "Dated security preparation; unspecified personnel/spells here. Harry’s concern about circumvention is not proof that any particular barrier has failed."
+    },
+    {
+      "id": "B06-169",
+      "location": "Castle front steps–drive–gates",
+      "category": "route",
+      "description": "Dumbledore waits by the oaken front doors/top stone step, then descends the steps with Harry and follows the drive downhill to gates at its bottom. In still summer twilight the air smells of warm grass, lake water and cabin wood smoke.",
+      "evidence": [
+        "B06-C025-P0203",
+        "B06-C025-P0204",
+        "B06-C025-P0205",
+        "B06-C025-P0206",
+        "B06-C025-P0209",
+        "B06-C025-P0210"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1997, departure evening",
+      "model_notes": "Front entrance → steps → descending drive → gates sequence; environmental scent sources do not supply distances or wind bearings."
+    },
+    {
+      "id": "B06-170",
+      "location": "Gates–Hogsmeade pubs–Apparition departure",
+      "category": "route",
+      "description": "Outside the gates they turn into the deserted lane to Hogsmeade and reach the High Street, with lit windows above shops. Passing the Three Broomsticks, they then turn into the side street with the Hog’s Head’s creaking sign. They Apparate outside without entering the pub.",
+      "evidence": [
+        "B06-C025-P0208",
+        "B06-C025-P0215",
+        "B06-C025-P0216",
+        "B06-C025-P0217",
+        "B06-C025-P0218",
+        "B06-C025-P0219",
+        "B06-C025-P0220"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1997, departure evening",
+      "model_notes": "School boundary and off-site departure route; Hog’s Head appears empty and quiet versus the Three Broomsticks. No street lengths or bearings stated."
+    },
+    {
+      "id": "B06-171",
+      "location": "Hog’s Head historical guest room",
+      "category": "history",
+      "description": "Trelawney recalls staying in a room at the Hog’s Head for her interview with Dumbledore, complains of bedbugs, and describes Snape caught outside her door after claiming to have taken the wrong stairs.",
+      "evidence": [
+        "B06-C025-P0112",
+        "B06-C025-P0114",
+        "B06-C025-P0116"
+      ],
+      "certainty": "reported",
+      "temporal": "Trelawney’s recruitment, recalled June 1997",
+      "model_notes": "Limited village lodging/stair context for the school visit; no room floor number, exact stair configuration or modern condition established."
     }
   ],
   "chapter_reviews": [
@@ -2748,6 +2898,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two blocks. Captured Charms effects/tables, window seating, sixth-floor bathroom route and fixture damage, full hidden-object room volume/inventory/turns/cupboard marker and stone door, dungeon office/stairs/acoustics/files, and celebration credential. Reconciled Katie’s uncertain bathroom recollection; no remembered identity assigned to tiara."
+    },
+    {
+      "chapter": 25,
+      "reviewed_ranges": [
+        [
+          1,
+          220
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks, including Trelawney’s reports and all departure dialogue. Captured newspaper archive, corridor sides/niche, reported Room ejection, sunset view, protection claim, front drive/gates and lane/pub/Apparition route. Off-site cave identified as many miles away, so it is not a Hogwarts-lake or grounds cave."
     }
   ]
 }
