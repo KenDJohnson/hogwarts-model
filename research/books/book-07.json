@@ -305,6 +305,56 @@
       "certainty": "reported",
       "temporal": "Autumn 1997",
       "model_notes": "Statements concern secluded access and a known entrant, not proof the sword was stored there or a description of its entrance."
+    },
+    {
+      "id": "B07-022",
+      "location": "Hogwarts / Marauder’s Map",
+      "category": "magic",
+      "description": "From remote camps Harry uses the Marauder’s Map to watch for Ron in Hogwarts corridors and to see Ginny’s name in the girls’ dormitory.",
+      "evidence": [
+        "B07-C016-P0006"
+      ],
+      "certainty": "explicit",
+      "temporal": "Autumn 1997",
+      "model_notes": "Remote live tracking includes corridors and a girls’ dormitory; no room shape or absolute position supplied."
+    },
+    {
+      "id": "B07-023",
+      "location": "Hogwarts–Hogsmeade student access",
+      "category": "temporary",
+      "description": "Phineas Nigellus reports that Ginny is banned from visiting Hogsmeade under Snape. Harry also remembers needing a guardian-signed permission slip and asking McGonagall for permission when he lacked one.",
+      "evidence": [
+        "B07-C016-P0009",
+        "B07-C016-P0010",
+        "B07-C016-P0016"
+      ],
+      "certainty": "reported",
+      "temporal": "Autumn 1997 restriction and recollection of earlier visits",
+      "model_notes": "Social access constraints for the village route, without a newly described physical barrier."
+    },
+    {
+      "id": "B07-024",
+      "location": "Great Hall / castle Christmas decorations",
+      "category": "temporary",
+      "description": "Carols recall Hogwarts Christmases to Harry: twelve Christmas trees in the Great Hall and Peeves singing rude carols from inside suits of armour.",
+      "evidence": [
+        "B07-C016-P0089"
+      ],
+      "certainty": "explicit",
+      "temporal": "Christmas Eve 1997 recollection of earlier school Christmases",
+      "model_notes": "Seasonal count and use of hollow armour; no assertion that the same decorations are present under Snape that year."
+    },
+    {
+      "id": "B07-025",
+      "location": "Dumbledore’s tomb",
+      "category": "grounds",
+      "description": "Harry identifies his parents’ white-marble headstone as the same material as Dumbledore’s tomb.",
+      "evidence": [
+        "B07-C016-P0124"
+      ],
+      "certainty": "explicit",
+      "temporal": "Christmas Eve 1997 recollection",
+      "model_notes": "Corroborates the Hogwarts tomb’s white marble only; graveyard row positions and visibility belong to Godric’s Hollow, not the school tomb."
     }
   ],
   "chapter_reviews": [
@@ -472,6 +522,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs in three complete chunks. Recorded sword case damage/removal, portrait adjacency and travel limits, Forest work/giant spiders, and Shack access remarks. Off-site camping geography excluded; Horcrux-location speculation not treated as a confirmed hiding place."
+    },
+    {
+      "chapter": 16,
+      "reviewed_ranges": [
+        [
+          1,
+          133
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Recorded remote map view, village access restrictions, school Christmas recollections and tomb material comparison. Godric’s Hollow streets, church and graves are geographically separate and excluded."
     }
   ]
 }
