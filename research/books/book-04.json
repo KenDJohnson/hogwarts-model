@@ -824,6 +824,88 @@
       "certainty": "explicit",
       "temporal": "31 October 1994 selection",
       "model_notes": "Krum’s right turn is from his approach towards the staff table. These are local route constraints, not a complete overhead seating plan."
+    },
+    {
+      "id": "B04-058",
+      "location": "Great Hall to champions’ chamber",
+      "category": "route",
+      "description": "Harry walks between Gryffindor and Hufflepuff to the staff table, passes Hagrid’s end seat and enters the smaller room beyond the rear door. Great Hall voices are audible when its door is open.",
+      "evidence": [
+        "B04-C017-P0010",
+        "B04-C017-P0011",
+        "B04-C017-P0012",
+        "B04-C017-P0024"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1994, after selection",
+      "model_notes": "A contiguous route and acoustic connection. The perceived very long walk is subjective, not a distance measurement."
+    },
+    {
+      "id": "B04-059",
+      "location": "Chamber behind Great Hall",
+      "category": "interior",
+      "description": "Paintings of witches and wizards line the smaller room. A roaring fireplace with a mantelpiece is opposite the entrance, and a candle-filled chandelier hangs low enough for Maxime’s head to brush it. Some parts of the room beyond the firelight remain in shadow.",
+      "evidence": [
+        "B04-C017-P0012",
+        "B04-C017-P0014",
+        "B04-C017-P0027",
+        "B04-C017-P0047"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1994, after selection",
+      "model_notes": "Maxime’s height is not measured here, so the chandelier contact gives a relational clearance only."
+    },
+    {
+      "id": "B04-060",
+      "location": "Chamber portraits and Violet",
+      "category": "magic",
+      "description": "A wizened witch moves from her painting into the adjacent frame containing a walrus-moustached wizard. Later the same witch, identified as Violet, shares the Fat Lady’s portrait at Gryffindor Tower.",
+      "evidence": [
+        "B04-C017-P0013",
+        "B04-C017-P0105",
+        "B04-C017-P0106",
+        "B04-C017-P0109"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1994, after selection",
+      "model_notes": "Observed movement and shared frames establish portrait travel. The specific route through every picture on seven staircases is Harry’s reconstruction rather than a witnessed sequence."
+    },
+    {
+      "id": "B04-061",
+      "location": "Great Hall and Entrance Hall after selection",
+      "category": "temporary",
+      "description": "The deserted Great Hall is lit by low-burning candles inside carved pumpkins, whose jagged mouths flicker. The Entrance Hall has only torchlight after the Goblet’s removal.",
+      "evidence": [
+        "B04-C017-P0092",
+        "B04-C017-P0095"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1994, after selection",
+      "model_notes": "Late Hallowe’en lighting state; does not mean permanent candles are absent elsewhere in the building."
+    },
+    {
+      "id": "B04-062",
+      "location": "Entrance Hall door beside marble staircase",
+      "category": "route",
+      "description": "Cedric takes a door to the right of the marble staircase and descends stone steps beyond it, while Harry climbs the marble staircase towards Gryffindor.",
+      "evidence": [
+        "B04-C017-P0098"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1994, after selection",
+      "model_notes": "This is Cedric’s departure towards his house celebrations; the text does not yet explicitly identify the steps’ destination. Do not conflate the door with the Great Hall’s right-hand entrance."
+    },
+    {
+      "id": "B04-063",
+      "location": "Gryffindor boys’ dormitory curtains",
+      "category": "furnishing",
+      "description": "Ron closes the hangings around his four-poster; they are dark red velvet.",
+      "evidence": [
+        "B04-C017-P0141"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1994, after selection",
+      "model_notes": "Adds the curtain material to the earlier crimson-colour description; the curtains can conceal an occupant."
     }
   ],
   "chapter_reviews": [
@@ -1002,6 +1084,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed. Included Goblet relocation and Age Line behaviour, guest accommodation, paddock distance, cabin furnishings, window views, and Hallowe’en lighting."
+    },
+    {
+      "chapter": 17,
+      "reviewed_ranges": [
+        [
+          1,
+          141
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Distinguished observed portrait movement from Harry’s seven-staircase reconstruction. The Goblet’s alleged tampering is character explanation, not measured building geometry."
     }
   ]
 }
