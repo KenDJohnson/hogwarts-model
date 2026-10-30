@@ -271,6 +271,208 @@ Model: Adds direct stadium-to-ward journey; hospital floor is not named.
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 258–259, ¶73 (B02-C014-P0073)](../../build/reader/book-02.html#B02-C014-P0073)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 259, ¶74 (B02-C014-P0074)](../../build/reader/book-02.html#B02-C014-P0074)
 
+## B03-032: Quidditch pitch — hoop height and edge changing rooms
+
+The goals include fifty-foot-high hoops at each end; the team meets in chilly changing rooms at the edge of the darkening pitch. Autumn training continues through mud, wind and rain.
+
+Evidence: explicit; state: October 1993.
+
+Model: Reaffirms height and places changing facilities at pitch edge, without a stand plan.
+
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 142, ¶9 (B03-C008-P0009)](../../build/reader/book-03.html#B03-C008-P0009)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 142, ¶10 (B03-C008-P0010)](../../build/reader/book-03.html#B03-C008-P0010)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 142–143, ¶11 (B03-C008-P0011)](../../build/reader/book-03.html#B03-C008-P0011)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 144, ¶25 (B03-C008-P0025)](../../build/reader/book-03.html#B03-C008-P0025)
+
+## B03-048: McGonagall’s office — pitch view and training guard
+
+From her office window McGonagall can see the Quidditch pitch through rain. She regards it as exposed and arranges Madam Hooch to supervise Harry’s evening practices; teachers and Percy also escort/watch him in corridors.
+
+Evidence: explicit; state: After Hallowe’en 1993.
+
+Model: Explicit office-to-pitch sightline; security judgment and supervision dated to the Black threat.
+
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 165, ¶53 (B03-C009-P0053)](../../build/reader/book-03.html#B03-C009-P0053)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 165–166, ¶54 (B03-C009-P0054)](../../build/reader/book-03.html#B03-C009-P0054)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 166, ¶56 (B03-C009-P0056)](../../build/reader/book-03.html#B03-C009-P0056)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 166, ¶57 (B03-C009-P0057)](../../build/reader/book-03.html#B03-C009-P0057)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 166, ¶59 (B03-C009-P0059)](../../build/reader/book-03.html#B03-C009-P0059)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 166–167, ¶61 (B03-C009-P0061)](../../build/reader/book-03.html#B03-C009-P0061)
+
+## B03-051: Quidditch pitch — gale and umbrella shelter
+
+The school descends lawns to the pitch in strong wind. Players emerge from changing rooms on opposing sides; mud grips their feet, thunder masks cheers/commentary, and rain obscures teams and stands. During time-out Gryffindor shelters beneath a large umbrella at the pitch edge.
+
+Evidence: explicit; state: November 1993 Gryffindor–Hufflepuff match.
+
+Model: Weather, visibility and temporary shelter; the water-repelling spectacle charm affects Harry’s view, not global weather.
+
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 174, ¶134 (B03-C009-P0134)](../../build/reader/book-03.html#B03-C009-P0134)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 174–175, ¶135 (B03-C009-P0135)](../../build/reader/book-03.html#B03-C009-P0135)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 175, ¶136 (B03-C009-P0136)](../../build/reader/book-03.html#B03-C009-P0136)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 175, ¶137 (B03-C009-P0137)](../../build/reader/book-03.html#B03-C009-P0137)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 175–176, ¶139 (B03-C009-P0139)](../../build/reader/book-03.html#B03-C009-P0139)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 176, ¶140 (B03-C009-P0140)](../../build/reader/book-03.html#B03-C009-P0140)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 176, ¶141 (B03-C009-P0141)](../../build/reader/book-03.html#B03-C009-P0141)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 176, ¶142 (B03-C009-P0142)](../../build/reader/book-03.html#B03-C009-P0142)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 176, ¶143 (B03-C009-P0143)](../../build/reader/book-03.html#B03-C009-P0143)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 176, ¶147 (B03-C009-P0147)](../../build/reader/book-03.html#B03-C009-P0147)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 176, ¶149 (B03-C009-P0149)](../../build/reader/book-03.html#B03-C009-P0149)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 176–177, ¶150 (B03-C009-P0150)](../../build/reader/book-03.html#B03-C009-P0150)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 177, ¶153 (B03-C009-P0153)](../../build/reader/book-03.html#B03-C009-P0153)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 177, ¶154 (B03-C009-P0154)](../../build/reader/book-03.html#B03-C009-P0154)
+
+## B03-052: Quidditch stands — black dog sighting
+
+Lightning reveals a large shaggy black dog silhouetted in the topmost otherwise empty row of seats; it has vanished when Harry looks again.
+
+Evidence: explicit; state: After Hallowe’en 1993.
+
+Model: Observed brief stadium occupant, not proof of an omen or an access mechanism.
+
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 177, ¶155 (B03-C009-P0155)](../../build/reader/book-03.html#B03-C009-P0155)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 177, ¶156 (B03-C009-P0156)](../../build/reader/book-03.html#B03-C009-P0156)
+
+## B03-053: Quidditch pitch — Dementor intrusion and hospital transfer
+
+At least a hundred Dementors gather below Harry on the pitch, bringing perceived silence and intense cold; he falls. His friends report Dumbledore slowing the fall, driving them out with silver magic and taking Harry uphill to school on a floating stretcher.
+
+Evidence: explicit; state: After Hallowe’en 1993.
+
+Model: Observed incursion plus reported rescue. Fred’s fifty-foot fall estimate is not a measured flight height; Wood’s presence in showers is also a friend’s report.
+
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 178, ¶161 (B03-C009-P0161)](../../build/reader/book-03.html#B03-C009-P0161)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 178, ¶162 (B03-C009-P0162)](../../build/reader/book-03.html#B03-C009-P0162)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 178, ¶163 (B03-C009-P0163)](../../build/reader/book-03.html#B03-C009-P0163)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 178, ¶164 (B03-C009-P0164)](../../build/reader/book-03.html#B03-C009-P0164)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 178, ¶168 (B03-C009-P0168)](../../build/reader/book-03.html#B03-C009-P0168)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 178, ¶169 (B03-C009-P0169)](../../build/reader/book-03.html#B03-C009-P0169)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 179, ¶173 (B03-C009-P0173)](../../build/reader/book-03.html#B03-C009-P0173)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 179, ¶179 (B03-C009-P0179)](../../build/reader/book-03.html#B03-C009-P0179)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 179, ¶183 (B03-C009-P0183)](../../build/reader/book-03.html#B03-C009-P0183)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 180, ¶191 (B03-C009-P0191)](../../build/reader/book-03.html#B03-C009-P0191)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 180, ¶201 (B03-C009-P0201)](../../build/reader/book-03.html#B03-C009-P0201)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 180–181, ¶203 (B03-C009-P0203)](../../build/reader/book-03.html#B03-C009-P0203)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 181, ¶204 (B03-C009-P0204)](../../build/reader/book-03.html#B03-C009-P0204)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 181, ¶205 (B03-C009-P0205)](../../build/reader/book-03.html#B03-C009-P0205)
+
+## B03-082: Quidditch stadium — barrier and seating
+
+Madam Hooch and Ron sit in the stands during practice; Ron vaults the barrier from seating to meet Harry on the pitch. A Snitch later flies low beside one of the barriers.
+
+Evidence: explicit; state: February 1994.
+
+Model: Explicit separation between spectator area and pitch; barrier material and height unstated.
+
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 254–255, ¶13 (B03-C013-P0013)](../../build/reader/book-03.html#B03-C013-P0013)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 255, ¶16 (B03-C013-P0016)](../../build/reader/book-03.html#B03-C013-P0016)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 255, ¶17 (B03-C013-P0017)](../../build/reader/book-03.html#B03-C013-P0017)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 256, ¶20 (B03-C013-P0020)](../../build/reader/book-03.html#B03-C013-P0020)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 257, ¶28 (B03-C013-P0028)](../../build/reader/book-03.html#B03-C013-P0028)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 257, ¶29 (B03-C013-P0029)](../../build/reader/book-03.html#B03-C013-P0029)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 257, ¶31 (B03-C013-P0031)](../../build/reader/book-03.html#B03-C013-P0031)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 262, ¶68 (B03-C013-P0068)](../../build/reader/book-03.html#B03-C013-P0068)
+
+## B03-083: Pitch-to-castle route — budding tree
+
+Halfway from the stadium to the castle, a tree stands to Harry’s left with budding leaves and Crookshanks in its branches. Stones lie on the grass beneath; the route ends at the lit Entrance Hall.
+
+Evidence: explicit; state: February 1994.
+
+Model: Side relative to inward travel; tree is not identified as the Willow or given a species.
+
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 257, ¶31 (B03-C013-P0031)](../../build/reader/book-03.html#B03-C013-P0031)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 257, ¶32 (B03-C013-P0032)](../../build/reader/book-03.html#B03-C013-P0032)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 257, ¶35 (B03-C013-P0035)](../../build/reader/book-03.html#B03-C013-P0035)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 257–258, ¶36 (B03-C013-P0036)](../../build/reader/book-03.html#B03-C013-P0036)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 258, ¶37 (B03-C013-P0037)](../../build/reader/book-03.html#B03-C013-P0037)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 258, ¶39 (B03-C013-P0039)](../../build/reader/book-03.html#B03-C013-P0039)
+
+## B03-084: Quidditch match — false Dementors at pitch edge
+
+During a clear cool match with little breeze, Harry casts a large silver-white Patronus towards three apparent Dementors below him. They prove to be four Slytherins in hooded robes, one apparently on another’s shoulders, at the pitch edge.
+
+Evidence: explicit; state: February 1994.
+
+Model: No actual Dementor incursion this time. Team-supporter ends and clear-weather visibility observed without a precise stand allocation.
+
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 260, ¶55 (B03-C013-P0055)](../../build/reader/book-03.html#B03-C013-P0055)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 260–261, ¶57 (B03-C013-P0057)](../../build/reader/book-03.html#B03-C013-P0057)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 261, ¶60 (B03-C013-P0060)](../../build/reader/book-03.html#B03-C013-P0060)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 262, ¶68 (B03-C013-P0068)](../../build/reader/book-03.html#B03-C013-P0068)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 262, ¶71 (B03-C013-P0071)](../../build/reader/book-03.html#B03-C013-P0071)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 262–263, ¶74 (B03-C013-P0074)](../../build/reader/book-03.html#B03-C013-P0074)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 263, ¶78 (B03-C013-P0078)](../../build/reader/book-03.html#B03-C013-P0078)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 263, ¶80 (B03-C013-P0080)](../../build/reader/book-03.html#B03-C013-P0080)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 263, ¶81 (B03-C013-P0081)](../../build/reader/book-03.html#B03-C013-P0081)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 263, ¶82 (B03-C013-P0082)](../../build/reader/book-03.html#B03-C013-P0082)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 263–264, ¶83 (B03-C013-P0083)](../../build/reader/book-03.html#B03-C013-P0083)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 264, ¶84 (B03-C013-P0084)](../../build/reader/book-03.html#B03-C013-P0084)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 265, ¶94 (B03-C013-P0094)](../../build/reader/book-03.html#B03-C013-P0094)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 265, ¶95 (B03-C013-P0095)](../../build/reader/book-03.html#B03-C013-P0095)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 265, ¶96 (B03-C013-P0096)](../../build/reader/book-03.html#B03-C013-P0096)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 265, ¶97 (B03-C013-P0097)](../../build/reader/book-03.html#B03-C013-P0097)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 265, ¶98 (B03-C013-P0098)](../../build/reader/book-03.html#B03-C013-P0098)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 265–266, ¶101 (B03-C013-P0101)](../../build/reader/book-03.html#B03-C013-P0101)
+
+## B03-105: Quidditch pitch — spring surface and castle sightline
+
+At the final the ground is fairly hard, wind slight and sun bright enough to risk vision. From the pitch the team can see distant castle front doors opening and pupils emerging onto the lawn.
+
+Evidence: explicit; state: Easter 1994 and Quidditch final.
+
+Model: Clear pitch-to-front-entrance line of sight and seasonal turf state; no numerical distance.
+
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 306, ¶130 (B03-C015-P0130)](../../build/reader/book-03.html#B03-C015-P0130)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 306, ¶132 (B03-C015-P0132)](../../build/reader/book-03.html#B03-C015-P0132)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 306, ¶133 (B03-C015-P0133)](../../build/reader/book-03.html#B03-C015-P0133)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 306, ¶134 (B03-C015-P0134)](../../build/reader/book-03.html#B03-C015-P0134)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 306–307, ¶135 (B03-C015-P0135)](../../build/reader/book-03.html#B03-C015-P0135)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 307, ¶136 (B03-C015-P0136)](../../build/reader/book-03.html#B03-C015-P0136)
+
+## B03-106: Quidditch final — supporter areas and megaphone
+
+About three-quarters of supporters wear scarlet, flags and lion banners, while roughly two hundred green-clad Slytherins gather behind their goalposts, Snape in the front row. Lee uses a magical megaphone. At victory supporters pour over pitch barriers and the Cup waits with Dumbledore in the stands.
+
+Evidence: explicit; state: Easter 1994 and Quidditch final.
+
+Model: Dated crowd distribution, sound fixture and trophy presentation. Scoring area is named in the rules but not dimensioned.
+
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 307, ¶136 (B03-C015-P0136)](../../build/reader/book-03.html#B03-C015-P0136)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 307, ¶137 (B03-C015-P0137)](../../build/reader/book-03.html#B03-C015-P0137)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 307, ¶138 (B03-C015-P0138)](../../build/reader/book-03.html#B03-C015-P0138)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 308, ¶145 (B03-C015-P0145)](../../build/reader/book-03.html#B03-C015-P0145)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 308, ¶151 (B03-C015-P0151)](../../build/reader/book-03.html#B03-C015-P0151)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 309, ¶153 (B03-C015-P0153)](../../build/reader/book-03.html#B03-C015-P0153)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 309, ¶155 (B03-C015-P0155)](../../build/reader/book-03.html#B03-C015-P0155)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 309, ¶161 (B03-C015-P0161)](../../build/reader/book-03.html#B03-C015-P0161)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 310, ¶162 (B03-C015-P0162)](../../build/reader/book-03.html#B03-C015-P0162)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 310–311, ¶172 (B03-C015-P0172)](../../build/reader/book-03.html#B03-C015-P0172)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 311, ¶178 (B03-C015-P0178)](../../build/reader/book-03.html#B03-C015-P0178)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 312, ¶186 (B03-C015-P0186)](../../build/reader/book-03.html#B03-C015-P0186)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 312, ¶187 (B03-C015-P0187)](../../build/reader/book-03.html#B03-C015-P0187)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 312, ¶188 (B03-C015-P0188)](../../build/reader/book-03.html#B03-C015-P0188)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 313, ¶199 (B03-C015-P0199)](../../build/reader/book-03.html#B03-C015-P0199)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 314, ¶205 (B03-C015-P0205)](../../build/reader/book-03.html#B03-C015-P0205)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 314, ¶206 (B03-C015-P0206)](../../build/reader/book-03.html#B03-C015-P0206)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 314–315, ¶207 (B03-C015-P0207)](../../build/reader/book-03.html#B03-C015-P0207)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 315, ¶208 (B03-C015-P0208)](../../build/reader/book-03.html#B03-C015-P0208)
+
+## B03-131: Shrieking Shack: upstairs bedroom enclosure and confrontation
+
+The upstairs bedroom’s windows are boarded and it has only one door. The simultaneous disarming spells blast Snape against a wall and rattle the door on its hinges; his wand lands on the bed. Crookshanks later leads the party out of this room.
+
+Evidence: explicit; state: End of third year; Shack confrontation.
+
+Model: The blast is observed, but no permanent breakage of the door or wall is stated. “Three strides” is Harry’s movement from his then position, not a room dimension.
+
+- [Book 3, ch. 19, “The Servant of Lord Voldemort”, ref p. 362, ¶23 (B03-C019-P0023)](../../build/reader/book-03.html#B03-C019-P0023)
+- [Book 3, ch. 19, “The Servant of Lord Voldemort”, ref p. 363, ¶30 (B03-C019-P0030)](../../build/reader/book-03.html#B03-C019-P0030)
+- [Book 3, ch. 19, “The Servant of Lord Voldemort”, ref p. 363, ¶31 (B03-C019-P0031)](../../build/reader/book-03.html#B03-C019-P0031)
+- [Book 3, ch. 19, “The Servant of Lord Voldemort”, ref p. 370, ¶94 (B03-C019-P0094)](../../build/reader/book-03.html#B03-C019-P0094)
+- [Book 3, ch. 19, “The Servant of Lord Voldemort”, ref p. 372, ¶111 (B03-C019-P0111)](../../build/reader/book-03.html#B03-C019-P0111)
+- [Book 3, ch. 19, “The Servant of Lord Voldemort”, ref p. 380, ¶193 (B03-C019-P0193)](../../build/reader/book-03.html#B03-C019-P0193)
+
 ## B04-078: Forest perimeter to hidden dragon enclosure
 
 Hagrid leads the party around the Forest perimeter until the castle and lake are out of sight, then around a clump of trees to the dragon enclosure. On his return Harry skirts the Forest edge, encounters Karkaroff near the trees, and enters the castle front doors before climbing the marble stairs and continuing to Gryffindor.
@@ -714,6 +916,284 @@ Evidence: explicit; state: Recollection in August 1995 of third-year Quidditch s
 Model: Narrated weather memory, without a new pitch layout or numerical temperature. The present broom flight ends in London and is not a Hogwarts access route.
 
 - [Book 5, ch. 3, “The Advance Guard”, ref p. 67, ¶164 (B05-C003-P0164)](../../build/reader/book-05.html#B05-C003-P0164)
+
+## B05-054: Quidditch pitch bookings
+
+Angelina says she has booked the pitch for Friday’s Keeper trials.
+
+Evidence: reported; state: First school week, September 1995.
+
+Model: Reported scheduled use, not permanent physical exclusivity.
+
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 309, ¶127 (B05-C013-P0127)](../../build/reader/book-05.html#B05-C013-P0127)
+
+## B05-058: Umbridge window and Quidditch sightline
+
+Her office has a window through which darkness falls. Moving his chair about an inch to the right gives Harry a distant view of Keeper trials and three high goalposts; individual identities remain too distant to resolve. The pitch disappears from view after nightfall.
+
+Evidence: explicit; state: First school week, September 1995.
+
+Model: Explicit third-floor office-to-pitch sightline; no compass direction or distance in yards.
+
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 314, ¶168 (B05-C013-P0168)](../../build/reader/book-05.html#B05-C013-P0168)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 321, ¶236 (B05-C013-P0236)](../../build/reader/book-05.html#B05-C013-P0236)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 322, ¶238 (B05-C013-P0238)](../../build/reader/book-05.html#B05-C013-P0238)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 322, ¶242 (B05-C013-P0242)](../../build/reader/book-05.html#B05-C013-P0242)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 322–323, ¶245 (B05-C013-P0245)](../../build/reader/book-05.html#B05-C013-P0245)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 323, ¶248 (B05-C013-P0248)](../../build/reader/book-05.html#B05-C013-P0248)
+
+## B05-066: Castle to Quidditch pitch
+
+Harry and Ron walk downhill over sloping lawns to the pitch. Approaching it, Harry sees the Forbidden Forest to his right and owls around the Owlery tower.
+
+Evidence: explicit; state: First September weekend, 1995.
+
+Model: Right is relative to this approach, not a compass direction. Preserve reciprocal castle/pitch travel.
+
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 339–340, ¶111 (B05-C014-P0111)](../../build/reader/book-05.html#B05-C014-P0111)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 340, ¶114 (B05-C014-P0114)](../../build/reader/book-05.html#B05-C014-P0114)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 340–341, ¶115 (B05-C014-P0115)](../../build/reader/book-05.html#B05-C014-P0115)
+
+## B05-067: Quidditch changing-room facilities
+
+A cupboard in the changing room stores balls. Angelina enters from the Captain’s office; players carry a ball crate onto the pitch and change back after practice.
+
+Evidence: explicit; state: First September weekend, 1995.
+
+Model: Connect Captain’s office to changing-room circulation; no full room plan.
+
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 340–341, ¶115 (B05-C014-P0115)](../../build/reader/book-05.html#B05-C014-P0115)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 341, ¶118 (B05-C014-P0118)](../../build/reader/book-05.html#B05-C014-P0118)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 341, ¶119 (B05-C014-P0119)](../../build/reader/book-05.html#B05-C014-P0119)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 341, ¶120 (B05-C014-P0120)](../../build/reader/book-05.html#B05-C014-P0120)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 341, ¶121 (B05-C014-P0121)](../../build/reader/book-05.html#B05-C014-P0121)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 344, ¶143 (B05-C014-P0143)](../../build/reader/book-05.html#B05-C014-P0143)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 346, ¶162 (B05-C014-P0162)](../../build/reader/book-05.html#B05-C014-P0162)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 346, ¶163 (B05-C014-P0163)](../../build/reader/book-05.html#B05-C014-P0163)
+
+## B05-068: Quidditch stadium goal and stand layout
+
+The pitch has three tall goalposts at the defended end, including left, middle and right hoops. Spectators halfway up the stands can jeer audibly across the stadium. Practice uses the opposite end and a ball crate on the ground.
+
+Evidence: explicit; state: First September weekend, 1995.
+
+Model: Goals at opposite ends are explicit in action; no dimensions inferred.
+
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 340–341, ¶115 (B05-C014-P0115)](../../build/reader/book-05.html#B05-C014-P0115)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 341, ¶121 (B05-C014-P0121)](../../build/reader/book-05.html#B05-C014-P0121)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 342, ¶128 (B05-C014-P0128)](../../build/reader/book-05.html#B05-C014-P0128)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 343–344, ¶139 (B05-C014-P0139)](../../build/reader/book-05.html#B05-C014-P0139)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 344, ¶141 (B05-C014-P0141)](../../build/reader/book-05.html#B05-C014-P0141)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 344, ¶143 (B05-C014-P0143)](../../build/reader/book-05.html#B05-C014-P0143)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 345, ¶147 (B05-C014-P0147)](../../build/reader/book-05.html#B05-C014-P0147)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 345, ¶148 (B05-C014-P0148)](../../build/reader/book-05.html#B05-C014-P0148)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 345, ¶150 (B05-C014-P0150)](../../build/reader/book-05.html#B05-C014-P0150)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 345, ¶156 (B05-C014-P0156)](../../build/reader/book-05.html#B05-C014-P0156)
+
+## B05-069: Pitch to medical care
+
+Fred and George fly toward the castle supporting injured Katie between them after Angelina says she needs the hospital wing.
+
+Evidence: explicit; state: First September weekend, 1995.
+
+Model: Airborne departure is observed; actual hospital entry and route inside are not narrated.
+
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 346, ¶159 (B05-C014-P0159)](../../build/reader/book-05.html#B05-C014-P0159)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 346, ¶160 (B05-C014-P0160)](../../build/reader/book-05.html#B05-C014-P0160)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 346, ¶161 (B05-C014-P0161)](../../build/reader/book-05.html#B05-C014-P0161)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 346, ¶162 (B05-C014-P0162)](../../build/reader/book-05.html#B05-C014-P0162)
+
+## B05-102: Quidditch changing building
+
+The changing rooms are warm and lit, with a roof audibly struck by rain, a window, benches and cloak pegs. Angelina emerges from the Captain’s office.
+
+Evidence: explicit; state: October 1995, first DA meeting and preceding storm.
+
+Model: Building is exposed to wind and rain; no material of roof stated.
+
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 444, ¶56 (B05-C018-P0056)](../../build/reader/book-05.html#B05-C018-P0056)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 445, ¶59 (B05-C018-P0059)](../../build/reader/book-05.html#B05-C018-P0059)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 445, ¶65 (B05-C018-P0065)](../../build/reader/book-05.html#B05-C018-P0065)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 446, ¶72 (B05-C018-P0072)](../../build/reader/book-05.html#B05-C018-P0072)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 447, ¶78 (B05-C018-P0078)](../../build/reader/book-05.html#B05-C018-P0078)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 447, ¶81 (B05-C018-P0081)](../../build/reader/book-05.html#B05-C018-P0081)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 447, ¶83 (B05-C018-P0083)](../../build/reader/book-05.html#B05-C018-P0083)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 447, ¶84 (B05-C018-P0084)](../../build/reader/book-05.html#B05-C018-P0084)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 448, ¶92 (B05-C018-P0092)](../../build/reader/book-05.html#B05-C018-P0092)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 449, ¶103 (B05-C018-P0103)](../../build/reader/book-05.html#B05-C018-P0103)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 449, ¶109 (B05-C018-P0109)](../../build/reader/book-05.html#B05-C018-P0109)
+
+## B05-103: Rain-soaked pitch and uphill return
+
+Grass on the approach is sodden and slippery, the pitch centre deepens into mud, and fading light, wind and sweeping rain severely restrict visibility. Rain beating the lake can be heard from the pitch. Players return uphill over muddy lawns.
+
+Evidence: explicit; state: October 1995, first DA meeting and preceding storm.
+
+Model: October storm state; Impervius improves rain shedding without restoring useful visibility.
+
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 444, ¶56 (B05-C018-P0056)](../../build/reader/book-05.html#B05-C018-P0056)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 446, ¶69 (B05-C018-P0069)](../../build/reader/book-05.html#B05-C018-P0069)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 446, ¶71 (B05-C018-P0071)](../../build/reader/book-05.html#B05-C018-P0071)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 446, ¶72 (B05-C018-P0072)](../../build/reader/book-05.html#B05-C018-P0072)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 449–450, ¶114 (B05-C018-P0114)](../../build/reader/book-05.html#B05-C018-P0114)
+
+## B05-120: Pitch scheduling and library jinx
+
+Snape books the pitch repeatedly for Slytherin practices, restricting Gryffindor access. Fourteen witnesses report Alicia being jinxed from behind while working in the library; she attends the hospital wing.
+
+Evidence: explicit; state: Late October to first November Quidditch match, 1995.
+
+Model: Pitch access is scheduled, not fenced by House. Library attack is a reported incident, with no asserted furniture damage.
+
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 471, ¶22 (B05-C019-P0022)](../../build/reader/book-05.html#B05-C019-P0022)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 475–476, ¶48 (B05-C019-P0048)](../../build/reader/book-05.html#B05-C019-P0048)
+
+## B05-122: Match-day stadium approach
+
+From the Hall the players cross the Entrance Hall, descend stone steps and follow frost-crunching sloping lawns down to the stadium and changing rooms.
+
+Evidence: explicit; state: Late October to first November Quidditch match, 1995.
+
+Model: Repeated route with frozen ground; calm overcast conditions improve visibility.
+
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 476, ¶49 (B05-C019-P0049)](../../build/reader/book-05.html#B05-C019-P0049)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 476, ¶51 (B05-C019-P0051)](../../build/reader/book-05.html#B05-C019-P0051)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 476, ¶57 (B05-C019-P0057)](../../build/reader/book-05.html#B05-C019-P0057)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 477, ¶58 (B05-C019-P0058)](../../build/reader/book-05.html#B05-C019-P0058)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 477, ¶59 (B05-C019-P0059)](../../build/reader/book-05.html#B05-C019-P0059)
+
+## B05-123: Quidditch stands and circulation
+
+Banked benches in spectator stands receive hundreds of spectators. Players file from the changing room onto the pitch; supporters occupy identifiable Slytherin and Gryffindor sections, with Pansy at the front of the Slytherin stands.
+
+Evidence: explicit; state: Late October to first November Quidditch match, 1995.
+
+Model: Sound carries throughout stadium. Three goalhoops at each defended end; no precise audience capacity or compass placement.
+
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 478, ¶64 (B05-C019-P0064)](../../build/reader/book-05.html#B05-C019-P0064)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 478, ¶65 (B05-C019-P0065)](../../build/reader/book-05.html#B05-C019-P0065)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 478, ¶66 (B05-C019-P0066)](../../build/reader/book-05.html#B05-C019-P0066)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 479, ¶70 (B05-C019-P0070)](../../build/reader/book-05.html#B05-C019-P0070)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 479, ¶74 (B05-C019-P0074)](../../build/reader/book-05.html#B05-C019-P0074)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 479–480, ¶76 (B05-C019-P0076)](../../build/reader/book-05.html#B05-C019-P0076)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 480, ¶91 (B05-C019-P0091)](../../build/reader/book-05.html#B05-C019-P0091)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 480, ¶93 (B05-C019-P0093)](../../build/reader/book-05.html#B05-C019-P0093)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 481, ¶97 (B05-C019-P0097)](../../build/reader/book-05.html#B05-C019-P0097)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 482, ¶112 (B05-C019-P0112)](../../build/reader/book-05.html#B05-C019-P0112)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 482, ¶115 (B05-C019-P0115)](../../build/reader/book-05.html#B05-C019-P0115)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 483, ¶121 (B05-C019-P0121)](../../build/reader/book-05.html#B05-C019-P0121)
+
+## B05-124: Frozen pitch and low flight space
+
+The Snitch flies near the foot of a goalpost toward the other side of the stands. Harry catches it only feet above the surface and falls five or six feet onto the frozen pitch after a Bludger strike.
+
+Evidence: explicit; state: Late October to first November Quidditch match, 1995.
+
+Model: Specific local flight and fall clearances, not goalpost height.
+
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 484, ¶126 (B05-C019-P0126)](../../build/reader/book-05.html#B05-C019-P0126)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 484, ¶129 (B05-C019-P0129)](../../build/reader/book-05.html#B05-C019-P0129)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 484, ¶130 (B05-C019-P0130)](../../build/reader/book-05.html#B05-C019-P0130)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 484, ¶131 (B05-C019-P0131)](../../build/reader/book-05.html#B05-C019-P0131)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 484–485, ¶134 (B05-C019-P0134)](../../build/reader/book-05.html#B05-C019-P0134)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 485, ¶136 (B05-C019-P0136)](../../build/reader/book-05.html#B05-C019-P0136)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 485, ¶140 (B05-C019-P0140)](../../build/reader/book-05.html#B05-C019-P0140)
+
+## B05-125: Pitch to McGonagall’s office
+
+After the fight Harry and George walk from the pitch uphill to the castle, through a quiet Entrance Hall, then along a corridor to McGonagall’s office; she approaches behind them.
+
+Evidence: explicit; state: Late October to first November Quidditch match, 1995.
+
+Model: Intervening floors and stairs are not described.
+
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 487, ¶152 (B05-C019-P0152)](../../build/reader/book-05.html#B05-C019-P0152)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 487–488, ¶153 (B05-C019-P0153)](../../build/reader/book-05.html#B05-C019-P0153)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 488, ¶154 (B05-C019-P0154)](../../build/reader/book-05.html#B05-C019-P0154)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 488, ¶155 (B05-C019-P0155)](../../build/reader/book-05.html#B05-C019-P0155)
+
+## B05-175: Hogsmeade route past stadium
+
+Cho waits beside the oak front doors in the Entrance Hall. After Filch signs them out, she and Harry pass the stadium, seeing Ron and Ginny flying above the stands, then follow the drive downhill and leave through the gates for the village High Street.
+
+Evidence: explicit; state: January–14 February 1996.
+
+Model: Stadium is visible from this school exit route; no exact lateral distance.
+
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 660, ¶99 (B05-C025-P0099)](../../build/reader/book-05.html#B05-C025-P0099)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 660–661, ¶100 (B05-C025-P0100)](../../build/reader/book-05.html#B05-C025-P0100)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 661, ¶105 (B05-C025-P0105)](../../build/reader/book-05.html#B05-C025-P0105)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 662, ¶114 (B05-C025-P0114)](../../build/reader/book-05.html#B05-C025-P0114)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 662, ¶117 (B05-C025-P0117)](../../build/reader/book-05.html#B05-C025-P0117)
+
+## B05-179: Quidditch spectator tiers
+
+Harry and Hermione watch the Hufflepuff match from seats a few rows above Umbridge.
+
+Evidence: explicit; state: February–early March 1996, Quibbler publication and Trelawney dismissal.
+
+Model: Relative tier seating; no dimensions added by the game result.
+
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 683, ¶51 (B05-C026-P0051)](../../build/reader/book-05.html#B05-C026-P0051)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 683–684, ¶52 (B05-C026-P0052)](../../build/reader/book-05.html#B05-C026-P0052)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 684, ¶59 (B05-C026-P0059)](../../build/reader/book-05.html#B05-C026-P0059)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 685, ¶65 (B05-C026-P0065)](../../build/reader/book-05.html#B05-C026-P0065)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 685–686, ¶66 (B05-C026-P0066)](../../build/reader/book-05.html#B05-C026-P0066)
+
+## B05-199: Seventh-floor bathroom and dragon-vase niche
+
+Harry turns right from the Room of Requirement toward a boys’ bathroom ahead. A Trip Jinx makes him skid six feet; Malfoy hides behind him in a niche beneath an ugly dragon-shaped vase, and Umbridge approaches round the far corner.
+
+Evidence: explicit; state: March–early April 1996, new Divination class and DA discovery.
+
+Model: Do not assume this vase is the same man-sized vase used for the entrance ritual.
+
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶109 (B05-C027-P0109)](../../build/reader/book-05.html#B05-C027-P0109)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶110 (B05-C027-P0110)](../../build/reader/book-05.html#B05-C027-P0110)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶111 (B05-C027-P0111)](../../build/reader/book-05.html#B05-C027-P0111)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶112 (B05-C027-P0112)](../../build/reader/book-05.html#B05-C027-P0112)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶113 (B05-C027-P0113)](../../build/reader/book-05.html#B05-C027-P0113)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724–725, ¶114 (B05-C027-P0114)](../../build/reader/book-05.html#B05-C027-P0114)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 725, ¶115 (B05-C027-P0115)](../../build/reader/book-05.html#B05-C027-P0115)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 725, ¶116 (B05-C027-P0116)](../../build/reader/book-05.html#B05-C027-P0116)
+
+## B05-242: Stadium tiers and cabin route
+
+Harry and Hermione sit in the second-highest row; Hagrid reaches them along the row behind, then they edge along their seats to stairs down to the lawn. From the stand edge he checks the lawn to his cabin, and they cross it toward the Forest.
+
+Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
+
+Model: Hagrid uses crowded spectator circulation; no width measurement.
+
+- [Book 5, ch. 30, “Grawp”, ref p. 814, ¶55 (B05-C030-P0055)](../../build/reader/book-05.html#B05-C030-P0055)
+- [Book 5, ch. 30, “Grawp”, ref p. 814, ¶59 (B05-C030-P0059)](../../build/reader/book-05.html#B05-C030-P0059)
+- [Book 5, ch. 30, “Grawp”, ref p. 814–815, ¶60 (B05-C030-P0060)](../../build/reader/book-05.html#B05-C030-P0060)
+- [Book 5, ch. 30, “Grawp”, ref p. 815, ¶63 (B05-C030-P0063)](../../build/reader/book-05.html#B05-C030-P0063)
+- [Book 5, ch. 30, “Grawp”, ref p. 815–816, ¶67 (B05-C030-P0067)](../../build/reader/book-05.html#B05-C030-P0067)
+- [Book 5, ch. 30, “Grawp”, ref p. 816, ¶73 (B05-C030-P0073)](../../build/reader/book-05.html#B05-C030-P0073)
+- [Book 5, ch. 30, “Grawp”, ref p. 816, ¶74 (B05-C030-P0074)](../../build/reader/book-05.html#B05-C030-P0074)
+- [Book 5, ch. 30, “Grawp”, ref p. 816, ¶75 (B05-C030-P0075)](../../build/reader/book-05.html#B05-C030-P0075)
+- [Book 5, ch. 30, “Grawp”, ref p. 816, ¶76 (B05-C030-P0076)](../../build/reader/book-05.html#B05-C030-P0076)
+- [Book 5, ch. 30, “Grawp”, ref p. 816–817, ¶77 (B05-C030-P0077)](../../build/reader/book-05.html#B05-C030-P0077)
+- [Book 5, ch. 30, “Grawp”, ref p. 817, ¶81 (B05-C030-P0081)](../../build/reader/book-05.html#B05-C030-P0081)
+
+## B05-250: Forest return and stadium sightline
+
+They skirt the same nettles, rejoin the path and walk another ten minutes until trees thin, sky appears, and the stadium is visible from the Forest shelter. They merge with matchgoers returning uphill to the castle.
+
+Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
+
+Model: Ten minutes begins after rejoining path; stadium/Forest reciprocal sightline explicit.
+
+- [Book 5, ch. 30, “Grawp”, ref p. 835, ¶231 (B05-C030-P0231)](../../build/reader/book-05.html#B05-C030-P0231)
+- [Book 5, ch. 30, “Grawp”, ref p. 835, ¶234 (B05-C030-P0234)](../../build/reader/book-05.html#B05-C030-P0234)
+- [Book 5, ch. 30, “Grawp”, ref p. 835, ¶235 (B05-C030-P0235)](../../build/reader/book-05.html#B05-C030-P0235)
+- [Book 5, ch. 30, “Grawp”, ref p. 835–836, ¶236 (B05-C030-P0236)](../../build/reader/book-05.html#B05-C030-P0236)
+- [Book 5, ch. 30, “Grawp”, ref p. 836, ¶237 (B05-C030-P0237)](../../build/reader/book-05.html#B05-C030-P0237)
+- [Book 5, ch. 30, “Grawp”, ref p. 836, ¶238 (B05-C030-P0238)](../../build/reader/book-05.html#B05-C030-P0238)
+- [Book 5, ch. 30, “Grawp”, ref p. 836, ¶242 (B05-C030-P0242)](../../build/reader/book-05.html#B05-C030-P0242)
+- [Book 5, ch. 30, “Grawp”, ref p. 837, ¶251 (B05-C030-P0251)](../../build/reader/book-05.html#B05-C030-P0251)
+- [Book 5, ch. 30, “Grawp”, ref p. 837, ¶258 (B05-C030-P0258)](../../build/reader/book-05.html#B05-C030-P0258)
 
 ## B06-043: Castle–Quidditch stadium
 

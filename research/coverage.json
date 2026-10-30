@@ -1,9 +1,9 @@
 {
   "source_sha256": "fc554e217f5ec7edc995b24de3d62f50cee929c524fa6ec5e0a7ae23a7ca2732",
   "paragraphs": 38426,
-  "reviewed": 20723,
+  "reviewed": 34836,
   "complete": false,
-  "entries": 794,
+  "entries": 1211,
   "books": [
     {
       "book": 1,
@@ -271,9 +271,9 @@
     {
       "book": 3,
       "title": "Harry Potter and the Prisoner of Azkaban",
-      "entries": 30,
+      "entries": 155,
       "paragraphs": 4227,
-      "reviewed": 1306,
+      "reviewed": 4036,
       "chapters": [
         {
           "chapter": 1,
@@ -328,169 +328,99 @@
           "chapter": 8,
           "title": "Flight of the Fat Lady",
           "paragraphs": 221,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              221
-            ]
-          ]
+          "reviewed": 221,
+          "unread_ranges": []
         },
         {
           "chapter": 9,
           "title": "Grim Defeat",
           "paragraphs": 218,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              218
-            ]
-          ]
+          "reviewed": 218,
+          "unread_ranges": []
         },
         {
           "chapter": 10,
           "title": "The Marauder’s Map",
           "paragraphs": 244,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              244
-            ]
-          ]
+          "reviewed": 244,
+          "unread_ranges": []
         },
         {
           "chapter": 11,
           "title": "The Firebolt",
           "paragraphs": 218,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              218
-            ]
-          ]
+          "reviewed": 218,
+          "unread_ranges": []
         },
         {
           "chapter": 12,
           "title": "The Patronus",
           "paragraphs": 193,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              193
-            ]
-          ]
+          "reviewed": 193,
+          "unread_ranges": []
         },
         {
           "chapter": 13,
           "title": "Gryffindor versus Ravenclaw",
           "paragraphs": 158,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              158
-            ]
-          ]
+          "reviewed": 158,
+          "unread_ranges": []
         },
         {
           "chapter": 14,
           "title": "Snape’s Grudge",
           "paragraphs": 228,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              228
-            ]
-          ]
+          "reviewed": 228,
+          "unread_ranges": []
         },
         {
           "chapter": 15,
           "title": "The Quidditch Final",
           "paragraphs": 208,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              208
-            ]
-          ]
+          "reviewed": 208,
+          "unread_ranges": []
         },
         {
           "chapter": 16,
           "title": "Professor Trelawney’s Prediction",
           "paragraphs": 183,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              183
-            ]
-          ]
+          "reviewed": 183,
+          "unread_ranges": []
         },
         {
           "chapter": 17,
           "title": "Cat, Rat and Dog",
           "paragraphs": 184,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              184
-            ]
-          ]
+          "reviewed": 184,
+          "unread_ranges": []
         },
         {
           "chapter": 18,
           "title": "Moony, Wormtail, Padfoot and Prongs",
           "paragraphs": 62,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              62
-            ]
-          ]
+          "reviewed": 62,
+          "unread_ranges": []
         },
         {
           "chapter": 19,
           "title": "The Servant of Lord Voldemort",
           "paragraphs": 193,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              193
-            ]
-          ]
+          "reviewed": 193,
+          "unread_ranges": []
         },
         {
           "chapter": 20,
           "title": "The Dementors’ Kiss",
           "paragraphs": 75,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              75
-            ]
-          ]
+          "reviewed": 75,
+          "unread_ranges": []
         },
         {
           "chapter": 21,
           "title": "Hermione’s Secret",
           "paragraphs": 345,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              345
-            ]
-          ]
+          "reviewed": 345,
+          "unread_ranges": []
         },
         {
           "chapter": 22,
@@ -777,9 +707,9 @@
     {
       "book": 5,
       "title": "Harry Potter and the Order of the Phoenix",
-      "entries": 1,
+      "entries": 251,
       "paragraphs": 9069,
-      "reviewed": 1058,
+      "reviewed": 7418,
       "chapters": [
         {
           "chapter": 1,
@@ -820,301 +750,176 @@
           "chapter": 6,
           "title": "The Noble and Most Ancient House of Black",
           "paragraphs": 226,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              226
-            ]
-          ]
+          "reviewed": 226,
+          "unread_ranges": []
         },
         {
           "chapter": 7,
           "title": "The Ministry of Magic",
           "paragraphs": 158,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              158
-            ]
-          ]
+          "reviewed": 158,
+          "unread_ranges": []
         },
         {
           "chapter": 8,
           "title": "The Hearing",
           "paragraphs": 156,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              156
-            ]
-          ]
+          "reviewed": 156,
+          "unread_ranges": []
         },
         {
           "chapter": 9,
           "title": "The Woes of Mrs Weasley",
           "paragraphs": 320,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              320
-            ]
-          ]
+          "reviewed": 320,
+          "unread_ranges": []
         },
         {
           "chapter": 10,
           "title": "Luna Lovegood",
           "paragraphs": 224,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              224
-            ]
-          ]
+          "reviewed": 224,
+          "unread_ranges": []
         },
         {
           "chapter": 11,
           "title": "The Sorting Hat’s New Song",
           "paragraphs": 255,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              255
-            ]
-          ]
+          "reviewed": 255,
+          "unread_ranges": []
         },
         {
           "chapter": 12,
           "title": "Professor Umbridge",
           "paragraphs": 340,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              340
-            ]
-          ]
+          "reviewed": 340,
+          "unread_ranges": []
         },
         {
           "chapter": 13,
           "title": "Detention with Dolores",
           "paragraphs": 290,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              290
-            ]
-          ]
+          "reviewed": 290,
+          "unread_ranges": []
         },
         {
           "chapter": 14,
           "title": "Percy and Padfoot",
           "paragraphs": 291,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              291
-            ]
-          ]
+          "reviewed": 291,
+          "unread_ranges": []
         },
         {
           "chapter": 15,
           "title": "The Hogwarts High Inquisitor",
           "paragraphs": 267,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              267
-            ]
-          ]
+          "reviewed": 267,
+          "unread_ranges": []
         },
         {
           "chapter": 16,
           "title": "In the Hog’s Head",
           "paragraphs": 210,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              210
-            ]
-          ]
+          "reviewed": 210,
+          "unread_ranges": []
         },
         {
           "chapter": 17,
           "title": "Educational Decree Number Twenty-four",
           "paragraphs": 258,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              258
-            ]
-          ]
+          "reviewed": 258,
+          "unread_ranges": []
         },
         {
           "chapter": 18,
           "title": "Dumbledore’s Army",
           "paragraphs": 264,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              264
-            ]
-          ]
+          "reviewed": 264,
+          "unread_ranges": []
         },
         {
           "chapter": 19,
           "title": "The Lion and the Serpent",
           "paragraphs": 223,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              223
-            ]
-          ]
+          "reviewed": 223,
+          "unread_ranges": []
         },
         {
           "chapter": 20,
           "title": "Hagrid’s Tale",
           "paragraphs": 255,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              255
-            ]
-          ]
+          "reviewed": 255,
+          "unread_ranges": []
         },
         {
           "chapter": 21,
           "title": "The Eye of the Snake",
           "paragraphs": 259,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              259
-            ]
-          ]
+          "reviewed": 259,
+          "unread_ranges": []
         },
         {
           "chapter": 22,
           "title": "St Mungo’s Hospital for Magical Maladies and Injuries",
           "paragraphs": 242,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              242
-            ]
-          ]
+          "reviewed": 242,
+          "unread_ranges": []
         },
         {
           "chapter": 23,
           "title": "Christmas on the Closed Ward",
           "paragraphs": 226,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              226
-            ]
-          ]
+          "reviewed": 226,
+          "unread_ranges": []
         },
         {
           "chapter": 24,
           "title": "Occlumency",
           "paragraphs": 287,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              287
-            ]
-          ]
+          "reviewed": 287,
+          "unread_ranges": []
         },
         {
           "chapter": 25,
           "title": "The Beetle at Bay",
           "paragraphs": 245,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              245
-            ]
-          ]
+          "reviewed": 245,
+          "unread_ranges": []
         },
         {
           "chapter": 26,
           "title": "Seen and Unforeseen",
           "paragraphs": 268,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              268
-            ]
-          ]
+          "reviewed": 268,
+          "unread_ranges": []
         },
         {
           "chapter": 27,
           "title": "The Centaur and the Sneak",
           "paragraphs": 267,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              267
-            ]
-          ]
+          "reviewed": 267,
+          "unread_ranges": []
         },
         {
           "chapter": 28,
           "title": "Snape’s Worst Memory",
           "paragraphs": 290,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              290
-            ]
-          ]
+          "reviewed": 290,
+          "unread_ranges": []
         },
         {
           "chapter": 29,
           "title": "Careers Advice",
           "paragraphs": 270,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              270
-            ]
-          ]
+          "reviewed": 270,
+          "unread_ranges": []
         },
         {
           "chapter": 30,
           "title": "Grawp",
           "paragraphs": 269,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              269
-            ]
-          ]
+          "reviewed": 269,
+          "unread_ranges": []
         },
         {
           "chapter": 31,
@@ -1436,9 +1241,9 @@
     {
       "book": 7,
       "title": "Harry Potter and the Deathly Hallows",
-      "entries": 0,
+      "entries": 42,
       "paragraphs": 6879,
-      "reviewed": 108,
+      "reviewed": 5131,
       "chapters": [
         {
           "chapter": 1,
@@ -1451,325 +1256,190 @@
           "chapter": 2,
           "title": "In Memoriam",
           "paragraphs": 63,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              63
-            ]
-          ]
+          "reviewed": 63,
+          "unread_ranges": []
         },
         {
           "chapter": 3,
           "title": "The Dursleys Departing",
           "paragraphs": 120,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              120
-            ]
-          ]
+          "reviewed": 120,
+          "unread_ranges": []
         },
         {
           "chapter": 4,
           "title": "The Seven Potters",
           "paragraphs": 167,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              167
-            ]
-          ]
+          "reviewed": 167,
+          "unread_ranges": []
         },
         {
           "chapter": 5,
           "title": "Fallen Warrior",
           "paragraphs": 259,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              259
-            ]
-          ]
+          "reviewed": 259,
+          "unread_ranges": []
         },
         {
           "chapter": 6,
           "title": "The Ghoul in Pyjamas",
           "paragraphs": 226,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              226
-            ]
-          ]
+          "reviewed": 226,
+          "unread_ranges": []
         },
         {
           "chapter": 7,
           "title": "The Will of Albus Dumbledore",
           "paragraphs": 269,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              269
-            ]
-          ]
+          "reviewed": 269,
+          "unread_ranges": []
         },
         {
           "chapter": 8,
           "title": "The Wedding",
           "paragraphs": 211,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              211
-            ]
-          ]
+          "reviewed": 211,
+          "unread_ranges": []
         },
         {
           "chapter": 9,
           "title": "A Place to Hide",
           "paragraphs": 145,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              145
-            ]
-          ]
+          "reviewed": 145,
+          "unread_ranges": []
         },
         {
           "chapter": 10,
           "title": "Kreacher’s Tale",
           "paragraphs": 195,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              195
-            ]
-          ]
+          "reviewed": 195,
+          "unread_ranges": []
         },
         {
           "chapter": 11,
           "title": "The Bribe",
           "paragraphs": 207,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              207
-            ]
-          ]
+          "reviewed": 207,
+          "unread_ranges": []
         },
         {
           "chapter": 12,
           "title": "Magic is Might",
           "paragraphs": 215,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              215
-            ]
-          ]
+          "reviewed": 215,
+          "unread_ranges": []
         },
         {
           "chapter": 13,
           "title": "The Muggle-Born Registration Commission",
           "paragraphs": 190,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              190
-            ]
-          ]
+          "reviewed": 190,
+          "unread_ranges": []
         },
         {
           "chapter": 14,
           "title": "The Thief",
           "paragraphs": 137,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              137
-            ]
-          ]
+          "reviewed": 137,
+          "unread_ranges": []
         },
         {
           "chapter": 15,
           "title": "The Goblin’s Revenge",
           "paragraphs": 278,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              278
-            ]
-          ]
+          "reviewed": 278,
+          "unread_ranges": []
         },
         {
           "chapter": 16,
           "title": "Godric’s Hollow",
           "paragraphs": 133,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              133
-            ]
-          ]
+          "reviewed": 133,
+          "unread_ranges": []
         },
         {
           "chapter": 17,
           "title": "Bathilda’s Secret",
           "paragraphs": 207,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              207
-            ]
-          ]
+          "reviewed": 207,
+          "unread_ranges": []
         },
         {
           "chapter": 18,
           "title": "The Life and Lies of Albus Dumbledore",
           "paragraphs": 78,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              78
-            ]
-          ]
+          "reviewed": 78,
+          "unread_ranges": []
         },
         {
           "chapter": 19,
           "title": "The Silver Doe",
           "paragraphs": 230,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              230
-            ]
-          ]
+          "reviewed": 230,
+          "unread_ranges": []
         },
         {
           "chapter": 20,
           "title": "Xenophilius Lovegood",
           "paragraphs": 153,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              153
-            ]
-          ]
+          "reviewed": 153,
+          "unread_ranges": []
         },
         {
           "chapter": 21,
           "title": "The Tale of the Three Brothers",
           "paragraphs": 181,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              181
-            ]
-          ]
+          "reviewed": 181,
+          "unread_ranges": []
         },
         {
           "chapter": 22,
           "title": "The Deathly Hallows",
           "paragraphs": 190,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              190
-            ]
-          ]
+          "reviewed": 190,
+          "unread_ranges": []
         },
         {
           "chapter": 23,
           "title": "Malfoy Manor",
           "paragraphs": 343,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              343
-            ]
-          ]
+          "reviewed": 343,
+          "unread_ranges": []
         },
         {
           "chapter": 24,
           "title": "The Wandmaker",
           "paragraphs": 255,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              255
-            ]
-          ]
+          "reviewed": 255,
+          "unread_ranges": []
         },
         {
           "chapter": 25,
           "title": "Shell Cottage",
           "paragraphs": 164,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              164
-            ]
-          ]
+          "reviewed": 164,
+          "unread_ranges": []
         },
         {
           "chapter": 26,
           "title": "Gringotts",
           "paragraphs": 187,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              187
-            ]
-          ]
+          "reviewed": 187,
+          "unread_ranges": []
         },
         {
           "chapter": 27,
           "title": "The Final Hiding Place",
           "paragraphs": 69,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              69
-            ]
-          ]
+          "reviewed": 69,
+          "unread_ranges": []
         },
         {
           "chapter": 28,
           "title": "The Missing Mirror",
           "paragraphs": 151,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              151
-            ]
-          ]
+          "reviewed": 151,
+          "unread_ranges": []
         },
         {
           "chapter": 29,

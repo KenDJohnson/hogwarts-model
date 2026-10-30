@@ -404,6 +404,281 @@ Model: Table/tankard observed; barrel action is reported and supported by splash
 - [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 122, ¶252 (B03-C006-P0252)](../../build/reader/book-03.html#B03-C006-P0252)
 - [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 122, ¶253 (B03-C006-P0253)](../../build/reader/book-03.html#B03-C006-P0253)
 
+## B03-071: Castle to Hagrid’s cabin — snow state
+
+The trio leave by the oak doors and descend the lawn, cutting a shallow trench in powdery snow. Forest trees are silvered with snow and the cabin resembles an iced cake.
+
+Evidence: explicit; state: December 1993 holidays.
+
+Model: Winter route surface and appearance; no actual icing or added cabin roof shape.
+
+- [Book 3, ch. 11, “The Firebolt”, ref p. 216, ¶48 (B03-C011-P0048)](../../build/reader/book-03.html#B03-C011-P0048)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 216, ¶49 (B03-C011-P0049)](../../build/reader/book-03.html#B03-C011-P0049)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 216, ¶50 (B03-C011-P0050)](../../build/reader/book-03.html#B03-C011-P0050)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 216–217, ¶52 (B03-C011-P0052)](../../build/reader/book-03.html#B03-C011-P0052)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 217, ¶54 (B03-C011-P0054)](../../build/reader/book-03.html#B03-C011-P0054)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 217, ¶57 (B03-C011-P0057)](../../build/reader/book-03.html#B03-C011-P0057)
+
+## B03-072: Hagrid’s cabin — sheltered Buckbeak
+
+Buckbeak lies in a cabin corner eating bloody food that leaks over the floor, moved inside rather than left tethered in snow. Fang shelters under the table. The governors’ letter requires the hippogriff kept isolated and tethered pending a hearing.
+
+Evidence: explicit; state: December 1993 holidays.
+
+Model: Observed indoor occupancy versus reported official restraint condition. Hagrid says the Flobberworms have died from too much lettuce and that he passes Dementors on trips to the Three Broomsticks.
+
+- [Book 3, ch. 11, “The Firebolt”, ref p. 217, ¶59 (B03-C011-P0059)](../../build/reader/book-03.html#B03-C011-P0059)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 217, ¶61 (B03-C011-P0061)](../../build/reader/book-03.html#B03-C011-P0061)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 217, ¶65 (B03-C011-P0065)](../../build/reader/book-03.html#B03-C011-P0065)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 218, ¶67 (B03-C011-P0067)](../../build/reader/book-03.html#B03-C011-P0067)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 218, ¶72 (B03-C011-P0072)](../../build/reader/book-03.html#B03-C011-P0072)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 218, ¶73 (B03-C011-P0073)](../../build/reader/book-03.html#B03-C011-P0073)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 219, ¶75 (B03-C011-P0075)](../../build/reader/book-03.html#B03-C011-P0075)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 219, ¶77 (B03-C011-P0077)](../../build/reader/book-03.html#B03-C011-P0077)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 219, ¶84 (B03-C011-P0084)](../../build/reader/book-03.html#B03-C011-P0084)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 220, ¶87 (B03-C011-P0087)](../../build/reader/book-03.html#B03-C011-P0087)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 220, ¶88 (B03-C011-P0088)](../../build/reader/book-03.html#B03-C011-P0088)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 220, ¶89 (B03-C011-P0089)](../../build/reader/book-03.html#B03-C011-P0089)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 220, ¶91 (B03-C011-P0091)](../../build/reader/book-03.html#B03-C011-P0091)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 220, ¶92 (B03-C011-P0092)](../../build/reader/book-03.html#B03-C011-P0092)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 220, ¶94 (B03-C011-P0094)](../../build/reader/book-03.html#B03-C011-P0094)
+
+## B03-091: Castle front doors to Hagrid’s cabin — escorted visit
+
+Hagrid requires the boys to wait in the Entrance Hall, collects them at six, opens the front doors and escorts them to his hut, later returning them uphill at nine.
+
+Evidence: explicit; state: After the February 1994 dormitory intrusion.
+
+Model: Dated escort rule and evening access; no general permission to leave unaccompanied.
+
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 273, ¶19 (B03-C014-P0019)](../../build/reader/book-03.html#B03-C014-P0019)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 273–274, ¶20 (B03-C014-P0020)](../../build/reader/book-03.html#B03-C014-P0020)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 274, ¶24 (B03-C014-P0024)](../../build/reader/book-03.html#B03-C014-P0024)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 274, ¶25 (B03-C014-P0025)](../../build/reader/book-03.html#B03-C014-P0025)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 274, ¶27 (B03-C014-P0027)](../../build/reader/book-03.html#B03-C014-P0027)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 274, ¶29 (B03-C014-P0029)](../../build/reader/book-03.html#B03-C014-P0029)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 276, ¶47 (B03-C014-P0047)](../../build/reader/book-03.html#B03-C014-P0047)
+
+## B03-092: Hagrid’s cabin — wardrobe and bed-sharing hippogriff
+
+Buckbeak lies on the patchwork quilt with folded wings, eating dead ferrets and spitting bones onto the pillow. A huge brown suit and yellow/orange tie hang from the top of the wardrobe door.
+
+Evidence: explicit; state: After the February 1994 dormitory intrusion.
+
+Model: Confirms wardrobe and hippogriff use of Hagrid’s bed. London trip is planned; hearing date relative to earlier April-20 letter remains unreconciled.
+
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 274, ¶29 (B03-C014-P0029)](../../build/reader/book-03.html#B03-C014-P0029)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 274, ¶30 (B03-C014-P0030)](../../build/reader/book-03.html#B03-C014-P0030)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 274, ¶31 (B03-C014-P0031)](../../build/reader/book-03.html#B03-C014-P0031)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 275, ¶33 (B03-C014-P0033)](../../build/reader/book-03.html#B03-C014-P0033)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 275, ¶34 (B03-C014-P0034)](../../build/reader/book-03.html#B03-C014-P0034)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 276, ¶46 (B03-C014-P0046)](../../build/reader/book-03.html#B03-C014-P0046)
+
+## B03-099: Hagrid’s cabin — Buckbeak return and visit restriction
+
+Hagrid’s letter says he may bring Buckbeak back to Hogwarts pending an execution date. Later security measures make evening visits impossible, leaving creature lessons as the pupils’ only opportunity to speak with him.
+
+Evidence: explicit; state: Easter 1994 and Quidditch final.
+
+Model: Return authorised/reported, not a changed physical paddock. Evening access changes relative to the preceding escorted visit.
+
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 293, ¶3 (B03-C015-P0003)](../../build/reader/book-03.html#B03-C015-P0003)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 293, ¶4 (B03-C015-P0004)](../../build/reader/book-03.html#B03-C015-P0004)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 293, ¶5 (B03-C015-P0005)](../../build/reader/book-03.html#B03-C015-P0005)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 293, ¶7 (B03-C015-P0007)](../../build/reader/book-03.html#B03-C015-P0007)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 293–294, ¶16 (B03-C015-P0016)](../../build/reader/book-03.html#B03-C015-P0016)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 294, ¶17 (B03-C015-P0017)](../../build/reader/book-03.html#B03-C015-P0017)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 294, ¶18 (B03-C015-P0018)](../../build/reader/book-03.html#B03-C015-P0018)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 294, ¶20 (B03-C015-P0020)](../../build/reader/book-03.html#B03-C015-P0020)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 294, ¶21 (B03-C015-P0021)](../../build/reader/book-03.html#B03-C015-P0021)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 294, ¶22 (B03-C015-P0022)](../../build/reader/book-03.html#B03-C015-P0022)
+
+## B03-114: Hagrid’s cabin — milk cupboard and sightline
+
+Hagrid spills milk over the table and breaks a jug on the floor. A cupboard contains another jug with Scabbers hidden inside. From a cabin window the pupils see officials descending the distant castle steps.
+
+Evidence: explicit; state: June 1994 exams and Buckbeak appeal.
+
+Model: Adds cupboard storage, dated spill and direct cabin-window-to-castle-steps sightline.
+
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 328–329, ¶131 (B03-C016-P0131)](../../build/reader/book-03.html#B03-C016-P0131)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 329, ¶133 (B03-C016-P0133)](../../build/reader/book-03.html#B03-C016-P0133)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 329, ¶134 (B03-C016-P0134)](../../build/reader/book-03.html#B03-C016-P0134)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 329, ¶135 (B03-C016-P0135)](../../build/reader/book-03.html#B03-C016-P0135)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 329, ¶136 (B03-C016-P0136)](../../build/reader/book-03.html#B03-C016-P0136)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 329–330, ¶141 (B03-C016-P0141)](../../build/reader/book-03.html#B03-C016-P0141)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 330, ¶144 (B03-C016-P0144)](../../build/reader/book-03.html#B03-C016-P0144)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 330, ¶145 (B03-C016-P0145)](../../build/reader/book-03.html#B03-C016-P0145)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 330, ¶148 (B03-C016-P0148)](../../build/reader/book-03.html#B03-C016-P0148)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 330, ¶150 (B03-C016-P0150)](../../build/reader/book-03.html#B03-C016-P0150)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 330–331, ¶152 (B03-C016-P0152)](../../build/reader/book-03.html#B03-C016-P0152)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 331, ¶153 (B03-C016-P0153)](../../build/reader/book-03.html#B03-C016-P0153)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 331, ¶154 (B03-C016-P0154)](../../build/reader/book-03.html#B03-C016-P0154)
+
+## B03-115: Hagrid’s back garden — door and tether tree
+
+A back door opens into Hagrid’s garden. Buckbeak is tethered a few yards away to a tree behind the pumpkin patch; Hagrid lets the pupils out here while officials approach the front.
+
+Evidence: explicit; state: June 1994 exams and Buckbeak appeal.
+
+Model: Front/back circulation, tree and patch relation explicit; numeric yards and tree species not supplied.
+
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 329, ¶132 (B03-C016-P0132)](../../build/reader/book-03.html#B03-C016-P0132)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 329, ¶133 (B03-C016-P0133)](../../build/reader/book-03.html#B03-C016-P0133)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 330, ¶143 (B03-C016-P0143)](../../build/reader/book-03.html#B03-C016-P0143)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 331, ¶154 (B03-C016-P0154)](../../build/reader/book-03.html#B03-C016-P0154)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 331, ¶155 (B03-C016-P0155)](../../build/reader/book-03.html#B03-C016-P0155)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 331, ¶157 (B03-C016-P0157)](../../build/reader/book-03.html#B03-C016-P0157)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 331, ¶158 (B03-C016-P0158)](../../build/reader/book-03.html#B03-C016-P0158)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 331, ¶159 (B03-C016-P0159)](../../build/reader/book-03.html#B03-C016-P0159)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 331, ¶164 (B03-C016-P0164)](../../build/reader/book-03.html#B03-C016-P0164)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 331, ¶165 (B03-C016-P0165)](../../build/reader/book-03.html#B03-C016-P0165)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 331, ¶166 (B03-C016-P0166)](../../build/reader/book-03.html#B03-C016-P0166)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 331–332, ¶167 (B03-C016-P0167)](../../build/reader/book-03.html#B03-C016-P0167)
+
+## B03-117: Grounds: Hagrid’s cabin to Whomping Willow
+
+Returning from Hagrid toward the castle at sunset, the children reach open ground as darkness settles. Their pursuit of Scabbers takes them into the shadow of the Whomping Willow, where its moving branches prevent approach to the roots.
+
+Evidence: explicit; state: End of third year; evening of Buckbeak execution order.
+
+Model: Preserve the walked sequence and interception; no measured separation or compass bearing is supplied.
+
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 333, ¶1 (B03-C017-P0001)](../../build/reader/book-03.html#B03-C017-P0001)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 333, ¶7 (B03-C017-P0007)](../../build/reader/book-03.html#B03-C017-P0007)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 334, ¶17 (B03-C017-P0017)](../../build/reader/book-03.html#B03-C017-P0017)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 334, ¶19 (B03-C017-P0019)](../../build/reader/book-03.html#B03-C017-P0019)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 334, ¶23 (B03-C017-P0023)](../../build/reader/book-03.html#B03-C017-P0023)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 335, ¶25 (B03-C017-P0025)](../../build/reader/book-03.html#B03-C017-P0025)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 335, ¶28 (B03-C017-P0028)](../../build/reader/book-03.html#B03-C017-P0028)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 335, ¶29 (B03-C017-P0029)](../../build/reader/book-03.html#B03-C017-P0029)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 335–336, ¶31 (B03-C017-P0031)](../../build/reader/book-03.html#B03-C017-P0031)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 336, ¶39 (B03-C017-P0039)](../../build/reader/book-03.html#B03-C017-P0039)
+
+## B03-143: Forest edge: oak lookout onto Hagrid’s cabin and castle
+
+Moving along the very edge of the Forest, the pair see Hagrid’s front doorway and hide behind a wide oak trunk, looking from either side. A small head movement also gives Harry a view of the distant castle front doors and descending officials. They can hear activity in the cabin.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: Establish sight lines from the wooded edge to both buildings and sound through the ajar rear door. No precise angular relationship is given.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶131 (B03-C021-P0131)](../../build/reader/book-03.html#B03-C021-P0131)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶132 (B03-C021-P0132)](../../build/reader/book-03.html#B03-C021-P0132)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶133 (B03-C021-P0133)](../../build/reader/book-03.html#B03-C021-P0133)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶134 (B03-C021-P0134)](../../build/reader/book-03.html#B03-C021-P0134)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400–401, ¶136 (B03-C021-P0136)](../../build/reader/book-03.html#B03-C021-P0136)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 401, ¶141 (B03-C021-P0141)](../../build/reader/book-03.html#B03-C021-P0141)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 401, ¶142 (B03-C021-P0142)](../../build/reader/book-03.html#B03-C021-P0142)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 401, ¶143 (B03-C021-P0143)](../../build/reader/book-03.html#B03-C021-P0143)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 402, ¶151 (B03-C021-P0151)](../../build/reader/book-03.html#B03-C021-P0151)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 402, ¶153 (B03-C021-P0153)](../../build/reader/book-03.html#B03-C021-P0153)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 402, ¶161 (B03-C021-P0161)](../../build/reader/book-03.html#B03-C021-P0161)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 403, ¶164 (B03-C021-P0164)](../../build/reader/book-03.html#B03-C021-P0164)
+
+## B03-144: Hagrid’s pumpkin patch: fence tether and cabin window
+
+From the trees the pair see Buckbeak tethered to the fence around the pumpkin patch. Hagrid’s rear door opens into the garden, and a cabin window gives Macnair a view of Buckbeak. Harry vaults the fence and unties the rope from it.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: Chapter 16 paragraph 158 instead describes Buckbeak tethered to a tree behind the patch. Keep the tree and fence accounts visible as an unresolved local placement discrepancy, rather than silently merging them.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 401, ¶137 (B03-C021-P0137)](../../build/reader/book-03.html#B03-C021-P0137)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 402, ¶153 (B03-C021-P0153)](../../build/reader/book-03.html#B03-C021-P0153)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 402, ¶161 (B03-C021-P0161)](../../build/reader/book-03.html#B03-C021-P0161)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 403, ¶164 (B03-C021-P0164)](../../build/reader/book-03.html#B03-C021-P0164)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 403, ¶166 (B03-C021-P0166)](../../build/reader/book-03.html#B03-C021-P0166)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 403, ¶168 (B03-C021-P0168)](../../build/reader/book-03.html#B03-C021-P0168)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 403, ¶170 (B03-C021-P0170)](../../build/reader/book-03.html#B03-C021-P0170)
+
+## B03-145: Pumpkin patch to Forest: rescue clearance and screening
+
+Harry leads Buckbeak from the patch toward the Forest. At one point they remain ten feet from the trees and plainly visible from Hagrid’s back door. After reaching the trees and moving farther, they are screened so completely that they cannot see the garden, though the rear door and voices remain audible.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: The ten-foot figure is one moment in the journey, not the patch’s full distance from the Forest. Trees supply visual screening; the door is still within earshot.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 403, ¶174 (B03-C021-P0174)](../../build/reader/book-03.html#B03-C021-P0174)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404, ¶177 (B03-C021-P0177)](../../build/reader/book-03.html#B03-C021-P0177)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404, ¶179 (B03-C021-P0179)](../../build/reader/book-03.html#B03-C021-P0179)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404, ¶180 (B03-C021-P0180)](../../build/reader/book-03.html#B03-C021-P0180)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404, ¶181 (B03-C021-P0181)](../../build/reader/book-03.html#B03-C021-P0181)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404, ¶183 (B03-C021-P0183)](../../build/reader/book-03.html#B03-C021-P0183)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404, ¶184 (B03-C021-P0184)](../../build/reader/book-03.html#B03-C021-P0184)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404, ¶186 (B03-C021-P0186)](../../build/reader/book-03.html#B03-C021-P0186)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405, ¶194 (B03-C021-P0194)](../../build/reader/book-03.html#B03-C021-P0194)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405, ¶198 (B03-C021-P0198)](../../build/reader/book-03.html#B03-C021-P0198)
+
+## B03-146: Hagrid’s garden: explanation of axe sound
+
+After discovering Buckbeak gone, the executioner apparently swings his axe into the fence in anger, producing the previously heard swish and thud. Hagrid’s cries are relief at the escape; the officials then re-enter the cabin.
+
+Evidence: inference; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: The strike into the fence is inferred in the narration from sound, not directly seen. No specific cut, split or destroyed fence section is described.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404, ¶186 (B03-C021-P0186)](../../build/reader/book-03.html#B03-C021-P0186)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404, ¶187 (B03-C021-P0187)](../../build/reader/book-03.html#B03-C021-P0187)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404, ¶188 (B03-C021-P0188)](../../build/reader/book-03.html#B03-C021-P0188)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404–405, ¶189 (B03-C021-P0189)](../../build/reader/book-03.html#B03-C021-P0189)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405, ¶190 (B03-C021-P0190)](../../build/reader/book-03.html#B03-C021-P0190)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405, ¶191 (B03-C021-P0191)](../../build/reader/book-03.html#B03-C021-P0191)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405, ¶192 (B03-C021-P0192)](../../build/reader/book-03.html#B03-C021-P0192)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405, ¶193 (B03-C021-P0193)](../../build/reader/book-03.html#B03-C021-P0193)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405, ¶195 (B03-C021-P0195)](../../build/reader/book-03.html#B03-C021-P0195)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405, ¶196 (B03-C021-P0196)](../../build/reader/book-03.html#B03-C021-P0196)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405, ¶197 (B03-C021-P0197)](../../build/reader/book-03.html#B03-C021-P0197)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405, ¶198 (B03-C021-P0198)](../../build/reader/book-03.html#B03-C021-P0198)
+
+## B03-149: Forest to Hagrid’s cabin: refuge and sight limitation
+
+When Lupin transforms, Harry and Hermione leave their Forest lookout and run back to Hagrid’s cabin with Buckbeak. They enter and bolt the door; Fang is inside. Buckbeak lies before the fire. Harry finds the window view too restricted to follow events outside and leaves to look around the cabin.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: Adds a working door bolt and refuge capacity for a Hippogriff. The specific door used is not named; do not equate its restricted view with every cabin window.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 411, ¶269 (B03-C021-P0269)](../../build/reader/book-03.html#B03-C021-P0269)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 411, ¶270 (B03-C021-P0270)](../../build/reader/book-03.html#B03-C021-P0270)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 411, ¶273 (B03-C021-P0273)](../../build/reader/book-03.html#B03-C021-P0273)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 411–412, ¶275 (B03-C021-P0275)](../../build/reader/book-03.html#B03-C021-P0275)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 412, ¶276 (B03-C021-P0276)](../../build/reader/book-03.html#B03-C021-P0276)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 412, ¶277 (B03-C021-P0277)](../../build/reader/book-03.html#B03-C021-P0277)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 412, ¶278 (B03-C021-P0278)](../../build/reader/book-03.html#B03-C021-P0278)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 412, ¶279 (B03-C021-P0279)](../../build/reader/book-03.html#B03-C021-P0279)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 412, ¶281 (B03-C021-P0281)](../../build/reader/book-03.html#B03-C021-P0281)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 412, ¶282 (B03-C021-P0282)](../../build/reader/book-03.html#B03-C021-P0282)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 412, ¶284 (B03-C021-P0284)](../../build/reader/book-03.html#B03-C021-P0284)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 412, ¶285 (B03-C021-P0285)](../../build/reader/book-03.html#B03-C021-P0285)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 412–413, ¶286 (B03-C021-P0286)](../../build/reader/book-03.html#B03-C021-P0286)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 413, ¶287 (B03-C021-P0287)](../../build/reader/book-03.html#B03-C021-P0287)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 413, ¶288 (B03-C021-P0288)](../../build/reader/book-03.html#B03-C021-P0288)
+
+## B03-150: Hagrid’s cabin to opposite lake bank: bush lookout
+
+From outside the cabin Harry sees Dementors moving around the lake edges away from him toward the opposite bank. He runs to the water and hides behind a bush growing at its very edge, looking through its leaves at silver Patronus glimmers and the surrounding Dementors across the lake.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: Links the cabin-side approach with the shore opposite the original attack. The distant figures are small and partially illuminated; no exact shore distance or compass bearing is supplied.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 412–413, ¶286 (B03-C021-P0286)](../../build/reader/book-03.html#B03-C021-P0286)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 413, ¶287 (B03-C021-P0287)](../../build/reader/book-03.html#B03-C021-P0287)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 413, ¶288 (B03-C021-P0288)](../../build/reader/book-03.html#B03-C021-P0288)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 413, ¶289 (B03-C021-P0289)](../../build/reader/book-03.html#B03-C021-P0289)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 413, ¶290 (B03-C021-P0290)](../../build/reader/book-03.html#B03-C021-P0290)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 413, ¶291 (B03-C021-P0291)](../../build/reader/book-03.html#B03-C021-P0291)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 413–414, ¶292 (B03-C021-P0292)](../../build/reader/book-03.html#B03-C021-P0292)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 414, ¶293 (B03-C021-P0293)](../../build/reader/book-03.html#B03-C021-P0293)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 414, ¶294 (B03-C021-P0294)](../../build/reader/book-03.html#B03-C021-P0294)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 414, ¶296 (B03-C021-P0296)](../../build/reader/book-03.html#B03-C021-P0296)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 415, ¶303 (B03-C021-P0303)](../../build/reader/book-03.html#B03-C021-P0303)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 415, ¶305 (B03-C021-P0305)](../../build/reader/book-03.html#B03-C021-P0305)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 415, ¶311 (B03-C021-P0311)](../../build/reader/book-03.html#B03-C021-P0311)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 415, ¶312 (B03-C021-P0312)](../../build/reader/book-03.html#B03-C021-P0312)
+
 ## B04-023: Vegetable path and greenhouse three
 
 The pupils cross a sodden vegetable path to greenhouse three, where black slug-like Bubotubers protrude upright from soil and produce a petrol-smelling yellow-green liquid when squeezed.
@@ -659,6 +934,78 @@ Model: A long entrance-to-carriage sightline and departure state. Do not infer t
 - [Book 4, ch. 37, “The Beginning”, ref p. 767, ¶70 (B04-C037-P0070)](../../build/reader/book-04.html#B04-C037-P0070)
 - [Book 4, ch. 37, “The Beginning”, ref p. 767, ¶71 (B04-C037-P0071)](../../build/reader/book-04.html#B04-C037-P0071)
 
+## B05-014: Castle approach and Hagrid’s cabin
+
+A towering mass of castle turrets rises against the night sky, with some windows brightly lit above the arrivals. Hagrid’s cabin stands by the Forbidden Forest; Harry looks toward it both from the gate approach and the coach stopping place but sees no light.
+
+Evidence: explicit; state: 1 September 1995 start-of-term feast and night.
+
+Model: Cabin darkness is a temporary absence, not proof of abandonment. Preserve attempted viewing positions without assuming unobstructed daytime sightlines.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 235, ¶9 (B05-C011-P0009)](../../build/reader/book-05.html#B05-C011-P0009)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 235, ¶10 (B05-C011-P0010)](../../build/reader/book-05.html#B05-C011-P0010)
+
+## B05-130: Hagrid cabin return-night furnishings
+
+Hagrid closes curtains after admitting them. A travelling cloak lies over a chair and a large haversack against the wall just inside the door. He heats a copper kettle over the fire and serves tea in bucket-shaped mugs.
+
+Evidence: explicit; state: Snowy November night of Hagrid’s return, 1995.
+
+Model: Travel equipment marks recent return; curtains and fire are fittings.
+
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 496, ¶10 (B05-C020-P0010)](../../build/reader/book-05.html#B05-C020-P0010)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 496, ¶11 (B05-C020-P0011)](../../build/reader/book-05.html#B05-C020-P0011)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 496, ¶12 (B05-C020-P0012)](../../build/reader/book-05.html#B05-C020-P0012)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 498, ¶35 (B05-C020-P0035)](../../build/reader/book-05.html#B05-C020-P0035)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 498, ¶36 (B05-C020-P0036)](../../build/reader/book-05.html#B05-C020-P0036)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 498, ¶38 (B05-C020-P0038)](../../build/reader/book-05.html#B05-C020-P0038)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 498, ¶39 (B05-C020-P0039)](../../build/reader/book-05.html#B05-C020-P0039)
+
+## B05-131: Hagrid cabin central table
+
+An enormous wooden table stands in the cabin centre. A tea towel initially covers a raw dragon steak slightly larger than a car tyre; Hagrid uses it as a cold dressing and it later falls to the floor.
+
+Evidence: explicit; state: Snowy November night of Hagrid’s return, 1995.
+
+Model: Temporary medical/food prop and mess on central work surface.
+
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 497, ¶22 (B05-C020-P0022)](../../build/reader/book-05.html#B05-C020-P0022)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 497, ¶23 (B05-C020-P0023)](../../build/reader/book-05.html#B05-C020-P0023)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 497, ¶24 (B05-C020-P0024)](../../build/reader/book-05.html#B05-C020-P0024)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 497, ¶25 (B05-C020-P0025)](../../build/reader/book-05.html#B05-C020-P0025)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 497, ¶30 (B05-C020-P0030)](../../build/reader/book-05.html#B05-C020-P0030)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 498, ¶35 (B05-C020-P0035)](../../build/reader/book-05.html#B05-C020-P0035)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 499, ¶49 (B05-C020-P0049)](../../build/reader/book-05.html#B05-C020-P0049)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 499, ¶60 (B05-C020-P0060)](../../build/reader/book-05.html#B05-C020-P0060)
+
+## B05-171: Hagrid’s salamander care
+
+Hagrid reports two salamanders with scale rot requiring chilli powder, then leaves through the front doors down the stone steps into damp grounds.
+
+Evidence: explicit; state: January–14 February 1996.
+
+Model: Care and number reported; precise enclosure location not given.
+
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 650, ¶41 (B05-C025-P0041)](../../build/reader/book-05.html#B05-C025-P0041)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 650, ¶43 (B05-C025-P0043)](../../build/reader/book-05.html#B05-C025-P0043)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 650–651, ¶44 (B05-C025-P0044)](../../build/reader/book-05.html#B05-C025-P0044)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 651, ¶46 (B05-C025-P0046)](../../build/reader/book-05.html#B05-C025-P0046)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 651, ¶47 (B05-C025-P0047)](../../build/reader/book-05.html#B05-C025-P0047)
+
+## B05-196: Hagrid cabin Knarl supplies
+
+After a creature lesson Harry doubles back to Hagrid, who drops a basin of Knarl droppings onto his floor and mops them up as Harry returns uphill to the castle.
+
+Evidence: explicit; state: March–early April 1996, new Divination class and DA discovery.
+
+Model: Basin and cleaning mess; exact room is implied by cabin context, not newly named.
+
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 719, ¶69 (B05-C027-P0069)](../../build/reader/book-05.html#B05-C027-P0069)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 719–720, ¶70 (B05-C027-P0070)](../../build/reader/book-05.html#B05-C027-P0070)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 720, ¶71 (B05-C027-P0071)](../../build/reader/book-05.html#B05-C027-P0071)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 720, ¶72 (B05-C027-P0072)](../../build/reader/book-05.html#B05-C027-P0072)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 720, ¶73 (B05-C027-P0073)](../../build/reader/book-05.html#B05-C027-P0073)
+
 ## B06-003: Hagrid’s care of Buckbeak
 
 Buckbeak is staying with Hagrid, under the protective replacement name Witherwings. Hagrid subsequently reports that the Hippogriff is back in the open air.
@@ -856,4 +1203,40 @@ Model: Dated major cabin damage, not demonstrated total destruction or reconstru
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 638, ¶63 (B06-C028-P0063)](../../build/reader/book-06.html#B06-C028-P0063)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 638–639, ¶64 (B06-C028-P0064)](../../build/reader/book-06.html#B06-C028-P0064)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 639, ¶67 (B06-C028-P0067)](../../build/reader/book-06.html#B06-C028-P0067)
+
+## B07-003: Hagrid front garden burial recollection
+
+Harry recalls Barty Crouch being Transfigured into a bone and buried in Hagrid’s front garden.
+
+Evidence: reported; state: July 1997 recollection.
+
+Model: Reported recollection, not a visible grave or current inspection. Parent should reconcile this wording with the original event’s evidence; no marker, exact position or remaining bone is described.
+
+- [Book 7, ch. 6, “The Ghoul in Pyjamas”, ref p. 97, ¶78 (B07-C006-P0078)](../../build/reader/book-07.html#B07-C006-P0078)
+- [Book 7, ch. 6, “The Ghoul in Pyjamas”, ref p. 97–98, ¶79 (B07-C006-P0079)](../../build/reader/book-07.html#B07-C006-P0079)
+- [Book 7, ch. 6, “The Ghoul in Pyjamas”, ref p. 98, ¶80 (B07-C006-P0080)](../../build/reader/book-07.html#B07-C006-P0080)
+
+## B07-016: Forbidden Forest / Hagrid’s hut
+
+Harry initially mistakes another wood for the Forbidden Forest and imagines slipping through its trees to Hagrid’s hut. He distinguishes the other wood by its younger, more widely spaced trees and clearer ground.
+
+Evidence: explicit; state: September 1997 recollection.
+
+Model: Relative comparison supports older, denser trees and more obstructed ground in the Forbidden Forest, not uniform tree ages or measured spacing. The observed canopy and clearing belong to the World Cup woods, not Hogwarts.
+
+- [Book 7, ch. 14, “The Thief”, ref p. 281, ¶1 (B07-C014-P0001)](../../build/reader/book-07.html#B07-C014-P0001)
+- [Book 7, ch. 14, “The Thief”, ref p. 281–282, ¶2 (B07-C014-P0002)](../../build/reader/book-07.html#B07-C014-P0002)
+- [Book 7, ch. 14, “The Thief”, ref p. 285, ¶34 (B07-C014-P0034)](../../build/reader/book-07.html#B07-C014-P0034)
+
+## B07-027: Hagrid’s house / Hogwarts grounds
+
+Potterwatch reports Hagrid escaping attempted arrest within the grounds after a rumoured pro-Harry gathering in his house. Lee refers to his sixteen-foot-high half-brother as possible help in the escape.
+
+Evidence: reported; state: March 1998 broadcast about events within the previous hours.
+
+Model: Evidence for an inhabited Hagrid house after the previous book’s fire, without a stated reconstruction or a guarantee it is the same building. The party is explicitly a rumour; Grawp’s assistance is suggested rather than witnessed.
+
+- [Book 7, ch. 22, “The Deathly Hallows”, ref p. 468, ¶163 (B07-C022-P0163)](../../build/reader/book-07.html#B07-C022-P0163)
+- [Book 7, ch. 22, “The Deathly Hallows”, ref p. 468–469, ¶164 (B07-C022-P0164)](../../build/reader/book-07.html#B07-C022-P0164)
+- [Book 7, ch. 22, “The Deathly Hallows”, ref p. 469, ¶165 (B07-C022-P0165)](../../build/reader/book-07.html#B07-C022-P0165)
 

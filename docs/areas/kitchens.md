@@ -161,6 +161,18 @@ Model: Adds soot and a temporary hearth obstruction to the earlier kitchen descr
 - [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 568, ¶32 (B04-C028-P0032)](../../build/reader/book-04.html#B04-C028-P0032)
 - [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 569, ¶40 (B04-C028-P0040)](../../build/reader/book-04.html#B04-C028-P0040)
 
+## B05-116: Room of Requirement disappearing door
+
+After the final three pupils leave, the door melts back into stone behind them.
+
+Evidence: explicit; state: October 1995, first DA meeting and preceding storm.
+
+Model: Observed closure effect; does not prove the contents cease to exist.
+
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 466–467, ¶259 (B05-C018-P0259)](../../build/reader/book-05.html#B05-C018-P0259)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 467, ¶260 (B05-C018-P0260)](../../build/reader/book-05.html#B05-C018-P0260)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 467, ¶264 (B05-C018-P0264)](../../build/reader/book-05.html#B05-C018-P0264)
+
 ## B06-002: Hogwarts kitchens
 
 Dumbledore identifies the Hogwarts kitchen as a workplace for the resident house-elves; Harry sends Kreacher to join them.

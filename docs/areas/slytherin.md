@@ -127,3 +127,18 @@ Model: Explicit reported vertical zone, not a measured depth or fully mapped ent
 
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 473, ¶51 (B06-C021-P0051)](../../build/reader/book-06.html#B06-C021-P0051)
 
+## B07-028: Slytherin common room
+
+Harry tells the Snatchers that the Slytherin common room is in the dungeons, entered through a wall, full of skulls and other things, and under the lake, which gives its light a green colour.
+
+Evidence: reported; state: March 1998 account of remembered school space.
+
+Model: Harry is falsely claiming Slytherin membership; Scabior accepts the architectural answer as convincing. Retain the account as reported rather than a witnessed current state. No window form, lake depth or entrance password supplied.
+
+- [Book 7, ch. 23, “Malfoy Manor”, ref p. 476, ¶50 (B07-C023-P0050)](../../build/reader/book-07.html#B07-C023-P0050)
+- [Book 7, ch. 23, “Malfoy Manor”, ref p. 476, ¶51 (B07-C023-P0051)](../../build/reader/book-07.html#B07-C023-P0051)
+- [Book 7, ch. 23, “Malfoy Manor”, ref p. 476, ¶52 (B07-C023-P0052)](../../build/reader/book-07.html#B07-C023-P0052)
+- [Book 7, ch. 23, “Malfoy Manor”, ref p. 476, ¶53 (B07-C023-P0053)](../../build/reader/book-07.html#B07-C023-P0053)
+- [Book 7, ch. 23, “Malfoy Manor”, ref p. 476, ¶54 (B07-C023-P0054)](../../build/reader/book-07.html#B07-C023-P0054)
+- [Book 7, ch. 23, “Malfoy Manor”, ref p. 476, ¶55 (B07-C023-P0055)](../../build/reader/book-07.html#B07-C023-P0055)
+

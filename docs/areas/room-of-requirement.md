@@ -4,6 +4,112 @@
 
 All pages are project reference pages, ref250-v1. Group membership is a navigation aid; retain each record's certainty and dated state.
 
+## B05-105: Room of Requirement operating rule
+
+Dobby calls it the Come and Go Room or Room of Requirement: it can be entered by a person with real need, appears intermittently, and supplies what that seeker needs. He says few know it and many accidental users cannot find it again.
+
+Evidence: reported; state: October 1995, first DA meeting and preceding storm.
+
+Model: Reported rules here; later observed entrance is separately recorded.
+
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 454, ¶154 (B05-C018-P0154)](../../build/reader/book-05.html#B05-C018-P0154)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 454–455, ¶156 (B05-C018-P0156)](../../build/reader/book-05.html#B05-C018-P0156)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 455, ¶157 (B05-C018-P0157)](../../build/reader/book-05.html#B05-C018-P0157)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 455, ¶158 (B05-C018-P0158)](../../build/reader/book-05.html#B05-C018-P0158)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 455, ¶161 (B05-C018-P0161)](../../build/reader/book-05.html#B05-C018-P0161)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 455, ¶162 (B05-C018-P0162)](../../build/reader/book-05.html#B05-C018-P0162)
+
+## B05-106: Room of Requirement prior uses
+
+Dobby reports an elf-sized bed and Butterbeer antidotes when sheltering drunken Winky, and extra cleaning supplies for Filch. Harry recalls Dumbledore’s chamber-pot room and proposes that it is the same place; Dobby expects it could be.
+
+Evidence: reported; state: October 1995, first DA meeting and preceding storm.
+
+Model: Bed and supplies are reported; identification of the chamber-pot room is a character inference rather than independently confirmed identity.
+
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 455, ¶158 (B05-C018-P0158)](../../build/reader/book-05.html#B05-C018-P0158)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 455, ¶159 (B05-C018-P0159)](../../build/reader/book-05.html#B05-C018-P0159)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 455, ¶160 (B05-C018-P0160)](../../build/reader/book-05.html#B05-C018-P0160)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 457, ¶173 (B05-C018-P0173)](../../build/reader/book-05.html#B05-C018-P0173)
+
+## B05-108: Seventh-floor Room of Requirement approach
+
+The meeting place is on the seventh floor opposite the tapestry of Barnabas the Barmy trying to teach trolls ballet. The friends leave Gryffindor, reach the top of a final staircase and follow the corridor to a blank wall facing the enormous moving tapestry.
+
+Evidence: explicit; state: October 1995, first DA meeting and preceding storm.
+
+Model: Fifth-years may use corridors until nine; staircase sequence supplies no exact common-room level change.
+
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 456, ¶169 (B05-C018-P0169)](../../build/reader/book-05.html#B05-C018-P0169)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 457, ¶179 (B05-C018-P0179)](../../build/reader/book-05.html#B05-C018-P0179)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 457–458, ¶180 (B05-C018-P0180)](../../build/reader/book-05.html#B05-C018-P0180)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 458, ¶185 (B05-C018-P0185)](../../build/reader/book-05.html#B05-C018-P0185)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 458, ¶186 (B05-C018-P0186)](../../build/reader/book-05.html#B05-C018-P0186)
+
+## B05-113: Room of Requirement broom-cupboard history
+
+Fred recalls that he and George once hid from Filch in this room when it was a broom cupboard.
+
+Evidence: reported; state: October 1995, first DA meeting and preceding storm.
+
+Model: Reported previous manifestation; not an extra simultaneously accessible room.
+
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 460, ¶200 (B05-C018-P0200)](../../build/reader/book-05.html#B05-C018-P0200)
+
+## B05-116: Room of Requirement disappearing door
+
+After the final three pupils leave, the door melts back into stone behind them.
+
+Evidence: explicit; state: October 1995, first DA meeting and preceding storm.
+
+Model: Observed closure effect; does not prove the contents cease to exist.
+
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 466–467, ¶259 (B05-C018-P0259)](../../build/reader/book-05.html#B05-C018-P0259)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 467, ¶260 (B05-C018-P0260)](../../build/reader/book-05.html#B05-C018-P0260)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 467, ¶264 (B05-C018-P0264)](../../build/reader/book-05.html#B05-C018-P0264)
+
+## B05-117: Room of Requirement detector table damage
+
+During later DA practice Parvati’s Reductor Curse reduces the table carrying the Sneakoscopes to dust.
+
+Evidence: explicit; state: Late October to first November Quidditch match, 1995.
+
+Model: A table is present in this later manifestation; do not silently substitute the earlier detector shelves. Repair is not described.
+
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 467–468, ¶1 (B05-C019-P0001)](../../build/reader/book-05.html#B05-C019-P0001)
+
+## B05-145: Room of Requirement Christmas decorations
+
+Torches flare when Harry enters. A hundred golden Harry-faced Christmas baubles hang from the ceiling until he removes them; a large clump of mistletoe with white berries remains overhead.
+
+Evidence: explicit; state: November–December 1995 before Christmas departure.
+
+Model: Harry attributes decorations to Dobby; actual baubles and mistletoe observed. Nargles are Luna’s unsupported claim.
+
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 533–534, ¶98 (B05-C021-P0098)](../../build/reader/book-05.html#B05-C021-P0098)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 534, ¶99 (B05-C021-P0099)](../../build/reader/book-05.html#B05-C021-P0099)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 534, ¶100 (B05-C021-P0100)](../../build/reader/book-05.html#B05-C021-P0100)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 534, ¶101 (B05-C021-P0101)](../../build/reader/book-05.html#B05-C021-P0101)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 534, ¶102 (B05-C021-P0102)](../../build/reader/book-05.html#B05-C021-P0102)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 534, ¶104 (B05-C021-P0104)](../../build/reader/book-05.html#B05-C021-P0104)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 538, ¶146 (B05-C021-P0146)](../../build/reader/book-05.html#B05-C021-P0146)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 538, ¶147 (B05-C021-P0147)](../../build/reader/book-05.html#B05-C021-P0147)
+
+## B05-198: Room of Requirement evacuation bottleneck
+
+Pupils rush into a scrum at the exit, forming a queue and spilling into both ends of the corridor. At ten to nine Harry considers the library and Owlery nearer refuges than dormitories; he orders Dobby back down to the kitchen.
+
+Evidence: explicit; state: March–early April 1996, new Divination class and DA discovery.
+
+Model: Harry’s relative-distance assessment is contextual, not a measured path-length table.
+
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 723, ¶104 (B05-C027-P0104)](../../build/reader/book-05.html#B05-C027-P0104)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 723, ¶105 (B05-C027-P0105)](../../build/reader/book-05.html#B05-C027-P0105)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 723–724, ¶106 (B05-C027-P0106)](../../build/reader/book-05.html#B05-C027-P0106)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶107 (B05-C027-P0107)](../../build/reader/book-05.html#B05-C027-P0107)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶108 (B05-C027-P0108)](../../build/reader/book-05.html#B05-C027-P0108)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶109 (B05-C027-P0109)](../../build/reader/book-05.html#B05-C027-P0109)
+
 ## B06-125: Room of Requirement concealed seventh-floor entrance
 
 The Room’s concealed entrance lies in a stretch of wall on the seventh floor opposite the tapestry of Barnabas the Barmy teaching ballet to trolls. An approach corner and corridor allow lookouts to wait outside.
@@ -109,4 +215,14 @@ Model: View-relative sides only; no compass bearing. Corridors are quiet shortly
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 568, ¶56 (B06-C025-P0056)](../../build/reader/book-06.html#B06-C025-P0056)
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 569, ¶58 (B06-C025-P0058)](../../build/reader/book-06.html#B06-C025-P0058)
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 569, ¶63 (B06-C025-P0063)](../../build/reader/book-06.html#B06-C025-P0063)
+
+## B07-026: Room of Requirement / hidden objects state
+
+The clutter of Xenophilius’s living room recalls the Room of Requirement transformed into a gigantic labyrinth made of objects hidden over centuries.
+
+Evidence: explicit; state: Late December 1997 recollection of the 1996–97 hiding-room state.
+
+Model: Supports enormous scale and maze-like accumulated storage. The circular room, hanging creature models and working printing press belong to Lovegood’s house and are not attributes of the Hogwarts room.
+
+- [Book 7, ch. 20, “Xenophilius Lovegood”, ref p. 424, ¶111 (B07-C020-P0111)](../../build/reader/book-07.html#B07-C020-P0111)
 

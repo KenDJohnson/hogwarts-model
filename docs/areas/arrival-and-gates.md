@@ -300,6 +300,87 @@ Model: Observed paddock equipment and circulation. Hippogriff coat colours inclu
 - [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶211 (B03-C006-P0211)](../../build/reader/book-03.html#B03-C006-P0211)
 - [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶214 (B03-C006-P0214)](../../build/reader/book-03.html#B03-C006-P0214)
 
+## B03-038: Hogsmeade visit — boundary amenities report
+
+The friends report visiting Dervish and Banges, Zonko’s and the Three Broomsticks. They describe a post office with roughly two hundred owls on shelves, colour-coded by delivery speed, and think they saw an ogre at the pub.
+
+Evidence: reported; state: 31 October 1993.
+
+Model: Village access context; ogre sighting uncertain, and no unrelated full village inventory intended.
+
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 157, ¶185 (B03-C008-P0185)](../../build/reader/book-03.html#B03-C008-P0185)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 157, ¶186 (B03-C008-P0186)](../../build/reader/book-03.html#B03-C008-P0186)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 157, ¶187 (B03-C008-P0187)](../../build/reader/book-03.html#B03-C008-P0187)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 157, ¶188 (B03-C008-P0188)](../../build/reader/book-03.html#B03-C008-P0188)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 157, ¶189 (B03-C008-P0189)](../../build/reader/book-03.html#B03-C008-P0189)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 157, ¶190 (B03-C008-P0190)](../../build/reader/book-03.html#B03-C008-P0190)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 157, ¶191 (B03-C008-P0191)](../../build/reader/book-03.html#B03-C008-P0191)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 157, ¶192 (B03-C008-P0192)](../../build/reader/book-03.html#B03-C008-P0192)
+
+## B03-091: Castle front doors to Hagrid’s cabin — escorted visit
+
+Hagrid requires the boys to wait in the Entrance Hall, collects them at six, opens the front doors and escorts them to his hut, later returning them uphill at nine.
+
+Evidence: explicit; state: After the February 1994 dormitory intrusion.
+
+Model: Dated escort rule and evening access; no general permission to leave unaccompanied.
+
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 273, ¶19 (B03-C014-P0019)](../../build/reader/book-03.html#B03-C014-P0019)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 273–274, ¶20 (B03-C014-P0020)](../../build/reader/book-03.html#B03-C014-P0020)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 274, ¶24 (B03-C014-P0024)](../../build/reader/book-03.html#B03-C014-P0024)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 274, ¶25 (B03-C014-P0025)](../../build/reader/book-03.html#B03-C014-P0025)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 274, ¶27 (B03-C014-P0027)](../../build/reader/book-03.html#B03-C014-P0027)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 274, ¶29 (B03-C014-P0029)](../../build/reader/book-03.html#B03-C014-P0029)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 276, ¶47 (B03-C014-P0047)](../../build/reader/book-03.html#B03-C014-P0047)
+
+## B03-110: Front steps — lake and cabin views
+
+From the top of the castle steps Fudge looks over the grounds/lake; a Committee member squints towards Hagrid’s cabin after emerging from the front doors.
+
+Evidence: explicit; state: June 1994 exams and Buckbeak appeal.
+
+Model: Explicit front-entrance sightlines, not measured distances.
+
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 320, ¶38 (B03-C016-P0038)](../../build/reader/book-03.html#B03-C016-P0038)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 320, ¶39 (B03-C016-P0039)](../../build/reader/book-03.html#B03-C016-P0039)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 320, ¶42 (B03-C016-P0042)](../../build/reader/book-03.html#B03-C016-P0042)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 321, ¶48 (B03-C016-P0048)](../../build/reader/book-03.html#B03-C016-P0048)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 321, ¶49 (B03-C016-P0049)](../../build/reader/book-03.html#B03-C016-P0049)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 321, ¶50 (B03-C016-P0050)](../../build/reader/book-03.html#B03-C016-P0050)
+
+## B03-120: Shrieking Shack: tunnel arrival room
+
+The tunnel opens into a disordered dusty room with peeling wallpaper, stained floor, boarded windows and broken furniture. A nearby wooden chair has large chunks torn out and an entire leg missing. To the entrants’ right, an open door leads into a shadowy hallway.
+
+Evidence: explicit; state: End of third year; evening of Buckbeak execution order.
+
+Model: Use arrival-relative right, not an invented compass direction; these are observed interior conditions, independent of the village’s ghost stories.
+
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 338, ¶53 (B03-C017-P0053)](../../build/reader/book-03.html#B03-C017-P0053)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 338, ¶55 (B03-C017-P0055)](../../build/reader/book-03.html#B03-C017-P0055)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 338, ¶57 (B03-C017-P0057)](../../build/reader/book-03.html#B03-C017-P0057)
+
+## B03-155: West Tower: aerial arrival and battlements
+
+Buckbeak carries all three upward from the office window to the top of the West Tower and lands on the battlements. Harry and Hermione dismount; Sirius departs into open sky, fading into the moonlit distance as a cloud crosses the moon.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: The tower top can support the landing and passengers. Do not infer its footprint, crenellation dimensions or relative height among other towers.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶334 (B03-C021-P0334)](../../build/reader/book-03.html#B03-C021-P0334)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶335 (B03-C021-P0335)](../../build/reader/book-03.html#B03-C021-P0335)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶336 (B03-C021-P0336)](../../build/reader/book-03.html#B03-C021-P0336)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶337 (B03-C021-P0337)](../../build/reader/book-03.html#B03-C021-P0337)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶338 (B03-C021-P0338)](../../build/reader/book-03.html#B03-C021-P0338)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶339 (B03-C021-P0339)](../../build/reader/book-03.html#B03-C021-P0339)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶340 (B03-C021-P0340)](../../build/reader/book-03.html#B03-C021-P0340)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶341 (B03-C021-P0341)](../../build/reader/book-03.html#B03-C021-P0341)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶342 (B03-C021-P0342)](../../build/reader/book-03.html#B03-C021-P0342)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶343 (B03-C021-P0343)](../../build/reader/book-03.html#B03-C021-P0343)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶344 (B03-C021-P0344)](../../build/reader/book-03.html#B03-C021-P0344)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶345 (B03-C021-P0345)](../../build/reader/book-03.html#B03-C021-P0345)
+
 ## B04-003: London to Hogsmeade station
 
 The Hogwarts Express departs the concealed platform nine and three-quarters at King’s Cross, travels north, and arrives at Hogsmeade station after dark. The London platform is accessed through the apparently solid barrier between platforms nine and ten.
@@ -520,6 +601,173 @@ Model: Return leg of the ordinary station route. The station journey itself is n
 - [Book 4, ch. 37, “The Beginning”, ref p. 768, ¶75 (B04-C037-P0075)](../../build/reader/book-04.html#B04-C037-P0075)
 - [Book 4, ch. 37, “The Beginning”, ref p. 768, ¶76 (B04-C037-P0076)](../../build/reader/book-04.html#B04-C037-P0076)
 - [Book 4, ch. 37, “The Beginning”, ref p. 768, ¶81 (B04-C037-P0081)](../../build/reader/book-04.html#B04-C037-P0081)
+
+## B05-005: Hogwarts Express interior
+
+A corridor serves compartments with glass-panelled sliding doors; luggage racks hold trunks and owl cages. The prefect carriage is toward the engine; Harry finds seating in the last carriage after passing five occupied carriages.
+
+Evidence: explicit; state: 1 September 1995 return to school.
+
+Model: Transport geometry, without an invented carriage total or exact seat plan.
+
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 216, ¶51 (B05-C010-P0051)](../../build/reader/book-05.html#B05-C010-P0051)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 216, ¶54 (B05-C010-P0054)](../../build/reader/book-05.html#B05-C010-P0054)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 216, ¶57 (B05-C010-P0057)](../../build/reader/book-05.html#B05-C010-P0057)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 216–217, ¶59 (B05-C010-P0059)](../../build/reader/book-05.html#B05-C010-P0059)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 217, ¶60 (B05-C010-P0060)](../../build/reader/book-05.html#B05-C010-P0060)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 217, ¶65 (B05-C010-P0065)](../../build/reader/book-05.html#B05-C010-P0065)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 218, ¶69 (B05-C010-P0069)](../../build/reader/book-05.html#B05-C010-P0069)
+
+## B05-007: Hogsmeade station and lake path
+
+Pine trees line the path down to the lake, their smell reaching the arrival platform. First-years assemble separately under a teacher carrying a lantern.
+
+Evidence: explicit; state: 1 September 1995 return to school.
+
+Model: The downward path and pine lining are explicit; no first-year boat journey is narrated here.
+
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 229–230, ¶177 (B05-C010-P0177)](../../build/reader/book-05.html#B05-C010-P0177)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 230, ¶178 (B05-C010-P0178)](../../build/reader/book-05.html#B05-C010-P0178)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 230, ¶179 (B05-C010-P0179)](../../build/reader/book-05.html#B05-C010-P0179)
+
+## B05-008: Hogsmeade station to coach road
+
+Students leave the platform through the station, passing a narrow doorway onto the dark rain-washed road outside. Roughly a hundred stagecoaches wait there to take pupils above first year up to the castle.
+
+Evidence: explicit; state: 1 September 1995 return to school.
+
+Model: Preserve road-to-station adjacency and uphill destination; no road length given.
+
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 230, ¶183 (B05-C010-P0183)](../../build/reader/book-05.html#B05-C010-P0183)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 230–231, ¶184 (B05-C010-P0184)](../../build/reader/book-05.html#B05-C010-P0184)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 231, ¶185 (B05-C010-P0185)](../../build/reader/book-05.html#B05-C010-P0185)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 231, ¶186 (B05-C010-P0186)](../../build/reader/book-05.html#B05-C010-P0186)
+
+## B05-009: Station coaches and their draft animals
+
+Skeletal black horse-like creatures stand harnessed between the coach shafts. They have dragon-like heads, white pupil-less eyes and large black leathery bat-like wings; vapour issues from their nostrils in the cold station light.
+
+Evidence: explicit; state: 1 September 1995 return to school.
+
+Model: Animal clearance and harness placement matter for transport animation. Species name is not supplied in this chapter.
+
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 231, ¶187 (B05-C010-P0187)](../../build/reader/book-05.html#B05-C010-P0187)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 233, ¶205 (B05-C010-P0205)](../../build/reader/book-05.html#B05-C010-P0205)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 233, ¶210 (B05-C010-P0210)](../../build/reader/book-05.html#B05-C010-P0210)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 233, ¶218 (B05-C010-P0218)](../../build/reader/book-05.html#B05-C010-P0218)
+
+## B05-013: Coach approach through school gates
+
+The creaking wheeled coaches travel uphill in convoy through the grounds gates, between tall stone pillars topped with winged boars; the vehicles have doors and windows.
+
+Evidence: explicit; state: 1 September 1995 start-of-term feast and night.
+
+Model: Connect station road to gated grounds; no count of intervening bends.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 234, ¶1 (B05-C011-P0001)](../../build/reader/book-05.html#B05-C011-P0001)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 234, ¶7 (B05-C011-P0007)](../../build/reader/book-05.html#B05-C011-P0007)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 235, ¶9 (B05-C011-P0009)](../../build/reader/book-05.html#B05-C011-P0009)
+
+## B05-015: Front steps and Entrance Hall
+
+Coaches stop near stone steps leading to the oak front doors. Inside, torches illuminate a flagged stone floor; double doors on the right lead to the Great Hall.
+
+Evidence: explicit; state: 1 September 1995 start-of-term feast and night.
+
+Model: Right is relative to entering from the front doors.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 235, ¶10 (B05-C011-P0010)](../../build/reader/book-05.html#B05-C011-P0010)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 236, ¶13 (B05-C011-P0013)](../../build/reader/book-05.html#B05-C011-P0013)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 236, ¶14 (B05-C011-P0014)](../../build/reader/book-05.html#B05-C011-P0014)
+
+## B05-075: Transfiguration inspection and workstations
+
+Umbridge sits in a classroom corner with her clipboard. McGonagall has a teacher’s desk; a box of live mice is passed among pupils for Vanishing practice.
+
+Evidence: explicit; state: Second week of September term, 1995.
+
+Model: Inspection seating and lesson materials are temporary.
+
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 376, ¶152 (B05-C015-P0152)](../../build/reader/book-05.html#B05-C015-P0152)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 377, ¶155 (B05-C015-P0155)](../../build/reader/book-05.html#B05-C015-P0155)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 378–379, ¶168 (B05-C015-P0168)](../../build/reader/book-05.html#B05-C015-P0168)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 379, ¶169 (B05-C015-P0169)](../../build/reader/book-05.html#B05-C015-P0169)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 379, ¶170 (B05-C015-P0170)](../../build/reader/book-05.html#B05-C015-P0170)
+
+## B05-159: Hogwarts Apparition boundary
+
+Hermione cites Hogwarts: A History to state that nobody can Apparate or Disapparate within Hogwarts, rejecting Harry’s idea that he was physically transported out of his dormitory during the snake vision. Ron says he remained in bed.
+
+Evidence: reported; state: Christmas holidays, December 1995.
+
+Model: Reported general restriction and eyewitness denial of that journey; do not conflate it with the separately observed authorised Portkey departure.
+
+- [Book 5, ch. 23, “Christmas on the Closed Ward”, ref p. 592, ¶80 (B05-C023-P0080)](../../build/reader/book-05.html#B05-C023-P0080)
+- [Book 5, ch. 23, “Christmas on the Closed Ward”, ref p. 592, ¶81 (B05-C023-P0081)](../../build/reader/book-05.html#B05-C023-P0081)
+- [Book 5, ch. 23, “Christmas on the Closed Ward”, ref p. 592–593, ¶82 (B05-C023-P0082)](../../build/reader/book-05.html#B05-C023-P0082)
+
+## B05-162: January gate-to-castle approach
+
+After leaving the bus on a deserted road outside the gates, six pupils drag trunks uphill along a slippery drive to the oaken front doors. Tonks says they will be safe within the grounds.
+
+Evidence: explicit; state: January 1996 return and first Occlumency lesson.
+
+Model: Slippery winter state observed; safety assurance is Tonks’s report.
+
+- [Book 5, ch. 24, “Occlumency”, ref p. 625, ¶104 (B05-C024-P0104)](../../build/reader/book-05.html#B05-C024-P0104)
+- [Book 5, ch. 24, “Occlumency”, ref p. 625, ¶105 (B05-C024-P0105)](../../build/reader/book-05.html#B05-C024-P0105)
+- [Book 5, ch. 24, “Occlumency”, ref p. 625, ¶106 (B05-C024-P0106)](../../build/reader/book-05.html#B05-C024-P0106)
+- [Book 5, ch. 24, “Occlumency”, ref p. 625–626, ¶109 (B05-C024-P0109)](../../build/reader/book-05.html#B05-C024-P0109)
+
+## B05-176: Village boundary security state
+
+Death Eater wanted posters fill shop windows including Dervish and Banges. Cho recalls Dementors throughout Hogsmeade during Sirius’s escape; Harry sees none now.
+
+Evidence: explicit; state: January–14 February 1996.
+
+Model: Past patrol is reported; current absence observed locally, not proof no Dementor exists anywhere.
+
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 662–663, ¶119 (B05-C025-P0119)](../../build/reader/book-05.html#B05-C025-P0119)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 663, ¶120 (B05-C025-P0120)](../../build/reader/book-05.html#B05-C025-P0120)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 663, ¶121 (B05-C025-P0121)](../../build/reader/book-05.html#B05-C025-P0121)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 663, ¶122 (B05-C025-P0122)](../../build/reader/book-05.html#B05-C025-P0122)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 663, ¶123 (B05-C025-P0123)](../../build/reader/book-05.html#B05-C025-P0123)
+
+## B05-188: Misty front doorway and Firenze arrival
+
+Dumbledore opens the oak front doors from the grounds and leaves them wide as mist enters. Firenze’s palomino horse body passes through the doors while spectators clear a path.
+
+Evidence: explicit; state: February–early March 1996, Quibbler publication and Trelawney dismissal.
+
+Model: Observed centaur clearance through the front entrance; no metric door width.
+
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 709, ¶251 (B05-C026-P0251)](../../build/reader/book-05.html#B05-C026-P0251)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 711, ¶266 (B05-C026-P0266)](../../build/reader/book-05.html#B05-C026-P0266)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 711–712, ¶267 (B05-C026-P0267)](../../build/reader/book-05.html#B05-C026-P0267)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 712, ¶268 (B05-C026-P0268)](../../build/reader/book-05.html#B05-C026-P0268)
+
+## B05-240: Charms view of front drive
+
+From the Charms classroom window Hermione watches Montague’s parents stride up the front drive and enter the castle.
+
+Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
+
+Model: Classroom-to-drive/front-entry sightline, no orientation or floor.
+
+- [Book 5, ch. 30, “Grawp”, ref p. 808, ¶9 (B05-C030-P0009)](../../build/reader/book-05.html#B05-C030-P0009)
+- [Book 5, ch. 30, “Grawp”, ref p. 808, ¶10 (B05-C030-P0010)](../../build/reader/book-05.html#B05-C030-P0010)
+
+## B05-251: Front entrance lintel and Forest view
+
+Celebrants carrying Ron bump his head on the castle doorway lintel while squeezing into the Entrance Hall. Harry and Hermione climb the steps and look back from the front doors toward distant Forest treetops, where Harry thinks birds erupt upward.
+
+Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
+
+Model: Lintel impact confirms finite doorway clearance; birds and uprooting explanation remain tentative.
+
+- [Book 5, ch. 30, “Grawp”, ref p. 837, ¶265 (B05-C030-P0265)](../../build/reader/book-05.html#B05-C030-P0265)
+- [Book 5, ch. 30, “Grawp”, ref p. 837–838, ¶266 (B05-C030-P0266)](../../build/reader/book-05.html#B05-C030-P0266)
+- [Book 5, ch. 30, “Grawp”, ref p. 838, ¶269 (B05-C030-P0269)](../../build/reader/book-05.html#B05-C030-P0269)
 
 ## B06-001: Hogwarts protective perimeter
 
@@ -772,4 +1020,62 @@ Evidence: explicit; state: Afternoon before funeral, June 1997.
 Model: Temporary visitor vehicle footprint and Forest-edge landing; no exact distance from cabin or earlier tournament parking site established.
 
 - [Book 6, ch. 30, “The White Tomb”, ref p. 666–667, ¶2 (B06-C030-P0002)](../../build/reader/book-06.html#B06-C030-P0002)
+
+## B07-011: Hogwarts Express approach context
+
+Harry remembers following the scarlet steam engine by air as it passed between fields and hills.
+
+Evidence: explicit; state: Recollection on 1 September 1997 of an earlier school journey.
+
+Model: Rural railway landscape, not a surveyed immediate castle approach; no distances or exact segment identified.
+
+- [Book 7, ch. 12, “Magic is Might”, ref p. 237–238, ¶25 (B07-C012-P0025)](../../build/reader/book-07.html#B07-C012-P0025)
+
+## B07-032: Hogwarts gates → grounds → lakeshore → castle path
+
+Harry sees Voldemort at the school gates as a lamp approaches through the pre-dawn. He then experiences travel alongside Snape up through the grounds towards the lake. Snape returns up the path towards the castle; Voldemort continues around the lake edge, with the castle in view and no lights in its windows.
+
+Evidence: explicit; state: March 1998 pre-dawn.
+
+Model: Narrated through Harry’s connection to Voldemort. Preserve the sequence and uphill wording without assuming the exact junction of the lake path and entrance drive.
+
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 528–529, ¶238 (B07-C024-P0238)](../../build/reader/book-07.html#B07-C024-P0238)
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 529, ¶248 (B07-C024-P0248)](../../build/reader/book-07.html#B07-C024-P0248)
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 529–530, ¶249 (B07-C024-P0249)](../../build/reader/book-07.html#B07-C024-P0249)
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 530, ¶250 (B07-C024-P0250)](../../build/reader/book-07.html#B07-C024-P0250)
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 530, ¶251 (B07-C024-P0251)](../../build/reader/book-07.html#B07-C024-P0251)
+
+## B07-034: Hogsmeade / Hogwarts perimeter
+
+In Harry’s vision Voldemort believes Harry cannot enter Hogsmeade undetected, still less the school, and plans to alert Snape that he may try to re-enter the castle. Harry chooses Hogsmeade as the approach from which to assess the school’s protections.
+
+Evidence: reported; state: May 1998, immediately before the return to Hogwarts.
+
+Model: The impossibility is Voldemort’s confidence, not an established absolute barrier. Protection mechanisms are not described here; preserve subsequent observations separately.
+
+- [Book 7, ch. 27, “The Final Hiding Place”, ref p. 584, ¶53 (B07-C027-P0053)](../../build/reader/book-07.html#B07-C027-P0053)
+- [Book 7, ch. 27, “The Final Hiding Place”, ref p. 585–586, ¶60 (B07-C027-P0060)](../../build/reader/book-07.html#B07-C027-P0060)
+- [Book 7, ch. 27, “The Final Hiding Place”, ref p. 586, ¶62 (B07-C027-P0062)](../../build/reader/book-07.html#B07-C027-P0062)
+- [Book 7, ch. 27, “The Final Hiding Place”, ref p. 586, ¶65 (B07-C027-P0065)](../../build/reader/book-07.html#B07-C027-P0065)
+- [Book 7, ch. 27, “The Final Hiding Place”, ref p. 586, ¶66 (B07-C027-P0066)](../../build/reader/book-07.html#B07-C027-P0066)
+
+## B07-040: Hogsmeade → mountain refuge / Apparition boundary
+
+Aberforth advises waiting until daylight, leaving Hogsmeade on foot and climbing into the mountains, where Apparition becomes possible. He reports Hagrid hiding in a cave there with Grawp after the attempted arrest.
+
+Evidence: reported; state: May 1998 return to Hogwarts.
+
+Model: No surveyed town boundary, cave coordinates or identity with the earlier mountain cave supplied.
+
+- [Book 7, ch. 28, “The Missing Mirror”, ref p. 593–594, ¶67 (B07-C028-P0067)](../../build/reader/book-07.html#B07-C028-P0067)
+
+## B07-041: Hogwarts boundary walls / old passages / patrols
+
+Aberforth reports all old secret passages watched at both ends, Dementors around the boundary walls, and regular patrols within the school; he says his alternative is now the only way in.
+
+Evidence: reported; state: May 1998 return to Hogwarts.
+
+Model: His sources support a very heavily guarded wartime state; “only” is his assessment, not a guarantee against every magical exception.
+
+- [Book 7, ch. 28, “The Missing Mirror”, ref p. 604, ¶149 (B07-C028-P0149)](../../build/reader/book-07.html#B07-C028-P0149)
 

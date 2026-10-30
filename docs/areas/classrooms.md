@@ -542,6 +542,223 @@ Model: Two-corridor sequence and lockable broom storage; no floor number or exac
 - [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 131–132, ¶98 (B03-C007-P0098)](../../build/reader/book-03.html#B03-C007-P0098)
 - [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 132, ¶99 (B03-C007-P0099)](../../build/reader/book-03.html#B03-C007-P0099)
 
+## B03-055: Defence classroom — Hinkypunk box and daylight
+
+Lupin brings a glass box containing a smoky one-legged Hinkypunk with a lantern, and covers it with cloth afterwards. Wintry sunlight falls across the classroom.
+
+Evidence: explicit; state: November–December 1993.
+
+Model: A contained teaching specimen; its reported bog-luring habitat does not locate a bog on the grounds.
+
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 185, ¶23 (B03-C010-P0023)](../../build/reader/book-03.html#B03-C010-P0023)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 185, ¶24 (B03-C010-P0024)](../../build/reader/book-03.html#B03-C010-P0024)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 185, ¶25 (B03-C010-P0025)](../../build/reader/book-03.html#B03-C010-P0025)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 185, ¶28 (B03-C010-P0028)](../../build/reader/book-03.html#B03-C010-P0028)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 185, ¶29 (B03-C010-P0029)](../../build/reader/book-03.html#B03-C010-P0029)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 186, ¶38 (B03-C010-P0038)](../../build/reader/book-03.html#B03-C010-P0038)
+
+## B03-058: Castle grounds and Charms classroom — early winter
+
+Rain persists into December before glittering frost covers the muddy grounds and later snow falls. Flitwick decorates his classroom with shimmering lights that are living fluttering fairies.
+
+Evidence: explicit; state: December 1993.
+
+Model: Seasonal weather and temporary classroom inhabitants.
+
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 188–189, ¶56 (B03-C010-P0056)](../../build/reader/book-03.html#B03-C010-P0056)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 189, ¶57 (B03-C010-P0057)](../../build/reader/book-03.html#B03-C010-P0057)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 189–190, ¶61 (B03-C010-P0061)](../../build/reader/book-03.html#B03-C010-P0061)
+
+## B03-059: Third-floor one-eyed witch and neighbouring classroom
+
+Halfway along the third-floor corridor stands a humpbacked one-eyed witch statue. An empty classroom lies to its left; it contains desks and a closable door used by the twins for presenting the map.
+
+Evidence: explicit; state: November–December 1993.
+
+Model: Left is approach-relative; statue and classroom floor explicit.
+
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 189–190, ¶61 (B03-C010-P0061)](../../build/reader/book-03.html#B03-C010-P0061)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 190, ¶63 (B03-C010-P0063)](../../build/reader/book-03.html#B03-C010-P0063)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 190, ¶65 (B03-C010-P0065)](../../build/reader/book-03.html#B03-C010-P0065)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 190, ¶66 (B03-C010-P0066)](../../build/reader/book-03.html#B03-C010-P0066)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 190, ¶67 (B03-C010-P0067)](../../build/reader/book-03.html#B03-C010-P0067)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 190, ¶68 (B03-C010-P0068)](../../build/reader/book-03.html#B03-C010-P0068)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 193, ¶106 (B03-C010-P0106)](../../build/reader/book-03.html#B03-C010-P0106)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 194, ¶112 (B03-C010-P0112)](../../build/reader/book-03.html#B03-C010-P0112)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 194, ¶113 (B03-C010-P0113)](../../build/reader/book-03.html#B03-C010-P0113)
+
+## B03-077: History of Magic classroom — training space
+
+The dark empty room has wand-lightable lamps, Binns’s desk, pupil desks and chairs, and a dusty floor. Lupin selects it as large enough for Patronus practice and places a large packing case on the teacher’s desk.
+
+Evidence: explicit; state: January–February 1994.
+
+Model: No new classroom floor number; substantial central clear space is used without a measured width.
+
+- [Book 3, ch. 12, “The Patronus”, ref p. 236, ¶22 (B03-C012-P0022)](../../build/reader/book-03.html#B03-C012-P0022)
+- [Book 3, ch. 12, “The Patronus”, ref p. 237, ¶33 (B03-C012-P0033)](../../build/reader/book-03.html#B03-C012-P0033)
+- [Book 3, ch. 12, “The Patronus”, ref p. 237, ¶35 (B03-C012-P0035)](../../build/reader/book-03.html#B03-C012-P0035)
+- [Book 3, ch. 12, “The Patronus”, ref p. 239, ¶54 (B03-C012-P0054)](../../build/reader/book-03.html#B03-C012-P0054)
+- [Book 3, ch. 12, “The Patronus”, ref p. 239, ¶55 (B03-C012-P0055)](../../build/reader/book-03.html#B03-C012-P0055)
+- [Book 3, ch. 12, “The Patronus”, ref p. 239, ¶61 (B03-C012-P0061)](../../build/reader/book-03.html#B03-C012-P0061)
+- [Book 3, ch. 12, “The Patronus”, ref p. 240, ¶64 (B03-C012-P0064)](../../build/reader/book-03.html#B03-C012-P0064)
+- [Book 3, ch. 12, “The Patronus”, ref p. 240, ¶71 (B03-C012-P0071)](../../build/reader/book-03.html#B03-C012-P0071)
+- [Book 3, ch. 12, “The Patronus”, ref p. 240, ¶72 (B03-C012-P0072)](../../build/reader/book-03.html#B03-C012-P0072)
+- [Book 3, ch. 12, “The Patronus”, ref p. 241, ¶80 (B03-C012-P0080)](../../build/reader/book-03.html#B03-C012-P0080)
+- [Book 3, ch. 12, “The Patronus”, ref p. 243, ¶94 (B03-C012-P0094)](../../build/reader/book-03.html#B03-C012-P0094)
+- [Book 3, ch. 12, “The Patronus”, ref p. 243, ¶100 (B03-C012-P0100)](../../build/reader/book-03.html#B03-C012-P0100)
+- [Book 3, ch. 12, “The Patronus”, ref p. 249, ¶147 (B03-C012-P0147)](../../build/reader/book-03.html#B03-C012-P0147)
+
+## B03-079: History classroom — imitation Dementor effects
+
+The case’s Boggart takes Dementor form, extinguishing lamps and making the room cold; lamps rekindle once that form disappears. Harry produces silver mist/shadows as a shield, and Lupin forces the Boggart, again a silver orb, back into the case.
+
+Evidence: explicit; state: January–February 1994.
+
+Model: Contained simulation and developing defensive spell, not a real Dementor admitted to the castle. Dimensions of the shield are unspecified.
+
+- [Book 3, ch. 12, “The Patronus”, ref p. 237, ¶37 (B03-C012-P0037)](../../build/reader/book-03.html#B03-C012-P0037)
+- [Book 3, ch. 12, “The Patronus”, ref p. 237–238, ¶39 (B03-C012-P0039)](../../build/reader/book-03.html#B03-C012-P0039)
+- [Book 3, ch. 12, “The Patronus”, ref p. 238, ¶40 (B03-C012-P0040)](../../build/reader/book-03.html#B03-C012-P0040)
+- [Book 3, ch. 12, “The Patronus”, ref p. 238, ¶42 (B03-C012-P0042)](../../build/reader/book-03.html#B03-C012-P0042)
+- [Book 3, ch. 12, “The Patronus”, ref p. 238, ¶44 (B03-C012-P0044)](../../build/reader/book-03.html#B03-C012-P0044)
+- [Book 3, ch. 12, “The Patronus”, ref p. 238, ¶47 (B03-C012-P0047)](../../build/reader/book-03.html#B03-C012-P0047)
+- [Book 3, ch. 12, “The Patronus”, ref p. 238–239, ¶51 (B03-C012-P0051)](../../build/reader/book-03.html#B03-C012-P0051)
+- [Book 3, ch. 12, “The Patronus”, ref p. 239, ¶55 (B03-C012-P0055)](../../build/reader/book-03.html#B03-C012-P0055)
+- [Book 3, ch. 12, “The Patronus”, ref p. 239, ¶56 (B03-C012-P0056)](../../build/reader/book-03.html#B03-C012-P0056)
+- [Book 3, ch. 12, “The Patronus”, ref p. 239, ¶57 (B03-C012-P0057)](../../build/reader/book-03.html#B03-C012-P0057)
+- [Book 3, ch. 12, “The Patronus”, ref p. 239, ¶58 (B03-C012-P0058)](../../build/reader/book-03.html#B03-C012-P0058)
+- [Book 3, ch. 12, “The Patronus”, ref p. 239, ¶61 (B03-C012-P0061)](../../build/reader/book-03.html#B03-C012-P0061)
+- [Book 3, ch. 12, “The Patronus”, ref p. 241, ¶74 (B03-C012-P0074)](../../build/reader/book-03.html#B03-C012-P0074)
+- [Book 3, ch. 12, “The Patronus”, ref p. 242, ¶90 (B03-C012-P0090)](../../build/reader/book-03.html#B03-C012-P0090)
+- [Book 3, ch. 12, “The Patronus”, ref p. 242, ¶91 (B03-C012-P0091)](../../build/reader/book-03.html#B03-C012-P0091)
+- [Book 3, ch. 12, “The Patronus”, ref p. 242–243, ¶92 (B03-C012-P0092)](../../build/reader/book-03.html#B03-C012-P0092)
+- [Book 3, ch. 12, “The Patronus”, ref p. 243, ¶93 (B03-C012-P0093)](../../build/reader/book-03.html#B03-C012-P0093)
+- [Book 3, ch. 12, “The Patronus”, ref p. 243, ¶94 (B03-C012-P0094)](../../build/reader/book-03.html#B03-C012-P0094)
+- [Book 3, ch. 12, “The Patronus”, ref p. 243, ¶100 (B03-C012-P0100)](../../build/reader/book-03.html#B03-C012-P0100)
+- [Book 3, ch. 12, “The Patronus”, ref p. 246–247, ¶122 (B03-C012-P0122)](../../build/reader/book-03.html#B03-C012-P0122)
+- [Book 3, ch. 12, “The Patronus”, ref p. 247, ¶123 (B03-C012-P0123)](../../build/reader/book-03.html#B03-C012-P0123)
+- [Book 3, ch. 12, “The Patronus”, ref p. 247, ¶124 (B03-C012-P0124)](../../build/reader/book-03.html#B03-C012-P0124)
+- [Book 3, ch. 12, “The Patronus”, ref p. 247, ¶125 (B03-C012-P0125)](../../build/reader/book-03.html#B03-C012-P0125)
+
+## B03-080: History classroom return — armour plinth
+
+Harry exits, follows a corridor round a corner, then detours behind a suit of armour to sit on its plinth before returning to Gryffindor Tower. On another return he meets McGonagall halfway upstairs.
+
+Evidence: explicit; state: January–February 1994.
+
+Model: Plinth and local route relationships; no identification with any other previously described suit.
+
+- [Book 3, ch. 12, “The Patronus”, ref p. 243–244, ¶106 (B03-C012-P0106)](../../build/reader/book-03.html#B03-C012-P0106)
+- [Book 3, ch. 12, “The Patronus”, ref p. 244, ¶107 (B03-C012-P0107)](../../build/reader/book-03.html#B03-C012-P0107)
+- [Book 3, ch. 12, “The Patronus”, ref p. 244, ¶110 (B03-C012-P0110)](../../build/reader/book-03.html#B03-C012-P0110)
+- [Book 3, ch. 12, “The Patronus”, ref p. 249, ¶147 (B03-C012-P0147)](../../build/reader/book-03.html#B03-C012-P0147)
+- [Book 3, ch. 12, “The Patronus”, ref p. 249, ¶148 (B03-C012-P0148)](../../build/reader/book-03.html#B03-C012-P0148)
+- [Book 3, ch. 12, “The Patronus”, ref p. 249, ¶151 (B03-C012-P0151)](../../build/reader/book-03.html#B03-C012-P0151)
+- [Book 3, ch. 12, “The Patronus”, ref p. 250, ¶155 (B03-C012-P0155)](../../build/reader/book-03.html#B03-C012-P0155)
+
+## B03-100: Creature lessons to Charms — entrance branches
+
+Pupils return uphill to the castle steps and doors. Malfoy flees into the dungeon passage while the trio climb the marble staircase to Flitwick’s classroom, whose back desks they use.
+
+Evidence: explicit; state: Easter 1994 and Quidditch final.
+
+Model: Useful ground-level branch to dungeon and upward Charms route; no specific classroom floor.
+
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 294, ¶20 (B03-C015-P0020)](../../build/reader/book-03.html#B03-C015-P0020)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 294, ¶21 (B03-C015-P0021)](../../build/reader/book-03.html#B03-C015-P0021)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 294, ¶24 (B03-C015-P0024)](../../build/reader/book-03.html#B03-C015-P0024)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 295, ¶32 (B03-C015-P0032)](../../build/reader/book-03.html#B03-C015-P0032)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 295, ¶35 (B03-C015-P0035)](../../build/reader/book-03.html#B03-C015-P0035)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 295, ¶36 (B03-C015-P0036)](../../build/reader/book-03.html#B03-C015-P0036)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 295, ¶37 (B03-C015-P0037)](../../build/reader/book-03.html#B03-C015-P0037)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 295, ¶38 (B03-C015-P0038)](../../build/reader/book-03.html#B03-C015-P0038)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 295, ¶40 (B03-C015-P0040)](../../build/reader/book-03.html#B03-C015-P0040)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 295–296, ¶43 (B03-C015-P0043)](../../build/reader/book-03.html#B03-C015-P0043)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 296, ¶45 (B03-C015-P0045)](../../build/reader/book-03.html#B03-C015-P0045)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 296, ¶46 (B03-C015-P0046)](../../build/reader/book-03.html#B03-C015-P0046)
+
+## B03-102: Divination room — crystal-ball configuration and burn
+
+Glowing mist-filled crystal balls sit on every small table in the dim hot room. The trio’s table is rickety and has a burn Ron attributes to spilled candle wax/flame. Trelawney sits with her back to the fire; Hermione kicks open the trapdoor and descends the ladder.
+
+Evidence: explicit; state: Easter 1994 and Quidditch final.
+
+Model: Crystal lesson installation, marked furniture and outward trapdoor operation; claimed portent imagery not established physical objects.
+
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 297, ¶55 (B03-C015-P0055)](../../build/reader/book-03.html#B03-C015-P0055)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 297, ¶57 (B03-C015-P0057)](../../build/reader/book-03.html#B03-C015-P0057)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 297, ¶60 (B03-C015-P0060)](../../build/reader/book-03.html#B03-C015-P0060)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 297–298, ¶61 (B03-C015-P0061)](../../build/reader/book-03.html#B03-C015-P0061)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 298, ¶64 (B03-C015-P0064)](../../build/reader/book-03.html#B03-C015-P0064)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 298, ¶66 (B03-C015-P0066)](../../build/reader/book-03.html#B03-C015-P0066)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 298, ¶67 (B03-C015-P0067)](../../build/reader/book-03.html#B03-C015-P0067)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 298, ¶68 (B03-C015-P0068)](../../build/reader/book-03.html#B03-C015-P0068)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 298–299, ¶70 (B03-C015-P0070)](../../build/reader/book-03.html#B03-C015-P0070)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 299, ¶74 (B03-C015-P0074)](../../build/reader/book-03.html#B03-C015-P0074)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 300, ¶82 (B03-C015-P0082)](../../build/reader/book-03.html#B03-C015-P0082)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 300, ¶83 (B03-C015-P0083)](../../build/reader/book-03.html#B03-C015-P0083)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 300, ¶84 (B03-C015-P0084)](../../build/reader/book-03.html#B03-C015-P0084)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 300, ¶88 (B03-C015-P0088)](../../build/reader/book-03.html#B03-C015-P0088)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 300–301, ¶91 (B03-C015-P0091)](../../build/reader/book-03.html#B03-C015-P0091)
+
+## B03-109: Outdoor Defence exam course
+
+Lupin lays out a sunny obstacle course: a deep paddling pool with Grindylow, potholes containing Red Caps, a marsh with misleading Hinkypunk and an old trunk containing a Boggart. Ron sinks waist-deep into the quagmire.
+
+Evidence: explicit; state: June 1994 exams and Buckbeak appeal.
+
+Model: Dated exam installation, no proof pool, potholes or marsh are permanent grounds topography.
+
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 319–320, ¶33 (B03-C016-P0033)](../../build/reader/book-03.html#B03-C016-P0033)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 320, ¶34 (B03-C016-P0034)](../../build/reader/book-03.html#B03-C016-P0034)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 320, ¶35 (B03-C016-P0035)](../../build/reader/book-03.html#B03-C016-P0035)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 320, ¶36 (B03-C016-P0036)](../../build/reader/book-03.html#B03-C016-P0036)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 320, ¶37 (B03-C016-P0037)](../../build/reader/book-03.html#B03-C016-P0037)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 320, ¶38 (B03-C016-P0038)](../../build/reader/book-03.html#B03-C016-P0038)
+
+## B03-111: Great Hall to Divination — seventh-floor approach
+
+After lunch the trio ascend the marble stair. Hermione turns off on the first floor; the boys continue to the seventh and queue on the spiral steps/landing below Trelawney’s ladder. A sunny window and wall seating space are present on the landing.
+
+Evidence: explicit; state: June 1994 exams and Buckbeak appeal.
+
+Model: First floor is Hermione’s turn-off, not a proven Muggle Studies classroom floor. Seventh is the approach to the tower stair, not automatically its room floor.
+
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 322, ¶53 (B03-C016-P0053)](../../build/reader/book-03.html#B03-C016-P0053)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 322, ¶54 (B03-C016-P0054)](../../build/reader/book-03.html#B03-C016-P0054)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 322, ¶56 (B03-C016-P0056)](../../build/reader/book-03.html#B03-C016-P0056)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 322–323, ¶58 (B03-C016-P0058)](../../build/reader/book-03.html#B03-C016-P0058)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 323, ¶59 (B03-C016-P0059)](../../build/reader/book-03.html#B03-C016-P0059)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 323, ¶60 (B03-C016-P0060)](../../build/reader/book-03.html#B03-C016-P0060)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 323, ¶63 (B03-C016-P0063)](../../build/reader/book-03.html#B03-C016-P0063)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 323, ¶64 (B03-C016-P0064)](../../build/reader/book-03.html#B03-C016-P0064)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 323, ¶65 (B03-C016-P0065)](../../build/reader/book-03.html#B03-C016-P0065)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 323, ¶68 (B03-C016-P0068)](../../build/reader/book-03.html#B03-C016-P0068)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 323–324, ¶69 (B03-C016-P0069)](../../build/reader/book-03.html#B03-C016-P0069)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 326, ¶101 (B03-C016-P0101)](../../build/reader/book-03.html#B03-C016-P0101)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 326, ¶102 (B03-C016-P0102)](../../build/reader/book-03.html#B03-C016-P0102)
+
+## B03-112: Divination exam — hot curtained room
+
+The tower is especially hot, with closed curtains, an active scented fire and cluttered chairs/tables. Trelawney sits in an armchair beside a large crystal ball for individual tests.
+
+Evidence: explicit; state: June 1994 exams and Buckbeak appeal.
+
+Model: Temperature/arrangement for exam; claimed and invented ball visions are not actual grounds events.
+
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 323–324, ¶69 (B03-C016-P0069)](../../build/reader/book-03.html#B03-C016-P0069)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 324, ¶70 (B03-C016-P0070)](../../build/reader/book-03.html#B03-C016-P0070)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 324, ¶71 (B03-C016-P0071)](../../build/reader/book-03.html#B03-C016-P0071)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 324, ¶73 (B03-C016-P0073)](../../build/reader/book-03.html#B03-C016-P0073)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 324, ¶78 (B03-C016-P0078)](../../build/reader/book-03.html#B03-C016-P0078)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 324–325, ¶83 (B03-C016-P0083)](../../build/reader/book-03.html#B03-C016-P0083)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 325, ¶86 (B03-C016-P0086)](../../build/reader/book-03.html#B03-C016-P0086)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 325, ¶88 (B03-C016-P0088)](../../build/reader/book-03.html#B03-C016-P0088)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 325, ¶90 (B03-C016-P0090)](../../build/reader/book-03.html#B03-C016-P0090)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 325–326, ¶93 (B03-C016-P0093)](../../build/reader/book-03.html#B03-C016-P0093)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 326, ¶100 (B03-C016-P0100)](../../build/reader/book-03.html#B03-C016-P0100)
+
 ## B04-026: North Tower Divination access
 
 At the top of a tightly spiralling staircase in North Tower a silver stepladder leads through a circular ceiling trapdoor into Trelawney’s room.
@@ -897,6 +1114,506 @@ Model: Specific window sightline; no bearing or whole-ground panorama is stated.
 - [Book 4, ch. 31, “The Third Task”, ref p. 643, ¶28 (B04-C031-P0028)](../../build/reader/book-04.html#B04-C031-P0028)
 - [Book 4, ch. 31, “The Third Task”, ref p. 643, ¶29 (B04-C031-P0029)](../../build/reader/book-04.html#B04-C031-P0029)
 - [Book 4, ch. 31, “The Third Task”, ref p. 643, ¶30 (B04-C031-P0030)](../../build/reader/book-04.html#B04-C031-P0030)
+
+## B05-032: History of Magic classroom
+
+Binns leaves his classroom by drifting through its blackboard.
+
+Evidence: explicit; state: First Monday of September term, 1995.
+
+Model: Confirms a blackboard and nonphysical ghost traversal; not a passage for living pupils.
+
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 267, ¶106 (B05-C012-P0106)](../../build/reader/book-05.html#B05-C012-P0106)
+
+## B05-033: Courtyard after History of Magic
+
+After leaving History of Magic, the friends go into a damp courtyard, choosing a secluded corner below a heavily dripping balcony in misty September drizzle.
+
+Evidence: explicit; state: First Monday of September term, 1995.
+
+Model: Courtyard has a corner and overhead balcony; adjacency to classroom is a travelled route without a stated intervening distance.
+
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 267, ¶110 (B05-C012-P0110)](../../build/reader/book-05.html#B05-C012-P0110)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 267–268, ¶111 (B05-C012-P0111)](../../build/reader/book-05.html#B05-C012-P0111)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 269, ¶122 (B05-C012-P0122)](../../build/reader/book-05.html#B05-C012-P0122)
+
+## B05-034: Courtyard to Potions
+
+At the lesson bell they travel down to Snape’s dungeon and queue outside the classroom door before entering.
+
+Evidence: explicit; state: First Monday of September term, 1995.
+
+Model: Descending route from the courtyard; floors unspecified.
+
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 269–270, ¶133 (B05-C012-P0133)](../../build/reader/book-05.html#B05-C012-P0133)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 270, ¶134 (B05-C012-P0134)](../../build/reader/book-05.html#B05-C012-P0134)
+
+## B05-035: Potions dungeon workspaces
+
+Harry, Ron and Hermione use their usual table at the back, with Hermione to Harry’s left; Slytherins sit at the front. Snape has a desk, a blackboard and an ingredient store cupboard with a door that he opens by wand.
+
+Evidence: explicit; state: First Monday of September term, 1995.
+
+Model: Seating is observed for this class; cupboard is not assumed to be Snape’s private store.
+
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 270, ¶134 (B05-C012-P0134)](../../build/reader/book-05.html#B05-C012-P0134)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 270–271, ¶137 (B05-C012-P0137)](../../build/reader/book-05.html#B05-C012-P0137)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 271–272, ¶142 (B05-C012-P0142)](../../build/reader/book-05.html#B05-C012-P0142)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 273, ¶147 (B05-C012-P0147)](../../build/reader/book-05.html#B05-C012-P0147)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 273–274, ¶162 (B05-C012-P0162)](../../build/reader/book-05.html#B05-C012-P0162)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 274, ¶163 (B05-C012-P0163)](../../build/reader/book-05.html#B05-C012-P0163)
+
+## B05-036: Potions dungeon lesson atmosphere
+
+Cauldrons simmer over controllable flames. Grey steam, green sparks and silver mist rise from different mixtures; multi-coloured vapour makes the blackboard difficult to read. Goyle’s sample flagon reportedly shatters and sets his clothes alight.
+
+Evidence: explicit; state: First Monday of September term, 1995.
+
+Model: Fire incident is Hermione’s report within an otherwise observed lesson; avoid permanent scorch damage not stated.
+
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 272, ¶143 (B05-C012-P0143)](../../build/reader/book-05.html#B05-C012-P0143)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 272–273, ¶145 (B05-C012-P0145)](../../build/reader/book-05.html#B05-C012-P0145)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 273, ¶153 (B05-C012-P0153)](../../build/reader/book-05.html#B05-C012-P0153)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 274, ¶163 (B05-C012-P0163)](../../build/reader/book-05.html#B05-C012-P0163)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 274, ¶164 (B05-C012-P0164)](../../build/reader/book-05.html#B05-C012-P0164)
+
+## B05-039: North Tower Divination approach
+
+Harry waits beneath a trapdoor at the top of North Tower, then climbs the silver ladder into Trelawney’s classroom; the class descends that ladder afterward.
+
+Evidence: explicit; state: First Monday of September term, 1995.
+
+Model: Top-of-tower access, distinct from unspecified earlier stairs.
+
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 276, ¶174 (B05-C012-P0174)](../../build/reader/book-05.html#B05-C012-P0174)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 276–277, ¶175 (B05-C012-P0175)](../../build/reader/book-05.html#B05-C012-P0175)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 278–279, ¶191 (B05-C012-P0191)](../../build/reader/book-05.html#B05-C012-P0191)
+
+## B05-040: Divination classroom fittings
+
+Spindly small tables carry battered leather-bound books. Scarves cover the lamps, and a low sickly-scented fire supplies little light. Tables, chairs and overstuffed pouffes impede direct paths across the room.
+
+Evidence: explicit; state: First Monday of September term, 1995.
+
+Model: Retain dim shadowed seating and crowded circulation.
+
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 276–277, ¶175 (B05-C012-P0175)](../../build/reader/book-05.html#B05-C012-P0175)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 277, ¶183 (B05-C012-P0183)](../../build/reader/book-05.html#B05-C012-P0183)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 278, ¶186 (B05-C012-P0186)](../../build/reader/book-05.html#B05-C012-P0186)
+
+## B05-041: Defence classroom under Umbridge
+
+Umbridge sits behind the teacher’s desk; she writes magically on a blackboard. Pupils have seats including stools and a chair Harry kicks aside; their work uses quills, ink and parchment.
+
+Evidence: explicit; state: First Monday of September term, 1995.
+
+Model: Specific stool and chair observations do not establish uniform classroom seating.
+
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 279, ¶193 (B05-C012-P0193)](../../build/reader/book-05.html#B05-C012-P0193)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 279–280, ¶199 (B05-C012-P0199)](../../build/reader/book-05.html#B05-C012-P0199)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 280, ¶200 (B05-C012-P0200)](../../build/reader/book-05.html#B05-C012-P0200)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 280, ¶205 (B05-C012-P0205)](../../build/reader/book-05.html#B05-C012-P0205)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 281, ¶214 (B05-C012-P0214)](../../build/reader/book-05.html#B05-C012-P0214)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 286, ¶269 (B05-C012-P0269)](../../build/reader/book-05.html#B05-C012-P0269)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 286, ¶273 (B05-C012-P0273)](../../build/reader/book-05.html#B05-C012-P0273)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 287–288, ¶286 (B05-C012-P0286)](../../build/reader/book-05.html#B05-C012-P0286)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 288, ¶287 (B05-C012-P0287)](../../build/reader/book-05.html#B05-C012-P0287)
+
+## B05-042: Defence classroom to McGonagall’s office
+
+Harry exits Defence, follows a corridor, turns a corner and runs down the nearest staircase with a banister. McGonagall emerges from an office door to his left.
+
+Evidence: explicit; state: First Monday of September term, 1995.
+
+Model: Observed sequence includes an evasive detour from Peeves; not necessarily the shortest route or proof of one-floor separation.
+
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 288, ¶289 (B05-C012-P0289)](../../build/reader/book-05.html#B05-C012-P0289)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 289, ¶293 (B05-C012-P0293)](../../build/reader/book-05.html#B05-C012-P0293)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 289, ¶298 (B05-C012-P0298)](../../build/reader/book-05.html#B05-C012-P0298)
+
+## B05-050: Charms teacher’s desk
+
+Flitwick perches on a pile of books to see over his desk during Charms.
+
+Evidence: explicit; state: First school week, September 1995.
+
+Model: Scale aid for the teacher; pile height unspecified.
+
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 300, ¶79 (B05-C013-P0079)](../../build/reader/book-05.html#B05-C013-P0079)
+
+## B05-051: Sloping lawn and outdoor creature classroom
+
+The class walks down the sloping lawn to Hagrid’s cabin at the Forest edge. Grubbly-Plank waits about ten yards from the front door behind a long trestle table of Bowtruckles and woodlice; students work sitting or crouching on the grass.
+
+Evidence: explicit; state: First school week, September 1995.
+
+Model: Temporary lesson station at a stated distance from the front door.
+
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 301–302, ¶85 (B05-C013-P0085)](../../build/reader/book-05.html#B05-C013-P0085)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 302, ¶87 (B05-C013-P0087)](../../build/reader/book-05.html#B05-C013-P0087)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 302–303, ¶89 (B05-C013-P0089)](../../build/reader/book-05.html#B05-C013-P0089)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 303, ¶94 (B05-C013-P0094)](../../build/reader/book-05.html#B05-C013-P0094)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 304, ¶100 (B05-C013-P0100)](../../build/reader/book-05.html#B05-C013-P0100)
+
+## B05-055: Defence teacher’s office location and former states
+
+Umbridge’s office is on the third floor and is the office formerly occupied by Lockhart, Lupin and the impostor Moody: respectively self-portraits, dark creatures in cages or tanks, and detection instruments and artefacts.
+
+Evidence: explicit; state: First school week, September 1995.
+
+Model: Identifies continuity of one room despite changing decor; retain historical occupant states.
+
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 310, ¶138 (B05-C013-P0138)](../../build/reader/book-05.html#B05-C013-P0138)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 310, ¶139 (B05-C013-P0139)](../../build/reader/book-05.html#B05-C013-P0139)
+
+## B05-072: Potions to Entrance Hall
+
+After using the blackboard and submitting potion flasks at Snape’s desk, pupils climb steps out of the dungeon and cross the Entrance Hall toward lunch.
+
+Evidence: explicit; state: Second week of September term, 1995.
+
+Model: Explicit upward connection from dungeon circulation to Entrance Hall.
+
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 364–365, ¶34 (B05-C015-P0034)](../../build/reader/book-05.html#B05-C015-P0034)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 365, ¶35 (B05-C015-P0035)](../../build/reader/book-05.html#B05-C015-P0035)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 365, ¶39 (B05-C015-P0039)](../../build/reader/book-05.html#B05-C015-P0039)
+
+## B05-073: Divination inspection furniture and route
+
+Harry sits at the back of the shadowed classroom. Umbridge enters through the floor trapdoor and draws an armchair to a point a few inches behind Trelawney’s seat; she later descends the silver ladder, and the pupils reach Defence ten minutes afterward.
+
+Evidence: explicit; state: Second week of September term, 1995.
+
+Model: Movable inspection chair and approximate travel interval, not a measured direct-route duration.
+
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 367–368, ¶69 (B05-C015-P0069)](../../build/reader/book-05.html#B05-C015-P0069)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 368, ¶71 (B05-C015-P0071)](../../build/reader/book-05.html#B05-C015-P0071)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 368, ¶74 (B05-C015-P0074)](../../build/reader/book-05.html#B05-C015-P0074)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 369, ¶83 (B05-C015-P0083)](../../build/reader/book-05.html#B05-C015-P0083)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 372, ¶108 (B05-C015-P0108)](../../build/reader/book-05.html#B05-C015-P0108)
+
+## B05-074: Defence classroom desk rows
+
+Umbridge walks around the front row of student desks to address Hermione, then returns to the front of the room.
+
+Evidence: explicit; state: Second week of September term, 1995.
+
+Model: Confirms desks arranged in rows; the count and spacing are unspecified.
+
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 372–373, ¶111 (B05-C015-P0111)](../../build/reader/book-05.html#B05-C015-P0111)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 373, ¶112 (B05-C015-P0112)](../../build/reader/book-05.html#B05-C015-P0112)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 374, ¶126 (B05-C015-P0126)](../../build/reader/book-05.html#B05-C015-P0126)
+
+## B05-075: Transfiguration inspection and workstations
+
+Umbridge sits in a classroom corner with her clipboard. McGonagall has a teacher’s desk; a box of live mice is passed among pupils for Vanishing practice.
+
+Evidence: explicit; state: Second week of September term, 1995.
+
+Model: Inspection seating and lesson materials are temporary.
+
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 376, ¶152 (B05-C015-P0152)](../../build/reader/book-05.html#B05-C015-P0152)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 377, ¶155 (B05-C015-P0155)](../../build/reader/book-05.html#B05-C015-P0155)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 378–379, ¶168 (B05-C015-P0168)](../../build/reader/book-05.html#B05-C015-P0168)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 379, ¶169 (B05-C015-P0169)](../../build/reader/book-05.html#B05-C015-P0169)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 379, ¶170 (B05-C015-P0170)](../../build/reader/book-05.html#B05-C015-P0170)
+
+## B05-085: Proposed Defence practice rooms
+
+Katie suggests the library, Dean an unused classroom, and Ron recalls McGonagall permitting use of her room for Harry’s Triwizard practice. No meeting room is selected here.
+
+Evidence: reported; state: Late September and first October Hogsmeade weekend, 1995.
+
+Model: Separate proposed venues from confirmed use; Ron’s past-use recollection is reported.
+
+- [Book 5, ch. 16, “In the Hog’s Head”, ref p. 408, ¶163 (B05-C016-P0163)](../../build/reader/book-05.html#B05-C016-P0163)
+- [Book 5, ch. 16, “In the Hog’s Head”, ref p. 408, ¶164 (B05-C016-P0164)](../../build/reader/book-05.html#B05-C016-P0164)
+- [Book 5, ch. 16, “In the Hog’s Head”, ref p. 408, ¶165 (B05-C016-P0165)](../../build/reader/book-05.html#B05-C016-P0165)
+- [Book 5, ch. 16, “In the Hog’s Head”, ref p. 408, ¶166 (B05-C016-P0166)](../../build/reader/book-05.html#B05-C016-P0166)
+- [Book 5, ch. 16, “In the Hog’s Head”, ref p. 408, ¶167 (B05-C016-P0167)](../../build/reader/book-05.html#B05-C016-P0167)
+- [Book 5, ch. 16, “In the Hog’s Head”, ref p. 408, ¶168 (B05-C016-P0168)](../../build/reader/book-05.html#B05-C016-P0168)
+- [Book 5, ch. 16, “In the Hog’s Head”, ref p. 408, ¶169 (B05-C016-P0169)](../../build/reader/book-05.html#B05-C016-P0169)
+- [Book 5, ch. 16, “In the Hog’s Head”, ref p. 408, ¶170 (B05-C016-P0170)](../../build/reader/book-05.html#B05-C016-P0170)
+
+## B05-089: History classroom seating and window
+
+Binns floats an inch above his chair. The classroom has rows of seats and a narrow external window ledge, thick window glass and a sliding catch; Harry opens it to admit injured Hedwig.
+
+Evidence: explicit; state: Early October 1995, after first Hogsmeade meeting.
+
+Model: Operable classroom window; small ledge need not be a human route.
+
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 418–419, ¶62 (B05-C017-P0062)](../../build/reader/book-05.html#B05-C017-P0062)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 419, ¶64 (B05-C017-P0064)](../../build/reader/book-05.html#B05-C017-P0064)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 419, ¶66 (B05-C017-P0066)](../../build/reader/book-05.html#B05-C017-P0066)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 419–420, ¶67 (B05-C017-P0067)](../../build/reader/book-05.html#B05-C017-P0067)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 420, ¶72 (B05-C017-P0072)](../../build/reader/book-05.html#B05-C017-P0072)
+
+## B05-090: History classroom to staff room
+
+Harry leaves History of Magic, follows its corridor past a window overlooking the grounds near Hagrid’s cabin, then goes downstairs to the staff room.
+
+Evidence: explicit; state: Early October 1995, after first Hogsmeade meeting.
+
+Model: The classroom is above the staff-room approach, without an exact floor difference.
+
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 420–421, ¶76 (B05-C017-P0076)](../../build/reader/book-05.html#B05-C017-P0076)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 421, ¶77 (B05-C017-P0077)](../../build/reader/book-05.html#B05-C017-P0077)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 421, ¶78 (B05-C017-P0078)](../../build/reader/book-05.html#B05-C017-P0078)
+
+## B05-093: Courtyard to dungeon classroom
+
+After courtyard break the friends descend stone steps to the dungeons; at the bottom they reach the queue outside Snape’s classroom door.
+
+Evidence: explicit; state: Early October 1995, after first Hogsmeade meeting.
+
+Model: Retain bottom-of-stairs classroom relationship without importing an exact floor count.
+
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 423, ¶104 (B05-C017-P0104)](../../build/reader/book-05.html#B05-C017-P0104)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 424, ¶117 (B05-C017-P0117)](../../build/reader/book-05.html#B05-C017-P0117)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 424, ¶118 (B05-C017-P0118)](../../build/reader/book-05.html#B05-C017-P0118)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 426, ¶128 (B05-C017-P0128)](../../build/reader/book-05.html#B05-C017-P0128)
+
+## B05-094: Potions classroom rows and inspection corner
+
+Snape’s classroom has two lines of desks with circulation between them and a dim corner occupied by Umbridge. Potion mixtures remain from the preceding lesson over the weekend; instructions appear on the board.
+
+Evidence: explicit; state: Early October 1995, after first Hogsmeade meeting.
+
+Model: Not proof of exactly two desk rows in the whole room; describes the lines she walks between.
+
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 426–427, ¶135 (B05-C017-P0135)](../../build/reader/book-05.html#B05-C017-P0135)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 427, ¶137 (B05-C017-P0137)](../../build/reader/book-05.html#B05-C017-P0137)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 427, ¶138 (B05-C017-P0138)](../../build/reader/book-05.html#B05-C017-P0138)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 427, ¶139 (B05-C017-P0139)](../../build/reader/book-05.html#B05-C017-P0139)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 427, ¶141 (B05-C017-P0141)](../../build/reader/book-05.html#B05-C017-P0141)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 428, ¶159 (B05-C017-P0159)](../../build/reader/book-05.html#B05-C017-P0159)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 429, ¶160 (B05-C017-P0160)](../../build/reader/book-05.html#B05-C017-P0160)
+
+## B05-095: Divination teacher’s chair
+
+The Divination room is hot and heavily perfumed, with student pouffes and a high-backed teacher’s chair.
+
+Evidence: explicit; state: Early October 1995, after first Hogsmeade meeting.
+
+Model: Adds teacher-chair form to repeated classroom atmosphere.
+
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 429–430, ¶166 (B05-C017-P0166)](../../build/reader/book-05.html#B05-C017-P0166)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 430, ¶167 (B05-C017-P0167)](../../build/reader/book-05.html#B05-C017-P0167)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 430, ¶169 (B05-C017-P0169)](../../build/reader/book-05.html#B05-C017-P0169)
+
+## B05-100: Charms rain lesson
+
+Bullfrogs and ravens occupy classroom desks during Silencing practice; heavy rain pounds the windows.
+
+Evidence: explicit; state: October 1995, first DA meeting and preceding storm.
+
+Model: Temporary living practice materials and weather.
+
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 439, ¶4 (B05-C018-P0004)](../../build/reader/book-05.html#B05-C018-P0004)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 439–440, ¶5 (B05-C018-P0005)](../../build/reader/book-05.html#B05-C018-P0005)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 440, ¶7 (B05-C018-P0007)](../../build/reader/book-05.html#B05-C018-P0007)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 440, ¶9 (B05-C018-P0009)](../../build/reader/book-05.html#B05-C018-P0009)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 441, ¶15 (B05-C018-P0015)](../../build/reader/book-05.html#B05-C018-P0015)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 441, ¶20 (B05-C018-P0020)](../../build/reader/book-05.html#B05-C018-P0020)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 441, ¶23 (B05-C018-P0023)](../../build/reader/book-05.html#B05-C018-P0023)
+
+## B05-101: First-floor break classroom
+
+Rain keeps pupils indoors for break in an overcrowded first-floor classroom with seats, windows and a chandelier near which Peeves floats while firing ink pellets.
+
+Evidence: explicit; state: October 1995, first DA meeting and preceding storm.
+
+Model: An unnamed room, distinct from an assumed identity with Charms.
+
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 441–442, ¶25 (B05-C018-P0025)](../../build/reader/book-05.html#B05-C018-P0025)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 442, ¶28 (B05-C018-P0028)](../../build/reader/book-05.html#B05-C018-P0028)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 442, ¶29 (B05-C018-P0029)](../../build/reader/book-05.html#B05-C018-P0029)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 443, ¶44 (B05-C018-P0044)](../../build/reader/book-05.html#B05-C018-P0044)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 443, ¶48 (B05-C018-P0048)](../../build/reader/book-05.html#B05-C018-P0048)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 444, ¶54 (B05-C018-P0054)](../../build/reader/book-05.html#B05-C018-P0054)
+
+## B05-189: Divination accommodation after dismissal
+
+Dumbledore insists Trelawney may continue living at Hogwarts after losing her post; he says the new teacher will prefer ground-floor lodgings.
+
+Evidence: reported; state: February–early March 1996, Quibbler publication and Trelawney dismissal.
+
+Model: Ground-floor preference announced here; actual classroom and sleeping arrangements await later evidence.
+
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 708, ¶245 (B05-C026-P0245)](../../build/reader/book-05.html#B05-C026-P0245)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 710, ¶253 (B05-C026-P0253)](../../build/reader/book-05.html#B05-C026-P0253)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 710, ¶256 (B05-C026-P0256)](../../build/reader/book-05.html#B05-C026-P0256)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 711, ¶262 (B05-C026-P0262)](../../build/reader/book-05.html#B05-C026-P0262)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 711, ¶263 (B05-C026-P0263)](../../build/reader/book-05.html#B05-C026-P0263)
+
+## B05-188: Misty front doorway and Firenze arrival
+
+Dumbledore opens the oak front doors from the grounds and leaves them wide as mist enters. Firenze’s palomino horse body passes through the doors while spectators clear a path.
+
+Evidence: explicit; state: February–early March 1996, Quibbler publication and Trelawney dismissal.
+
+Model: Observed centaur clearance through the front entrance; no metric door width.
+
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 709, ¶251 (B05-C026-P0251)](../../build/reader/book-05.html#B05-C026-P0251)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 711, ¶266 (B05-C026-P0266)](../../build/reader/book-05.html#B05-C026-P0266)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 711–712, ¶267 (B05-C026-P0267)](../../build/reader/book-05.html#B05-C026-P0267)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 712, ¶268 (B05-C026-P0268)](../../build/reader/book-05.html#B05-C026-P0268)
+
+## B05-191: Classroom eleven approach
+
+From breakfast pupils enter the Entrance Hall, bypass the marble stairs and follow a ground-floor corridor on the side opposite the Great Hall to classroom eleven, a formerly irregularly used, neglected classroom.
+
+Evidence: explicit; state: March–early April 1996, new Divination class and DA discovery.
+
+Model: Direct side-of-hall relation explicit; no compass direction.
+
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 713, ¶14 (B05-C027-P0014)](../../build/reader/book-05.html#B05-C027-P0014)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 713, ¶15 (B05-C027-P0015)](../../build/reader/book-05.html#B05-C027-P0015)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 713, ¶17 (B05-C027-P0017)](../../build/reader/book-05.html#B05-C027-P0017)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 713, ¶18 (B05-C027-P0018)](../../build/reader/book-05.html#B05-C027-P0018)
+
+## B05-192: Classroom eleven forest transformation
+
+The classroom has become a forest clearing: springy moss and earth underfoot, trees growing from the floor with leafy branches over ceiling and windows, soft green dappled light, boulders, tree trunks and a stump for seating. A wastepaper basket remains by the stump.
+
+Evidence: explicit; state: March–early April 1996, new Divination class and DA discovery.
+
+Model: Firenze credits Dumbledore with imitating his habitat; this is an indoor enchanted room, not the actual Forest.
+
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 713, ¶18 (B05-C027-P0018)](../../build/reader/book-05.html#B05-C027-P0018)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 713–714, ¶20 (B05-C027-P0020)](../../build/reader/book-05.html#B05-C027-P0020)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 714, ¶24 (B05-C027-P0024)](../../build/reader/book-05.html#B05-C027-P0024)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 714, ¶25 (B05-C027-P0025)](../../build/reader/book-05.html#B05-C027-P0025)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 714, ¶26 (B05-C027-P0026)](../../build/reader/book-05.html#B05-C027-P0026)
+
+## B05-195: Firenze Forest exclusion
+
+Firenze says the Forest was his home until his herd banished him for working for Dumbledore; he cannot return and warns that even going too near could provoke a centaur battle.
+
+Evidence: reported; state: March–early April 1996, new Divination class and DA discovery.
+
+Model: Reported territorial/social exclusion, not an invisible magical wall. Harry recalls an earlier rescue ride.
+
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 714, ¶26 (B05-C027-P0026)](../../build/reader/book-05.html#B05-C027-P0026)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 715, ¶28 (B05-C027-P0028)](../../build/reader/book-05.html#B05-C027-P0028)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 715, ¶34 (B05-C027-P0034)](../../build/reader/book-05.html#B05-C027-P0034)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 715, ¶35 (B05-C027-P0035)](../../build/reader/book-05.html#B05-C027-P0035)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 715, ¶36 (B05-C027-P0036)](../../build/reader/book-05.html#B05-C027-P0036)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 715, ¶37 (B05-C027-P0037)](../../build/reader/book-05.html#B05-C027-P0037)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 718, ¶61 (B05-C027-P0061)](../../build/reader/book-05.html#B05-C027-P0061)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 719, ¶63 (B05-C027-P0063)](../../build/reader/book-05.html#B05-C027-P0063)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 719, ¶66 (B05-C027-P0066)](../../build/reader/book-05.html#B05-C027-P0066)
+
+## B05-193: Firenze classroom changing sky
+
+A hand gesture dims the classroom to twilight and produces stars overhead, including red Mars. Pupils lie on the floor, then burn sage and mallowsweet there, observing pungent fumes before extinguishing their fires.
+
+Evidence: explicit; state: March–early April 1996, new Divination class and DA discovery.
+
+Model: Lesson-specific light and fire state; ceiling display is not a physically open sky.
+
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 715–716, ¶38 (B05-C027-P0038)](../../build/reader/book-05.html#B05-C027-P0038)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 716, ¶39 (B05-C027-P0039)](../../build/reader/book-05.html#B05-C027-P0039)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 716, ¶40 (B05-C027-P0040)](../../build/reader/book-05.html#B05-C027-P0040)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 716, ¶41 (B05-C027-P0041)](../../build/reader/book-05.html#B05-C027-P0041)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 716, ¶45 (B05-C027-P0045)](../../build/reader/book-05.html#B05-C027-P0045)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 717, ¶49 (B05-C027-P0049)](../../build/reader/book-05.html#B05-C027-P0049)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 717, ¶50 (B05-C027-P0050)](../../build/reader/book-05.html#B05-C027-P0050)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 717, ¶51 (B05-C027-P0051)](../../build/reader/book-05.html#B05-C027-P0051)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 717–718, ¶52 (B05-C027-P0052)](../../build/reader/book-05.html#B05-C027-P0052)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 718, ¶53 (B05-C027-P0053)](../../build/reader/book-05.html#B05-C027-P0053)
+
+## B05-194: Classroom eleven bell and door
+
+A bell rings directly outside the classroom door; Firenze asks Ron to close that door for private conversation.
+
+Evidence: explicit; state: March–early April 1996, new Divination class and DA discovery.
+
+Model: Specific external bell position and closable door.
+
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 718, ¶54 (B05-C027-P0054)](../../build/reader/book-05.html#B05-C027-P0054)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 718, ¶55 (B05-C027-P0055)](../../build/reader/book-05.html#B05-C027-P0055)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 718, ¶56 (B05-C027-P0056)](../../build/reader/book-05.html#B05-C027-P0056)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 718, ¶57 (B05-C027-P0057)](../../build/reader/book-05.html#B05-C027-P0057)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 718, ¶58 (B05-C027-P0058)](../../build/reader/book-05.html#B05-C027-P0058)
+
+## B05-229: McGonagall office above new Divination
+
+Harry leaves Divination and hurries back upstairs for careers advice in McGonagall’s office. Her desk is covered in pamphlets; Umbridge sits in a corner behind Harry, and their argument remains audible along the corridor as he leaves.
+
+Evidence: explicit; state: Easter and start of summer term, April 1996.
+
+Model: Ground-floor Divination now in classroom eleven; no numerical office floor derived.
+
+- [Book 5, ch. 29, “Careers Advice”, ref p. 780–781, ¶64 (B05-C029-P0064)](../../build/reader/book-05.html#B05-C029-P0064)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 787, ¶110 (B05-C029-P0110)](../../build/reader/book-05.html#B05-C029-P0110)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 787, ¶111 (B05-C029-P0111)](../../build/reader/book-05.html#B05-C029-P0111)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 787, ¶112 (B05-C029-P0112)](../../build/reader/book-05.html#B05-C029-P0112)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 787–788, ¶113 (B05-C029-P0113)](../../build/reader/book-05.html#B05-C029-P0113)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 788, ¶114 (B05-C029-P0114)](../../build/reader/book-05.html#B05-C029-P0114)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 788, ¶115 (B05-C029-P0115)](../../build/reader/book-05.html#B05-C029-P0115)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 788, ¶121 (B05-C029-P0121)](../../build/reader/book-05.html#B05-C029-P0121)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 790, ¶135 (B05-C029-P0135)](../../build/reader/book-05.html#B05-C029-P0135)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 791, ¶143 (B05-C029-P0143)](../../build/reader/book-05.html#B05-C029-P0143)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 793, ¶161 (B05-C029-P0161)](../../build/reader/book-05.html#B05-C029-P0161)
+
+## B05-228: Potions flask breakage
+
+Harry places an Invigoration Draught sample at Snape’s desk; it is smashed on the floor after he turns away. Hermione has already emptied his remaining cauldron.
+
+Evidence: explicit; state: Easter and start of summer term, April 1996.
+
+Model: Observed broken sample, cause not directly witnessed; no structural damage.
+
+- [Book 5, ch. 29, “Careers Advice”, ref p. 786, ¶103 (B05-C029-P0103)](../../build/reader/book-05.html#B05-C029-P0103)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 786, ¶104 (B05-C029-P0104)](../../build/reader/book-05.html#B05-C029-P0104)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 786–787, ¶105 (B05-C029-P0105)](../../build/reader/book-05.html#B05-C029-P0105)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 787, ¶106 (B05-C029-P0106)](../../build/reader/book-05.html#B05-C029-P0106)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 787, ¶107 (B05-C029-P0107)](../../build/reader/book-05.html#B05-C029-P0107)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 787, ¶108 (B05-C029-P0108)](../../build/reader/book-05.html#B05-C029-P0108)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 787, ¶109 (B05-C029-P0109)](../../build/reader/book-05.html#B05-C029-P0109)
+
+## B05-230: Defence to office diversion route
+
+After Defence Harry hears uproar above; Umbridge runs in the opposite direction toward the east wing. In the deserted corridor to her office he hides behind a large suit of armour whose helmet turns to watch him.
+
+Evidence: explicit; state: Easter and start of summer term, April 1996.
+
+Model: Animated armour and usable hiding space; not an exact distance or floor count.
+
+- [Book 5, ch. 29, “Careers Advice”, ref p. 795, ¶175 (B05-C029-P0175)](../../build/reader/book-05.html#B05-C029-P0175)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 795, ¶176 (B05-C029-P0176)](../../build/reader/book-05.html#B05-C029-P0176)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 795, ¶177 (B05-C029-P0177)](../../build/reader/book-05.html#B05-C029-P0177)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 795, ¶178 (B05-C029-P0178)](../../build/reader/book-05.html#B05-C029-P0178)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 795, ¶179 (B05-C029-P0179)](../../build/reader/book-05.html#B05-C029-P0179)
+
+## B05-240: Charms view of front drive
+
+From the Charms classroom window Hermione watches Montague’s parents stride up the front drive and enter the castle.
+
+Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
+
+Model: Classroom-to-drive/front-entry sightline, no orientation or floor.
+
+- [Book 5, ch. 30, “Grawp”, ref p. 808, ¶9 (B05-C030-P0009)](../../build/reader/book-05.html#B05-C030-P0009)
+- [Book 5, ch. 30, “Grawp”, ref p. 808, ¶10 (B05-C030-P0010)](../../build/reader/book-05.html#B05-C030-P0010)
+
+## B05-241: Charms animated cups
+
+Pupils animate teacups on desks with legs, including willow-pattern legs; one cup breaks and is repaired, another walks over the desk edge and smashes on the floor.
+
+Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
+
+Model: Lesson props and local breakage, not persistent moving furniture.
+
+- [Book 5, ch. 30, “Grawp”, ref p. 808, ¶13 (B05-C030-P0013)](../../build/reader/book-05.html#B05-C030-P0013)
+- [Book 5, ch. 30, “Grawp”, ref p. 808, ¶14 (B05-C030-P0014)](../../build/reader/book-05.html#B05-C030-P0014)
+- [Book 5, ch. 30, “Grawp”, ref p. 809, ¶15 (B05-C030-P0015)](../../build/reader/book-05.html#B05-C030-P0015)
+- [Book 5, ch. 30, “Grawp”, ref p. 809, ¶16 (B05-C030-P0016)](../../build/reader/book-05.html#B05-C030-P0016)
+- [Book 5, ch. 30, “Grawp”, ref p. 809–810, ¶21 (B05-C030-P0021)](../../build/reader/book-05.html#B05-C030-P0021)
+- [Book 5, ch. 30, “Grawp”, ref p. 810, ¶22 (B05-C030-P0022)](../../build/reader/book-05.html#B05-C030-P0022)
+- [Book 5, ch. 30, “Grawp”, ref p. 810, ¶26 (B05-C030-P0026)](../../build/reader/book-05.html#B05-C030-P0026)
 
 ## B06-027: Common room–Defence classroom
 

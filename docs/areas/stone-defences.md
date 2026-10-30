@@ -285,6 +285,61 @@ Model: Reported actual return, but no explicit confirmation of the proposed broo
 - [Book 1, ch. 17, “The Man with Two Faces”, ref p. 307, ¶157 (B01-C017-P0157)](../../build/reader/book-01.html#B01-C017-P0157)
 - [Book 1, ch. 17, “The Man with Two Faces”, ref p. 307, ¶158 (B01-C017-P0158)](../../build/reader/book-01.html#B01-C017-P0158)
 
+## B03-059: Third-floor one-eyed witch and neighbouring classroom
+
+Halfway along the third-floor corridor stands a humpbacked one-eyed witch statue. An empty classroom lies to its left; it contains desks and a closable door used by the twins for presenting the map.
+
+Evidence: explicit; state: November–December 1993.
+
+Model: Left is approach-relative; statue and classroom floor explicit.
+
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 189–190, ¶61 (B03-C010-P0061)](../../build/reader/book-03.html#B03-C010-P0061)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 190, ¶63 (B03-C010-P0063)](../../build/reader/book-03.html#B03-C010-P0063)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 190, ¶65 (B03-C010-P0065)](../../build/reader/book-03.html#B03-C010-P0065)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 190, ¶66 (B03-C010-P0066)](../../build/reader/book-03.html#B03-C010-P0066)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 190, ¶67 (B03-C010-P0067)](../../build/reader/book-03.html#B03-C010-P0067)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 190, ¶68 (B03-C010-P0068)](../../build/reader/book-03.html#B03-C010-P0068)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 193, ¶106 (B03-C010-P0106)](../../build/reader/book-03.html#B03-C010-P0106)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 194, ¶112 (B03-C010-P0112)](../../build/reader/book-03.html#B03-C010-P0112)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 194, ¶113 (B03-C010-P0113)](../../build/reader/book-03.html#B03-C010-P0113)
+
+## B03-065: Honeydukes cellar — hidden trapdoor and shop stairs
+
+The trapdoor blends invisibly into the dusty cellar floor among wooden crates and boxes. A wooden staircase rises to a door behind the shop counter; Harry hides behind a large crate as an owner descends to stock stored by the opposite wall.
+
+Evidence: explicit; state: November–December 1993.
+
+Model: Observed tunnel endpoint and commercial circulation. No exact cellar dimensions or entrance-to-stairs spacing.
+
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 196, ¶121 (B03-C010-P0121)](../../build/reader/book-03.html#B03-C010-P0121)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 196, ¶122 (B03-C010-P0122)](../../build/reader/book-03.html#B03-C010-P0122)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 196, ¶123 (B03-C010-P0123)](../../build/reader/book-03.html#B03-C010-P0123)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 196, ¶124 (B03-C010-P0124)](../../build/reader/book-03.html#B03-C010-P0124)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 196, ¶125 (B03-C010-P0125)](../../build/reader/book-03.html#B03-C010-P0125)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 196–197, ¶126 (B03-C010-P0126)](../../build/reader/book-03.html#B03-C010-P0126)
+
+## B03-090: Third-floor witch — remaining unguarded passage
+
+The one-eyed statue remains unblocked and unguarded despite security work. Doorways stand to either side nearby; Snape inspects the statue but later returns to his office as shown on the map.
+
+Evidence: explicit; state: After the February 1994 dormitory intrusion.
+
+Model: Observed availability, not proof nobody else knows it. Both-side doorways add to the previously described left classroom.
+
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 271, ¶3 (B03-C014-P0003)](../../build/reader/book-03.html#B03-C014-P0003)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 271, ¶5 (B03-C014-P0005)](../../build/reader/book-03.html#B03-C014-P0005)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 271, ¶6 (B03-C014-P0006)](../../build/reader/book-03.html#B03-C014-P0006)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 276, ¶50 (B03-C014-P0050)](../../build/reader/book-03.html#B03-C014-P0050)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 277–278, ¶64 (B03-C014-P0064)](../../build/reader/book-03.html#B03-C014-P0064)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 278, ¶65 (B03-C014-P0065)](../../build/reader/book-03.html#B03-C014-P0065)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 278, ¶74 (B03-C014-P0074)](../../build/reader/book-03.html#B03-C014-P0074)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 278, ¶75 (B03-C014-P0075)](../../build/reader/book-03.html#B03-C014-P0075)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 278, ¶76 (B03-C014-P0076)](../../build/reader/book-03.html#B03-C014-P0076)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 278–279, ¶78 (B03-C014-P0078)](../../build/reader/book-03.html#B03-C014-P0078)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 279, ¶79 (B03-C014-P0079)](../../build/reader/book-03.html#B03-C014-P0079)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 279, ¶81 (B03-C014-P0081)](../../build/reader/book-03.html#B03-C014-P0081)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 279, ¶82 (B03-C014-P0082)](../../build/reader/book-03.html#B03-C014-P0082)
+
 ## B06-145: Front door–third-floor shortcut–Gryffindor
 
 The front door remains unlocked on Harry’s return after the burial. On the third floor he dodges Peeves through a sideways shortcut, then climbs higher to the Fat Lady’s portrait and the hard corridor floor outside it.

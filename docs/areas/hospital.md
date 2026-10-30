@@ -262,6 +262,78 @@ Model: Supports relative uphill terrain and branching indoor routes, without pro
 - [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶220 (B03-C006-P0220)](../../build/reader/book-03.html#B03-C006-P0220)
 - [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶221 (B03-C006-P0221)](../../build/reader/book-03.html#B03-C006-P0221)
 
+## B03-050: Hospital wing — bedpans report
+
+Ron reports a detention requiring him to scrub hospital-wing bedpans without magic.
+
+Evidence: reported; state: After Hallowe’en 1993.
+
+Model: Ward sanitary equipment, not a mapped toilet room.
+
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 172, ¶119 (B03-C009-P0119)](../../build/reader/book-03.html#B03-C009-P0119)
+
+## B03-053: Quidditch pitch — Dementor intrusion and hospital transfer
+
+At least a hundred Dementors gather below Harry on the pitch, bringing perceived silence and intense cold; he falls. His friends report Dumbledore slowing the fall, driving them out with silver magic and taking Harry uphill to school on a floating stretcher.
+
+Evidence: explicit; state: After Hallowe’en 1993.
+
+Model: Observed incursion plus reported rescue. Fred’s fifty-foot fall estimate is not a measured flight height; Wood’s presence in showers is also a friend’s report.
+
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 178, ¶161 (B03-C009-P0161)](../../build/reader/book-03.html#B03-C009-P0161)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 178, ¶162 (B03-C009-P0162)](../../build/reader/book-03.html#B03-C009-P0162)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 178, ¶163 (B03-C009-P0163)](../../build/reader/book-03.html#B03-C009-P0163)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 178, ¶164 (B03-C009-P0164)](../../build/reader/book-03.html#B03-C009-P0164)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 178, ¶168 (B03-C009-P0168)](../../build/reader/book-03.html#B03-C009-P0168)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 178, ¶169 (B03-C009-P0169)](../../build/reader/book-03.html#B03-C009-P0169)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 179, ¶173 (B03-C009-P0173)](../../build/reader/book-03.html#B03-C009-P0173)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 179, ¶179 (B03-C009-P0179)](../../build/reader/book-03.html#B03-C009-P0179)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 179, ¶183 (B03-C009-P0183)](../../build/reader/book-03.html#B03-C009-P0183)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 180, ¶191 (B03-C009-P0191)](../../build/reader/book-03.html#B03-C009-P0191)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 180, ¶201 (B03-C009-P0201)](../../build/reader/book-03.html#B03-C009-P0201)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 180–181, ¶203 (B03-C009-P0203)](../../build/reader/book-03.html#B03-C009-P0203)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 181, ¶204 (B03-C009-P0204)](../../build/reader/book-03.html#B03-C009-P0204)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 181, ¶205 (B03-C009-P0205)](../../build/reader/book-03.html#B03-C009-P0205)
+
+## B03-138: Hospital wing: beds, corridor door and matron’s office
+
+Harry wakes in the dark ward. Ron’s bed is at the far end, while Hermione occupies the bed to Harry’s right with moonlight falling across it. Harry has a bedside table. The ward door stands ajar onto a corridor, carrying voices inside; Pomfrey’s separate office and its door are at the end of the ward.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: Relative bed positions describe this occupancy, not fixed numbered beds. Moonlight implies a light path, but no window position is explicitly supplied.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 390–391, ¶19 (B03-C021-P0019)](../../build/reader/book-03.html#B03-C021-P0019)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 391, ¶20 (B03-C021-P0020)](../../build/reader/book-03.html#B03-C021-P0020)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 391, ¶21 (B03-C021-P0021)](../../build/reader/book-03.html#B03-C021-P0021)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 391, ¶22 (B03-C021-P0022)](../../build/reader/book-03.html#B03-C021-P0022)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 391–392, ¶29 (B03-C021-P0029)](../../build/reader/book-03.html#B03-C021-P0029)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 392–393, ¶42 (B03-C021-P0042)](../../build/reader/book-03.html#B03-C021-P0042)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 393, ¶55 (B03-C021-P0055)](../../build/reader/book-03.html#B03-C021-P0055)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 394, ¶57 (B03-C021-P0057)](../../build/reader/book-03.html#B03-C021-P0057)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 394, ¶63 (B03-C021-P0063)](../../build/reader/book-03.html#B03-C021-P0063)
+
+## B03-140: Hospital wing to Entrance Hall: time reversal
+
+Dumbledore leaves to lock the children into the ward at five minutes to midnight. Hermione turns the Time-Turner three times; the dark ward dissolves and they find themselves three hours earlier in the deserted Entrance Hall, with sunlight entering through the open front doors onto the paved floor.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: This scene changes both time and apparent position. It does not establish a physical passage or a general teleportation rule; Hermione explains that she has used the device for overlapping lessons.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 396, ¶82 (B03-C021-P0082)](../../build/reader/book-03.html#B03-C021-P0082)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 396, ¶84 (B03-C021-P0084)](../../build/reader/book-03.html#B03-C021-P0084)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 396, ¶85 (B03-C021-P0085)](../../build/reader/book-03.html#B03-C021-P0085)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 396, ¶86 (B03-C021-P0086)](../../build/reader/book-03.html#B03-C021-P0086)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 396, ¶88 (B03-C021-P0088)](../../build/reader/book-03.html#B03-C021-P0088)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 396, ¶90 (B03-C021-P0090)](../../build/reader/book-03.html#B03-C021-P0090)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 397, ¶93 (B03-C021-P0093)](../../build/reader/book-03.html#B03-C021-P0093)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 397, ¶94 (B03-C021-P0094)](../../build/reader/book-03.html#B03-C021-P0094)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 397, ¶95 (B03-C021-P0095)](../../build/reader/book-03.html#B03-C021-P0095)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 397, ¶96 (B03-C021-P0096)](../../build/reader/book-03.html#B03-C021-P0096)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 397, ¶100 (B03-C021-P0100)](../../build/reader/book-03.html#B03-C021-P0100)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 398, ¶112 (B03-C021-P0112)](../../build/reader/book-03.html#B03-C021-P0112)
+
 ## B04-050: Entrance Hall to hospital wing
 
 Dumbledore tells the bearded twins to go up to Madam Pomfrey, and they depart for the hospital wing.

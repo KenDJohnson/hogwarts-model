@@ -94,6 +94,135 @@ Model: Mile refers to an aerial separation estimate at that moment, not the heig
 - [Book 2, ch. 5, “The Whomping Willow”, ref p. 73, ¶81 (B02-C005-P0081)](../../build/reader/book-02.html#B02-C005-P0081)
 - [Book 2, ch. 5, “The Whomping Willow”, ref p. 73, ¶83 (B02-C005-P0083)](../../build/reader/book-02.html#B02-C005-P0083)
 
+## B03-107: Grounds and lake — sultry summer
+
+Cloudless hot days invite sitting on lawns; the giant squid propels itself over the lake’s surface. Summer air enters classroom windows.
+
+Evidence: explicit; state: June 1994 exams and Buckbeak appeal.
+
+Model: Observed seasonal use and squid surface activity, no underwater geometry.
+
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 315, ¶1 (B03-C016-P0001)](../../build/reader/book-03.html#B03-C016-P0001)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 315–316, ¶2 (B03-C016-P0002)](../../build/reader/book-03.html#B03-C016-P0002)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 316, ¶14 (B03-C016-P0014)](../../build/reader/book-03.html#B03-C016-P0014)
+
+## B03-110: Front steps — lake and cabin views
+
+From the top of the castle steps Fudge looks over the grounds/lake; a Committee member squints towards Hagrid’s cabin after emerging from the front doors.
+
+Evidence: explicit; state: June 1994 exams and Buckbeak appeal.
+
+Model: Explicit front-entrance sightlines, not measured distances.
+
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 320, ¶38 (B03-C016-P0038)](../../build/reader/book-03.html#B03-C016-P0038)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 320, ¶39 (B03-C016-P0039)](../../build/reader/book-03.html#B03-C016-P0039)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 320, ¶42 (B03-C016-P0042)](../../build/reader/book-03.html#B03-C016-P0042)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 321, ¶48 (B03-C016-P0048)](../../build/reader/book-03.html#B03-C016-P0048)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 321, ¶49 (B03-C016-P0049)](../../build/reader/book-03.html#B03-C016-P0049)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 321, ¶50 (B03-C016-P0050)](../../build/reader/book-03.html#B03-C016-P0050)
+
+## B03-135: Grounds to lake shore: Dementor attack
+
+Harry and Hermione run toward Sirius’s cries near the lake and find him at the shore. At least a hundred Dementors glide around the lake and appear on every side, surrounding the group on grass; the nearest approach within roughly ten feet. Cold and apparent fog accompany the attack.
+
+Evidence: explicit; state: End of third year; moonlit night after the Shack confrontation.
+
+Model: Fog is described through Harry’s failing vision and should not be assumed to be ordinary lake weather. The Dementors’ presence is a dated security failure, not permanent lakeside occupation.
+
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 385, ¶44 (B03-C020-P0044)](../../build/reader/book-03.html#B03-C020-P0044)
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 385, ¶47 (B03-C020-P0047)](../../build/reader/book-03.html#B03-C020-P0047)
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 385, ¶48 (B03-C020-P0048)](../../build/reader/book-03.html#B03-C020-P0048)
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 385–386, ¶50 (B03-C020-P0050)](../../build/reader/book-03.html#B03-C020-P0050)
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 386, ¶58 (B03-C020-P0058)](../../build/reader/book-03.html#B03-C020-P0058)
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 386, ¶60 (B03-C020-P0060)](../../build/reader/book-03.html#B03-C020-P0060)
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 386–387, ¶62 (B03-C020-P0062)](../../build/reader/book-03.html#B03-C020-P0062)
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 387, ¶64 (B03-C020-P0064)](../../build/reader/book-03.html#B03-C020-P0064)
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 387, ¶68 (B03-C020-P0068)](../../build/reader/book-03.html#B03-C020-P0068)
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 387, ¶69 (B03-C020-P0069)](../../build/reader/book-03.html#B03-C020-P0069)
+
+## B03-136: Lake: Patronus crossing and opposite shore
+
+A brilliant silvery animal circles the stranded group, drives away the Dementors and restores warmth. Harry sees it gallop across the lake and halt on the opposite shore, where a person receives it.
+
+Evidence: explicit; state: End of third year; moonlit night after the Shack confrontation.
+
+Model: Harry’s view is blurred and his identification incomplete at this stage. This establishes an opposite shore visible by magical light, not a bridge, shallows, solid lake surface or measurable lake width.
+
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 388, ¶71 (B03-C020-P0071)](../../build/reader/book-03.html#B03-C020-P0071)
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 388, ¶72 (B03-C020-P0072)](../../build/reader/book-03.html#B03-C020-P0072)
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 388, ¶73 (B03-C020-P0073)](../../build/reader/book-03.html#B03-C020-P0073)
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 388, ¶74 (B03-C020-P0074)](../../build/reader/book-03.html#B03-C020-P0074)
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 388, ¶75 (B03-C020-P0075)](../../build/reader/book-03.html#B03-C020-P0075)
+
+## B03-150: Hagrid’s cabin to opposite lake bank: bush lookout
+
+From outside the cabin Harry sees Dementors moving around the lake edges away from him toward the opposite bank. He runs to the water and hides behind a bush growing at its very edge, looking through its leaves at silver Patronus glimmers and the surrounding Dementors across the lake.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: Links the cabin-side approach with the shore opposite the original attack. The distant figures are small and partially illuminated; no exact shore distance or compass bearing is supplied.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 412–413, ¶286 (B03-C021-P0286)](../../build/reader/book-03.html#B03-C021-P0286)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 413, ¶287 (B03-C021-P0287)](../../build/reader/book-03.html#B03-C021-P0287)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 413, ¶288 (B03-C021-P0288)](../../build/reader/book-03.html#B03-C021-P0288)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 413, ¶289 (B03-C021-P0289)](../../build/reader/book-03.html#B03-C021-P0289)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 413, ¶290 (B03-C021-P0290)](../../build/reader/book-03.html#B03-C021-P0290)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 413, ¶291 (B03-C021-P0291)](../../build/reader/book-03.html#B03-C021-P0291)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 413–414, ¶292 (B03-C021-P0292)](../../build/reader/book-03.html#B03-C021-P0292)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 414, ¶293 (B03-C021-P0293)](../../build/reader/book-03.html#B03-C021-P0293)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 414, ¶294 (B03-C021-P0294)](../../build/reader/book-03.html#B03-C021-P0294)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 414, ¶296 (B03-C021-P0296)](../../build/reader/book-03.html#B03-C021-P0296)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 415, ¶303 (B03-C021-P0303)](../../build/reader/book-03.html#B03-C021-P0303)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 415, ¶305 (B03-C021-P0305)](../../build/reader/book-03.html#B03-C021-P0305)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 415, ¶311 (B03-C021-P0311)](../../build/reader/book-03.html#B03-C021-P0311)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 415, ¶312 (B03-C021-P0312)](../../build/reader/book-03.html#B03-C021-P0312)
+
+## B03-151: Lake: night surface, soft bank and Patronus passage
+
+The lake surface is black and still and reflects moving clouds. The returning silver stag Patronus crosses the water and stops on soft shore ground without hoofprints, before vanishing. The nearby bush rustles in the breeze.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: The stag’s weightless magical crossing does not imply that people or animals can stand on the water, or that there is a hidden causeway. Conditions belong to this night.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 414, ¶298 (B03-C021-P0298)](../../build/reader/book-03.html#B03-C021-P0298)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 414, ¶299 (B03-C021-P0299)](../../build/reader/book-03.html#B03-C021-P0299)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 414–415, ¶300 (B03-C021-P0300)](../../build/reader/book-03.html#B03-C021-P0300)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 415, ¶302 (B03-C021-P0302)](../../build/reader/book-03.html#B03-C021-P0302)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 416, ¶314 (B03-C021-P0314)](../../build/reader/book-03.html#B03-C021-P0314)
+
+## B03-152: Lake bank to castle: rescue stretchers and facade view
+
+From behind the waterside bush the pair watch Snape place Harry, Hermione and Sirius on conjured stretchers, with a fourth already floating beside him, and move them toward the castle. Harry can look up at the castle and count windows to the right of the West Tower.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: The fourth stretcher’s occupant is inferred to be Ron in the narration. The view establishes a visible facade sector from this shore, not a complete plan.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 415, ¶311 (B03-C021-P0311)](../../build/reader/book-03.html#B03-C021-P0311)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 415, ¶312 (B03-C021-P0312)](../../build/reader/book-03.html#B03-C021-P0312)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 415–416, ¶313 (B03-C021-P0313)](../../build/reader/book-03.html#B03-C021-P0313)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 416, ¶315 (B03-C021-P0315)](../../build/reader/book-03.html#B03-C021-P0315)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 416, ¶316 (B03-C021-P0316)](../../build/reader/book-03.html#B03-C021-P0316)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 416, ¶317 (B03-C021-P0317)](../../build/reader/book-03.html#B03-C021-P0317)
+
+## B03-153: Lake-side takeoff to Flitwick’s office window
+
+Using a lower branch of the waterside bush as a step, Harry mounts Buckbeak in front of Hermione. They rise from the shore, glide toward the upper castle floors and turn while counting windows, then hover by Sirius’s window, bobbing several feet with the wingbeats.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: The left rein turn is relative to their approach, not a cardinal orientation. Allow clear airspace in front of the window; no landing ledge is mentioned.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 416, ¶319 (B03-C021-P0319)](../../build/reader/book-03.html#B03-C021-P0319)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 416, ¶320 (B03-C021-P0320)](../../build/reader/book-03.html#B03-C021-P0320)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 416, ¶321 (B03-C021-P0321)](../../build/reader/book-03.html#B03-C021-P0321)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 416–417, ¶322 (B03-C021-P0322)](../../build/reader/book-03.html#B03-C021-P0322)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 417, ¶323 (B03-C021-P0323)](../../build/reader/book-03.html#B03-C021-P0323)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 417, ¶324 (B03-C021-P0324)](../../build/reader/book-03.html#B03-C021-P0324)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 417, ¶325 (B03-C021-P0325)](../../build/reader/book-03.html#B03-C021-P0325)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 417, ¶326 (B03-C021-P0326)](../../build/reader/book-03.html#B03-C021-P0326)
+
 ## B04-013: Lake first-year crossing
 
 Dennis reports falling into the lake and being pushed back into the boat by something underwater. Colin suggests the giant squid; the narration describes the lake as fathoms deep.
@@ -451,6 +580,66 @@ Model: Reported cabin existence and ship operation; the departing voyage is not 
 - [Book 4, ch. 37, “The Beginning”, ref p. 767–768, ¶72 (B04-C037-P0072)](../../build/reader/book-04.html#B04-C037-P0072)
 - [Book 4, ch. 37, “The Beginning”, ref p. 768, ¶73 (B04-C037-P0073)](../../build/reader/book-04.html#B04-C037-P0073)
 
+## B05-007: Hogsmeade station and lake path
+
+Pine trees line the path down to the lake, their smell reaching the arrival platform. First-years assemble separately under a teacher carrying a lantern.
+
+Evidence: explicit; state: 1 September 1995 return to school.
+
+Model: The downward path and pine lining are explicit; no first-year boat journey is narrated here.
+
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 229–230, ¶177 (B05-C010-P0177)](../../build/reader/book-05.html#B05-C010-P0177)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 230, ¶178 (B05-C010-P0178)](../../build/reader/book-05.html#B05-C010-P0178)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 230, ¶179 (B05-C010-P0179)](../../build/reader/book-05.html#B05-C010-P0179)
+
+## B05-086: Lakeside beech
+
+The friends study in the shade of a large beech on the lake edge during the last autumn sunshine.
+
+Evidence: explicit; state: Early October 1995, after first Hogsmeade meeting.
+
+Model: A specific lakeshore tree and usable shaded ground; no precise compass position.
+
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 412–413, ¶1 (B05-C017-P0001)](../../build/reader/book-05.html#B05-C017-P0001)
+
+## B05-220: Historical Hall-to-lakeshore route
+
+The exam crowd leaves through doors into the Entrance Hall and front doors to sunlit grounds, then walks down the lawn toward the lake.
+
+Evidence: explicit; state: Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified.
+
+Model: Travel shown in Snape’s memory; no invented date beyond his O.W.L. year.
+
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 765, ¶197 (B05-C028-P0197)](../../build/reader/book-05.html#B05-C028-P0197)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 765, ¶198 (B05-C028-P0198)](../../build/reader/book-05.html#B05-C028-P0198)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 765–766, ¶199 (B05-C028-P0199)](../../build/reader/book-05.html#B05-C028-P0199)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 766, ¶202 (B05-C028-P0202)](../../build/reader/book-05.html#B05-C028-P0202)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 766, ¶207 (B05-C028-P0207)](../../build/reader/book-05.html#B05-C028-P0207)
+
+## B05-221: Historical lakeshore beech and bushes
+
+James’s group sits on grass beneath the same lakeside beech used by Harry’s group in autumn. Nearby dense bushes shade Snape; girls sit on the bank with bare feet in the smooth sunlit water. Open grass between them accommodates the confrontation.
+
+Evidence: explicit; state: Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified.
+
+Model: Explicit cross-time identity of beech. Short wand-flight distances are action positions, not a fixed site plan.
+
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 767, ¶211 (B05-C028-P0211)](../../build/reader/book-05.html#B05-C028-P0211)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 767, ¶212 (B05-C028-P0212)](../../build/reader/book-05.html#B05-C028-P0212)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 767–768, ¶213 (B05-C028-P0213)](../../build/reader/book-05.html#B05-C028-P0213)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 769, ¶224 (B05-C028-P0224)](../../build/reader/book-05.html#B05-C028-P0224)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 769, ¶227 (B05-C028-P0227)](../../build/reader/book-05.html#B05-C028-P0227)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 769, ¶228 (B05-C028-P0228)](../../build/reader/book-05.html#B05-C028-P0228)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 769, ¶229 (B05-C028-P0229)](../../build/reader/book-05.html#B05-C028-P0229)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 769, ¶230 (B05-C028-P0230)](../../build/reader/book-05.html#B05-C028-P0230)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 769–770, ¶231 (B05-C028-P0231)](../../build/reader/book-05.html#B05-C028-P0231)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 770, ¶237 (B05-C028-P0237)](../../build/reader/book-05.html#B05-C028-P0237)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 770, ¶242 (B05-C028-P0242)](../../build/reader/book-05.html#B05-C028-P0242)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 771, ¶253 (B05-C028-P0253)](../../build/reader/book-05.html#B05-C028-P0253)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 771–772, ¶256 (B05-C028-P0256)](../../build/reader/book-05.html#B05-C028-P0256)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 772, ¶269 (B05-C028-P0269)](../../build/reader/book-05.html#B05-C028-P0269)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 773, ¶275 (B05-C028-P0275)](../../build/reader/book-05.html#B05-C028-P0275)
+
 ## B06-212: Funeral travel and accommodation state
 
 Visitors fill Hogsmeade lodging, Ministry officials are accommodated in the castle, and the Hogwarts Express is scheduled to leave one hour after the funeral. Lessons are suspended and examinations postponed.
@@ -547,4 +736,51 @@ Model: Critical relative placement across water after a shore walk. Avoid assign
 - [Book 6, ch. 30, “The White Tomb”, ref p. 685, ¶112 (B06-C030-P0112)](../../build/reader/book-06.html#B06-C030-P0112)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 686–687, ¶121 (B06-C030-P0121)](../../build/reader/book-06.html#B06-C030-P0121)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 687, ¶122 (B06-C030-P0122)](../../build/reader/book-06.html#B06-C030-P0122)
+
+## B07-025: Dumbledore’s tomb
+
+Harry identifies his parents’ white-marble headstone as the same material as Dumbledore’s tomb.
+
+Evidence: explicit; state: Christmas Eve 1997 recollection.
+
+Model: Corroborates the Hogwarts tomb’s white marble only; graveyard row positions and visibility belong to Godric’s Hollow, not the school tomb.
+
+- [Book 7, ch. 16, “Godric’s Hollow”, ref p. 346, ¶124 (B07-C016-P0124)](../../build/reader/book-07.html#B07-C016-P0124)
+
+## B07-030: Lakeside funeral site / Dumbledore’s tomb
+
+Harry remembers rows and rows of golden chairs at Dumbledore’s funeral, the Minister for Magic in the front row, and a stately white marble tomb.
+
+Evidence: explicit; state: March 1998 recollection of June 1997 funeral.
+
+Model: Adds chair colour and seating arrangement. The rough earth grave and bushes described in the present scene belong to Dobby’s remote Shell Cottage burial.
+
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 507, ¶22 (B07-C024-P0022)](../../build/reader/book-07.html#B07-C024-P0022)
+
+## B07-032: Hogwarts gates → grounds → lakeshore → castle path
+
+Harry sees Voldemort at the school gates as a lamp approaches through the pre-dawn. He then experiences travel alongside Snape up through the grounds towards the lake. Snape returns up the path towards the castle; Voldemort continues around the lake edge, with the castle in view and no lights in its windows.
+
+Evidence: explicit; state: March 1998 pre-dawn.
+
+Model: Narrated through Harry’s connection to Voldemort. Preserve the sequence and uphill wording without assuming the exact junction of the lake path and entrance drive.
+
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 528–529, ¶238 (B07-C024-P0238)](../../build/reader/book-07.html#B07-C024-P0238)
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 529, ¶248 (B07-C024-P0248)](../../build/reader/book-07.html#B07-C024-P0248)
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 529–530, ¶249 (B07-C024-P0249)](../../build/reader/book-07.html#B07-C024-P0249)
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 530, ¶250 (B07-C024-P0250)](../../build/reader/book-07.html#B07-C024-P0250)
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 530, ¶251 (B07-C024-P0251)](../../build/reader/book-07.html#B07-C024-P0251)
+
+## B07-033: Dumbledore’s lakeside tomb
+
+The white marble tomb stands beside the lake and is reflected in its dark water. Voldemort splits it open lengthwise from head to foot, revealing a shrouded, long thin body; the wrappings open and the wand is removed from beneath the folded hands on its chest.
+
+Evidence: explicit; state: March 1998 tomb desecration.
+
+Model: Dated open/broken state, not the intact funeral model. No lid thickness, cavity dimensions or repair yet established.
+
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 530, ¶252 (B07-C024-P0252)](../../build/reader/book-07.html#B07-C024-P0252)
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 530, ¶253 (B07-C024-P0253)](../../build/reader/book-07.html#B07-C024-P0253)
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 530, ¶254 (B07-C024-P0254)](../../build/reader/book-07.html#B07-C024-P0254)
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 530–531, ¶255 (B07-C024-P0255)](../../build/reader/book-07.html#B07-C024-P0255)
 

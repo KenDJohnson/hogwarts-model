@@ -464,6 +464,45 @@ Model: Both upper and lower textile screens are described. Do not assign every i
 - [Book 4, ch. 25, “The Egg and the Eye”, ref p. 496, ¶103 (B04-C025-P0103)](../../build/reader/book-04.html#B04-C025-P0103)
 - [Book 4, ch. 25, “The Egg and the Eye”, ref p. 499, ¶135 (B04-C025-P0135)](../../build/reader/book-04.html#B04-C025-P0135)
 
+## B05-181: Girls’ toilet cubicles
+
+Hermione reports other girls discussing Harry’s interview from occupied toilet cubicles.
+
+Evidence: reported; state: February–early March 1996, Quibbler publication and Trelawney dismissal.
+
+Model: Reported cubicle-based girls’ lavatory, unnamed and unlocated.
+
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 691–692, ¶117 (B05-C026-P0117)](../../build/reader/book-05.html#B05-C026-P0117)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 692, ¶118 (B05-C026-P0118)](../../build/reader/book-05.html#B05-C026-P0118)
+
+## B05-199: Seventh-floor bathroom and dragon-vase niche
+
+Harry turns right from the Room of Requirement toward a boys’ bathroom ahead. A Trip Jinx makes him skid six feet; Malfoy hides behind him in a niche beneath an ugly dragon-shaped vase, and Umbridge approaches round the far corner.
+
+Evidence: explicit; state: March–early April 1996, new Divination class and DA discovery.
+
+Model: Do not assume this vase is the same man-sized vase used for the entrance ritual.
+
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶109 (B05-C027-P0109)](../../build/reader/book-05.html#B05-C027-P0109)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶110 (B05-C027-P0110)](../../build/reader/book-05.html#B05-C027-P0110)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶111 (B05-C027-P0111)](../../build/reader/book-05.html#B05-C027-P0111)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶112 (B05-C027-P0112)](../../build/reader/book-05.html#B05-C027-P0112)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶113 (B05-C027-P0113)](../../build/reader/book-05.html#B05-C027-P0113)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724–725, ¶114 (B05-C027-P0114)](../../build/reader/book-05.html#B05-C027-P0114)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 725, ¶115 (B05-C027-P0115)](../../build/reader/book-05.html#B05-C027-P0115)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 725, ¶116 (B05-C027-P0116)](../../build/reader/book-05.html#B05-C027-P0116)
+
+## B05-239: Second-floor bathroom flood and chandelier
+
+Peeves pulls all taps from the second-floor bathrooms and floods that floor. A week after the twins leave Harry sees him loosening a crystal chandelier.
+
+Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
+
+Model: Bathroom floor explicit; chandelier floor unspecified, and complete fall not narrated.
+
+- [Book 5, ch. 30, “Grawp”, ref p. 807–808, ¶7 (B05-C030-P0007)](../../build/reader/book-05.html#B05-C030-P0007)
+- [Book 5, ch. 30, “Grawp”, ref p. 808, ¶8 (B05-C030-P0008)](../../build/reader/book-05.html#B05-C030-P0008)
+
 ## B06-007: Prefects’ bathroom
 
 Hermione says appointment as Quidditch captain gives Harry prefect-equivalent status, including use of the special prefects’ bathroom.

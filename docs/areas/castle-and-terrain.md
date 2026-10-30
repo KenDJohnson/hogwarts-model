@@ -364,6 +364,239 @@ Model: Supports relative uphill terrain and branching indoor routes, without pro
 - [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶220 (B03-C006-P0220)](../../build/reader/book-03.html#B03-C006-P0220)
 - [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶221 (B03-C006-P0221)](../../build/reader/book-03.html#B03-C006-P0221)
 
+## B03-044: Castle protection — Apparition and stealth
+
+Hermione cites school history for anti-stealth enchantments and states that people cannot Apparate into the castle. She argues Dementors would detect disguises or flight and assumes Filch’s known secret passages are covered.
+
+Evidence: reported; state: After Hallowe’en 1993.
+
+Model: Reported constraints; Filch’s comprehensive knowledge/coverage is her assumption, not independently established.
+
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 162, ¶14 (B03-C009-P0014)](../../build/reader/book-03.html#B03-C009-P0014)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 162, ¶15 (B03-C009-P0015)](../../build/reader/book-03.html#B03-C009-P0015)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 162, ¶16 (B03-C009-P0016)](../../build/reader/book-03.html#B03-C009-P0016)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 162, ¶17 (B03-C009-P0017)](../../build/reader/book-03.html#B03-C009-P0017)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 162, ¶18 (B03-C009-P0018)](../../build/reader/book-03.html#B03-C009-P0018)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 162, ¶19 (B03-C009-P0019)](../../build/reader/book-03.html#B03-C009-P0019)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 162, ¶20 (B03-C009-P0020)](../../build/reader/book-03.html#B03-C009-P0020)
+
+## B03-046: Dementors — castle threshold exclusion
+
+Dumbledore refuses the Dementors permission to cross the castle threshold during the search, despite their wish to help. Snape reports the third floor, dungeons, Astronomy Tower, Trelawney’s room and Owlery searched without finding Black.
+
+Evidence: reported; state: Night of 31 October 1993.
+
+Model: Headmaster-imposed boundary rule, not physical inability to enter; search coverage is reported.
+
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 163, ¶30 (B03-C009-P0030)](../../build/reader/book-03.html#B03-C009-P0030)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 163, ¶31 (B03-C009-P0031)](../../build/reader/book-03.html#B03-C009-P0031)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 163, ¶32 (B03-C009-P0032)](../../build/reader/book-03.html#B03-C009-P0032)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 163, ¶33 (B03-C009-P0033)](../../build/reader/book-03.html#B03-C009-P0033)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 163, ¶34 (B03-C009-P0034)](../../build/reader/book-03.html#B03-C009-P0034)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 164, ¶42 (B03-C009-P0042)](../../build/reader/book-03.html#B03-C009-P0042)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 164, ¶43 (B03-C009-P0043)](../../build/reader/book-03.html#B03-C009-P0043)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 164, ¶44 (B03-C009-P0044)](../../build/reader/book-03.html#B03-C009-P0044)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 164–165, ¶45 (B03-C009-P0045)](../../build/reader/book-03.html#B03-C009-P0045)
+
+## B03-049: Castle — storm lighting and audible Forest
+
+Extra torches and lanterns illuminate dark classrooms/corridors during heavy wind and rain. From his dormitory Harry hears thunder, wind pounding the walls and distant creaking Forest trees; the storm sounds even louder in the common room.
+
+Evidence: explicit; state: After Hallowe’en 1993.
+
+Model: Seasonal acoustic and light state, without measured window-to-Forest distance.
+
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 167, ¶65 (B03-C009-P0065)](../../build/reader/book-03.html#B03-C009-P0065)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 168, ¶76 (B03-C009-P0076)](../../build/reader/book-03.html#B03-C009-P0076)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 168, ¶77 (B03-C009-P0077)](../../build/reader/book-03.html#B03-C009-P0077)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 172, ¶121 (B03-C009-P0121)](../../build/reader/book-03.html#B03-C009-P0121)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 173, ¶124 (B03-C009-P0124)](../../build/reader/book-03.html#B03-C009-P0124)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 173–174, ¶127 (B03-C009-P0127)](../../build/reader/book-03.html#B03-C009-P0127)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 174, ¶128 (B03-C009-P0128)](../../build/reader/book-03.html#B03-C009-P0128)
+
+## B03-058: Castle grounds and Charms classroom — early winter
+
+Rain persists into December before glittering frost covers the muddy grounds and later snow falls. Flitwick decorates his classroom with shimmering lights that are living fluttering fairies.
+
+Evidence: explicit; state: December 1993.
+
+Model: Seasonal weather and temporary classroom inhabitants.
+
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 188–189, ¶56 (B03-C010-P0056)](../../build/reader/book-03.html#B03-C010-P0056)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 189, ¶57 (B03-C010-P0057)](../../build/reader/book-03.html#B03-C010-P0057)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 189–190, ¶61 (B03-C010-P0061)](../../build/reader/book-03.html#B03-C010-P0061)
+
+## B03-071: Castle to Hagrid’s cabin — snow state
+
+The trio leave by the oak doors and descend the lawn, cutting a shallow trench in powdery snow. Forest trees are silvered with snow and the cabin resembles an iced cake.
+
+Evidence: explicit; state: December 1993 holidays.
+
+Model: Winter route surface and appearance; no actual icing or added cabin roof shape.
+
+- [Book 3, ch. 11, “The Firebolt”, ref p. 216, ¶48 (B03-C011-P0048)](../../build/reader/book-03.html#B03-C011-P0048)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 216, ¶49 (B03-C011-P0049)](../../build/reader/book-03.html#B03-C011-P0049)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 216, ¶50 (B03-C011-P0050)](../../build/reader/book-03.html#B03-C011-P0050)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 216–217, ¶52 (B03-C011-P0052)](../../build/reader/book-03.html#B03-C011-P0052)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 217, ¶54 (B03-C011-P0054)](../../build/reader/book-03.html#B03-C011-P0054)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 217, ¶57 (B03-C011-P0057)](../../build/reader/book-03.html#B03-C011-P0057)
+
+## B03-073: Castle and Great Hall — Christmas 1993 decorations
+
+Thick holly and mistletoe streamers run along corridors, lights glow inside every suit of armour, and twelve Great Hall Christmas trees glitter with gold stars. Strong cooking smells spread through the corridors.
+
+Evidence: explicit; state: December 1993 holidays.
+
+Model: Distinct seasonal decorative state. Source of armour lights unspecified.
+
+- [Book 3, ch. 11, “The Firebolt”, ref p. 222, ¶107 (B03-C011-P0107)](../../build/reader/book-03.html#B03-C011-P0107)
+
+## B03-083: Pitch-to-castle route — budding tree
+
+Halfway from the stadium to the castle, a tree stands to Harry’s left with budding leaves and Crookshanks in its branches. Stones lie on the grass beneath; the route ends at the lit Entrance Hall.
+
+Evidence: explicit; state: February 1994.
+
+Model: Side relative to inward travel; tree is not identified as the Willow or given a species.
+
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 257, ¶31 (B03-C013-P0031)](../../build/reader/book-03.html#B03-C013-P0031)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 257, ¶32 (B03-C013-P0032)](../../build/reader/book-03.html#B03-C013-P0032)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 257, ¶35 (B03-C013-P0035)](../../build/reader/book-03.html#B03-C013-P0035)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 257–258, ¶36 (B03-C013-P0036)](../../build/reader/book-03.html#B03-C013-P0036)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 258, ¶37 (B03-C013-P0037)](../../build/reader/book-03.html#B03-C013-P0037)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 258, ¶39 (B03-C013-P0039)](../../build/reader/book-03.html#B03-C013-P0039)
+
+## B03-088: Castle security — taught doors and sealed cracks
+
+After another all-night search Flitwick teaches the front doors to recognise Black’s large photograph. Filch boards tiny wall cracks and mouseholes.
+
+Evidence: explicit; state: After the February 1994 dormitory intrusion.
+
+Model: Observed proposed recognition training and physical blocking; no demonstrated door response to Black or complete rat-proofing proved.
+
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 270, ¶1 (B03-C014-P0001)](../../build/reader/book-03.html#B03-C014-P0001)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 270–271, ¶2 (B03-C014-P0002)](../../build/reader/book-03.html#B03-C014-P0002)
+
+## B03-091: Castle front doors to Hagrid’s cabin — escorted visit
+
+Hagrid requires the boys to wait in the Entrance Hall, collects them at six, opens the front doors and escorts them to his hut, later returning them uphill at nine.
+
+Evidence: explicit; state: After the February 1994 dormitory intrusion.
+
+Model: Dated escort rule and evening access; no general permission to leave unaccompanied.
+
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 273, ¶19 (B03-C014-P0019)](../../build/reader/book-03.html#B03-C014-P0019)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 273–274, ¶20 (B03-C014-P0020)](../../build/reader/book-03.html#B03-C014-P0020)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 274, ¶24 (B03-C014-P0024)](../../build/reader/book-03.html#B03-C014-P0024)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 274, ¶25 (B03-C014-P0025)](../../build/reader/book-03.html#B03-C014-P0025)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 274, ¶27 (B03-C014-P0027)](../../build/reader/book-03.html#B03-C014-P0027)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 274, ¶29 (B03-C014-P0029)](../../build/reader/book-03.html#B03-C014-P0029)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 276, ¶47 (B03-C014-P0047)](../../build/reader/book-03.html#B03-C014-P0047)
+
+## B03-105: Quidditch pitch — spring surface and castle sightline
+
+At the final the ground is fairly hard, wind slight and sun bright enough to risk vision. From the pitch the team can see distant castle front doors opening and pupils emerging onto the lawn.
+
+Evidence: explicit; state: Easter 1994 and Quidditch final.
+
+Model: Clear pitch-to-front-entrance line of sight and seasonal turf state; no numerical distance.
+
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 306, ¶130 (B03-C015-P0130)](../../build/reader/book-03.html#B03-C015-P0130)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 306, ¶132 (B03-C015-P0132)](../../build/reader/book-03.html#B03-C015-P0132)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 306, ¶133 (B03-C015-P0133)](../../build/reader/book-03.html#B03-C015-P0133)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 306, ¶134 (B03-C015-P0134)](../../build/reader/book-03.html#B03-C015-P0134)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 306–307, ¶135 (B03-C015-P0135)](../../build/reader/book-03.html#B03-C015-P0135)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 307, ¶136 (B03-C015-P0136)](../../build/reader/book-03.html#B03-C015-P0136)
+
+## B03-116: Cabin to castle — evening departure and axe sound
+
+The trio circle the cabin from the back and climb the sloping lawn. The sky is purple-grey with red glow to the west; they hear voices and a swishing axe-thud from the garden behind them.
+
+Evidence: explicit; state: 6 June 1994 sunset, first viewpoint.
+
+Model: Axe sound is observed, Buckbeak’s death only inferred by the children and must not be recorded as fact.
+
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 332, ¶168 (B03-C016-P0168)](../../build/reader/book-03.html#B03-C016-P0168)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 332, ¶169 (B03-C016-P0169)](../../build/reader/book-03.html#B03-C016-P0169)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 332, ¶170 (B03-C016-P0170)](../../build/reader/book-03.html#B03-C016-P0170)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 332, ¶171 (B03-C016-P0171)](../../build/reader/book-03.html#B03-C016-P0171)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 332, ¶173 (B03-C016-P0173)](../../build/reader/book-03.html#B03-C016-P0173)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 332, ¶174 (B03-C016-P0174)](../../build/reader/book-03.html#B03-C016-P0174)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 332, ¶176 (B03-C016-P0176)](../../build/reader/book-03.html#B03-C016-P0176)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 332, ¶177 (B03-C016-P0177)](../../build/reader/book-03.html#B03-C016-P0177)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 332, ¶179 (B03-C016-P0179)](../../build/reader/book-03.html#B03-C016-P0179)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 332, ¶180 (B03-C016-P0180)](../../build/reader/book-03.html#B03-C016-P0180)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 332, ¶181 (B03-C016-P0181)](../../build/reader/book-03.html#B03-C016-P0181)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 332–333, ¶182 (B03-C016-P0182)](../../build/reader/book-03.html#B03-C016-P0182)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 333, ¶183 (B03-C016-P0183)](../../build/reader/book-03.html#B03-C016-P0183)
+
+## B03-134: Whomping Willow to castle: moonlit grounds
+
+After leaving the Willow, the party walks toward the distant castle windows, which initially provide the only light. The lights gradually grow larger; a shifting cloud then exposes moonlight and casts dim shadows across the ground. The transformed Lupin later gallops into the Forest while Sirius runs across the grounds.
+
+Evidence: explicit; state: End of third year; moonlit night after the Shack confrontation.
+
+Model: The attempted castle journey is interrupted before arrival. Preserve the grass and open travel connections without assigning exact bearings or distances.
+
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 382–383, ¶20 (B03-C020-P0020)](../../build/reader/book-03.html#B03-C020-P0020)
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 383, ¶22 (B03-C020-P0022)](../../build/reader/book-03.html#B03-C020-P0022)
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 383, ¶23 (B03-C020-P0023)](../../build/reader/book-03.html#B03-C020-P0023)
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 383, ¶24 (B03-C020-P0024)](../../build/reader/book-03.html#B03-C020-P0024)
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 384, ¶36 (B03-C020-P0036)](../../build/reader/book-03.html#B03-C020-P0036)
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 384–385, ¶38 (B03-C020-P0038)](../../build/reader/book-03.html#B03-C020-P0038)
+- [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 385, ¶43 (B03-C020-P0043)](../../build/reader/book-03.html#B03-C020-P0043)
+
+## B03-137: Castle entrances: Dementor posts
+
+Snape reports that when he regained consciousness the Dementors were returning to their positions at the entrances. Later Macnair is seen crossing the grounds from the castle toward one of the entrances to fetch them.
+
+Evidence: reported; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: The first observation is Snape’s account; the later journey is narrated. Neither locates the individual entrances or gives their total number.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 390, ¶13 (B03-C021-P0013)](../../build/reader/book-03.html#B03-C021-P0013)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 390, ¶14 (B03-C021-P0014)](../../build/reader/book-03.html#B03-C021-P0014)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 390, ¶16 (B03-C021-P0016)](../../build/reader/book-03.html#B03-C021-P0016)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 416, ¶316 (B03-C021-P0316)](../../build/reader/book-03.html#B03-C021-P0316)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 416, ¶317 (B03-C021-P0317)](../../build/reader/book-03.html#B03-C021-P0317)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 416, ¶318 (B03-C021-P0318)](../../build/reader/book-03.html#B03-C021-P0318)
+
+## B03-143: Forest edge: oak lookout onto Hagrid’s cabin and castle
+
+Moving along the very edge of the Forest, the pair see Hagrid’s front doorway and hide behind a wide oak trunk, looking from either side. A small head movement also gives Harry a view of the distant castle front doors and descending officials. They can hear activity in the cabin.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: Establish sight lines from the wooded edge to both buildings and sound through the ajar rear door. No precise angular relationship is given.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶131 (B03-C021-P0131)](../../build/reader/book-03.html#B03-C021-P0131)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶132 (B03-C021-P0132)](../../build/reader/book-03.html#B03-C021-P0132)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶133 (B03-C021-P0133)](../../build/reader/book-03.html#B03-C021-P0133)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶134 (B03-C021-P0134)](../../build/reader/book-03.html#B03-C021-P0134)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400–401, ¶136 (B03-C021-P0136)](../../build/reader/book-03.html#B03-C021-P0136)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 401, ¶141 (B03-C021-P0141)](../../build/reader/book-03.html#B03-C021-P0141)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 401, ¶142 (B03-C021-P0142)](../../build/reader/book-03.html#B03-C021-P0142)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 401, ¶143 (B03-C021-P0143)](../../build/reader/book-03.html#B03-C021-P0143)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 402, ¶151 (B03-C021-P0151)](../../build/reader/book-03.html#B03-C021-P0151)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 402, ¶153 (B03-C021-P0153)](../../build/reader/book-03.html#B03-C021-P0153)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 402, ¶161 (B03-C021-P0161)](../../build/reader/book-03.html#B03-C021-P0161)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 403, ¶164 (B03-C021-P0164)](../../build/reader/book-03.html#B03-C021-P0164)
+
+## B03-152: Lake bank to castle: rescue stretchers and facade view
+
+From behind the waterside bush the pair watch Snape place Harry, Hermione and Sirius on conjured stretchers, with a fourth already floating beside him, and move them toward the castle. Harry can look up at the castle and count windows to the right of the West Tower.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: The fourth stretcher’s occupant is inferred to be Ron in the narration. The view establishes a visible facade sector from this shore, not a complete plan.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 415, ¶311 (B03-C021-P0311)](../../build/reader/book-03.html#B03-C021-P0311)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 415, ¶312 (B03-C021-P0312)](../../build/reader/book-03.html#B03-C021-P0312)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 415–416, ¶313 (B03-C021-P0313)](../../build/reader/book-03.html#B03-C021-P0313)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 416, ¶315 (B03-C021-P0315)](../../build/reader/book-03.html#B03-C021-P0315)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 416, ¶316 (B03-C021-P0316)](../../build/reader/book-03.html#B03-C021-P0316)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 416, ¶317 (B03-C021-P0317)](../../build/reader/book-03.html#B03-C021-P0317)
+
 ## B04-002: Hogwarts concealment
 
 Hermione explains that Muggles see Hogwarts as a deteriorating ruin with an entrance warning declaring it dangerous and unsafe to enter.
@@ -533,6 +766,121 @@ Model: Reported limits. Abduction by broom and Crouch leaving the boundary are t
 - [Book 4, ch. 29, “The Dream”, ref p. 602, ¶81 (B04-C029-P0081)](../../build/reader/book-04.html#B04-C029-P0081)
 - [Book 4, ch. 29, “The Dream”, ref p. 602, ¶83 (B04-C029-P0083)](../../build/reader/book-04.html#B04-C029-P0083)
 
+## B05-014: Castle approach and Hagrid’s cabin
+
+A towering mass of castle turrets rises against the night sky, with some windows brightly lit above the arrivals. Hagrid’s cabin stands by the Forbidden Forest; Harry looks toward it both from the gate approach and the coach stopping place but sees no light.
+
+Evidence: explicit; state: 1 September 1995 start-of-term feast and night.
+
+Model: Cabin darkness is a temporary absence, not proof of abandonment. Preserve attempted viewing positions without assuming unobstructed daytime sightlines.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 235, ¶9 (B05-C011-P0009)](../../build/reader/book-05.html#B05-C011-P0009)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 235, ¶10 (B05-C011-P0010)](../../build/reader/book-05.html#B05-C011-P0010)
+
+## B05-053: Creature lesson to greenhouses and castle
+
+From Hagrid’s lesson the friends cross the vegetable patch to the greenhouses. The nearest greenhouse has a door used by the departing fourth-year class; after a lesson using dragon-dung fertiliser, pupils go back uphill to the castle.
+
+Evidence: explicit; state: First school week, September 1995.
+
+Model: Connects cabin lesson, vegetable patch, greenhouses and uphill castle return.
+
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 305, ¶104 (B05-C013-P0104)](../../build/reader/book-05.html#B05-C013-P0104)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 305, ¶107 (B05-C013-P0107)](../../build/reader/book-05.html#B05-C013-P0107)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 305–306, ¶108 (B05-C013-P0108)](../../build/reader/book-05.html#B05-C013-P0108)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 306, ¶111 (B05-C013-P0111)](../../build/reader/book-05.html#B05-C013-P0111)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 306, ¶112 (B05-C013-P0112)](../../build/reader/book-05.html#B05-C013-P0112)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 307, ¶117 (B05-C013-P0117)](../../build/reader/book-05.html#B05-C013-P0117)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 308, ¶122 (B05-C013-P0122)](../../build/reader/book-05.html#B05-C013-P0122)
+
+## B05-066: Castle to Quidditch pitch
+
+Harry and Ron walk downhill over sloping lawns to the pitch. Approaching it, Harry sees the Forbidden Forest to his right and owls around the Owlery tower.
+
+Evidence: explicit; state: First September weekend, 1995.
+
+Model: Right is relative to this approach, not a compass direction. Preserve reciprocal castle/pitch travel.
+
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 339–340, ¶111 (B05-C014-P0111)](../../build/reader/book-05.html#B05-C014-P0111)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 340, ¶114 (B05-C014-P0114)](../../build/reader/book-05.html#B05-C014-P0114)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 340–341, ¶115 (B05-C014-P0115)](../../build/reader/book-05.html#B05-C014-P0115)
+
+## B05-121: Early November castle and mountains
+
+Hard morning frosts and icy draughts follow October storms. Surrounding mountains are snowcapped, the sky and Great Hall ceiling pale pearly grey, and castle corridors become cold enough for dragonskin gloves.
+
+Evidence: explicit; state: Late October to first November Quidditch match, 1995.
+
+Model: Seasonal thermal and distant-terrain state.
+
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 473, ¶26 (B05-C019-P0026)](../../build/reader/book-05.html#B05-C019-P0026)
+
+## B05-134: Cabin-to-castle sightline and snow tracks
+
+Hagrid parts a curtain about an inch to watch Umbridge returning to the castle. She has reported three sets of footprints from the castle doors with none returning; the friends later go uphill through thicker snow, erasing their tracks with Hermione’s Obliteration Charm.
+
+Evidence: explicit; state: Snowy November night of Hagrid’s return, 1995.
+
+Model: Initial footprint count is Umbridge’s report; later physical erasure is observed. No cloak-based footprint immunity.
+
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 514, ¶208 (B05-C020-P0208)](../../build/reader/book-05.html#B05-C020-P0208)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 514, ¶211 (B05-C020-P0211)](../../build/reader/book-05.html#B05-C020-P0211)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 517, ¶240 (B05-C020-P0240)](../../build/reader/book-05.html#B05-C020-P0240)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 517, ¶241 (B05-C020-P0241)](../../build/reader/book-05.html#B05-C020-P0241)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 518–519, ¶253 (B05-C020-P0253)](../../build/reader/book-05.html#B05-C020-P0253)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 519, ¶254 (B05-C020-P0254)](../../build/reader/book-05.html#B05-C020-P0254)
+
+## B05-144: December castle holiday state
+
+Further snow and bitter cold keep younger pupils indoors during breaks. Prefects supervise castle decorations including tinsel and patrol corridors with Filch.
+
+Evidence: explicit; state: November–December 1995 before Christmas departure.
+
+Model: Tinsel difficulty is Ron’s report; no specific decorated room supplied.
+
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 531–532, ¶94 (B05-C021-P0094)](../../build/reader/book-05.html#B05-C021-P0094)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 532, ¶95 (B05-C021-P0095)](../../build/reader/book-05.html#B05-C021-P0095)
+
+## B05-159: Hogwarts Apparition boundary
+
+Hermione cites Hogwarts: A History to state that nobody can Apparate or Disapparate within Hogwarts, rejecting Harry’s idea that he was physically transported out of his dormitory during the snake vision. Ron says he remained in bed.
+
+Evidence: reported; state: Christmas holidays, December 1995.
+
+Model: Reported general restriction and eyewitness denial of that journey; do not conflate it with the separately observed authorised Portkey departure.
+
+- [Book 5, ch. 23, “Christmas on the Closed Ward”, ref p. 592, ¶80 (B05-C023-P0080)](../../build/reader/book-05.html#B05-C023-P0080)
+- [Book 5, ch. 23, “Christmas on the Closed Ward”, ref p. 592, ¶81 (B05-C023-P0081)](../../build/reader/book-05.html#B05-C023-P0081)
+- [Book 5, ch. 23, “Christmas on the Closed Ward”, ref p. 592–593, ¶82 (B05-C023-P0082)](../../build/reader/book-05.html#B05-C023-P0082)
+
+## B05-162: January gate-to-castle approach
+
+After leaving the bus on a deserted road outside the gates, six pupils drag trunks uphill along a slippery drive to the oaken front doors. Tonks says they will be safe within the grounds.
+
+Evidence: explicit; state: January 1996 return and first Occlumency lesson.
+
+Model: Slippery winter state observed; safety assurance is Tonks’s report.
+
+- [Book 5, ch. 24, “Occlumency”, ref p. 625, ¶104 (B05-C024-P0104)](../../build/reader/book-05.html#B05-C024-P0104)
+- [Book 5, ch. 24, “Occlumency”, ref p. 625, ¶105 (B05-C024-P0105)](../../build/reader/book-05.html#B05-C024-P0105)
+- [Book 5, ch. 24, “Occlumency”, ref p. 625, ¶106 (B05-C024-P0106)](../../build/reader/book-05.html#B05-C024-P0106)
+- [Book 5, ch. 24, “Occlumency”, ref p. 625–626, ¶109 (B05-C024-P0109)](../../build/reader/book-05.html#B05-C024-P0109)
+
+## B05-166: Castle physical and mental protections
+
+Snape says many ancient spells and charms guard the walls and grounds for occupants’ bodily and mental safety; distance and eye contact matter in Legilimency, while Harry’s connection is an exception to normal rules.
+
+Evidence: reported; state: January 1996 return and first Occlumency lesson.
+
+Model: Reported protective scope without invented wards or absolute protection against all mental intrusion.
+
+- [Book 5, ch. 24, “Occlumency”, ref p. 629–630, ¶153 (B05-C024-P0153)](../../build/reader/book-05.html#B05-C024-P0153)
+- [Book 5, ch. 24, “Occlumency”, ref p. 630, ¶155 (B05-C024-P0155)](../../build/reader/book-05.html#B05-C024-P0155)
+- [Book 5, ch. 24, “Occlumency”, ref p. 630, ¶156 (B05-C024-P0156)](../../build/reader/book-05.html#B05-C024-P0156)
+- [Book 5, ch. 24, “Occlumency”, ref p. 630, ¶157 (B05-C024-P0157)](../../build/reader/book-05.html#B05-C024-P0157)
+- [Book 5, ch. 24, “Occlumency”, ref p. 630, ¶158 (B05-C024-P0158)](../../build/reader/book-05.html#B05-C024-P0158)
+- [Book 5, ch. 24, “Occlumency”, ref p. 630, ¶159 (B05-C024-P0159)](../../build/reader/book-05.html#B05-C024-P0159)
+
 ## B06-001: Hogwarts protective perimeter
 
 A newspaper reports new defensive spells and charms, a complex array of counter-curses, and a small Auror task force specifically protecting Hogwarts.
@@ -683,4 +1031,50 @@ Evidence: explicit; state: Dumbledore funeral, June 1997.
 Model: Rendering constraint for ghost appearance under strong daylight, not proof they are absent or immaterial only in sunlight.
 
 - [Book 6, ch. 30, “The White Tomb”, ref p. 675, ¶49 (B06-C030-P0049)](../../build/reader/book-06.html#B06-C030-P0049)
+
+## B07-010: Hogwarts Apparition protections
+
+Ron explains that house-elves can Apparate and Disapparate into and out of Hogwarts although wizards cannot.
+
+Evidence: reported; state: August 1997 explanation of continuing constraint.
+
+Model: Species-specific access rule; do not apply the wizard prohibition to house-elves. The sea cave discussed alongside it is a separate remote site.
+
+- [Book 7, ch. 10, “Kreacher’s Tale”, ref p. 204, ¶155 (B07-C010-P0155)](../../build/reader/book-07.html#B07-C010-P0155)
+- [Book 7, ch. 10, “Kreacher’s Tale”, ref p. 204, ¶156 (B07-C010-P0156)](../../build/reader/book-07.html#B07-C010-P0156)
+- [Book 7, ch. 10, “Kreacher’s Tale”, ref p. 204, ¶157 (B07-C010-P0157)](../../build/reader/book-07.html#B07-C010-P0157)
+
+## B07-024: Great Hall / castle Christmas decorations
+
+Carols recall Hogwarts Christmases to Harry: twelve Christmas trees in the Great Hall and Peeves singing rude carols from inside suits of armour.
+
+Evidence: explicit; state: Christmas Eve 1997 recollection of earlier school Christmases.
+
+Model: Seasonal count and use of hollow armour; no assertion that the same decorations are present under Snape that year.
+
+- [Book 7, ch. 16, “Godric’s Hollow”, ref p. 342, ¶89 (B07-C016-P0089)](../../build/reader/book-07.html#B07-C016-P0089)
+
+## B07-032: Hogwarts gates → grounds → lakeshore → castle path
+
+Harry sees Voldemort at the school gates as a lamp approaches through the pre-dawn. He then experiences travel alongside Snape up through the grounds towards the lake. Snape returns up the path towards the castle; Voldemort continues around the lake edge, with the castle in view and no lights in its windows.
+
+Evidence: explicit; state: March 1998 pre-dawn.
+
+Model: Narrated through Harry’s connection to Voldemort. Preserve the sequence and uphill wording without assuming the exact junction of the lake path and entrance drive.
+
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 528–529, ¶238 (B07-C024-P0238)](../../build/reader/book-07.html#B07-C024-P0238)
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 529, ¶248 (B07-C024-P0248)](../../build/reader/book-07.html#B07-C024-P0248)
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 529–530, ¶249 (B07-C024-P0249)](../../build/reader/book-07.html#B07-C024-P0249)
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 530, ¶250 (B07-C024-P0250)](../../build/reader/book-07.html#B07-C024-P0250)
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 530, ¶251 (B07-C024-P0251)](../../build/reader/book-07.html#B07-C024-P0251)
+
+## B07-041: Hogwarts boundary walls / old passages / patrols
+
+Aberforth reports all old secret passages watched at both ends, Dementors around the boundary walls, and regular patrols within the school; he says his alternative is now the only way in.
+
+Evidence: reported; state: May 1998 return to Hogwarts.
+
+Model: His sources support a very heavily guarded wartime state; “only” is his assessment, not a guarantee against every magical exception.
+
+- [Book 7, ch. 28, “The Missing Mirror”, ref p. 604, ¶149 (B07-C028-P0149)](../../build/reader/book-07.html#B07-C028-P0149)
 

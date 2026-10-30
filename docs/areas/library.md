@@ -242,6 +242,64 @@ Model: Reported downward route, not a traced staircase or floor number.
 - [Book 4, ch. 26, “The Second Task”, ref p. 514, ¶64 (B04-C026-P0064)](../../build/reader/book-04.html#B04-C026-P0064)
 - [Book 4, ch. 26, “The Second Task”, ref p. 514, ¶66 (B04-C026-P0066)](../../build/reader/book-04.html#B04-C026-P0066)
 
+## B05-120: Pitch scheduling and library jinx
+
+Snape books the pitch repeatedly for Slytherin practices, restricting Gryffindor access. Fourteen witnesses report Alicia being jinxed from behind while working in the library; she attends the hospital wing.
+
+Evidence: explicit; state: Late October to first November Quidditch match, 1995.
+
+Model: Pitch access is scheduled, not fenced by House. Library attack is a reported incident, with no asserted furniture damage.
+
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 471, ¶22 (B05-C019-P0022)](../../build/reader/book-05.html#B05-C019-P0022)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 475–476, ¶48 (B05-C019-P0048)](../../build/reader/book-05.html#B05-C019-P0048)
+
+## B05-163: Entrance Hall to library approach
+
+Hermione takes Ron from the Entrance Hall toward the marble staircase to go to the library; Cho ascends the same stair and Harry catches her halfway up before going to the library himself.
+
+Evidence: explicit; state: January 1996 return and first Occlumency lesson.
+
+Model: Library lies along this upward route, with no stated floor or direct stair landing entrance.
+
+- [Book 5, ch. 24, “Occlumency”, ref p. 626, ¶113 (B05-C024-P0113)](../../build/reader/book-05.html#B05-C024-P0113)
+- [Book 5, ch. 24, “Occlumency”, ref p. 626, ¶117 (B05-C024-P0117)](../../build/reader/book-05.html#B05-C024-P0117)
+- [Book 5, ch. 24, “Occlumency”, ref p. 626, ¶119 (B05-C024-P0119)](../../build/reader/book-05.html#B05-C024-P0119)
+- [Book 5, ch. 24, “Occlumency”, ref p. 627, ¶130 (B05-C024-P0130)](../../build/reader/book-05.html#B05-C024-P0130)
+- [Book 5, ch. 24, “Occlumency”, ref p. 627, ¶132 (B05-C024-P0132)](../../build/reader/book-05.html#B05-C024-P0132)
+- [Book 5, ch. 24, “Occlumency”, ref p. 627, ¶133 (B05-C024-P0133)](../../build/reader/book-05.html#B05-C024-P0133)
+- [Book 5, ch. 24, “Occlumency”, ref p. 627, ¶135 (B05-C024-P0135)](../../build/reader/book-05.html#B05-C024-P0135)
+
+## B05-168: Library windows and reading space
+
+Students work at lamp-lit tables while the sky darkens beyond mullioned windows; Madam Pince patrols the aisles. A window opposite Harry reflects his face.
+
+Evidence: explicit; state: January 1996 return and first Occlumency lesson.
+
+Model: Specific glazing pattern and reflective evening state; table/chair layout otherwise unspecified.
+
+- [Book 5, ch. 24, “Occlumency”, ref p. 639, ¶244 (B05-C024-P0244)](../../build/reader/book-05.html#B05-C024-P0244)
+- [Book 5, ch. 24, “Occlumency”, ref p. 639–640, ¶245 (B05-C024-P0245)](../../build/reader/book-05.html#B05-C024-P0245)
+- [Book 5, ch. 24, “Occlumency”, ref p. 640, ¶249 (B05-C024-P0249)](../../build/reader/book-05.html#B05-C024-P0249)
+- [Book 5, ch. 24, “Occlumency”, ref p. 641, ¶262 (B05-C024-P0262)](../../build/reader/book-05.html#B05-C024-P0262)
+
+## B05-224: Library loans and food prohibition
+
+Pince stamps books several shelves away from the table. Discovering Harry and Ginny eating chocolate, she enchants his books, bag and ink bottle to chase and strike them out of the library.
+
+Evidence: explicit; state: Easter and start of summer term, April 1996.
+
+Model: Observed enforcement enchantment; no permanent self-attacking furniture.
+
+- [Book 5, ch. 29, “Careers Advice”, ref p. 778, ¶34 (B05-C029-P0034)](../../build/reader/book-05.html#B05-C029-P0034)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 778, ¶39 (B05-C029-P0039)](../../build/reader/book-05.html#B05-C029-P0039)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 779, ¶41 (B05-C029-P0041)](../../build/reader/book-05.html#B05-C029-P0041)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 779, ¶48 (B05-C029-P0048)](../../build/reader/book-05.html#B05-C029-P0048)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 779, ¶50 (B05-C029-P0050)](../../build/reader/book-05.html#B05-C029-P0050)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 780, ¶55 (B05-C029-P0055)](../../build/reader/book-05.html#B05-C029-P0055)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 780, ¶57 (B05-C029-P0057)](../../build/reader/book-05.html#B05-C029-P0057)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 780, ¶58 (B05-C029-P0058)](../../build/reader/book-05.html#B05-C029-P0058)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 780, ¶59 (B05-C029-P0059)](../../build/reader/book-05.html#B05-C029-P0059)
+
 ## B06-079: Library study area
 
 Harry and Hermione work at a table with bookshelves behind them. The shelves are dark enough for someone nearby to remain unseen until Madam Pince comes around a corner carrying a lamp. Conversations are whispered and the library closes at night.
@@ -285,4 +343,29 @@ Model: Archival collection, not evidence of where within the library it is shelv
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 566–567, ¶36 (B06-C025-P0036)](../../build/reader/book-06.html#B06-C025-P0036)
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 567, ¶37 (B06-C025-P0037)](../../build/reader/book-06.html#B06-C025-P0037)
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 567, ¶39 (B06-C025-P0039)](../../build/reader/book-06.html#B06-C025-P0039)
+
+## B07-004: Library Horcrux books removed to Headmaster study
+
+Hermione says Dumbledore removed all Horcrux books from the library shelves without destroying them, keeping them in his study. One recovered volume, Secrets of the Darkest Art, is large and bound in faded black leather.
+
+Evidence: reported; state: July 1997 recollection.
+
+Model: Collection/storage state before funeral and subsequent removal; exact office shelf/cabinet is not identified and the time of original removal is explicitly uncertain.
+
+- [Book 7, ch. 6, “The Ghoul in Pyjamas”, ref p. 105, ¶155 (B07-C006-P0155)](../../build/reader/book-07.html#B07-C006-P0155)
+- [Book 7, ch. 6, “The Ghoul in Pyjamas”, ref p. 105, ¶156 (B07-C006-P0156)](../../build/reader/book-07.html#B07-C006-P0156)
+- [Book 7, ch. 6, “The Ghoul in Pyjamas”, ref p. 106, ¶159 (B07-C006-P0159)](../../build/reader/book-07.html#B07-C006-P0159)
+- [Book 7, ch. 6, “The Ghoul in Pyjamas”, ref p. 106, ¶161 (B07-C006-P0161)](../../build/reader/book-07.html#B07-C006-P0161)
+- [Book 7, ch. 6, “The Ghoul in Pyjamas”, ref p. 106–107, ¶166 (B07-C006-P0166)](../../build/reader/book-07.html#B07-C006-P0166)
+- [Book 7, ch. 6, “The Ghoul in Pyjamas”, ref p. 107, ¶167 (B07-C006-P0167)](../../build/reader/book-07.html#B07-C006-P0167)
+
+## B07-007: Dumbledore’s library and instruments bequeathed to school
+
+Scrimgeour says Dumbledore’s private library, magical instruments and most other personal effects were left to Hogwarts.
+
+Evidence: reported; state: 31 July 1997.
+
+Model: Disposition supports continued school ownership of the collection; no physical relocation or exact posthumous room arrangement is shown here.
+
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 129, ¶148 (B07-C007-P0148)](../../build/reader/book-07.html#B07-C007-P0148)
 

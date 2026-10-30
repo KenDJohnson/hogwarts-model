@@ -2,7 +2,7 @@
 
 This reports the reviewers' declared reading ranges. Structural validation checks that those ranges cover the corpus; it cannot prove semantic completeness or that every description has been captured.
 
-Reviewed: **20,723/38,426 paragraphs**. Records: **794**.
+Reviewed: **34,836/38,426 paragraphs**. Records: **1211**.
 
 ## Book 1: Harry Potter and the Philosopher's Stone
 
@@ -51,7 +51,7 @@ Reviewed: **20,723/38,426 paragraphs**. Records: **794**.
 
 ## Book 3: Harry Potter and the Prisoner of Azkaban
 
-1,306/4,227 paragraphs; 30 records.
+4,036/4,227 paragraphs; 155 records.
 
 - Chapter 1, Owl Post: Reviewed (101/101).
 - Chapter 2, Aunt Marge’s Big Mistake: Reviewed (134/134).
@@ -60,20 +60,20 @@ Reviewed: **20,723/38,426 paragraphs**. Records: **794**.
 - Chapter 5, The Dementor: Reviewed (271/271).
 - Chapter 6, Talons and Tea Leaves: Reviewed (257/257).
 - Chapter 7, The Boggart in the Wardrobe: Reviewed (189/189).
-- Chapter 8, Flight of the Fat Lady: Unread: ¶1–221 (0/221).
-- Chapter 9, Grim Defeat: Unread: ¶1–218 (0/218).
-- Chapter 10, The Marauder’s Map: Unread: ¶1–244 (0/244).
-- Chapter 11, The Firebolt: Unread: ¶1–218 (0/218).
-- Chapter 12, The Patronus: Unread: ¶1–193 (0/193).
-- Chapter 13, Gryffindor versus Ravenclaw: Unread: ¶1–158 (0/158).
-- Chapter 14, Snape’s Grudge: Unread: ¶1–228 (0/228).
-- Chapter 15, The Quidditch Final: Unread: ¶1–208 (0/208).
-- Chapter 16, Professor Trelawney’s Prediction: Unread: ¶1–183 (0/183).
-- Chapter 17, Cat, Rat and Dog: Unread: ¶1–184 (0/184).
-- Chapter 18, Moony, Wormtail, Padfoot and Prongs: Unread: ¶1–62 (0/62).
-- Chapter 19, The Servant of Lord Voldemort: Unread: ¶1–193 (0/193).
-- Chapter 20, The Dementors’ Kiss: Unread: ¶1–75 (0/75).
-- Chapter 21, Hermione’s Secret: Unread: ¶1–345 (0/345).
+- Chapter 8, Flight of the Fat Lady: Reviewed (221/221).
+- Chapter 9, Grim Defeat: Reviewed (218/218).
+- Chapter 10, The Marauder’s Map: Reviewed (244/244).
+- Chapter 11, The Firebolt: Reviewed (218/218).
+- Chapter 12, The Patronus: Reviewed (193/193).
+- Chapter 13, Gryffindor versus Ravenclaw: Reviewed (158/158).
+- Chapter 14, Snape’s Grudge: Reviewed (228/228).
+- Chapter 15, The Quidditch Final: Reviewed (208/208).
+- Chapter 16, Professor Trelawney’s Prediction: Reviewed (183/183).
+- Chapter 17, Cat, Rat and Dog: Reviewed (184/184).
+- Chapter 18, Moony, Wormtail, Padfoot and Prongs: Reviewed (62/62).
+- Chapter 19, The Servant of Lord Voldemort: Reviewed (193/193).
+- Chapter 20, The Dementors’ Kiss: Reviewed (75/75).
+- Chapter 21, Hermione’s Secret: Reviewed (345/345).
 - Chapter 22, Owl Post Again: Unread: ¶1–191 (0/191).
 
 ## Book 4: Harry Potter and the Goblet of Fire
@@ -120,38 +120,38 @@ Reviewed: **20,723/38,426 paragraphs**. Records: **794**.
 
 ## Book 5: Harry Potter and the Order of the Phoenix
 
-1,058/9,069 paragraphs; 1 records.
+7,418/9,069 paragraphs; 251 records.
 
 - Chapter 1, Dudley Demented: Reviewed (184/184).
 - Chapter 2, A Peck of Owls: Reviewed (253/253).
 - Chapter 3, The Advance Guard: Reviewed (182/182).
 - Chapter 4, Number Twelve, Grimmauld Place: Reviewed (230/230).
 - Chapter 5, The Order of the Phoenix: Reviewed (209/209).
-- Chapter 6, The Noble and Most Ancient House of Black: Unread: ¶1–226 (0/226).
-- Chapter 7, The Ministry of Magic: Unread: ¶1–158 (0/158).
-- Chapter 8, The Hearing: Unread: ¶1–156 (0/156).
-- Chapter 9, The Woes of Mrs Weasley: Unread: ¶1–320 (0/320).
-- Chapter 10, Luna Lovegood: Unread: ¶1–224 (0/224).
-- Chapter 11, The Sorting Hat’s New Song: Unread: ¶1–255 (0/255).
-- Chapter 12, Professor Umbridge: Unread: ¶1–340 (0/340).
-- Chapter 13, Detention with Dolores: Unread: ¶1–290 (0/290).
-- Chapter 14, Percy and Padfoot: Unread: ¶1–291 (0/291).
-- Chapter 15, The Hogwarts High Inquisitor: Unread: ¶1–267 (0/267).
-- Chapter 16, In the Hog’s Head: Unread: ¶1–210 (0/210).
-- Chapter 17, Educational Decree Number Twenty-four: Unread: ¶1–258 (0/258).
-- Chapter 18, Dumbledore’s Army: Unread: ¶1–264 (0/264).
-- Chapter 19, The Lion and the Serpent: Unread: ¶1–223 (0/223).
-- Chapter 20, Hagrid’s Tale: Unread: ¶1–255 (0/255).
-- Chapter 21, The Eye of the Snake: Unread: ¶1–259 (0/259).
-- Chapter 22, St Mungo’s Hospital for Magical Maladies and Injuries: Unread: ¶1–242 (0/242).
-- Chapter 23, Christmas on the Closed Ward: Unread: ¶1–226 (0/226).
-- Chapter 24, Occlumency: Unread: ¶1–287 (0/287).
-- Chapter 25, The Beetle at Bay: Unread: ¶1–245 (0/245).
-- Chapter 26, Seen and Unforeseen: Unread: ¶1–268 (0/268).
-- Chapter 27, The Centaur and the Sneak: Unread: ¶1–267 (0/267).
-- Chapter 28, Snape’s Worst Memory: Unread: ¶1–290 (0/290).
-- Chapter 29, Careers Advice: Unread: ¶1–270 (0/270).
-- Chapter 30, Grawp: Unread: ¶1–269 (0/269).
+- Chapter 6, The Noble and Most Ancient House of Black: Reviewed (226/226).
+- Chapter 7, The Ministry of Magic: Reviewed (158/158).
+- Chapter 8, The Hearing: Reviewed (156/156).
+- Chapter 9, The Woes of Mrs Weasley: Reviewed (320/320).
+- Chapter 10, Luna Lovegood: Reviewed (224/224).
+- Chapter 11, The Sorting Hat’s New Song: Reviewed (255/255).
+- Chapter 12, Professor Umbridge: Reviewed (340/340).
+- Chapter 13, Detention with Dolores: Reviewed (290/290).
+- Chapter 14, Percy and Padfoot: Reviewed (291/291).
+- Chapter 15, The Hogwarts High Inquisitor: Reviewed (267/267).
+- Chapter 16, In the Hog’s Head: Reviewed (210/210).
+- Chapter 17, Educational Decree Number Twenty-four: Reviewed (258/258).
+- Chapter 18, Dumbledore’s Army: Reviewed (264/264).
+- Chapter 19, The Lion and the Serpent: Reviewed (223/223).
+- Chapter 20, Hagrid’s Tale: Reviewed (255/255).
+- Chapter 21, The Eye of the Snake: Reviewed (259/259).
+- Chapter 22, St Mungo’s Hospital for Magical Maladies and Injuries: Reviewed (242/242).
+- Chapter 23, Christmas on the Closed Ward: Reviewed (226/226).
+- Chapter 24, Occlumency: Reviewed (287/287).
+- Chapter 25, The Beetle at Bay: Reviewed (245/245).
+- Chapter 26, Seen and Unforeseen: Reviewed (268/268).
+- Chapter 27, The Centaur and the Sneak: Reviewed (267/267).
+- Chapter 28, Snape’s Worst Memory: Reviewed (290/290).
+- Chapter 29, Careers Advice: Reviewed (270/270).
+- Chapter 30, Grawp: Reviewed (269/269).
 - Chapter 31, O.W.L.s: Unread: ¶1–214 (0/214).
 - Chapter 32, Out of the Fire: Unread: ¶1–238 (0/238).
 - Chapter 33, Fight and Flight: Unread: ¶1–139 (0/139).
@@ -198,36 +198,36 @@ Reviewed: **20,723/38,426 paragraphs**. Records: **794**.
 
 ## Book 7: Harry Potter and the Deathly Hallows
 
-108/6,879 paragraphs; 0 records.
+5,131/6,879 paragraphs; 42 records.
 
 - Chapter 1, The Dark Lord Ascending: Reviewed (108/108).
-- Chapter 2, In Memoriam: Unread: ¶1–63 (0/63).
-- Chapter 3, The Dursleys Departing: Unread: ¶1–120 (0/120).
-- Chapter 4, The Seven Potters: Unread: ¶1–167 (0/167).
-- Chapter 5, Fallen Warrior: Unread: ¶1–259 (0/259).
-- Chapter 6, The Ghoul in Pyjamas: Unread: ¶1–226 (0/226).
-- Chapter 7, The Will of Albus Dumbledore: Unread: ¶1–269 (0/269).
-- Chapter 8, The Wedding: Unread: ¶1–211 (0/211).
-- Chapter 9, A Place to Hide: Unread: ¶1–145 (0/145).
-- Chapter 10, Kreacher’s Tale: Unread: ¶1–195 (0/195).
-- Chapter 11, The Bribe: Unread: ¶1–207 (0/207).
-- Chapter 12, Magic is Might: Unread: ¶1–215 (0/215).
-- Chapter 13, The Muggle-Born Registration Commission: Unread: ¶1–190 (0/190).
-- Chapter 14, The Thief: Unread: ¶1–137 (0/137).
-- Chapter 15, The Goblin’s Revenge: Unread: ¶1–278 (0/278).
-- Chapter 16, Godric’s Hollow: Unread: ¶1–133 (0/133).
-- Chapter 17, Bathilda’s Secret: Unread: ¶1–207 (0/207).
-- Chapter 18, The Life and Lies of Albus Dumbledore: Unread: ¶1–78 (0/78).
-- Chapter 19, The Silver Doe: Unread: ¶1–230 (0/230).
-- Chapter 20, Xenophilius Lovegood: Unread: ¶1–153 (0/153).
-- Chapter 21, The Tale of the Three Brothers: Unread: ¶1–181 (0/181).
-- Chapter 22, The Deathly Hallows: Unread: ¶1–190 (0/190).
-- Chapter 23, Malfoy Manor: Unread: ¶1–343 (0/343).
-- Chapter 24, The Wandmaker: Unread: ¶1–255 (0/255).
-- Chapter 25, Shell Cottage: Unread: ¶1–164 (0/164).
-- Chapter 26, Gringotts: Unread: ¶1–187 (0/187).
-- Chapter 27, The Final Hiding Place: Unread: ¶1–69 (0/69).
-- Chapter 28, The Missing Mirror: Unread: ¶1–151 (0/151).
+- Chapter 2, In Memoriam: Reviewed (63/63).
+- Chapter 3, The Dursleys Departing: Reviewed (120/120).
+- Chapter 4, The Seven Potters: Reviewed (167/167).
+- Chapter 5, Fallen Warrior: Reviewed (259/259).
+- Chapter 6, The Ghoul in Pyjamas: Reviewed (226/226).
+- Chapter 7, The Will of Albus Dumbledore: Reviewed (269/269).
+- Chapter 8, The Wedding: Reviewed (211/211).
+- Chapter 9, A Place to Hide: Reviewed (145/145).
+- Chapter 10, Kreacher’s Tale: Reviewed (195/195).
+- Chapter 11, The Bribe: Reviewed (207/207).
+- Chapter 12, Magic is Might: Reviewed (215/215).
+- Chapter 13, The Muggle-Born Registration Commission: Reviewed (190/190).
+- Chapter 14, The Thief: Reviewed (137/137).
+- Chapter 15, The Goblin’s Revenge: Reviewed (278/278).
+- Chapter 16, Godric’s Hollow: Reviewed (133/133).
+- Chapter 17, Bathilda’s Secret: Reviewed (207/207).
+- Chapter 18, The Life and Lies of Albus Dumbledore: Reviewed (78/78).
+- Chapter 19, The Silver Doe: Reviewed (230/230).
+- Chapter 20, Xenophilius Lovegood: Reviewed (153/153).
+- Chapter 21, The Tale of the Three Brothers: Reviewed (181/181).
+- Chapter 22, The Deathly Hallows: Reviewed (190/190).
+- Chapter 23, Malfoy Manor: Reviewed (343/343).
+- Chapter 24, The Wandmaker: Reviewed (255/255).
+- Chapter 25, Shell Cottage: Reviewed (164/164).
+- Chapter 26, Gringotts: Reviewed (187/187).
+- Chapter 27, The Final Hiding Place: Reviewed (69/69).
+- Chapter 28, The Missing Mirror: Reviewed (151/151).
 - Chapter 29, The Lost Diadem: Unread: ¶1–167 (0/167).
 - Chapter 30, The Sacking of Severus Snape: Unread: ¶1–194 (0/194).
 - Chapter 31, The Battle of Hogwarts: Unread: ¶1–284 (0/284).

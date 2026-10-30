@@ -181,6 +181,76 @@ Model: Observed outdoor storage/waste feature and vegetation; spider heading is 
 - [Book 2, ch. 15, “Aragog”, ref p. 271, ¶32 (B02-C015-P0032)](../../build/reader/book-02.html#B02-C015-P0032)
 - [Book 2, ch. 15, “Aragog”, ref p. 271, ¶34 (B02-C015-P0034)](../../build/reader/book-02.html#B02-C015-P0034)
 
+## B03-034: Greenhouse — Puffapod handling
+
+Pupils strip fat pink pods from Puffapods into a wooden pail; fallen shining beans immediately burst into bloom on the greenhouse floor.
+
+Evidence: explicit; state: October 1993.
+
+Model: Observed plant response and lesson equipment; greenhouse number unspecified.
+
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 146–147, ¶57 (B03-C008-P0057)](../../build/reader/book-03.html#B03-C008-P0057)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 147, ¶58 (B03-C008-P0058)](../../build/reader/book-03.html#B03-C008-P0058)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 147, ¶59 (B03-C008-P0059)](../../build/reader/book-03.html#B03-C008-P0059)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 147, ¶60 (B03-C008-P0060)](../../build/reader/book-03.html#B03-C008-P0060)
+
+## B03-115: Hagrid’s back garden — door and tether tree
+
+A back door opens into Hagrid’s garden. Buckbeak is tethered a few yards away to a tree behind the pumpkin patch; Hagrid lets the pupils out here while officials approach the front.
+
+Evidence: explicit; state: June 1994 exams and Buckbeak appeal.
+
+Model: Front/back circulation, tree and patch relation explicit; numeric yards and tree species not supplied.
+
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 329, ¶132 (B03-C016-P0132)](../../build/reader/book-03.html#B03-C016-P0132)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 329, ¶133 (B03-C016-P0133)](../../build/reader/book-03.html#B03-C016-P0133)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 330, ¶143 (B03-C016-P0143)](../../build/reader/book-03.html#B03-C016-P0143)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 331, ¶154 (B03-C016-P0154)](../../build/reader/book-03.html#B03-C016-P0154)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 331, ¶155 (B03-C016-P0155)](../../build/reader/book-03.html#B03-C016-P0155)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 331, ¶157 (B03-C016-P0157)](../../build/reader/book-03.html#B03-C016-P0157)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 331, ¶158 (B03-C016-P0158)](../../build/reader/book-03.html#B03-C016-P0158)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 331, ¶159 (B03-C016-P0159)](../../build/reader/book-03.html#B03-C016-P0159)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 331, ¶164 (B03-C016-P0164)](../../build/reader/book-03.html#B03-C016-P0164)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 331, ¶165 (B03-C016-P0165)](../../build/reader/book-03.html#B03-C016-P0165)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 331, ¶166 (B03-C016-P0166)](../../build/reader/book-03.html#B03-C016-P0166)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 331–332, ¶167 (B03-C016-P0167)](../../build/reader/book-03.html#B03-C016-P0167)
+
+## B03-142: Entrance Hall to Forest via gardens, greenhouses and Willow
+
+The pair leave the hall down the stone steps, with long shadows and gilded Forest treetops. To avoid sight from Hagrid’s front door they cross vegetable gardens to the greenhouses, pause behind them, then skirt the Willow and reach the shelter of Forest trees.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: This is an observed alternative approach to Hagrid, chosen for concealment; do not replace the direct lawn route with it or infer exact garden boundaries.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 399, ¶125 (B03-C021-P0125)](../../build/reader/book-03.html#B03-C021-P0125)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 399, ¶126 (B03-C021-P0126)](../../build/reader/book-03.html#B03-C021-P0126)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 399–400, ¶127 (B03-C021-P0127)](../../build/reader/book-03.html#B03-C021-P0127)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶128 (B03-C021-P0128)](../../build/reader/book-03.html#B03-C021-P0128)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶129 (B03-C021-P0129)](../../build/reader/book-03.html#B03-C021-P0129)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶130 (B03-C021-P0130)](../../build/reader/book-03.html#B03-C021-P0130)
+
+## B03-146: Hagrid’s garden: explanation of axe sound
+
+After discovering Buckbeak gone, the executioner apparently swings his axe into the fence in anger, producing the previously heard swish and thud. Hagrid’s cries are relief at the escape; the officials then re-enter the cabin.
+
+Evidence: inference; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: The strike into the fence is inferred in the narration from sound, not directly seen. No specific cut, split or destroyed fence section is described.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404, ¶186 (B03-C021-P0186)](../../build/reader/book-03.html#B03-C021-P0186)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404, ¶187 (B03-C021-P0187)](../../build/reader/book-03.html#B03-C021-P0187)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404, ¶188 (B03-C021-P0188)](../../build/reader/book-03.html#B03-C021-P0188)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404–405, ¶189 (B03-C021-P0189)](../../build/reader/book-03.html#B03-C021-P0189)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405, ¶190 (B03-C021-P0190)](../../build/reader/book-03.html#B03-C021-P0190)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405, ¶191 (B03-C021-P0191)](../../build/reader/book-03.html#B03-C021-P0191)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405, ¶192 (B03-C021-P0192)](../../build/reader/book-03.html#B03-C021-P0192)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405, ¶193 (B03-C021-P0193)](../../build/reader/book-03.html#B03-C021-P0193)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405, ¶195 (B03-C021-P0195)](../../build/reader/book-03.html#B03-C021-P0195)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405, ¶196 (B03-C021-P0196)](../../build/reader/book-03.html#B03-C021-P0196)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405, ¶197 (B03-C021-P0197)](../../build/reader/book-03.html#B03-C021-P0197)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405, ¶198 (B03-C021-P0198)](../../build/reader/book-03.html#B03-C021-P0198)
+
 ## B04-023: Vegetable path and greenhouse three
 
 The pupils cross a sodden vegetable path to greenhouse three, where black slug-like Bubotubers protrude upright from soil and produce a petrol-smelling yellow-green liquid when squeezed.
@@ -315,6 +385,119 @@ Model: Reported historical use of space behind the greenhouses; the memory does 
 - [Book 4, ch. 30, “The Pensieve”, ref p. 633, ¶143 (B04-C030-P0143)](../../build/reader/book-04.html#B04-C030-P0143)
 - [Book 4, ch. 30, “The Pensieve”, ref p. 633, ¶144 (B04-C030-P0144)](../../build/reader/book-04.html#B04-C030-P0144)
 - [Book 4, ch. 30, “The Pensieve”, ref p. 633, ¶145 (B04-C030-P0145)](../../build/reader/book-04.html#B04-C030-P0145)
+
+## B05-003: Grounds: route to Herbology greenhouses
+
+Harry recalls walking across the vegetable patches to reach the Herbology greenhouses.
+
+Evidence: explicit; state: Recollection before September 1995 return to school.
+
+Model: A remembered everyday approach, not a newly observed journey; establishes vegetable plots along a greenhouse approach without a compass bearing.
+
+- [Book 5, ch. 9, “The Woes of Mrs Weasley”, ref p. 187, ¶82 (B05-C009-P0082)](../../build/reader/book-05.html#B05-C009-P0082)
+
+## B05-046: Triwizard return lawn
+
+Hermione recalls Harry arriving in the middle of the lawn carrying Cedric’s body after the maze task.
+
+Evidence: reported; state: First school week, September 1995.
+
+Model: Reported retrospective placement complements the earlier return account; no lawn coordinates.
+
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 292–293, ¶11 (B05-C013-P0011)](../../build/reader/book-05.html#B05-C013-P0011)
+
+## B05-051: Sloping lawn and outdoor creature classroom
+
+The class walks down the sloping lawn to Hagrid’s cabin at the Forest edge. Grubbly-Plank waits about ten yards from the front door behind a long trestle table of Bowtruckles and woodlice; students work sitting or crouching on the grass.
+
+Evidence: explicit; state: First school week, September 1995.
+
+Model: Temporary lesson station at a stated distance from the front door.
+
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 301–302, ¶85 (B05-C013-P0085)](../../build/reader/book-05.html#B05-C013-P0085)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 302, ¶87 (B05-C013-P0087)](../../build/reader/book-05.html#B05-C013-P0087)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 302–303, ¶89 (B05-C013-P0089)](../../build/reader/book-05.html#B05-C013-P0089)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 303, ¶94 (B05-C013-P0094)](../../build/reader/book-05.html#B05-C013-P0094)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 304, ¶100 (B05-C013-P0100)](../../build/reader/book-05.html#B05-C013-P0100)
+
+## B05-053: Creature lesson to greenhouses and castle
+
+From Hagrid’s lesson the friends cross the vegetable patch to the greenhouses. The nearest greenhouse has a door used by the departing fourth-year class; after a lesson using dragon-dung fertiliser, pupils go back uphill to the castle.
+
+Evidence: explicit; state: First school week, September 1995.
+
+Model: Connects cabin lesson, vegetable patch, greenhouses and uphill castle return.
+
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 305, ¶104 (B05-C013-P0104)](../../build/reader/book-05.html#B05-C013-P0104)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 305, ¶107 (B05-C013-P0107)](../../build/reader/book-05.html#B05-C013-P0107)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 305–306, ¶108 (B05-C013-P0108)](../../build/reader/book-05.html#B05-C013-P0108)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 306, ¶111 (B05-C013-P0111)](../../build/reader/book-05.html#B05-C013-P0111)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 306, ¶112 (B05-C013-P0112)](../../build/reader/book-05.html#B05-C013-P0112)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 307, ¶117 (B05-C013-P0117)](../../build/reader/book-05.html#B05-C013-P0117)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 308, ¶122 (B05-C013-P0122)](../../build/reader/book-05.html#B05-C013-P0122)
+
+## B05-143: Forest to greenhouses in snow
+
+Pupils return uphill toward the castle along channels previously made through snow. Hermione melts an easier route through untouched snow between the class and the greenhouses using hot air from her wand.
+
+Evidence: explicit; state: November–December 1995 before Christmas departure.
+
+Model: Retain travel sequence without straight-line assumptions.
+
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 530, ¶82 (B05-C021-P0082)](../../build/reader/book-05.html#B05-C021-P0082)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 531, ¶90 (B05-C021-P0090)](../../build/reader/book-05.html#B05-C021-P0090)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 531, ¶91 (B05-C021-P0091)](../../build/reader/book-05.html#B05-C021-P0091)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 531, ¶92 (B05-C021-P0092)](../../build/reader/book-05.html#B05-C021-P0092)
+
+## B05-172: Herbology Screechsnap trays
+
+Susan Bones tends Screechsnap seedlings in a tray with dragon manure; too much makes the seedlings wriggle and squeak.
+
+Evidence: explicit; state: January–14 February 1996.
+
+Model: Actual classroom plants in this lesson, not a proposed collection.
+
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 652, ¶50 (B05-C025-P0050)](../../build/reader/book-05.html#B05-C025-P0050)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 652, ¶51 (B05-C025-P0051)](../../build/reader/book-05.html#B05-C025-P0051)
+
+## B05-182: Herbology watering equipment
+
+Harry passes Sprout a watering can during Herbology.
+
+Evidence: explicit; state: February–early March 1996, Quibbler publication and Trelawney dismissal.
+
+Model: Small functional greenhouse prop.
+
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 692–693, ¶120 (B05-C026-P0120)](../../build/reader/book-05.html#B05-C026-P0120)
+
+## B05-187: Trelawney dismissal scene
+
+Trelawney stands with two large trunks and a sherry bottle in a spectator ring in the Entrance Hall, then sits on a trunk. Umbridge stands near the stair foot. Staff lead Trelawney up the marble stairs and levitate her trunks after her.
+
+Evidence: explicit; state: February–early March 1996, Quibbler publication and Trelawney dismissal.
+
+Model: One trunk looks thrown downstairs to Harry, an impression rather than a witnessed fall; no structural damage.
+
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 707–708, ¶242 (B05-C026-P0242)](../../build/reader/book-05.html#B05-C026-P0242)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 708, ¶244 (B05-C026-P0244)](../../build/reader/book-05.html#B05-C026-P0244)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 708, ¶246 (B05-C026-P0246)](../../build/reader/book-05.html#B05-C026-P0246)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 708–709, ¶247 (B05-C026-P0247)](../../build/reader/book-05.html#B05-C026-P0247)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 709, ¶248 (B05-C026-P0248)](../../build/reader/book-05.html#B05-C026-P0248)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 710, ¶258 (B05-C026-P0258)](../../build/reader/book-05.html#B05-C026-P0258)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 710, ¶259 (B05-C026-P0259)](../../build/reader/book-05.html#B05-C026-P0259)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 710–711, ¶260 (B05-C026-P0260)](../../build/reader/book-05.html#B05-C026-P0260)
+
+## B05-190: Trelawney office after dismissal
+
+Lavender reports visiting Trelawney’s office upstairs with daffodils; she distinguishes these flowers from Sprout’s honking daffodils.
+
+Evidence: reported; state: March–early April 1996, new Divination class and DA discovery.
+
+Model: Reported continued room access; do not put the honking flowers in Trelawney’s office.
+
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 712, ¶8 (B05-C027-P0008)](../../build/reader/book-05.html#B05-C027-P0008)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 712, ¶9 (B05-C027-P0009)](../../build/reader/book-05.html#B05-C027-P0009)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 712, ¶10 (B05-C027-P0010)](../../build/reader/book-05.html#B05-C027-P0010)
 
 ## B06-040: Herbology greenhouses
 
@@ -472,4 +655,26 @@ Model: Ward longitudinal relationship from entrance to far bed; no exact bed cou
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 647, ¶41 (B06-C029-P0041)](../../build/reader/book-06.html#B06-C029-P0041)
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 654, ¶85 (B06-C029-P0085)](../../build/reader/book-06.html#B06-C029-P0085)
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 655, ¶88 (B06-C029-P0088)](../../build/reader/book-06.html#B06-C029-P0088)
+
+## B07-003: Hagrid front garden burial recollection
+
+Harry recalls Barty Crouch being Transfigured into a bone and buried in Hagrid’s front garden.
+
+Evidence: reported; state: July 1997 recollection.
+
+Model: Reported recollection, not a visible grave or current inspection. Parent should reconcile this wording with the original event’s evidence; no marker, exact position or remaining bone is described.
+
+- [Book 7, ch. 6, “The Ghoul in Pyjamas”, ref p. 97, ¶78 (B07-C006-P0078)](../../build/reader/book-07.html#B07-C006-P0078)
+- [Book 7, ch. 6, “The Ghoul in Pyjamas”, ref p. 97–98, ¶79 (B07-C006-P0079)](../../build/reader/book-07.html#B07-C006-P0079)
+- [Book 7, ch. 6, “The Ghoul in Pyjamas”, ref p. 98, ¶80 (B07-C006-P0080)](../../build/reader/book-07.html#B07-C006-P0080)
+
+## B07-029: Tallest tower / lawn at its foot
+
+Dobby’s death recalls Harry kneeling beside Dumbledore’s body on the grass at the foot of Hogwarts’ tallest tower.
+
+Evidence: explicit; state: March 1998 recollection of June 1997.
+
+Model: Confirms highest-tower base on lawn; no new tower plan or height.
+
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 503–504, ¶1 (B07-C024-P0001)](../../build/reader/book-07.html#B07-C024-P0001)
 

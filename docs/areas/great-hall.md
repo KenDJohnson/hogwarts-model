@@ -424,6 +424,111 @@ Model: Seven flights are not seven floors. South is Ron’s orientation claim ti
 - [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶35 (B03-C006-P0035)](../../build/reader/book-03.html#B03-C006-P0035)
 - [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶36 (B03-C006-P0036)](../../build/reader/book-03.html#B03-C006-P0036)
 
+## B03-039: Great Hall — Hallowe’en 1993 decorations
+
+Hundreds of candlelit pumpkins, live bats and flaming-orange streamers decorate the Hall; the streamers drift across a stormy ceiling. Ghosts perform formation gliding through walls and tables after the feast.
+
+Evidence: explicit; state: 31 October 1993 evening.
+
+Model: Distinct 1993 event state and ghost-permeable furnishings.
+
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 158, ¶198 (B03-C008-P0198)](../../build/reader/book-03.html#B03-C008-P0198)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 158, ¶200 (B03-C008-P0200)](../../build/reader/book-03.html#B03-C008-P0200)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 158, ¶201 (B03-C008-P0201)](../../build/reader/book-03.html#B03-C008-P0201)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 158, ¶202 (B03-C008-P0202)](../../build/reader/book-03.html#B03-C008-P0202)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 158–159, ¶203 (B03-C008-P0203)](../../build/reader/book-03.html#B03-C008-P0203)
+
+## B03-042: Great Hall — emergency dormitory
+
+All houses assemble for the castle search; every Hall door is shut and Prefects guard the entrances. Dining tables move against the walls and hundreds of squashy purple sleeping bags cover the floor; the trio occupy a corner. Teachers check hourly.
+
+Evidence: explicit; state: Night of 31 October–1 November 1993.
+
+Model: Multiple guarded Hall entrances and movable tables, no permanent dormitory conversion.
+
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 160, ¶1 (B03-C009-P0001)](../../build/reader/book-03.html#B03-C009-P0001)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 160–161, ¶2 (B03-C009-P0002)](../../build/reader/book-03.html#B03-C009-P0002)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 161, ¶3 (B03-C009-P0003)](../../build/reader/book-03.html#B03-C009-P0003)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 161, ¶4 (B03-C009-P0004)](../../build/reader/book-03.html#B03-C009-P0004)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 161, ¶5 (B03-C009-P0005)](../../build/reader/book-03.html#B03-C009-P0005)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 161, ¶7 (B03-C009-P0007)](../../build/reader/book-03.html#B03-C009-P0007)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 161, ¶8 (B03-C009-P0008)](../../build/reader/book-03.html#B03-C009-P0008)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 161–162, ¶11 (B03-C009-P0011)](../../build/reader/book-03.html#B03-C009-P0011)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 162, ¶21 (B03-C009-P0021)](../../build/reader/book-03.html#B03-C009-P0021)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 163, ¶23 (B03-C009-P0023)](../../build/reader/book-03.html#B03-C009-P0023)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 163, ¶27 (B03-C009-P0027)](../../build/reader/book-03.html#B03-C009-P0027)
+
+## B03-043: Great Hall — night lighting
+
+Candles extinguish together at lights-out. Silvery ghosts and the starry enchanted ceiling then provide the only light over sleeping pupils.
+
+Evidence: explicit; state: After Hallowe’en 1993.
+
+Model: Observed night illumination; comparison to sleeping outdoors does not remove the physical roof.
+
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 162, ¶21 (B03-C009-P0021)](../../build/reader/book-03.html#B03-C009-P0021)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 162–163, ¶22 (B03-C009-P0022)](../../build/reader/book-03.html#B03-C009-P0022)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 163, ¶23 (B03-C009-P0023)](../../build/reader/book-03.html#B03-C009-P0023)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 165, ¶46 (B03-C009-P0046)](../../build/reader/book-03.html#B03-C009-P0046)
+
+## B03-073: Castle and Great Hall — Christmas 1993 decorations
+
+Thick holly and mistletoe streamers run along corridors, lights glow inside every suit of armour, and twelve Great Hall Christmas trees glitter with gold stars. Strong cooking smells spread through the corridors.
+
+Evidence: explicit; state: December 1993 holidays.
+
+Model: Distinct seasonal decorative state. Source of armour lights unspecified.
+
+- [Book 3, ch. 11, “The Firebolt”, ref p. 222, ¶107 (B03-C011-P0107)](../../build/reader/book-03.html#B03-C011-P0107)
+
+## B03-074: Great Hall — small Christmas table
+
+House tables stand against walls and one central table is set for twelve. A conjured extra chair lands between Snape and McGonagall for Trelawney; silver crackers produce novelty hats. The table is used for a two-hour Christmas meal.
+
+Evidence: explicit; state: 25 December 1993.
+
+Model: Dated central-table configuration; superstition about thirteen is not an environmental hazard.
+
+- [Book 3, ch. 11, “The Firebolt”, ref p. 227–228, ¶162 (B03-C011-P0162)](../../build/reader/book-03.html#B03-C011-P0162)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 228, ¶163 (B03-C011-P0163)](../../build/reader/book-03.html#B03-C011-P0163)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 228, ¶164 (B03-C011-P0164)](../../build/reader/book-03.html#B03-C011-P0164)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 228, ¶165 (B03-C011-P0165)](../../build/reader/book-03.html#B03-C011-P0165)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 228, ¶166 (B03-C011-P0166)](../../build/reader/book-03.html#B03-C011-P0166)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 228–229, ¶168 (B03-C011-P0168)](../../build/reader/book-03.html#B03-C011-P0168)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 229, ¶169 (B03-C011-P0169)](../../build/reader/book-03.html#B03-C011-P0169)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 229, ¶171 (B03-C011-P0171)](../../build/reader/book-03.html#B03-C011-P0171)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 229, ¶172 (B03-C011-P0172)](../../build/reader/book-03.html#B03-C011-P0172)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 229, ¶173 (B03-C011-P0173)](../../build/reader/book-03.html#B03-C011-P0173)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 229, ¶174 (B03-C011-P0174)](../../build/reader/book-03.html#B03-C011-P0174)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 229, ¶175 (B03-C011-P0175)](../../build/reader/book-03.html#B03-C011-P0175)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 230, ¶188 (B03-C011-P0188)](../../build/reader/book-03.html#B03-C011-P0188)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 230, ¶189 (B03-C011-P0189)](../../build/reader/book-03.html#B03-C011-P0189)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 230–231, ¶190 (B03-C011-P0190)](../../build/reader/book-03.html#B03-C011-P0190)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 231, ¶193 (B03-C011-P0193)](../../build/reader/book-03.html#B03-C011-P0193)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 231, ¶197 (B03-C011-P0197)](../../build/reader/book-03.html#B03-C011-P0197)
+
+## B03-111: Great Hall to Divination — seventh-floor approach
+
+After lunch the trio ascend the marble stair. Hermione turns off on the first floor; the boys continue to the seventh and queue on the spiral steps/landing below Trelawney’s ladder. A sunny window and wall seating space are present on the landing.
+
+Evidence: explicit; state: June 1994 exams and Buckbeak appeal.
+
+Model: First floor is Hermione’s turn-off, not a proven Muggle Studies classroom floor. Seventh is the approach to the tower stair, not automatically its room floor.
+
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 322, ¶53 (B03-C016-P0053)](../../build/reader/book-03.html#B03-C016-P0053)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 322, ¶54 (B03-C016-P0054)](../../build/reader/book-03.html#B03-C016-P0054)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 322, ¶56 (B03-C016-P0056)](../../build/reader/book-03.html#B03-C016-P0056)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 322–323, ¶58 (B03-C016-P0058)](../../build/reader/book-03.html#B03-C016-P0058)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 323, ¶59 (B03-C016-P0059)](../../build/reader/book-03.html#B03-C016-P0059)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 323, ¶60 (B03-C016-P0060)](../../build/reader/book-03.html#B03-C016-P0060)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 323, ¶63 (B03-C016-P0063)](../../build/reader/book-03.html#B03-C016-P0063)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 323, ¶64 (B03-C016-P0064)](../../build/reader/book-03.html#B03-C016-P0064)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 323, ¶65 (B03-C016-P0065)](../../build/reader/book-03.html#B03-C016-P0065)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 323, ¶68 (B03-C016-P0068)](../../build/reader/book-03.html#B03-C016-P0068)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 323–324, ¶69 (B03-C016-P0069)](../../build/reader/book-03.html#B03-C016-P0069)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 326, ¶101 (B03-C016-P0101)](../../build/reader/book-03.html#B03-C016-P0101)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 326, ¶102 (B03-C016-P0102)](../../build/reader/book-03.html#B03-C016-P0102)
+
 ## B04-007: Entrance Hall to Great Hall
 
 Double doors on the right of the Entrance Hall lead into the Great Hall.
@@ -750,6 +855,139 @@ Model: Dated mourning layout and seating; confirms benches at the house tables.
 - [Book 4, ch. 37, “The Beginning”, ref p. 764, ¶47 (B04-C037-P0047)](../../build/reader/book-04.html#B04-C037-P0047)
 - [Book 4, ch. 37, “The Beginning”, ref p. 766, ¶59 (B04-C037-P0059)](../../build/reader/book-04.html#B04-C037-P0059)
 
+## B05-016: Great Hall lighting and roof
+
+Four long house tables sit beneath a starless black ceiling matching the sky visible through high windows. Candles float above the tables and translucent ghosts mingle among pupils.
+
+Evidence: explicit; state: 1 September 1995 start-of-term feast and night.
+
+Model: September night state; ghost movement is not restricted to physical seats.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 236, ¶15 (B05-C011-P0015)](../../build/reader/book-05.html#B05-C011-P0015)
+
+## B05-017: Great Hall staff table and chair
+
+The long staff table runs along the top wall. Dumbledore occupies a high-backed golden chair in its centre; Umbridge sits beside him, and Grubbly-Plank takes Hagrid’s place at the very end.
+
+Evidence: explicit; state: 1 September 1995 start-of-term feast and night.
+
+Model: Named seating is this feast’s arrangement; no compass orientation.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 236–237, ¶16 (B05-C011-P0016)](../../build/reader/book-05.html#B05-C011-P0016)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 237–238, ¶27 (B05-C011-P0027)](../../build/reader/book-05.html#B05-C011-P0027)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 238, ¶36 (B05-C011-P0036)](../../build/reader/book-05.html#B05-C011-P0036)
+
+## B05-018: Sorting layout in Great Hall
+
+First-years enter from the Entrance Hall and line up in front of the staff table facing the school. McGonagall sets a stool carrying the patched, darned, frayed Sorting Hat in front of them and removes both after Sorting.
+
+Evidence: explicit; state: 1 September 1995 start-of-term feast and night.
+
+Model: Ceremonial movable furniture rather than a permanent obstacle.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 238, ¶36 (B05-C011-P0036)](../../build/reader/book-05.html#B05-C011-P0036)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 238, ¶37 (B05-C011-P0037)](../../build/reader/book-05.html#B05-C011-P0037)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 239, ¶39 (B05-C011-P0039)](../../build/reader/book-05.html#B05-C011-P0039)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 242, ¶132 (B05-C011-P0132)](../../build/reader/book-05.html#B05-C011-P0132)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 242, ¶135 (B05-C011-P0135)](../../build/reader/book-05.html#B05-C011-P0135)
+
+## B05-019: Great Hall feast service
+
+Food appears on all five long tables, including joints, pies, vegetables, bread, sauces and pumpkin-juice flagons.
+
+Evidence: explicit; state: 1 September 1995 start-of-term feast and night.
+
+Model: Five includes the staff table; mechanism not explained here.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 243, ¶138 (B05-C011-P0138)](../../build/reader/book-05.html#B05-C011-P0138)
+
+## B05-020: Sorting Hat storage
+
+Nearly Headless Nick says the Sorting Hat lives in Dumbledore’s office.
+
+Evidence: reported; state: 1 September 1995 start-of-term feast and night.
+
+Model: Reported storage location; his idea that it overhears information is speculation.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 244, ¶145 (B05-C011-P0145)](../../build/reader/book-05.html#B05-C011-P0145)
+
+## B05-023: Great Hall house-table adjacency
+
+Gryffindor first-years approach their prefects through the gap between the Gryffindor and Hufflepuff tables.
+
+Evidence: explicit; state: 1 September 1995 start-of-term feast and night.
+
+Model: Establishes adjacency without supplying complete table order.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 251, ¶198 (B05-C011-P0198)](../../build/reader/book-05.html#B05-C011-P0198)
+
+## B05-024: Great Hall to Gryffindor route
+
+Harry leaves the Great Hall into the crowded Entrance Hall, climbs the marble staircase and takes two concealed shortcuts through upstairs corridors, reaching the end of the corridor to Gryffindor common room.
+
+Evidence: explicit; state: 1 September 1995 start-of-term feast and night.
+
+Model: Shortcuts are real but undescribed; do not invent their doors, length or landing floors.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 251, ¶199 (B05-C011-P0199)](../../build/reader/book-05.html#B05-C011-P0199)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 251–252, ¶200 (B05-C011-P0200)](../../build/reader/book-05.html#B05-C011-P0200)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 252, ¶201 (B05-C011-P0201)](../../build/reader/book-05.html#B05-C011-P0201)
+
+## B05-031: Great Hall breakfast weather and owl entry
+
+The enchanted ceiling is rain-cloud grey; pupils sit on benches. Hundreds of owls enter through upper windows to deliver post, scattering rainwater over breakfast tables.
+
+Evidence: explicit; state: First Monday of September term, 1995.
+
+Model: Upper windows are functioning owl entrances; seasonal wet state.
+
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 261, ¶36 (B05-C012-P0036)](../../build/reader/book-05.html#B05-C012-P0036)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 262, ¶49 (B05-C012-P0049)](../../build/reader/book-05.html#B05-C012-P0049)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 262, ¶50 (B05-C012-P0050)](../../build/reader/book-05.html#B05-C012-P0050)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 262, ¶52 (B05-C012-P0052)](../../build/reader/book-05.html#B05-C012-P0052)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 263, ¶58 (B05-C012-P0058)](../../build/reader/book-05.html#B05-C012-P0058)
+
+## B05-037: Great Hall storm and route upward
+
+After Potions Harry lunches in the Hall beneath a darker grey ceiling with rain lashing high windows; he then climbs the marble staircase.
+
+Evidence: explicit; state: First Monday of September term, 1995.
+
+Model: Repeat weather description and concrete travel segment.
+
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 274, ¶163 (B05-C012-P0163)](../../build/reader/book-05.html#B05-C012-P0163)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 275, ¶170 (B05-C012-P0170)](../../build/reader/book-05.html#B05-C012-P0170)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 275, ¶171 (B05-C012-P0171)](../../build/reader/book-05.html#B05-C012-P0171)
+
+## B05-170: Great Hall staff seating in January
+
+Umbridge eats at the far end of the staff table, looking along it toward Dumbledore and McGonagall; Sprout reads a newspaper propped against a ketchup bottle.
+
+Evidence: explicit; state: January–14 February 1996.
+
+Model: Date-specific staff seating rather than immutable assigned places.
+
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 647, ¶19 (B05-C025-P0019)](../../build/reader/book-05.html#B05-C025-P0019)
+
+## B05-219: Historical Great Hall examination layout
+
+In Snape’s O.W.L. memory the four House tables are absent, replaced by over a hundred small tables facing one direction, with aisles for invigilation. Sunlight enters through high windows.
+
+Evidence: explicit; state: Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified.
+
+Model: Narrated Pensieve observation of past layout, not present-day furniture.
+
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 762, ¶181 (B05-C028-P0181)](../../build/reader/book-05.html#B05-C028-P0181)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 762, ¶182 (B05-C028-P0182)](../../build/reader/book-05.html#B05-C028-P0182)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 762–763, ¶183 (B05-C028-P0183)](../../build/reader/book-05.html#B05-C028-P0183)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 763, ¶186 (B05-C028-P0186)](../../build/reader/book-05.html#B05-C028-P0186)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 763, ¶187 (B05-C028-P0187)](../../build/reader/book-05.html#B05-C028-P0187)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 764, ¶190 (B05-C028-P0190)](../../build/reader/book-05.html#B05-C028-P0190)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 764, ¶191 (B05-C028-P0191)](../../build/reader/book-05.html#B05-C028-P0191)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 765, ¶193 (B05-C028-P0193)](../../build/reader/book-05.html#B05-C028-P0193)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 765, ¶194 (B05-C028-P0194)](../../build/reader/book-05.html#B05-C028-P0194)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 765, ¶197 (B05-C028-P0197)](../../build/reader/book-05.html#B05-C028-P0197)
+
 ## B06-018: Great Hall table arrangement
 
 The Great Hall contains four long house tables with benches and a staff table at the top. Gryffindor’s table is furthest from the Entrance Hall; Harry passes the Hufflepuff table on his way there.
@@ -881,4 +1119,32 @@ Model: Explicit ceremonial approach from main entrance; no underground or altern
 - [Book 6, ch. 30, “The White Tomb”, ref p. 674, ¶47 (B06-C030-P0047)](../../build/reader/book-06.html#B06-C030-P0047)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 674–675, ¶48 (B06-C030-P0048)](../../build/reader/book-06.html#B06-C030-P0048)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 675–676, ¶50 (B06-C030-P0050)](../../build/reader/book-06.html#B06-C030-P0050)
+
+## B07-008: Gryffindor sword and Sorting Hat presentation
+
+Hermione recalls the sword coming to Harry out of the Sorting Hat. Scrimgeour says historical sources allow it to present itself to any worthy Gryffindor and refuses to transfer it under Dumbledore’s will. Harry recalls it hanging on the office wall during the previous year’s lessons.
+
+Evidence: reported; state: 31 July 1997.
+
+Model: Reported access behaviour and former display position, not proof of a current item’s authenticity or a visible sword-to-hat passage. No sword is produced at this meeting.
+
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 134, ¶194 (B07-C007-P0194)](../../build/reader/book-07.html#B07-C007-P0194)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 134, ¶195 (B07-C007-P0195)](../../build/reader/book-07.html#B07-C007-P0195)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 134, ¶196 (B07-C007-P0196)](../../build/reader/book-07.html#B07-C007-P0196)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 134, ¶197 (B07-C007-P0197)](../../build/reader/book-07.html#B07-C007-P0197)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 134, ¶198 (B07-C007-P0198)](../../build/reader/book-07.html#B07-C007-P0198)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 134, ¶199 (B07-C007-P0199)](../../build/reader/book-07.html#B07-C007-P0199)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 135, ¶200 (B07-C007-P0200)](../../build/reader/book-07.html#B07-C007-P0200)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 140, ¶249 (B07-C007-P0249)](../../build/reader/book-07.html#B07-C007-P0249)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 140, ¶250 (B07-C007-P0250)](../../build/reader/book-07.html#B07-C007-P0250)
+
+## B07-024: Great Hall / castle Christmas decorations
+
+Carols recall Hogwarts Christmases to Harry: twelve Christmas trees in the Great Hall and Peeves singing rude carols from inside suits of armour.
+
+Evidence: explicit; state: Christmas Eve 1997 recollection of earlier school Christmases.
+
+Model: Seasonal count and use of hollow armour; no assertion that the same decorations are present under Snape that year.
+
+- [Book 7, ch. 16, “Godric’s Hollow”, ref p. 342, ¶89 (B07-C016-P0089)](../../build/reader/book-07.html#B07-C016-P0089)
 

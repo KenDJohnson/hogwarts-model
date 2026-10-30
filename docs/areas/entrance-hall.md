@@ -174,6 +174,77 @@ Model: Reaffirms direct vertical route. Hermione’s unexplained stair reappeara
 - [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 129, ¶73 (B03-C007-P0073)](../../build/reader/book-03.html#B03-C007-P0073)
 - [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 129–130, ¶79 (B03-C007-P0079)](../../build/reader/book-03.html#B03-C007-P0079)
 
+## B03-113: Entrance Hall side chamber to cabin — sunset route
+
+After dinner the trio wait in an empty chamber off the Entrance Hall, then cross under the Cloak and descend the front stone steps. Sun sinks behind the Forest, gilding its upper branches, as they reach Hagrid’s cabin.
+
+Evidence: explicit; state: June 1994 exams and Buckbeak appeal.
+
+Model: Antechamber not positively identified with book 1 waiting room. Sunset direction constrains this viewpoint; no single-point Forest bearing assigned.
+
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 327, ¶120 (B03-C016-P0120)](../../build/reader/book-03.html#B03-C016-P0120)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 328, ¶124 (B03-C016-P0124)](../../build/reader/book-03.html#B03-C016-P0124)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 328, ¶125 (B03-C016-P0125)](../../build/reader/book-03.html#B03-C016-P0125)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 328, ¶126 (B03-C016-P0126)](../../build/reader/book-03.html#B03-C016-P0126)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 328, ¶127 (B03-C016-P0127)](../../build/reader/book-03.html#B03-C016-P0127)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 328, ¶128 (B03-C016-P0128)](../../build/reader/book-03.html#B03-C016-P0128)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 328, ¶129 (B03-C016-P0129)](../../build/reader/book-03.html#B03-C016-P0129)
+
+## B03-140: Hospital wing to Entrance Hall: time reversal
+
+Dumbledore leaves to lock the children into the ward at five minutes to midnight. Hermione turns the Time-Turner three times; the dark ward dissolves and they find themselves three hours earlier in the deserted Entrance Hall, with sunlight entering through the open front doors onto the paved floor.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: This scene changes both time and apparent position. It does not establish a physical passage or a general teleportation rule; Hermione explains that she has used the device for overlapping lessons.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 396, ¶82 (B03-C021-P0082)](../../build/reader/book-03.html#B03-C021-P0082)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 396, ¶84 (B03-C021-P0084)](../../build/reader/book-03.html#B03-C021-P0084)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 396, ¶85 (B03-C021-P0085)](../../build/reader/book-03.html#B03-C021-P0085)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 396, ¶86 (B03-C021-P0086)](../../build/reader/book-03.html#B03-C021-P0086)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 396, ¶88 (B03-C021-P0088)](../../build/reader/book-03.html#B03-C021-P0088)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 396, ¶90 (B03-C021-P0090)](../../build/reader/book-03.html#B03-C021-P0090)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 397, ¶93 (B03-C021-P0093)](../../build/reader/book-03.html#B03-C021-P0093)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 397, ¶94 (B03-C021-P0094)](../../build/reader/book-03.html#B03-C021-P0094)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 397, ¶95 (B03-C021-P0095)](../../build/reader/book-03.html#B03-C021-P0095)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 397, ¶96 (B03-C021-P0096)](../../build/reader/book-03.html#B03-C021-P0096)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 397, ¶100 (B03-C021-P0100)](../../build/reader/book-03.html#B03-C021-P0100)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 398, ¶112 (B03-C021-P0112)](../../build/reader/book-03.html#B03-C021-P0112)
+
+## B03-141: Entrance Hall: broom cupboard
+
+A broom cupboard opens directly from the Entrance Hall and contains buckets and mops, including an upturned bucket used as a seat. From inside the closed dark cupboard Hermione can hear people cross the hall and go down the front steps.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: No wall side, cupboard dimensions, or relation to the separate waiting chamber is specified.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 397, ¶98 (B03-C021-P0098)](../../build/reader/book-03.html#B03-C021-P0098)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 397, ¶103 (B03-C021-P0103)](../../build/reader/book-03.html#B03-C021-P0103)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 397, ¶104 (B03-C021-P0104)](../../build/reader/book-03.html#B03-C021-P0104)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 397–398, ¶105 (B03-C021-P0105)](../../build/reader/book-03.html#B03-C021-P0105)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 398, ¶107 (B03-C021-P0107)](../../build/reader/book-03.html#B03-C021-P0107)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 398, ¶109 (B03-C021-P0109)](../../build/reader/book-03.html#B03-C021-P0109)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 398, ¶110 (B03-C021-P0110)](../../build/reader/book-03.html#B03-C021-P0110)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 399, ¶123 (B03-C021-P0123)](../../build/reader/book-03.html#B03-C021-P0123)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 399, ¶124 (B03-C021-P0124)](../../build/reader/book-03.html#B03-C021-P0124)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 399, ¶125 (B03-C021-P0125)](../../build/reader/book-03.html#B03-C021-P0125)
+
+## B03-142: Entrance Hall to Forest via gardens, greenhouses and Willow
+
+The pair leave the hall down the stone steps, with long shadows and gilded Forest treetops. To avoid sight from Hagrid’s front door they cross vegetable gardens to the greenhouses, pause behind them, then skirt the Willow and reach the shelter of Forest trees.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: This is an observed alternative approach to Hagrid, chosen for concealment; do not replace the direct lawn route with it or infer exact garden boundaries.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 399, ¶125 (B03-C021-P0125)](../../build/reader/book-03.html#B03-C021-P0125)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 399, ¶126 (B03-C021-P0126)](../../build/reader/book-03.html#B03-C021-P0126)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 399–400, ¶127 (B03-C021-P0127)](../../build/reader/book-03.html#B03-C021-P0127)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶128 (B03-C021-P0128)](../../build/reader/book-03.html#B03-C021-P0128)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶129 (B03-C021-P0129)](../../build/reader/book-03.html#B03-C021-P0129)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶130 (B03-C021-P0130)](../../build/reader/book-03.html#B03-C021-P0130)
+
 ## B04-006: Entrance Hall
 
 The Entrance Hall is cavernous and torch-lit and contains a magnificent marble staircase. Peeves hovers twenty feet above arriving pupils; water balloons leave the floor wet and slippery.
@@ -302,6 +373,105 @@ Model: Preserve the upper route and local classroom proximity; the office’s ex
 - [Book 4, ch. 20, “The First Task”, ref p. 358, ¶39 (B04-C020-P0039)](../../build/reader/book-04.html#B04-C020-P0039)
 - [Book 4, ch. 20, “The First Task”, ref p. 358, ¶41 (B04-C020-P0041)](../../build/reader/book-04.html#B04-C020-P0041)
 - [Book 4, ch. 20, “The First Task”, ref p. 358, ¶43 (B04-C020-P0043)](../../build/reader/book-04.html#B04-C020-P0043)
+
+## B05-015: Front steps and Entrance Hall
+
+Coaches stop near stone steps leading to the oak front doors. Inside, torches illuminate a flagged stone floor; double doors on the right lead to the Great Hall.
+
+Evidence: explicit; state: 1 September 1995 start-of-term feast and night.
+
+Model: Right is relative to entering from the front doors.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 235, ¶10 (B05-C011-P0010)](../../build/reader/book-05.html#B05-C011-P0010)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 236, ¶13 (B05-C011-P0013)](../../build/reader/book-05.html#B05-C011-P0013)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 236, ¶14 (B05-C011-P0014)](../../build/reader/book-05.html#B05-C011-P0014)
+
+## B05-072: Potions to Entrance Hall
+
+After using the blackboard and submitting potion flasks at Snape’s desk, pupils climb steps out of the dungeon and cross the Entrance Hall toward lunch.
+
+Evidence: explicit; state: Second week of September term, 1995.
+
+Model: Explicit upward connection from dungeon circulation to Entrance Hall.
+
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 364–365, ¶34 (B05-C015-P0034)](../../build/reader/book-05.html#B05-C015-P0034)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 365, ¶35 (B05-C015-P0035)](../../build/reader/book-05.html#B05-C015-P0035)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 365, ¶39 (B05-C015-P0039)](../../build/reader/book-05.html#B05-C015-P0039)
+
+## B05-163: Entrance Hall to library approach
+
+Hermione takes Ron from the Entrance Hall toward the marble staircase to go to the library; Cho ascends the same stair and Harry catches her halfway up before going to the library himself.
+
+Evidence: explicit; state: January 1996 return and first Occlumency lesson.
+
+Model: Library lies along this upward route, with no stated floor or direct stair landing entrance.
+
+- [Book 5, ch. 24, “Occlumency”, ref p. 626, ¶113 (B05-C024-P0113)](../../build/reader/book-05.html#B05-C024-P0113)
+- [Book 5, ch. 24, “Occlumency”, ref p. 626, ¶117 (B05-C024-P0117)](../../build/reader/book-05.html#B05-C024-P0117)
+- [Book 5, ch. 24, “Occlumency”, ref p. 626, ¶119 (B05-C024-P0119)](../../build/reader/book-05.html#B05-C024-P0119)
+- [Book 5, ch. 24, “Occlumency”, ref p. 627, ¶130 (B05-C024-P0130)](../../build/reader/book-05.html#B05-C024-P0130)
+- [Book 5, ch. 24, “Occlumency”, ref p. 627, ¶132 (B05-C024-P0132)](../../build/reader/book-05.html#B05-C024-P0132)
+- [Book 5, ch. 24, “Occlumency”, ref p. 627, ¶133 (B05-C024-P0133)](../../build/reader/book-05.html#B05-C024-P0133)
+- [Book 5, ch. 24, “Occlumency”, ref p. 627, ¶135 (B05-C024-P0135)](../../build/reader/book-05.html#B05-C024-P0135)
+
+## B05-186: Snape office to Entrance Hall
+
+A scream reaches Snape’s office from above. Harry follows him toward the stone steps up from the dungeons and emerges into the Entrance Hall, crowded with pupils from dinner in the Great Hall and on the marble staircase.
+
+Evidence: explicit; state: February–early March 1996, Quibbler publication and Trelawney dismissal.
+
+Model: Confirms office below Entrance Hall acoustically and by travel; floor count unspecified.
+
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 706, ¶235 (B05-C026-P0235)](../../build/reader/book-05.html#B05-C026-P0235)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 706, ¶236 (B05-C026-P0236)](../../build/reader/book-05.html#B05-C026-P0236)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 706–707, ¶238 (B05-C026-P0238)](../../build/reader/book-05.html#B05-C026-P0238)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 707, ¶239 (B05-C026-P0239)](../../build/reader/book-05.html#B05-C026-P0239)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 707, ¶240 (B05-C026-P0240)](../../build/reader/book-05.html#B05-C026-P0240)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 707, ¶241 (B05-C026-P0241)](../../build/reader/book-05.html#B05-C026-P0241)
+
+## B05-208: Entrance Hall House hourglasses
+
+Giant House-point hourglasses occupy wall niches in an Entrance Hall corner. Gems rise from the lower bulbs as points are deducted; Slytherin’s contains emeralds. The marble staircase reaches the same hall.
+
+Evidence: explicit; state: Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified.
+
+Model: Specific gem only given for Slytherin here; Gryffindor is later nearly empty.
+
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 743, ¶7 (B05-C028-P0007)](../../build/reader/book-05.html#B05-C028-P0007)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 743, ¶9 (B05-C028-P0009)](../../build/reader/book-05.html#B05-C028-P0009)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 744–745, ¶19 (B05-C028-P0019)](../../build/reader/book-05.html#B05-C028-P0019)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 745, ¶21 (B05-C028-P0021)](../../build/reader/book-05.html#B05-C028-P0021)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 745, ¶22 (B05-C028-P0022)](../../build/reader/book-05.html#B05-C028-P0022)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 757, ¶134 (B05-C028-P0134)](../../build/reader/book-05.html#B05-C028-P0134)
+
+## B05-210: Entrance Hall to Umbridge office
+
+Filch takes Harry from the Entrance Hall up the marble staircase past its first landing to Umbridge’s office.
+
+Evidence: explicit; state: Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified.
+
+Model: Third-floor location established elsewhere; this journey omits intervening details.
+
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 746–747, ¶49 (B05-C028-P0049)](../../build/reader/book-05.html#B05-C028-P0049)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 747, ¶50 (B05-C028-P0050)](../../build/reader/book-05.html#B05-C028-P0050)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 747, ¶52 (B05-C028-P0052)](../../build/reader/book-05.html#B05-C028-P0052)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 747–748, ¶54 (B05-C028-P0054)](../../build/reader/book-05.html#B05-C028-P0054)
+
+## B05-234: Broom retrieval and Entrance Hall escape
+
+Summoned brooms rip free with a distant crash and fly along a corridor to Harry’s left, turn left down the stairs and stop by the twins; one trails its heavy chain and iron peg over the flagged floor. They rise fifteen feet in the Hall and fly through open front doors into sunset.
+
+Evidence: explicit; state: Easter and start of summer term, April 1996.
+
+Model: Demonstrates vertical clearance and chained peg removal; Harry’s own broom is not retrieved in this scene.
+
+- [Book 5, ch. 29, “Careers Advice”, ref p. 803, ¶261 (B05-C029-P0261)](../../build/reader/book-05.html#B05-C029-P0261)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 803–804, ¶262 (B05-C029-P0262)](../../build/reader/book-05.html#B05-C029-P0262)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 804, ¶263 (B05-C029-P0263)](../../build/reader/book-05.html#B05-C029-P0263)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 804, ¶264 (B05-C029-P0264)](../../build/reader/book-05.html#B05-C029-P0264)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 804, ¶268 (B05-C029-P0268)](../../build/reader/book-05.html#B05-C029-P0268)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 804, ¶269 (B05-C029-P0269)](../../build/reader/book-05.html#B05-C029-P0269)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 804–805, ¶270 (B05-C029-P0270)](../../build/reader/book-05.html#B05-C029-P0270)
 
 ## B06-017: Front entrance and Entrance Hall
 

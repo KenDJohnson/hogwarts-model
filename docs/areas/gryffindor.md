@@ -369,6 +369,263 @@ Model: Direct common-room-to-hut window sightline; no compass bearing or distanc
 - [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 123, ¶256 (B03-C006-P0256)](../../build/reader/book-03.html#B03-C006-P0256)
 - [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 123, ¶257 (B03-C006-P0257)](../../build/reader/book-03.html#B03-C006-P0257)
 
+## B03-033: Gryffindor common room — noticeboard and chest of drawers
+
+A battered noticeboard announces the Hogsmeade weekend. Fire-side chairs are preferred study seats; an old chest of drawers across the room has a low gap where Scabbers hides after crossing tables and pupils’ legs.
+
+Evidence: explicit; state: October 1993.
+
+Model: Adds storage furniture distinct from bedroom cabinets; no numeric chest clearance.
+
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 144, ¶26 (B03-C008-P0026)](../../build/reader/book-03.html#B03-C008-P0026)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 144, ¶27 (B03-C008-P0027)](../../build/reader/book-03.html#B03-C008-P0027)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 144, ¶28 (B03-C008-P0028)](../../build/reader/book-03.html#B03-C008-P0028)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 144, ¶30 (B03-C008-P0030)](../../build/reader/book-03.html#B03-C008-P0030)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 145, ¶40 (B03-C008-P0040)](../../build/reader/book-03.html#B03-C008-P0040)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 145, ¶41 (B03-C008-P0041)](../../build/reader/book-03.html#B03-C008-P0041)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 145, ¶44 (B03-C008-P0044)](../../build/reader/book-03.html#B03-C008-P0044)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 145–146, ¶46 (B03-C008-P0046)](../../build/reader/book-03.html#B03-C008-P0046)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 146, ¶47 (B03-C008-P0047)](../../build/reader/book-03.html#B03-C008-P0047)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 146, ¶48 (B03-C008-P0048)](../../build/reader/book-03.html#B03-C008-P0048)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 146, ¶49 (B03-C008-P0049)](../../build/reader/book-03.html#B03-C008-P0049)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 146, ¶55 (B03-C008-P0055)](../../build/reader/book-03.html#B03-C008-P0055)
+
+## B03-040: Gryffindor portrait — slashed canvas and missing guardian
+
+The approach corridor is blocked by returning pupils because the Fat Lady’s portrait is closed and its occupant absent. Deep slashes and missing chunks leave canvas strips on the floor.
+
+Evidence: explicit; state: October 1993.
+
+Model: Observed entrance damage, without assuming a destroyed masonry opening.
+
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 159, ¶204 (B03-C008-P0204)](../../build/reader/book-03.html#B03-C008-P0204)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 159, ¶205 (B03-C008-P0205)](../../build/reader/book-03.html#B03-C008-P0205)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 159, ¶206 (B03-C008-P0206)](../../build/reader/book-03.html#B03-C008-P0206)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 159, ¶207 (B03-C008-P0207)](../../build/reader/book-03.html#B03-C008-P0207)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 159, ¶208 (B03-C008-P0208)](../../build/reader/book-03.html#B03-C008-P0208)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 159, ¶211 (B03-C008-P0211)](../../build/reader/book-03.html#B03-C008-P0211)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 159, ¶212 (B03-C008-P0212)](../../build/reader/book-03.html#B03-C008-P0212)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 159, ¶213 (B03-C008-P0213)](../../build/reader/book-03.html#B03-C008-P0213)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 159–160, ¶214 (B03-C008-P0214)](../../build/reader/book-03.html#B03-C008-P0214)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 160, ¶215 (B03-C008-P0215)](../../build/reader/book-03.html#B03-C008-P0215)
+
+## B03-041: Fat Lady’s flight and intruder report
+
+Peeves says he saw the Fat Lady weeping through a fourth-floor landscape painting among trees, and reports that Sirius Black attacked after she refused him entry.
+
+Evidence: reported; state: 31 October 1993.
+
+Model: Report of attack and portrait-travel refuge; fourth-floor trees are painted, not castle vegetation.
+
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 160, ¶215 (B03-C008-P0215)](../../build/reader/book-03.html#B03-C008-P0215)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 160, ¶216 (B03-C008-P0216)](../../build/reader/book-03.html#B03-C008-P0216)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 160, ¶219 (B03-C008-P0219)](../../build/reader/book-03.html#B03-C008-P0219)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 160, ¶220 (B03-C008-P0220)](../../build/reader/book-03.html#B03-C008-P0220)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 160, ¶221 (B03-C008-P0221)](../../build/reader/book-03.html#B03-C008-P0221)
+
+## B03-045: Fat Lady — map refuge and intended restoration
+
+Dumbledore reports finding her in a second-floor map of Argyllshire, distressed after refusing Black entry without the password. He plans for Filch to restore the torn painting after she calms.
+
+Evidence: reported; state: Night after portrait attack.
+
+Model: Different later refuge from Peeves’s fourth-floor landscape sighting; restoration is prospective here.
+
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 163, ¶27 (B03-C009-P0027)](../../build/reader/book-03.html#B03-C009-P0027)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 163, ¶28 (B03-C009-P0028)](../../build/reader/book-03.html#B03-C009-P0028)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 163, ¶29 (B03-C009-P0029)](../../build/reader/book-03.html#B03-C009-P0029)
+
+## B03-047: Gryffindor entrance — Sir Cadogan replacement
+
+The slashed Fat Lady canvas is removed and replaced by Sir Cadogan and his grey pony. He controls entry with complicated passwords changed at least twice daily; Percy says other portraits refused the job.
+
+Evidence: explicit; state: After Hallowe’en 1993.
+
+Model: Observed replacement and access churn; no claim that the portrait hole itself moved.
+
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 165, ¶50 (B03-C009-P0050)](../../build/reader/book-03.html#B03-C009-P0050)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 165, ¶51 (B03-C009-P0051)](../../build/reader/book-03.html#B03-C009-P0051)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 165, ¶52 (B03-C009-P0052)](../../build/reader/book-03.html#B03-C009-P0052)
+
+## B03-070: Gryffindor common room — end-of-term use
+
+The twins release six Dungbombs in the crowded common room; once most pupils leave, Hermione spreads work over three tables while friends sit beside the fire and snow continues outside.
+
+Evidence: explicit; state: December 1993 holidays.
+
+Model: Dated crowding/smell and furniture use, not an alteration to room plan.
+
+- [Book 3, ch. 11, “The Firebolt”, ref p. 211–212, ¶3 (B03-C011-P0003)](../../build/reader/book-03.html#B03-C011-P0003)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 213, ¶14 (B03-C011-P0014)](../../build/reader/book-03.html#B03-C011-P0014)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 213, ¶16 (B03-C011-P0016)](../../build/reader/book-03.html#B03-C011-P0016)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 213, ¶17 (B03-C011-P0017)](../../build/reader/book-03.html#B03-C011-P0017)
+- [Book 3, ch. 11, “The Firebolt”, ref p. 221–222, ¶104 (B03-C011-P0104)](../../build/reader/book-03.html#B03-C011-P0104)
+
+## B03-081: Gryffindor entrance — lost password list
+
+Neville is refused entry after losing the written week’s passwords that Cadogan supplied him. Harry gives Oddsbodikins and the portrait admits the group.
+
+Evidence: explicit; state: January–February 1994.
+
+Model: Access depends on password knowledge; the list is a security weakness, not proof of a permanently programmed door.
+
+- [Book 3, ch. 12, “The Patronus”, ref p. 250, ¶159 (B03-C012-P0159)](../../build/reader/book-03.html#B03-C012-P0159)
+- [Book 3, ch. 12, “The Patronus”, ref p. 250, ¶160 (B03-C012-P0160)](../../build/reader/book-03.html#B03-C012-P0160)
+- [Book 3, ch. 12, “The Patronus”, ref p. 250, ¶161 (B03-C012-P0161)](../../build/reader/book-03.html#B03-C012-P0161)
+- [Book 3, ch. 12, “The Patronus”, ref p. 251, ¶163 (B03-C012-P0163)](../../build/reader/book-03.html#B03-C012-P0163)
+- [Book 3, ch. 12, “The Patronus”, ref p. 251, ¶164 (B03-C012-P0164)](../../build/reader/book-03.html#B03-C012-P0164)
+
+## B03-085: Gryffindor common room — victory party and stair division
+
+Celebrations run all day until one in the morning, with tables used for bottle juggling and supplies obtained from Hogsmeade. Hermione runs up the girls’ stair; boys ascend their own. Later the room is deserted, littered with party debris and lit only by dying hearth glow.
+
+Evidence: explicit; state: February 1994.
+
+Model: Distinct stair routes reaffirmed; supplies’ exact tunnel method implied by the map reference rather than witnessed.
+
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 265, ¶100 (B03-C013-P0100)](../../build/reader/book-03.html#B03-C013-P0100)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 266, ¶103 (B03-C013-P0103)](../../build/reader/book-03.html#B03-C013-P0103)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 266, ¶104 (B03-C013-P0104)](../../build/reader/book-03.html#B03-C013-P0104)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 266, ¶105 (B03-C013-P0105)](../../build/reader/book-03.html#B03-C013-P0105)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 266, ¶106 (B03-C013-P0106)](../../build/reader/book-03.html#B03-C013-P0106)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 267, ¶112 (B03-C013-P0112)](../../build/reader/book-03.html#B03-C013-P0112)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 267, ¶115 (B03-C013-P0115)](../../build/reader/book-03.html#B03-C013-P0115)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 268, ¶127 (B03-C013-P0127)](../../build/reader/book-03.html#B03-C013-P0127)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 268, ¶130 (B03-C013-P0130)](../../build/reader/book-03.html#B03-C013-P0130)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 269, ¶135 (B03-C013-P0135)](../../build/reader/book-03.html#B03-C013-P0135)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 269, ¶136 (B03-C013-P0136)](../../build/reader/book-03.html#B03-C013-P0136)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 269, ¶137 (B03-C013-P0137)](../../build/reader/book-03.html#B03-C013-P0137)
+
+## B03-086: Boys’ dormitory — torn curtains and lamp
+
+Dean lights a lamp after a scream. One side of Ron’s bed hangings is torn away; Ron says Black stood over him with a knife and slashed them. The boys rush down their stair and other dormitory doors open behind them.
+
+Evidence: explicit; state: February 1994.
+
+Model: Damage observed, intruder actions reported by Ron; do not equate Harry’s preceding dream forest with surveyed Hogwarts terrain.
+
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 268, ¶118 (B03-C013-P0118)](../../build/reader/book-03.html#B03-C013-P0118)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 268, ¶120 (B03-C013-P0120)](../../build/reader/book-03.html#B03-C013-P0120)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 268, ¶121 (B03-C013-P0121)](../../build/reader/book-03.html#B03-C013-P0121)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 268, ¶122 (B03-C013-P0122)](../../build/reader/book-03.html#B03-C013-P0122)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 268, ¶124 (B03-C013-P0124)](../../build/reader/book-03.html#B03-C013-P0124)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 268, ¶125 (B03-C013-P0125)](../../build/reader/book-03.html#B03-C013-P0125)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 268, ¶126 (B03-C013-P0126)](../../build/reader/book-03.html#B03-C013-P0126)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 268, ¶127 (B03-C013-P0127)](../../build/reader/book-03.html#B03-C013-P0127)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 268, ¶128 (B03-C013-P0128)](../../build/reader/book-03.html#B03-C013-P0128)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 268, ¶129 (B03-C013-P0129)](../../build/reader/book-03.html#B03-C013-P0129)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 268, ¶130 (B03-C013-P0130)](../../build/reader/book-03.html#B03-C013-P0130)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 269, ¶135 (B03-C013-P0135)](../../build/reader/book-03.html#B03-C013-P0135)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 269, ¶138 (B03-C013-P0138)](../../build/reader/book-03.html#B03-C013-P0138)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 269, ¶146 (B03-C013-P0146)](../../build/reader/book-03.html#B03-C013-P0146)
+
+## B03-087: Gryffindor portrait — password-list breach
+
+Sir Cadogan confirms letting the intruder through because he read the week’s passwords from paper. McGonagall questions him by opening the portrait from inside and stepping into the corridor, then returns through the hole.
+
+Evidence: explicit; state: February 1994.
+
+Model: Demonstrates knowledge-based access without identity authentication and operable outward portrait; keep separate from physical entry force.
+
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 269, ¶143 (B03-C013-P0143)](../../build/reader/book-03.html#B03-C013-P0143)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 269, ¶148 (B03-C013-P0148)](../../build/reader/book-03.html#B03-C013-P0148)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 269, ¶149 (B03-C013-P0149)](../../build/reader/book-03.html#B03-C013-P0149)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 269–270, ¶150 (B03-C013-P0150)](../../build/reader/book-03.html#B03-C013-P0150)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 270, ¶151 (B03-C013-P0151)](../../build/reader/book-03.html#B03-C013-P0151)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 270, ¶152 (B03-C013-P0152)](../../build/reader/book-03.html#B03-C013-P0152)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 270, ¶154 (B03-C013-P0154)](../../build/reader/book-03.html#B03-C013-P0154)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 270, ¶155 (B03-C013-P0155)](../../build/reader/book-03.html#B03-C013-P0155)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 270, ¶156 (B03-C013-P0156)](../../build/reader/book-03.html#B03-C013-P0156)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 270, ¶157 (B03-C013-P0157)](../../build/reader/book-03.html#B03-C013-P0157)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 270, ¶158 (B03-C013-P0158)](../../build/reader/book-03.html#B03-C013-P0158)
+
+## B03-089: Gryffindor entrance — restored Fat Lady and trolls
+
+Sir Cadogan returns to a seventh-floor landing; the restored Fat Lady resumes guarding her hole with hired security trolls pacing the corridor carrying clubs. Neville must wait for someone else to admit him because others are forbidden to share the password.
+
+Evidence: explicit; state: After the February 1994 dormitory intrusion.
+
+Model: Restoration and guard deployment observed. Cadogan’s landing is seventh-floor, not necessarily a new entrance location.
+
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 270–271, ¶2 (B03-C014-P0002)](../../build/reader/book-03.html#B03-C014-P0002)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 272–273, ¶12 (B03-C014-P0012)](../../build/reader/book-03.html#B03-C014-P0012)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 274, ¶24 (B03-C014-P0024)](../../build/reader/book-03.html#B03-C014-P0024)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 276, ¶48 (B03-C014-P0048)](../../build/reader/book-03.html#B03-C014-P0048)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 277, ¶56 (B03-C014-P0056)](../../build/reader/book-03.html#B03-C014-P0056)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 279, ¶80 (B03-C014-P0080)](../../build/reader/book-03.html#B03-C014-P0080)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 292, ¶226 (B03-C014-P0226)](../../build/reader/book-03.html#B03-C014-P0226)
+
+## B03-098: Snape’s office return to Gryffindor
+
+Lupin leads the boys back to the Entrance Hall. They climb the marble stair, pass the one-eyed witch on the way and reach the corridor patrolled by security trolls.
+
+Evidence: explicit; state: After the February 1994 dormitory intrusion.
+
+Model: Abridged upward sequence, no inferred uninterrupted single flight from Hall to seventh-floor Tower.
+
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 291, ¶214 (B03-C014-P0214)](../../build/reader/book-03.html#B03-C014-P0214)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 291, ¶215 (B03-C014-P0215)](../../build/reader/book-03.html#B03-C014-P0215)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 291, ¶217 (B03-C014-P0217)](../../build/reader/book-03.html#B03-C014-P0217)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 292, ¶224 (B03-C014-P0224)](../../build/reader/book-03.html#B03-C014-P0224)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 292, ¶226 (B03-C014-P0226)](../../build/reader/book-03.html#B03-C014-P0226)
+
+## B03-101: Gryffindor portrait — spring password
+
+Security trolls still guard the approach. The password Flibbertigibbet admits pupils through the Fat Lady portrait.
+
+Evidence: explicit; state: Easter 1994 and Quidditch final.
+
+Model: Dated access state; do not apply the password to other years.
+
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 296, ¶45 (B03-C015-P0045)](../../build/reader/book-03.html#B03-C015-P0045)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 296, ¶46 (B03-C015-P0046)](../../build/reader/book-03.html#B03-C015-P0046)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 296, ¶47 (B03-C015-P0047)](../../build/reader/book-03.html#B03-C015-P0047)
+
+## B03-103: Gryffindor common room — tactical model
+
+Before the final Wood crouches over a model Quidditch pitch in a corner, moving tiny player figures with his wand. Harry keeps the Firebolt locked in his bedroom trunk between uses.
+
+Evidence: explicit; state: Easter 1994 and Quidditch final.
+
+Model: Portable model and lockable personal storage; model dimensions are unspecified.
+
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 303, ¶102 (B03-C015-P0102)](../../build/reader/book-03.html#B03-C015-P0102)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 303, ¶104 (B03-C015-P0104)](../../build/reader/book-03.html#B03-C015-P0104)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 303–304, ¶106 (B03-C015-P0106)](../../build/reader/book-03.html#B03-C015-P0106)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 304, ¶110 (B03-C015-P0110)](../../build/reader/book-03.html#B03-C015-P0110)
+
+## B03-104: Boys’ dormitory — water jug and grounds view
+
+A silver water jug and goblet stand beneath the window. From there Harry sees still Forest treetops, the motionless Willow, a silvery lawn and Crookshanks with a huge black dog at the Forest edge; he can climb on the sill and look down into castle shadows.
+
+Evidence: explicit; state: Easter 1994 and Quidditch final.
+
+Model: Direct window-to-Willow/Forest/lawn sightlines, without precise bearings. Dragon-riding match is explicitly only a dream.
+
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 304, ¶112 (B03-C015-P0112)](../../build/reader/book-03.html#B03-C015-P0112)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 304, ¶113 (B03-C015-P0113)](../../build/reader/book-03.html#B03-C015-P0113)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 304–305, ¶114 (B03-C015-P0114)](../../build/reader/book-03.html#B03-C015-P0114)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 305, ¶115 (B03-C015-P0115)](../../build/reader/book-03.html#B03-C015-P0115)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 305, ¶116 (B03-C015-P0116)](../../build/reader/book-03.html#B03-C015-P0116)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 305, ¶117 (B03-C015-P0117)](../../build/reader/book-03.html#B03-C015-P0117)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 305, ¶118 (B03-C015-P0118)](../../build/reader/book-03.html#B03-C015-P0118)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 305, ¶119 (B03-C015-P0119)](../../build/reader/book-03.html#B03-C015-P0119)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 305, ¶120 (B03-C015-P0120)](../../build/reader/book-03.html#B03-C015-P0120)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 305, ¶123 (B03-C015-P0123)](../../build/reader/book-03.html#B03-C015-P0123)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 305, ¶125 (B03-C015-P0125)](../../build/reader/book-03.html#B03-C015-P0125)
+- [Book 3, ch. 15, “The Quidditch Final”, ref p. 305–306, ¶126 (B03-C015-P0126)](../../build/reader/book-03.html#B03-C015-P0126)
+
+## B03-130: Gryffindor boys’ dormitory: bedside table and password theft
+
+Sirius reports that Crookshanks stole the Gryffindor Tower passwords for him from a boy’s bedside table.
+
+Evidence: reported; state: Third year, preceding the dormitory intrusion.
+
+Model: Explains access with passwords rather than a physical bypass of the portrait; bedside table is reported furniture.
+
+- [Book 3, ch. 19, “The Servant of Lord Voldemort”, ref p. 365–366, ¶58 (B03-C019-P0058)](../../build/reader/book-03.html#B03-C019-P0058)
+- [Book 3, ch. 19, “The Servant of Lord Voldemort”, ref p. 366, ¶60 (B03-C019-P0060)](../../build/reader/book-03.html#B03-C019-P0060)
+
 ## B04-019: Route to Gryffindor Tower: concealed staircase
 
 On the route from the Entrance Hall towards Gryffindor Tower the group passes through a door hidden behind a tapestry and climbs a narrower staircase. A step halfway up lets Neville’s foot sink through; a suit of armour at the top laughs, and Ron closes its visor.
@@ -585,6 +842,223 @@ Model: Reported earlier use of the same guardian; no exact year is given.
 - [Book 4, ch. 31, “The Third Task”, ref p. 651, ¶92 (B04-C031-P0092)](../../build/reader/book-04.html#B04-C031-P0092)
 - [Book 4, ch. 31, “The Third Task”, ref p. 651, ¶93 (B04-C031-P0093)](../../build/reader/book-04.html#B04-C031-P0093)
 - [Book 4, ch. 31, “The Third Task”, ref p. 651, ¶94 (B04-C031-P0094)](../../build/reader/book-04.html#B04-C031-P0094)
+
+## B05-024: Great Hall to Gryffindor route
+
+Harry leaves the Great Hall into the crowded Entrance Hall, climbs the marble staircase and takes two concealed shortcuts through upstairs corridors, reaching the end of the corridor to Gryffindor common room.
+
+Evidence: explicit; state: 1 September 1995 start-of-term feast and night.
+
+Model: Shortcuts are real but undescribed; do not invent their doors, length or landing floors.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 251, ¶199 (B05-C011-P0199)](../../build/reader/book-05.html#B05-C011-P0199)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 251–252, ¶200 (B05-C011-P0200)](../../build/reader/book-05.html#B05-C011-P0200)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 252, ¶201 (B05-C011-P0201)](../../build/reader/book-05.html#B05-C011-P0201)
+
+## B05-025: Fat Lady entrance
+
+At the corridor end, the Fat Lady in a pink satin dress refuses entry without a password. Mimbulus mimbletonia causes her portrait to swing outward like a door, exposing a circular wall opening through which pupils climb.
+
+Evidence: explicit; state: 1 September 1995 start-of-term feast and night.
+
+Model: Date the password; circular opening and swinging portrait are distinct components.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 252, ¶201 (B05-C011-P0201)](../../build/reader/book-05.html#B05-C011-P0201)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 252, ¶202 (B05-C011-P0202)](../../build/reader/book-05.html#B05-C011-P0202)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 252, ¶203 (B05-C011-P0203)](../../build/reader/book-05.html#B05-C011-P0203)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 252, ¶204 (B05-C011-P0204)](../../build/reader/book-05.html#B05-C011-P0204)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 252, ¶205 (B05-C011-P0205)](../../build/reader/book-05.html#B05-C011-P0205)
+
+## B05-026: Gryffindor common room
+
+The cosy circular tower room contains dilapidated squashy armchairs, rickety tables and a crackling fire in a grate. Across the room the twins pin material to a noticeboard; a door leads toward the boys’ dormitories.
+
+Evidence: explicit; state: 1 September 1995 start-of-term feast and night.
+
+Model: Dormitories are above the common room according to pupils going up; no precise spiral route is supplied here.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 252–253, ¶206 (B05-C011-P0206)](../../build/reader/book-05.html#B05-C011-P0206)
+
+## B05-027: Fifth-year boys’ dormitory fittings
+
+Dean and Seamus decorate walls beside their beds with posters and photographs, including a Kenmare Kestrels team poster. Neville places his Mimbulus mimbletonia on his bedside cabinet; Harry has a trunk and bedside table. Ron’s bed is next to Harry’s.
+
+Evidence: explicit; state: 1 September 1995 start-of-term feast and night.
+
+Model: Personal decorations and plant belong to the 1995–96 occupancy.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 253, ¶207 (B05-C011-P0207)](../../build/reader/book-05.html#B05-C011-P0207)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 253, ¶208 (B05-C011-P0208)](../../build/reader/book-05.html#B05-C011-P0208)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 253, ¶212 (B05-C011-P0212)](../../build/reader/book-05.html#B05-C011-P0212)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 253, ¶213 (B05-C011-P0213)](../../build/reader/book-05.html#B05-C011-P0213)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 254, ¶216 (B05-C011-P0216)](../../build/reader/book-05.html#B05-C011-P0216)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 254, ¶226 (B05-C011-P0226)](../../build/reader/book-05.html#B05-C011-P0226)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 257, ¶253 (B05-C011-P0253)](../../build/reader/book-05.html#B05-C011-P0253)
+
+## B05-029: Gryffindor noticeboard
+
+A recruitment notice for the twins’ paid experiments covers a poster announcing October’s first Hogsmeade weekend; Hermione removes the top notice.
+
+Evidence: explicit; state: First Monday of September term, 1995.
+
+Model: Layered removable notices on the common-room board.
+
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 258–259, ¶7 (B05-C012-P0007)](../../build/reader/book-05.html#B05-C012-P0007)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 259, ¶8 (B05-C012-P0008)](../../build/reader/book-05.html#B05-C012-P0008)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 259, ¶9 (B05-C012-P0009)](../../build/reader/book-05.html#B05-C012-P0009)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 259, ¶10 (B05-C012-P0010)](../../build/reader/book-05.html#B05-C012-P0010)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 259, ¶11 (B05-C012-P0011)](../../build/reader/book-05.html#B05-C012-P0011)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 259, ¶12 (B05-C012-P0012)](../../build/reader/book-05.html#B05-C012-P0012)
+
+## B05-030: Gryffindor to breakfast route
+
+After climbing out of the portrait hole, the friends descend a staircase lined with talking portraits of old witches and wizards, then reach the foot of the marble staircase in the Entrance Hall and enter the Great Hall.
+
+Evidence: explicit; state: First Monday of September term, 1995.
+
+Model: Sequence does not establish that the portrait-lined flight is the marble stair itself.
+
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 259, ¶15 (B05-C012-P0015)](../../build/reader/book-05.html#B05-C012-P0015)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 259, ¶17 (B05-C012-P0017)](../../build/reader/book-05.html#B05-C012-P0017)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 260–261, ¶34 (B05-C012-P0034)](../../build/reader/book-05.html#B05-C012-P0034)
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 261, ¶36 (B05-C012-P0036)](../../build/reader/book-05.html#B05-C012-P0036)
+
+## B05-047: Gryffindor fireside furnishings
+
+The friends occupy three favourite armchairs by the fire; Hermione’s chair has holes leaking stuffing. Bags are stored in a corner, and a small table stands by the fireplace.
+
+Evidence: explicit; state: First school week, September 1995.
+
+Model: Worn upholstered furniture, not immaculate replacements.
+
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 293–294, ¶16 (B05-C013-P0016)](../../build/reader/book-05.html#B05-C013-P0016)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 294, ¶17 (B05-C013-P0017)](../../build/reader/book-05.html#B05-C013-P0017)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 294, ¶23 (B05-C013-P0023)](../../build/reader/book-05.html#B05-C013-P0023)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 297–298, ¶60 (B05-C013-P0060)](../../build/reader/book-05.html#B05-C013-P0060)
+
+## B05-048: Gryffindor dormitory approaches
+
+A door leads to the girls’ dormitories. Harry passes the boys’ dormitory door to a stone spiral staircase; later he climbs up from late common-room study to bed.
+
+Evidence: explicit; state: First school week, September 1995.
+
+Model: Doors and separate approaches confirmed; no new floor count.
+
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 298, ¶67 (B05-C013-P0067)](../../build/reader/book-05.html#B05-C013-P0067)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 299, ¶71 (B05-C013-P0071)](../../build/reader/book-05.html#B05-C013-P0071)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 317, ¶197 (B05-C013-P0197)](../../build/reader/book-05.html#B05-C013-P0197)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 327–328, ¶290 (B05-C013-P0290)](../../build/reader/book-05.html#B05-C013-P0290)
+
+## B05-060: Gryffindor dormitory and morning common room
+
+Early sunlight enters through a gap in Harry’s four-poster curtains. Below the dormitories, the common room has an extinguished grate and old squashy fireside chair; the usual evening rubbish and elf hats have been cleared overnight. Sunlight advances halfway across the room.
+
+Evidence: explicit; state: First September weekend, 1995.
+
+Model: Cleaning observed, cleaner identity not supplied; direction of sunrise through particular windows unspecified.
+
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 328, ¶1 (B05-C014-P0001)](../../build/reader/book-05.html#B05-C014-P0001)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 328, ¶2 (B05-C014-P0002)](../../build/reader/book-05.html#B05-C014-P0002)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 328–329, ¶3 (B05-C014-P0003)](../../build/reader/book-05.html#B05-C014-P0003)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 330, ¶14 (B05-C014-P0014)](../../build/reader/book-05.html#B05-C014-P0014)
+
+## B05-087: Gryffindor noticeboard contents
+
+A large decree covers the common-room board’s secondhand-book lists, school rules, training timetable, Chocolate Frog trades, joke-test recruitment, Hogsmeade dates and lost-and-found notices.
+
+Evidence: explicit; state: Early October 1995, after first Hogsmeade meeting.
+
+Model: October notice state; decree disbands groups of three or more until approved.
+
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 413, ¶3 (B05-C017-P0003)](../../build/reader/book-05.html#B05-C017-P0003)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 413–414, ¶4 (B05-C017-P0004)](../../build/reader/book-05.html#B05-C017-P0004)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 414, ¶5 (B05-C017-P0005)](../../build/reader/book-05.html#B05-C017-P0005)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 414, ¶6 (B05-C017-P0006)](../../build/reader/book-05.html#B05-C017-P0006)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 414, ¶7 (B05-C017-P0007)](../../build/reader/book-05.html#B05-C017-P0007)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 414, ¶8 (B05-C017-P0008)](../../build/reader/book-05.html#B05-C017-P0008)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 414, ¶9 (B05-C017-P0009)](../../build/reader/book-05.html#B05-C017-P0009)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 414, ¶10 (B05-C017-P0010)](../../build/reader/book-05.html#B05-C017-P0010)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 414, ¶11 (B05-C017-P0011)](../../build/reader/book-05.html#B05-C017-P0011)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 414, ¶12 (B05-C017-P0012)](../../build/reader/book-05.html#B05-C017-P0012)
+
+## B05-088: Girls’ dormitory staircase enchantment
+
+Behind the girls’ door a spiral staircase transforms when Ron reaches its sixth step: a klaxon sounds and the steps merge into a long smooth spiralling stone slide, delivering him to the common room. Girls, including Hermione, slide down onto a rug.
+
+Evidence: explicit; state: Early October 1995, after first Hogsmeade meeting.
+
+Model: Observed access prevention for Ron. Hermione’s explanation that founders distrusted boys and that girls can enter boys’ rooms is reported; no reset timing shown.
+
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 415, ¶22 (B05-C017-P0022)](../../build/reader/book-05.html#B05-C017-P0022)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 415, ¶23 (B05-C017-P0023)](../../build/reader/book-05.html#B05-C017-P0023)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 415, ¶24 (B05-C017-P0024)](../../build/reader/book-05.html#B05-C017-P0024)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 415–416, ¶25 (B05-C017-P0025)](../../build/reader/book-05.html#B05-C017-P0025)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 416, ¶26 (B05-C017-P0026)](../../build/reader/book-05.html#B05-C017-P0026)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 416, ¶27 (B05-C017-P0027)](../../build/reader/book-05.html#B05-C017-P0027)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 416, ¶28 (B05-C017-P0028)](../../build/reader/book-05.html#B05-C017-P0028)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 416, ¶29 (B05-C017-P0029)](../../build/reader/book-05.html#B05-C017-P0029)
+
+## B05-129: Gryffindor to cabin at night
+
+The friends descend many staircases from the portrait hole, cross the Entrance Hall and enter snowy grounds. Hagrid’s windows show little golden squares and smoke rises from his chimney as they approach his wooden front door.
+
+Evidence: explicit; state: Snowy November night of Hagrid’s return, 1995.
+
+Model: Front door has a keyhole and bolt; snow tracks reveal travel despite the Invisibility Cloak.
+
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 494, ¶1 (B05-C020-P0001)](../../build/reader/book-05.html#B05-C020-P0001)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 495, ¶3 (B05-C020-P0003)](../../build/reader/book-05.html#B05-C020-P0003)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 495, ¶4 (B05-C020-P0004)](../../build/reader/book-05.html#B05-C020-P0004)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 495, ¶7 (B05-C020-P0007)](../../build/reader/book-05.html#B05-C020-P0007)
+
+## B05-148: Boys’ dormitory window and bed relation
+
+With his bed hangings open, Harry sees stars through a window beside Neville’s bed. His glasses rest on his bedside table and Ron speaks from his right; McGonagall later reaches the dormitory via the stairs.
+
+Evidence: explicit; state: November–December 1995 before Christmas departure.
+
+Model: Right is from Harry’s position in bed; the subsequent snake-vision corridor is not Hogwarts.
+
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 544, ¶216 (B05-C021-P0216)](../../build/reader/book-05.html#B05-C021-P0216)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 544, ¶217 (B05-C021-P0217)](../../build/reader/book-05.html#B05-C021-P0217)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 545, ¶221 (B05-C021-P0221)](../../build/reader/book-05.html#B05-C021-P0221)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 546, ¶231 (B05-C021-P0231)](../../build/reader/book-05.html#B05-C021-P0231)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 546–547, ¶233 (B05-C021-P0233)](../../build/reader/book-05.html#B05-C021-P0233)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 547, ¶240 (B05-C021-P0240)](../../build/reader/book-05.html#B05-C021-P0240)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 548, ¶247 (B05-C021-P0247)](../../build/reader/book-05.html#B05-C021-P0247)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 548, ¶248 (B05-C021-P0248)](../../build/reader/book-05.html#B05-C021-P0248)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 548, ¶249 (B05-C021-P0249)](../../build/reader/book-05.html#B05-C021-P0249)
+
+## B05-149: Gryffindor to Headmaster at night
+
+McGonagall leads Harry and Ron down the dormitory spiral stairs, across the common room and through the portrait hole along the Fat Lady’s moonlit corridor. After a few minutes they reach the office’s stone gargoyle.
+
+Evidence: explicit; state: December 1995, night of Arthur Weasley’s attack and following day.
+
+Model: Travel duration approximate; intervening corridor turns and floors not supplied.
+
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 549–550, ¶3 (B05-C022-P0003)](../../build/reader/book-05.html#B05-C022-P0003)
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 550, ¶4 (B05-C022-P0004)](../../build/reader/book-05.html#B05-C022-P0004)
+
+## B05-225: Gryffindor careers displays
+
+Careers pamphlets and leaflets appear on common-room tables, and the noticeboard lists fifth-year appointments with the Head of House.
+
+Evidence: explicit; state: Easter and start of summer term, April 1996.
+
+Model: Holiday-to-summer-term information state.
+
+- [Book 5, ch. 29, “Careers Advice”, ref p. 780, ¶61 (B05-C029-P0061)](../../build/reader/book-05.html#B05-C029-P0061)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 780, ¶62 (B05-C029-P0062)](../../build/reader/book-05.html#B05-C029-P0062)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 780, ¶63 (B05-C029-P0063)](../../build/reader/book-05.html#B05-C029-P0063)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 780–781, ¶64 (B05-C029-P0064)](../../build/reader/book-05.html#B05-C029-P0064)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 781, ¶65 (B05-C029-P0065)](../../build/reader/book-05.html#B05-C029-P0065)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 781, ¶66 (B05-C029-P0066)](../../build/reader/book-05.html#B05-C029-P0066)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 781, ¶67 (B05-C029-P0067)](../../build/reader/book-05.html#B05-C029-P0067)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 781–782, ¶68 (B05-C029-P0068)](../../build/reader/book-05.html#B05-C029-P0068)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 782, ¶69 (B05-C029-P0069)](../../build/reader/book-05.html#B05-C029-P0069)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 782, ¶70 (B05-C029-P0070)](../../build/reader/book-05.html#B05-C029-P0070)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 783, ¶81 (B05-C029-P0081)](../../build/reader/book-05.html#B05-C029-P0081)
 
 ## B06-024: Gryffindor common-room exit
 
@@ -951,4 +1425,35 @@ Model: Window can open, unlike a purely painted view; girls’ dormitory door is
 - [Book 6, ch. 30, “The White Tomb”, ref p. 668, ¶13 (B06-C030-P0013)](../../build/reader/book-06.html#B06-C030-P0013)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 668, ¶14 (B06-C030-P0014)](../../build/reader/book-06.html#B06-C030-P0014)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 671, ¶31 (B06-C030-P0031)](../../build/reader/book-06.html#B06-C030-P0031)
+
+## B07-005: Headmaster study window–Gryffindor girls’ dormitory
+
+Hermione reports Summoning the removed books after Dumbledore’s funeral: they flew out of his study window and into the girls’ dormitory through its open window, where she packed them.
+
+Evidence: reported; state: Immediately after June 1997 funeral, reported July 1997.
+
+Model: Exterior aerial connection and opening dormitory window. No window-to-window distance, compass bearing or full flight path specified; do not assume adjacent rooms.
+
+- [Book 7, ch. 6, “The Ghoul in Pyjamas”, ref p. 106, ¶161 (B07-C006-P0161)](../../build/reader/book-07.html#B07-C006-P0161)
+- [Book 7, ch. 6, “The Ghoul in Pyjamas”, ref p. 106, ¶162 (B07-C006-P0162)](../../build/reader/book-07.html#B07-C006-P0162)
+- [Book 7, ch. 6, “The Ghoul in Pyjamas”, ref p. 106, ¶163 (B07-C006-P0163)](../../build/reader/book-07.html#B07-C006-P0163)
+- [Book 7, ch. 6, “The Ghoul in Pyjamas”, ref p. 106, ¶164 (B07-C006-P0164)](../../build/reader/book-07.html#B07-C006-P0164)
+
+## B07-008: Gryffindor sword and Sorting Hat presentation
+
+Hermione recalls the sword coming to Harry out of the Sorting Hat. Scrimgeour says historical sources allow it to present itself to any worthy Gryffindor and refuses to transfer it under Dumbledore’s will. Harry recalls it hanging on the office wall during the previous year’s lessons.
+
+Evidence: reported; state: 31 July 1997.
+
+Model: Reported access behaviour and former display position, not proof of a current item’s authenticity or a visible sword-to-hat passage. No sword is produced at this meeting.
+
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 134, ¶194 (B07-C007-P0194)](../../build/reader/book-07.html#B07-C007-P0194)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 134, ¶195 (B07-C007-P0195)](../../build/reader/book-07.html#B07-C007-P0195)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 134, ¶196 (B07-C007-P0196)](../../build/reader/book-07.html#B07-C007-P0196)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 134, ¶197 (B07-C007-P0197)](../../build/reader/book-07.html#B07-C007-P0197)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 134, ¶198 (B07-C007-P0198)](../../build/reader/book-07.html#B07-C007-P0198)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 134, ¶199 (B07-C007-P0199)](../../build/reader/book-07.html#B07-C007-P0199)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 135, ¶200 (B07-C007-P0200)](../../build/reader/book-07.html#B07-C007-P0200)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 140, ¶249 (B07-C007-P0249)](../../build/reader/book-07.html#B07-C007-P0249)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 140, ¶250 (B07-C007-P0250)](../../build/reader/book-07.html#B07-C007-P0250)
 

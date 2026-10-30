@@ -333,6 +333,144 @@ Model: Confirms patrols and return sequence. Common-room fire is reduced to glow
 - [Book 2, ch. 15, “Aragog”, ref p. 284, ¶152 (B02-C015-P0152)](../../build/reader/book-02.html#B02-C015-P0152)
 - [Book 2, ch. 15, “Aragog”, ref p. 285, ¶154 (B02-C015-P0154)](../../build/reader/book-02.html#B02-C015-P0154)
 
+## B03-049: Castle — storm lighting and audible Forest
+
+Extra torches and lanterns illuminate dark classrooms/corridors during heavy wind and rain. From his dormitory Harry hears thunder, wind pounding the walls and distant creaking Forest trees; the storm sounds even louder in the common room.
+
+Evidence: explicit; state: After Hallowe’en 1993.
+
+Model: Seasonal acoustic and light state, without measured window-to-Forest distance.
+
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 167, ¶65 (B03-C009-P0065)](../../build/reader/book-03.html#B03-C009-P0065)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 168, ¶76 (B03-C009-P0076)](../../build/reader/book-03.html#B03-C009-P0076)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 168, ¶77 (B03-C009-P0077)](../../build/reader/book-03.html#B03-C009-P0077)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 172, ¶121 (B03-C009-P0121)](../../build/reader/book-03.html#B03-C009-P0121)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 173, ¶124 (B03-C009-P0124)](../../build/reader/book-03.html#B03-C009-P0124)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 173–174, ¶127 (B03-C009-P0127)](../../build/reader/book-03.html#B03-C009-P0127)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 174, ¶128 (B03-C009-P0128)](../../build/reader/book-03.html#B03-C009-P0128)
+
+## B03-132: Forbidden Forest: Sirius’s refuge
+
+Sirius says he entered the Hogwarts grounds as a dog and has lived in the Forest since, apart from coming to watch Quidditch.
+
+Evidence: reported; state: Third year, after Sirius’s escape and before the Shack confrontation.
+
+Model: No den, constructed shelter, border crossing point or path to the pitch is described. His northward journey is regional travel, not a local castle orientation.
+
+- [Book 3, ch. 19, “The Servant of Lord Voldemort”, ref p. 373–374, ¶123 (B03-C019-P0123)](../../build/reader/book-03.html#B03-C019-P0123)
+- [Book 3, ch. 19, “The Servant of Lord Voldemort”, ref p. 374–375, ¶129 (B03-C019-P0129)](../../build/reader/book-03.html#B03-C019-P0129)
+
+## B03-142: Entrance Hall to Forest via gardens, greenhouses and Willow
+
+The pair leave the hall down the stone steps, with long shadows and gilded Forest treetops. To avoid sight from Hagrid’s front door they cross vegetable gardens to the greenhouses, pause behind them, then skirt the Willow and reach the shelter of Forest trees.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: This is an observed alternative approach to Hagrid, chosen for concealment; do not replace the direct lawn route with it or infer exact garden boundaries.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 399, ¶125 (B03-C021-P0125)](../../build/reader/book-03.html#B03-C021-P0125)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 399, ¶126 (B03-C021-P0126)](../../build/reader/book-03.html#B03-C021-P0126)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 399–400, ¶127 (B03-C021-P0127)](../../build/reader/book-03.html#B03-C021-P0127)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶128 (B03-C021-P0128)](../../build/reader/book-03.html#B03-C021-P0128)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶129 (B03-C021-P0129)](../../build/reader/book-03.html#B03-C021-P0129)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶130 (B03-C021-P0130)](../../build/reader/book-03.html#B03-C021-P0130)
+
+## B03-143: Forest edge: oak lookout onto Hagrid’s cabin and castle
+
+Moving along the very edge of the Forest, the pair see Hagrid’s front doorway and hide behind a wide oak trunk, looking from either side. A small head movement also gives Harry a view of the distant castle front doors and descending officials. They can hear activity in the cabin.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: Establish sight lines from the wooded edge to both buildings and sound through the ajar rear door. No precise angular relationship is given.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶131 (B03-C021-P0131)](../../build/reader/book-03.html#B03-C021-P0131)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶132 (B03-C021-P0132)](../../build/reader/book-03.html#B03-C021-P0132)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶133 (B03-C021-P0133)](../../build/reader/book-03.html#B03-C021-P0133)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400, ¶134 (B03-C021-P0134)](../../build/reader/book-03.html#B03-C021-P0134)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 400–401, ¶136 (B03-C021-P0136)](../../build/reader/book-03.html#B03-C021-P0136)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 401, ¶141 (B03-C021-P0141)](../../build/reader/book-03.html#B03-C021-P0141)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 401, ¶142 (B03-C021-P0142)](../../build/reader/book-03.html#B03-C021-P0142)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 401, ¶143 (B03-C021-P0143)](../../build/reader/book-03.html#B03-C021-P0143)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 402, ¶151 (B03-C021-P0151)](../../build/reader/book-03.html#B03-C021-P0151)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 402, ¶153 (B03-C021-P0153)](../../build/reader/book-03.html#B03-C021-P0153)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 402, ¶161 (B03-C021-P0161)](../../build/reader/book-03.html#B03-C021-P0161)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 403, ¶164 (B03-C021-P0164)](../../build/reader/book-03.html#B03-C021-P0164)
+
+## B03-145: Pumpkin patch to Forest: rescue clearance and screening
+
+Harry leads Buckbeak from the patch toward the Forest. At one point they remain ten feet from the trees and plainly visible from Hagrid’s back door. After reaching the trees and moving farther, they are screened so completely that they cannot see the garden, though the rear door and voices remain audible.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: The ten-foot figure is one moment in the journey, not the patch’s full distance from the Forest. Trees supply visual screening; the door is still within earshot.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 403, ¶174 (B03-C021-P0174)](../../build/reader/book-03.html#B03-C021-P0174)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404, ¶177 (B03-C021-P0177)](../../build/reader/book-03.html#B03-C021-P0177)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404, ¶179 (B03-C021-P0179)](../../build/reader/book-03.html#B03-C021-P0179)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404, ¶180 (B03-C021-P0180)](../../build/reader/book-03.html#B03-C021-P0180)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404, ¶181 (B03-C021-P0181)](../../build/reader/book-03.html#B03-C021-P0181)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404, ¶183 (B03-C021-P0183)](../../build/reader/book-03.html#B03-C021-P0183)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404, ¶184 (B03-C021-P0184)](../../build/reader/book-03.html#B03-C021-P0184)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 404, ¶186 (B03-C021-P0186)](../../build/reader/book-03.html#B03-C021-P0186)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405, ¶194 (B03-C021-P0194)](../../build/reader/book-03.html#B03-C021-P0194)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405, ¶198 (B03-C021-P0198)](../../build/reader/book-03.html#B03-C021-P0198)
+
+## B03-147: Forest edge: Willow observation position
+
+The pair move around the Forest edge until a clump of trees hides them while allowing a view of the Willow. From there they watch the lawn pursuit, the tree entrance, and officials returning up the castle steps. They also see Lupin and later Snape run from the castle to the Willow, with Hagrid returning between them.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: The same clump is within earshot of the passing officials. Ground there is dry, leaves rustle in a breeze and the moon passes behind clouds. Buckbeak is tied to a nearby tree during the wait.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 405–406, ¶200 (B03-C021-P0200)](../../build/reader/book-03.html#B03-C021-P0200)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 406, ¶201 (B03-C021-P0201)](../../build/reader/book-03.html#B03-C021-P0201)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 406, ¶202 (B03-C021-P0202)](../../build/reader/book-03.html#B03-C021-P0202)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 406, ¶203 (B03-C021-P0203)](../../build/reader/book-03.html#B03-C021-P0203)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 406, ¶204 (B03-C021-P0204)](../../build/reader/book-03.html#B03-C021-P0204)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 406, ¶205 (B03-C021-P0205)](../../build/reader/book-03.html#B03-C021-P0205)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 406, ¶206 (B03-C021-P0206)](../../build/reader/book-03.html#B03-C021-P0206)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 406, ¶208 (B03-C021-P0208)](../../build/reader/book-03.html#B03-C021-P0208)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 406, ¶210 (B03-C021-P0210)](../../build/reader/book-03.html#B03-C021-P0210)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 406, ¶211 (B03-C021-P0211)](../../build/reader/book-03.html#B03-C021-P0211)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 407, ¶215 (B03-C021-P0215)](../../build/reader/book-03.html#B03-C021-P0215)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 407, ¶218 (B03-C021-P0218)](../../build/reader/book-03.html#B03-C021-P0218)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 407, ¶219 (B03-C021-P0219)](../../build/reader/book-03.html#B03-C021-P0219)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 408, ¶227 (B03-C021-P0227)](../../build/reader/book-03.html#B03-C021-P0227)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 408, ¶229 (B03-C021-P0229)](../../build/reader/book-03.html#B03-C021-P0229)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 408, ¶230 (B03-C021-P0230)](../../build/reader/book-03.html#B03-C021-P0230)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 408, ¶231 (B03-C021-P0231)](../../build/reader/book-03.html#B03-C021-P0231)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 408, ¶234 (B03-C021-P0234)](../../build/reader/book-03.html#B03-C021-P0234)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 408–409, ¶236 (B03-C021-P0236)](../../build/reader/book-03.html#B03-C021-P0236)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 410–411, ¶260 (B03-C021-P0260)](../../build/reader/book-03.html#B03-C021-P0260)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 411, ¶261 (B03-C021-P0261)](../../build/reader/book-03.html#B03-C021-P0261)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 411, ¶263 (B03-C021-P0263)](../../build/reader/book-03.html#B03-C021-P0263)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 411, ¶269 (B03-C021-P0269)](../../build/reader/book-03.html#B03-C021-P0269)
+
+## B03-149: Forest to Hagrid’s cabin: refuge and sight limitation
+
+When Lupin transforms, Harry and Hermione leave their Forest lookout and run back to Hagrid’s cabin with Buckbeak. They enter and bolt the door; Fang is inside. Buckbeak lies before the fire. Harry finds the window view too restricted to follow events outside and leaves to look around the cabin.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: Adds a working door bolt and refuge capacity for a Hippogriff. The specific door used is not named; do not equate its restricted view with every cabin window.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 411, ¶269 (B03-C021-P0269)](../../build/reader/book-03.html#B03-C021-P0269)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 411, ¶270 (B03-C021-P0270)](../../build/reader/book-03.html#B03-C021-P0270)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 411, ¶273 (B03-C021-P0273)](../../build/reader/book-03.html#B03-C021-P0273)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 411–412, ¶275 (B03-C021-P0275)](../../build/reader/book-03.html#B03-C021-P0275)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 412, ¶276 (B03-C021-P0276)](../../build/reader/book-03.html#B03-C021-P0276)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 412, ¶277 (B03-C021-P0277)](../../build/reader/book-03.html#B03-C021-P0277)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 412, ¶278 (B03-C021-P0278)](../../build/reader/book-03.html#B03-C021-P0278)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 412, ¶279 (B03-C021-P0279)](../../build/reader/book-03.html#B03-C021-P0279)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 412, ¶281 (B03-C021-P0281)](../../build/reader/book-03.html#B03-C021-P0281)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 412, ¶282 (B03-C021-P0282)](../../build/reader/book-03.html#B03-C021-P0282)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 412, ¶284 (B03-C021-P0284)](../../build/reader/book-03.html#B03-C021-P0284)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 412, ¶285 (B03-C021-P0285)](../../build/reader/book-03.html#B03-C021-P0285)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 412–413, ¶286 (B03-C021-P0286)](../../build/reader/book-03.html#B03-C021-P0286)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 413, ¶287 (B03-C021-P0287)](../../build/reader/book-03.html#B03-C021-P0287)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 413, ¶288 (B03-C021-P0288)](../../build/reader/book-03.html#B03-C021-P0288)
+
 ## B04-001: Forbidden Forest
 
 The Weasleys’ former Ford Anglia is described as running wild in the Forbidden Forest.
@@ -480,6 +618,352 @@ Model: Reported hidden sequence and temporary burial state, correcting the earli
 - [Book 4, ch. 35, “Veritaserum”, ref p. 732, ¶159 (B04-C035-P0159)](../../build/reader/book-04.html#B04-C035-P0159)
 - [Book 4, ch. 35, “Veritaserum”, ref p. 732, ¶160 (B04-C035-P0160)](../../build/reader/book-04.html#B04-C035-P0160)
 
+## B05-021: Forest and corridor access rules
+
+Dumbledore declares the grounds’ Forest out of bounds to students and says magic is forbidden in corridors between lessons.
+
+Evidence: reported; state: 1 September 1995 start-of-term feast and night.
+
+Model: Institutional rules, not demonstrated physical magical barriers.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 245–246, ¶160 (B05-C011-P0160)](../../build/reader/book-05.html#B05-C011-P0160)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 246, ¶161 (B05-C011-P0161)](../../build/reader/book-05.html#B05-C011-P0161)
+
+## B05-052: Forest-edge creature movement and bell
+
+An escaped Bowtruckle runs from the lesson into the Forest and disappears among the tree roots. The school bell is audible distantly across the grounds.
+
+Evidence: explicit; state: First school week, September 1995.
+
+Model: Small-scale roots and traversable lawn-to-Forest interface; not a mapped permanent Bowtruckle colony.
+
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 305, ¶104 (B05-C013-P0104)](../../build/reader/book-05.html#B05-C013-P0104)
+
+## B05-065: Owlery view over cabin and Forest
+
+From one Owlery window Hagrid’s hut is clearly visible with drawn curtains and a smokeless chimney. Beyond the swaying Forest treetops Harry sees a black leathery-winged carriage creature rise, circle and plunge back among the trees.
+
+Evidence: explicit; state: First September weekend, 1995.
+
+Model: Cabin appears unoccupied to Harry; flight confirms Forest presence rather than an exact nest.
+
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 331–332, ¶26 (B05-C014-P0026)](../../build/reader/book-05.html#B05-C014-P0026)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 332, ¶27 (B05-C014-P0027)](../../build/reader/book-05.html#B05-C014-P0027)
+
+## B05-092: Hogwarts Thestrals and owl safety
+
+Grubbly-Plank says Hagrid has trained the Hogwarts Thestrals not to attack owls, although Thestrals can prey on birds.
+
+Evidence: reported; state: Early October 1995, after first Hogsmeade meeting.
+
+Model: Reported local animal-management constraint; Hedwig’s actual attacker remains unproven.
+
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 421–422, ¶91 (B05-C017-P0091)](../../build/reader/book-05.html#B05-C017-P0091)
+
+## B05-137: Forest visit report
+
+Hermione says she waits at Hagrid’s door for half an hour before he emerges from the Forest.
+
+Evidence: reported; state: November–December 1995 before Christmas departure.
+
+Model: Does not confirm a Chimaera: Hermione explicitly doubts he has one.
+
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 520, ¶7 (B05-C021-P0007)](../../build/reader/book-05.html#B05-C021-P0007)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 520, ¶8 (B05-C021-P0008)](../../build/reader/book-05.html#B05-C021-P0008)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 520, ¶9 (B05-C021-P0009)](../../build/reader/book-05.html#B05-C021-P0009)
+
+## B05-139: Forest lesson approach
+
+Hagrid waits at the Forest edge carrying half a dead cow, then leads pupils into dark trees for about ten minutes to a dense stand where the light resembles twilight and no snow reaches the ground.
+
+Evidence: explicit; state: November–December 1995 before Christmas departure.
+
+Model: Sheltered snowy-season route; no compass direction or measured distance.
+
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 521, ¶11 (B05-C021-P0011)](../../build/reader/book-05.html#B05-C021-P0011)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 521–522, ¶12 (B05-C021-P0012)](../../build/reader/book-05.html#B05-C021-P0012)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 522, ¶13 (B05-C021-P0013)](../../build/reader/book-05.html#B05-C021-P0013)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 522, ¶16 (B05-C021-P0016)](../../build/reader/book-05.html#B05-C021-P0016)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 522–523, ¶21 (B05-C021-P0021)](../../build/reader/book-05.html#B05-C021-P0021)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 523, ¶22 (B05-C021-P0022)](../../build/reader/book-05.html#B05-C021-P0022)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 523, ¶23 (B05-C021-P0023)](../../build/reader/book-05.html#B05-C021-P0023)
+
+## B05-140: Thestral feeding habitat
+
+Hagrid lays the carcass on the ground and gives shrieking calls. Thestrals emerge among the trees, one from between two gnarled yews, and eat with pointed fangs; more arrive with leathery wings folded and long black tails swishing.
+
+Evidence: explicit; state: November–December 1995 before Christmas departure.
+
+Model: Actual Forest feeding site, distinct from the coach road.
+
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 523, ¶23 (B05-C021-P0023)](../../build/reader/book-05.html#B05-C021-P0023)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 523, ¶24 (B05-C021-P0024)](../../build/reader/book-05.html#B05-C021-P0024)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 523, ¶25 (B05-C021-P0025)](../../build/reader/book-05.html#B05-C021-P0025)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 523–524, ¶26 (B05-C021-P0026)](../../build/reader/book-05.html#B05-C021-P0026)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 524, ¶27 (B05-C021-P0027)](../../build/reader/book-05.html#B05-C021-P0027)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 524, ¶29 (B05-C021-P0029)](../../build/reader/book-05.html#B05-C021-P0029)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 524–525, ¶30 (B05-C021-P0030)](../../build/reader/book-05.html#B05-C021-P0030)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 525, ¶34 (B05-C021-P0034)](../../build/reader/book-05.html#B05-C021-P0034)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 525, ¶36 (B05-C021-P0036)](../../build/reader/book-05.html#B05-C021-P0036)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 525–526, ¶38 (B05-C021-P0038)](../../build/reader/book-05.html#B05-C021-P0038)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 526, ¶39 (B05-C021-P0039)](../../build/reader/book-05.html#B05-C021-P0039)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 529, ¶77 (B05-C021-P0077)](../../build/reader/book-05.html#B05-C021-P0077)
+
+## B05-142: Thestral visibility rule
+
+Hermione states, and Hagrid confirms, that people who have seen death can see Thestrals. Harry, Neville and one Slytherin see the feeding animals while others see flesh disappear.
+
+Evidence: explicit; state: November–December 1995 before Christmas departure.
+
+Model: Rule is reported and classroom visibility difference directly observed. Do not infer that Umbridge sees them from her mere arrival.
+
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 524, ¶29 (B05-C021-P0029)](../../build/reader/book-05.html#B05-C021-P0029)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 525, ¶31 (B05-C021-P0031)](../../build/reader/book-05.html#B05-C021-P0031)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 525, ¶32 (B05-C021-P0032)](../../build/reader/book-05.html#B05-C021-P0032)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 525, ¶33 (B05-C021-P0033)](../../build/reader/book-05.html#B05-C021-P0033)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 525, ¶34 (B05-C021-P0034)](../../build/reader/book-05.html#B05-C021-P0034)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 525, ¶35 (B05-C021-P0035)](../../build/reader/book-05.html#B05-C021-P0035)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 526, ¶40 (B05-C021-P0040)](../../build/reader/book-05.html#B05-C021-P0040)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 526, ¶41 (B05-C021-P0041)](../../build/reader/book-05.html#B05-C021-P0041)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 526, ¶42 (B05-C021-P0042)](../../build/reader/book-05.html#B05-C021-P0042)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 526, ¶43 (B05-C021-P0043)](../../build/reader/book-05.html#B05-C021-P0043)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 526, ¶44 (B05-C021-P0044)](../../build/reader/book-05.html#B05-C021-P0044)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 529, ¶73 (B05-C021-P0073)](../../build/reader/book-05.html#B05-C021-P0073)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 529, ¶74 (B05-C021-P0074)](../../build/reader/book-05.html#B05-C021-P0074)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 529, ¶75 (B05-C021-P0075)](../../build/reader/book-05.html#B05-C021-P0075)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 529, ¶76 (B05-C021-P0076)](../../build/reader/book-05.html#B05-C021-P0076)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 531, ¶89 (B05-C021-P0089)](../../build/reader/book-05.html#B05-C021-P0089)
+
+## B05-141: Thestral herd history and work
+
+Hagrid identifies a resident Forest herd founded with one male and five females; Tenebrus was the first born there. He says the herd mainly pulls school coaches, sometimes carrying Dumbledore on journeys, and tame animals have an exceptional sense of direction.
+
+Evidence: reported; state: November–December 1995 before Christmas departure.
+
+Model: Reported husbandry and abilities; not a census of the current herd.
+
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 525, ¶36 (B05-C021-P0036)](../../build/reader/book-05.html#B05-C021-P0036)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 525–526, ¶38 (B05-C021-P0038)](../../build/reader/book-05.html#B05-C021-P0038)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 527, ¶57 (B05-C021-P0057)](../../build/reader/book-05.html#B05-C021-P0057)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 527–528, ¶60 (B05-C021-P0060)](../../build/reader/book-05.html#B05-C021-P0060)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 528, ¶62 (B05-C021-P0062)](../../build/reader/book-05.html#B05-C021-P0062)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 528, ¶66 (B05-C021-P0066)](../../build/reader/book-05.html#B05-C021-P0066)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 529, ¶71 (B05-C021-P0071)](../../build/reader/book-05.html#B05-C021-P0071)
+
+## B05-143: Forest to greenhouses in snow
+
+Pupils return uphill toward the castle along channels previously made through snow. Hermione melts an easier route through untouched snow between the class and the greenhouses using hot air from her wand.
+
+Evidence: explicit; state: November–December 1995 before Christmas departure.
+
+Model: Retain travel sequence without straight-line assumptions.
+
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 530, ¶82 (B05-C021-P0082)](../../build/reader/book-05.html#B05-C021-P0082)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 531, ¶90 (B05-C021-P0090)](../../build/reader/book-05.html#B05-C021-P0090)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 531, ¶91 (B05-C021-P0091)](../../build/reader/book-05.html#B05-C021-P0091)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 531, ¶92 (B05-C021-P0092)](../../build/reader/book-05.html#B05-C021-P0092)
+
+## B05-192: Classroom eleven forest transformation
+
+The classroom has become a forest clearing: springy moss and earth underfoot, trees growing from the floor with leafy branches over ceiling and windows, soft green dappled light, boulders, tree trunks and a stump for seating. A wastepaper basket remains by the stump.
+
+Evidence: explicit; state: March–early April 1996, new Divination class and DA discovery.
+
+Model: Firenze credits Dumbledore with imitating his habitat; this is an indoor enchanted room, not the actual Forest.
+
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 713, ¶18 (B05-C027-P0018)](../../build/reader/book-05.html#B05-C027-P0018)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 713–714, ¶20 (B05-C027-P0020)](../../build/reader/book-05.html#B05-C027-P0020)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 714, ¶24 (B05-C027-P0024)](../../build/reader/book-05.html#B05-C027-P0024)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 714, ¶25 (B05-C027-P0025)](../../build/reader/book-05.html#B05-C027-P0025)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 714, ¶26 (B05-C027-P0026)](../../build/reader/book-05.html#B05-C027-P0026)
+
+## B05-195: Firenze Forest exclusion
+
+Firenze says the Forest was his home until his herd banished him for working for Dumbledore; he cannot return and warns that even going too near could provoke a centaur battle.
+
+Evidence: reported; state: March–early April 1996, new Divination class and DA discovery.
+
+Model: Reported territorial/social exclusion, not an invisible magical wall. Harry recalls an earlier rescue ride.
+
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 714, ¶26 (B05-C027-P0026)](../../build/reader/book-05.html#B05-C027-P0026)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 715, ¶28 (B05-C027-P0028)](../../build/reader/book-05.html#B05-C027-P0028)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 715, ¶34 (B05-C027-P0034)](../../build/reader/book-05.html#B05-C027-P0034)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 715, ¶35 (B05-C027-P0035)](../../build/reader/book-05.html#B05-C027-P0035)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 715, ¶36 (B05-C027-P0036)](../../build/reader/book-05.html#B05-C027-P0036)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 715, ¶37 (B05-C027-P0037)](../../build/reader/book-05.html#B05-C027-P0037)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 718, ¶61 (B05-C027-P0061)](../../build/reader/book-05.html#B05-C027-P0061)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 719, ¶63 (B05-C027-P0063)](../../build/reader/book-05.html#B05-C027-P0063)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 719, ¶66 (B05-C027-P0066)](../../build/reader/book-05.html#B05-C027-P0066)
+
+## B05-243: Cabin-front Forest entry
+
+At the cabin Hermione turns left toward its front door; Hagrid continues straight to the outermost trees and picks up a crossbow leaning against a tree before entering the Forest.
+
+Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
+
+Model: Left is relative to this stadium approach; weapon is a temporary stored prop.
+
+- [Book 5, ch. 30, “Grawp”, ref p. 817, ¶81 (B05-C030-P0081)](../../build/reader/book-05.html#B05-C030-P0081)
+- [Book 5, ch. 30, “Grawp”, ref p. 817, ¶82 (B05-C030-P0082)](../../build/reader/book-05.html#B05-C030-P0082)
+- [Book 5, ch. 30, “Grawp”, ref p. 817, ¶83 (B05-C030-P0083)](../../build/reader/book-05.html#B05-C030-P0083)
+- [Book 5, ch. 30, “Grawp”, ref p. 817, ¶84 (B05-C030-P0084)](../../build/reader/book-05.html#B05-C030-P0084)
+- [Book 5, ch. 30, “Grawp”, ref p. 817, ¶85 (B05-C030-P0085)](../../build/reader/book-05.html#B05-C030-P0085)
+- [Book 5, ch. 30, “Grawp”, ref p. 817, ¶88 (B05-C030-P0088)](../../build/reader/book-05.html#B05-C030-P0088)
+- [Book 5, ch. 30, “Grawp”, ref p. 817–818, ¶89 (B05-C030-P0089)](../../build/reader/book-05.html#B05-C030-P0089)
+
+## B05-244: Deep Forest route beyond Thestrals
+
+They follow an increasingly overgrown path through protruding roots, low branches and dense dusk-like shade, passing far beyond the Thestral clearing. Hagrid then leaves the path toward the Forest heart through knotted brambles and thorn thickets that delay the pupils.
+
+Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
+
+Model: No creatures encountered initially; cause only later inferred by Harry.
+
+- [Book 5, ch. 30, “Grawp”, ref p. 818, ¶93 (B05-C030-P0093)](../../build/reader/book-05.html#B05-C030-P0093)
+- [Book 5, ch. 30, “Grawp”, ref p. 818, ¶96 (B05-C030-P0096)](../../build/reader/book-05.html#B05-C030-P0096)
+- [Book 5, ch. 30, “Grawp”, ref p. 819, ¶103 (B05-C030-P0103)](../../build/reader/book-05.html#B05-C030-P0103)
+- [Book 5, ch. 30, “Grawp”, ref p. 819, ¶104 (B05-C030-P0104)](../../build/reader/book-05.html#B05-C030-P0104)
+- [Book 5, ch. 30, “Grawp”, ref p. 819, ¶105 (B05-C030-P0105)](../../build/reader/book-05.html#B05-C030-P0105)
+- [Book 5, ch. 30, “Grawp”, ref p. 819, ¶106 (B05-C030-P0106)](../../build/reader/book-05.html#B05-C030-P0106)
+- [Book 5, ch. 30, “Grawp”, ref p. 819–820, ¶107 (B05-C030-P0107)](../../build/reader/book-05.html#B05-C030-P0107)
+- [Book 5, ch. 30, “Grawp”, ref p. 820, ¶108 (B05-C030-P0108)](../../build/reader/book-05.html#B05-C030-P0108)
+- [Book 5, ch. 30, “Grawp”, ref p. 820, ¶109 (B05-C030-P0109)](../../build/reader/book-05.html#B05-C030-P0109)
+- [Book 5, ch. 30, “Grawp”, ref p. 820, ¶110 (B05-C030-P0110)](../../build/reader/book-05.html#B05-C030-P0110)
+- [Book 5, ch. 30, “Grawp”, ref p. 820, ¶112 (B05-C030-P0112)](../../build/reader/book-05.html#B05-C030-P0112)
+
+## B05-245: Approach to Grawp clearing
+
+After a pause they continue another fifteen minutes past nettles and arrive behind a barricade of uprooted trunks and branches on a bare patch of ground.
+
+Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
+
+Model: Fifteen minutes starts after the conversation pause, not at the original Forest edge.
+
+- [Book 5, ch. 30, “Grawp”, ref p. 821–822, ¶124 (B05-C030-P0124)](../../build/reader/book-05.html#B05-C030-P0124)
+- [Book 5, ch. 30, “Grawp”, ref p. 822, ¶126 (B05-C030-P0126)](../../build/reader/book-05.html#B05-C030-P0126)
+- [Book 5, ch. 30, “Grawp”, ref p. 822, ¶127 (B05-C030-P0127)](../../build/reader/book-05.html#B05-C030-P0127)
+- [Book 5, ch. 30, “Grawp”, ref p. 822, ¶128 (B05-C030-P0128)](../../build/reader/book-05.html#B05-C030-P0128)
+- [Book 5, ch. 30, “Grawp”, ref p. 822, ¶129 (B05-C030-P0129)](../../build/reader/book-05.html#B05-C030-P0129)
+- [Book 5, ch. 30, “Grawp”, ref p. 822, ¶130 (B05-C030-P0130)](../../build/reader/book-05.html#B05-C030-P0130)
+
+## B05-246: Grawp’s damaged Forest clearing
+
+Grawp sleeps curled on bare earth amid uprooted trees. His curved back initially resembles a mound nearly Hagrid’s height and his head a mossy boulder to its left. The surrounding trunks and boughs form a fence-like barrier.
+
+Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
+
+Model: Descriptions are initial visual comparisons, not actual earth mound or constructed stone shelter.
+
+- [Book 5, ch. 30, “Grawp”, ref p. 822, ¶130 (B05-C030-P0130)](../../build/reader/book-05.html#B05-C030-P0130)
+- [Book 5, ch. 30, “Grawp”, ref p. 822, ¶131 (B05-C030-P0131)](../../build/reader/book-05.html#B05-C030-P0131)
+- [Book 5, ch. 30, “Grawp”, ref p. 822–823, ¶132 (B05-C030-P0132)](../../build/reader/book-05.html#B05-C030-P0132)
+- [Book 5, ch. 30, “Grawp”, ref p. 823, ¶137 (B05-C030-P0137)](../../build/reader/book-05.html#B05-C030-P0137)
+- [Book 5, ch. 30, “Grawp”, ref p. 825, ¶158 (B05-C030-P0158)](../../build/reader/book-05.html#B05-C030-P0158)
+- [Book 5, ch. 30, “Grawp”, ref p. 826–827, ¶170 (B05-C030-P0170)](../../build/reader/book-05.html#B05-C030-P0170)
+- [Book 5, ch. 30, “Grawp”, ref p. 828, ¶179 (B05-C030-P0179)](../../build/reader/book-05.html#B05-C030-P0179)
+
+## B05-247: Grawp size and restraints
+
+Thick ropes like saplings bind Grawp’s wrists and ankles to the largest nearby tree trunks. He is at least sixteen feet tall, with sledge-sized bare feet, a huge round head, animal-skin smock and umbrella-sized hands; the anchor trees creak when he stands.
+
+Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
+
+Model: Initial height reported by Hagrid and subsequently confirmed by narrator; allow rope tension and reach in the model.
+
+- [Book 5, ch. 30, “Grawp”, ref p. 824, ¶151 (B05-C030-P0151)](../../build/reader/book-05.html#B05-C030-P0151)
+- [Book 5, ch. 30, “Grawp”, ref p. 825, ¶160 (B05-C030-P0160)](../../build/reader/book-05.html#B05-C030-P0160)
+- [Book 5, ch. 30, “Grawp”, ref p. 825–826, ¶161 (B05-C030-P0161)](../../build/reader/book-05.html#B05-C030-P0161)
+- [Book 5, ch. 30, “Grawp”, ref p. 826, ¶162 (B05-C030-P0162)](../../build/reader/book-05.html#B05-C030-P0162)
+- [Book 5, ch. 30, “Grawp”, ref p. 826, ¶163 (B05-C030-P0163)](../../build/reader/book-05.html#B05-C030-P0163)
+- [Book 5, ch. 30, “Grawp”, ref p. 826–827, ¶170 (B05-C030-P0170)](../../build/reader/book-05.html#B05-C030-P0170)
+- [Book 5, ch. 30, “Grawp”, ref p. 828, ¶180 (B05-C030-P0180)](../../build/reader/book-05.html#B05-C030-P0180)
+- [Book 5, ch. 30, “Grawp”, ref p. 829, ¶182 (B05-C030-P0182)](../../build/reader/book-05.html#B05-C030-P0182)
+- [Book 5, ch. 30, “Grawp”, ref p. 829, ¶184 (B05-C030-P0184)](../../build/reader/book-05.html#B05-C030-P0184)
+
+## B05-248: Grawp feeding and pine destruction
+
+Hagrid says Grawp feeds himself on birds and deer. Grawp takes a nest from a towering pine, drops its eggs, bends the treetop until the roots crack, and eventually pulls the pine over; pupils hide behind a trunk to avoid his grasp.
+
+Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
+
+Model: Feeding range reported; nest destruction, tree bending and distant crash narrated. Keep this local damage temporal.
+
+- [Book 5, ch. 30, “Grawp”, ref p. 826, ¶169 (B05-C030-P0169)](../../build/reader/book-05.html#B05-C030-P0169)
+- [Book 5, ch. 30, “Grawp”, ref p. 828, ¶179 (B05-C030-P0179)](../../build/reader/book-05.html#B05-C030-P0179)
+- [Book 5, ch. 30, “Grawp”, ref p. 828, ¶180 (B05-C030-P0180)](../../build/reader/book-05.html#B05-C030-P0180)
+- [Book 5, ch. 30, “Grawp”, ref p. 829, ¶184 (B05-C030-P0184)](../../build/reader/book-05.html#B05-C030-P0184)
+- [Book 5, ch. 30, “Grawp”, ref p. 830, ¶186 (B05-C030-P0186)](../../build/reader/book-05.html#B05-C030-P0186)
+- [Book 5, ch. 30, “Grawp”, ref p. 830, ¶187 (B05-C030-P0187)](../../build/reader/book-05.html#B05-C030-P0187)
+- [Book 5, ch. 30, “Grawp”, ref p. 830, ¶188 (B05-C030-P0188)](../../build/reader/book-05.html#B05-C030-P0188)
+- [Book 5, ch. 30, “Grawp”, ref p. 830, ¶190 (B05-C030-P0190)](../../build/reader/book-05.html#B05-C030-P0190)
+- [Book 5, ch. 30, “Grawp”, ref p. 830, ¶191 (B05-C030-P0191)](../../build/reader/book-05.html#B05-C030-P0191)
+- [Book 5, ch. 30, “Grawp”, ref p. 831, ¶197 (B05-C030-P0197)](../../build/reader/book-05.html#B05-C030-P0197)
+- [Book 5, ch. 30, “Grawp”, ref p. 831, ¶198 (B05-C030-P0198)](../../build/reader/book-05.html#B05-C030-P0198)
+- [Book 5, ch. 30, “Grawp”, ref p. 831, ¶199 (B05-C030-P0199)](../../build/reader/book-05.html#B05-C030-P0199)
+- [Book 5, ch. 30, “Grawp”, ref p. 831–832, ¶201 (B05-C030-P0201)](../../build/reader/book-05.html#B05-C030-P0201)
+- [Book 5, ch. 30, “Grawp”, ref p. 832, ¶203 (B05-C030-P0203)](../../build/reader/book-05.html#B05-C030-P0203)
+- [Book 5, ch. 30, “Grawp”, ref p. 832, ¶204 (B05-C030-P0204)](../../build/reader/book-05.html#B05-C030-P0204)
+
+## B05-249: Centaur territorial encounter
+
+Returning through thick knotgrass, they encounter Magorian and four or five other armed centaurs. The herd bars Hagrid after his rescue of Firenze, but permits passage because children are present, claiming not to harm foals; it warns about his concealed giant.
+
+Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
+
+Model: Reported territorial rules alongside observed confrontation; no guaranteed safety for every student encounter.
+
+- [Book 5, ch. 30, “Grawp”, ref p. 832, ¶205 (B05-C030-P0205)](../../build/reader/book-05.html#B05-C030-P0205)
+- [Book 5, ch. 30, “Grawp”, ref p. 832, ¶207 (B05-C030-P0207)](../../build/reader/book-05.html#B05-C030-P0207)
+- [Book 5, ch. 30, “Grawp”, ref p. 832–833, ¶208 (B05-C030-P0208)](../../build/reader/book-05.html#B05-C030-P0208)
+- [Book 5, ch. 30, “Grawp”, ref p. 833, ¶209 (B05-C030-P0209)](../../build/reader/book-05.html#B05-C030-P0209)
+- [Book 5, ch. 30, “Grawp”, ref p. 833, ¶210 (B05-C030-P0210)](../../build/reader/book-05.html#B05-C030-P0210)
+- [Book 5, ch. 30, “Grawp”, ref p. 833, ¶211 (B05-C030-P0211)](../../build/reader/book-05.html#B05-C030-P0211)
+- [Book 5, ch. 30, “Grawp”, ref p. 833, ¶213 (B05-C030-P0213)](../../build/reader/book-05.html#B05-C030-P0213)
+- [Book 5, ch. 30, “Grawp”, ref p. 833, ¶215 (B05-C030-P0215)](../../build/reader/book-05.html#B05-C030-P0215)
+- [Book 5, ch. 30, “Grawp”, ref p. 833, ¶217 (B05-C030-P0217)](../../build/reader/book-05.html#B05-C030-P0217)
+- [Book 5, ch. 30, “Grawp”, ref p. 834, ¶219 (B05-C030-P0219)](../../build/reader/book-05.html#B05-C030-P0219)
+- [Book 5, ch. 30, “Grawp”, ref p. 834, ¶220 (B05-C030-P0220)](../../build/reader/book-05.html#B05-C030-P0220)
+- [Book 5, ch. 30, “Grawp”, ref p. 834, ¶221 (B05-C030-P0221)](../../build/reader/book-05.html#B05-C030-P0221)
+- [Book 5, ch. 30, “Grawp”, ref p. 834, ¶222 (B05-C030-P0222)](../../build/reader/book-05.html#B05-C030-P0222)
+- [Book 5, ch. 30, “Grawp”, ref p. 834, ¶223 (B05-C030-P0223)](../../build/reader/book-05.html#B05-C030-P0223)
+- [Book 5, ch. 30, “Grawp”, ref p. 834, ¶224 (B05-C030-P0224)](../../build/reader/book-05.html#B05-C030-P0224)
+- [Book 5, ch. 30, “Grawp”, ref p. 834, ¶225 (B05-C030-P0225)](../../build/reader/book-05.html#B05-C030-P0225)
+- [Book 5, ch. 30, “Grawp”, ref p. 834, ¶226 (B05-C030-P0226)](../../build/reader/book-05.html#B05-C030-P0226)
+- [Book 5, ch. 30, “Grawp”, ref p. 834, ¶227 (B05-C030-P0227)](../../build/reader/book-05.html#B05-C030-P0227)
+- [Book 5, ch. 30, “Grawp”, ref p. 835, ¶229 (B05-C030-P0229)](../../build/reader/book-05.html#B05-C030-P0229)
+- [Book 5, ch. 30, “Grawp”, ref p. 835, ¶231 (B05-C030-P0231)](../../build/reader/book-05.html#B05-C030-P0231)
+- [Book 5, ch. 30, “Grawp”, ref p. 835, ¶232 (B05-C030-P0232)](../../build/reader/book-05.html#B05-C030-P0232)
+
+## B05-250: Forest return and stadium sightline
+
+They skirt the same nettles, rejoin the path and walk another ten minutes until trees thin, sky appears, and the stadium is visible from the Forest shelter. They merge with matchgoers returning uphill to the castle.
+
+Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
+
+Model: Ten minutes begins after rejoining path; stadium/Forest reciprocal sightline explicit.
+
+- [Book 5, ch. 30, “Grawp”, ref p. 835, ¶231 (B05-C030-P0231)](../../build/reader/book-05.html#B05-C030-P0231)
+- [Book 5, ch. 30, “Grawp”, ref p. 835, ¶234 (B05-C030-P0234)](../../build/reader/book-05.html#B05-C030-P0234)
+- [Book 5, ch. 30, “Grawp”, ref p. 835, ¶235 (B05-C030-P0235)](../../build/reader/book-05.html#B05-C030-P0235)
+- [Book 5, ch. 30, “Grawp”, ref p. 835–836, ¶236 (B05-C030-P0236)](../../build/reader/book-05.html#B05-C030-P0236)
+- [Book 5, ch. 30, “Grawp”, ref p. 836, ¶237 (B05-C030-P0237)](../../build/reader/book-05.html#B05-C030-P0237)
+- [Book 5, ch. 30, “Grawp”, ref p. 836, ¶238 (B05-C030-P0238)](../../build/reader/book-05.html#B05-C030-P0238)
+- [Book 5, ch. 30, “Grawp”, ref p. 836, ¶242 (B05-C030-P0242)](../../build/reader/book-05.html#B05-C030-P0242)
+- [Book 5, ch. 30, “Grawp”, ref p. 837, ¶251 (B05-C030-P0251)](../../build/reader/book-05.html#B05-C030-P0251)
+- [Book 5, ch. 30, “Grawp”, ref p. 837, ¶258 (B05-C030-P0258)](../../build/reader/book-05.html#B05-C030-P0258)
+
+## B05-251: Front entrance lintel and Forest view
+
+Celebrants carrying Ron bump his head on the castle doorway lintel while squeezing into the Entrance Hall. Harry and Hermione climb the steps and look back from the front doors toward distant Forest treetops, where Harry thinks birds erupt upward.
+
+Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
+
+Model: Lintel impact confirms finite doorway clearance; birds and uprooting explanation remain tentative.
+
+- [Book 5, ch. 30, “Grawp”, ref p. 837, ¶265 (B05-C030-P0265)](../../build/reader/book-05.html#B05-C030-P0265)
+- [Book 5, ch. 30, “Grawp”, ref p. 837–838, ¶266 (B05-C030-P0266)](../../build/reader/book-05.html#B05-C030-P0266)
+- [Book 5, ch. 30, “Grawp”, ref p. 838, ¶269 (B05-C030-P0269)](../../build/reader/book-05.html#B05-C030-P0269)
+
 ## B06-005: Forbidden Forest
 
 Dumbledore describes a resident centaur herd in the Forest, recalling Umbridge’s encounter there.
@@ -576,4 +1060,42 @@ Model: Lake–Forest sightline and shaded tree edge; no measured arrow range, vi
 
 - [Book 6, ch. 30, “The White Tomb”, ref p. 679, ¶59 (B06-C030-P0059)](../../build/reader/book-06.html#B06-C030-P0059)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 680–681, ¶63 (B06-C030-P0063)](../../build/reader/book-06.html#B06-C030-P0063)
+
+## B07-006: Hogwarts unicorn herd
+
+Hagrid reports that there are newborn unicorns and offers to show the students when they return.
+
+Evidence: reported; state: 31 July 1997.
+
+Model: Dated animal-population state associated with Hagrid’s Hogwarts work; exact enclosure or Forest clearing unspecified.
+
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 125, ¶94 (B07-C007-P0094)](../../build/reader/book-07.html#B07-C007-P0094)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 125, ¶95 (B07-C007-P0095)](../../build/reader/book-07.html#B07-C007-P0095)
+
+## B07-016: Forbidden Forest / Hagrid’s hut
+
+Harry initially mistakes another wood for the Forbidden Forest and imagines slipping through its trees to Hagrid’s hut. He distinguishes the other wood by its younger, more widely spaced trees and clearer ground.
+
+Evidence: explicit; state: September 1997 recollection.
+
+Model: Relative comparison supports older, denser trees and more obstructed ground in the Forbidden Forest, not uniform tree ages or measured spacing. The observed canopy and clearing belong to the World Cup woods, not Hogwarts.
+
+- [Book 7, ch. 14, “The Thief”, ref p. 281, ¶1 (B07-C014-P0001)](../../build/reader/book-07.html#B07-C014-P0001)
+- [Book 7, ch. 14, “The Thief”, ref p. 281–282, ¶2 (B07-C014-P0002)](../../build/reader/book-07.html#B07-C014-P0002)
+- [Book 7, ch. 14, “The Thief”, ref p. 285, ¶34 (B07-C014-P0034)](../../build/reader/book-07.html#B07-C014-P0034)
+
+## B07-020: Forbidden Forest
+
+Phineas reports that Snape sent Ginny, Neville and Luna into the Forbidden Forest to work for Hagrid. Ron subsequently protests that the forest contains giant spiders.
+
+Evidence: reported; state: Autumn 1997.
+
+Model: Dated use as detention/work area and character report of dangerous fauna; no work site or route within the forest is specified.
+
+- [Book 7, ch. 15, “The Goblin’s Revenge”, ref p. 318, ¶174 (B07-C015-P0174)](../../build/reader/book-07.html#B07-C015-P0174)
+- [Book 7, ch. 15, “The Goblin’s Revenge”, ref p. 318, ¶176 (B07-C015-P0176)](../../build/reader/book-07.html#B07-C015-P0176)
+- [Book 7, ch. 15, “The Goblin’s Revenge”, ref p. 318, ¶179 (B07-C015-P0179)](../../build/reader/book-07.html#B07-C015-P0179)
+- [Book 7, ch. 15, “The Goblin’s Revenge”, ref p. 318, ¶180 (B07-C015-P0180)](../../build/reader/book-07.html#B07-C015-P0180)
+- [Book 7, ch. 15, “The Goblin’s Revenge”, ref p. 324–325, ¶254 (B07-C015-P0254)](../../build/reader/book-07.html#B07-C015-P0254)
+- [Book 7, ch. 15, “The Goblin’s Revenge”, ref p. 325, ¶255 (B07-C015-P0255)](../../build/reader/book-07.html#B07-C015-P0255)
 

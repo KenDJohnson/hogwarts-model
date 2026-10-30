@@ -15,6 +15,44 @@ Model: Establishes airborne circulation and an owlery, without identifying windo
 - [Book 1, ch. 8, “The Potions Master”, ref p. 138, ¶25 (B01-C008-P0025)](../../build/reader/book-01.html#B01-C008-P0025)
 - [Book 1, ch. 8, “The Potions Master”, ref p. 138–139, ¶26 (B01-C008-P0026)](../../build/reader/book-01.html#B01-C008-P0026)
 
+## B03-036: Corridor towards Owlery — Lupin’s office
+
+After abandoning his library walk Harry climbs a staircase, vaguely considering the Owlery, and reaches a corridor with Lupin’s office. Lupin calls through its doorway.
+
+Evidence: explicit; state: October 1993.
+
+Model: Places the office on this upward wandering route; does not prove it shares a corridor with the Owlery.
+
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 152, ¶119 (B03-C008-P0119)](../../build/reader/book-03.html#B03-C008-P0119)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 152, ¶121 (B03-C008-P0121)](../../build/reader/book-03.html#B03-C008-P0121)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 152–153, ¶126 (B03-C008-P0126)](../../build/reader/book-03.html#B03-C008-P0126)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 153, ¶127 (B03-C008-P0127)](../../build/reader/book-03.html#B03-C008-P0127)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 153, ¶128 (B03-C008-P0128)](../../build/reader/book-03.html#B03-C008-P0128)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 153, ¶129 (B03-C008-P0129)](../../build/reader/book-03.html#B03-C008-P0129)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 153, ¶131 (B03-C008-P0131)](../../build/reader/book-03.html#B03-C008-P0131)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 153, ¶133 (B03-C008-P0133)](../../build/reader/book-03.html#B03-C008-P0133)
+
+## B03-155: West Tower: aerial arrival and battlements
+
+Buckbeak carries all three upward from the office window to the top of the West Tower and lands on the battlements. Harry and Hermione dismount; Sirius departs into open sky, fading into the moonlit distance as a cloud crosses the moon.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: The tower top can support the landing and passengers. Do not infer its footprint, crenellation dimensions or relative height among other towers.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶334 (B03-C021-P0334)](../../build/reader/book-03.html#B03-C021-P0334)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶335 (B03-C021-P0335)](../../build/reader/book-03.html#B03-C021-P0335)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶336 (B03-C021-P0336)](../../build/reader/book-03.html#B03-C021-P0336)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶337 (B03-C021-P0337)](../../build/reader/book-03.html#B03-C021-P0337)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶338 (B03-C021-P0338)](../../build/reader/book-03.html#B03-C021-P0338)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶339 (B03-C021-P0339)](../../build/reader/book-03.html#B03-C021-P0339)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶340 (B03-C021-P0340)](../../build/reader/book-03.html#B03-C021-P0340)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶341 (B03-C021-P0341)](../../build/reader/book-03.html#B03-C021-P0341)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶342 (B03-C021-P0342)](../../build/reader/book-03.html#B03-C021-P0342)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶343 (B03-C021-P0343)](../../build/reader/book-03.html#B03-C021-P0343)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶344 (B03-C021-P0344)](../../build/reader/book-03.html#B03-C021-P0344)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶345 (B03-C021-P0345)](../../build/reader/book-03.html#B03-C021-P0345)
+
 ## B04-033: Owlery feeding
 
 Harry directs Hedwig up to the Owlery for food.
@@ -100,4 +138,45 @@ Model: Adds entrance construction and morning occupancy to the earlier tower des
 - [Book 4, ch. 29, “The Dream”, ref p. 598, ¶38 (B04-C029-P0038)](../../build/reader/book-04.html#B04-C029-P0038)
 - [Book 4, ch. 29, “The Dream”, ref p. 599, ¶48 (B04-C029-P0048)](../../build/reader/book-04.html#B04-C029-P0048)
 - [Book 4, ch. 29, “The Dream”, ref p. 600, ¶62 (B04-C029-P0062)](../../build/reader/book-04.html#B04-C029-P0062)
+
+## B05-063: Owlery volume and floor
+
+The circular Owlery has glassless windows, rafters supporting hundreds of owls and a vaulted ceiling whose upper reaches accommodate Hedwig. Straw, droppings and small animal bones cover the floor.
+
+Evidence: explicit; state: First September weekend, 1995.
+
+Model: Keep vertical owl-roost space and unglazed openings.
+
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 331, ¶21 (B05-C014-P0021)](../../build/reader/book-05.html#B05-C014-P0021)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 331, ¶22 (B05-C014-P0022)](../../build/reader/book-05.html#B05-C014-P0022)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 331, ¶23 (B05-C014-P0023)](../../build/reader/book-05.html#B05-C014-P0023)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 333, ¶43 (B05-C014-P0043)](../../build/reader/book-05.html#B05-C014-P0043)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 333–334, ¶44 (B05-C014-P0044)](../../build/reader/book-05.html#B05-C014-P0044)
+
+## B05-064: Owlery service and access
+
+Owls launch through windows. The room has a handled door and stairs descending outside it; after leaving, Harry and Cho reach the entrance to a corridor leading toward the castle’s west wing.
+
+Evidence: explicit; state: First September weekend, 1995.
+
+Model: Does not locate Ravenclaw quarters or assert that the Owlery itself is in the west wing.
+
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 331–332, ¶26 (B05-C014-P0026)](../../build/reader/book-05.html#B05-C014-P0026)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 332, ¶28 (B05-C014-P0028)](../../build/reader/book-05.html#B05-C014-P0028)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 333, ¶36 (B05-C014-P0036)](../../build/reader/book-05.html#B05-C014-P0036)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 334–335, ¶59 (B05-C014-P0059)](../../build/reader/book-05.html#B05-C014-P0059)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 335, ¶61 (B05-C014-P0061)](../../build/reader/book-05.html#B05-C014-P0061)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 335, ¶66 (B05-C014-P0066)](../../build/reader/book-05.html#B05-C014-P0066)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 335, ¶68 (B05-C014-P0068)](../../build/reader/book-05.html#B05-C014-P0068)
+
+## B05-065: Owlery view over cabin and Forest
+
+From one Owlery window Hagrid’s hut is clearly visible with drawn curtains and a smokeless chimney. Beyond the swaying Forest treetops Harry sees a black leathery-winged carriage creature rise, circle and plunge back among the trees.
+
+Evidence: explicit; state: First September weekend, 1995.
+
+Model: Cabin appears unoccupied to Harry; flight confirms Forest presence rather than an exact nest.
+
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 331–332, ¶26 (B05-C014-P0026)](../../build/reader/book-05.html#B05-C014-P0026)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 332, ¶27 (B05-C014-P0027)](../../build/reader/book-05.html#B05-C014-P0027)
 

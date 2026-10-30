@@ -613,6 +613,107 @@ Model: Portrait subjects and cross-frame travel are observed; grass/pony inside 
 - [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100–101, ¶49 (B03-C006-P0049)](../../build/reader/book-03.html#B03-C006-P0049)
 - [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 101, ¶50 (B03-C006-P0050)](../../build/reader/book-03.html#B03-C006-P0050)
 
+## B03-031: Creature lessons — Flobberworm state
+
+Hagrid’s lessons switch to Flobberworms fed shredded lettuce after the hippogriff incident.
+
+Evidence: explicit; state: October 1993.
+
+Model: No enclosure or precise lesson location stated; generic Red Cap/Kappa habitats in the syllabus are not proof of Hogwarts populations.
+
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 141–142, ¶6 (B03-C008-P0006)](../../build/reader/book-03.html#B03-C008-P0006)
+- [Book 3, ch. 8, “Flight of the Fat Lady”, ref p. 142, ¶7 (B03-C008-P0007)](../../build/reader/book-03.html#B03-C008-P0007)
+
+## B03-057: Dementors — restrained entrance posts
+
+Lupin reports Dementors resenting Dumbledore’s exclusion from the grounds/school and being drawn to the match crowd. Through late November and December Harry sees none inside, with the sentries apparently kept at entrances.
+
+Evidence: explicit; state: After the November pitch intrusion.
+
+Model: Reported motives and observed absence, not a demonstrated unbreakable barrier.
+
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 186, ¶35 (B03-C010-P0035)](../../build/reader/book-03.html#B03-C010-P0035)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 186–187, ¶39 (B03-C010-P0039)](../../build/reader/book-03.html#B03-C010-P0039)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 187, ¶43 (B03-C010-P0043)](../../build/reader/book-03.html#B03-C010-P0043)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 187–188, ¶48 (B03-C010-P0048)](../../build/reader/book-03.html#B03-C010-P0048)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 188, ¶50 (B03-C010-P0050)](../../build/reader/book-03.html#B03-C010-P0050)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 188–189, ¶56 (B03-C010-P0056)](../../build/reader/book-03.html#B03-C010-P0056)
+
+## B03-061: Marauder’s Map — live spatial display
+
+After a wand touch and the activation pledge, ink develops a detailed castle-and-grounds map with named moving dots for people, Mrs Norris and Peeves. It shows Dumbledore pacing his study, hidden passages and Harry’s current third-floor position, and supplies the statue-opening instruction. A touch and Mischief managed blanks it.
+
+Evidence: explicit; state: November–December 1993.
+
+Model: Map position on the parchment is not a compass coordinate. Its depiction/reporting capability is observed, not proof that every magical space must be included.
+
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 191–192, ¶90 (B03-C010-P0090)](../../build/reader/book-03.html#B03-C010-P0090)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 192, ¶91 (B03-C010-P0091)](../../build/reader/book-03.html#B03-C010-P0091)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 192, ¶92 (B03-C010-P0092)](../../build/reader/book-03.html#B03-C010-P0092)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 192, ¶95 (B03-C010-P0095)](../../build/reader/book-03.html#B03-C010-P0095)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 192, ¶96 (B03-C010-P0096)](../../build/reader/book-03.html#B03-C010-P0096)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 192, ¶97 (B03-C010-P0097)](../../build/reader/book-03.html#B03-C010-P0097)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 193, ¶101 (B03-C010-P0101)](../../build/reader/book-03.html#B03-C010-P0101)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 193, ¶102 (B03-C010-P0102)](../../build/reader/book-03.html#B03-C010-P0102)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 193, ¶103 (B03-C010-P0103)](../../build/reader/book-03.html#B03-C010-P0103)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 193, ¶107 (B03-C010-P0107)](../../build/reader/book-03.html#B03-C010-P0107)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 194, ¶111 (B03-C010-P0111)](../../build/reader/book-03.html#B03-C010-P0111)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 194, ¶113 (B03-C010-P0113)](../../build/reader/book-03.html#B03-C010-P0113)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 195, ¶116 (B03-C010-P0116)](../../build/reader/book-03.html#B03-C010-P0116)
+
+## B03-068: Three Broomsticks — warm interior and screening tree
+
+The small inn is crowded, noisy, smoky and warm, with a bar and a rear vacant table between a window and a Christmas tree beside the fireplace. Hermione moves the tree before their table to conceal them from an adjacent table of teachers.
+
+Evidence: explicit; state: November–December 1993.
+
+Model: Temporary tree changes sightlines. Rosmerta reports two disruptive Dementor searches; teachers later head uphill to the castle. Village scope limited to school journey/meeting context.
+
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 200, ¶162 (B03-C010-P0162)](../../build/reader/book-03.html#B03-C010-P0162)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 200, ¶163 (B03-C010-P0163)](../../build/reader/book-03.html#B03-C010-P0163)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 200–201, ¶164 (B03-C010-P0164)](../../build/reader/book-03.html#B03-C010-P0164)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 201, ¶167 (B03-C010-P0167)](../../build/reader/book-03.html#B03-C010-P0167)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 201, ¶168 (B03-C010-P0168)](../../build/reader/book-03.html#B03-C010-P0168)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 201, ¶169 (B03-C010-P0169)](../../build/reader/book-03.html#B03-C010-P0169)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 201, ¶170 (B03-C010-P0170)](../../build/reader/book-03.html#B03-C010-P0170)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 201–202, ¶171 (B03-C010-P0171)](../../build/reader/book-03.html#B03-C010-P0171)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 202, ¶172 (B03-C010-P0172)](../../build/reader/book-03.html#B03-C010-P0172)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 202, ¶182 (B03-C010-P0182)](../../build/reader/book-03.html#B03-C010-P0182)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 203, ¶189 (B03-C010-P0189)](../../build/reader/book-03.html#B03-C010-P0189)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 203, ¶190 (B03-C010-P0190)](../../build/reader/book-03.html#B03-C010-P0190)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 210, ¶241 (B03-C010-P0241)](../../build/reader/book-03.html#B03-C010-P0241)
+- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 210, ¶242 (B03-C010-P0242)](../../build/reader/book-03.html#B03-C010-P0242)
+
+## B03-076: Grounds — salamander bonfire lesson
+
+On a raw January morning Hagrid provides an outdoor bonfire containing salamanders; pupils collect dry leaves and wood as the lizards run on crumbling white-hot logs.
+
+Evidence: explicit; state: January–February 1994.
+
+Model: Dated lesson installation somewhere in the grounds; no permanent firepit or paddock position supplied.
+
+- [Book 3, ch. 12, “The Patronus”, ref p. 235–236, ¶20 (B03-C012-P0020)](../../build/reader/book-03.html#B03-C012-P0020)
+
+## B03-123: Marauder’s Map: grounds and concealed occupants
+
+Lupin reports that the map showed the children crossing the grounds to Hagrid’s hut and returning twenty minutes later, despite their Invisibility Cloak. It labelled Sirius approaching them and showed two people being pulled into the Willow, counting the concealed Pettigrew as a person.
+
+Evidence: reported; state: End of third year; evening of Buckbeak execution order.
+
+Model: This is Lupin’s account of reading the map, not a newly narrated map view. Supports a map overlay that can expose cloak wearers and Animagi, without supplying additional physical geometry.
+
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 348, ¶159 (B03-C017-P0159)](../../build/reader/book-03.html#B03-C017-P0159)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 348, ¶161 (B03-C017-P0161)](../../build/reader/book-03.html#B03-C017-P0161)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 348, ¶163 (B03-C017-P0163)](../../build/reader/book-03.html#B03-C017-P0163)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 348, ¶165 (B03-C017-P0165)](../../build/reader/book-03.html#B03-C017-P0165)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 348–349, ¶167 (B03-C017-P0167)](../../build/reader/book-03.html#B03-C017-P0167)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 349, ¶169 (B03-C017-P0169)](../../build/reader/book-03.html#B03-C017-P0169)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 349, ¶171 (B03-C017-P0171)](../../build/reader/book-03.html#B03-C017-P0171)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 349, ¶173 (B03-C017-P0173)](../../build/reader/book-03.html#B03-C017-P0173)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 350, ¶181 (B03-C017-P0181)](../../build/reader/book-03.html#B03-C017-P0181)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 350, ¶183 (B03-C017-P0183)](../../build/reader/book-03.html#B03-C017-P0183)
+- [Book 3, ch. 17, “Cat, Rat and Dog”, ref p. 350, ¶184 (B03-C017-P0184)](../../build/reader/book-03.html#B03-C017-P0184)
+
 ## B04-042: Hogwarts grounds Apparition restriction
 
 Hermione states that Apparition cannot be performed inside the Hogwarts grounds.
@@ -997,6 +1098,813 @@ Model: The captive beetle and markings are observed, but its earlier spying loca
 - [Book 4, ch. 37, “The Beginning”, ref p. 771, ¶109 (B04-C037-P0109)](../../build/reader/book-04.html#B04-C037-P0109)
 - [Book 4, ch. 37, “The Beginning”, ref p. 771–772, ¶110 (B04-C037-P0110)](../../build/reader/book-04.html#B04-C037-P0110)
 
+## B05-004: King’s Cross departure connection
+
+The barrier between platforms nine and ten admits travellers to platform nine and three-quarters; arrivals emerge through a wrought-iron arch, beside the steam-belching Hogwarts Express.
+
+Evidence: explicit; state: 1 September 1995 return to school.
+
+Model: The remote London terminus is included only as the school rail connection.
+
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 213–214, ¶26 (B05-C010-P0026)](../../build/reader/book-05.html#B05-C010-P0026)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 214, ¶27 (B05-C010-P0027)](../../build/reader/book-05.html#B05-C010-P0027)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 214, ¶31 (B05-C010-P0031)](../../build/reader/book-05.html#B05-C010-P0031)
+
+## B05-006: Rail approach to Hogwarts
+
+The train travels farther north through open country; carriage lamps come on at night. Harry attempts a distant castle view through a grimy rain-streaked window, but the moonless darkness prevents it.
+
+Evidence: explicit; state: 1 September 1995 return to school.
+
+Model: Do not turn the attempted view into a confirmed sightline or locate the railway by compass bearing from the castle.
+
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 218–219, ¶79 (B05-C010-P0079)](../../build/reader/book-05.html#B05-C010-P0079)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 229, ¶171 (B05-C010-P0171)](../../build/reader/book-05.html#B05-C010-P0171)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 229, ¶172 (B05-C010-P0172)](../../build/reader/book-05.html#B05-C010-P0172)
+
+## B05-010: Coach draft-animal visibility
+
+Harry and Luna can see the harnessed winged creatures while Ron cannot, even standing directly before one.
+
+Evidence: explicit; state: 1 September 1995 return to school.
+
+Model: An observed visibility difference; its cause is not established by this passage.
+
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 233, ¶205 (B05-C010-P0205)](../../build/reader/book-05.html#B05-C010-P0205)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 233, ¶208 (B05-C010-P0208)](../../build/reader/book-05.html#B05-C010-P0208)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 233, ¶209 (B05-C010-P0209)](../../build/reader/book-05.html#B05-C010-P0209)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 233, ¶212 (B05-C010-P0212)](../../build/reader/book-05.html#B05-C010-P0212)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 233, ¶218 (B05-C010-P0218)](../../build/reader/book-05.html#B05-C010-P0218)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 233–234, ¶221 (B05-C010-P0221)](../../build/reader/book-05.html#B05-C010-P0221)
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 234, ¶222 (B05-C010-P0222)](../../build/reader/book-05.html#B05-C010-P0222)
+
+## B05-011: Coach service continuity
+
+Luna says she has seen the creatures since her first day and that they have always pulled the carriages.
+
+Evidence: reported; state: 1 September 1995 return to school.
+
+Model: Character report, distinct from Harry’s previous assumption that the coaches moved by themselves.
+
+- [Book 5, ch. 10, “Luna Lovegood”, ref p. 234, ¶223 (B05-C010-P0223)](../../build/reader/book-05.html#B05-C010-P0223)
+
+## B05-028: Dormitory beds and illumination
+
+Harry anticipates a soft warm four-poster bed above the Hall. The dormitory beds have closable hangings, pillows and covers; Seamus tears his hangings down and repairs them by wand. Moonlight reaches Neville’s cactus, and Ron extinguishes the last candle.
+
+Evidence: explicit; state: 1 September 1995 start-of-term feast and night.
+
+Model: Temporary torn curtains are repaired in the same scene; no window size or exact count follows from the moonlight.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 245, ¶159 (B05-C011-P0159)](../../build/reader/book-05.html#B05-C011-P0159)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 254–255, ¶227 (B05-C011-P0227)](../../build/reader/book-05.html#B05-C011-P0227)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 256, ¶247 (B05-C011-P0247)](../../build/reader/book-05.html#B05-C011-P0247)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 257, ¶251 (B05-C011-P0251)](../../build/reader/book-05.html#B05-C011-P0251)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 257, ¶252 (B05-C011-P0252)](../../build/reader/book-05.html#B05-C011-P0252)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 257, ¶253 (B05-C011-P0253)](../../build/reader/book-05.html#B05-C011-P0253)
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 258, ¶255 (B05-C011-P0255)](../../build/reader/book-05.html#B05-C011-P0255)
+
+## B05-049: Common-room concealed hats
+
+Hermione places woollen hats under rubbish on the table by the fireplace; Ron uncovers the first pair. By Friday more hats are hidden throughout the room, and a Butterbeer celebration occupies it.
+
+Evidence: explicit; state: First school week, September 1995.
+
+Model: Temporary props; disappearance alone does not prove elves were freed.
+
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 297–298, ¶60 (B05-C013-P0060)](../../build/reader/book-05.html#B05-C013-P0060)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 298, ¶62 (B05-C013-P0062)](../../build/reader/book-05.html#B05-C013-P0062)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 298, ¶67 (B05-C013-P0067)](../../build/reader/book-05.html#B05-C013-P0067)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 298–299, ¶68 (B05-C013-P0068)](../../build/reader/book-05.html#B05-C013-P0068)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 324, ¶258 (B05-C013-P0258)](../../build/reader/book-05.html#B05-C013-P0258)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 324, ¶261 (B05-C013-P0261)](../../build/reader/book-05.html#B05-C013-P0261)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 324, ¶262 (B05-C013-P0262)](../../build/reader/book-05.html#B05-C013-P0262)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 325, ¶270 (B05-C013-P0270)](../../build/reader/book-05.html#B05-C013-P0270)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 325–326, ¶271 (B05-C013-P0271)](../../build/reader/book-05.html#B05-C013-P0271)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 326, ¶276 (B05-C013-P0276)](../../build/reader/book-05.html#B05-C013-P0276)
+
+## B05-070: Common-room windows and study arrangement
+
+Pupils study at tables and armchairs beside the fire. A screech owl waits on a windowsill; Ron opens the window and it flies inside to land on his essay, then leaves. Hermione’s knitting needles work suspended in midair.
+
+Evidence: explicit; state: First September weekend, 1995.
+
+Model: Operable common-room window and exterior owl access; no claim of window count.
+
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 347, ¶178 (B05-C014-P0178)](../../build/reader/book-05.html#B05-C014-P0178)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 347, ¶180 (B05-C014-P0180)](../../build/reader/book-05.html#B05-C014-P0180)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 347–348, ¶181 (B05-C014-P0181)](../../build/reader/book-05.html#B05-C014-P0181)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 348, ¶183 (B05-C014-P0183)](../../build/reader/book-05.html#B05-C014-P0183)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 348, ¶193 (B05-C014-P0193)](../../build/reader/book-05.html#B05-C014-P0193)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 348–349, ¶196 (B05-C014-P0196)](../../build/reader/book-05.html#B05-C014-P0196)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 352, ¶214 (B05-C014-P0214)](../../build/reader/book-05.html#B05-C014-P0214)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 353, ¶222 (B05-C014-P0222)](../../build/reader/book-05.html#B05-C014-P0222)
+
+## B05-071: Common-room hearth communication
+
+Harry kneels on a singed threadbare hearthrug before the fire. Sirius’s head appears among the flames for conversation and vanishes with a small pop; he reports checking the room briefly every hour beforehand.
+
+Evidence: explicit; state: First September weekend, 1995.
+
+Model: Remote head communication is observed, hourly checks reported. Do not model full-body arrival from this scene.
+
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 354, ¶225 (B05-C014-P0225)](../../build/reader/book-05.html#B05-C014-P0225)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 355, ¶229 (B05-C014-P0229)](../../build/reader/book-05.html#B05-C014-P0229)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 355, ¶231 (B05-C014-P0231)](../../build/reader/book-05.html#B05-C014-P0231)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 355, ¶232 (B05-C014-P0232)](../../build/reader/book-05.html#B05-C014-P0232)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 355, ¶234 (B05-C014-P0234)](../../build/reader/book-05.html#B05-C014-P0234)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 355, ¶235 (B05-C014-P0235)](../../build/reader/book-05.html#B05-C014-P0235)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 355, ¶236 (B05-C014-P0236)](../../build/reader/book-05.html#B05-C014-P0236)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 355, ¶237 (B05-C014-P0237)](../../build/reader/book-05.html#B05-C014-P0237)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 355–356, ¶239 (B05-C014-P0239)](../../build/reader/book-05.html#B05-C014-P0239)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 360, ¶290 (B05-C014-P0290)](../../build/reader/book-05.html#B05-C014-P0290)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 360, ¶291 (B05-C014-P0291)](../../build/reader/book-05.html#B05-C014-P0291)
+
+## B05-076: Outdoor Bowtruckle lesson
+
+Pupils walk down the lawns toward the Forest to a trestle table holding captive Bowtruckles searching for woodlice. Umbridge walks among the students and returns across the lawn to the castle afterward.
+
+Evidence: explicit; state: Second week of September term, 1995.
+
+Model: Repeated concrete lesson setup; planned Porlocks, Kneazles, Crups and Knarls are not confirmed installed exhibits.
+
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 379, ¶177 (B05-C015-P0177)](../../build/reader/book-05.html#B05-C015-P0177)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 379–380, ¶178 (B05-C015-P0178)](../../build/reader/book-05.html#B05-C015-P0178)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 380, ¶185 (B05-C015-P0185)](../../build/reader/book-05.html#B05-C015-P0185)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 382, ¶197 (B05-C015-P0197)](../../build/reader/book-05.html#B05-C015-P0197)
+
+## B05-077: Common-room sofa, windows and repair
+
+Windowpanes rattle in a night breeze and the fire gutters. Crookshanks runs under a sofa when Harry breaks a china bowl; Harry’s Reparo reassembles the bowl, leaving its spilled liquid unrecovered.
+
+Evidence: explicit; state: Second week of September term, 1995.
+
+Model: Confirms sofa with under-clearance and glazed windows; broken bowl is repaired locally in the scene.
+
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 382, ¶199 (B05-C015-P0199)](../../build/reader/book-05.html#B05-C015-P0199)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 382, ¶200 (B05-C015-P0200)](../../build/reader/book-05.html#B05-C015-P0200)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 382, ¶201 (B05-C015-P0201)](../../build/reader/book-05.html#B05-C015-P0201)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 384, ¶227 (B05-C015-P0227)](../../build/reader/book-05.html#B05-C015-P0227)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 386, ¶252 (B05-C015-P0252)](../../build/reader/book-05.html#B05-C015-P0252)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 388, ¶264 (B05-C015-P0264)](../../build/reader/book-05.html#B05-C015-P0264)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 388, ¶265 (B05-C015-P0265)](../../build/reader/book-05.html#B05-C015-P0265)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 388, ¶266 (B05-C015-P0266)](../../build/reader/book-05.html#B05-C015-P0266)
+- [Book 5, ch. 15, “The Hogwarts High Inquisitor”, ref p. 388, ¶267 (B05-C015-P0267)](../../build/reader/book-05.html#B05-C015-P0267)
+
+## B05-096: Common-room demonstration and hearth
+
+The twins demonstrate vomiting sweets into a bucket, whose contents Lee magically vanishes. Later the friends kneel on the hearthrug, which has a hole; the fireplace has a solid brick side wall and hot flames.
+
+Evidence: explicit; state: Early October 1995, after first Hogsmeade meeting.
+
+Model: Temporary demonstration equipment; the wall and worn rug are permanent fittings.
+
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 433, ¶197 (B05-C017-P0197)](../../build/reader/book-05.html#B05-C017-P0197)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 433, ¶198 (B05-C017-P0198)](../../build/reader/book-05.html#B05-C017-P0198)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 434, ¶202 (B05-C017-P0202)](../../build/reader/book-05.html#B05-C017-P0202)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 434–435, ¶206 (B05-C017-P0206)](../../build/reader/book-05.html#B05-C017-P0206)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 435, ¶208 (B05-C017-P0208)](../../build/reader/book-05.html#B05-C017-P0208)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 435, ¶210 (B05-C017-P0210)](../../build/reader/book-05.html#B05-C017-P0210)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 435, ¶212 (B05-C017-P0212)](../../build/reader/book-05.html#B05-C017-P0212)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 437, ¶232 (B05-C017-P0232)](../../build/reader/book-05.html#B05-C017-P0232)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 438–439, ¶252 (B05-C017-P0252)](../../build/reader/book-05.html#B05-C017-P0252)
+
+## B05-098: Common-room Floo interception
+
+Sirius disappears from the common-room fire as Umbridge’s ringed hand appears and gropes through the flames. Harry can still see the hand from the boys’ dormitory doorway while the friends flee.
+
+Evidence: explicit; state: Early October 1995, after first Hogsmeade meeting.
+
+Model: Demonstrates remote reaching and doorway-to-hearth sightline, not a secret physical tunnel.
+
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 438–439, ¶252 (B05-C017-P0252)](../../build/reader/book-05.html#B05-C017-P0252)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 439, ¶254 (B05-C017-P0254)](../../build/reader/book-05.html#B05-C017-P0254)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 439, ¶256 (B05-C017-P0256)](../../build/reader/book-05.html#B05-C017-P0256)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 439, ¶257 (B05-C017-P0257)](../../build/reader/book-05.html#B05-C017-P0257)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 439, ¶258 (B05-C017-P0258)](../../build/reader/book-05.html#B05-C017-P0258)
+
+## B05-104: Common room night cleaning
+
+After midnight the common-room candles are all extinguished and its fire is almost out. Dobby returns Hedwig beside the hat-covered table and says other elves now refuse to clean Gryffindor Tower because hidden clothing insults them, so he does all its cleaning.
+
+Evidence: explicit; state: October 1995, first DA meeting and preceding storm.
+
+Model: Dark room observed; exclusive cleaning arrangement is Dobby’s report, not proof any elf has been freed.
+
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 450–451, ¶118 (B05-C018-P0118)](../../build/reader/book-05.html#B05-C018-P0118)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 451, ¶129 (B05-C018-P0129)](../../build/reader/book-05.html#B05-C018-P0129)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 451–452, ¶130 (B05-C018-P0130)](../../build/reader/book-05.html#B05-C018-P0130)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 452, ¶134 (B05-C018-P0134)](../../build/reader/book-05.html#B05-C018-P0134)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 452, ¶135 (B05-C018-P0135)](../../build/reader/book-05.html#B05-C018-P0135)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 452, ¶138 (B05-C018-P0138)](../../build/reader/book-05.html#B05-C018-P0138)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 452–453, ¶139 (B05-C018-P0139)](../../build/reader/book-05.html#B05-C018-P0139)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 453, ¶141 (B05-C018-P0141)](../../build/reader/book-05.html#B05-C018-P0141)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 453, ¶142 (B05-C018-P0142)](../../build/reader/book-05.html#B05-C018-P0142)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 453, ¶145 (B05-C018-P0145)](../../build/reader/book-05.html#B05-C018-P0145)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 454, ¶150 (B05-C018-P0150)](../../build/reader/book-05.html#B05-C018-P0150)
+
+## B05-107: Storm lesson relocations
+
+Pupils splash across a flooded vegetable patch to Herbology while rain hammers the greenhouse roof. Creature lessons are moved from the exposed grounds to a free classroom on the ground floor; evening Quidditch is cancelled.
+
+Evidence: explicit; state: October 1995, first DA meeting and preceding storm.
+
+Model: Ground-floor room is unnamed; do not assign it other classes’ identity.
+
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 456, ¶168 (B05-C018-P0168)](../../build/reader/book-05.html#B05-C018-P0168)
+
+## B05-115: House routes after DA meeting
+
+The Marauder’s Map shows Hufflepuffs returning to the basement corridor that also leads to the kitchens, Ravenclaws to a tower on the west side, and Gryffindors along the corridor to the Fat Lady.
+
+Evidence: explicit; state: October 1995, first DA meeting and preceding storm.
+
+Model: Narrated observation through the map; no complete Hufflepuff entrance or Ravenclaw interior supplied.
+
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 458, ¶181 (B05-C018-P0181)](../../build/reader/book-05.html#B05-C018-P0181)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 458, ¶182 (B05-C018-P0182)](../../build/reader/book-05.html#B05-C018-P0182)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 458, ¶184 (B05-C018-P0184)](../../build/reader/book-05.html#B05-C018-P0184)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 466, ¶258 (B05-C018-P0258)](../../build/reader/book-05.html#B05-C018-P0258)
+
+## B05-109: Entrance ritual landmarks
+
+They pass the blank wall three times concentrating on a concealed practice place, turning at a window just beyond it and a man-sized vase on its other side. A highly polished door with a brass handle appears after the third pass.
+
+Evidence: explicit; state: October 1995, first DA meeting and preceding storm.
+
+Model: Window and vase bound the walking segment; no measured separation.
+
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 458, ¶186 (B05-C018-P0186)](../../build/reader/book-05.html#B05-C018-P0186)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 458, ¶187 (B05-C018-P0187)](../../build/reader/book-05.html#B05-C018-P0187)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 458, ¶188 (B05-C018-P0188)](../../build/reader/book-05.html#B05-C018-P0188)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 458, ¶189 (B05-C018-P0189)](../../build/reader/book-05.html#B05-C018-P0189)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 458–459, ¶190 (B05-C018-P0190)](../../build/reader/book-05.html#B05-C018-P0190)
+
+## B05-110: Practice-room volume and floor relation
+
+The door opens into a spacious room lit with flickering torches like those in the dungeons eight floors below.
+
+Evidence: explicit; state: October 1995, first DA meeting and preceding storm.
+
+Model: Eight-floor relation is textual; avoid deriving ceiling heights or a global building grid.
+
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 458–459, ¶190 (B05-C018-P0190)](../../build/reader/book-05.html#B05-C018-P0190)
+
+## B05-111: Practice-room books and cushions
+
+Wooden bookcases line the walls with hundreds of large leather-bound defence books. Large silk cushions replace chairs on the floor and allow all twenty-eight participants to sit.
+
+Evidence: explicit; state: October 1995, first DA meeting and preceding storm.
+
+Model: State supplied for this meeting, not a permanent layout across requirements.
+
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 459, ¶191 (B05-C018-P0191)](../../build/reader/book-05.html#B05-C018-P0191)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 459, ¶192 (B05-C018-P0192)](../../build/reader/book-05.html#B05-C018-P0192)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 459, ¶193 (B05-C018-P0193)](../../build/reader/book-05.html#B05-C018-P0193)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 459, ¶194 (B05-C018-P0194)](../../build/reader/book-05.html#B05-C018-P0194)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 459–460, ¶197 (B05-C018-P0197)](../../build/reader/book-05.html#B05-C018-P0197)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 461, ¶218 (B05-C018-P0218)](../../build/reader/book-05.html#B05-C018-P0218)
+
+## B05-112: Practice-room detectors and lock
+
+Far-end shelves hold Sneakoscopes, Secrecy Sensors and a large cracked Foe-Glass with moving indistinct figures. Harry recognises the glass as apparently the one from impostor Moody’s office. The entrance has a key protruding from a working lock.
+
+Evidence: explicit; state: October 1995, first DA meeting and preceding storm.
+
+Model: Recognition is Harry’s belief, not proven transfer of the same object; detectors can be fooled according to Harry.
+
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 459, ¶191 (B05-C018-P0191)](../../build/reader/book-05.html#B05-C018-P0191)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 459–460, ¶197 (B05-C018-P0197)](../../build/reader/book-05.html#B05-C018-P0197)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 460, ¶201 (B05-C018-P0201)](../../build/reader/book-05.html#B05-C018-P0201)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 460, ¶202 (B05-C018-P0202)](../../build/reader/book-05.html#B05-C018-P0202)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 460, ¶203 (B05-C018-P0203)](../../build/reader/book-05.html#B05-C018-P0203)
+
+## B05-114: DA wall notice and practice clearances
+
+Hermione pins the signed Dumbledore’s Army parchment on the wall. Paired duelling leaves room for Harry to circulate, sends books off shelves and a wand against the ceiling; Harry finds a whistle atop books immediately after needing one.
+
+Evidence: explicit; state: October 1995, first DA meeting and preceding storm.
+
+Model: Local movement and conjured/provided prop, without invented dimensions or lasting structural damage.
+
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 461, ¶219 (B05-C018-P0219)](../../build/reader/book-05.html#B05-C018-P0219)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 461, ¶220 (B05-C018-P0220)](../../build/reader/book-05.html#B05-C018-P0220)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 462, ¶227 (B05-C018-P0227)](../../build/reader/book-05.html#B05-C018-P0227)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 462, ¶228 (B05-C018-P0228)](../../build/reader/book-05.html#B05-C018-P0228)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 462–463, ¶230 (B05-C018-P0230)](../../build/reader/book-05.html#B05-C018-P0230)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 463, ¶234 (B05-C018-P0234)](../../build/reader/book-05.html#B05-C018-P0234)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 463–464, ¶236 (B05-C018-P0236)](../../build/reader/book-05.html#B05-C018-P0236)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 464, ¶238 (B05-C018-P0238)](../../build/reader/book-05.html#B05-C018-P0238)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 464, ¶240 (B05-C018-P0240)](../../build/reader/book-05.html#B05-C018-P0240)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 464, ¶242 (B05-C018-P0242)](../../build/reader/book-05.html#B05-C018-P0242)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 465, ¶249 (B05-C018-P0249)](../../build/reader/book-05.html#B05-C018-P0249)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 466, ¶252 (B05-C018-P0252)](../../build/reader/book-05.html#B05-C018-P0252)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 466, ¶253 (B05-C018-P0253)](../../build/reader/book-05.html#B05-C018-P0253)
+
+## B05-118: DA meeting tokens
+
+Hermione distributes fake Galleons from a basket. Their edge numbers communicate meeting dates and times through a Protean Charm and grow hot when changed.
+
+Evidence: explicit; state: Late October to first November Quidditch match, 1995.
+
+Model: Portable props for meeting coordination; not fixed geometry.
+
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 468, ¶3 (B05-C019-P0003)](../../build/reader/book-05.html#B05-C019-P0003)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 468–469, ¶4 (B05-C019-P0004)](../../build/reader/book-05.html#B05-C019-P0004)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 469, ¶13 (B05-C019-P0013)](../../build/reader/book-05.html#B05-C019-P0013)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 470, ¶17 (B05-C019-P0017)](../../build/reader/book-05.html#B05-C019-P0017)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 470, ¶18 (B05-C019-P0018)](../../build/reader/book-05.html#B05-C019-P0018)
+
+## B05-127: Confiscated broom storage order
+
+Umbridge announces that Harry’s, Fred’s and George’s brooms will be confiscated and kept in her office after their lifetime Quidditch bans.
+
+Evidence: reported; state: Late October to first November Quidditch match, 1995.
+
+Model: Announced storage plan rather than a narrated transfer in this chapter.
+
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 490, ¶178 (B05-C019-P0178)](../../build/reader/book-05.html#B05-C019-P0178)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 490–491, ¶180 (B05-C019-P0180)](../../build/reader/book-05.html#B05-C019-P0180)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 491, ¶182 (B05-C019-P0182)](../../build/reader/book-05.html#B05-C019-P0182)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 491, ¶185 (B05-C019-P0185)](../../build/reader/book-05.html#B05-C019-P0185)
+
+## B05-128: November common-room snow view
+
+Snow swirls against the dark common-room window; Hermione sees enough outside to announce Hagrid’s return. The captured Snitch flies around the room as Crookshanks leaps between chairs pursuing it.
+
+Evidence: explicit; state: Late October to first November Quidditch match, 1995.
+
+Model: Return signal is not specified here; do not invent a lamp sighting until described.
+
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 492, ¶189 (B05-C019-P0189)](../../build/reader/book-05.html#B05-C019-P0189)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 492, ¶194 (B05-C019-P0194)](../../build/reader/book-05.html#B05-C019-P0194)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 493, ¶200 (B05-C019-P0200)](../../build/reader/book-05.html#B05-C019-P0200)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 493, ¶204 (B05-C019-P0204)](../../build/reader/book-05.html#B05-C019-P0204)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 494, ¶217 (B05-C019-P0217)](../../build/reader/book-05.html#B05-C019-P0217)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 494, ¶223 (B05-C019-P0223)](../../build/reader/book-05.html#B05-C019-P0223)
+
+## B05-132: Cabin door window and dog basket
+
+A thin-curtained window beside the doorway shows Umbridge’s shadow before entry. The friends hide in a corner, while Hagrid conceals two mugs beneath the cushion in Fang’s basket; Hermione’s broken mug remains on the floor.
+
+Evidence: explicit; state: Snowy November night of Hagrid’s return, 1995.
+
+Model: Preserve door-adjacent window, dog basket and temporary china fragments.
+
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 511, ¶170 (B05-C020-P0170)](../../build/reader/book-05.html#B05-C020-P0170)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 512, ¶184 (B05-C020-P0184)](../../build/reader/book-05.html#B05-C020-P0184)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 512, ¶186 (B05-C020-P0186)](../../build/reader/book-05.html#B05-C020-P0186)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 512, ¶187 (B05-C020-P0187)](../../build/reader/book-05.html#B05-C020-P0187)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 512–513, ¶188 (B05-C020-P0188)](../../build/reader/book-05.html#B05-C020-P0188)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 513, ¶195 (B05-C020-P0195)](../../build/reader/book-05.html#B05-C020-P0195)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 513, ¶197 (B05-C020-P0197)](../../build/reader/book-05.html#B05-C020-P0197)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 513–514, ¶201 (B05-C020-P0201)](../../build/reader/book-05.html#B05-C020-P0201)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 514, ¶202 (B05-C020-P0202)](../../build/reader/book-05.html#B05-C020-P0202)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 514, ¶203 (B05-C020-P0203)](../../build/reader/book-05.html#B05-C020-P0203)
+
+## B05-133: Cabin search and bed location
+
+Umbridge walks the length of the cabin, looks beneath the bed and inside cupboards and Hagrid’s enormous cooking cauldron, passing within two inches of the hidden pupils against a wall. The vast bed occupies a corner.
+
+Evidence: explicit; state: Snowy November night of Hagrid’s return, 1995.
+
+Model: Under-bed clearance and walkable perimeter observed; no numeric cabin dimensions.
+
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 515, ¶213 (B05-C020-P0213)](../../build/reader/book-05.html#B05-C020-P0213)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 518, ¶252 (B05-C020-P0252)](../../build/reader/book-05.html#B05-C020-P0252)
+
+## B05-135: Domestic herd report
+
+Hagrid says he has raised special lesson creatures for years and believes his is Britain’s only domestic herd.
+
+Evidence: reported; state: Snowy November night of Hagrid’s return, 1995.
+
+Model: Reported still-unnamed herd; location and species await the next lesson.
+
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 517, ¶244 (B05-C020-P0244)](../../build/reader/book-05.html#B05-C020-P0244)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 518, ¶248 (B05-C020-P0248)](../../build/reader/book-05.html#B05-C020-P0248)
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 518, ¶250 (B05-C020-P0250)](../../build/reader/book-05.html#B05-C020-P0250)
+
+## B05-136: Frozen grounds and tower windows
+
+Two feet of snow cover the grounds; students skate on the frozen lake, toboggan and enchant snowballs to fly up and hit Gryffindor Tower windows. Ron opens a common-room window and is struck by a snowball before shutting it.
+
+Evidence: explicit; state: November–December 1995 before Christmas departure.
+
+Model: November freeze and student use, not year-round lake solidity.
+
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 519, ¶1 (B05-C021-P0001)](../../build/reader/book-05.html#B05-C021-P0001)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 519, ¶2 (B05-C021-P0002)](../../build/reader/book-05.html#B05-C021-P0002)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 519, ¶3 (B05-C021-P0003)](../../build/reader/book-05.html#B05-C021-P0003)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 519, ¶4 (B05-C021-P0004)](../../build/reader/book-05.html#B05-C021-P0004)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 519, ¶5 (B05-C021-P0005)](../../build/reader/book-05.html#B05-C021-P0005)
+
+## B05-138: Hall central aisle adjacency
+
+Pupils run up the aisle between Gryffindor and Hufflepuff tables to greet Hagrid at the staff table.
+
+Evidence: explicit; state: November–December 1995 before Christmas departure.
+
+Model: Repeated adjacency and aisle-to-staff-table connection.
+
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 520–521, ¶10 (B05-C021-P0010)](../../build/reader/book-05.html#B05-C021-P0010)
+
+## B05-146: DA Stunning-room capacity
+
+Cushions are laid across the floor for Stunning practice, but the room is too confined for everyone to practise simultaneously; half observe while half cast, then swap. Cushions are stacked afterward and pupils depart in twos and threes.
+
+Evidence: explicit; state: November–December 1995 before Christmas departure.
+
+Model: Concrete capacity constraint despite the room’s spacious appearance; no metric size.
+
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 535, ¶114 (B05-C021-P0114)](../../build/reader/book-05.html#B05-C021-P0114)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 535, ¶119 (B05-C021-P0119)](../../build/reader/book-05.html#B05-C021-P0119)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 535–536, ¶120 (B05-C021-P0120)](../../build/reader/book-05.html#B05-C021-P0120)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 536, ¶121 (B05-C021-P0121)](../../build/reader/book-05.html#B05-C021-P0121)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 536, ¶122 (B05-C021-P0122)](../../build/reader/book-05.html#B05-C021-P0122)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 536, ¶123 (B05-C021-P0123)](../../build/reader/book-05.html#B05-C021-P0123)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 536–537, ¶125 (B05-C021-P0125)](../../build/reader/book-05.html#B05-C021-P0125)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 537, ¶127 (B05-C021-P0127)](../../build/reader/book-05.html#B05-C021-P0127)
+
+## B05-147: Common-room hearthrug ink spill
+
+The friends work beside the fire at a table and armchairs; Ron lies on the hearthrug and knocks his ink bottle over it when sitting up.
+
+Evidence: explicit; state: November–December 1995 before Christmas departure.
+
+Model: Ink spill is temporary; no subsequent rug cleaning described.
+
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 539, ¶155 (B05-C021-P0155)](../../build/reader/book-05.html#B05-C021-P0155)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 539, ¶156 (B05-C021-P0156)](../../build/reader/book-05.html#B05-C021-P0156)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 540, ¶167 (B05-C021-P0167)](../../build/reader/book-05.html#B05-C021-P0167)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 540, ¶171 (B05-C021-P0171)](../../build/reader/book-05.html#B05-C021-P0171)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 543, ¶206 (B05-C021-P0206)](../../build/reader/book-05.html#B05-C021-P0206)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 543–544, ¶210 (B05-C021-P0210)](../../build/reader/book-05.html#B05-C021-P0210)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 544, ¶211 (B05-C021-P0211)](../../build/reader/book-05.html#B05-C021-P0211)
+- [Book 5, ch. 21, “The Eye of the Snake”, ref p. 544, ¶212 (B05-C021-P0212)](../../build/reader/book-05.html#B05-C021-P0212)
+
+## B05-160: Knight Bus school return
+
+The purple three-decker Knight Bus carries the pupils from London through magically compressed road travel into snowy Hogsmeade, past the Hog’s Head side-street sign, stopping outside Hogwarts gates.
+
+Evidence: explicit; state: January 1996 return and first Occlumency lesson.
+
+Model: School connection only; intermediate Britain-wide streets are not mapped as contiguous castle approaches.
+
+- [Book 5, ch. 24, “Occlumency”, ref p. 619–620, ¶72 (B05-C024-P0072)](../../build/reader/book-05.html#B05-C024-P0072)
+- [Book 5, ch. 24, “Occlumency”, ref p. 621–622, ¶85 (B05-C024-P0085)](../../build/reader/book-05.html#B05-C024-P0085)
+- [Book 5, ch. 24, “Occlumency”, ref p. 622, ¶92 (B05-C024-P0092)](../../build/reader/book-05.html#B05-C024-P0092)
+- [Book 5, ch. 24, “Occlumency”, ref p. 622–623, ¶94 (B05-C024-P0094)](../../build/reader/book-05.html#B05-C024-P0094)
+- [Book 5, ch. 24, “Occlumency”, ref p. 623, ¶95 (B05-C024-P0095)](../../build/reader/book-05.html#B05-C024-P0095)
+- [Book 5, ch. 24, “Occlumency”, ref p. 623, ¶96 (B05-C024-P0096)](../../build/reader/book-05.html#B05-C024-P0096)
+- [Book 5, ch. 24, “Occlumency”, ref p. 624, ¶99 (B05-C024-P0099)](../../build/reader/book-05.html#B05-C024-P0099)
+- [Book 5, ch. 24, “Occlumency”, ref p. 624, ¶101 (B05-C024-P0101)](../../build/reader/book-05.html#B05-C024-P0101)
+- [Book 5, ch. 24, “Occlumency”, ref p. 624–625, ¶102 (B05-C024-P0102)](../../build/reader/book-05.html#B05-C024-P0102)
+- [Book 5, ch. 24, “Occlumency”, ref p. 625, ¶104 (B05-C024-P0104)](../../build/reader/book-05.html#B05-C024-P0104)
+- [Book 5, ch. 24, “Occlumency”, ref p. 625, ¶105 (B05-C024-P0105)](../../build/reader/book-05.html#B05-C024-P0105)
+
+## B05-161: Knight Bus passenger arrangement
+
+Daytime mismatched chairs cluster by windows, replacing the brass beds Harry recalls at night. Stairs lead to the top deck; there are candle brackets and a large front window.
+
+Evidence: explicit; state: January 1996 return and first Occlumency lesson.
+
+Model: Transport state relevant to arrival; seats slide during abrupt travel.
+
+- [Book 5, ch. 24, “Occlumency”, ref p. 622, ¶88 (B05-C024-P0088)](../../build/reader/book-05.html#B05-C024-P0088)
+- [Book 5, ch. 24, “Occlumency”, ref p. 622, ¶92 (B05-C024-P0092)](../../build/reader/book-05.html#B05-C024-P0092)
+- [Book 5, ch. 24, “Occlumency”, ref p. 622, ¶93 (B05-C024-P0093)](../../build/reader/book-05.html#B05-C024-P0093)
+- [Book 5, ch. 24, “Occlumency”, ref p. 622–623, ¶94 (B05-C024-P0094)](../../build/reader/book-05.html#B05-C024-P0094)
+- [Book 5, ch. 24, “Occlumency”, ref p. 623, ¶95 (B05-C024-P0095)](../../build/reader/book-05.html#B05-C024-P0095)
+- [Book 5, ch. 24, “Occlumency”, ref p. 625, ¶104 (B05-C024-P0104)](../../build/reader/book-05.html#B05-C024-P0104)
+- [Book 5, ch. 24, “Occlumency”, ref p. 625, ¶105 (B05-C024-P0105)](../../build/reader/book-05.html#B05-C024-P0105)
+
+## B05-167: Earlier Hogwarts scenes recalled in Occlumency
+
+Harry recalls Hermione in the hospital wing with a fur-covered face, Dementors approaching across the dark grounds lake, and his parents’ reflections in an enchanted mirror.
+
+Evidence: explicit; state: January 1996 return and first Occlumency lesson.
+
+Model: Memory fragments add event/environment states without locating the mirror anew.
+
+- [Book 5, ch. 24, “Occlumency”, ref p. 634, ¶191 (B05-C024-P0191)](../../build/reader/book-05.html#B05-C024-P0191)
+- [Book 5, ch. 24, “Occlumency”, ref p. 636, ¶209 (B05-C024-P0209)](../../build/reader/book-05.html#B05-C024-P0209)
+- [Book 5, ch. 24, “Occlumency”, ref p. 637, ¶220 (B05-C024-P0220)](../../build/reader/book-05.html#B05-C024-P0220)
+
+## B05-173: House decree notices and surveillance states
+
+Educational Decree Twenty-six appears on house noticeboards. Umbridge observes every Divination and creature lesson, standing by the Divination fire among its perfume, crystal ball, tea leaves and rune stones. Hagrid forbids evening visits to his cabin.
+
+Evidence: explicit; state: January–14 February 1996.
+
+Model: Notice and inspection state observed; staff-room inability to converse freely is Hermione’s inference. Cabin restriction is an instruction, not a magical seal.
+
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 653, ¶54 (B05-C025-P0054)](../../build/reader/book-05.html#B05-C025-P0054)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 653, ¶56 (B05-C025-P0056)](../../build/reader/book-05.html#B05-C025-P0056)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 653, ¶57 (B05-C025-P0057)](../../build/reader/book-05.html#B05-C025-P0057)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 653, ¶58 (B05-C025-P0058)](../../build/reader/book-05.html#B05-C025-P0058)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 653, ¶59 (B05-C025-P0059)](../../build/reader/book-05.html#B05-C025-P0059)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 653, ¶60 (B05-C025-P0060)](../../build/reader/book-05.html#B05-C025-P0060)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 654–655, ¶65 (B05-C025-P0065)](../../build/reader/book-05.html#B05-C025-P0065)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 655, ¶66 (B05-C025-P0066)](../../build/reader/book-05.html#B05-C025-P0066)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 655, ¶67 (B05-C025-P0067)](../../build/reader/book-05.html#B05-C025-P0067)
+
+## B05-174: January–February weather transition
+
+January gives way to wetter warmer February weather; the Valentine’s outing begins breezy but develops heavy cold rain.
+
+Evidence: explicit; state: January–14 February 1996.
+
+Model: Seasonal state to reconcile with earlier frozen lake; this passage does not explicitly certify thaw.
+
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 658–659, ¶87 (B05-C025-P0087)](../../build/reader/book-05.html#B05-C025-P0087)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 661, ¶105 (B05-C025-P0105)](../../build/reader/book-05.html#B05-C025-P0105)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 663, ¶123 (B05-C025-P0123)](../../build/reader/book-05.html#B05-C025-P0123)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 663, ¶124 (B05-C025-P0124)](../../build/reader/book-05.html#B05-C025-P0124)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 668, ¶165 (B05-C025-P0165)](../../build/reader/book-05.html#B05-C025-P0165)
+- [Book 5, ch. 25, “The Beetle at Bay”, ref p. 669, ¶168 (B05-C025-P0168)](../../build/reader/book-05.html#B05-C025-P0168)
+
+## B05-178: Common-room grounds view and study
+
+The common-room windows overlook dark grounds and cloudy night sky. Pupils work at tables with piles of books, pull up chairs, and later watch a magically enlarged talking Quibbler cover hung on a wall.
+
+Evidence: explicit; state: February–early March 1996, Quibbler publication and Trelawney dismissal.
+
+Model: Talking poster is a temporary joke enchantment whose voice degrades over time.
+
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 681, ¶31 (B05-C026-P0031)](../../build/reader/book-05.html#B05-C026-P0031)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 681, ¶32 (B05-C026-P0032)](../../build/reader/book-05.html#B05-C026-P0032)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 681–682, ¶33 (B05-C026-P0033)](../../build/reader/book-05.html#B05-C026-P0033)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 682, ¶34 (B05-C026-P0034)](../../build/reader/book-05.html#B05-C026-P0034)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 682, ¶36 (B05-C026-P0036)](../../build/reader/book-05.html#B05-C026-P0036)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 682, ¶38 (B05-C026-P0038)](../../build/reader/book-05.html#B05-C026-P0038)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 682, ¶43 (B05-C026-P0043)](../../build/reader/book-05.html#B05-C026-P0043)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 683, ¶47 (B05-C026-P0047)](../../build/reader/book-05.html#B05-C026-P0047)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 694–695, ¶128 (B05-C026-P0128)](../../build/reader/book-05.html#B05-C026-P0128)
+
+## B05-180: Quibbler decree fixtures
+
+Enormous Decree Twenty-seven notices are posted throughout school, including corridors, classrooms and house noticeboards, banning possession of The Quibbler.
+
+Evidence: explicit; state: February–early March 1996, Quibbler publication and Trelawney dismissal.
+
+Model: Institutional restriction represented through temporary notices; not an automatic magical confiscation field.
+
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 691, ¶107 (B05-C026-P0107)](../../build/reader/book-05.html#B05-C026-P0107)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 691, ¶109 (B05-C026-P0109)](../../build/reader/book-05.html#B05-C026-P0109)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 691, ¶110 (B05-C026-P0110)](../../build/reader/book-05.html#B05-C026-P0110)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 691, ¶111 (B05-C026-P0111)](../../build/reader/book-05.html#B05-C026-P0111)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 691, ¶112 (B05-C026-P0112)](../../build/reader/book-05.html#B05-C026-P0112)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 691, ¶113 (B05-C026-P0113)](../../build/reader/book-05.html#B05-C026-P0113)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 691, ¶114 (B05-C026-P0114)](../../build/reader/book-05.html#B05-C026-P0114)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 692, ¶119 (B05-C026-P0119)](../../build/reader/book-05.html#B05-C026-P0119)
+
+## B05-183: Dormitory windows and water jug
+
+Harry rests his forehead against a cool glass window beside his own bed. A water jug stands on his bedside table; the room has bed curtains, mattresses and pillows, with moonlight during his later awakening.
+
+Evidence: explicit; state: February–early March 1996, Quibbler publication and Trelawney dismissal.
+
+Model: Adds Harry’s own bedside window, not a replacement for Neville’s separately described window.
+
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 695, ¶129 (B05-C026-P0129)](../../build/reader/book-05.html#B05-C026-P0129)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 697, ¶151 (B05-C026-P0151)](../../build/reader/book-05.html#B05-C026-P0151)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 697, ¶153 (B05-C026-P0153)](../../build/reader/book-05.html#B05-C026-P0153)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 698, ¶164 (B05-C026-P0164)](../../build/reader/book-05.html#B05-C026-P0164)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 698, ¶165 (B05-C026-P0165)](../../build/reader/book-05.html#B05-C026-P0165)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 698, ¶167 (B05-C026-P0167)](../../build/reader/book-05.html#B05-C026-P0167)
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 698–699, ¶170 (B05-C026-P0170)](../../build/reader/book-05.html#B05-C026-P0170)
+
+## B05-184: Courtyard usual corner
+
+The friends talk in their usual corner of the cool breezy courtyard while the twins sell Headless Hats across the yard.
+
+Evidence: explicit; state: February–early March 1996, Quibbler publication and Trelawney dismissal.
+
+Model: Repeated shared courtyard with opposing areas; no identification with a specific named quadrangle.
+
+- [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 699, ¶172 (B05-C026-P0172)](../../build/reader/book-05.html#B05-C026-P0172)
+
+## B05-197: Spring DA Patronus lesson
+
+In a brightly lit Room of Requirement, silver swan and otter Patronuses move among pupils; their disappearance noticeably darkens the room. Dobby enters through the door and bounces off a stone wall while trying to punish himself.
+
+Evidence: explicit; state: March–early April 1996, new Divination class and DA discovery.
+
+Model: No Boggart is actually supplied: Harry only proposes needing one.
+
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 720–721, ¶75 (B05-C027-P0075)](../../build/reader/book-05.html#B05-C027-P0075)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 721, ¶76 (B05-C027-P0076)](../../build/reader/book-05.html#B05-C027-P0076)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 721, ¶77 (B05-C027-P0077)](../../build/reader/book-05.html#B05-C027-P0077)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 721, ¶78 (B05-C027-P0078)](../../build/reader/book-05.html#B05-C027-P0078)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 721, ¶79 (B05-C027-P0079)](../../build/reader/book-05.html#B05-C027-P0079)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 721, ¶80 (B05-C027-P0080)](../../build/reader/book-05.html#B05-C027-P0080)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 721–722, ¶83 (B05-C027-P0083)](../../build/reader/book-05.html#B05-C027-P0083)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 722, ¶84 (B05-C027-P0084)](../../build/reader/book-05.html#B05-C027-P0084)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 722, ¶86 (B05-C027-P0086)](../../build/reader/book-05.html#B05-C027-P0086)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 722, ¶88 (B05-C027-P0088)](../../build/reader/book-05.html#B05-C027-P0088)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 722, ¶89 (B05-C027-P0089)](../../build/reader/book-05.html#B05-C027-P0089)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 722–723, ¶90 (B05-C027-P0090)](../../build/reader/book-05.html#B05-C027-P0090)
+
+## B05-203: DA evidence removed
+
+Umbridge reports Pansy entering the seventh-floor Room of Requirement after the escape and retrieving the signed list from its wall; she produces it in the Headmaster’s office.
+
+Evidence: reported; state: March–early April 1996, new Divination class and DA discovery.
+
+Model: List removal is reported and object presented; hostile entry did not automatically erase the room’s contents.
+
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 735, ¶195 (B05-C027-P0195)](../../build/reader/book-05.html#B05-C027-P0195)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 735, ¶196 (B05-C027-P0196)](../../build/reader/book-05.html#B05-C027-P0196)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 735, ¶197 (B05-C027-P0197)](../../build/reader/book-05.html#B05-C027-P0197)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 735, ¶200 (B05-C027-P0200)](../../build/reader/book-05.html#B05-C027-P0200)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 735–736, ¶201 (B05-C027-P0201)](../../build/reader/book-05.html#B05-C027-P0201)
+
+## B05-205: Phoenix-assisted departure and Apparition rule
+
+Dumbledore grasps Fawkes’s long tail; both vanish in a flash of fire. Umbridge says he cannot have Disapparated from inside school; officials instead search down the office stairs.
+
+Evidence: explicit; state: March–early April 1996, new Divination class and DA discovery.
+
+Model: Observed phoenix departure is separate from prohibited ordinary Disapparition. Destination not shown.
+
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 741, ¶253 (B05-C027-P0253)](../../build/reader/book-05.html#B05-C027-P0253)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 741, ¶254 (B05-C027-P0254)](../../build/reader/book-05.html#B05-C027-P0254)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 741, ¶256 (B05-C027-P0256)](../../build/reader/book-05.html#B05-C027-P0256)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 741, ¶257 (B05-C027-P0257)](../../build/reader/book-05.html#B05-C027-P0257)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 741, ¶258 (B05-C027-P0258)](../../build/reader/book-05.html#B05-C027-P0258)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 741, ¶259 (B05-C027-P0259)](../../build/reader/book-05.html#B05-C027-P0259)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 741, ¶260 (B05-C027-P0260)](../../build/reader/book-05.html#B05-C027-P0260)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 741, ¶261 (B05-C027-P0261)](../../build/reader/book-05.html#B05-C027-P0261)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 742, ¶266 (B05-C027-P0266)](../../build/reader/book-05.html#B05-C027-P0266)
+
+## B05-206: Headmistress notices
+
+Decree Twenty-eight notices naming Umbridge Headmistress go up throughout the school overnight.
+
+Evidence: explicit; state: Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified.
+
+Model: Administrative/visual state following Dumbledore’s departure.
+
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 742, ¶1 (B05-C028-P0001)](../../build/reader/book-05.html#B05-C028-P0001)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 742, ¶2 (B05-C028-P0002)](../../build/reader/book-05.html#B05-C028-P0002)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 742, ¶3 (B05-C028-P0003)](../../build/reader/book-05.html#B05-C028-P0003)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 742, ¶4 (B05-C028-P0004)](../../build/reader/book-05.html#B05-C028-P0004)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 742–743, ¶5 (B05-C028-P0005)](../../build/reader/book-05.html#B05-C028-P0005)
+
+## B05-209: First-floor Vanishing Cabinet incident
+
+Fred and George say they forced Montague headfirst into a Vanishing Cabinet on the first floor and do not know where he went. Later Malfoy reports him jammed in a fourth-floor toilet, confused.
+
+Evidence: reported; state: Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified.
+
+Model: Both incident accounts are reported. Do not infer an ordinary passage linking those floors.
+
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 745, ¶23 (B05-C028-P0023)](../../build/reader/book-05.html#B05-C028-P0023)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 745, ¶25 (B05-C028-P0025)](../../build/reader/book-05.html#B05-C028-P0025)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 745, ¶28 (B05-C028-P0028)](../../build/reader/book-05.html#B05-C028-P0028)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 760, ¶165 (B05-C028-P0165)](../../build/reader/book-05.html#B05-C028-P0165)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 760, ¶166 (B05-C028-P0166)](../../build/reader/book-05.html#B05-C028-P0166)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 760, ¶167 (B05-C028-P0167)](../../build/reader/book-05.html#B05-C028-P0167)
+
+## B05-213: School communication surveillance claim
+
+Umbridge says every Hogwarts fire except her own is watched by a Floo Network Regulator, the Squad reads all owl post and Filch monitors all secret routes into and out of the castle.
+
+Evidence: reported; state: Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified.
+
+Model: Reported surveillance scope and explicit office-fire exception; does not mean every passage is physically closed.
+
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 750, ¶82 (B05-C028-P0082)](../../build/reader/book-05.html#B05-C028-P0082)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 750–751, ¶85 (B05-C028-P0085)](../../build/reader/book-05.html#B05-C028-P0085)
+
+## B05-214: Fireworks outbreak and route to second floor
+
+One floor below Umbridge’s office, fireworks fill corridors with green-and-gold dragons, five-foot pink Catherine wheels, silver-tailed rockets, airborne written words and firecrackers. A wheel exits a stair window across the grounds; dragons and a purple bat use an open corridor-end door toward the second floor.
+
+Evidence: explicit; state: Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified.
+
+Model: Narration says one floor down, then movement toward second floor; preserve both without forcing a geometrically consistent floor grid.
+
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 751, ¶87 (B05-C028-P0087)](../../build/reader/book-05.html#B05-C028-P0087)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 751, ¶89 (B05-C028-P0089)](../../build/reader/book-05.html#B05-C028-P0089)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 751, ¶90 (B05-C028-P0090)](../../build/reader/book-05.html#B05-C028-P0090)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 751, ¶91 (B05-C028-P0091)](../../build/reader/book-05.html#B05-C028-P0091)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 751–752, ¶92 (B05-C028-P0092)](../../build/reader/book-05.html#B05-C028-P0092)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 752, ¶93 (B05-C028-P0093)](../../build/reader/book-05.html#B05-C028-P0093)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 752, ¶94 (B05-C028-P0094)](../../build/reader/book-05.html#B05-C028-P0094)
+
+## B05-215: Fireworks painting damage and cupboard
+
+A Stunned rocket explodes and blasts a hole in a painting of a witch in a meadow; she escapes into the adjacent card-playing wizards’ painting. Filch takes a broom from a nearby cupboard and its head catches fire.
+
+Evidence: explicit; state: Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified.
+
+Model: Specific local damage and neighbouring frames; no restoration shown.
+
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 752, ¶95 (B05-C028-P0095)](../../build/reader/book-05.html#B05-C028-P0095)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 752, ¶96 (B05-C028-P0096)](../../build/reader/book-05.html#B05-C028-P0096)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 752–753, ¶97 (B05-C028-P0097)](../../build/reader/book-05.html#B05-C028-P0097)
+
+## B05-217: Fireworks magical persistence
+
+Fireworks continue spreading into classrooms all afternoon; George says Vanishing them multiplies them tenfold. Escaped rockets pass Gryffindor windows at night; a Catherine-wheel/rocket collision produces flying pink-and-silver piglets.
+
+Evidence: explicit; state: Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified.
+
+Model: Multiplication is reported; persistence, outdoor flights and hybrid display observed. Lower Gryffindor dormitories are audible beneath Harry’s.
+
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 753, ¶100 (B05-C028-P0100)](../../build/reader/book-05.html#B05-C028-P0100)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 753, ¶101 (B05-C028-P0101)](../../build/reader/book-05.html#B05-C028-P0101)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 753, ¶102 (B05-C028-P0102)](../../build/reader/book-05.html#B05-C028-P0102)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 753–754, ¶103 (B05-C028-P0103)](../../build/reader/book-05.html#B05-C028-P0103)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 754, ¶104 (B05-C028-P0104)](../../build/reader/book-05.html#B05-C028-P0104)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 754, ¶105 (B05-C028-P0105)](../../build/reader/book-05.html#B05-C028-P0105)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 754, ¶111 (B05-C028-P0111)](../../build/reader/book-05.html#B05-C028-P0111)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 755, ¶114 (B05-C028-P0114)](../../build/reader/book-05.html#B05-C028-P0114)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 755, ¶115 (B05-C028-P0115)](../../build/reader/book-05.html#B05-C028-P0115)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 755, ¶116 (B05-C028-P0116)](../../build/reader/book-05.html#B05-C028-P0116)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 756, ¶126 (B05-C028-P0126)](../../build/reader/book-05.html#B05-C028-P0126)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 756, ¶127 (B05-C028-P0127)](../../build/reader/book-05.html#B05-C028-P0127)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 756, ¶129 (B05-C028-P0129)](../../build/reader/book-05.html#B05-C028-P0129)
+
+## B05-223: Easter grounds weather
+
+Easter grows brighter, breezier and warmer while exam years remain inside studying.
+
+Evidence: explicit; state: Easter and start of summer term, April 1996.
+
+Model: Seasonal transition; not a claimed lake temperature.
+
+- [Book 5, ch. 29, “Careers Advice”, ref p. 778, ¶31 (B05-C029-P0031)](../../build/reader/book-05.html#B05-C029-P0031)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 778, ¶34 (B05-C029-P0034)](../../build/reader/book-05.html#B05-C029-P0034)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 784–785, ¶96 (B05-C029-P0096)](../../build/reader/book-05.html#B05-C029-P0096)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 804–805, ¶270 (B05-C029-P0270)](../../build/reader/book-05.html#B05-C029-P0270)
+
+## B05-226: East-wing diversion plan
+
+The twins plan a five-o’clock diversion in the east wing, in Gregory the Smarmy’s corridor, intending to draw Umbridge away from her office.
+
+Evidence: reported; state: Easter and start of summer term, April 1996.
+
+Model: Planned location, later swamp corroborates east-wing area. Do not place Umbridge’s office in a particular opposite wing.
+
+- [Book 5, ch. 29, “Careers Advice”, ref p. 782, ¶73 (B05-C029-P0073)](../../build/reader/book-05.html#B05-C029-P0073)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 782–783, ¶76 (B05-C029-P0076)](../../build/reader/book-05.html#B05-C029-P0076)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 783, ¶78 (B05-C029-P0078)](../../build/reader/book-05.html#B05-C029-P0078)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 783, ¶79 (B05-C029-P0079)](../../build/reader/book-05.html#B05-C029-P0079)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 783, ¶85 (B05-C029-P0085)](../../build/reader/book-05.html#B05-C029-P0085)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 783, ¶87 (B05-C029-P0087)](../../build/reader/book-05.html#B05-C029-P0087)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 783–784, ¶90 (B05-C029-P0090)](../../build/reader/book-05.html#B05-C029-P0090)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 784, ¶91 (B05-C029-P0091)](../../build/reader/book-05.html#B05-C029-P0091)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 784, ¶92 (B05-C029-P0092)](../../build/reader/book-05.html#B05-C029-P0092)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 784, ¶93 (B05-C029-P0093)](../../build/reader/book-05.html#B05-C029-P0093)
+
+## B05-227: Neville bedside window panorama
+
+From the window beside Neville’s bed Harry looks directly toward the towering lakeside beech. He also sees Hagrid emerge limping from the Forest edge, enter his cabin and send smoke from its chimney.
+
+Evidence: explicit; state: Easter and start of summer term, April 1996.
+
+Model: Critical dormitory-to-beech, Forest and cabin sightlines; no azimuths or exact distances.
+
+- [Book 5, ch. 29, “Careers Advice”, ref p. 784–785, ¶96 (B05-C029-P0096)](../../build/reader/book-05.html#B05-C029-P0096)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 785, ¶97 (B05-C029-P0097)](../../build/reader/book-05.html#B05-C029-P0097)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 785, ¶98 (B05-C029-P0098)](../../build/reader/book-05.html#B05-C029-P0098)
+
+## B05-233: Portable Swamp first report
+
+In the Entrance Hall Umbridge accuses the twins of turning a school corridor into a swamp; Fred advertises a Portable Swamp demonstrated upstairs. Some assembled pupils are covered in a Stinksap-like substance.
+
+Evidence: reported; state: Easter and start of summer term, April 1996.
+
+Model: Swamp existence stated by participants; precise extent is described next chapter. Stinksap identity is Harry’s comparison.
+
+- [Book 5, ch. 29, “Careers Advice”, ref p. 802–803, ¶248 (B05-C029-P0248)](../../build/reader/book-05.html#B05-C029-P0248)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 803, ¶249 (B05-C029-P0249)](../../build/reader/book-05.html#B05-C029-P0249)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 803, ¶250 (B05-C029-P0250)](../../build/reader/book-05.html#B05-C029-P0250)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 804, ¶266 (B05-C029-P0266)](../../build/reader/book-05.html#B05-C029-P0266)
+
+## B05-235: East-wing fifth-floor swamp
+
+The swamp fills a fifth-floor east-wing corridor. After failed removal attempts the area is roped off, and Filch punts pupils across to their classrooms.
+
+Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
+
+Model: Essential temporary route obstruction and boat transport; teachers’ ability to remove it is Harry’s belief, not a demonstrated limitation.
+
+- [Book 5, ch. 30, “Grawp”, ref p. 805, ¶2 (B05-C030-P0002)](../../build/reader/book-05.html#B05-C030-P0002)
+
+## B05-238: Peeves school damage
+
+Peeves overturns tables, bursts through blackboards, topples statues and vases, smashes lanterns, extinguishes candles, juggles burning torches, throws papers into fires or out of windows, traps Mrs Norris twice inside armour, and drops tarantulas into the Great Hall at breakfast.
+
+Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
+
+Model: Series of narrated local incidents; not evidence every object of these classes is destroyed.
+
+- [Book 5, ch. 30, “Grawp”, ref p. 807–808, ¶7 (B05-C030-P0007)](../../build/reader/book-05.html#B05-C030-P0007)
+
 ## B06-004: Hogwarts buildings and grounds
 
 Apparition is prohibited throughout Hogwarts buildings and grounds, a rule Harry states and Dumbledore confirms.
@@ -1315,4 +2223,25 @@ Model: Cessation is observed; permanent departure is Harry’s unverified convic
 
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 665, ¶186 (B06-C029-P0186)](../../build/reader/book-06.html#B06-C029-P0186)
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 665–666, ¶187 (B06-C029-P0187)](../../build/reader/book-06.html#B06-C029-P0187)
+
+## B07-002: Secluded corners of Hogwarts grounds
+
+Harry recalls private hours with Ginny in secluded corners of the school grounds. At the wedding he again remembers afternoons with her in lonely parts of the grounds.
+
+Evidence: explicit; state: July 1997 recollection.
+
+Model: Narrated memory of outdoor privacy/concealment opportunities; no named corner, wall, planting type or exact spot is described.
+
+- [Book 7, ch. 6, “The Ghoul in Pyjamas”, ref p. 92–93, ¶37 (B07-C006-P0037)](../../build/reader/book-07.html#B07-C006-P0037)
+- [Book 7, ch. 8, “The Wedding”, ref p. 151, ¶62 (B07-C008-P0062)](../../build/reader/book-07.html#B07-C008-P0062)
+
+## B07-022: Hogwarts / Marauder’s Map
+
+From remote camps Harry uses the Marauder’s Map to watch for Ron in Hogwarts corridors and to see Ginny’s name in the girls’ dormitory.
+
+Evidence: explicit; state: Autumn 1997.
+
+Model: Remote live tracking includes corridors and a girls’ dormitory; no room shape or absolute position supplied.
+
+- [Book 7, ch. 16, “Godric’s Hollow”, ref p. 328–329, ¶6 (B07-C016-P0006)](../../build/reader/book-07.html#B07-C016-P0006)
 

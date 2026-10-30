@@ -46,6 +46,52 @@ Model: Reconciles chapter 14’s tallest tower with the astronomy tower. Restric
 - [Book 1, ch. 15, “The Forbidden Forest”, ref p. 246, ¶2 (B01-C015-P0002)](../../build/reader/book-01.html#B01-C015-P0002)
 - [Book 1, ch. 15, “The Forbidden Forest”, ref p. 246–247, ¶6 (B01-C015-P0006)](../../build/reader/book-01.html#B01-C015-P0006)
 
+## B03-108: Exam spaces — quiet room, tubs and tallest tower
+
+After the upstairs Charms exam Ron is taken to a quiet room to recover. Creature exams use a large tub of new Flobberworms. Astronomy takes place at midnight on the tallest tower; History is stifling and the greenhouses bake in the sun.
+
+Evidence: explicit; state: June 1994 exams and Buckbeak appeal.
+
+Model: New worm supply distinct from Hagrid’s dead earlier stock. Quiet room is unnamed; tallest astronomy tower reaffirms book 1.
+
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 317–318, ¶24 (B03-C016-P0024)](../../build/reader/book-03.html#B03-C016-P0024)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 318, ¶28 (B03-C016-P0028)](../../build/reader/book-03.html#B03-C016-P0028)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 318, ¶29 (B03-C016-P0029)](../../build/reader/book-03.html#B03-C016-P0029)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 318–319, ¶30 (B03-C016-P0030)](../../build/reader/book-03.html#B03-C016-P0030)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 319, ¶31 (B03-C016-P0031)](../../build/reader/book-03.html#B03-C016-P0031)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 319, ¶32 (B03-C016-P0032)](../../build/reader/book-03.html#B03-C016-P0032)
+
+## B03-155: West Tower: aerial arrival and battlements
+
+Buckbeak carries all three upward from the office window to the top of the West Tower and lands on the battlements. Harry and Hermione dismount; Sirius departs into open sky, fading into the moonlit distance as a cloud crosses the moon.
+
+Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
+
+Model: The tower top can support the landing and passengers. Do not infer its footprint, crenellation dimensions or relative height among other towers.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶334 (B03-C021-P0334)](../../build/reader/book-03.html#B03-C021-P0334)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶335 (B03-C021-P0335)](../../build/reader/book-03.html#B03-C021-P0335)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶336 (B03-C021-P0336)](../../build/reader/book-03.html#B03-C021-P0336)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶337 (B03-C021-P0337)](../../build/reader/book-03.html#B03-C021-P0337)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶338 (B03-C021-P0338)](../../build/reader/book-03.html#B03-C021-P0338)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶339 (B03-C021-P0339)](../../build/reader/book-03.html#B03-C021-P0339)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶340 (B03-C021-P0340)](../../build/reader/book-03.html#B03-C021-P0340)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶341 (B03-C021-P0341)](../../build/reader/book-03.html#B03-C021-P0341)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶342 (B03-C021-P0342)](../../build/reader/book-03.html#B03-C021-P0342)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶343 (B03-C021-P0343)](../../build/reader/book-03.html#B03-C021-P0343)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶344 (B03-C021-P0344)](../../build/reader/book-03.html#B03-C021-P0344)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶345 (B03-C021-P0345)](../../build/reader/book-03.html#B03-C021-P0345)
+
+## B05-016: Great Hall lighting and roof
+
+Four long house tables sit beneath a starless black ceiling matching the sky visible through high windows. Candles float above the tables and translucent ghosts mingle among pupils.
+
+Evidence: explicit; state: 1 September 1995 start-of-term feast and night.
+
+Model: September night state; ghost movement is not restricted to physical seats.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 236, ¶15 (B05-C011-P0015)](../../build/reader/book-05.html#B05-C011-P0015)
+
 ## B06-147: Astronomy Tower ghost sounds
 
 Nearly Headless Nick says the Bloody Baron is groaning and clanking up on the Astronomy Tower, a favourite activity.
@@ -157,4 +203,14 @@ Model: Selectively passable barrier and explicit destruction sequence. Dark-Mark
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653, ¶80 (B06-C029-P0080)](../../build/reader/book-06.html#B06-C029-P0080)
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653–654, ¶81 (B06-C029-P0081)](../../build/reader/book-06.html#B06-C029-P0081)
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 654, ¶82 (B06-C029-P0082)](../../build/reader/book-06.html#B06-C029-P0082)
+
+## B07-029: Tallest tower / lawn at its foot
+
+Dobby’s death recalls Harry kneeling beside Dumbledore’s body on the grass at the foot of Hogwarts’ tallest tower.
+
+Evidence: explicit; state: March 1998 recollection of June 1997.
+
+Model: Confirms highest-tower base on lawn; no new tower plan or height.
+
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 503–504, ¶1 (B07-C024-P0001)](../../build/reader/book-07.html#B07-C024-P0001)
 
