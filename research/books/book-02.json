@@ -2067,6 +2067,826 @@
       "certainty": "reported",
       "temporal": "Spring 1993",
       "model_notes": "A reported route clue rather than a mapped path; actual destination reviewed in the next chapter."
+    },
+    {
+      "id": "B02-116",
+      "location": "Castle grounds — summer flowers and mullioned windows",
+      "category": "exterior",
+      "description": "Sky and lake turn periwinkle blue and cabbage-sized flowers bloom in the greenhouses. Castle windows overlook Hagrid’s usual walking routes across the grounds; exterior sunlight falls on the walls and mullioned windows.",
+      "evidence": [
+        "B02-C015-P0001",
+        "B02-C015-P0004"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1993",
+      "model_notes": "Adds explicit mullions and greenhouse flower scale; no window lattice pattern or individual room identified."
+    },
+    {
+      "id": "B02-117",
+      "location": "Hospital wing — visitor closure",
+      "category": "temporary",
+      "description": "Pomfrey bars visitors and speaks through a crack in the ward door, fearing further attacks on the patients.",
+      "evidence": [
+        "B02-C015-P0002",
+        "B02-C015-P0003"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1993",
+      "model_notes": "Temporary security restriction; no newly fitted door lock described."
+    },
+    {
+      "id": "B02-118",
+      "location": "Castle to Herbology — escorted route and compost heap",
+      "category": "grounds",
+      "description": "Snape leads pupils from the Potions dungeon, out of the castle and across the vegetable patch to the greenhouses. They prune Abyssinian Shrivelfigs and carry cut stalks to a compost heap. Large spiders cross nearby earth towards the Forest.",
+      "evidence": [
+        "B02-C015-P0009",
+        "B02-C015-P0013",
+        "B02-C015-P0015",
+        "B02-C015-P0017",
+        "B02-C015-P0018",
+        "B02-C015-P0019",
+        "B02-C015-P0021",
+        "B02-C015-P0026",
+        "B02-C015-P0028",
+        "B02-C015-P0029",
+        "B02-C015-P0031",
+        "B02-C015-P0032",
+        "B02-C015-P0034"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1993",
+      "model_notes": "Observed outdoor storage/waste feature and vegetation; spider heading is Harry’s interpretation."
+    },
+    {
+      "id": "B02-119",
+      "location": "Gryffindor common room — curfew crowding",
+      "category": "temporary",
+      "description": "The common room remains crowded from six until after midnight because pupils have nowhere else to go. After two distant dormitory doors close, Harry and Ron leave under the Cloak.",
+      "evidence": [
+        "B02-C015-P0052",
+        "B02-C015-P0053",
+        "B02-C015-P0054"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1993",
+      "model_notes": "Two audible dormitory closures, not a complete count or proof of their positions."
+    },
+    {
+      "id": "B02-120",
+      "location": "Castle front doors — inside lock",
+      "category": "interior",
+      "description": "The boys dodge patrols to the Entrance Hall, slide back the lock on the oak front doors and squeeze out quietly into moonlit grounds.",
+      "evidence": [
+        "B02-C015-P0055",
+        "B02-C015-P0056"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1993",
+      "model_notes": "Explicit manually operable interior lock; no key, bar shape or exterior unlocking mechanism stated."
+    },
+    {
+      "id": "B02-121",
+      "location": "Hagrid’s empty cabin — mantel and route to Forest",
+      "category": "route",
+      "description": "They push open Hagrid’s door beneath dark windows, feed Fang fudge from a mantelpiece tin and leave the Cloak on the table. Fang leads to the Forest’s edge and a large sycamore.",
+      "evidence": [
+        "B02-C015-P0058",
+        "B02-C015-P0059",
+        "B02-C015-P0060",
+        "B02-C015-P0061",
+        "B02-C015-P0063",
+        "B02-C015-P0065"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1993",
+      "model_notes": "Adds mantel storage and specific forest-edge tree; exact distance from cabin to sycamore unknown."
+    },
+    {
+      "id": "B02-122",
+      "location": "Forest spider trail — canopy and off-path obstacles",
+      "category": "route",
+      "description": "Following spiders for about twenty minutes along the path reaches trees dense enough to hide the stars. Spiders then leave the path; the boys follow slowly among roots and stumps, low branches and brambles for what seems at least another half-hour, noticing a downward slope.",
+      "evidence": [
+        "B02-C015-P0061",
+        "B02-C015-P0063",
+        "B02-C015-P0065",
+        "B02-C015-P0066",
+        "B02-C015-P0067",
+        "B02-C015-P0070",
+        "B02-C015-P0071"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1993",
+      "model_notes": "Two timed segments include searching; do not convert to fixed distances. Downward slope is perceived, not surveyed."
+    },
+    {
+      "id": "B02-123",
+      "location": "Forest car clearing",
+      "category": "grounds",
+      "description": "Breaking branches and rumbling to the boys’ right lead to a clearing within a circle of thick trees under a dense branch roof. The abandoned turquoise car lights the ground with its headlamps; surrounding thorns trap Fang.",
+      "evidence": [
+        "B02-C015-P0074",
+        "B02-C015-P0075",
+        "B02-C015-P0079",
+        "B02-C015-P0085",
+        "B02-C015-P0086",
+        "B02-C015-P0089",
+        "B02-C015-P0090",
+        "B02-C015-P0091",
+        "B02-C015-P0092",
+        "B02-C015-P0093",
+        "B02-C015-P0094",
+        "B02-C015-P0095"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1993",
+      "model_notes": "Distinct preliminary clearing before the spider hollow. No surviving airborne function is demonstrated."
+    },
+    {
+      "id": "B02-124",
+      "location": "Forest — giant spiders capture route",
+      "category": "route",
+      "description": "Car-horse-sized spiders seize both boys and Fang and carry them deeper through trees to a vast hollow cleared of trees. Starlight reaches its leaf-covered floor; the carrying spider descends its steep rim.",
+      "evidence": [
+        "B02-C015-P0096",
+        "B02-C015-P0097",
+        "B02-C015-P0098",
+        "B02-C015-P0099",
+        "B02-C015-P0100",
+        "B02-C015-P0101",
+        "B02-C015-P0102"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1993",
+      "model_notes": "Height above ground at capture is about ten feet in Ron’s sightline, not a universal spider height or hollow depth."
+    },
+    {
+      "id": "B02-125",
+      "location": "Aragog’s hollow — central web and colony",
+      "category": "grounds",
+      "description": "The large tree-cleared hollow is crowded with gigantic black hairy spiders. A misty domed web stands at its centre; blind grey-black Aragog, the size of a small elephant, emerges from it, while spiders surround the visitors.",
+      "evidence": [
+        "B02-C015-P0099",
+        "B02-C015-P0100",
+        "B02-C015-P0104",
+        "B02-C015-P0105",
+        "B02-C015-P0107",
+        "B02-C015-P0111",
+        "B02-C015-P0113",
+        "B02-C015-P0118",
+        "B02-C015-P0126",
+        "B02-C015-P0129",
+        "B02-C015-P0131",
+        "B02-C015-P0135",
+        "B02-C015-P0136"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1993",
+      "model_notes": "Defines steep enclosed depression, open sky and central domed web, without metric diameter or spider count."
+    },
+    {
+      "id": "B02-126",
+      "location": "Aragog — cupboard origin and Forest settlement",
+      "category": "history",
+      "description": "Aragog says Hagrid raised him from an imported egg in a castle cupboard on table scraps. After blame for a girl’s death he escaped to the Forest, where Hagrid still visits and provided Mosag as a mate; the colony is their family.",
+      "evidence": [
+        "B02-C015-P0119",
+        "B02-C015-P0120",
+        "B02-C015-P0121",
+        "B02-C015-P0123",
+        "B02-C015-P0124"
+      ],
+      "certainty": "reported",
+      "temporal": "Late spring 1993",
+      "model_notes": "Character history, consistent with but separate from the diary scene; cupboard has no floor or number here."
+    },
+    {
+      "id": "B02-127",
+      "location": "Chamber monster — fear and historical bathroom death",
+      "category": "history",
+      "description": "Aragog denies attacking humans, says the dead girl was found in a bathroom and identifies the real castle creature as ancient and feared above all others by spiders. He recalls sensing it moving through the school.",
+      "evidence": [
+        "B02-C015-P0124",
+        "B02-C015-P0125",
+        "B02-C015-P0127",
+        "B02-C015-P0128",
+        "B02-C015-P0130",
+        "B02-C015-P0131"
+      ],
+      "certainty": "reported",
+      "temporal": "Late spring 1993",
+      "model_notes": "Reported sensory/historical evidence. Creature remains unnamed here; no pipe route yet established."
+    },
+    {
+      "id": "B02-128",
+      "location": "Aragog’s hollow — car rescue and Forest exit",
+      "category": "route",
+      "description": "The car drives down the steep hollow slope, loads the boys and Fang, climbs out and follows the widest tree gaps along a route it appears to know. Branches strike its windows; a large oak breaks a wing mirror. After roughly ten rough minutes the trees thin and the car stops at the Forest edge, then reverses back into the woods.",
+      "evidence": [
+        "B02-C015-P0137",
+        "B02-C015-P0138",
+        "B02-C015-P0139",
+        "B02-C015-P0140",
+        "B02-C015-P0143",
+        "B02-C015-P0144"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1993",
+      "model_notes": "Ground vehicle can traverse this particular route; no paved track or numeric width implied. Ten minutes is this escape duration."
+    },
+    {
+      "id": "B02-129",
+      "location": "Forest edge via cabin to Gryffindor Tower",
+      "category": "route",
+      "description": "Fang runs from the exit through trees to Hagrid’s house. Harry retrieves the Cloak and finds Ron in the pumpkin patch; they return to the creaking front doors, cross the Entrance Hall, climb the marble staircase past patrolled corridors, enter the common room and ascend the winding dormitory stair.",
+      "evidence": [
+        "B02-C015-P0144",
+        "B02-C015-P0145",
+        "B02-C015-P0148",
+        "B02-C015-P0149",
+        "B02-C015-P0151",
+        "B02-C015-P0152",
+        "B02-C015-P0154"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late spring 1993",
+      "model_notes": "Confirms patrols and return sequence. Common-room fire is reduced to glowing ash after the long excursion."
+    },
+    {
+      "id": "B02-130",
+      "location": "Myrtle’s bathroom — cubicle separation recollection",
+      "category": "interior",
+      "description": "Ron remembers Myrtle having been only three toilets away during their earlier bathroom work.",
+      "evidence": [
+        "B02-C016-P0001",
+        "B02-C016-P0002"
+      ],
+      "certainty": "reported",
+      "temporal": "Late May 1993, Chamber rescue",
+      "model_notes": "Character’s relative count, not necessarily three intervening toilets or a total cubicle count."
+    },
+    {
+      "id": "B02-131",
+      "location": "Transfiguration classroom — repairable desk",
+      "category": "temporary",
+      "description": "Neville accidentally vanishes one leg of his desk; McGonagall restores it with a wand wave.",
+      "evidence": [
+        "B02-C016-P0003",
+        "B02-C016-P0005",
+        "B02-C016-P0006",
+        "B02-C016-P0009"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber rescue",
+      "model_notes": "Transient furniture alteration; no permanent broken desk."
+    },
+    {
+      "id": "B02-132",
+      "location": "Castle patrols and lesson route",
+      "category": "route",
+      "description": "Lockhart has been patrolling the fourth floor. While escorting pupils to History of Magic he leaves them with one corridor remaining; the boys peel into a side passage towards Myrtle’s bathroom but are diverted by McGonagall to visit the hospital wing.",
+      "evidence": [
+        "B02-C016-P0047",
+        "B02-C016-P0048",
+        "B02-C016-P0049",
+        "B02-C016-P0051",
+        "B02-C016-P0052",
+        "B02-C016-P0053",
+        "B02-C016-P0054",
+        "B02-C016-P0056",
+        "B02-C016-P0057",
+        "B02-C016-P0060",
+        "B02-C016-P0061",
+        "B02-C016-P0063",
+        "B02-C016-P0064",
+        "B02-C016-P0066",
+        "B02-C016-P0067"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber rescue",
+      "model_notes": "Fourth floor is the patrol location, not a stated location of this lesson route. No precise adjacency inferred."
+    },
+    {
+      "id": "B02-133",
+      "location": "Basilisk — inferred pipe route and reflected gaze",
+      "category": "magic",
+      "description": "A library page describes a huge long-lived basilisk with lethal eyes, venomous fangs, spider aversion and vulnerability to rooster calls. Hermione writes Pipes beneath it; Harry infers that the monster moves inside wall plumbing and that indirect views through camera, ghost, mirror or reflected water explain petrification instead of death.",
+      "evidence": [
+        "B02-C016-P0074",
+        "B02-C016-P0075",
+        "B02-C016-P0076",
+        "B02-C016-P0078",
+        "B02-C016-P0079",
+        "B02-C016-P0080",
+        "B02-C016-P0082",
+        "B02-C016-P0083",
+        "B02-C016-P0084",
+        "B02-C016-P0086",
+        "B02-C016-P0087",
+        "B02-C016-P0088",
+        "B02-C016-P0089",
+        "B02-C016-P0090",
+        "B02-C016-P0091",
+        "B02-C016-P0092",
+        "B02-C016-P0094"
+      ],
+      "certainty": "inference",
+      "temporal": "Late May 1993, Chamber rescue",
+      "model_notes": "Explicitly a deduction from book evidence, symptoms and sound, later to be checked against admissions and observed entrance. No pipe diameter can be deduced from every wall."
+    },
+    {
+      "id": "B02-134",
+      "location": "Hospital wing to staff room",
+      "category": "route",
+      "description": "The boys run downstairs from the ward into a deserted staff room. It is large and panelled, filled with dark wooden chairs, and contains an ugly wardrobe full of teachers’ cloaks on Harry’s left.",
+      "evidence": [
+        "B02-C016-P0068",
+        "B02-C016-P0070",
+        "B02-C016-P0071",
+        "B02-C016-P0072",
+        "B02-C016-P0074",
+        "B02-C016-P0079",
+        "B02-C016-P0096",
+        "B02-C016-P0097",
+        "B02-C016-P0104",
+        "B02-C016-P0105",
+        "B02-C016-P0107",
+        "B02-C016-P0110",
+        "B02-C016-P0112"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber rescue",
+      "model_notes": "Adds lower staff-room relation and seating/wardrobe. Left is Harry’s viewpoint in the room, not a fixed compass wall."
+    },
+    {
+      "id": "B02-135",
+      "location": "Staff room — overhead circulation and emergency announcement",
+      "category": "temporary",
+      "description": "Hidden in the cloak wardrobe, the boys hear hundreds of people moving overhead as teachers enter. McGonagall’s amplified announcement has ordered pupils to dormitories and teachers to this room.",
+      "evidence": [
+        "B02-C016-P0098",
+        "B02-C016-P0099",
+        "B02-C016-P0100",
+        "B02-C016-P0104",
+        "B02-C016-P0105",
+        "B02-C016-P0106",
+        "B02-C016-P0130",
+        "B02-C016-P0131"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber rescue",
+      "model_notes": "Acoustic relation to overhead circulation, no ceiling height or exact upper room identified."
+    },
+    {
+      "id": "B02-136",
+      "location": "Writing corridor — second message and planned evacuation",
+      "category": "temporary",
+      "description": "McGonagall reports a new message directly below the first, threatening that Ginny’s skeleton will remain in the Chamber. Teachers plan to send pupils home by Hogwarts Express the next morning.",
+      "evidence": [
+        "B02-C016-P0106",
+        "B02-C016-P0108",
+        "B02-C016-P0111",
+        "B02-C016-P0113",
+        "B02-C016-P0117",
+        "B02-C016-P0126",
+        "B02-C016-P0130"
+      ],
+      "certainty": "reported",
+      "temporal": "Late May 1993, Chamber rescue",
+      "model_notes": "Reported inscription and planned closure, not a witnessed skeleton or completed evacuation."
+    },
+    {
+      "id": "B02-137",
+      "location": "Lockhart’s office — stripped departure state",
+      "category": "temporary",
+      "description": "After descending from Gryffindor Tower, the boys find Lockhart’s office largely stripped. Two open trunks hold robes and books; the wall photographs are boxed on the desk, a life-size self-poster is removed from behind the door, and a drawer is emptied. The office has an open window through which Ron throws the wand.",
+      "evidence": [
+        "B02-C016-P0140",
+        "B02-C016-P0141",
+        "B02-C016-P0142",
+        "B02-C016-P0143",
+        "B02-C016-P0146",
+        "B02-C016-P0147",
+        "B02-C016-P0149",
+        "B02-C016-P0151",
+        "B02-C016-P0160",
+        "B02-C016-P0164",
+        "B02-C016-P0165",
+        "B02-C016-P0166"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber rescue",
+      "model_notes": "Adds window, drawer and door-back poster, with temporary packing clutter."
+    },
+    {
+      "id": "B02-138",
+      "location": "Lockhart’s office to Myrtle’s bathroom",
+      "category": "route",
+      "description": "They take Lockhart from his office down the nearest stairs, along the dark corridor with the shining messages, to Myrtle’s bathroom.",
+      "evidence": [
+        "B02-C016-P0168",
+        "B02-C016-P0169",
+        "B02-C016-P0170",
+        "B02-C016-P0171"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber rescue",
+      "model_notes": "Explicit office-above-bathroom local route; retain alongside earlier conflicting second-floor office placement."
+    },
+    {
+      "id": "B02-139",
+      "location": "Myrtle’s death — sink sightline",
+      "category": "history",
+      "description": "Myrtle says she died in the end cubicle after unlocking its door to confront a boy speaking an odd language; she saw large yellow eyes vaguely near the sink in front of her toilet.",
+      "evidence": [
+        "B02-C016-P0171",
+        "B02-C016-P0173",
+        "B02-C016-P0175",
+        "B02-C016-P0177",
+        "B02-C016-P0178",
+        "B02-C016-P0179",
+        "B02-C016-P0180"
+      ],
+      "certainty": "reported",
+      "temporal": "Death fifty years earlier, recalled May 1993",
+      "model_notes": "Eyewitness ghost report, with deliberately vague source position; no exact historic sight ray or unchanged fixture claim."
+    },
+    {
+      "id": "B02-140",
+      "location": "Chamber entrance — snake tap and sinking basin",
+      "category": "magic",
+      "description": "A sink in front of Myrtle’s toilet has pipes beneath and a tiny snake engraved on one copper tap, which Myrtle says never worked. English does nothing; a Parseltongue opening command makes the tap glow white and spin, then the sink sinks out of sight to expose a pipe wide enough for a man to slide into.",
+      "evidence": [
+        "B02-C016-P0179",
+        "B02-C016-P0181",
+        "B02-C016-P0182",
+        "B02-C016-P0183",
+        "B02-C016-P0184",
+        "B02-C016-P0185",
+        "B02-C016-P0186",
+        "B02-C016-P0187",
+        "B02-C016-P0188",
+        "B02-C016-P0189",
+        "B02-C016-P0190",
+        "B02-C016-P0191",
+        "B02-C016-P0199",
+        "B02-C016-P0201",
+        "B02-C016-P0202"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber rescue",
+      "model_notes": "Observed language-triggered transformation. Reported faulty tap is distinct from the demonstrated mechanism; no complete sink plumbing schematic."
+    },
+    {
+      "id": "B02-141",
+      "location": "Chamber entrance pipe — branching descent",
+      "category": "route",
+      "description": "The main pipe is dark, slimy, twisting and steeply descending, with smaller pipes branching in all directions. It finally levels and ejects the riders onto a damp stone tunnel floor where they can stand.",
+      "evidence": [
+        "B02-C016-P0201",
+        "B02-C016-P0202",
+        "B02-C016-P0203",
+        "B02-C016-P0204",
+        "B02-C016-P0205",
+        "B02-C016-P0206",
+        "B02-C016-P0208",
+        "B02-C016-P0209"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber rescue",
+      "model_notes": "Narration places descent below the dungeons; Harry’s miles-down and Ron’s under-lake claims are guesses, not surveyed depths or coordinates."
+    },
+    {
+      "id": "B02-142",
+      "location": "Chamber approach tunnel — wet floor and bones",
+      "category": "interior",
+      "description": "The dark stone tunnel has wet slimy walls, a damp floor that echoes/slaps underfoot and a bend beyond scattered small-animal bones, including a rat skull.",
+      "evidence": [
+        "B02-C016-P0204",
+        "B02-C016-P0205",
+        "B02-C016-P0206",
+        "B02-C016-P0208",
+        "B02-C016-P0209",
+        "B02-C016-P0211",
+        "B02-C016-P0212",
+        "B02-C016-P0213"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber rescue",
+      "model_notes": "No fabricated drainage, lighting fixtures or tunnel dimensions. Wandlight limits the view."
+    },
+    {
+      "id": "B02-143",
+      "location": "Chamber approach — shed basilisk skin",
+      "category": "temporary",
+      "description": "A huge vivid-green empty snakeskin lies curled across the tunnel floor. Harry estimates its former occupant at least twenty feet long.",
+      "evidence": [
+        "B02-C016-P0213",
+        "B02-C016-P0214",
+        "B02-C016-P0215",
+        "B02-C016-P0216",
+        "B02-C016-P0217",
+        "B02-C016-P0222",
+        "B02-C016-P0224",
+        "B02-C016-P0235"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber rescue",
+      "model_notes": "Narrated size estimate for the snake based on skin, not a measured tunnel width or length."
+    },
+    {
+      "id": "B02-144",
+      "location": "Chamber approach — rockfall damage",
+      "category": "temporary",
+      "description": "Ron’s broken wand explodes, dropping large chunks of ceiling into a solid rock barrier between Harry and Ron/Lockhart. Huge cracks remain above; Ron begins shifting the fallen stones while Harry continues beyond the skin.",
+      "evidence": [
+        "B02-C016-P0220",
+        "B02-C016-P0221",
+        "B02-C016-P0223",
+        "B02-C016-P0224",
+        "B02-C016-P0225",
+        "B02-C016-P0226",
+        "B02-C016-P0228",
+        "B02-C016-P0229",
+        "B02-C016-P0230",
+        "B02-C016-P0231",
+        "B02-C016-P0233",
+        "B02-C016-P0234",
+        "B02-C016-P0235",
+        "B02-C016-P0236"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber rescue",
+      "model_notes": "Permanent-looking damage at this time; later clearance must be tracked separately. Passage not safely demolished by assumption."
+    },
+    {
+      "id": "B02-145",
+      "location": "Chamber inner door — emerald-eyed serpents",
+      "category": "magic",
+      "description": "Beyond repeated tunnel turns stands a solid wall carved with two intertwined stone serpents whose eyes are large glinting emeralds. At Harry’s hissed Open, the wall cracks and its serpent-bearing halves slide out of sight.",
+      "evidence": [
+        "B02-C016-P0236",
+        "B02-C016-P0237",
+        "B02-C016-P0238",
+        "B02-C016-P0239",
+        "B02-C016-P0240"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber rescue",
+      "model_notes": "Two distinct entry mechanisms: this door is beyond the bathroom pipe and rockfall. No inferred hinges or animated physical snakes."
+    },
+    {
+      "id": "B02-146",
+      "location": "Chamber of Secrets — pillars, vault and lighting",
+      "category": "interior",
+      "description": "A very long dim chamber has towering stone pillars entwined with carved serpents, supporting a ceiling initially lost in darkness and later identified as vaulted. Greenish gloom casts long shadows; footsteps and laughter echo strongly. Stone snake carvings have hollow eye sockets.",
+      "evidence": [
+        "B02-C017-P0001",
+        "B02-C017-P0002",
+        "B02-C017-P0003",
+        "B02-C017-P0004",
+        "B02-C017-P0083",
+        "B02-C017-P0084",
+        "B02-C017-P0091",
+        "B02-C017-P0101",
+        "B02-C017-P0106",
+        "B02-C017-P0108",
+        "B02-C017-P0109"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber confrontation",
+      "model_notes": "Length and ceiling height remain unmeasured; apparent watching/moving carvings are Harry’s impressions, not verified animation."
+    },
+    {
+      "id": "B02-147",
+      "location": "Chamber of Secrets — Slytherin statue and floor",
+      "category": "interior",
+      "description": "At the far end beyond the last pair of pillars, a statue as tall as the Chamber stands against the back wall. Its aged monkey-like face has a long thin beard descending almost to its sweeping stone robes; enormous grey feet rest on a smooth stone floor. Ginny lies between the feet and the diary near its toes.",
+      "evidence": [
+        "B02-C017-P0004",
+        "B02-C017-P0005",
+        "B02-C017-P0006",
+        "B02-C017-P0010",
+        "B02-C017-P0018",
+        "B02-C017-P0028",
+        "B02-C017-P0101",
+        "B02-C017-P0103",
+        "B02-C017-P0107"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber confrontation",
+      "model_notes": "Monument establishes chamber axis and end wall; no unsupported pool, central dais, bridge or stair."
+    },
+    {
+      "id": "B02-148",
+      "location": "Chamber attack control — Riddle’s admissions",
+      "category": "history",
+      "description": "Riddle says he controlled Ginny through the diary, made her open the Chamber, strangle roosters, paint threatening wall messages and direct the serpent at victims. He says she stole the diary back from Harry’s deserted dormitory and wrote her farewell before coming below.",
+      "evidence": [
+        "B02-C017-P0027",
+        "B02-C017-P0041",
+        "B02-C017-P0045",
+        "B02-C017-P0047",
+        "B02-C017-P0049",
+        "B02-C017-P0051",
+        "B02-C017-P0053",
+        "B02-C017-P0056",
+        "B02-C017-P0057",
+        "B02-C017-P0059",
+        "B02-C017-P0063",
+        "B02-C017-P0064",
+        "B02-C017-P0151"
+      ],
+      "certainty": "reported",
+      "temporal": "Late May 1993, Chamber confrontation",
+      "model_notes": "Character admission explains temporary incidents and paint material; retrospective details remain reported rather than independently witnessed."
+    },
+    {
+      "id": "B02-149",
+      "location": "Chamber history — discovery and hostile Hagrid allegations",
+      "category": "history",
+      "description": "Riddle says he spent five years learning the Chamber’s secrets and finding its entrance, then framed Hagrid and avoided reopening it under Dumbledore’s watch. He alleges Hagrid raised werewolf cubs beneath his bed and went into the Forest to wrestle trolls.",
+      "evidence": [
+        "B02-C017-P0053",
+        "B02-C017-P0054",
+        "B02-C017-P0056",
+        "B02-C017-P0057",
+        "B02-C017-P0059"
+      ],
+      "certainty": "reported",
+      "temporal": "Riddle’s account of his schooldays",
+      "model_notes": "Hostile retrospective report; alleged cubs and trolls must not become confirmed permanent residents or a mapped enclosure."
+    },
+    {
+      "id": "B02-150",
+      "location": "Chamber of Secrets — phoenix arrival",
+      "category": "magic",
+      "description": "Phoenix song grows through the chamber, then flames erupt atop the nearest pillar and Fawkes appears there. He flies to Harry carrying the Sorting Hat and lands on his shoulder.",
+      "evidence": [
+        "B02-C017-P0082",
+        "B02-C017-P0083",
+        "B02-C017-P0084",
+        "B02-C017-P0085",
+        "B02-C017-P0086",
+        "B02-C017-P0087",
+        "B02-C017-P0088",
+        "B02-C017-P0089",
+        "B02-C017-P0090"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber confrontation",
+      "model_notes": "Observed arrival at a pillar, without a demonstrated continuous route from the office or a physical ceiling opening."
+    },
+    {
+      "id": "B02-151",
+      "location": "Slytherin statue — basilisk mouth exit",
+      "category": "magic",
+      "description": "Riddle addresses Slytherin in Parseltongue from between the pillars. The gigantic stone face moves and its mouth opens into a huge black hole; the basilisk slithers up from inside, drops to the stone floor and moves into the chamber.",
+      "evidence": [
+        "B02-C017-P0101",
+        "B02-C017-P0102",
+        "B02-C017-P0103",
+        "B02-C017-P0104",
+        "B02-C017-P0105",
+        "B02-C017-P0106",
+        "B02-C017-P0107",
+        "B02-C017-P0108"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber confrontation",
+      "model_notes": "Statue conceals a creature route. Its interior depth, storage cavity and connection to other pipes remain unspecified."
+    },
+    {
+      "id": "B02-152",
+      "location": "Chamber — basilisk scale and combat clearance",
+      "category": "temporary",
+      "description": "The bright-green serpent is as thick as an oak trunk, lifts its blunt head high between pillars and has sabre-like fangs. It thrashes against pillars, sweeps the floor with its tail and lunges into a chamber wall. Fawkes punctures its yellow eyes, allowing Harry to look directly at it.",
+      "evidence": [
+        "B02-C017-P0107",
+        "B02-C017-P0108",
+        "B02-C017-P0110",
+        "B02-C017-P0112",
+        "B02-C017-P0113",
+        "B02-C017-P0114",
+        "B02-C017-P0115",
+        "B02-C017-P0116",
+        "B02-C017-P0118",
+        "B02-C017-P0119",
+        "B02-C017-P0125",
+        "B02-C017-P0126",
+        "B02-C017-P0127",
+        "B02-C017-P0128"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber confrontation",
+      "model_notes": "Observed relative scale and collision clearance, not a measured body length; no pillar breakage or wall collapse stated."
+    },
+    {
+      "id": "B02-153",
+      "location": "Chamber — summoned sword, corpse, blood and ink",
+      "category": "temporary",
+      "description": "A silver sword with egg-sized rubies in its handle appears in the Sorting Hat. Harry kills the basilisk with it; the corpse and broken fang remain on the floor amid blood. Piercing the diary with the fang releases ink over the floor and destroys Riddle’s projection.",
+      "evidence": [
+        "B02-C017-P0121",
+        "B02-C017-P0122",
+        "B02-C017-P0123",
+        "B02-C017-P0127",
+        "B02-C017-P0128",
+        "B02-C017-P0129",
+        "B02-C017-P0131",
+        "B02-C017-P0134",
+        "B02-C017-P0139",
+        "B02-C017-P0141",
+        "B02-C017-P0145",
+        "B02-C017-P0146",
+        "B02-C017-P0147",
+        "B02-C017-P0148",
+        "B02-C017-P0149",
+        "B02-C017-P0150",
+        "B02-C017-P0152",
+        "B02-C017-P0154"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber confrontation",
+      "model_notes": "Temporary aftermath and magical object arrival; the blood/ink state must be dated, not made normal chamber material."
+    },
+    {
+      "id": "B02-154",
+      "location": "Chamber inner doors — automatic closure and return rock gap",
+      "category": "route",
+      "description": "The survivors step over the dead snake and leave through the stone doors, which hiss shut behind them. Returning up the turning tunnel, they find a sizeable hand-cleared gap in the rockfall, just large enough for Ginny, Fawkes and Harry to pass.",
+      "evidence": [
+        "B02-C017-P0154",
+        "B02-C017-P0155",
+        "B02-C017-P0156",
+        "B02-C017-P0157",
+        "B02-C017-P0158",
+        "B02-C017-P0160",
+        "B02-C017-P0161",
+        "B02-C017-P0162",
+        "B02-C017-P0167",
+        "B02-C017-P0168"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber confrontation",
+      "model_notes": "Updates rockfall from solid blockage to passable gap; not complete clearance or restored ceiling stability."
+    },
+    {
+      "id": "B02-155",
+      "location": "Tunnel lighting and pipe mouth",
+      "category": "route",
+      "description": "Fawkes leads the return with softly gold-glowing wings through the dark tunnel to the pipe mouth, where Lockhart waits. Harry looks up the long dark shaft and sees no practical unaided climb.",
+      "evidence": [
+        "B02-C017-P0167",
+        "B02-C017-P0168",
+        "B02-C017-P0169",
+        "B02-C017-P0170",
+        "B02-C017-P0171",
+        "B02-C017-P0173",
+        "B02-C017-P0174",
+        "B02-C017-P0175",
+        "B02-C017-P0176"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber confrontation",
+      "model_notes": "Observed tunnel endpoint and lighting; inability to climb is implicit concern, not a detailed pipe cross-section."
+    },
+    {
+      "id": "B02-156",
+      "location": "Phoenix lift through pipe — bathroom reset",
+      "category": "magic",
+      "description": "Holding Fawkes’s tail and one another, Harry, Ron, Ginny and Lockhart become light and fly up through the pipe. They land on Myrtle’s wet floor and the concealing sink slides back into place.",
+      "evidence": [
+        "B02-C017-P0175",
+        "B02-C017-P0176",
+        "B02-C017-P0177",
+        "B02-C017-P0178",
+        "B02-C017-P0179",
+        "B02-C017-P0180",
+        "B02-C017-P0181",
+        "B02-C017-P0182",
+        "B02-C017-P0183",
+        "B02-C017-P0184"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber confrontation",
+      "model_notes": "Demonstrated four-person lift and reset of the entrance. Return does not require a second spoken command in this account."
+    },
+    {
+      "id": "B02-157",
+      "location": "Myrtle’s bathroom to McGonagall’s office",
+      "category": "route",
+      "description": "The group exits into a dark deserted corridor, follows Fawkes’s glow and moments later reaches McGonagall’s office; Harry knocks and opens the door.",
+      "evidence": [
+        "B02-C017-P0186",
+        "B02-C017-P0188",
+        "B02-C017-P0189",
+        "B02-C017-P0190"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May 1993, Chamber confrontation",
+      "model_notes": "Short narrated transition without stairs or floor number. Do not silently resolve earlier floor conflicts by adding stairs."
     }
   ],
   "chapter_reviews": [
@@ -2234,6 +3054,39 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter read. Password-based assumptions about the theft not treated as proof; emergency rules distinguished from observed patrols and unlocked outward doors."
+    },
+    {
+      "chapter": 15,
+      "reviewed_ranges": [
+        [
+          1,
+          161
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Distinct car clearing and spider hollow preserved; route durations remain unmeasured. Aragog’s claims distinguished from the actual rescue terrain."
+    },
+    {
+      "chapter": 16,
+      "reviewed_ranges": [
+        [
+          1,
+          240
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Gaze/plumbing explanation first labelled inference; pipe depth and under-lake position remain unmeasured. Distinct sink entrance and emerald-serpent inner door catalogued."
+    },
+    {
+      "chapter": 17,
+      "reviewed_ranges": [
+        [
+          1,
+          190
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Statue-mouth exit, true vault, combat clearances and return reset retained; no film-derived pool or bridge. Riddle’s claims remain admissions, with hostile fauna allegations unverified."
     }
   ]
 }
