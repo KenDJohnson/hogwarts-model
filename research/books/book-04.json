@@ -2057,6 +2057,217 @@
       "certainty": "explicit",
       "temporal": "January 1995",
       "model_notes": "The dresser is an observed fixture; the tea setup is temporary. The apple tree in the photograph is unlocated and cannot be assigned to Hogwarts grounds."
+    },
+    {
+      "id": "B04-139",
+      "location": "Marauder’s Map spatial display",
+      "category": "magic",
+      "description": "The map displays Hogwarts’s shortcuts and secret passages and people as labelled moving dots. From the corridor outside the Prefects’ bathroom Harry sees Filch and Mrs Norris in their office, Peeves in the trophy room a floor above, and a dot labelled Bartemius Crouch moving in Snape’s office at the map’s lower-left corner.",
+      "evidence": [
+        "B04-C025-P0002",
+        "B04-C025-P0067",
+        "B04-C025-P0068",
+        "B04-C025-P0069"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1995, night bathroom visit",
+      "model_notes": "Map position is not a real-world compass bearing. The label alone does not identify which Crouch or prove that Harry’s interpretation of the visitor is correct."
+    },
+    {
+      "id": "B04-140",
+      "location": "Gryffindor entrance night credential",
+      "category": "magic",
+      "description": "Ron opens the Fat Lady from outside using Banana fritters, letting the cloaked Harry slip out as Ron climbs in.",
+      "evidence": [
+        "B04-C025-P0003"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1995, night bathroom visit",
+      "model_notes": "Dated password and bidirectional use of the opening, not a permanent credential."
+    },
+    {
+      "id": "B04-141",
+      "location": "Boris the Bewildered and bathroom entrance",
+      "category": "furnishing",
+      "description": "Boris’s statue depicts a lost-looking wizard with his gloves on the wrong hands. Harry locates the bathroom door from this landmark, speaks Pine-fresh, enters when it creaks open, and bolts it from inside.",
+      "evidence": [
+        "B04-C025-P0004",
+        "B04-C025-P0005"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1995, night bathroom visit",
+      "model_notes": "Directly observed landmark and password entry following Cedric’s fifth-floor directions. The internal bolt is separate from the magical access requirement."
+    },
+    {
+      "id": "B04-142",
+      "location": "Prefects’ bathroom structure",
+      "category": "interior",
+      "description": "The bathroom is made of white marble and softly lit by a candle-filled chandelier. A rectangular swimming-pool-sized bath is sunk into the centre of the floor, surrounded by roughly a hundred golden taps with differently coloured jewels in their handles; it has a diving board. Long white linen curtains cover the windows, fluffy white towels are piled in a corner, and footsteps and the egg’s cry reverberate off the marble.",
+      "evidence": [
+        "B04-C025-P0006",
+        "B04-C025-P0007",
+        "B04-C025-P0009",
+        "B04-C025-P0010"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1995, night bathroom visit",
+      "model_notes": "The water is deep enough that Harry’s feet barely reach the bottom, and the pool permits swimming lengths. These are relative scale constraints, not numeric measurements."
+    },
+    {
+      "id": "B04-143",
+      "location": "Prefects’ bathroom mermaid painting",
+      "category": "furnishing",
+      "description": "The bathroom’s only painting has a golden frame and depicts a blonde mermaid sleeping on a rock, her hair moving as she snores. Myrtle describes her waking behaviour as giggling and displaying her fins.",
+      "evidence": [
+        "B04-C025-P0006",
+        "B04-C025-P0049",
+        "B04-C025-P0050"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1995, night bathroom visit",
+      "model_notes": "The sleeping image is observed; the prior animated behaviour is Myrtle’s report. Do not confuse the painted mermaid with the actual lake inhabitants."
+    },
+    {
+      "id": "B04-144",
+      "location": "Prefects’ bathroom tap effects",
+      "category": "magic",
+      "description": "Different taps supply hot water with football-sized pink and blue bubbles, thick ice-white foam, perfumed purple clouds, or arcing bouncing jets. The deep pool fills quickly; foam obscures the bather and coloured steam hangs above it.",
+      "evidence": [
+        "B04-C025-P0008",
+        "B04-C025-P0009",
+        "B04-C025-P0014"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1995, night bathroom visit",
+      "model_notes": "Observed magical plumbing state. Harry only imagines the foam might bear his weight; do not give it a proven solid surface."
+    },
+    {
+      "id": "B04-145",
+      "location": "Myrtle’s bathroom and pipe access",
+      "category": "magic",
+      "description": "Myrtle appears perched on a tap, later disappears up it, and normally haunts a toilet’s S-bend three floors below. The narration recalls those girls’ toilets being out of order when used for secret Polyjuice brewing. Myrtle says being flushed can send her down to the lake and that she sometimes visits it.",
+      "evidence": [
+        "B04-C025-P0012",
+        "B04-C025-P0016",
+        "B04-C025-P0017",
+        "B04-C025-P0018",
+        "B04-C025-P0019",
+        "B04-C025-P0021",
+        "B04-C025-P0022",
+        "B04-C025-P0046",
+        "B04-C025-P0047",
+        "B04-C025-P0048",
+        "B04-C025-P0061",
+        "B04-C025-P0064",
+        "B04-C025-P0066"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1995, night bathroom visit",
+      "model_notes": "Physical/ghost plumbing connection to the lake is reported, not a human-traversable tunnel. Three floors below relates to the fifth-floor Prefects’ bathroom. Her presence does not prove a particular arrival route was witnessed."
+    },
+    {
+      "id": "B04-146",
+      "location": "Underwater egg acoustics",
+      "category": "magic",
+      "description": "Above water the open egg screeches; beneath the bath water its voices become a song, intelligible when Harry also submerges his head. Myrtle confirms merpeople inhabit the lake.",
+      "evidence": [
+        "B04-C025-P0010",
+        "B04-C025-P0025",
+        "B04-C025-P0026",
+        "B04-C025-P0027",
+        "B04-C025-P0028",
+        "B04-C025-P0029",
+        "B04-C025-P0030",
+        "B04-C025-P0031",
+        "B04-C025-P0032",
+        "B04-C025-P0033",
+        "B04-C025-P0034",
+        "B04-C025-P0035",
+        "B04-C025-P0036",
+        "B04-C025-P0044",
+        "B04-C025-P0045",
+        "B04-C025-P0046",
+        "B04-C025-P0049",
+        "B04-C025-P0050",
+        "B04-C025-P0051"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1995 clue-solving; second-task preview",
+      "model_notes": "The egg is a portable clue demonstrating the underwater acoustic rule. Its threatened one-hour deadline is an announced tournament condition, not proof that a hostage will die."
+    },
+    {
+      "id": "B04-147",
+      "location": "Bathroom-to-lower-floors shortcut",
+      "category": "route",
+      "description": "Harry descends the nearest stairs from the bathroom corridor, hearing floorboards and passing attentive portraits, then pushes aside a tapestry halfway along the corridor below. A narrow staircase behind it is a shortcut down two floors; another tapestry covers its lower exit into a torch-lit corridor.",
+      "evidence": [
+        "B04-C025-P0067",
+        "B04-C025-P0070",
+        "B04-C025-P0071",
+        "B04-C025-P0072",
+        "B04-C025-P0073",
+        "B04-C025-P0076",
+        "B04-C025-P0078",
+        "B04-C025-P0082",
+        "B04-C025-P0086",
+        "B04-C025-P0103",
+        "B04-C025-P0135"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1995, night bathroom visit",
+      "model_notes": "Both upper and lower textile screens are described. Do not assign every intermediate landing or equate map placement with physical direction."
+    },
+    {
+      "id": "B04-148",
+      "location": "Trick stair entrapment",
+      "category": "magic",
+      "description": "Halfway down the narrow shortcut Harry’s leg sinks through the trick step Neville forgets to avoid and is caught above the knee. Further struggling sinks it deeper; the map rests six steps below him, out of reach. Moody frees him by pulling his arms, after which he climbs onto the step above.",
+      "evidence": [
+        "B04-C025-P0072",
+        "B04-C025-P0073",
+        "B04-C025-P0078",
+        "B04-C025-P0084",
+        "B04-C025-P0123",
+        "B04-C025-P0132",
+        "B04-C025-P0134",
+        "B04-C025-P0145",
+        "B04-C025-P0151",
+        "B04-C025-P0153"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1995, night bathroom visit",
+      "model_notes": "Text identifies the trap with Neville’s known step. Model entrapment and assisted extraction, with traversable steps above and below, not a simple bottomless opening."
+    },
+    {
+      "id": "B04-149",
+      "location": "Snape’s office security and storage",
+      "category": "magic",
+      "description": "Snape says his office is sealed with a spell only a wizard can break and that Peeves cannot enter. He reports finding its torches lit and a cupboard ajar, and describes a private store cupboard of potion ingredients from which supplies have previously vanished.",
+      "evidence": [
+        "B04-C025-P0089",
+        "B04-C025-P0095",
+        "B04-C025-P0097",
+        "B04-C025-P0112",
+        "B04-C025-P0115"
+      ],
+      "certainty": "reported",
+      "temporal": "January 1995, night bathroom visit",
+      "model_notes": "All office condition/security details here are reported by Snape; the scene takes place on the stairs, not inside the office."
+    },
+    {
+      "id": "B04-150",
+      "location": "Shortcut stair to Moody’s office",
+      "category": "route",
+      "description": "After Harry is freed, he and Moody climb to the top of the shortcut staircase and walk to Moody’s office door; Harry then returns to Gryffindor Tower.",
+      "evidence": [
+        "B04-C025-P0177",
+        "B04-C025-P0181",
+        "B04-C025-P0182",
+        "B04-C025-P0183"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1995, night bathroom visit",
+      "model_notes": "Ordered return relation only. Ten minutes to Harry being in bed includes an unmeasured walking route and changing, not a metric distance."
     }
   ],
   "chapter_reviews": [
@@ -2323,6 +2534,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed. Included snow/condensation, unicorn lesson route, cabin closure, ship dive and open water, village gate-road connection, bar mirror, and dresser. Rita’s allegations and unlocated photograph scenery not treated as observed Hogwarts structure."
+    },
+    {
+      "chapter": 25,
+      "reviewed_ranges": [
+        [
+          1,
+          183
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included bathroom fixtures and water behaviour, Myrtle’s plumbing report, map-only evidence, two-floor shortcut and trap mechanics, office security report and return route. Character guesses about identity, vision and conspiracies preserved as uncertain."
     }
   ]
 }
