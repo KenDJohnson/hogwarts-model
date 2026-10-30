@@ -2309,6 +2309,44 @@
       "certainty": "explicit",
       "temporal": "May 1998, post-battle",
       "model_notes": "Expected sleeping furniture and tower destination, not a narrated post-battle visit or a confirmed food delivery."
+    },
+    {
+      "id": "B07-137",
+      "location": "Hogwarts Express / London departure connection",
+      "category": "route",
+      "description": "Families pass through the barrier between platforms nine and ten without collision to reach platform nine and three-quarters, clouded by thick white steam from the scarlet Hogwarts Express. Carriages have doors and opening windows, with a corridor along which James runs; the train leaves near eleven and rounds a corner out of sight.",
+      "evidence": [
+        "B07-C037-P0001",
+        "B07-C037-P0004",
+        "B07-C037-P0008",
+        "B07-C037-P0014",
+        "B07-C037-P0015",
+        "B07-C037-P0017",
+        "B07-C037-P0019",
+        "B07-C037-P0024",
+        "B07-C037-P0047",
+        "B07-C037-P0056",
+        "B07-C037-P0069",
+        "B07-C037-P0072",
+        "B07-C037-P0073"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 2017 epilogue",
+      "model_notes": "School railway departure endpoint only; the fifty-yard separation of families on the platform is not a Hogwarts grounds measurement. No Hogsmeade station arrival is depicted in the epilogue."
+    },
+    {
+      "id": "B07-138",
+      "location": "School arrival boats / Thestral carriages",
+      "category": "route",
+      "description": "Harry tells first-year Albus he will go up to school in the boats rather than the carriages. James warns him about Thestrals, which Albus says James described as invisible; Harry calls them gentle.",
+      "evidence": [
+        "B07-C037-P0054",
+        "B07-C037-P0055",
+        "B07-C037-P0057"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 2017 epilogue",
+      "model_notes": "Confirms the two arrival modes remain in use nineteen years after the battle. No launch site, lake course, carriage road or universal visibility rule is supplied here."
     }
   ],
   "chapter_reviews": [
@@ -2707,6 +2745,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs in three complete chunks. Recorded Forest return/tree damage, outer-tree Dementors, lawn/steps confrontation, Hat/window/sword, wall-crossing reinforcements and aerial creatures, kitchen-route door, Hall duels/size/floor/sunrise, tables restored and adjoining chamber, stair/gargoyle damage, moving office stair, returning portraits and intended object dispositions. No unobserved tomb repair or whole-castle restoration inferred."
+    },
+    {
+      "chapter": 37,
+      "reviewed_ranges": [
+        [
+          1,
+          77
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph of the Nineteen Years Later epilogue. Recorded school railway departure connection and reported first-year boats versus carriages/Thestrals. School operation/house/teacher names without additional physical detail are not separate spatial entries."
     }
   ]
 }
