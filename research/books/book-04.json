@@ -906,6 +906,153 @@
       "certainty": "explicit",
       "temporal": "31 October 1994, after selection",
       "model_notes": "Adds the curtain material to the earlier crimson-colour description; the curtains can conceal an occupant."
+    },
+    {
+      "id": "B04-064",
+      "location": "Lakeside morning walk",
+      "category": "grounds",
+      "description": "Harry and Hermione descend from Gryffindor, cross the Entrance Hall, and walk across the lawns to the lake and moored Durmstrang ship. Owls occupy a nearby tree. A large tentacle rises from the lake to take a piece of toast floating on the surface.",
+      "evidence": [
+        "B04-C018-P0002",
+        "B04-C018-P0005",
+        "B04-C018-P0018",
+        "B04-C018-P0022",
+        "B04-C018-P0026"
+      ],
+      "certainty": "explicit",
+      "temporal": "Morning after Hallowe’en 1994",
+      "model_notes": "The tentacle is observed; this passage does not directly name its owner or establish a permanent feeding point."
+    },
+    {
+      "id": "B04-065",
+      "location": "Owlery rafters and school owls",
+      "category": "interior",
+      "description": "The Owlery has long lines of perches, straw on the floor, and high rafters to which Hedwig can fly out of reach. School owls are kept here; Hermione says anyone may borrow them.",
+      "evidence": [
+        "B04-C018-P0030",
+        "B04-C018-P0031",
+        "B04-C018-P0036",
+        "B04-C018-P0037",
+        "B04-C018-P0038"
+      ],
+      "certainty": "explicit",
+      "temporal": "Morning after Hallowe’en 1994",
+      "model_notes": "Observed structure and stock, with unrestricted borrowing as Hermione’s report. No count of school-owned versus privately owned owls is established."
+    },
+    {
+      "id": "B04-066",
+      "location": "Herbology Bouncing Bulb work area",
+      "category": "temporary",
+      "description": "Pupils share a tray while re-potting Bouncing Bulbs in Herbology; the bulbs can wriggle free and strike nearby pupils.",
+      "evidence": [
+        "B04-C018-P0042"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "A specific lesson installation. The passage does not name its greenhouse or establish that it is the same room as the earlier Bubotubers."
+    },
+    {
+      "id": "B04-067",
+      "location": "Hagrid’s cabin and Skrewt exercise lawn",
+      "category": "temporary",
+      "description": "Hagrid brings individual Skrewt crates from behind his cabin. Pupils take the now armoured, over-three-foot Skrewts on leashes across the lawn, scattering widely as the creatures blast forward several yards at a time.",
+      "evidence": [
+        "B04-C018-P0046",
+        "B04-C018-P0048",
+        "B04-C018-P0056",
+        "B04-C018-P0057"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "A dated outdoor lesson. The crates come from behind the cabin, not explicitly from an interior room or shed."
+    },
+    {
+      "id": "B04-068",
+      "location": "Charms classroom equipment",
+      "category": "furnishing",
+      "description": "During Summoning practice Hermione draws board dusters, wastepaper baskets and Lunascopes across Flitwick’s classroom.",
+      "evidence": [
+        "B04-C018-P0065"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "Identifies classroom equipment and room-crossing paths but gives no quantities or storage arrangement."
+    },
+    {
+      "id": "B04-069",
+      "location": "Potions dungeon and approach",
+      "category": "interior",
+      "description": "A dim underground stone passage runs outside Snape’s dungeon; voices echo in it. Within the classroom pupils sit at tables and desks, with Snape’s desk at the front and seating extending to the back and across the room.",
+      "evidence": [
+        "B04-C018-P0067",
+        "B04-C018-P0068",
+        "B04-C018-P0076",
+        "B04-C018-P0078",
+        "B04-C018-P0097",
+        "B04-C018-P0098",
+        "B04-C018-P0100",
+        "B04-C018-P0104",
+        "B04-C018-P0105",
+        "B04-C018-P0116"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "No fixed seating map is supplied. The badge lights brighten the passage during this incident, not as permanent illumination."
+    },
+    {
+      "id": "B04-070",
+      "location": "Potions dungeon to weighing room",
+      "category": "route",
+      "description": "Harry and Colin leave the dungeon towards steps leading into the Entrance Hall, then reach the classroom used for the Wand Weighing. Harry later goes down from that room to dinner.",
+      "evidence": [
+        "B04-C018-P0107",
+        "B04-C018-P0113",
+        "B04-C018-P0117",
+        "B04-C018-P0118",
+        "B04-C018-P0121",
+        "B04-C018-P0200",
+        "B04-C018-P0205"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "The route establishes an ascent from the dungeon and a later descent to dinner; it does not enumerate the intermediate flights or identify the weighing room’s floor."
+    },
+    {
+      "id": "B04-071",
+      "location": "Wand Weighing classroom",
+      "category": "temporary",
+      "description": "A fairly small classroom is rearranged with most desks at the back, a large central clearing, and three desks end-to-end beneath a long velvet covering before the blackboard. Five chairs stand behind them for judges; champions sit near the door. It has an open window through which conjured birds fly into daylight.",
+      "evidence": [
+        "B04-C018-P0122",
+        "B04-C018-P0170",
+        "B04-C018-P0171",
+        "B04-C018-P0172",
+        "B04-C018-P0173",
+        "B04-C018-P0192",
+        "B04-C018-P0204"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "The photographer cannot stand far enough back to frame Maxime standing, but lens and framing are unknown; do not derive a numeric room width from that problem."
+    },
+    {
+      "id": "B04-072",
+      "location": "Broom cupboard near weighing classroom",
+      "category": "interior",
+      "description": "A nearby door opens into a cramped broom cupboard. Rita seats herself on an upturned bucket and Harry on a cardboard box, using a crate of Mrs Skower’s cleaning fluid as a writing support. Closing the door leaves it dark until she conjures floating candles; light from outside is bright when Dumbledore opens it.",
+      "evidence": [
+        "B04-C018-P0132",
+        "B04-C018-P0133",
+        "B04-C018-P0134",
+        "B04-C018-P0135",
+        "B04-C018-P0136",
+        "B04-C018-P0139",
+        "B04-C018-P0165",
+        "B04-C018-P0166"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before first task",
+      "model_notes": "Preserve storage contents and the temporary candle illumination. The cupboard is near the weighing classroom but not stated to open directly from it."
     }
   ],
   "chapter_reviews": [
@@ -1095,6 +1242,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed. Distinguished observed portrait movement from Harry’s seven-staircase reconstruction. The Goblet’s alleged tampering is character explanation, not measured building geometry."
+    },
+    {
+      "chapter": 18,
+      "reviewed_ranges": [
+        [
+          1,
+          214
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included unnamed teaching and storage spaces, cabin rear access, lakeside fauna, Owlery rafters, and dungeon-to-weighing route; wand specifications and unrelated shop memories excluded."
     }
   ]
 }
