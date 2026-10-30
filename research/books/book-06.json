@@ -31,11 +31,12 @@
       "id": "B06-003",
       "location": "Hagrid’s care of Buckbeak",
       "category": "grounds",
-      "description": "Buckbeak is staying with Hagrid, under the protective replacement name Witherwings.",
+      "description": "Buckbeak is staying with Hagrid, under the protective replacement name Witherwings. Hagrid subsequently reports that the Hippogriff is back in the open air.",
       "evidence": [
         "B06-C003-P0112",
         "B06-C003-P0113",
-        "B06-C003-P0114"
+        "B06-C003-P0114",
+        "B06-C006-P0037"
       ],
       "certainty": "reported",
       "temporal": "Summer 1996 onward",
@@ -79,6 +80,19 @@
       "certainty": "explicit",
       "temporal": "Harry’s recollection in summer 1996",
       "model_notes": "Furniture and conversational arrangement; do not infer office dimensions from this recollection."
+    },
+    {
+      "id": "B06-007",
+      "location": "Prefects’ bathroom",
+      "category": "magic",
+      "description": "Hermione says appointment as Quidditch captain gives Harry prefect-equivalent status, including use of the special prefects’ bathroom.",
+      "evidence": [
+        "B06-C006-P0015",
+        "B06-C006-P0016"
+      ],
+      "certainty": "reported",
+      "temporal": "Summer 1996 appointment",
+      "model_notes": "Access permission; no location, fittings or geometry are supplied here."
     }
   ],
   "chapter_reviews": [
@@ -125,6 +139,28 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter; initial output truncation at paragraphs 114–138 repaired by reading that exact block separately before marking coverage. Recorded anti-Apparition rule, centaur habitat report and desk recollection. Budleigh Babberton and Burrow architecture are outside scope."
+    },
+    {
+      "chapter": 5,
+      "reviewed_ranges": [
+        [
+          1,
+          253
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph in two non-truncated blocks. Burrow domestic scene, school results and remembered prophecy conversation add no Hogwarts physical or spatial description."
+    },
+    {
+      "chapter": 6,
+      "reviewed_ranges": [
+        [
+          1,
+          228
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks. Recorded bathroom access and outdoor Buckbeak state. Diagon Alley is outside immediate castle model. Retain Borgin’s large black cabinet at P0184/P0198/P0211 for reconciliation if later text establishes a Hogwarts connection; repair/reservation dialogue does not yet identify an endpoint."
     }
   ]
 }
