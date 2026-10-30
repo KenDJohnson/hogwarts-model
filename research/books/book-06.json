@@ -93,6 +93,226 @@
       "certainty": "reported",
       "temporal": "Summer 1996 appointment",
       "model_notes": "Access permission; no location, fittings or geometry are supplied here."
+    },
+    {
+      "id": "B06-008",
+      "location": "King’s Cross–Hogwarts railway connection",
+      "category": "route",
+      "description": "The solid barrier between King’s Cross platforms nine and ten admits travellers to platform nine and three-quarters, where the scarlet, steam-emitting Hogwarts Express waits.",
+      "evidence": [
+        "B06-C007-P0037",
+        "B06-C007-P0038",
+        "B06-C007-P0039",
+        "B06-C007-P0040"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1996",
+      "model_notes": "Off-site approach endpoint; retain the platform access relationship rather than treating King’s Cross as castle geometry."
+    },
+    {
+      "id": "B06-009",
+      "location": "Hogwarts Express approach to Hogsmeade",
+      "category": "route",
+      "description": "Late in the journey the passing scenery is wild; Hogwarts becomes visible through the train window before the train slows and stops at a dark platform.",
+      "evidence": [
+        "B06-C007-P0187",
+        "B06-C007-P0224",
+        "B06-C007-P0226",
+        "B06-C007-P0227",
+        "B06-C007-P0229"
+      ],
+      "certainty": "explicit",
+      "temporal": "Evening arrival, 1 September 1996",
+      "model_notes": "Visibility before arrival constrains an approach view. The half-hour estimate at P0187 is Harry’s judgement, not a measured travel time; no compass bearing is given."
+    },
+    {
+      "id": "B06-010",
+      "location": "Hogwarts Express carriage",
+      "category": "furnishing",
+      "description": "Compartments open from a corridor through sliding doors; door glazing can be screened with blinds. Luggage racks stand above seats, and swinging ceiling lanterns light the compartment brightly.",
+      "evidence": [
+        "B06-C007-P0191",
+        "B06-C007-P0192",
+        "B06-C007-P0193",
+        "B06-C007-P0229"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1996 approach journey",
+      "model_notes": "Ancillary transport interior if the arrival sequence is modelled; no exact dimensions. Distinguish corridor-facing glazing from exterior train windows."
+    },
+    {
+      "id": "B06-011",
+      "location": "Hogsmeade Station and school lane",
+      "category": "route",
+      "description": "A lane leads from the station towards the school. Harry and Tonks walk uphill along the dark, deserted lane, following fresh carriage tracks; the walk feels substantially longer than Harry had appreciated from carriage travel.",
+      "evidence": [
+        "B06-C008-P0019",
+        "B06-C008-P0022",
+        "B06-C008-P0031",
+        "B06-C008-P0032"
+      ],
+      "certainty": "explicit",
+      "temporal": "Evening arrival, 1 September 1996",
+      "model_notes": "Route and slope are explicit; perceived distance supplies no numerical length. The Thestral-carriage convoy at P0005 is imagined rather than witnessed in this scene."
+    },
+    {
+      "id": "B06-012",
+      "location": "Station acoustic surroundings",
+      "category": "grounds",
+      "description": "Lying in the train at the station, Harry thinks he can hear trees around the lake rustling and a distant owl.",
+      "evidence": [
+        "B06-C008-P0005"
+      ],
+      "certainty": "explicit",
+      "temporal": "Evening arrival, 1 September 1996",
+      "model_notes": "Preserve the tentative auditory perception; it does not establish a station lakeshore view or exact distance to the lake."
+    },
+    {
+      "id": "B06-013",
+      "location": "Hogsmeade school protection",
+      "category": "magic",
+      "description": "Tonks says she, Proudfoot, Savage and Dawlish are stationed in Hogsmeade to protect the school.",
+      "evidence": [
+        "B06-C008-P0026",
+        "B06-C008-P0027",
+        "B06-C008-P0028"
+      ],
+      "certainty": "reported",
+      "temporal": "Evening arrival, 1 September 1996",
+      "model_notes": "Security deployment in the village; no specific post, office or watchtower is identified."
+    },
+    {
+      "id": "B06-014",
+      "location": "Hogwarts main gates",
+      "category": "exterior",
+      "description": "Tall pillars flank the gates, each pillar topped by a winged boar. On this late arrival the gates are chained and padlocked shut.",
+      "evidence": [
+        "B06-C008-P0032"
+      ],
+      "certainty": "explicit",
+      "temporal": "Evening arrival, 1 September 1996",
+      "model_notes": "Model paired gateposts and their sculptures. Material and dimensions of the posts and gates are not specified in this passage."
+    },
+    {
+      "id": "B06-015",
+      "location": "Hogwarts gates and perimeter walls",
+      "category": "magic",
+      "description": "Alohomora does not release the padlock. Tonks says Dumbledore bewitched the gates and all perimeter walls carry anti-intruder jinxes. Snape opens the gates by tapping the padlock with his wand; the chains withdraw and the gates creak, then close with a clang and are resecured by another tap.",
+      "evidence": [
+        "B06-C008-P0033",
+        "B06-C008-P0034",
+        "B06-C008-P0036",
+        "B06-C008-P0037",
+        "B06-C008-P0041",
+        "B06-C008-P0046"
+      ],
+      "certainty": "explicit",
+      "temporal": "Evening arrival, 1 September 1996",
+      "model_notes": "Observed gate behaviour supports an authorised-opening interaction. Tonks’s explanation of caster and wall jinxes is a report, not an observed attempted wall crossing; exact authorisation mechanism unspecified."
+    },
+    {
+      "id": "B06-016",
+      "location": "Main gates–castle front entrance",
+      "category": "route",
+      "description": "From the gates a lantern can be seen at the distant foot of the castle. Snape approaches from there, then escorts Harry from the gates up to the castle steps.",
+      "evidence": [
+        "B06-C008-P0040",
+        "B06-C008-P0049",
+        "B06-C008-P0056"
+      ],
+      "certainty": "explicit",
+      "temporal": "Evening arrival, 1 September 1996",
+      "model_notes": "Establish distance and line of sight between gates and castle foot without inventing bearings or a measured length."
+    },
+    {
+      "id": "B06-017",
+      "location": "Front entrance and Entrance Hall",
+      "category": "interior",
+      "description": "Castle steps lead to great oaken front doors opening into a vast flagstone-floored Entrance Hall. Open doors from the Entrance Hall transmit Great Hall talk, laughter and clinking crockery.",
+      "evidence": [
+        "B06-C008-P0056",
+        "B06-C008-P0130",
+        "B06-C008-P0132"
+      ],
+      "certainty": "explicit",
+      "temporal": "Evening arrival, 1 September 1996",
+      "model_notes": "Direct front-door → Entrance Hall → Great Hall connection. Flagstone size, hall height and door dimensions unspecified."
+    },
+    {
+      "id": "B06-018",
+      "location": "Great Hall table arrangement",
+      "category": "interior",
+      "description": "The Great Hall contains four long house tables with benches and a staff table at the top. Gryffindor’s table is furthest from the Entrance Hall; Harry passes the Hufflepuff table on his way there.",
+      "evidence": [
+        "B06-C008-P0056",
+        "B06-C008-P0058",
+        "B06-C008-P0115"
+      ],
+      "certainty": "explicit",
+      "temporal": "Evening arrival, 1 September 1996",
+      "model_notes": "Relative ordering only: do not assign all four tables left-to-right or a compass direction from this walk alone."
+    },
+    {
+      "id": "B06-019",
+      "location": "Great Hall candlelight and acoustics",
+      "category": "furnishing",
+      "description": "Floating candles illuminate the feast and make the plates glitter. Talk and laughter echo around the Hall.",
+      "evidence": [
+        "B06-C008-P0058",
+        "B06-C008-P0085"
+      ],
+      "certainty": "explicit",
+      "temporal": "Evening arrival, 1 September 1996",
+      "model_notes": "Suspended magical lighting and reverberant acoustic character; no ceiling geometry added here."
+    },
+    {
+      "id": "B06-020",
+      "location": "Great Hall meal service",
+      "category": "magic",
+      "description": "Chicken and chips vanish from the table and are replaced by puddings.",
+      "evidence": [
+        "B06-C008-P0068"
+      ],
+      "certainty": "explicit",
+      "temporal": "Evening arrival, 1 September 1996",
+      "model_notes": "Temporary meal transition, not fixed table-top clutter; source mechanism not explained here."
+    },
+    {
+      "id": "B06-021",
+      "location": "Staff-table seating",
+      "category": "temporary",
+      "description": "At this feast McGonagall sits beside Hagrid, Trelawney is on Hagrid’s other side, and Snape sits to Dumbledore’s right.",
+      "evidence": [
+        "B06-C008-P0078",
+        "B06-C008-P0103"
+      ],
+      "certainty": "explicit",
+      "temporal": "Evening arrival, 1 September 1996",
+      "model_notes": "Dated seating arrangement, not permanent assigned chairs. P0078 also refers to Trelawney’s tower room without describing it."
+    },
+    {
+      "id": "B06-022",
+      "location": "Castle security state",
+      "category": "magic",
+      "description": "Dumbledore tells the assembled school that the castle’s magical fortifications were strengthened over the summer and reiterates restrictions including being out of bed after hours.",
+      "evidence": [
+        "B06-C008-P0112"
+      ],
+      "certainty": "reported",
+      "temporal": "Evening arrival, 1 September 1996",
+      "model_notes": "Broad security state, independent of the more specific gates and walls. Do not invent visible fortification additions."
+    },
+    {
+      "id": "B06-023",
+      "location": "Grawp’s mountain cave",
+      "category": "grounds",
+      "description": "Hagrid reports that Dumbledore has arranged a new home for Grawp in a large cave up in the mountains, replacing his Forest home.",
+      "evidence": [
+        "B06-C008-P0127"
+      ],
+      "certainty": "reported",
+      "temporal": "Evening arrival, 1 September 1996",
+      "model_notes": "Mountain habitat beyond the Forest; no exact mountain, cave entrance, route or distance is supplied."
     }
   ],
   "chapter_reviews": [
@@ -161,6 +381,28 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two blocks. Recorded bathroom access and outdoor Buckbeak state. Diagon Alley is outside immediate castle model. Retain Borgin’s large black cabinet at P0184/P0198/P0211 for reconciliation if later text establishes a Hogwarts connection; repair/reservation dialogue does not yet identify an endpoint."
+    },
+    {
+      "chapter": 7,
+      "reviewed_ranges": [
+        [
+          1,
+          240
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two non-truncated blocks. Captured railway access, approach visibility and compartment fittings for the arrival connection. No castle-room description in Slug Club dialogue."
+    },
+    {
+      "chapter": 8,
+      "reviewed_ranges": [
+        [
+          1,
+          139
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph in two blocks. Captured station lane, gateposts, gate operation/wall security, castle approach, entrance surfaces, Hall layout/light/service/seating and Grawp’s new cave. Tentative sounds and imagined carriage convoy are distinguished from direct observation."
     }
   ]
 }
