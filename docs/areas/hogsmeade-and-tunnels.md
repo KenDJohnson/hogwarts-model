@@ -1011,6 +1011,19 @@ Model: Retained to situate the school-linked interview meeting; tea-shop romanti
 - [Book 5, ch. 25, “The Beetle at Bay”, ref p. 671, ¶192 (B05-C025-P0192)](../../build/reader/book-05.html#B05-C025-P0192)
 - [Book 5, ch. 25, “The Beetle at Bay”, ref p. 671, ¶193 (B05-C025-P0193)](../../build/reader/book-05.html#B05-C025-P0193)
 
+## B05-296: Hog’s Head upstairs interview room
+
+Dumbledore says Trelawney’s original interview and prophecy occurred on a cold wet night in a room above the Hog’s Head bar; an eavesdropper was discovered and expelled from the building.
+
+Evidence: reported; state: June 1996 dawn after Ministry battle; historical interview where specified.
+
+Model: Historical school-recruitment venue; establishes an upstairs room over the bar, not a Hogwarts room.
+
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1006–1007, ¶180 (B05-C037-P0180)](../../build/reader/book-05.html#B05-C037-P0180)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1010, ¶201 (B05-C037-P0201)](../../build/reader/book-05.html#B05-C037-P0201)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1010, ¶202 (B05-C037-P0202)](../../build/reader/book-05.html#B05-C037-P0202)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1010–1011, ¶203 (B05-C037-P0203)](../../build/reader/book-05.html#B05-C037-P0203)
+
 ## B06-009: Hogwarts Express approach to Hogsmeade
 
 Late in the journey the passing scenery is wild; Hogwarts becomes visible through the train window before the train slows and stops at a dark platform.

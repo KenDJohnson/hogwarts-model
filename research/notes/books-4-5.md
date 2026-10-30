@@ -5,8 +5,10 @@ The complete narrative of both assigned books was semantically reviewed, paragra
 | Book | Entries | Chapters reviewed | Paragraphs reviewed | Narrative words |
 | --- | ---: | ---: | ---: | ---: |
 | 4 | 243 | 37 / 37 | 6,131 / 6,131 | 194,253 |
-| 5 | 311 | 38 / 38 | 9,069 / 9,069 | 260,727 |
-| Total | 554 | 75 / 75 | 15,200 / 15,200 | 454,980 |
+| 5 | 312 | 38 / 38 | 9,069 / 9,069 | 260,727 |
+| Total | 555 | 75 / 75 | 15,200 / 15,200 | 454,980 |
+
+The parent’s second-pass audit added B05-312 for the spring white-cloud ceiling and supplemented B05-288 with the distant office voices. Counts above include the added record.
 
 The supplied absolute-path corpus was the only narrative source. No other canon, film, wiki, website, or print-page references were used. The EPUB and source checkout were not modified. No EPUB or extracted corpus is tracked in this research branch. Only the two assigned JSON files and this reconciliation note were written.
 

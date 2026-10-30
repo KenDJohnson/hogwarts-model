@@ -473,6 +473,39 @@ Model: Demonstrates vertical clearance and chained peg removal; Harry’s own br
 - [Book 5, ch. 29, “Careers Advice”, ref p. 804, ¶269 (B05-C029-P0269)](../../build/reader/book-05.html#B05-C029-P0269)
 - [Book 5, ch. 29, “Careers Advice”, ref p. 804–805, ¶270 (B05-C029-P0270)](../../build/reader/book-05.html#B05-C029-P0270)
 
+## B05-255: Entrance Hall and Great Hall sightline
+
+From dinner seats pupils can see the examiners through the Great Hall’s double doors into the Entrance Hall; they cross the threshold and linger at the marble stair foot.
+
+Evidence: explicit; state: Late May–June 1996 O.W.L. examinations and night raid.
+
+Model: Line of sight from dining space to Hall circulation; broom-cupboard emergence is only a simile about Marchbanks’s search.
+
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 847, ¶68 (B05-C031-P0068)](../../build/reader/book-05.html#B05-C031-P0068)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 847, ¶69 (B05-C031-P0069)](../../build/reader/book-05.html#B05-C031-P0069)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 847, ¶70 (B05-C031-P0070)](../../build/reader/book-05.html#B05-C031-P0070)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 847–848, ¶72 (B05-C031-P0072)](../../build/reader/book-05.html#B05-C031-P0072)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 848, ¶73 (B05-C031-P0073)](../../build/reader/book-05.html#B05-C031-P0073)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 848, ¶74 (B05-C031-P0074)](../../build/reader/book-05.html#B05-C031-P0074)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 848–849, ¶76 (B05-C031-P0076)](../../build/reader/book-05.html#B05-C031-P0076)
+
+## B05-302: Entrance Hall Slytherin and office routes
+
+Descending the last marble step into the Entrance Hall, Harry sees Malfoy’s group emerge from a door on his right known to lead down to Slytherin common room. Snape emerges from stairs down to his office; McGonagall arrives up the exterior stone steps and sends luggage upstairs toward her office via the marble staircase.
+
+Evidence: explicit; state: June 1996 final school days and homeward journey.
+
+Model: Right is from a descending-marble-stair viewpoint, not from entering the front doors. Slytherin entrance itself is not described.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1019, ¶48 (B05-C038-P0048)](../../build/reader/book-05.html#B05-C038-P0048)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1020–1021, ¶61 (B05-C038-P0061)](../../build/reader/book-05.html#B05-C038-P0061)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1021, ¶69 (B05-C038-P0069)](../../build/reader/book-05.html#B05-C038-P0069)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1021, ¶70 (B05-C038-P0070)](../../build/reader/book-05.html#B05-C038-P0070)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1021, ¶71 (B05-C038-P0071)](../../build/reader/book-05.html#B05-C038-P0071)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1021, ¶72 (B05-C038-P0072)](../../build/reader/book-05.html#B05-C038-P0072)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1021, ¶73 (B05-C038-P0073)](../../build/reader/book-05.html#B05-C038-P0073)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1022, ¶78 (B05-C038-P0078)](../../build/reader/book-05.html#B05-C038-P0078)
+
 ## B06-017: Front entrance and Entrance Hall
 
 Castle steps lead to great oaken front doors opening into a vast flagstone-floored Entrance Hall. Open doors from the Entrance Hall transmit Great Hall talk, laughter and clinking crockery.

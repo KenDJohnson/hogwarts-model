@@ -866,6 +866,414 @@
           "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
         }
       ]
+    },
+    {
+      "book": 5,
+      "catalogue_entries_at_audit": 311,
+      "candidates_inspected": [
+        {
+          "id": "B05-C022-P0196",
+          "score": 21,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place or St Mungo’s, outside the school site."
+        },
+        {
+          "id": "B05-C007-P0002",
+          "score": 15,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Ministry offices, courtroom, lifts or Department of Mysteries, outside Hogwarts."
+        },
+        {
+          "id": "B05-C007-P0150",
+          "score": 13,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Ministry offices, courtroom, lifts or Department of Mysteries, outside Hogwarts."
+        },
+        {
+          "id": "B05-C019-P0031",
+          "score": 13,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Students’ scarves, hats and badges are worn clothing, not a fixed decoration or fixture."
+        },
+        {
+          "id": "B05-C002-P0204",
+          "score": 12,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive or Grimmauld Place setting, outside Hogwarts."
+        },
+        {
+          "id": "B05-C023-P0087",
+          "score": 12,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place or St Mungo’s, outside the school site."
+        },
+        {
+          "id": "B05-C011-P0178",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Pupils’ actions at existing house tables, no new spatial arrangement."
+        },
+        {
+          "id": "B05-C024-P0014",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive or Grimmauld Place setting, outside Hogwarts."
+        },
+        {
+          "id": "B05-C028-P0045",
+          "score": 10,
+          "disposition": "supplemented",
+          "reason": "Added B05-312 for the specifically described white-cloud ceiling state."
+        },
+        {
+          "id": "B05-C036-P0021",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Ministry offices, courtroom, lifts or Department of Mysteries, outside Hogwarts."
+        },
+        {
+          "id": "B05-C004-P0025",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive or Grimmauld Place setting, outside Hogwarts."
+        },
+        {
+          "id": "B05-C005-P0142",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive or Grimmauld Place setting, outside Hogwarts."
+        },
+        {
+          "id": "B05-C007-P0115",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Ministry offices, courtroom, lifts or Department of Mysteries, outside Hogwarts."
+        },
+        {
+          "id": "B05-C018-P0131",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Dream corridor later explicitly identified as the Ministry corridor in B05-C024-P0227."
+        },
+        {
+          "id": "B05-C023-P0039",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Dream or remembered Ministry corridor, outside Hogwarts."
+        },
+        {
+          "id": "B05-C004-P0210",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive or Grimmauld Place setting, outside Hogwarts."
+        },
+        {
+          "id": "B05-C019-P0067",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Players’ bodies and worn badges, not a new stadium fixture."
+        },
+        {
+          "id": "B05-C024-P0227",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Explicitly identifies the recurring dream corridor as Ministry, not Hogwarts."
+        },
+        {
+          "id": "B05-C034-P0054",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Ministry offices, courtroom, lifts or Department of Mysteries, outside Hogwarts."
+        },
+        {
+          "id": "B05-C037-P0210",
+          "score": 8,
+          "disposition": "supplemented",
+          "reason": "Added distant voices and the qualified breakfast-route supposition to B05-288."
+        },
+        {
+          "id": "B05-C001-P0068",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Little Whinging park and the recurring Ministry dream; neither is a Hogwarts route."
+        },
+        {
+          "id": "B05-C002-P0071",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive or Grimmauld Place setting, outside Hogwarts."
+        },
+        {
+          "id": "B05-C007-P0091",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Ministry offices, courtroom, lifts or Department of Mysteries, outside Hogwarts."
+        },
+        {
+          "id": "B05-C021-P0096",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Holiday plans and generic skiing, not a school-ground installation."
+        },
+        {
+          "id": "B05-C023-P0161",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place or St Mungo’s, outside the school site."
+        },
+        {
+          "id": "B05-C026-P0083",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Existing Hall bench/table and delivered letters, no new fixed feature."
+        },
+        {
+          "id": "B05-C026-P0225",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Department of Mysteries corridor, explicitly outside Hogwarts."
+        },
+        {
+          "id": "B05-C034-P0065",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Ministry offices, courtroom, lifts or Department of Mysteries, outside Hogwarts."
+        },
+        {
+          "id": "B05-C003-P0032",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive or Grimmauld Place setting, outside Hogwarts."
+        },
+        {
+          "id": "B05-C006-P0215",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive or Grimmauld Place setting, outside Hogwarts."
+        },
+        {
+          "id": "B05-C010-P0096",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Character appearance at the train compartment door, no new school approach geometry."
+        },
+        {
+          "id": "B05-C011-P0134",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Sorting action and figurative sinking-through-floor expression, not a floor property."
+        },
+        {
+          "id": "B05-C012-P0037",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Existing route to the house table, no new environmental fact."
+        },
+        {
+          "id": "B05-C015-P0136",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "People moving between existing Hall tables, no new fixture or distance."
+        },
+        {
+          "id": "B05-C017-P0129",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Classroom discipline, no physical room description."
+        },
+        {
+          "id": "B05-C019-P0032",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Worn house colours and existing bench, not a new room feature."
+        },
+        {
+          "id": "B05-C023-P0015",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place or St Mungo’s, outside the school site."
+        },
+        {
+          "id": "B05-C023-P0149",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place or St Mungo’s, outside the school site."
+        },
+        {
+          "id": "B05-C025-P0131",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Madam Puddifoot’s teashop interior, outside the selected castle/grounds and access/tunnel scope."
+        },
+        {
+          "id": "B05-C032-P0142",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive or Grimmauld Place setting, outside Hogwarts."
+        },
+        {
+          "id": "B05-C033-P0029",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Umbridge asserting titles, no new forest or castle geometry."
+        },
+        {
+          "id": "B05-C036-P0024",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Ministry offices, courtroom, lifts or Department of Mysteries, outside Hogwarts."
+        },
+        {
+          "id": "B05-C003-P0016",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive or Grimmauld Place setting, outside Hogwarts."
+        },
+        {
+          "id": "B05-C004-P0030",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive or Grimmauld Place setting, outside Hogwarts."
+        },
+        {
+          "id": "B05-C006-P0129",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive or Grimmauld Place setting, outside Hogwarts."
+        },
+        {
+          "id": "B05-C021-P0224",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Nagini’s Ministry attack vision, not castle circulation."
+        },
+        {
+          "id": "B05-C031-P0201",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Department of Mysteries journey, outside Hogwarts."
+        },
+        {
+          "id": "B05-C034-P0044",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Ministry offices, courtroom, lifts or Department of Mysteries, outside Hogwarts."
+        },
+        {
+          "id": "B05-C036-P0025",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Ministry offices, courtroom, lifts or Department of Mysteries, outside Hogwarts."
+        },
+        {
+          "id": "B05-C002-P0139",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive or Grimmauld Place setting, outside Hogwarts."
+        },
+        {
+          "id": "B05-C004-P0116",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive or Grimmauld Place setting, outside Hogwarts."
+        },
+        {
+          "id": "B05-C005-P0005",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive or Grimmauld Place setting, outside Hogwarts."
+        },
+        {
+          "id": "B05-C006-P0004",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive or Grimmauld Place setting, outside Hogwarts."
+        },
+        {
+          "id": "B05-C007-P0103",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Ministry offices, courtroom, lifts or Department of Mysteries, outside Hogwarts."
+        },
+        {
+          "id": "B05-C009-P0010",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Ministry offices, courtroom, lifts or Department of Mysteries, outside Hogwarts."
+        },
+        {
+          "id": "B05-C011-P0233",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Harry’s bedside table is already explicitly included in B05-027."
+        },
+        {
+          "id": "B05-C019-P0025",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Hospital-bed taunt and character reactions, not a real ward reservation or new bed count."
+        },
+        {
+          "id": "B05-C022-P0113",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place or St Mungo’s, outside the school site."
+        },
+        {
+          "id": "B05-C022-P0198",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place or St Mungo’s, outside the school site."
+        },
+        {
+          "id": "B05-C023-P0010",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place or St Mungo’s, outside the school site."
+        },
+        {
+          "id": "B05-C023-P0048",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place or St Mungo’s, outside the school site."
+        },
+        {
+          "id": "B05-C024-P0062",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive or Grimmauld Place setting, outside Hogwarts."
+        },
+        {
+          "id": "B05-C025-P0071",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Repeated Department of Mysteries dream, outside Hogwarts."
+        },
+        {
+          "id": "B05-C026-P0228",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Identified Ministry dream, outside the school site."
+        },
+        {
+          "id": "B05-C030-P0043",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Department of Mysteries dream, outside the school site."
+        },
+        {
+          "id": "B05-C030-P0047",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Exam anxiety and recurring Ministry dream, no new castle feature."
+        },
+        {
+          "id": "B05-C035-P0147",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Ministry offices, courtroom, lifts or Department of Mysteries, outside Hogwarts."
+        }
+      ]
     }
   ]
 }

@@ -4797,7 +4797,7 @@
       "id": "B05-288",
       "location": "Headmaster office repaired state",
       "category": "interior",
-      "description": "On returning Harry finds the office apparently repaired: silver instruments again puff and whir on spindle-legged tables, and portraits rest in frames. Dawn shows a pale-green horizon through the window; carpet and polished desk brighten as the sun rises over mountains.",
+      "description": "On returning Harry finds the office apparently repaired: silver instruments again puff and whir on spindle-legged tables, and portraits rest in frames. Dawn shows a pale-green horizon through the window; carpet and polished desk brighten as the sun rises over mountains. Distant voices are audible beyond the office walls; Harry guesses that students are heading down to the Hall for breakfast.",
       "evidence": [
         "B05-C037-P0001",
         "B05-C037-P0002",
@@ -4809,11 +4809,12 @@
         "B05-C037-P0086",
         "B05-C037-P0131",
         "B05-C037-P0138",
-        "B05-C037-P0176"
+        "B05-C037-P0176",
+        "B05-C037-P0210"
       ],
       "certainty": "explicit",
       "temporal": "June 1996 dawn after Ministry battle; historical interview where specified",
-      "model_notes": "Restoration is inferred from observed intact contents; no repair spell or worker witnessed."
+      "model_notes": "Restoration is inferred from observed intact contents; no repair spell or worker witnessed. The voices are heard directly, but their destination is Harry’s supposition and does not fix a corridor route."
     },
     {
       "id": "B05-289",
@@ -5238,6 +5239,18 @@
       "certainty": "explicit",
       "temporal": "June 1996 final school days and homeward journey",
       "model_notes": "No departure journey from castle to Hogsmeade station is narrated in this closing chapter."
+    },
+    {
+      "id": "B05-312",
+      "location": "Great Hall — spring sky-ceiling state",
+      "category": "temporary",
+      "description": "On a spring visit the Great Hall’s enchanted ceiling shows fast-moving white clouds.",
+      "evidence": [
+        "B05-C028-P0045"
+      ],
+      "certainty": "explicit",
+      "temporal": "1996 spring term",
+      "model_notes": "A dated sky appearance, supplementing the black and rain-grey ceiling states; retain the sky-matching behaviour rather than a single fixed texture."
     }
   ],
   "chapter_reviews": [

@@ -1514,6 +1514,97 @@ Model: Damage extent unspecified; do not model permanent poisonous corridors.
 - [Book 5, ch. 30, “Grawp”, ref p. 806–807, ¶5 (B05-C030-P0005)](../../build/reader/book-05.html#B05-C030-P0005)
 - [Book 5, ch. 30, “Grawp”, ref p. 807, ¶6 (B05-C030-P0006)](../../build/reader/book-05.html#B05-C030-P0006)
 
+## B05-271: Diversion routes and swivelling staircase
+
+Ron proposes sending Umbridge to the Transfiguration department, which he describes as far from her office. Lookouts redirect traffic around the office corridor by the swivelling staircase.
+
+Evidence: explicit; state: June 1996, immediately after final History of Magic exam.
+
+Model: Transfiguration distance is Ron’s qualitative report. Gas is a fabricated cover story, not an actual hazard.
+
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 878–879, ¶89 (B05-C032-P0089)](../../build/reader/book-05.html#B05-C032-P0089)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 879, ¶95 (B05-C032-P0095)](../../build/reader/book-05.html#B05-C032-P0095)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 879, ¶96 (B05-C032-P0096)](../../build/reader/book-05.html#B05-C032-P0096)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 879–880, ¶98 (B05-C032-P0098)](../../build/reader/book-05.html#B05-C032-P0098)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 880, ¶99 (B05-C032-P0099)](../../build/reader/book-05.html#B05-C032-P0099)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 880, ¶102 (B05-C032-P0102)](../../build/reader/book-05.html#B05-C032-P0102)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 880, ¶105 (B05-C032-P0105)](../../build/reader/book-05.html#B05-C032-P0105)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 881, ¶109 (B05-C032-P0109)](../../build/reader/book-05.html#B05-C032-P0109)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 881, ¶114 (B05-C032-P0114)](../../build/reader/book-05.html#B05-C032-P0114)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 881–882, ¶115 (B05-C032-P0115)](../../build/reader/book-05.html#B05-C032-P0115)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 882, ¶119 (B05-C032-P0119)](../../build/reader/book-05.html#B05-C032-P0119)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 882, ¶120 (B05-C032-P0120)](../../build/reader/book-05.html#B05-C032-P0120)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 882, ¶121 (B05-C032-P0121)](../../build/reader/book-05.html#B05-C032-P0121)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 882–883, ¶122 (B05-C032-P0122)](../../build/reader/book-05.html#B05-C032-P0122)
+
+## B05-272: Gryffindor retrieval to Umbridge corridor
+
+From the empty classroom Harry goes up, meets Dean and Seamus two floors higher, then retrieves the Cloak and knife through Gryffindor’s portrait hole; a few minutes later he descends the last stairs to the office corridor.
+
+Evidence: explicit; state: June 1996, immediately after final History of Magic exam.
+
+Model: Do not equate the meeting floor with the portrait-hole floor unless independently stated.
+
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 881, ¶110 (B05-C032-P0110)](../../build/reader/book-05.html#B05-C032-P0110)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 881, ¶111 (B05-C032-P0111)](../../build/reader/book-05.html#B05-C032-P0111)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 881, ¶112 (B05-C032-P0112)](../../build/reader/book-05.html#B05-C032-P0112)
+
+## B05-273: Office-corridor wizard bust
+
+A recess contains an ugly stone head of a medieval wizard on a column, muttering in Latin; Harry and Hermione conceal themselves behind it to don the Cloak.
+
+Evidence: explicit; state: June 1996, immediately after final History of Magic exam.
+
+Model: Stone talking bust and hiding recess, distinct from Paracelsus unless future evidence identifies it.
+
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 882, ¶116 (B05-C032-P0116)](../../build/reader/book-05.html#B05-C032-P0116)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 882, ¶117 (B05-C032-P0117)](../../build/reader/book-05.html#B05-C032-P0117)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 882, ¶118 (B05-C032-P0118)](../../build/reader/book-05.html#B05-C032-P0118)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 883, ¶123 (B05-C032-P0123)](../../build/reader/book-05.html#B05-C032-P0123)
+
+## B05-296: Hog’s Head upstairs interview room
+
+Dumbledore says Trelawney’s original interview and prophecy occurred on a cold wet night in a room above the Hog’s Head bar; an eavesdropper was discovered and expelled from the building.
+
+Evidence: reported; state: June 1996 dawn after Ministry battle; historical interview where specified.
+
+Model: Historical school-recruitment venue; establishes an upstairs room over the bar, not a Hogwarts room.
+
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1006–1007, ¶180 (B05-C037-P0180)](../../build/reader/book-05.html#B05-C037-P0180)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1010, ¶201 (B05-C037-P0201)](../../build/reader/book-05.html#B05-C037-P0201)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1010, ¶202 (B05-C037-P0202)](../../build/reader/book-05.html#B05-C037-P0202)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1010–1011, ¶203 (B05-C037-P0203)](../../build/reader/book-05.html#B05-C037-P0203)
+
+## B05-301: Upper corridor grounds panorama
+
+After leaving the hospital wing Harry sees from corridor windows people flying over the Quidditch pitch and students swimming in the lake beside the giant squid.
+
+Evidence: explicit; state: June 1996 final school days and homeward journey.
+
+Model: Sunny end-of-term use and occupied lake; exact viewing window location not identified.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1019, ¶46 (B05-C038-P0046)](../../build/reader/book-05.html#B05-C038-P0046)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1019, ¶47 (B05-C038-P0047)](../../build/reader/book-05.html#B05-C038-P0047)
+
+## B05-310: Board near Fat Lady corridor
+
+On the return upward from Charms, Harry turns toward the Fat Lady’s corridor and finds Luna pinning a lost-property list on a wall noticeboard; there are no useful nearby hiding places.
+
+Evidence: explicit; state: June 1996 final school days and homeward journey.
+
+Model: A corridor noticeboard distinct from the board inside Gryffindor common room.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1033, ¶172 (B05-C038-P0172)](../../build/reader/book-05.html#B05-C038-P0172)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1033–1034, ¶173 (B05-C038-P0173)](../../build/reader/book-05.html#B05-C038-P0173)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1034, ¶174 (B05-C038-P0174)](../../build/reader/book-05.html#B05-C038-P0174)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1034, ¶175 (B05-C038-P0175)](../../build/reader/book-05.html#B05-C038-P0175)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1034, ¶176 (B05-C038-P0176)](../../build/reader/book-05.html#B05-C038-P0176)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1034, ¶177 (B05-C038-P0177)](../../build/reader/book-05.html#B05-C038-P0177)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1034, ¶182 (B05-C038-P0182)](../../build/reader/book-05.html#B05-C038-P0182)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1034, ¶183 (B05-C038-P0183)](../../build/reader/book-05.html#B05-C038-P0183)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1035–1036, ¶198 (B05-C038-P0198)](../../build/reader/book-05.html#B05-C038-P0198)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1036, ¶200 (B05-C038-P0200)](../../build/reader/book-05.html#B05-C038-P0200)
+
 ## B06-026: Gryffindor common-room tapestry and light
 
 The common room contains a tapestry, which a flying Fanged Frisbee tries to bite, and is sunlit when Harry and Ron leave.

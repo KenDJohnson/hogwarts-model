@@ -440,6 +440,61 @@ Model: Dated patients and bedside medical objects need not remain permanently. T
 - [Book 4, ch. 36, “The Parting of the Ways”, ref p. 757, ¶203 (B04-C036-P0203)](../../build/reader/book-04.html#B04-C036-P0203)
 - [Book 4, ch. 36, “The Parting of the Ways”, ref p. 757, ¶204 (B04-C036-P0204)](../../build/reader/book-04.html#B04-C036-P0204)
 
+## B05-268: Hall to hospital wing and first floor
+
+Harry exits the exam to the Entrance Hall, climbs the marble staircase and further flights through portrait-lined corridors, entering the hospital wing through double doors. Returning, he descends two floors to the marble staircase top and follows the first-floor corridor.
+
+Evidence: explicit; state: June 1996, immediately after final History of Magic exam.
+
+Model: Text supplies a two-floor descent and first-floor endpoint; retain those constraints without forcing an absolute hospital floor in this entry.
+
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 870–871, ¶2 (B05-C032-P0002)](../../build/reader/book-05.html#B05-C032-P0002)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 871, ¶4 (B05-C032-P0004)](../../build/reader/book-05.html#B05-C032-P0004)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 871, ¶6 (B05-C032-P0006)](../../build/reader/book-05.html#B05-C032-P0006)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 871, ¶8 (B05-C032-P0008)](../../build/reader/book-05.html#B05-C032-P0008)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 872, ¶11 (B05-C032-P0011)](../../build/reader/book-05.html#B05-C032-P0011)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 872, ¶13 (B05-C032-P0013)](../../build/reader/book-05.html#B05-C032-P0013)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 872, ¶17 (B05-C032-P0017)](../../build/reader/book-05.html#B05-C032-P0017)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 872–873, ¶19 (B05-C032-P0019)](../../build/reader/book-05.html#B05-C032-P0019)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 873, ¶23 (B05-C032-P0023)](../../build/reader/book-05.html#B05-C032-P0023)
+
+## B05-269: Hospital wing bell and ward
+
+Pomfrey treats Montague inside the wing; a bell rings immediately outside the dormitory/ward as students move through corridors above and below.
+
+Evidence: explicit; state: June 1996, immediately after final History of Magic exam.
+
+Model: McGonagall has been transferred to St Mungo’s; do not conflate the external hospital with this wing.
+
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 871, ¶8 (B05-C032-P0008)](../../build/reader/book-05.html#B05-C032-P0008)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 872, ¶11 (B05-C032-P0011)](../../build/reader/book-05.html#B05-C032-P0011)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 872, ¶13 (B05-C032-P0013)](../../build/reader/book-05.html#B05-C032-P0013)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 872, ¶15 (B05-C032-P0015)](../../build/reader/book-05.html#B05-C032-P0015)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 872, ¶17 (B05-C032-P0017)](../../build/reader/book-05.html#B05-C032-P0017)
+
+## B05-298: Hospital wing recovery layout
+
+Ron and Hermione occupy beds with Neville seated between them; Ron has a bedside cabinet piled with Chocolate Frogs and a water jug. Umbridge lies in a bed opposite; Pomfrey can look out from her office door. Daylight and blue sky show through the ward window.
+
+Evidence: explicit; state: June 1996 final school days and homeward journey.
+
+Model: Recovery occupancy is temporal, not a fixed patient allocation.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1014, ¶9 (B05-C038-P0009)](../../build/reader/book-05.html#B05-C038-P0009)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1014–1015, ¶11 (B05-C038-P0011)](../../build/reader/book-05.html#B05-C038-P0011)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1015, ¶13 (B05-C038-P0013)](../../build/reader/book-05.html#B05-C038-P0013)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1016, ¶22 (B05-C038-P0022)](../../build/reader/book-05.html#B05-C038-P0022)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1016, ¶25 (B05-C038-P0025)](../../build/reader/book-05.html#B05-C038-P0025)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1016–1017, ¶27 (B05-C038-P0027)](../../build/reader/book-05.html#B05-C038-P0027)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1017, ¶30 (B05-C038-P0030)](../../build/reader/book-05.html#B05-C038-P0030)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1017, ¶31 (B05-C038-P0031)](../../build/reader/book-05.html#B05-C038-P0031)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1017, ¶32 (B05-C038-P0032)](../../build/reader/book-05.html#B05-C038-P0032)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1017, ¶33 (B05-C038-P0033)](../../build/reader/book-05.html#B05-C038-P0033)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1018, ¶42 (B05-C038-P0042)](../../build/reader/book-05.html#B05-C038-P0042)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1018, ¶43 (B05-C038-P0043)](../../build/reader/book-05.html#B05-C038-P0043)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1018, ¶44 (B05-C038-P0044)](../../build/reader/book-05.html#B05-C038-P0044)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1018–1019, ¶45 (B05-C038-P0045)](../../build/reader/book-05.html#B05-C038-P0045)
+
 ## B06-060: McGonagall office–hospital wing
 
 McGonagall sends Leanne up to the hospital wing and later says she will go up there herself.

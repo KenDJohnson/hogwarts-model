@@ -233,17 +233,21 @@ Model implication: Five beds describe this particular cohort's room. Do not extr
 
 ### M017: Slytherin common room
 
-A spoken password opens a concealed stone door. Beyond lies a long, low underground room with rough stone walls and ceiling, greenish round lamps on chains, a fire below an ornate carved mantelpiece, and carved chairs.
+A spoken password opens a concealed stone door. Beyond lies a long, low underground room with rough stone walls and ceiling, greenish round lamps on chains, a fire below an ornate carved mantelpiece, and carved chairs. In Book 7 Harry describes it as beneath the lake and containing skulls, while claiming to be a Slytherin to the Snatchers.
 
 Relation: `Slytherin common room` → `is_entered_through` → `Sliding stone door concealed in damp bare wall`.
 
 Evidence: explicit; state: Book 2 Polyjuice visit.
 
-Model implication: These passages establish an underground room. They do not establish large underwater viewing windows; any such addition needs other textual evidence.
+Model implication: The Book 2 underground interior is observed directly. The later beneath-lake and skull details are Harry’s report in an identity-concealment context. Neither cited scene describes large underwater viewing windows.
 
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 223, ¶155 (B02-C012-P0155)](../build/reader/book-02.html#B02-C012-P0155)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 223, ¶158 (B02-C012-P0158)](../build/reader/book-02.html#B02-C012-P0158)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 223–224, ¶159 (B02-C012-P0159)](../build/reader/book-02.html#B02-C012-P0159)
+- [Book 7, ch. 23, “Malfoy Manor”, ref p. 476, ¶50 (B07-C023-P0050)](../build/reader/book-07.html#B07-C023-P0050)
+- [Book 7, ch. 23, “Malfoy Manor”, ref p. 476, ¶51 (B07-C023-P0051)](../build/reader/book-07.html#B07-C023-P0051)
+- [Book 7, ch. 23, “Malfoy Manor”, ref p. 476, ¶52 (B07-C023-P0052)](../build/reader/book-07.html#B07-C023-P0052)
+- [Book 7, ch. 23, “Malfoy Manor”, ref p. 476, ¶53 (B07-C023-P0053)](../build/reader/book-07.html#B07-C023-P0053)
 
 ### M018: Hufflepuff route
 
@@ -714,4 +718,21 @@ Evidence: explicit; state: Book 6 return flight.
 Model implication: The wall and crossing are observed; the explanation is Harry's inference. Keep physical perimeter geometry and magical permission separate.
 
 - [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 613–614, ¶36 (B06-C027-P0036)](../build/reader/book-06.html#B06-C027-P0036)
+
+## Additional alignment from the full review
+
+### M051: Astronomy exam parapet position
+
+From the top of the Astronomy Tower Harry sees the castle’s front doors open directly below his parapet position. He can follow people crossing the lawn and distinguish them entering Hagrid’s lit cabin.
+
+Relation: `Astronomy exam parapet position` → `is_described_as_directly_above` → `Castle front doors, with view to Hagrid’s cabin`.
+
+Evidence: explicit; state: Book 5 night Astronomy O.W.L..
+
+Model implication: Provide a viable downward sightline to the front doors and an unobstructed view to the cabin from this position. The passage does not measure a tower-axis offset or the horizontal distances.
+
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 858, ¶132 (B05-C031-P0132)](../build/reader/book-05.html#B05-C031-P0132)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 858–859, ¶134 (B05-C031-P0134)](../build/reader/book-05.html#B05-C031-P0134)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 859, ¶135 (B05-C031-P0135)](../build/reader/book-05.html#B05-C031-P0135)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 860, ¶137 (B05-C031-P0137)](../build/reader/book-05.html#B05-C031-P0137)
 

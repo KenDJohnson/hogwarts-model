@@ -1861,6 +1861,278 @@ Model: Damage extent unspecified; do not model permanent poisonous corridors.
 - [Book 5, ch. 30, “Grawp”, ref p. 806–807, ¶5 (B05-C030-P0005)](../../build/reader/book-05.html#B05-C030-P0005)
 - [Book 5, ch. 30, “Grawp”, ref p. 807, ¶6 (B05-C030-P0006)](../../build/reader/book-05.html#B05-C030-P0006)
 
+## B05-266: Umbridge office window Niffler route
+
+Lee admits he put the Nifflers in Umbridge’s office by levitating them through her window.
+
+Evidence: reported; state: Late May–June 1996 O.W.L. examinations and night raid.
+
+Model: Reported exterior-window access, explaining entry despite the new door.
+
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 865, ¶177 (B05-C031-P0177)](../../build/reader/book-05.html#B05-C031-P0177)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 865, ¶178 (B05-C031-P0178)](../../build/reader/book-05.html#B05-C031-P0178)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 865, ¶179 (B05-C031-P0179)](../../build/reader/book-05.html#B05-C031-P0179)
+
+## B05-272: Gryffindor retrieval to Umbridge corridor
+
+From the empty classroom Harry goes up, meets Dean and Seamus two floors higher, then retrieves the Cloak and knife through Gryffindor’s portrait hole; a few minutes later he descends the last stairs to the office corridor.
+
+Evidence: explicit; state: June 1996, immediately after final History of Magic exam.
+
+Model: Do not equate the meeting floor with the portrait-hole floor unless independently stated.
+
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 881, ¶110 (B05-C032-P0110)](../../build/reader/book-05.html#B05-C032-P0110)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 881, ¶111 (B05-C032-P0111)](../../build/reader/book-05.html#B05-C032-P0111)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 881, ¶112 (B05-C032-P0112)](../../build/reader/book-05.html#B05-C032-P0112)
+
+## B05-273: Office-corridor wizard bust
+
+A recess contains an ugly stone head of a medieval wizard on a column, muttering in Latin; Harry and Hermione conceal themselves behind it to don the Cloak.
+
+Evidence: explicit; state: June 1996, immediately after final History of Magic exam.
+
+Model: Stone talking bust and hiding recess, distinct from Paracelsus unless future evidence identifies it.
+
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 882, ¶116 (B05-C032-P0116)](../../build/reader/book-05.html#B05-C032-P0116)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 882, ¶117 (B05-C032-P0117)](../../build/reader/book-05.html#B05-C032-P0117)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 882, ¶118 (B05-C032-P0118)](../../build/reader/book-05.html#B05-C032-P0118)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 883, ¶123 (B05-C032-P0123)](../../build/reader/book-05.html#B05-C032-P0123)
+
+## B05-274: Umbridge office entry and sunlight
+
+The magical knife again opens the lock. Late-afternoon sunshine warms the animated kitten plates. Hermione watches the grounds from the window, staying out of sight, while Harry uses Floo powder at the hearth.
+
+Evidence: explicit; state: June 1996, immediately after final History of Magic exam.
+
+Model: Observed window-to-grounds view; no compass bearing.
+
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 883, ¶125 (B05-C032-P0125)](../../build/reader/book-05.html#B05-C032-P0125)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 883, ¶126 (B05-C032-P0126)](../../build/reader/book-05.html#B05-C032-P0126)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 883, ¶127 (B05-C032-P0127)](../../build/reader/book-05.html#B05-C032-P0127)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 883, ¶128 (B05-C032-P0128)](../../build/reader/book-05.html#B05-C032-P0128)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 883–884, ¶129 (B05-C032-P0129)](../../build/reader/book-05.html#B05-C032-P0129)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 885, ¶151 (B05-C032-P0151)](../../build/reader/book-05.html#B05-C032-P0151)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 886, ¶158 (B05-C032-P0158)](../../build/reader/book-05.html#B05-C032-P0158)
+
+## B05-276: Umbridge office captivity furnishings
+
+The office contains a chintz-covered armchair and a carpet; Ron’s bleeding lip stains it. Malfoy sits or leans on the windowsill while captors pin Hermione against a wall.
+
+Evidence: explicit; state: June 1996, immediately after final History of Magic exam.
+
+Model: Temporary crowded custody arrangement; dimensions not inferred from headcount.
+
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 886, ¶158 (B05-C032-P0158)](../../build/reader/book-05.html#B05-C032-P0158)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 886–887, ¶159 (B05-C032-P0159)](../../build/reader/book-05.html#B05-C032-P0159)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 887, ¶160 (B05-C032-P0160)](../../build/reader/book-05.html#B05-C032-P0160)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 887, ¶162 (B05-C032-P0162)](../../build/reader/book-05.html#B05-C032-P0162)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 888, ¶170 (B05-C032-P0170)](../../build/reader/book-05.html#B05-C032-P0170)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 888–889, ¶171 (B05-C032-P0171)](../../build/reader/book-05.html#B05-C032-P0171)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 890, ¶188 (B05-C032-P0188)](../../build/reader/book-05.html#B05-C032-P0188)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 891, ¶192 (B05-C032-P0192)](../../build/reader/book-05.html#B05-C032-P0192)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 893, ¶212 (B05-C032-P0212)](../../build/reader/book-05.html#B05-C032-P0212)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 895, ¶234 (B05-C032-P0234)](../../build/reader/book-05.html#B05-C032-P0234)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 895–896, ¶236 (B05-C032-P0236)](../../build/reader/book-05.html#B05-C032-P0236)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 896, ¶238 (B05-C032-P0238)](../../build/reader/book-05.html#B05-C032-P0238)
+
+## B05-278: Office to Forest evening route
+
+Hermione leads from Umbridge’s corridor down stairs to the Entrance Hall, within about twenty feet of dinner through the Hall doors, then through oak front doors and down stone steps across the grass toward the Forest. The setting sun approaches the treetops ahead while shadows stretch behind them.
+
+Evidence: explicit; state: June 1996 evening following final exam.
+
+Model: Observed sun/view relation; no exact date-based azimuth inferred.
+
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 896, ¶1 (B05-C033-P0001)](../../build/reader/book-05.html#B05-C033-P0001)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 896, ¶2 (B05-C033-P0002)](../../build/reader/book-05.html#B05-C033-P0002)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 896–897, ¶3 (B05-C033-P0003)](../../build/reader/book-05.html#B05-C033-P0003)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 897, ¶8 (B05-C033-P0008)](../../build/reader/book-05.html#B05-C033-P0008)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 897, ¶9 (B05-C033-P0009)](../../build/reader/book-05.html#B05-C033-P0009)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 897–898, ¶13 (B05-C033-P0013)](../../build/reader/book-05.html#B05-C033-P0013)
+
+## B05-284: Office window to Forest pursuit
+
+Ron says the rescued pupils saw Harry and Hermione head into the Forest from Umbridge’s office window and followed after escaping their captors.
+
+Evidence: reported; state: June 1996 evening following final exam.
+
+Model: Reported route and office-to-Forest sightline; exact tracking path unstated.
+
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 907, ¶90 (B05-C033-P0090)](../../build/reader/book-05.html#B05-C033-P0090)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 907, ¶91 (B05-C033-P0091)](../../build/reader/book-05.html#B05-C033-P0091)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 907, ¶92 (B05-C033-P0092)](../../build/reader/book-05.html#B05-C033-P0092)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 907–908, ¶93 (B05-C033-P0093)](../../build/reader/book-05.html#B05-C033-P0093)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 908, ¶94 (B05-C033-P0094)](../../build/reader/book-05.html#B05-C033-P0094)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 909, ¶106 (B05-C033-P0106)](../../build/reader/book-05.html#B05-C033-P0106)
+
+## B05-297: Ministry-to-Headmaster office Portkey
+
+Dumbledore enchants the fallen golden statue head with Portus and sends Harry from the Ministry Atrium directly into his Hogwarts office, where the head lands on the floor.
+
+Evidence: explicit; state: June 1996 end of Ministry battle.
+
+Model: Observed inbound Portkey access despite ordinary Apparition restriction; Fudge protests lack of Ministry authorisation, so do not call it legally authorised.
+
+- [Book 5, ch. 36, “The Only One He Ever Feared”, ref p. 978, ¶102 (B05-C036-P0102)](../../build/reader/book-05.html#B05-C036-P0102)
+- [Book 5, ch. 36, “The Only One He Ever Feared”, ref p. 978, ¶107 (B05-C036-P0107)](../../build/reader/book-05.html#B05-C036-P0107)
+- [Book 5, ch. 36, “The Only One He Ever Feared”, ref p. 978–979, ¶108 (B05-C036-P0108)](../../build/reader/book-05.html#B05-C036-P0108)
+- [Book 5, ch. 36, “The Only One He Ever Feared”, ref p. 979, ¶114 (B05-C036-P0114)](../../build/reader/book-05.html#B05-C036-P0114)
+- [Book 5, ch. 36, “The Only One He Ever Feared”, ref p. 979, ¶115 (B05-C036-P0115)](../../build/reader/book-05.html#B05-C036-P0115)
+- [Book 5, ch. 36, “The Only One He Ever Feared”, ref p. 979, ¶116 (B05-C036-P0116)](../../build/reader/book-05.html#B05-C036-P0116)
+- [Book 5, ch. 36, “The Only One He Ever Feared”, ref p. 979–980, ¶117 (B05-C036-P0117)](../../build/reader/book-05.html#B05-C036-P0117)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 980, ¶1 (B05-C037-P0001)](../../build/reader/book-05.html#B05-C037-P0001)
+
+## B05-288: Headmaster office repaired state
+
+On returning Harry finds the office apparently repaired: silver instruments again puff and whir on spindle-legged tables, and portraits rest in frames. Dawn shows a pale-green horizon through the window; carpet and polished desk brighten as the sun rises over mountains. Distant voices are audible beyond the office walls; Harry guesses that students are heading down to the Hall for breakfast.
+
+Evidence: explicit; state: June 1996 dawn after Ministry battle; historical interview where specified.
+
+Model: Restoration is inferred from observed intact contents; no repair spell or worker witnessed. The voices are heard directly, but their destination is Harry’s supposition and does not fix a corridor route.
+
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 980, ¶1 (B05-C037-P0001)](../../build/reader/book-05.html#B05-C037-P0001)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 980, ¶2 (B05-C037-P0002)](../../build/reader/book-05.html#B05-C037-P0002)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 980, ¶3 (B05-C037-P0003)](../../build/reader/book-05.html#B05-C037-P0003)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 981, ¶12 (B05-C037-P0012)](../../build/reader/book-05.html#B05-C037-P0012)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 982, ¶15 (B05-C037-P0015)](../../build/reader/book-05.html#B05-C037-P0015)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 983, ¶24 (B05-C037-P0024)](../../build/reader/book-05.html#B05-C037-P0024)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 988, ¶69 (B05-C037-P0069)](../../build/reader/book-05.html#B05-C037-P0069)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 990–991, ¶86 (B05-C037-P0086)](../../build/reader/book-05.html#B05-C037-P0086)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 998, ¶131 (B05-C037-P0131)](../../build/reader/book-05.html#B05-C037-P0131)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 999, ¶138 (B05-C037-P0138)](../../build/reader/book-05.html#B05-C037-P0138)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1006, ¶176 (B05-C037-P0176)](../../build/reader/book-05.html#B05-C037-P0176)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1012, ¶210 (B05-C037-P0210)](../../build/reader/book-05.html#B05-C037-P0210)
+
+## B05-289: Headmaster office sealed door
+
+Phineas says the office should be barred to all but the rightful Headmaster. Harry twice finds its doorknob immovable and cannot exit; Dumbledore explicitly refuses release until he has spoken.
+
+Evidence: explicit; state: June 1996 dawn after Ministry battle; historical interview where specified.
+
+Model: Reported access rule and observed temporary confinement; Portkey admission separately demonstrated.
+
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 981, ¶8 (B05-C037-P0008)](../../build/reader/book-05.html#B05-C037-P0008)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 981, ¶10 (B05-C037-P0010)](../../build/reader/book-05.html#B05-C037-P0010)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 981, ¶11 (B05-C037-P0011)](../../build/reader/book-05.html#B05-C037-P0011)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 981, ¶13 (B05-C037-P0013)](../../build/reader/book-05.html#B05-C037-P0013)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 985, ¶44 (B05-C037-P0044)](../../build/reader/book-05.html#B05-C037-P0044)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 985, ¶45 (B05-C037-P0045)](../../build/reader/book-05.html#B05-C037-P0045)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 985, ¶46 (B05-C037-P0046)](../../build/reader/book-05.html#B05-C037-P0046)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 985, ¶47 (B05-C037-P0047)](../../build/reader/book-05.html#B05-C037-P0047)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 985, ¶48 (B05-C037-P0048)](../../build/reader/book-05.html#B05-C037-P0048)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 986, ¶50 (B05-C037-P0050)](../../build/reader/book-05.html#B05-C037-P0050)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 986, ¶51 (B05-C037-P0051)](../../build/reader/book-05.html#B05-C037-P0051)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 986, ¶55 (B05-C037-P0055)](../../build/reader/book-05.html#B05-C037-P0055)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 986, ¶56 (B05-C037-P0056)](../../build/reader/book-05.html#B05-C037-P0056)
+
+## B05-290: Headmaster office Floo and phoenix perch
+
+Dumbledore arrives bodily through emerald flames in the office fireplace, then places newborn Fawkes on soft ashes in a tray beneath the golden perch beside the door.
+
+Evidence: explicit; state: June 1996 dawn after Ministry battle; historical interview where specified.
+
+Model: Floo access now observed in this office; perch includes ash tray for phoenix rebirth.
+
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 982, ¶18 (B05-C037-P0018)](../../build/reader/book-05.html#B05-C037-P0018)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 982, ¶19 (B05-C037-P0019)](../../build/reader/book-05.html#B05-C037-P0019)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 982, ¶20 (B05-C037-P0020)](../../build/reader/book-05.html#B05-C037-P0020)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 982, ¶21 (B05-C037-P0021)](../../build/reader/book-05.html#B05-C037-P0021)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 983, ¶23 (B05-C037-P0023)](../../build/reader/book-05.html#B05-C037-P0023)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1006, ¶176 (B05-C037-P0176)](../../build/reader/book-05.html#B05-C037-P0176)
+
+## B05-291: Headmaster window Quidditch view
+
+Harry looks from the office window toward the distant Quidditch stadium and recalls Sirius watching there in black-dog form.
+
+Evidence: explicit; state: June 1996 dawn after Ministry battle; historical interview where specified.
+
+Model: Direct stadium sightline; recalled spectator presence does not supply a new entrance route.
+
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 983–984, ¶29 (B05-C037-P0029)](../../build/reader/book-05.html#B05-C037-P0029)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 984, ¶32 (B05-C037-P0032)](../../build/reader/book-05.html#B05-C037-P0032)
+
+## B05-292: Harry’s office damage
+
+Harry smashes a delicate silver instrument against the wall, throws a lunascope into the fireplace and breaks its spindle-legged table on the floor, scattering legs, wooden fragments and silver cogs before sitting opposite the desk.
+
+Evidence: explicit; state: June 1996 dawn after Ministry battle; historical interview where specified.
+
+Model: A second damage event after the initial repaired state; no subsequent repair in this chapter.
+
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 984, ¶37 (B05-C037-P0037)](../../build/reader/book-05.html#B05-C037-P0037)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 984, ¶38 (B05-C037-P0038)](../../build/reader/book-05.html#B05-C037-P0038)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 984–985, ¶39 (B05-C037-P0039)](../../build/reader/book-05.html#B05-C037-P0039)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 985, ¶40 (B05-C037-P0040)](../../build/reader/book-05.html#B05-C037-P0040)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 986, ¶53 (B05-C037-P0053)](../../build/reader/book-05.html#B05-C037-P0053)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 986, ¶54 (B05-C037-P0054)](../../build/reader/book-05.html#B05-C037-P0054)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 987, ¶63 (B05-C037-P0063)](../../build/reader/book-05.html#B05-C037-P0063)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 990–991, ¶86 (B05-C037-P0086)](../../build/reader/book-05.html#B05-C037-P0086)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1006, ¶176 (B05-C037-P0176)](../../build/reader/book-05.html#B05-C037-P0176)
+
+## B05-293: Headmaster desk writing set
+
+A silver ink pot and handsome scarlet quill stand on Dumbledore’s polished desk.
+
+Evidence: explicit; state: June 1996 dawn after Ministry battle; historical interview where specified.
+
+Model: Specific desk fittings illuminated by morning sunlight.
+
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 990–991, ¶86 (B05-C037-P0086)](../../build/reader/book-05.html#B05-C037-P0086)
+
+## B05-295: Snape’s Forest search account
+
+Dumbledore says Snape alerted the Order when pupils failed to return from the Forest and intended to search the Forest himself.
+
+Evidence: reported; state: June 1996 dawn after Ministry battle; historical interview where specified.
+
+Model: Reported intended search, without a verified search path or discovery.
+
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 992–993, ¶98 (B05-C037-P0098)](../../build/reader/book-05.html#B05-C037-P0098)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 993, ¶99 (B05-C037-P0099)](../../build/reader/book-05.html#B05-C037-P0099)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 993, ¶100 (B05-C037-P0100)](../../build/reader/book-05.html#B05-C037-P0100)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 993, ¶101 (B05-C037-P0101)](../../build/reader/book-05.html#B05-C037-P0101)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 996, ¶119 (B05-C037-P0119)](../../build/reader/book-05.html#B05-C037-P0119)
+
+## B05-300: Umbridge Forest rescue
+
+Dumbledore goes alone into the Forest and returns supporting Umbridge without visible injury; the rescue method is unknown.
+
+Evidence: explicit; state: June 1996 final school days and homeward journey.
+
+Model: Narrated outcome, no invented centaur settlement or rescue route.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1016–1017, ¶27 (B05-C038-P0027)](../../build/reader/book-05.html#B05-C038-P0027)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1017, ¶28 (B05-C038-P0028)](../../build/reader/book-05.html#B05-C038-P0028)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1017, ¶35 (B05-C038-P0035)](../../build/reader/book-05.html#B05-C038-P0035)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1017, ¶36 (B05-C038-P0036)](../../build/reader/book-05.html#B05-C038-P0036)
+
+## B05-302: Entrance Hall Slytherin and office routes
+
+Descending the last marble step into the Entrance Hall, Harry sees Malfoy’s group emerge from a door on his right known to lead down to Slytherin common room. Snape emerges from stairs down to his office; McGonagall arrives up the exterior stone steps and sends luggage upstairs toward her office via the marble staircase.
+
+Evidence: explicit; state: June 1996 final school days and homeward journey.
+
+Model: Right is from a descending-marble-stair viewpoint, not from entering the front doors. Slytherin entrance itself is not described.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1019, ¶48 (B05-C038-P0048)](../../build/reader/book-05.html#B05-C038-P0048)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1020–1021, ¶61 (B05-C038-P0061)](../../build/reader/book-05.html#B05-C038-P0061)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1021, ¶69 (B05-C038-P0069)](../../build/reader/book-05.html#B05-C038-P0069)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1021, ¶70 (B05-C038-P0070)](../../build/reader/book-05.html#B05-C038-P0070)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1021, ¶71 (B05-C038-P0071)](../../build/reader/book-05.html#B05-C038-P0071)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1021, ¶72 (B05-C038-P0072)](../../build/reader/book-05.html#B05-C038-P0072)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1021, ¶73 (B05-C038-P0073)](../../build/reader/book-05.html#B05-C038-P0073)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1022, ¶78 (B05-C038-P0078)](../../build/reader/book-05.html#B05-C038-P0078)
+
+## B05-307: Umbridge departure path
+
+During dinner Umbridge leaves the hospital wing and is chased from school by Peeves with a walking stick and chalk-filled sock. Students watch from the Entrance Hall as she runs down the path.
+
+Evidence: explicit; state: June 1996 final school days and homeward journey.
+
+Model: Departure and implement use narrated; no new attack damage to architecture.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1027, ¶110 (B05-C038-P0110)](../../build/reader/book-05.html#B05-C038-P0110)
+
 ## B06-006: Headmaster’s office
 
 Harry recalls that conversations with Dumbledore at Hogwarts usually take place across a desk.

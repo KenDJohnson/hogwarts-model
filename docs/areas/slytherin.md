@@ -117,6 +117,23 @@ Model: Narration explicitly identifies an underground common-room origin. The pa
 - [Book 4, ch. 23, “The Yule Ball”, ref p. 433, ¶73 (B04-C023-P0073)](../../build/reader/book-04.html#B04-C023-P0073)
 - [Book 4, ch. 23, “The Yule Ball”, ref p. 433–434, ¶78 (B04-C023-P0078)](../../build/reader/book-04.html#B04-C023-P0078)
 
+## B05-302: Entrance Hall Slytherin and office routes
+
+Descending the last marble step into the Entrance Hall, Harry sees Malfoy’s group emerge from a door on his right known to lead down to Slytherin common room. Snape emerges from stairs down to his office; McGonagall arrives up the exterior stone steps and sends luggage upstairs toward her office via the marble staircase.
+
+Evidence: explicit; state: June 1996 final school days and homeward journey.
+
+Model: Right is from a descending-marble-stair viewpoint, not from entering the front doors. Slytherin entrance itself is not described.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1019, ¶48 (B05-C038-P0048)](../../build/reader/book-05.html#B05-C038-P0048)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1020–1021, ¶61 (B05-C038-P0061)](../../build/reader/book-05.html#B05-C038-P0061)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1021, ¶69 (B05-C038-P0069)](../../build/reader/book-05.html#B05-C038-P0069)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1021, ¶70 (B05-C038-P0070)](../../build/reader/book-05.html#B05-C038-P0070)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1021, ¶71 (B05-C038-P0071)](../../build/reader/book-05.html#B05-C038-P0071)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1021, ¶72 (B05-C038-P0072)](../../build/reader/book-05.html#B05-C038-P0072)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1021, ¶73 (B05-C038-P0073)](../../build/reader/book-05.html#B05-C038-P0073)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1022, ¶78 (B05-C038-P0078)](../../build/reader/book-05.html#B05-C038-P0078)
+
 ## B06-124: Slytherin dormitory dungeon placement
 
 Kreacher reports that Draco sleeps in a dormitory in the dungeons.

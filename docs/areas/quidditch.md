@@ -1195,6 +1195,17 @@ Model: Ten minutes begins after rejoining path; stadium/Forest reciprocal sightl
 - [Book 5, ch. 30, “Grawp”, ref p. 837, ¶251 (B05-C030-P0251)](../../build/reader/book-05.html#B05-C030-P0251)
 - [Book 5, ch. 30, “Grawp”, ref p. 837, ¶258 (B05-C030-P0258)](../../build/reader/book-05.html#B05-C030-P0258)
 
+## B05-291: Headmaster window Quidditch view
+
+Harry looks from the office window toward the distant Quidditch stadium and recalls Sirius watching there in black-dog form.
+
+Evidence: explicit; state: June 1996 dawn after Ministry battle; historical interview where specified.
+
+Model: Direct stadium sightline; recalled spectator presence does not supply a new entrance route.
+
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 983–984, ¶29 (B05-C037-P0029)](../../build/reader/book-05.html#B05-C037-P0029)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 984, ¶32 (B05-C037-P0032)](../../build/reader/book-05.html#B05-C037-P0032)
+
 ## B06-043: Castle–Quidditch stadium
 
 From breakfast in the Great Hall the group goes down through cool misty drizzle to the Quidditch stadium, where Hermione takes a place in the stands.

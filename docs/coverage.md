@@ -2,7 +2,7 @@
 
 This reports the reviewers' declared reading ranges. Structural validation checks that those ranges cover the corpus; it cannot prove semantic completeness or that every description has been captured.
 
-Reviewed: **35,027/38,426 paragraphs**. Records: **1222**.
+Reviewed: **36,678/38,426 paragraphs**. Records: **1283**.
 
 ## Book 1: Harry Potter and the Philosopher's Stone
 
@@ -120,7 +120,7 @@ Reviewed: **35,027/38,426 paragraphs**. Records: **1222**.
 
 ## Book 5: Harry Potter and the Order of the Phoenix
 
-7,418/9,069 paragraphs; 251 records.
+9,069/9,069 paragraphs; 312 records.
 
 - Chapter 1, Dudley Demented: Reviewed (184/184).
 - Chapter 2, A Peck of Owls: Reviewed (253/253).
@@ -152,14 +152,14 @@ Reviewed: **35,027/38,426 paragraphs**. Records: **1222**.
 - Chapter 28, Snape’s Worst Memory: Reviewed (290/290).
 - Chapter 29, Careers Advice: Reviewed (270/270).
 - Chapter 30, Grawp: Reviewed (269/269).
-- Chapter 31, O.W.L.s: Unread: ¶1–214 (0/214).
-- Chapter 32, Out of the Fire: Unread: ¶1–238 (0/238).
-- Chapter 33, Fight and Flight: Unread: ¶1–139 (0/139).
-- Chapter 34, The Department of Mysteries: Unread: ¶1–181 (0/181).
-- Chapter 35, Beyond the Veil: Unread: ¶1–286 (0/286).
-- Chapter 36, The Only One He Ever Feared: Unread: ¶1–117 (0/117).
-- Chapter 37, The Lost Prophecy: Unread: ¶1–212 (0/212).
-- Chapter 38, The Second War Begins: Unread: ¶1–264 (0/264).
+- Chapter 31, O.W.L.s: Reviewed (214/214).
+- Chapter 32, Out of the Fire: Reviewed (238/238).
+- Chapter 33, Fight and Flight: Reviewed (139/139).
+- Chapter 34, The Department of Mysteries: Reviewed (181/181).
+- Chapter 35, Beyond the Veil: Reviewed (286/286).
+- Chapter 36, The Only One He Ever Feared: Reviewed (117/117).
+- Chapter 37, The Lost Prophecy: Reviewed (212/212).
+- Chapter 38, The Second War Begins: Reviewed (264/264).
 
 ## Book 6: Harry Potter and the Half-Blood Prince
 

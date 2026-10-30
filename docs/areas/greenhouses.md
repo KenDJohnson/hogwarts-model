@@ -499,6 +499,45 @@ Model: Reported continued room access; do not put the honking flowers in Trelawn
 - [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 712, ¶9 (B05-C027-P0009)](../../build/reader/book-05.html#B05-C027-P0009)
 - [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 712, ¶10 (B05-C027-P0010)](../../build/reader/book-05.html#B05-C027-P0010)
 
+## B05-254: Greenhouse three revision class
+
+Sprout admits the queued students into greenhouse three for Herbology revision.
+
+Evidence: explicit; state: Late May–June 1996 O.W.L. examinations and night raid.
+
+Model: Specific classroom identity, without additional inferred contents.
+
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 843, ¶32 (B05-C031-P0032)](../../build/reader/book-05.html#B05-C031-P0032)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 843, ¶37 (B05-C031-P0037)](../../build/reader/book-05.html#B05-C031-P0037)
+
+## B05-260: Creature examination lawn
+
+The creature practical takes place on the lawn at the Forest edge, with a Knarl among a dozen hedgehogs, milk, Bowtruckle handling, a Fire Crab to feed and clean, and food choices for a sick unicorn. Hagrid watches from his cabin window.
+
+Evidence: explicit; state: Late May–June 1996 O.W.L. examinations and night raid.
+
+Model: Exam materials confirmed; a real sick unicorn is not explicitly present. Cabin-to-exam-lawn sightline.
+
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 856, ¶121 (B05-C031-P0121)](../../build/reader/book-05.html#B05-C031-P0121)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 856–857, ¶122 (B05-C031-P0122)](../../build/reader/book-05.html#B05-C031-P0122)
+
+## B05-304: Summer lawns and Hagrid garden
+
+Pupils sunbathe, talk and read on hot lawns. Behind Hagrid’s cabin a fenced back garden grows runner beans which he harvests; Fang can run around the cabin corner. Inside, Hagrid serves iced dandelion juice at his wooden table.
+
+Evidence: explicit; state: June 1996 final school days and homeward journey.
+
+Model: Runner beans add a specific garden crop and rear/front circulation.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1022–1023, ¶79 (B05-C038-P0079)](../../build/reader/book-05.html#B05-C038-P0079)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1023, ¶80 (B05-C038-P0080)](../../build/reader/book-05.html#B05-C038-P0080)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1023, ¶81 (B05-C038-P0081)](../../build/reader/book-05.html#B05-C038-P0081)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1023, ¶82 (B05-C038-P0082)](../../build/reader/book-05.html#B05-C038-P0082)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1024, ¶93 (B05-C038-P0093)](../../build/reader/book-05.html#B05-C038-P0093)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1024, ¶98 (B05-C038-P0098)](../../build/reader/book-05.html#B05-C038-P0098)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1024–1025, ¶99 (B05-C038-P0099)](../../build/reader/book-05.html#B05-C038-P0099)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1025, ¶101 (B05-C038-P0101)](../../build/reader/book-05.html#B05-C038-P0101)
+
 ## B06-040: Herbology greenhouses
 
 The sixth-years go outside to greenhouses for Herbology; dangerous plants include Venomous Tentacula capable of seizing a student unexpectedly from behind.

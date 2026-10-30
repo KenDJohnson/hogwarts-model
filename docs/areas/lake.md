@@ -656,6 +656,34 @@ Model: Explicit cross-time identity of beech. Short wand-flight distances are ac
 - [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 772, ¶269 (B05-C028-P0269)](../../build/reader/book-05.html#B05-C028-P0269)
 - [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 773, ¶275 (B05-C028-P0275)](../../build/reader/book-05.html#B05-C028-P0275)
 
+## B05-252: Lakeshore and June grounds
+
+The friends again revise in the lakeside beech’s shade, near other pupils. In June the cloudless sky reflects in a smooth sparkling lake and satin-green lawns ripple in a light breeze.
+
+Evidence: explicit; state: Late May–June 1996 O.W.L. examinations and night raid.
+
+Model: Warm late-May/June state; lake clearly liquid again.
+
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 838–839, ¶1 (B05-C031-P0001)](../../build/reader/book-05.html#B05-C031-P0001)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 839, ¶2 (B05-C031-P0002)](../../build/reader/book-05.html#B05-C031-P0002)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 839–840, ¶3 (B05-C031-P0003)](../../build/reader/book-05.html#B05-C031-P0003)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 840, ¶4 (B05-C031-P0004)](../../build/reader/book-05.html#B05-C031-P0004)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 842, ¶29 (B05-C031-P0029)](../../build/reader/book-05.html#B05-C031-P0029)
+
+## B05-306: Lakeside shrub refuge and opposite bank
+
+A short walk around the lake brings Harry to a bank hidden from passers-by by tangled shrubs. Directly across the water is the opposite-bank spot where Sirius once collapsed defending himself from Dementors; Harry stays until after sunset, then returns to the castle.
+
+Evidence: explicit; state: June 1996 final school days and homeward journey.
+
+Model: Explicit cross-lake relation between two event sites; no shoreline distances or orientation.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1025, ¶103 (B05-C038-P0103)](../../build/reader/book-05.html#B05-C038-P0103)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1025, ¶104 (B05-C038-P0104)](../../build/reader/book-05.html#B05-C038-P0104)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1025–1026, ¶105 (B05-C038-P0105)](../../build/reader/book-05.html#B05-C038-P0105)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1026, ¶106 (B05-C038-P0106)](../../build/reader/book-05.html#B05-C038-P0106)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1026, ¶107 (B05-C038-P0107)](../../build/reader/book-05.html#B05-C038-P0107)
+
 ## B06-212: Funeral travel and accommodation state
 
 Visitors fill Hogsmeade lodging, Ministry officials are accommodated in the castle, and the Hogwarts Express is scheduled to leave one hour after the funeral. Lessons are suspended and examinations postponed.

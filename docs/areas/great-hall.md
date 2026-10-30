@@ -980,6 +980,16 @@ Model: Date-specific staff seating rather than immutable assigned places.
 
 - [Book 5, ch. 25, “The Beetle at Bay”, ref p. 647, ¶19 (B05-C025-P0019)](../../build/reader/book-05.html#B05-C025-P0019)
 
+## B05-312: Great Hall — spring sky-ceiling state
+
+On a spring visit the Great Hall’s enchanted ceiling shows fast-moving white clouds.
+
+Evidence: explicit; state: 1996 spring term.
+
+Model: A dated sky appearance, supplementing the black and rain-grey ceiling states; retain the sky-matching behaviour rather than a single fixed texture.
+
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 746, ¶45 (B05-C028-P0045)](../../build/reader/book-05.html#B05-C028-P0045)
+
 ## B05-219: Historical Great Hall examination layout
 
 In Snape’s O.W.L. memory the four House tables are absent, replaced by over a hundred small tables facing one direction, with aisles for invigilation. Sunlight enters through high windows.
@@ -998,6 +1008,42 @@ Model: Narrated Pensieve observation of past layout, not present-day furniture.
 - [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 765, ¶193 (B05-C028-P0193)](../../build/reader/book-05.html#B05-C028-P0193)
 - [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 765, ¶194 (B05-C028-P0194)](../../build/reader/book-05.html#B05-C028-P0194)
 - [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 765, ¶197 (B05-C028-P0197)](../../build/reader/book-05.html#B05-C028-P0197)
+
+## B05-255: Entrance Hall and Great Hall sightline
+
+From dinner seats pupils can see the examiners through the Great Hall’s double doors into the Entrance Hall; they cross the threshold and linger at the marble stair foot.
+
+Evidence: explicit; state: Late May–June 1996 O.W.L. examinations and night raid.
+
+Model: Line of sight from dining space to Hall circulation; broom-cupboard emergence is only a simile about Marchbanks’s search.
+
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 847, ¶68 (B05-C031-P0068)](../../build/reader/book-05.html#B05-C031-P0068)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 847, ¶69 (B05-C031-P0069)](../../build/reader/book-05.html#B05-C031-P0069)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 847, ¶70 (B05-C031-P0070)](../../build/reader/book-05.html#B05-C031-P0070)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 847–848, ¶72 (B05-C031-P0072)](../../build/reader/book-05.html#B05-C031-P0072)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 848, ¶73 (B05-C031-P0073)](../../build/reader/book-05.html#B05-C031-P0073)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 848, ¶74 (B05-C031-P0074)](../../build/reader/book-05.html#B05-C031-P0074)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 848–849, ¶76 (B05-C031-P0076)](../../build/reader/book-05.html#B05-C031-P0076)
+
+## B05-256: Great Hall written examinations
+
+After breakfast the House tables are replaced with individual tables facing the staff-table end. A desk by the presiding teacher holds an enormous hourglass, spare quills, ink and parchment. House tables return at lunchtime.
+
+Evidence: explicit; state: Late May–June 1996 O.W.L. examinations and night raid.
+
+Model: Daily furniture conversion and stone floor confirmed; sunlight heats desks and reaches Harry’s head.
+
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 849–850, ¶79 (B05-C031-P0079)](../../build/reader/book-05.html#B05-C031-P0079)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 850, ¶80 (B05-C031-P0080)](../../build/reader/book-05.html#B05-C031-P0080)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 850, ¶83 (B05-C031-P0083)](../../build/reader/book-05.html#B05-C031-P0083)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 850–851, ¶85 (B05-C031-P0085)](../../build/reader/book-05.html#B05-C031-P0085)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 866, ¶186 (B05-C031-P0186)](../../build/reader/book-05.html#B05-C031-P0186)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 866, ¶187 (B05-C031-P0187)](../../build/reader/book-05.html#B05-C031-P0187)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 866, ¶188 (B05-C031-P0188)](../../build/reader/book-05.html#B05-C031-P0188)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 867, ¶192 (B05-C031-P0192)](../../build/reader/book-05.html#B05-C031-P0192)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 868, ¶194 (B05-C031-P0194)](../../build/reader/book-05.html#B05-C031-P0194)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 869, ¶200 (B05-C031-P0200)](../../build/reader/book-05.html#B05-C031-P0200)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 870, ¶214 (B05-C031-P0214)](../../build/reader/book-05.html#B05-C031-P0214)
 
 ## B06-018: Great Hall table arrangement
 

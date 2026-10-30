@@ -1,9 +1,9 @@
 {
   "source_sha256": "fc554e217f5ec7edc995b24de3d62f50cee929c524fa6ec5e0a7ae23a7ca2732",
   "paragraphs": 38426,
-  "reviewed": 35027,
+  "reviewed": 36678,
   "complete": false,
-  "entries": 1222,
+  "entries": 1283,
   "books": [
     {
       "book": 1,
@@ -702,9 +702,9 @@
     {
       "book": 5,
       "title": "Harry Potter and the Order of the Phoenix",
-      "entries": 251,
+      "entries": 312,
       "paragraphs": 9069,
-      "reviewed": 7418,
+      "reviewed": 9069,
       "chapters": [
         {
           "chapter": 1,
@@ -920,97 +920,57 @@
           "chapter": 31,
           "title": "O.W.L.s",
           "paragraphs": 214,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              214
-            ]
-          ]
+          "reviewed": 214,
+          "unread_ranges": []
         },
         {
           "chapter": 32,
           "title": "Out of the Fire",
           "paragraphs": 238,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              238
-            ]
-          ]
+          "reviewed": 238,
+          "unread_ranges": []
         },
         {
           "chapter": 33,
           "title": "Fight and Flight",
           "paragraphs": 139,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              139
-            ]
-          ]
+          "reviewed": 139,
+          "unread_ranges": []
         },
         {
           "chapter": 34,
           "title": "The Department of Mysteries",
           "paragraphs": 181,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              181
-            ]
-          ]
+          "reviewed": 181,
+          "unread_ranges": []
         },
         {
           "chapter": 35,
           "title": "Beyond the Veil",
           "paragraphs": 286,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              286
-            ]
-          ]
+          "reviewed": 286,
+          "unread_ranges": []
         },
         {
           "chapter": 36,
           "title": "The Only One He Ever Feared",
           "paragraphs": 117,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              117
-            ]
-          ]
+          "reviewed": 117,
+          "unread_ranges": []
         },
         {
           "chapter": 37,
           "title": "The Lost Prophecy",
           "paragraphs": 212,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              212
-            ]
-          ]
+          "reviewed": 212,
+          "unread_ranges": []
         },
         {
           "chapter": 38,
           "title": "The Second War Begins",
           "paragraphs": 264,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              264
-            ]
-          ]
+          "reviewed": 264,
+          "unread_ranges": []
         }
       ]
     },

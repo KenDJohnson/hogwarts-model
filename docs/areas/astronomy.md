@@ -118,6 +118,40 @@ Model: September night state; ghost movement is not restricted to physical seats
 
 - [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 236, ¶15 (B05-C011-P0015)](../../build/reader/book-05.html#B05-C011-P0015)
 
+## B05-262: Astronomy Tower summit
+
+At eleven the pupils set telescopes on stands at the top of the Astronomy Tower beside a parapet, writing star charts while examiners circulate. They later descend a spiral staircase to its foot.
+
+Evidence: explicit; state: Late May–June 1996 O.W.L. examinations and night raid.
+
+Model: Open sky observing area with parapet; telescope holders also used. No roof or dome invented.
+
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 858, ¶132 (B05-C031-P0132)](../../build/reader/book-05.html#B05-C031-P0132)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 858, ¶133 (B05-C031-P0133)](../../build/reader/book-05.html#B05-C031-P0133)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 858–859, ¶134 (B05-C031-P0134)](../../build/reader/book-05.html#B05-C031-P0134)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 860, ¶138 (B05-C031-P0138)](../../build/reader/book-05.html#B05-C031-P0138)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 860–861, ¶142 (B05-C031-P0142)](../../build/reader/book-05.html#B05-C031-P0142)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 861, ¶145 (B05-C031-P0145)](../../build/reader/book-05.html#B05-C031-P0145)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 862, ¶152 (B05-C031-P0152)](../../build/reader/book-05.html#B05-C031-P0152)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 863–864, ¶165 (B05-C031-P0165)](../../build/reader/book-05.html#B05-C031-P0165)
+
+## B05-263: Astronomy Tower front-door alignment
+
+Harry stands at a parapet directly above the castle front doors. When they open, light spills down the stone steps onto the lawn; he can see people crossing it, castle-window lights reflected on the ground and the cabin’s lit windows and door.
+
+Evidence: explicit; state: Late May–June 1996 O.W.L. examinations and night raid.
+
+Model: Strong vertical alignment and multi-point sightlines; no total tower height stated.
+
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 858, ¶133 (B05-C031-P0133)](../../build/reader/book-05.html#B05-C031-P0133)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 858–859, ¶134 (B05-C031-P0134)](../../build/reader/book-05.html#B05-C031-P0134)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 859, ¶135 (B05-C031-P0135)](../../build/reader/book-05.html#B05-C031-P0135)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 859–860, ¶136 (B05-C031-P0136)](../../build/reader/book-05.html#B05-C031-P0136)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 860, ¶137 (B05-C031-P0137)](../../build/reader/book-05.html#B05-C031-P0137)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 860, ¶138 (B05-C031-P0138)](../../build/reader/book-05.html#B05-C031-P0138)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 860, ¶139 (B05-C031-P0139)](../../build/reader/book-05.html#B05-C031-P0139)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 862, ¶152 (B05-C031-P0152)](../../build/reader/book-05.html#B05-C031-P0152)
+
 ## B06-147: Astronomy Tower ghost sounds
 
 Nearly Headless Nick says the Bloody Baron is groaning and clanking up on the Astronomy Tower, a favourite activity.

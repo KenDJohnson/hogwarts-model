@@ -1615,6 +1615,38 @@ Model: Lesson props and local breakage, not persistent moving furniture.
 - [Book 5, ch. 30, “Grawp”, ref p. 810, ¶22 (B05-C030-P0022)](../../build/reader/book-05.html#B05-C030-P0022)
 - [Book 5, ch. 30, “Grawp”, ref p. 810, ¶26 (B05-C030-P0026)](../../build/reader/book-05.html#B05-C030-P0026)
 
+## B05-261: Divination examination furniture
+
+Harry’s practical uses a desktop, blank crystal ball, tea-leaf reading and an examiner’s palm; afterward the friends ascend the marble staircase.
+
+Evidence: explicit; state: Late May–June 1996 O.W.L. examinations and night raid.
+
+Model: No specific exam-room identity supplied beyond ascent afterward.
+
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 857, ¶123 (B05-C031-P0123)](../../build/reader/book-05.html#B05-C031-P0123)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 857, ¶124 (B05-C031-P0124)](../../build/reader/book-05.html#B05-C031-P0124)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 857, ¶125 (B05-C031-P0125)](../../build/reader/book-05.html#B05-C031-P0125)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 857, ¶126 (B05-C031-P0126)](../../build/reader/book-05.html#B05-C031-P0126)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 858, ¶129 (B05-C031-P0129)](../../build/reader/book-05.html#B05-C031-P0129)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 858, ¶130 (B05-C031-P0130)](../../build/reader/book-05.html#B05-C031-P0130)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 858, ¶131 (B05-C031-P0131)](../../build/reader/book-05.html#B05-C031-P0131)
+
+## B05-270: Unnamed first-floor empty classroom
+
+Harry peers into doorways along the first-floor corridor, selects an empty classroom and shuts its door. He sits on a desk; Hermione later paces between desks. His shouts are audible to Ginny and Luna outside.
+
+Evidence: explicit; state: June 1996, immediately after final History of Magic exam.
+
+Model: Distinct unnamed usable classroom with desks and a door; no furnishings borrowed from other lessons.
+
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 873, ¶23 (B05-C032-P0023)](../../build/reader/book-05.html#B05-C032-P0023)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 873, ¶30 (B05-C032-P0030)](../../build/reader/book-05.html#B05-C032-P0030)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 874, ¶42 (B05-C032-P0042)](../../build/reader/book-05.html#B05-C032-P0042)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 877, ¶66 (B05-C032-P0066)](../../build/reader/book-05.html#B05-C032-P0066)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 877–878, ¶73 (B05-C032-P0073)](../../build/reader/book-05.html#B05-C032-P0073)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 878, ¶74 (B05-C032-P0074)](../../build/reader/book-05.html#B05-C032-P0074)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 879, ¶95 (B05-C032-P0095)](../../build/reader/book-05.html#B05-C032-P0095)
+
 ## B06-027: Common room–Defence classroom
 
 The Defence Against the Dark Arts classroom is four floors below the Gryffindor common room, with a corridor outside its door.

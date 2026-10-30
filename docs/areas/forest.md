@@ -964,6 +964,253 @@ Model: Lintel impact confirms finite doorway clearance; birds and uprooting expl
 - [Book 5, ch. 30, “Grawp”, ref p. 837–838, ¶266 (B05-C030-P0266)](../../build/reader/book-05.html#B05-C030-P0266)
 - [Book 5, ch. 30, “Grawp”, ref p. 838, ¶269 (B05-C030-P0269)](../../build/reader/book-05.html#B05-C030-P0269)
 
+## B05-253: Grawp pine height report
+
+Hermione describes Grawp as sixteen feet tall and the pines he uproots as twenty feet tall.
+
+Evidence: reported; state: Late May–June 1996 O.W.L. examinations and night raid.
+
+Model: Reported approximate pine height, supplementary to direct Forest observations.
+
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 841, ¶18 (B05-C031-P0018)](../../build/reader/book-05.html#B05-C031-P0018)
+
+## B05-259: Common-room view of Forest teaching
+
+At an open common-room window Harry and Ron play chess in warm air while watching Hagrid teach at the Forest edge; Harry guesses unicorns from the boys standing back.
+
+Evidence: explicit; state: Late May–June 1996 O.W.L. examinations and night raid.
+
+Model: Hagrid and class observed; unicorn identification remains a guess. Hermione reports another Niffler attack in Umbridge’s office.
+
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 854, ¶106 (B05-C031-P0106)](../../build/reader/book-05.html#B05-C031-P0106)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 854, ¶110 (B05-C031-P0110)](../../build/reader/book-05.html#B05-C031-P0110)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 855, ¶113 (B05-C031-P0113)](../../build/reader/book-05.html#B05-C031-P0113)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 855, ¶114 (B05-C031-P0114)](../../build/reader/book-05.html#B05-C031-P0114)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 855, ¶115 (B05-C031-P0115)](../../build/reader/book-05.html#B05-C031-P0115)
+
+## B05-278: Office to Forest evening route
+
+Hermione leads from Umbridge’s corridor down stairs to the Entrance Hall, within about twenty feet of dinner through the Hall doors, then through oak front doors and down stone steps across the grass toward the Forest. The setting sun approaches the treetops ahead while shadows stretch behind them.
+
+Evidence: explicit; state: June 1996 evening following final exam.
+
+Model: Observed sun/view relation; no exact date-based azimuth inferred.
+
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 896, ¶1 (B05-C033-P0001)](../../build/reader/book-05.html#B05-C033-P0001)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 896, ¶2 (B05-C033-P0002)](../../build/reader/book-05.html#B05-C033-P0002)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 896–897, ¶3 (B05-C033-P0003)](../../build/reader/book-05.html#B05-C033-P0003)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 897, ¶8 (B05-C033-P0008)](../../build/reader/book-05.html#B05-C033-P0008)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 897, ¶9 (B05-C033-P0009)](../../build/reader/book-05.html#B05-C033-P0009)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 897–898, ¶13 (B05-C033-P0013)](../../build/reader/book-05.html#B05-C033-P0013)
+
+## B05-279: Forest path toward Aragog
+
+Hermione takes a different path from the Grawp visit: Harry recognises the path used three years earlier toward Aragog’s lair. Brambles, a fallen sapling and thick undergrowth obstruct it; eventually the dense canopy blocks all light.
+
+Evidence: explicit; state: June 1996 evening following final exam.
+
+Model: Destination recognition is Harry’s memory; this group does not reach Aragog.
+
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 898, ¶14 (B05-C033-P0014)](../../build/reader/book-05.html#B05-C033-P0014)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 898, ¶15 (B05-C033-P0015)](../../build/reader/book-05.html#B05-C033-P0015)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 898, ¶16 (B05-C033-P0016)](../../build/reader/book-05.html#B05-C033-P0016)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 898, ¶17 (B05-C033-P0017)](../../build/reader/book-05.html#B05-C033-P0017)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 898, ¶18 (B05-C033-P0018)](../../build/reader/book-05.html#B05-C033-P0018)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 898, ¶19 (B05-C033-P0019)](../../build/reader/book-05.html#B05-C033-P0019)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 898, ¶20 (B05-C033-P0020)](../../build/reader/book-05.html#B05-C033-P0020)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 898–899, ¶21 (B05-C033-P0021)](../../build/reader/book-05.html#B05-C033-P0021)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 899, ¶22 (B05-C033-P0022)](../../build/reader/book-05.html#B05-C033-P0022)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 899, ¶23 (B05-C033-P0023)](../../build/reader/book-05.html#B05-C033-P0023)
+
+## B05-280: Centaur confrontation clearing
+
+They emerge into a dim damp clearing; an arrow strikes a tree above Hermione and roughly fifty armed centaurs encircle them. The group backs to the centre while hooves shake the floor and voices echo.
+
+Evidence: explicit; state: June 1996 evening following final exam.
+
+Model: Distinct clearing from Grawp’s tether site; Umbridge’s broken wand remains on the ground, and she is carried away through trees.
+
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 899, ¶23 (B05-C033-P0023)](../../build/reader/book-05.html#B05-C033-P0023)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 899, ¶24 (B05-C033-P0024)](../../build/reader/book-05.html#B05-C033-P0024)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 899, ¶25 (B05-C033-P0025)](../../build/reader/book-05.html#B05-C033-P0025)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 899, ¶27 (B05-C033-P0027)](../../build/reader/book-05.html#B05-C033-P0027)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 900, ¶32 (B05-C033-P0032)](../../build/reader/book-05.html#B05-C033-P0032)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 900, ¶35 (B05-C033-P0035)](../../build/reader/book-05.html#B05-C033-P0035)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 900–901, ¶37 (B05-C033-P0037)](../../build/reader/book-05.html#B05-C033-P0037)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 901, ¶40 (B05-C033-P0040)](../../build/reader/book-05.html#B05-C033-P0040)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 901, ¶41 (B05-C033-P0041)](../../build/reader/book-05.html#B05-C033-P0041)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 901, ¶42 (B05-C033-P0042)](../../build/reader/book-05.html#B05-C033-P0042)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 901–902, ¶44 (B05-C033-P0044)](../../build/reader/book-05.html#B05-C033-P0044)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 902, ¶45 (B05-C033-P0045)](../../build/reader/book-05.html#B05-C033-P0045)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 902, ¶46 (B05-C033-P0046)](../../build/reader/book-05.html#B05-C033-P0046)
+
+## B05-281: Forest territorial claims
+
+Umbridge claims the Ministry permits centaurs only certain land; centaurs claim the Forest, reject wizard law and debate whether adolescents count as protected foals. They hold Harry and Hermione after she admits hoping to use them against Umbridge.
+
+Evidence: reported; state: June 1996 evening following final exam.
+
+Model: Conflicting character claims, not a verified legal cadastral boundary.
+
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 900, ¶31 (B05-C033-P0031)](../../build/reader/book-05.html#B05-C033-P0031)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 900, ¶33 (B05-C033-P0033)](../../build/reader/book-05.html#B05-C033-P0033)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 900, ¶34 (B05-C033-P0034)](../../build/reader/book-05.html#B05-C033-P0034)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 900, ¶35 (B05-C033-P0035)](../../build/reader/book-05.html#B05-C033-P0035)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 900, ¶36 (B05-C033-P0036)](../../build/reader/book-05.html#B05-C033-P0036)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 901, ¶38 (B05-C033-P0038)](../../build/reader/book-05.html#B05-C033-P0038)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 902, ¶47 (B05-C033-P0047)](../../build/reader/book-05.html#B05-C033-P0047)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 902, ¶48 (B05-C033-P0048)](../../build/reader/book-05.html#B05-C033-P0048)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 902, ¶49 (B05-C033-P0049)](../../build/reader/book-05.html#B05-C033-P0049)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 902, ¶51 (B05-C033-P0051)](../../build/reader/book-05.html#B05-C033-P0051)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 902–903, ¶52 (B05-C033-P0052)](../../build/reader/book-05.html#B05-C033-P0052)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 903, ¶55 (B05-C033-P0055)](../../build/reader/book-05.html#B05-C033-P0055)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 903, ¶58 (B05-C033-P0058)](../../build/reader/book-05.html#B05-C033-P0058)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 903, ¶59 (B05-C033-P0059)](../../build/reader/book-05.html#B05-C033-P0059)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 903, ¶60 (B05-C033-P0060)](../../build/reader/book-05.html#B05-C033-P0060)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 903–904, ¶61 (B05-C033-P0061)](../../build/reader/book-05.html#B05-C033-P0061)
+
+## B05-282: Grawp loose and Forest damage
+
+Grawp parts two thick trunks at the clearing edge, appearing under the branch canopy with broken ankle ropes trailing. Arrows strike his face; he scatters centaurs, then pursues them through the opposite trees, smashing trees aside.
+
+Evidence: explicit; state: June 1996 evening following final exam.
+
+Model: He has escaped restraints; no longer model him continuously tethered after this event.
+
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 904, ¶62 (B05-C033-P0062)](../../build/reader/book-05.html#B05-C033-P0062)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 904, ¶63 (B05-C033-P0063)](../../build/reader/book-05.html#B05-C033-P0063)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 904–905, ¶66 (B05-C033-P0066)](../../build/reader/book-05.html#B05-C033-P0066)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 905, ¶69 (B05-C033-P0069)](../../build/reader/book-05.html#B05-C033-P0069)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 905, ¶72 (B05-C033-P0072)](../../build/reader/book-05.html#B05-C033-P0072)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 905–906, ¶77 (B05-C033-P0077)](../../build/reader/book-05.html#B05-C033-P0077)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 906, ¶78 (B05-C033-P0078)](../../build/reader/book-05.html#B05-C033-P0078)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 906, ¶79 (B05-C033-P0079)](../../build/reader/book-05.html#B05-C033-P0079)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 906, ¶80 (B05-C033-P0080)](../../build/reader/book-05.html#B05-C033-P0080)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 906, ¶82 (B05-C033-P0082)](../../build/reader/book-05.html#B05-C033-P0082)
+
+## B05-284: Office window to Forest pursuit
+
+Ron says the rescued pupils saw Harry and Hermione head into the Forest from Umbridge’s office window and followed after escaping their captors.
+
+Evidence: reported; state: June 1996 evening following final exam.
+
+Model: Reported route and office-to-Forest sightline; exact tracking path unstated.
+
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 907, ¶90 (B05-C033-P0090)](../../build/reader/book-05.html#B05-C033-P0090)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 907, ¶91 (B05-C033-P0091)](../../build/reader/book-05.html#B05-C033-P0091)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 907, ¶92 (B05-C033-P0092)](../../build/reader/book-05.html#B05-C033-P0092)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 907–908, ¶93 (B05-C033-P0093)](../../build/reader/book-05.html#B05-C033-P0093)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 908, ¶94 (B05-C033-P0094)](../../build/reader/book-05.html#B05-C033-P0094)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 909, ¶106 (B05-C033-P0106)](../../build/reader/book-05.html#B05-C033-P0106)
+
+## B05-285: Thestral gathering before departure
+
+Two Thestrals wait between trees; one licks Grawp’s blood from Harry’s sleeve. Another six or seven pick their way through the trees with wings tightly folded, providing mounts for six pupils.
+
+Evidence: explicit; state: June 1996 evening following final exam.
+
+Model: Blood attraction is Ginny’s inference, supported by licking and arrival; it is not an explicitly demonstrated summoning spell.
+
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 910, ¶118 (B05-C033-P0118)](../../build/reader/book-05.html#B05-C033-P0118)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 910, ¶119 (B05-C033-P0119)](../../build/reader/book-05.html#B05-C033-P0119)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 910, ¶120 (B05-C033-P0120)](../../build/reader/book-05.html#B05-C033-P0120)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 910, ¶121 (B05-C033-P0121)](../../build/reader/book-05.html#B05-C033-P0121)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 910, ¶124 (B05-C033-P0124)](../../build/reader/book-05.html#B05-C033-P0124)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 910, ¶127 (B05-C033-P0127)](../../build/reader/book-05.html#B05-C033-P0127)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 910–911, ¶130 (B05-C033-P0130)](../../build/reader/book-05.html#B05-C033-P0130)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 911, ¶131 (B05-C033-P0131)](../../build/reader/book-05.html#B05-C033-P0131)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 911, ¶133 (B05-C033-P0133)](../../build/reader/book-05.html#B05-C033-P0133)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 911, ¶134 (B05-C033-P0134)](../../build/reader/book-05.html#B05-C033-P0134)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 911, ¶135 (B05-C033-P0135)](../../build/reader/book-05.html#B05-C033-P0135)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 911, ¶136 (B05-C033-P0136)](../../build/reader/book-05.html#B05-C033-P0136)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 911, ¶137 (B05-C033-P0137)](../../build/reader/book-05.html#B05-C033-P0137)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 911, ¶138 (B05-C033-P0138)](../../build/reader/book-05.html#B05-C033-P0138)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 911, ¶139 (B05-C033-P0139)](../../build/reader/book-05.html#B05-C033-P0139)
+
+## B05-286: Thestral mounting in Forest
+
+Harry mounts from a nearby stump, securing his knees behind the wing joints; riders grip manes. Luna helps the three pupils unable to see the animals mount separate Thestrals.
+
+Evidence: explicit; state: June 1996 sunset and night, Department of Mysteries expedition.
+
+Model: Physical riding arrangement and stump aid, not saddles or bridles.
+
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 911–912, ¶1 (B05-C034-P0001)](../../build/reader/book-05.html#B05-C034-P0001)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 912, ¶2 (B05-C034-P0002)](../../build/reader/book-05.html#B05-C034-P0002)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 912, ¶4 (B05-C034-P0004)](../../build/reader/book-05.html#B05-C034-P0004)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 912, ¶5 (B05-C034-P0005)](../../build/reader/book-05.html#B05-C034-P0005)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 912, ¶6 (B05-C034-P0006)](../../build/reader/book-05.html#B05-C034-P0006)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 912, ¶7 (B05-C034-P0007)](../../build/reader/book-05.html#B05-C034-P0007)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 912, ¶8 (B05-C034-P0008)](../../build/reader/book-05.html#B05-C034-P0008)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 912–913, ¶9 (B05-C034-P0009)](../../build/reader/book-05.html#B05-C034-P0009)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 913, ¶11 (B05-C034-P0011)](../../build/reader/book-05.html#B05-C034-P0011)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 913, ¶12 (B05-C034-P0012)](../../build/reader/book-05.html#B05-C034-P0012)
+
+## B05-287: Forest-to-London aerial route
+
+On a spoken destination command, Thestrals extend their wings, crouch and climb steeply through the topmost branches into sunset. Six riders streak over the castle, grounds and Hogsmeade, then mountains, gullies, villages and winding hillside roads before reaching London after dark.
+
+Evidence: explicit; state: June 1996 sunset and night, Department of Mysteries expedition.
+
+Model: School boundary aerial egress and surrounding terrain; no speed, duration, exact bearing or continuous mapped road course supplied. London endpoint is Ministry visitors’ entrance.
+
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 913, ¶12 (B05-C034-P0012)](../../build/reader/book-05.html#B05-C034-P0012)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 913, ¶13 (B05-C034-P0013)](../../build/reader/book-05.html#B05-C034-P0013)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 913, ¶14 (B05-C034-P0014)](../../build/reader/book-05.html#B05-C034-P0014)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 913, ¶15 (B05-C034-P0015)](../../build/reader/book-05.html#B05-C034-P0015)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 913–914, ¶16 (B05-C034-P0016)](../../build/reader/book-05.html#B05-C034-P0016)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 914, ¶17 (B05-C034-P0017)](../../build/reader/book-05.html#B05-C034-P0017)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 914–915, ¶18 (B05-C034-P0018)](../../build/reader/book-05.html#B05-C034-P0018)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 915, ¶23 (B05-C034-P0023)](../../build/reader/book-05.html#B05-C034-P0023)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 915, ¶24 (B05-C034-P0024)](../../build/reader/book-05.html#B05-C034-P0024)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 915, ¶25 (B05-C034-P0025)](../../build/reader/book-05.html#B05-C034-P0025)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 915–916, ¶26 (B05-C034-P0026)](../../build/reader/book-05.html#B05-C034-P0026)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 916, ¶27 (B05-C034-P0027)](../../build/reader/book-05.html#B05-C034-P0027)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 916, ¶29 (B05-C034-P0029)](../../build/reader/book-05.html#B05-C034-P0029)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 916, ¶30 (B05-C034-P0030)](../../build/reader/book-05.html#B05-C034-P0030)
+- [Book 5, ch. 34, “The Department of Mysteries”, ref p. 917, ¶39 (B05-C034-P0039)](../../build/reader/book-05.html#B05-C034-P0039)
+
+## B05-295: Snape’s Forest search account
+
+Dumbledore says Snape alerted the Order when pupils failed to return from the Forest and intended to search the Forest himself.
+
+Evidence: reported; state: June 1996 dawn after Ministry battle; historical interview where specified.
+
+Model: Reported intended search, without a verified search path or discovery.
+
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 992–993, ¶98 (B05-C037-P0098)](../../build/reader/book-05.html#B05-C037-P0098)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 993, ¶99 (B05-C037-P0099)](../../build/reader/book-05.html#B05-C037-P0099)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 993, ¶100 (B05-C037-P0100)](../../build/reader/book-05.html#B05-C037-P0100)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 993, ¶101 (B05-C037-P0101)](../../build/reader/book-05.html#B05-C037-P0101)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 996, ¶119 (B05-C037-P0119)](../../build/reader/book-05.html#B05-C037-P0119)
+
+## B05-300: Umbridge Forest rescue
+
+Dumbledore goes alone into the Forest and returns supporting Umbridge without visible injury; the rescue method is unknown.
+
+Evidence: explicit; state: June 1996 final school days and homeward journey.
+
+Model: Narrated outcome, no invented centaur settlement or rescue route.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1016–1017, ¶27 (B05-C038-P0027)](../../build/reader/book-05.html#B05-C038-P0027)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1017, ¶28 (B05-C038-P0028)](../../build/reader/book-05.html#B05-C038-P0028)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1017, ¶35 (B05-C038-P0035)](../../build/reader/book-05.html#B05-C038-P0035)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1017, ¶36 (B05-C038-P0036)](../../build/reader/book-05.html#B05-C038-P0036)
+
+## B05-305: Hagrid hiding place and Grawp report
+
+Hagrid says he hid in a mountain cave after fleeing and reports Grawp better behaved on his return. A possible female companion is only an idea.
+
+Evidence: reported; state: June 1996 final school days and homeward journey.
+
+Model: Reported refuge not located as Sirius’s exact cave; no second giant installed.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1023, ¶85 (B05-C038-P0085)](../../build/reader/book-05.html#B05-C038-P0085)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1023, ¶86 (B05-C038-P0086)](../../build/reader/book-05.html#B05-C038-P0086)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1023, ¶87 (B05-C038-P0087)](../../build/reader/book-05.html#B05-C038-P0087)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1023–1024, ¶89 (B05-C038-P0089)](../../build/reader/book-05.html#B05-C038-P0089)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1024, ¶90 (B05-C038-P0090)](../../build/reader/book-05.html#B05-C038-P0090)
+
 ## B06-005: Forbidden Forest
 
 Dumbledore describes a resident centaur herd in the Forest, recalling Umbridge’s encounter there.

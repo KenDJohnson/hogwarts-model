@@ -1070,6 +1070,37 @@ Model: Holiday-to-summer-term information state.
 - [Book 5, ch. 29, “Careers Advice”, ref p. 782, ¶70 (B05-C029-P0070)](../../build/reader/book-05.html#B05-C029-P0070)
 - [Book 5, ch. 29, “Careers Advice”, ref p. 783, ¶81 (B05-C029-P0081)](../../build/reader/book-05.html#B05-C029-P0081)
 
+## B05-272: Gryffindor retrieval to Umbridge corridor
+
+From the empty classroom Harry goes up, meets Dean and Seamus two floors higher, then retrieves the Cloak and knife through Gryffindor’s portrait hole; a few minutes later he descends the last stairs to the office corridor.
+
+Evidence: explicit; state: June 1996, immediately after final History of Magic exam.
+
+Model: Do not equate the meeting floor with the portrait-hole floor unless independently stated.
+
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 881, ¶110 (B05-C032-P0110)](../../build/reader/book-05.html#B05-C032-P0110)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 881, ¶111 (B05-C032-P0111)](../../build/reader/book-05.html#B05-C032-P0111)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 881, ¶112 (B05-C032-P0112)](../../build/reader/book-05.html#B05-C032-P0112)
+
+## B05-310: Board near Fat Lady corridor
+
+On the return upward from Charms, Harry turns toward the Fat Lady’s corridor and finds Luna pinning a lost-property list on a wall noticeboard; there are no useful nearby hiding places.
+
+Evidence: explicit; state: June 1996 final school days and homeward journey.
+
+Model: A corridor noticeboard distinct from the board inside Gryffindor common room.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1033, ¶172 (B05-C038-P0172)](../../build/reader/book-05.html#B05-C038-P0172)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1033–1034, ¶173 (B05-C038-P0173)](../../build/reader/book-05.html#B05-C038-P0173)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1034, ¶174 (B05-C038-P0174)](../../build/reader/book-05.html#B05-C038-P0174)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1034, ¶175 (B05-C038-P0175)](../../build/reader/book-05.html#B05-C038-P0175)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1034, ¶176 (B05-C038-P0176)](../../build/reader/book-05.html#B05-C038-P0176)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1034, ¶177 (B05-C038-P0177)](../../build/reader/book-05.html#B05-C038-P0177)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1034, ¶182 (B05-C038-P0182)](../../build/reader/book-05.html#B05-C038-P0182)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1034, ¶183 (B05-C038-P0183)](../../build/reader/book-05.html#B05-C038-P0183)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1035–1036, ¶198 (B05-C038-P0198)](../../build/reader/book-05.html#B05-C038-P0198)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1036, ¶200 (B05-C038-P0200)](../../build/reader/book-05.html#B05-C038-P0200)
+
 ## B06-024: Gryffindor common-room exit
 
 Students climb through a portrait hole to leave the common room for the corridor; a queue forms at this opening.

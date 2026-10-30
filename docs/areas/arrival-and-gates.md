@@ -793,6 +793,64 @@ Model: Lintel impact confirms finite doorway clearance; birds and uprooting expl
 - [Book 5, ch. 30, “Grawp”, ref p. 837–838, ¶266 (B05-C030-P0266)](../../build/reader/book-05.html#B05-C030-P0266)
 - [Book 5, ch. 30, “Grawp”, ref p. 838, ¶269 (B05-C030-P0269)](../../build/reader/book-05.html#B05-C030-P0269)
 
+## B05-258: Hall practical-exam stations
+
+Exam props include a levitated wineglass that smashes, an egg cup, rat, dinner plate and Transfiguration animals; a ferret becomes flamingos requiring temporary evacuation. Defence practice includes Boggart banishing, and Harry’s stag Patronus canters the Hall’s length.
+
+Evidence: explicit; state: Late May–June 1996 O.W.L. examinations and night raid.
+
+Model: Transient practical testing materials; no claim all exam subjects use identical station layouts.
+
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 851, ¶92 (B05-C031-P0092)](../../build/reader/book-05.html#B05-C031-P0092)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 851–852, ¶93 (B05-C031-P0093)](../../build/reader/book-05.html#B05-C031-P0093)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 852, ¶94 (B05-C031-P0094)](../../build/reader/book-05.html#B05-C031-P0094)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 852–853, ¶96 (B05-C031-P0096)](../../build/reader/book-05.html#B05-C031-P0096)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 853, ¶97 (B05-C031-P0097)](../../build/reader/book-05.html#B05-C031-P0097)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 853, ¶98 (B05-C031-P0098)](../../build/reader/book-05.html#B05-C031-P0098)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 853, ¶100 (B05-C031-P0100)](../../build/reader/book-05.html#B05-C031-P0100)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 853, ¶101 (B05-C031-P0101)](../../build/reader/book-05.html#B05-C031-P0101)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 853, ¶102 (B05-C031-P0102)](../../build/reader/book-05.html#B05-C031-P0102)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 853, ¶103 (B05-C031-P0103)](../../build/reader/book-05.html#B05-C031-P0103)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 853, ¶104 (B05-C031-P0104)](../../build/reader/book-05.html#B05-C031-P0104)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 853–854, ¶105 (B05-C031-P0105)](../../build/reader/book-05.html#B05-C031-P0105)
+
+## B05-265: Hagrid escape toward gates
+
+Hagrid lifts unconscious Fang around his shoulders and runs toward the distant gates, vanishing into darkness under a missed final Stunning Spell.
+
+Evidence: explicit; state: Late May–June 1996 O.W.L. examinations and night raid.
+
+Model: Direction and disappearance observed; destination with Dumbledore only conjectured.
+
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 863, ¶162 (B05-C031-P0162)](../../build/reader/book-05.html#B05-C031-P0162)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 863, ¶163 (B05-C031-P0163)](../../build/reader/book-05.html#B05-C031-P0163)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 863, ¶164 (B05-C031-P0164)](../../build/reader/book-05.html#B05-C031-P0164)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 864, ¶168 (B05-C031-P0168)](../../build/reader/book-05.html#B05-C031-P0168)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 864, ¶169 (B05-C031-P0169)](../../build/reader/book-05.html#B05-C031-P0169)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 864, ¶172 (B05-C031-P0172)](../../build/reader/book-05.html#B05-C031-P0172)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 864, ¶173 (B05-C031-P0173)](../../build/reader/book-05.html#B05-C031-P0173)
+
+## B05-311: Hogwarts Express homeward connection
+
+The homeward train has a toilet and glass-windowed compartments opening to its corridor, luggage racks holding cages, and a food trolley. After arrival at King’s Cross a ticket inspector regulates when pupils cross the magical barrier between platforms nine and ten.
+
+Evidence: explicit; state: June 1996 final school days and homeward journey.
+
+Model: No departure journey from castle to Hogsmeade station is narrated in this closing chapter.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1036–1037, ¶202 (B05-C038-P0202)](../../build/reader/book-05.html#B05-C038-P0202)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1037, ¶203 (B05-C038-P0203)](../../build/reader/book-05.html#B05-C038-P0203)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1037, ¶204 (B05-C038-P0204)](../../build/reader/book-05.html#B05-C038-P0204)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1037, ¶205 (B05-C038-P0205)](../../build/reader/book-05.html#B05-C038-P0205)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1037, ¶207 (B05-C038-P0207)](../../build/reader/book-05.html#B05-C038-P0207)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1037, ¶208 (B05-C038-P0208)](../../build/reader/book-05.html#B05-C038-P0208)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1039, ¶222 (B05-C038-P0222)](../../build/reader/book-05.html#B05-C038-P0222)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1039, ¶223 (B05-C038-P0223)](../../build/reader/book-05.html#B05-C038-P0223)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1039, ¶224 (B05-C038-P0224)](../../build/reader/book-05.html#B05-C038-P0224)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1039–1040, ¶225 (B05-C038-P0225)](../../build/reader/book-05.html#B05-C038-P0225)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1041, ¶238 (B05-C038-P0238)](../../build/reader/book-05.html#B05-C038-P0238)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1043, ¶264 (B05-C038-P0264)](../../build/reader/book-05.html#B05-C038-P0264)
+
 ## B06-001: Hogwarts protective perimeter
 
 A newspaper reports new defensive spells and charms, a complex array of counter-curses, and a small Auror task force specifically protecting Hogwarts.

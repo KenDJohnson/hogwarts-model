@@ -1006,6 +1006,76 @@ Model: Basin and cleaning mess; exact room is implied by cabin context, not newl
 - [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 720, ¶72 (B05-C027-P0072)](../../build/reader/book-05.html#B05-C027-P0072)
 - [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 720, ¶73 (B05-C027-P0073)](../../build/reader/book-05.html#B05-C027-P0073)
 
+## B05-264: Hagrid cabin night battle
+
+Six attackers enter Hagrid’s lit cabin, then its door bursts open into a fight outside. Fang is Stunned, one attacker thrown about ten feet and others knocked down. McGonagall is struck by four Stunners halfway between cabin and castle.
+
+Evidence: explicit; state: Late May–June 1996 O.W.L. examinations and night raid.
+
+Model: Observed from distant tower; thrown distance is Harry’s estimate. Hagrid’s spell resistance is observed, cause later attributed to giant ancestry.
+
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 860, ¶137 (B05-C031-P0137)](../../build/reader/book-05.html#B05-C031-P0137)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 860, ¶138 (B05-C031-P0138)](../../build/reader/book-05.html#B05-C031-P0138)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 860, ¶139 (B05-C031-P0139)](../../build/reader/book-05.html#B05-C031-P0139)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 861, ¶145 (B05-C031-P0145)](../../build/reader/book-05.html#B05-C031-P0145)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 861, ¶146 (B05-C031-P0146)](../../build/reader/book-05.html#B05-C031-P0146)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 861, ¶149 (B05-C031-P0149)](../../build/reader/book-05.html#B05-C031-P0149)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 861, ¶150 (B05-C031-P0150)](../../build/reader/book-05.html#B05-C031-P0150)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 861–862, ¶151 (B05-C031-P0151)](../../build/reader/book-05.html#B05-C031-P0151)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 862, ¶154 (B05-C031-P0154)](../../build/reader/book-05.html#B05-C031-P0154)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 862, ¶157 (B05-C031-P0157)](../../build/reader/book-05.html#B05-C031-P0157)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 862, ¶158 (B05-C031-P0158)](../../build/reader/book-05.html#B05-C031-P0158)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 862–863, ¶159 (B05-C031-P0159)](../../build/reader/book-05.html#B05-C031-P0159)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 863, ¶160 (B05-C031-P0160)](../../build/reader/book-05.html#B05-C031-P0160)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 863, ¶162 (B05-C031-P0162)](../../build/reader/book-05.html#B05-C031-P0162)
+
+## B05-265: Hagrid escape toward gates
+
+Hagrid lifts unconscious Fang around his shoulders and runs toward the distant gates, vanishing into darkness under a missed final Stunning Spell.
+
+Evidence: explicit; state: Late May–June 1996 O.W.L. examinations and night raid.
+
+Model: Direction and disappearance observed; destination with Dumbledore only conjectured.
+
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 863, ¶162 (B05-C031-P0162)](../../build/reader/book-05.html#B05-C031-P0162)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 863, ¶163 (B05-C031-P0163)](../../build/reader/book-05.html#B05-C031-P0163)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 863, ¶164 (B05-C031-P0164)](../../build/reader/book-05.html#B05-C031-P0164)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 864, ¶168 (B05-C031-P0168)](../../build/reader/book-05.html#B05-C031-P0168)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 864, ¶169 (B05-C031-P0169)](../../build/reader/book-05.html#B05-C031-P0169)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 864, ¶172 (B05-C031-P0172)](../../build/reader/book-05.html#B05-C031-P0172)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 864, ¶173 (B05-C031-P0173)](../../build/reader/book-05.html#B05-C031-P0173)
+
+## B05-304: Summer lawns and Hagrid garden
+
+Pupils sunbathe, talk and read on hot lawns. Behind Hagrid’s cabin a fenced back garden grows runner beans which he harvests; Fang can run around the cabin corner. Inside, Hagrid serves iced dandelion juice at his wooden table.
+
+Evidence: explicit; state: June 1996 final school days and homeward journey.
+
+Model: Runner beans add a specific garden crop and rear/front circulation.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1022–1023, ¶79 (B05-C038-P0079)](../../build/reader/book-05.html#B05-C038-P0079)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1023, ¶80 (B05-C038-P0080)](../../build/reader/book-05.html#B05-C038-P0080)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1023, ¶81 (B05-C038-P0081)](../../build/reader/book-05.html#B05-C038-P0081)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1023, ¶82 (B05-C038-P0082)](../../build/reader/book-05.html#B05-C038-P0082)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1024, ¶93 (B05-C038-P0093)](../../build/reader/book-05.html#B05-C038-P0093)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1024, ¶98 (B05-C038-P0098)](../../build/reader/book-05.html#B05-C038-P0098)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1024–1025, ¶99 (B05-C038-P0099)](../../build/reader/book-05.html#B05-C038-P0099)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1025, ¶101 (B05-C038-P0101)](../../build/reader/book-05.html#B05-C038-P0101)
+
+## B05-305: Hagrid hiding place and Grawp report
+
+Hagrid says he hid in a mountain cave after fleeing and reports Grawp better behaved on his return. A possible female companion is only an idea.
+
+Evidence: reported; state: June 1996 final school days and homeward journey.
+
+Model: Reported refuge not located as Sirius’s exact cave; no second giant installed.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1023, ¶85 (B05-C038-P0085)](../../build/reader/book-05.html#B05-C038-P0085)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1023, ¶86 (B05-C038-P0086)](../../build/reader/book-05.html#B05-C038-P0086)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1023, ¶87 (B05-C038-P0087)](../../build/reader/book-05.html#B05-C038-P0087)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1023–1024, ¶89 (B05-C038-P0089)](../../build/reader/book-05.html#B05-C038-P0089)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1024, ¶90 (B05-C038-P0090)](../../build/reader/book-05.html#B05-C038-P0090)
+
 ## B06-003: Hagrid’s care of Buckbeak
 
 Buckbeak is staying with Hagrid, under the protective replacement name Witherwings. Hagrid subsequently reports that the Hippogriff is back in the open air.

@@ -1917,6 +1917,174 @@ Model: Series of narrated local incidents; not evidence every object of these cl
 
 - [Book 5, ch. 30, “Grawp”, ref p. 807–808, ¶7 (B05-C030-P0007)](../../build/reader/book-05.html#B05-C030-P0007)
 
+## B05-257: Practical-exam waiting chamber
+
+Pupils wait in the small chamber beside the Great Hall, entering the Hall in alphabetical groups; tested pupils do not return. Flitwick stands just inside the door and directs Harry to an examiner’s small table in a far corner.
+
+Evidence: explicit; state: Late May–June 1996 O.W.L. examinations and night raid.
+
+Model: Waiting room adjacency and one-way exam circulation, without a fixed room name.
+
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 850–851, ¶85 (B05-C031-P0085)](../../build/reader/book-05.html#B05-C031-P0085)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 851, ¶86 (B05-C031-P0086)](../../build/reader/book-05.html#B05-C031-P0086)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 851, ¶88 (B05-C031-P0088)](../../build/reader/book-05.html#B05-C031-P0088)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 851, ¶89 (B05-C031-P0089)](../../build/reader/book-05.html#B05-C031-P0089)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 851, ¶90 (B05-C031-P0090)](../../build/reader/book-05.html#B05-C031-P0090)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 851, ¶91 (B05-C031-P0091)](../../build/reader/book-05.html#B05-C031-P0091)
+
+## B05-267: Dormitory rescue view
+
+Colin says pupils watched through a dormitory window as McGonagall was carried back uphill to the castle.
+
+Evidence: reported; state: Late May–June 1996 O.W.L. examinations and night raid.
+
+Model: Reported view from Colin’s dormitory, not necessarily Harry’s window or room.
+
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 865, ¶181 (B05-C031-P0181)](../../build/reader/book-05.html#B05-C031-P0181)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 865, ¶182 (B05-C031-P0182)](../../build/reader/book-05.html#B05-C031-P0182)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 865, ¶183 (B05-C031-P0183)](../../build/reader/book-05.html#B05-C031-P0183)
+- [Book 5, ch. 31, “O.W.L.s”, ref p. 865–866, ¶184 (B05-C031-P0184)](../../build/reader/book-05.html#B05-C031-P0184)
+
+## B05-275: Stealth detection and guarded Firebolt
+
+Umbridge catches Harry at the fireplace and says Stealth Sensoring Spells surround her doorway, installed after the last Niffler. She says the Firebolt is strictly guarded in the dungeons.
+
+Evidence: reported; state: June 1996, immediately after final History of Magic exam.
+
+Model: Detection implementation and broom guarding reported by Umbridge; confirms neither a specific troll nor impermeability of the door.
+
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 885, ¶151 (B05-C032-P0151)](../../build/reader/book-05.html#B05-C032-P0151)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 885–886, ¶152 (B05-C032-P0152)](../../build/reader/book-05.html#B05-C032-P0152)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 886, ¶153 (B05-C032-P0153)](../../build/reader/book-05.html#B05-C032-P0153)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 886, ¶154 (B05-C032-P0154)](../../build/reader/book-05.html#B05-C032-P0154)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 886, ¶155 (B05-C032-P0155)](../../build/reader/book-05.html#B05-C032-P0155)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 886, ¶156 (B05-C032-P0156)](../../build/reader/book-05.html#B05-C032-P0156)
+
+## B05-277: School telescope sabotage report
+
+Umbridge says Filch has just reported Peeves smearing ink on all school telescope eyepieces.
+
+Evidence: reported; state: June 1996, immediately after final History of Magic exam.
+
+Model: Reported sabotage; not confirmation of destruction or of the proposed Transfiguration rampage.
+
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 887, ¶163 (B05-C032-P0163)](../../build/reader/book-05.html#B05-C032-P0163)
+
+## B05-283: Bowtruckle at escape shelter
+
+After sheltering among trees Harry kicks a nearby tree and a Bowtruckle chatters overhead, flexing long fingers. Ron’s group approaches through low branches.
+
+Evidence: explicit; state: June 1996 evening following final exam.
+
+Model: Actual Bowtruckle-in-tree habitat beyond the classroom specimens.
+
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 906, ¶79 (B05-C033-P0079)](../../build/reader/book-05.html#B05-C033-P0079)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 907, ¶85 (B05-C033-P0085)](../../build/reader/book-05.html#B05-C033-P0085)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 907, ¶86 (B05-C033-P0086)](../../build/reader/book-05.html#B05-C033-P0086)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 907, ¶88 (B05-C033-P0088)](../../build/reader/book-05.html#B05-C033-P0088)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 907, ¶89 (B05-C033-P0089)](../../build/reader/book-05.html#B05-C033-P0089)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 907, ¶90 (B05-C033-P0090)](../../build/reader/book-05.html#B05-C033-P0090)
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 907, ¶91 (B05-C033-P0091)](../../build/reader/book-05.html#B05-C033-P0091)
+
+## B05-294: Sword case and Pensieve cabinet
+
+The glass case containing Gryffindor’s sword gleams in full sunlight. A black cabinet beside Fawkes’s perch has a sliding catch and contains the rune-carved shallow stone Pensieve, which Dumbledore moves to the desk.
+
+Evidence: explicit; state: June 1996 dawn after Ministry battle; historical interview where specified.
+
+Model: Pensieve is back in its office storage; no duplicate assumed. It can project a speaking memory figure above the basin.
+
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1006, ¶176 (B05-C037-P0176)](../../build/reader/book-05.html#B05-C037-P0176)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1007, ¶181 (B05-C037-P0181)](../../build/reader/book-05.html#B05-C037-P0181)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1007, ¶182 (B05-C037-P0182)](../../build/reader/book-05.html#B05-C037-P0182)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1008, ¶184 (B05-C037-P0184)](../../build/reader/book-05.html#B05-C037-P0184)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1008, ¶185 (B05-C037-P0185)](../../build/reader/book-05.html#B05-C037-P0185)
+
+## B05-299: Swamp remnant
+
+Ginny reports Flitwick removing the corridor swamp in about three seconds but preserving a tiny roped-off patch beneath a window, praising its magic.
+
+Evidence: reported; state: June 1996 final school days and homeward journey.
+
+Model: Reported post-restoration state; Ron’s memorial interpretation is an inference.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1016, ¶19 (B05-C038-P0019)](../../build/reader/book-05.html#B05-C038-P0019)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1016, ¶20 (B05-C038-P0020)](../../build/reader/book-05.html#B05-C038-P0020)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1016, ¶21 (B05-C038-P0021)](../../build/reader/book-05.html#B05-C038-P0021)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1016, ¶22 (B05-C038-P0022)](../../build/reader/book-05.html#B05-C038-P0022)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1016, ¶24 (B05-C038-P0024)](../../build/reader/book-05.html#B05-C038-P0024)
+
+## B05-303: House-point gem materials
+
+Gryffindor’s empty hourglass receives falling rubies as points are awarded, and Ravenclaw’s receives sapphires. Deducted Gryffindor rubies rise into the upper bulb.
+
+Evidence: explicit; state: June 1996 final school days and homeward journey.
+
+Model: Adds explicit gem identities to earlier hourglass mechanics.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1021, ¶66 (B05-C038-P0066)](../../build/reader/book-05.html#B05-C038-P0066)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1021, ¶67 (B05-C038-P0067)](../../build/reader/book-05.html#B05-C038-P0067)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1021–1022, ¶74 (B05-C038-P0074)](../../build/reader/book-05.html#B05-C038-P0074)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1022, ¶75 (B05-C038-P0075)](../../build/reader/book-05.html#B05-C038-P0075)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1022, ¶76 (B05-C038-P0076)](../../build/reader/book-05.html#B05-C038-P0076)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1022, ¶77 (B05-C038-P0077)](../../build/reader/book-05.html#B05-C038-P0077)
+
+## B05-308: Dormitory mirror and ghost-search route
+
+Harry breaks Sirius’s small square two-way mirror in his trunk, then descends the spiral stairs, crosses the empty common room, passes the portrait hole and runs down further stairs and corridors to a point outside Charms. He enters the nearest classroom to talk to Nick.
+
+Evidence: explicit; state: June 1996 final school days and homeward journey.
+
+Model: Mirror’s prior detention use is Sirius’s note; no successful new remote connection. Unnamed classroom has a grounds-facing window; Nick traverses solid walls.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1027, ¶111 (B05-C038-P0111)](../../build/reader/book-05.html#B05-C038-P0111)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1027, ¶112 (B05-C038-P0112)](../../build/reader/book-05.html#B05-C038-P0112)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1027–1028, ¶114 (B05-C038-P0114)](../../build/reader/book-05.html#B05-C038-P0114)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1028, ¶115 (B05-C038-P0115)](../../build/reader/book-05.html#B05-C038-P0115)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1028, ¶117 (B05-C038-P0117)](../../build/reader/book-05.html#B05-C038-P0117)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1028, ¶118 (B05-C038-P0118)](../../build/reader/book-05.html#B05-C038-P0118)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1028, ¶119 (B05-C038-P0119)](../../build/reader/book-05.html#B05-C038-P0119)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1029, ¶121 (B05-C038-P0121)](../../build/reader/book-05.html#B05-C038-P0121)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1029, ¶123 (B05-C038-P0123)](../../build/reader/book-05.html#B05-C038-P0123)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1029, ¶127 (B05-C038-P0127)](../../build/reader/book-05.html#B05-C038-P0127)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1029, ¶128 (B05-C038-P0128)](../../build/reader/book-05.html#B05-C038-P0128)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1029–1030, ¶130 (B05-C038-P0130)](../../build/reader/book-05.html#B05-C038-P0130)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1030, ¶133 (B05-C038-P0133)](../../build/reader/book-05.html#B05-C038-P0133)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1030, ¶134 (B05-C038-P0134)](../../build/reader/book-05.html#B05-C038-P0134)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1030, ¶136 (B05-C038-P0136)](../../build/reader/book-05.html#B05-C038-P0136)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1030, ¶137 (B05-C038-P0137)](../../build/reader/book-05.html#B05-C038-P0137)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1031, ¶141 (B05-C038-P0141)](../../build/reader/book-05.html#B05-C038-P0141)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1031, ¶142 (B05-C038-P0142)](../../build/reader/book-05.html#B05-C038-P0142)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1031, ¶144 (B05-C038-P0144)](../../build/reader/book-05.html#B05-C038-P0144)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1031, ¶145 (B05-C038-P0145)](../../build/reader/book-05.html#B05-C038-P0145)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1031, ¶146 (B05-C038-P0146)](../../build/reader/book-05.html#B05-C038-P0146)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1031, ¶148 (B05-C038-P0148)](../../build/reader/book-05.html#B05-C038-P0148)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1033, ¶171 (B05-C038-P0171)](../../build/reader/book-05.html#B05-C038-P0171)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1033, ¶172 (B05-C038-P0172)](../../build/reader/book-05.html#B05-C038-P0172)
+
+## B05-309: Ghost movement and persistence
+
+Nearly Headless Nick explains that some wizards choose to leave a pale imprint in places they once walked; he can move and speak in Hogwarts and pass through its stone walls, but says Sirius will not return as a ghost.
+
+Evidence: explicit; state: June 1996 final school days and homeward journey.
+
+Model: Choice and afterlife account are Nick’s report; wall traversal directly observed. No newly added Sirius apparition.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1030, ¶136 (B05-C038-P0136)](../../build/reader/book-05.html#B05-C038-P0136)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1030, ¶137 (B05-C038-P0137)](../../build/reader/book-05.html#B05-C038-P0137)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1031, ¶144 (B05-C038-P0144)](../../build/reader/book-05.html#B05-C038-P0144)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1031, ¶149 (B05-C038-P0149)](../../build/reader/book-05.html#B05-C038-P0149)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1031, ¶150 (B05-C038-P0150)](../../build/reader/book-05.html#B05-C038-P0150)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1032, ¶152 (B05-C038-P0152)](../../build/reader/book-05.html#B05-C038-P0152)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1032, ¶154 (B05-C038-P0154)](../../build/reader/book-05.html#B05-C038-P0154)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1032, ¶157 (B05-C038-P0157)](../../build/reader/book-05.html#B05-C038-P0157)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1032, ¶159 (B05-C038-P0159)](../../build/reader/book-05.html#B05-C038-P0159)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1032, ¶161 (B05-C038-P0161)](../../build/reader/book-05.html#B05-C038-P0161)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1032, ¶164 (B05-C038-P0164)](../../build/reader/book-05.html#B05-C038-P0164)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1033, ¶168 (B05-C038-P0168)](../../build/reader/book-05.html#B05-C038-P0168)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1033, ¶170 (B05-C038-P0170)](../../build/reader/book-05.html#B05-C038-P0170)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1033, ¶171 (B05-C038-P0171)](../../build/reader/book-05.html#B05-C038-P0171)
+
 ## B06-004: Hogwarts buildings and grounds
 
 Apparition is prohibited throughout Hogwarts buildings and grounds, a rule Harry states and Dumbledore confirms.

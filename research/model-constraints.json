@@ -3,304 +3,808 @@
   "purpose": "Selected source-backed constraints for blocking out a model. The full catalogue is broader; no coordinates or complete floor plan are asserted here.",
   "constraints": [
     {
-      "id": "M001", "group": "Terrain and arrival", "subject": "Castle", "relation": "stands_on", "object": "High mountain/cliff above the lake",
+      "id": "M001",
+      "group": "Terrain and arrival",
+      "subject": "Castle",
+      "relation": "stands_on",
+      "object": "High mountain/cliff above the lake",
       "description": "The first lake view places the many-turreted, many-towered castle high above the water, on a mountain and then explicitly on a cliff.",
-      "certainty": "explicit", "temporal": "Book 1 arrival", "evidence": ["B01-C006-P0278", "B01-C006-P0281"],
+      "certainty": "explicit",
+      "temporal": "Book 1 arrival",
+      "evidence": [
+        "B01-C006-P0278",
+        "B01-C006-P0281"
+      ],
       "model_notes": "Preserve substantial elevation and a cliff-facing lake approach. The text supplies neither contour elevations nor a complete shoreline or compass bearing."
     },
     {
-      "id": "M002", "group": "Terrain and arrival", "subject": "First-year boat route", "relation": "passes_through", "object": "Ivy-hidden cliff opening and dark tunnel to underground harbour",
+      "id": "M002",
+      "group": "Terrain and arrival",
+      "subject": "First-year boat route",
+      "relation": "passes_through",
+      "object": "Ivy-hidden cliff opening and dark tunnel to underground harbour",
       "description": "The boats enter a broad cliff opening behind ivy, travel along a dark tunnel seemingly beneath the castle, and land at an underground harbour with rocks and pebbles.",
-      "certainty": "explicit", "temporal": "Book 1 arrival", "evidence": ["B01-C006-P0282"],
+      "certainty": "explicit",
+      "temporal": "Book 1 arrival",
+      "evidence": [
+        "B01-C006-P0282"
+      ],
       "model_notes": "The impression that the tunnel goes under the castle is qualified in the narration. Do not replace the harbour with an exposed film boathouse."
     },
     {
-      "id": "M003", "group": "Terrain and arrival", "subject": "Underground harbour", "relation": "connects_via", "object": "Rising rock passage, grass, stone steps, oak front door",
+      "id": "M003",
+      "group": "Terrain and arrival",
+      "subject": "Underground harbour",
+      "relation": "connects_via",
+      "object": "Rising rock passage, grass, stone steps, oak front door",
       "description": "From the landing, students climb a rock passage to damp grass in the castle's shadow, then ascend stone steps to the large oak front door.",
-      "certainty": "explicit", "temporal": "Book 1 arrival", "evidence": ["B01-C006-P0284", "B01-C006-P0285"],
+      "certainty": "explicit",
+      "temporal": "Book 1 arrival",
+      "evidence": [
+        "B01-C006-P0284",
+        "B01-C006-P0285"
+      ],
       "model_notes": "Keep this traversable sequence. Passage length, exact exit position, and overlap with the carriage approach remain design variables."
     },
     {
-      "id": "M004", "group": "Terrain and arrival", "subject": "Main gates", "relation": "connect_via", "object": "Long rising drive to castle entrance",
+      "id": "M004",
+      "group": "Terrain and arrival",
+      "subject": "Main gates",
+      "relation": "connect_via",
+      "object": "Long rising drive to castle entrance",
       "description": "Wrought-iron gates are flanked by stone columns carrying winged boars. Carriages ascend a long sloping drive; the oak front doors stand above stone steps.",
-      "certainty": "explicit", "temporal": "Books 3 and 4 arrivals", "evidence": ["B03-C005-P0208", "B04-C012-P0001"],
+      "certainty": "explicit",
+      "temporal": "Books 3 and 4 arrivals",
+      "evidence": [
+        "B03-C005-P0208",
+        "B04-C012-P0001"
+      ],
       "model_notes": "Gate design and a rising approach are constrained. Do not infer a measured distance or a straight drive from the arrival alone."
     },
     {
-      "id": "M005", "group": "Terrain and arrival", "subject": "Main gates", "relation": "exit_left_towards", "object": "Road into Hogsmeade",
+      "id": "M005",
+      "group": "Terrain and arrival",
+      "subject": "Main gates",
+      "relation": "exit_left_towards",
+      "object": "Road into Hogsmeade",
       "description": "Walking out between the boar-topped pillars, students turn left onto the road into the village.",
-      "certainty": "explicit", "temporal": "Book 5 Hogsmeade visit", "evidence": ["B05-C016-P0044"],
+      "certainty": "explicit",
+      "temporal": "Book 5 Hogsmeade visit",
+      "evidence": [
+        "B05-C016-P0044"
+      ],
       "model_notes": "Left is relative to the direction of exit; it is not a compass bearing."
     },
     {
-      "id": "M006", "group": "Terrain and arrival", "subject": "Hagrid's cabin", "relation": "stands_at", "object": "Forbidden Forest edge below sloping lawns",
+      "id": "M006",
+      "group": "Terrain and arrival",
+      "subject": "Hagrid's cabin",
+      "relation": "stands_at",
+      "object": "Forbidden Forest edge below sloping lawns",
       "description": "Students descend the sloping lawns to Hagrid's hut at the edge of the Forbidden Forest; another visit describes the cabin as small and wooden.",
-      "certainty": "explicit", "temporal": "Books 3 and 4 lessons", "evidence": ["B03-C006-P0151", "B04-C013-P0017"],
+      "certainty": "explicit",
+      "temporal": "Books 3 and 4 lessons",
+      "evidence": [
+        "B03-C006-P0151",
+        "B04-C013-P0017"
+      ],
       "model_notes": "Preserve the downhill castle-to-cabin route and forest adjacency without choosing a compass quadrant from adaptation imagery."
     },
     {
-      "id": "M007", "group": "Terrain and arrival", "subject": "Herbology greenhouses", "relation": "are_behind", "object": "Castle",
+      "id": "M007",
+      "group": "Terrain and arrival",
+      "subject": "Herbology greenhouses",
+      "relation": "are_behind",
+      "object": "Castle",
       "description": "Herbology takes place in greenhouses behind the castle. A later flight across the grounds passes vegetable gardens, greenhouses, the Whomping Willow, then forest shelter.",
-      "certainty": "explicit", "temporal": "Books 1 and 3", "evidence": ["B01-C008-P0013", "B03-C021-P0129"],
+      "certainty": "explicit",
+      "temporal": "Books 1 and 3",
+      "evidence": [
+        "B01-C008-P0013",
+        "B03-C021-P0129"
+      ],
       "model_notes": "Behind is a viewpoint-relative description. The travel sequence gives connectivity and proximity rather than a surveyed straight line."
     },
     {
-      "id": "M008", "group": "Terrain and arrival", "subject": "Lakeside beech", "relation": "is_visible_from", "object": "Window beside Neville's bed",
+      "id": "M008",
+      "group": "Terrain and arrival",
+      "subject": "Lakeside beech",
+      "relation": "is_visible_from",
+      "object": "Window beside Neville's bed",
       "description": "A large beech shades a study spot at the lake edge. Harry later sees the same tree directly ahead from the window beside Neville's bed.",
-      "certainty": "explicit", "temporal": "Book 5; tree also identified in a school memory", "evidence": ["B05-C017-P0001", "B05-C028-P0212", "B05-C029-P0096"],
+      "certainty": "explicit",
+      "temporal": "Book 5; tree also identified in a school memory",
+      "evidence": [
+        "B05-C017-P0001",
+        "B05-C028-P0212",
+        "B05-C029-P0096"
+      ],
       "model_notes": "Use a line-of-sight constraint between a particular Gryffindor dormitory window and this tree. It does not locate every tower window or the whole shoreline."
     },
     {
-      "id": "M009", "group": "Terrain and arrival", "subject": "Dumbledore's tomb", "relation": "stands_beside", "object": "Lake",
+      "id": "M009",
+      "group": "Terrain and arrival",
+      "subject": "Dumbledore's tomb",
+      "relation": "stands_beside",
+      "object": "Lake",
       "description": "At the funeral, white flames leave a white marble tomb around the body and its table. A later visit places it beside the lake, reflected in the water.",
-      "certainty": "explicit", "temporal": "Added at end of Book 6; present in Book 7", "evidence": ["B06-C030-P0062", "B07-C024-P0252"],
+      "certainty": "explicit",
+      "temporal": "Added at end of Book 6; present in Book 7",
+      "evidence": [
+        "B06-C030-P0062",
+        "B07-C024-P0252"
+      ],
       "model_notes": "This is a dated addition. Earlier school-year scenes should omit it. No source-backed footprint dimensions are supplied by these passages."
     },
     {
-      "id": "M010", "group": "Entrance and shared rooms", "subject": "Entrance Hall", "relation": "contains", "object": "Flagged stone floor, torchlit stone walls, very high ceiling, marble staircase",
+      "id": "M010",
+      "group": "Entrance and shared rooms",
+      "subject": "Entrance Hall",
+      "relation": "contains",
+      "object": "Flagged stone floor, torchlit stone walls, very high ceiling, marble staircase",
       "description": "The Entrance Hall is extremely large, with a ceiling too high for Harry to make out. A marble staircase faces the arriving group and leads to upper floors.",
-      "certainty": "explicit", "temporal": "Book 1 arrival", "evidence": ["B01-C007-P0004", "B01-C007-P0005"],
+      "certainty": "explicit",
+      "temporal": "Book 1 arrival",
+      "evidence": [
+        "B01-C007-P0004",
+        "B01-C007-P0005"
+      ],
       "model_notes": "The comparison to the Dursleys' house communicates scale without providing a reliable measurement. Preserve material, volume, and approach-facing staircase."
     },
     {
-      "id": "M011", "group": "Entrance and shared rooms", "subject": "Entrance Hall arrival", "relation": "has_on_right", "object": "Doorway carrying the Great Hall's crowd noise",
+      "id": "M011",
+      "group": "Entrance and shared rooms",
+      "subject": "Entrance Hall arrival",
+      "relation": "has_on_right",
+      "object": "Doorway carrying the Great Hall's crowd noise",
       "description": "Crossing the Entrance Hall on arrival, Harry hears the school through a doorway to the right. McGonagall first leads the newcomers into a small empty chamber off the hall.",
-      "certainty": "explicit", "temporal": "Book 1 sorting", "evidence": ["B01-C007-P0005", "B01-C007-P0006"],
+      "certainty": "explicit",
+      "temporal": "Book 1 sorting",
+      "evidence": [
+        "B01-C007-P0005",
+        "B01-C007-P0006"
+      ],
       "model_notes": "Keep the small waiting chamber separate from the Great Hall and from later rooms behind the staff table. Right is relative to this approach."
     },
     {
-      "id": "M012", "group": "Entrance and shared rooms", "subject": "Great Hall", "relation": "contains", "object": "Four long house tables and a staff table at the top",
+      "id": "M012",
+      "group": "Entrance and shared rooms",
+      "subject": "Great Hall",
+      "relation": "contains",
+      "object": "Four long house tables and a staff table at the top",
       "description": "Thousands of floating candles illuminate four student tables set with gold plates and goblets. A further long table seats the teachers at the top of the Hall. The ceiling looks like the starry sky; Hermione explains the enchantment.",
-      "certainty": "explicit", "temporal": "Book 1 sorting feast", "evidence": ["B01-C007-P0028"],
+      "certainty": "explicit",
+      "temporal": "Book 1 sorting feast",
+      "evidence": [
+        "B01-C007-P0028"
+      ],
       "model_notes": "The ceiling's appearance is observed; its explanation is reported dialogue within the same passage. Do not assign an unsupported hall length or permanent table orientation beyond the staff-table relationship."
     },
     {
-      "id": "M013", "group": "Entrance and shared rooms", "subject": "Kitchens", "relation": "are_below", "object": "Great Hall",
+      "id": "M013",
+      "group": "Entrance and shared rooms",
+      "subject": "Kitchens",
+      "relation": "are_below",
+      "object": "Great Hall",
       "description": "The kitchens form an enormous high-ceilinged room as large as the Great Hall above, with stone walls, brass cookware and a large brick fireplace at the far end. Four wooden tables correspond exactly to the four house tables overhead.",
-      "certainty": "explicit", "temporal": "Book 4 kitchen visit", "evidence": ["B04-C021-P0109", "B04-C021-P0118"],
+      "certainty": "explicit",
+      "temporal": "Book 4 kitchen visit",
+      "evidence": [
+        "B04-C021-P0109",
+        "B04-C021-P0118"
+      ],
       "model_notes": "Stack the two spaces and align the four table positions. Food transmission through the ceiling is Harry's supposition here; a visible shaft or lift is not established."
     },
     {
-      "id": "M014", "group": "Entrance and shared rooms", "subject": "Kitchen approach", "relation": "descends_from", "object": "Entrance Hall to bright food-painted stone corridor",
+      "id": "M014",
+      "group": "Entrance and shared rooms",
+      "subject": "Kitchen approach",
+      "relation": "descends_from",
+      "object": "Entrance Hall to bright food-painted stone corridor",
       "description": "Descending the marble staircase into the Entrance Hall, Hermione turns left at its bottom, uses a doorway, and descends stone steps to a broad torchlit corridor painted with food pictures. Tickling the green pear in the fruit-bowl painting produces a green door handle.",
-      "certainty": "explicit", "temporal": "Book 4 kitchen visit", "evidence": ["B04-C021-P0097", "B04-C021-P0099", "B04-C021-P0103", "B04-C021-P0108"],
+      "certainty": "explicit",
+      "temporal": "Book 4 kitchen visit",
+      "evidence": [
+        "B04-C021-P0097",
+        "B04-C021-P0099",
+        "B04-C021-P0103",
+        "B04-C021-P0108"
+      ],
       "model_notes": "Maintain this local sequence and interaction. The route is explicitly contrasted with the gloomy passage to Snape's dungeon, so do not merge the two solely because both descend."
     },
     {
-      "id": "M015", "group": "Towers and house spaces", "subject": "Gryffindor entrance", "relation": "is_on", "object": "Seventh floor at the Fat Lady's portrait",
+      "id": "M015",
+      "group": "Towers and house spaces",
+      "subject": "Gryffindor entrance",
+      "relation": "is_on",
+      "object": "Seventh floor at the Fat Lady's portrait",
       "description": "The flight from the forbidden third-floor room ends at the Fat Lady's portrait on the seventh floor.",
-      "certainty": "explicit", "temporal": "Book 1 midnight expedition", "evidence": ["B01-C009-P0200"],
+      "certainty": "explicit",
+      "temporal": "Book 1 midnight expedition",
+      "evidence": [
+        "B01-C009-P0200"
+      ],
       "model_notes": "This fixes an entrance level, not the count of complete floors throughout every tower. Use British floor numbering consistently."
     },
     {
-      "id": "M016", "group": "Towers and house spaces", "subject": "Gryffindor boys' dormitory", "relation": "is_reached_by", "object": "Spiral staircase from common room",
+      "id": "M016",
+      "group": "Towers and house spaces",
+      "subject": "Gryffindor boys' dormitory",
+      "relation": "is_reached_by",
+      "object": "Spiral staircase from common room",
       "description": "Separate doors lead girls and boys towards their dormitories. Harry's tower dormitory is above a spiral staircase and contains five four-posters with deep-red velvet hangings; later narration identifies a circular room with high, narrow windows.",
-      "certainty": "explicit", "temporal": "Books 1 and 2 arrivals", "evidence": ["B01-C007-P0183", "B02-C005-P0189"],
+      "certainty": "explicit",
+      "temporal": "Books 1 and 2 arrivals",
+      "evidence": [
+        "B01-C007-P0183",
+        "B02-C005-P0189"
+      ],
       "model_notes": "Five beds describe this particular cohort's room. Do not extrapolate identical capacities or all other rooms' geometry without their own evidence."
     },
     {
-      "id": "M017", "group": "Towers and house spaces", "subject": "Slytherin common room", "relation": "is_entered_through", "object": "Sliding stone door concealed in damp bare wall",
-      "description": "A spoken password opens a concealed stone door. Beyond lies a long, low underground room with rough stone walls and ceiling, greenish round lamps on chains, a fire below an ornate carved mantelpiece, and carved chairs.",
-      "certainty": "explicit", "temporal": "Book 2 Polyjuice visit", "evidence": ["B02-C012-P0155", "B02-C012-P0158", "B02-C012-P0159"],
-      "model_notes": "These passages establish an underground room. They do not establish large underwater viewing windows; any such addition needs other textual evidence."
+      "id": "M017",
+      "group": "Towers and house spaces",
+      "subject": "Slytherin common room",
+      "relation": "is_entered_through",
+      "object": "Sliding stone door concealed in damp bare wall",
+      "description": "A spoken password opens a concealed stone door. Beyond lies a long, low underground room with rough stone walls and ceiling, greenish round lamps on chains, a fire below an ornate carved mantelpiece, and carved chairs. In Book 7 Harry describes it as beneath the lake and containing skulls, while claiming to be a Slytherin to the Snatchers.",
+      "certainty": "explicit",
+      "temporal": "Book 2 Polyjuice visit",
+      "evidence": [
+        "B02-C012-P0155",
+        "B02-C012-P0158",
+        "B02-C012-P0159",
+        "B07-C023-P0050",
+        "B07-C023-P0051",
+        "B07-C023-P0052",
+        "B07-C023-P0053"
+      ],
+      "model_notes": "The Book 2 underground interior is observed directly. The later beneath-lake and skull details are Harry’s report in an identity-concealment context. Neither cited scene describes large underwater viewing windows."
     },
     {
-      "id": "M018", "group": "Towers and house spaces", "subject": "Hufflepuff route", "relation": "ends_in", "object": "Basement corridor also leading to kitchens",
+      "id": "M018",
+      "group": "Towers and house spaces",
+      "subject": "Hufflepuff route",
+      "relation": "ends_in",
+      "object": "Basement corridor also leading to kitchens",
       "description": "On the Marauder's Map, Harry follows the Hufflepuffs back to the basement corridor also used to reach the kitchens. The Ravenclaws return to a west-side tower, and Gryffindors to the Fat Lady along the corridor.",
-      "certainty": "explicit", "temporal": "Book 5 DA meeting dispersal", "evidence": ["B05-C018-P0258"],
+      "certainty": "explicit",
+      "temporal": "Book 5 DA meeting dispersal",
+      "evidence": [
+        "B05-C018-P0258"
+      ],
       "model_notes": "This is useful comparative route evidence. It does not describe a Hufflepuff common-room interior or its door mechanism."
     },
     {
-      "id": "M019", "group": "Towers and house spaces", "subject": "Ravenclaw common room", "relation": "is_reached_by", "object": "Tight spiral stair and eagle-knocker door",
+      "id": "M019",
+      "group": "Towers and house spaces",
+      "subject": "Ravenclaw common room",
+      "relation": "is_reached_by",
+      "object": "Tight spiral stair and eagle-knocker door",
       "description": "The climb winds tightly to an old wooden door with no handle or keyhole and a bronze eagle knocker. Entry is granted after a reasoned answer to a question.",
-      "certainty": "explicit", "temporal": "Book 7 Ravenclaw visit", "evidence": ["B07-C029-P0152", "B07-C029-P0153", "B07-C029-P0154", "B07-C029-P0157", "B07-C029-P0159", "B07-C029-P0161", "B07-C029-P0162"],
+      "certainty": "explicit",
+      "temporal": "Book 7 Ravenclaw visit",
+      "evidence": [
+        "B07-C029-P0152",
+        "B07-C029-P0153",
+        "B07-C029-P0154",
+        "B07-C029-P0157",
+        "B07-C029-P0159",
+        "B07-C029-P0161",
+        "B07-C029-P0162"
+      ],
       "model_notes": "The earlier fifth-floor exit from the Room of Requirement is not itself the common-room floor. Preserve the intervening route and ascent."
     },
     {
-      "id": "M020", "group": "Towers and house spaces", "subject": "Ravenclaw common room", "relation": "contains", "object": "Arched windows, blue/bronze silks, star dome and carpet, white marble founder statue",
+      "id": "M020",
+      "group": "Towers and house spaces",
+      "subject": "Ravenclaw common room",
+      "relation": "contains",
+      "object": "Arched windows, blue/bronze silks, star dome and carpet, white marble founder statue",
       "description": "The room is wide, circular and airy, with graceful arched windows, blue and bronze wall silks, a domed star-painted ceiling and matching midnight-blue carpet, tables, chairs and bookcases. Rowena's white marble statue stands opposite the entrance by another door.",
-      "certainty": "explicit", "temporal": "Book 7 Ravenclaw visit", "evidence": ["B07-C029-P0163", "B07-C029-P0164"],
+      "certainty": "explicit",
+      "temporal": "Book 7 Ravenclaw visit",
+      "evidence": [
+        "B07-C029-P0163",
+        "B07-C029-P0164"
+      ],
       "model_notes": "The mountain view by day is a narrative projection from this night-time visit. Harry only guesses that the adjacent door leads to dormitories above; retain that qualification."
     },
     {
-      "id": "M021", "group": "Towers and house spaces", "subject": "Divination classroom", "relation": "occupies", "object": "Top of North Tower above trapdoor and ladder",
+      "id": "M021",
+      "group": "Towers and house spaces",
+      "subject": "Divination classroom",
+      "relation": "occupies",
+      "object": "Top of North Tower above trapdoor and ladder",
       "description": "The North Tower approach ends at a tiny landing without doors. A circular ceiling trapdoor labelled for Trelawney admits a descending silver ladder. Above is a circular, heavily furnished room with at least twenty small round tables, armchairs and pouffes, red-shaded light, closed curtains and a scented fire.",
-      "certainty": "explicit", "temporal": "Book 3 first Divination class", "evidence": ["B03-C006-P0031", "B03-C006-P0052", "B03-C006-P0053", "B03-C006-P0054", "B03-C006-P0056"],
+      "certainty": "explicit",
+      "temporal": "Book 3 first Divination class",
+      "evidence": [
+        "B03-C006-P0031",
+        "B03-C006-P0052",
+        "B03-C006-P0053",
+        "B03-C006-P0054",
+        "B03-C006-P0056"
+      ],
       "model_notes": "The name/location comes from the timetable dialogue and journey; room fixtures are directly observed. The seven staircases climbed on this unfamiliar route do not prove exactly seven storeys."
     },
     {
-      "id": "M022", "group": "Towers and house spaces", "subject": "North Tower approach landing", "relation": "has_reported_south_view_towards", "object": "A visible part of the lake",
+      "id": "M022",
+      "group": "Towers and house spaces",
+      "subject": "North Tower approach landing",
+      "relation": "has_reported_south_view_towards",
+      "object": "A visible part of the lake",
       "description": "At the unfamiliar landing, Ron rejects a passage because it heads south and points to a bit of lake visible through the window.",
-      "certainty": "reported", "temporal": "Book 3 first Divination journey", "evidence": ["B03-C006-P0034", "B03-C006-P0035", "B03-C006-P0036"],
+      "certainty": "reported",
+      "temporal": "Book 3 first Divination journey",
+      "evidence": [
+        "B03-C006-P0034",
+        "B03-C006-P0035",
+        "B03-C006-P0036"
+      ],
       "model_notes": "Treat as a useful local orientation report, with Ron's navigation uncertainty. It does not establish a complete north-up site plan."
     },
     {
-      "id": "M023", "group": "Towers and house spaces", "subject": "Owlery", "relation": "occupies", "object": "Top of West Tower",
+      "id": "M023",
+      "group": "Towers and house spaces",
+      "subject": "Owlery",
+      "relation": "occupies",
+      "object": "Top of West Tower",
       "description": "The Owlery is at the top of West Tower: a circular stone room with glassless windows, cold draughts, straw/droppings/bones underfoot, and owl perches rising towards the tower top.",
-      "certainty": "explicit", "temporal": "Book 4 dawn visit", "evidence": ["B04-C015-P0005", "B04-C015-P0006"],
+      "certainty": "explicit",
+      "temporal": "Book 4 dawn visit",
+      "evidence": [
+        "B04-C015-P0005",
+        "B04-C015-P0006"
+      ],
       "model_notes": "Represent the draughty open windows and vertical perches. No exact tower diameter or independently surveyed position is supplied here."
     },
     {
-      "id": "M024", "group": "Towers and house spaces", "subject": "Flitwick's office", "relation": "has_reported_rescue_window", "object": "Seventh floor, thirteenth window relative to West Tower",
+      "id": "M024",
+      "group": "Towers and house spaces",
+      "subject": "Flitwick's office",
+      "relation": "has_reported_rescue_window",
+      "object": "Seventh floor, thirteenth window relative to West Tower",
       "description": "Dumbledore directs the rescuers to Flitwick's seventh-floor office with a window-count instruction involving West Tower. Harry later counts windows to the right of that tower.",
-      "certainty": "reported", "temporal": "Book 3 Sirius rescue", "evidence": ["B03-C021-P0082", "B03-C021-P0315"],
+      "certainty": "reported",
+      "temporal": "Book 3 Sirius rescue",
+      "evidence": [
+        "B03-C021-P0082",
+        "B03-C021-P0315"
+      ],
       "model_notes": "Preserve both the instruction's wording and the observed counting action in source inspection; do not turn an ambiguous right/from-right reference into an unquestioned façade coordinate."
     },
     {
-      "id": "M025", "group": "Towers and house spaces", "subject": "Astronomy Tower", "relation": "is_highest_of", "object": "Castle towers",
+      "id": "M025",
+      "group": "Towers and house spaces",
+      "subject": "Astronomy Tower",
+      "relation": "is_highest_of",
+      "object": "Castle towers",
       "description": "The Astronomy Tower is named as the castle's highest tower. Its top has crenellated ramparts and a door with an iron ring giving access to a spiral staircase back into the castle.",
-      "certainty": "explicit", "temporal": "Book 6 return from the cave", "evidence": ["B06-C027-P0036", "B06-C027-P0037", "B06-C027-P0038", "B06-C027-P0044"],
+      "certainty": "explicit",
+      "temporal": "Book 6 return from the cave",
+      "evidence": [
+        "B06-C027-P0036",
+        "B06-C027-P0037",
+        "B06-C027-P0038",
+        "B06-C027-P0044"
+      ],
       "model_notes": "Maintain a relative height ordering and a usable stair door. The rooftop scene does not provide the tower's absolute height or all surrounding roof levels."
     },
     {
-      "id": "M026", "group": "Variable and hidden spaces", "subject": "Castle circulation", "relation": "includes", "object": "142 varied staircases and conditional doors/routes",
+      "id": "M026",
+      "group": "Variable and hidden spaces",
+      "subject": "Castle circulation",
+      "relation": "includes",
+      "object": "142 varied staircases and conditional doors/routes",
       "description": "The castle has 142 staircases of varied forms. Some lead to different destinations on Fridays or contain a vanishing step; doors may respond to polite requests or tickling, while apparent doors may be solid walls. Portrait subjects visit other frames.",
-      "certainty": "explicit", "temporal": "Book 1 first school days", "evidence": ["B01-C008-P0008"],
+      "certainty": "explicit",
+      "temporal": "Book 1 first school days",
+      "evidence": [
+        "B01-C008-P0008"
+      ],
       "model_notes": "The stated count is firm; the distribution is not. Support conditional connections and steps. This passage does not require the film's large rotating staircase mechanism. The armour's mobility is Harry's belief here, not equally firm observation."
     },
     {
-      "id": "M027", "group": "Variable and hidden spaces", "subject": "Room of Requirement entrance", "relation": "is_opposite", "object": "Barnabas tapestry on seventh floor",
+      "id": "M027",
+      "group": "Variable and hidden spaces",
+      "subject": "Room of Requirement entrance",
+      "relation": "is_opposite",
+      "object": "Barnabas tapestry on seventh floor",
       "description": "The meeting place is on the seventh floor opposite the tapestry of Barnabas and the trolls. Three concentrated passes along a blank wall, between a window and a large vase, produce a polished door with a brass handle.",
-      "certainty": "explicit", "temporal": "Book 5 first DA session", "evidence": ["B05-C018-P0169", "B05-C018-P0185", "B05-C018-P0186", "B05-C018-P0187", "B05-C018-P0190"],
+      "certainty": "explicit",
+      "temporal": "Book 5 first DA session",
+      "evidence": [
+        "B05-C018-P0169",
+        "B05-C018-P0185",
+        "B05-C018-P0186",
+        "B05-C018-P0187",
+        "B05-C018-P0190"
+      ],
       "model_notes": "Keep a stable external anchor and implement the interior as a requested state rather than assigning all incarnations one fixed ordinary room."
     },
     {
-      "id": "M028", "group": "Variable and hidden spaces", "subject": "DA practice room", "relation": "has_state", "object": "Spacious torchlit room with bookcases, cushions and detectors",
+      "id": "M028",
+      "group": "Variable and hidden spaces",
+      "subject": "DA practice room",
+      "relation": "has_state",
+      "object": "Spacious torchlit room with bookcases, cushions and detectors",
       "description": "In its practice state the Room of Requirement is spacious and torchlit, with wall bookcases, silk floor cushions and dark detectors on shelves at the far end. The torches are compared to those in dungeons eight floors below.",
-      "certainty": "explicit", "temporal": "Book 5 first DA session", "evidence": ["B05-C018-P0190", "B05-C018-P0191"],
+      "certainty": "explicit",
+      "temporal": "Book 5 first DA session",
+      "evidence": [
+        "B05-C018-P0190",
+        "B05-C018-P0191"
+      ],
       "model_notes": "The eight-floor comparison supplies a relative level clue. Do not use it to solve every basement or wing into one uniform section."
     },
     {
-      "id": "M029", "group": "Variable and hidden spaces", "subject": "Room of Requirement refuge", "relation": "expands_and_connects_to", "object": "DA hideout and Hog's Head passage",
+      "id": "M029",
+      "group": "Variable and hidden spaces",
+      "subject": "Room of Requirement refuge",
+      "relation": "expands_and_connects_to",
+      "object": "DA hideout and Hog's Head passage",
       "description": "The refuge has wood-panelled windowless walls, a balcony, multicoloured hammocks, house hangings, books and a wireless. Neville explains its growth with new arrivals and the appearance of a food-supply passage to Aberforth; Seamus reports added hammocks and a bathroom.",
-      "certainty": "explicit", "temporal": "Book 7 refuge", "evidence": ["B07-C029-P0059", "B07-C029-P0061", "B07-C029-P0063", "B07-C029-P0064", "B07-C029-P0066"],
+      "certainty": "explicit",
+      "temporal": "Book 7 refuge",
+      "evidence": [
+        "B07-C029-P0059",
+        "B07-C029-P0061",
+        "B07-C029-P0063",
+        "B07-C029-P0064",
+        "B07-C029-P0066"
+      ],
       "model_notes": "The observed interior is explicit; growth, entry protections and passage creation are residents' reports. The room does not simply conjure food in this account."
     },
     {
-      "id": "M030", "group": "Variable and hidden spaces", "subject": "Hog's Head passage", "relation": "connects", "object": "Ariana portrait above fireplace to Room of Requirement",
+      "id": "M030",
+      "group": "Variable and hidden spaces",
+      "subject": "Hog's Head passage",
+      "relation": "connects",
+      "object": "Ariana portrait above fireplace to Room of Requirement",
       "description": "The route begins behind Ariana's portrait above the mantelpiece, passes smooth stone steps into a brass-lamped passage with a worn earth floor, later climbs steeply, and ends with another short stair and concealed door into the refuge.",
-      "certainty": "explicit", "temporal": "Book 7 return to Hogwarts", "evidence": ["B07-C029-P0007", "B07-C029-P0010", "B07-C029-P0046", "B07-C029-P0051"],
+      "certainty": "explicit",
+      "temporal": "Book 7 return to Hogwarts",
+      "evidence": [
+        "B07-C029-P0007",
+        "B07-C029-P0010",
+        "B07-C029-P0046",
+        "B07-C029-P0051"
+      ],
       "model_notes": "Treat as a later-created connection, separate from the earlier seven passages. Distance and how it fits physically into exterior terrain remain unconstrained."
     },
     {
-      "id": "M031", "group": "Variable and hidden spaces", "subject": "Room of Requirement exit used by Harry and Luna", "relation": "emerges_on", "object": "Fifth-floor corridor",
+      "id": "M031",
+      "group": "Variable and hidden spaces",
+      "subject": "Room of Requirement exit used by Harry and Luna",
+      "relation": "emerges_on",
+      "object": "Fifth-floor corridor",
       "description": "A long torchlit stair with unexpected turns leads from the refuge to a wall which melts open and reseals. The Marauder's Map places Harry and Luna in a fifth-floor corridor.",
-      "certainty": "explicit", "temporal": "Book 7 Ravenclaw expedition", "evidence": ["B07-C029-P0146", "B07-C029-P0147", "B07-C029-P0148", "B07-C029-P0149"],
+      "certainty": "explicit",
+      "temporal": "Book 7 Ravenclaw expedition",
+      "evidence": [
+        "B07-C029-P0146",
+        "B07-C029-P0147",
+        "B07-C029-P0148",
+        "B07-C029-P0149"
+      ],
       "model_notes": "Do not relocate the regular seventh-floor entrance to reconcile this. Model a state-dependent exit and its connecting stair."
     },
     {
-      "id": "M032", "group": "Variable and hidden spaces", "subject": "Earlier secret passages", "relation": "have_reported_count", "object": "Seven, with blocked and guarded variants",
+      "id": "M032",
+      "group": "Variable and hidden spaces",
+      "subject": "Earlier secret passages",
+      "relation": "have_reported_count",
+      "object": "Seven, with blocked and guarded variants",
       "description": "Fred describes seven passages, four known to Filch, one behind a fourth-floor mirror blocked since the preceding winter, one under the Whomping Willow, and one from the one-eyed witch to Honeydukes' cellar. Neville later reports the older passages sealed and guarded.",
-      "certainty": "reported", "temporal": "Book 3 map explanation; Book 7 occupation", "evidence": ["B03-C010-P0098", "B07-C029-P0011", "B07-C029-P0012"],
+      "certainty": "reported",
+      "temporal": "Book 3 map explanation; Book 7 occupation",
+      "evidence": [
+        "B03-C010-P0098",
+        "B07-C029-P0011",
+        "B07-C029-P0012"
+      ],
       "model_notes": "Do not invent destinations for the four unnamed routes or reuse one fixed open/closed state across all years."
     },
     {
-      "id": "M033", "group": "Variable and hidden spaces", "subject": "Honeydukes passage entrance", "relation": "is_on", "object": "Third-floor corridor in one-eyed humpbacked witch statue",
+      "id": "M033",
+      "group": "Variable and hidden spaces",
+      "subject": "Honeydukes passage entrance",
+      "relation": "is_on",
+      "object": "Third-floor corridor in one-eyed humpbacked witch statue",
       "description": "The statue is halfway along the third-floor corridor. The map demonstrates tapping it with a wand and speaking Dissendium to open access.",
-      "certainty": "explicit", "temporal": "Book 3 first illicit Hogsmeade visit", "evidence": ["B03-C010-P0063", "B03-C010-P0113", "B03-C010-P0114"],
+      "certainty": "explicit",
+      "temporal": "Book 3 first illicit Hogsmeade visit",
+      "evidence": [
+        "B03-C010-P0063",
+        "B03-C010-P0113",
+        "B03-C010-P0114"
+      ],
       "model_notes": "This supplies an entrance anchor and interaction. It does not specify the entire tunnel's plan or measured length."
     },
     {
-      "id": "M034", "group": "Variable and hidden spaces", "subject": "Whomping Willow tunnel", "relation": "leads_to", "object": "Shrieking Shack",
+      "id": "M034",
+      "group": "Variable and hidden spaces",
+      "subject": "Whomping Willow tunnel",
+      "relation": "leads_to",
+      "object": "Shrieking Shack",
       "description": "Lupin explains that the house and tunnel were prepared for his transformations and the tree placed at the tunnel mouth to keep people out. Prodding a knot on the trunk makes entry possible.",
-      "certainty": "reported", "temporal": "Book 3 explanation of earlier school history", "evidence": ["B03-C018-P0037", "B03-C018-P0059"],
+      "certainty": "reported",
+      "temporal": "Book 3 explanation of earlier school history",
+      "evidence": [
+        "B03-C018-P0037",
+        "B03-C018-P0059"
+      ],
       "model_notes": "The route must coexist with dated tree activity and an operable knot interaction. Keep historical explanation distinct from a surveyed route."
     },
     {
-      "id": "M035", "group": "Magic and dated alterations", "subject": "Hogwarts Apparition protection", "relation": "normally_blocks", "object": "Apparition and Disapparition inside grounds",
+      "id": "M035",
+      "group": "Magic and dated alterations",
+      "subject": "Hogwarts Apparition protection",
+      "relation": "normally_blocks",
+      "object": "Apparition and Disapparition inside grounds",
       "description": "Hermione states that one cannot Apparate within the Hogwarts grounds. During lessons, the instructor explains a one-hour exception confined to the Great Hall. Fleeing attackers later head for gates beyond which they can Disapparate.",
-      "certainty": "reported", "temporal": "Books 4 and 6", "evidence": ["B04-C015-P0109", "B06-C018-P0077", "B06-C028-P0023"],
+      "certainty": "reported",
+      "temporal": "Books 4 and 6",
+      "evidence": [
+        "B04-C015-P0109",
+        "B06-C018-P0077",
+        "B06-C028-P0023"
+      ],
       "model_notes": "Use boundary- and state-dependent travel rules. The flight towards the gates is narrated action, while the enchantment's rule is explained in dialogue."
     },
     {
-      "id": "M036", "group": "Magic and dated alterations", "subject": "Castle seen by Muggles", "relation": "is_reported_to_appear_as", "object": "Decaying ruin with danger sign",
+      "id": "M036",
+      "group": "Magic and dated alterations",
+      "subject": "Castle seen by Muggles",
+      "relation": "is_reported_to_appear_as",
+      "object": "Decaying ruin with danger sign",
       "description": "Hermione explains that a Muggle looking at Hogwarts sees an old ruin with an unsafe-entry warning.",
-      "certainty": "reported", "temporal": "Book 4 train conversation", "evidence": ["B04-C011-P0079", "B04-C011-P0080", "B04-C011-P0081"],
+      "certainty": "reported",
+      "temporal": "Book 4 train conversation",
+      "evidence": [
+        "B04-C011-P0079",
+        "B04-C011-P0080",
+        "B04-C011-P0081"
+      ],
       "model_notes": "An optional Muggle-view rendering can use this. The following speculation about making a school Unplottable concerns Durmstrang; do not silently transfer that claim to Hogwarts."
     },
     {
-      "id": "M037", "group": "Magic and dated alterations", "subject": "Quidditch goals", "relation": "have_observed_height", "object": "Fifty feet",
+      "id": "M037",
+      "group": "Magic and dated alterations",
+      "subject": "Quidditch goals",
+      "relation": "have_observed_height",
+      "object": "Fifty feet",
       "description": "The school stadium has raised seating around the pitch and three golden hooped poles at each end, described as fifty feet high.",
-      "certainty": "explicit", "temporal": "Book 1 first visit inside stadium", "evidence": ["B01-C010-P0033"],
+      "certainty": "explicit",
+      "temporal": "Book 1 first visit inside stadium",
+      "evidence": [
+        "B01-C010-P0033"
+      ],
       "model_notes": "This is a useful absolute scale anchor: 50 feet equals 15.24 metres. It does not establish the pitch's length, width, or stand heights."
     },
     {
-      "id": "M038", "group": "Magic and dated alterations", "subject": "Beauxbatons carriage", "relation": "parks_reportedly_at_distance_from", "object": "Hagrid's front door: two hundred yards",
+      "id": "M038",
+      "group": "Magic and dated alterations",
+      "subject": "Beauxbatons carriage",
+      "relation": "parks_reportedly_at_distance_from",
+      "object": "Hagrid's front door: two hundred yards",
       "description": "The large powder-blue carriage is parked two hundred yards from Hagrid's front door, with a makeshift paddock for its winged horses alongside it.",
-      "certainty": "explicit", "temporal": "Book 4 tournament visit", "evidence": ["B04-C016-P0140"],
+      "certainty": "explicit",
+      "temporal": "Book 4 tournament visit",
+      "evidence": [
+        "B04-C016-P0140"
+      ],
       "model_notes": "Use as a temporary placement constraint (200 yards equals 182.88 metres), not a permanent building or precise surveyed bearing."
     },
     {
-      "id": "M039", "group": "Magic and dated alterations", "subject": "Fifth-floor east-wing corridor", "relation": "has_temporary_state", "object": "Weasley swamp and ferry route",
+      "id": "M039",
+      "group": "Magic and dated alterations",
+      "subject": "Fifth-floor east-wing corridor",
+      "relation": "has_temporary_state",
+      "object": "Weasley swamp and ferry route",
       "description": "The twins' swamp fills a fifth-floor corridor in the east wing. The area is roped off and Filch must ferry students across to their classrooms.",
-      "certainty": "explicit", "temporal": "Book 5 after the twins' departure", "evidence": ["B05-C030-P0002"],
+      "certainty": "explicit",
+      "temporal": "Book 5 after the twins' departure",
+      "evidence": [
+        "B05-C030-P0002"
+      ],
       "model_notes": "Keep the corridor's ordinary traversal separate from the temporary water crossing. The passage gives a wing and floor, not an overall east-wing footprint."
     },
     {
-      "id": "M040", "group": "Conflicts requiring a design decision", "subject": "Myrtle's toilet", "relation": "has_conflicting_reported_floors", "object": "First floor in Book 2; second floor in Book 4",
+      "id": "M040",
+      "group": "Conflicts requiring a design decision",
+      "subject": "Myrtle's toilet",
+      "relation": "has_conflicting_reported_floors",
+      "object": "First floor in Book 2; second floor in Book 4",
       "description": "Hermione places Myrtle's girls' toilet on the first floor in Book 2. Book 4 narration describes her as haunting the girls' toilets on the second floor.",
-      "certainty": "explicit", "temporal": "Books 2 and 4", "evidence": ["B02-C008-P0094", "B04-C022-P0097"],
+      "certainty": "explicit",
+      "temporal": "Books 2 and 4",
+      "evidence": [
+        "B02-C008-P0094",
+        "B04-C022-P0097"
+      ],
       "model_notes": "The conflict is explicit in the two sources, though the Book 2 location is dialogue. Keep both constraints and label any chosen implementation. Do not claim that a moving room or floor-renumbering explanation is itself stated canon."
     },
     {
-      "id": "M041", "group": "Interactions for an explorable model", "subject": "House-elf transport", "relation": "has_reported_exception_to", "object": "Wizard Apparition restrictions",
+      "id": "M041",
+      "group": "Interactions for an explorable model",
+      "subject": "House-elf transport",
+      "relation": "has_reported_exception_to",
+      "object": "Wizard Apparition restrictions",
       "description": "Ron explains that house-elves can Apparate and Disapparate into and out of Hogwarts even though wizards cannot.",
-      "certainty": "reported", "temporal": "Book 7 explanation", "evidence": ["B07-C010-P0157"],
+      "certainty": "reported",
+      "temporal": "Book 7 explanation",
+      "evidence": [
+        "B07-C010-P0157"
+      ],
       "model_notes": "Do not implement the grounds' protection as a universal ban on every type of magical movement. Keep the actor and transport method in the access rule."
     },
     {
-      "id": "M042", "group": "Interactions for an explorable model", "subject": "Paired Vanishing Cabinets", "relation": "form_passage_between", "object": "Hogwarts and Borgin and Burkes",
+      "id": "M042",
+      "group": "Interactions for an explorable model",
+      "subject": "Paired Vanishing Cabinets",
+      "relation": "form_passage_between",
+      "object": "Hogwarts and Borgin and Burkes",
       "description": "Malfoy describes repairing the Hogwarts cabinet and explains its link to the one in Borgin and Burkes. Harry's earlier hiding route places the broken cabinet among objects in the Room of Requirement.",
-      "certainty": "reported", "temporal": "Book 6 repaired invasion route; earlier broken state", "evidence": ["B06-C024-P0105", "B06-C027-P0074", "B06-C027-P0078", "B06-C027-P0079"],
+      "certainty": "reported",
+      "temporal": "Book 6 repaired invasion route; earlier broken state",
+      "evidence": [
+        "B06-C024-P0105",
+        "B06-C027-P0074",
+        "B06-C027-P0078",
+        "B06-C027-P0079"
+      ],
       "model_notes": "The object's location is observed; its mechanism and earlier limbo state are explained by Malfoy. Treat the connection as a portal with dated working/broken states, rather than an ordinary continuous tunnel."
     },
     {
-      "id": "M043", "group": "Interactions for an explorable model", "subject": "Chamber entrance in Myrtle's bathroom", "relation": "opens_with", "object": "Parseltongue at snake-marked copper tap",
+      "id": "M043",
+      "group": "Interactions for an explorable model",
+      "subject": "Chamber entrance in Myrtle's bathroom",
+      "relation": "opens_with",
+      "object": "Parseltongue at snake-marked copper tap",
       "description": "A tiny snake is scratched into a copper tap that Myrtle says has never worked. Harry's hissing command makes the tap light up and spin; the sink sinks away, exposing a pipe large enough for a person to slide into.",
-      "certainty": "explicit", "temporal": "Book 2 Chamber rescue", "evidence": ["B02-C016-P0181", "B02-C016-P0182", "B02-C016-P0183", "B02-C016-P0188", "B02-C016-P0189", "B02-C016-P0190"],
+      "certainty": "explicit",
+      "temporal": "Book 2 Chamber rescue",
+      "evidence": [
+        "B02-C016-P0181",
+        "B02-C016-P0182",
+        "B02-C016-P0183",
+        "B02-C016-P0188",
+        "B02-C016-P0189",
+        "B02-C016-P0190"
+      ],
       "model_notes": "Represent the sink and tap as a transformable entrance, with the shaft below. Preserve the separate uncertainty about the bathroom's numbered floor."
     },
     {
-      "id": "M044", "group": "Interactions for an explorable model", "subject": "Gryffindor girls' dormitory staircase", "relation": "changes_to", "object": "Smooth stone slide with alarm when Ron climbs",
+      "id": "M044",
+      "group": "Interactions for an explorable model",
+      "subject": "Gryffindor girls' dormitory staircase",
+      "relation": "changes_to",
+      "object": "Smooth stone slide with alarm when Ron climbs",
       "description": "Ron opens the dormitory door and starts up its spiral stair. At his sixth step a klaxon-like alarm sounds and the stairs become a long smooth stone slide; girls subsequently slide down it too. Hermione explains the old access rule.",
-      "certainty": "explicit", "temporal": "Book 5 dormitory incident", "evidence": ["B05-C017-P0022", "B05-C017-P0023", "B05-C017-P0024", "B05-C017-P0026", "B05-C017-P0028", "B05-C017-P0029"],
+      "certainty": "explicit",
+      "temporal": "Book 5 dormitory incident",
+      "evidence": [
+        "B05-C017-P0022",
+        "B05-C017-P0023",
+        "B05-C017-P0024",
+        "B05-C017-P0026",
+        "B05-C017-P0028",
+        "B05-C017-P0029"
+      ],
       "model_notes": "Animate a state change in this particular stair. The scene demonstrates the response to Ron; Hermione's explanation is reported policy, not a specification of how the enchantment classifies every possible visitor."
     },
     {
-      "id": "M045", "group": "Interactions for an explorable model", "subject": "Merpeople settlement", "relation": "occupies", "object": "Lake floor with stone dwellings and central statue",
+      "id": "M045",
+      "group": "Interactions for an explorable model",
+      "subject": "Merpeople settlement",
+      "relation": "occupies",
+      "object": "Lake floor with stone dwellings and central statue",
       "description": "Beyond black mud and a painted rock, Harry encounters algae-stained stone dwellings with dark windows, weed gardens and a tethered Grindylow. More houses surround a village-like square containing a large merperson statue carved from a boulder; the tournament hostages are tied to its tail.",
-      "certainty": "explicit", "temporal": "Book 4 second task", "evidence": ["B04-C026-P0141", "B04-C026-P0144", "B04-C026-P0147", "B04-C026-P0149", "B04-C026-P0150"],
+      "certainty": "explicit",
+      "temporal": "Book 4 second task",
+      "evidence": [
+        "B04-C026-P0141",
+        "B04-C026-P0144",
+        "B04-C026-P0147",
+        "B04-C026-P0149",
+        "B04-C026-P0150"
+      ],
       "model_notes": "Include an explorable underwater environment and separate the existing settlement from the temporary hostage installation. Harry's perceived swimming time is not a reliable distance measurement."
     },
     {
-      "id": "M046", "group": "Interactions for an explorable model", "subject": "Third-task maze", "relation": "temporarily_replaces", "object": "Quidditch pitch playing space",
+      "id": "M046",
+      "group": "Interactions for an explorable model",
+      "subject": "Third-task maze",
+      "relation": "temporarily_replaces",
+      "object": "Quidditch pitch playing space",
       "description": "The pitch is transformed into a maze enclosed by a twenty-foot hedge with an entrance gap. Within the high hedges the crowd noise falls silent. Bagman previously says the pitch will be returned to normal after the task.",
-      "certainty": "explicit", "temporal": "Book 4 third task", "evidence": ["B04-C028-P0142", "B04-C031-P0125", "B04-C031-P0135"],
+      "certainty": "explicit",
+      "temporal": "Book 4 third task",
+      "evidence": [
+        "B04-C028-P0142",
+        "B04-C031-P0125",
+        "B04-C031-P0135"
+      ],
       "model_notes": "The observed hedge height is twenty feet (6.096 metres). Restoration is a reported intention. These passages do not establish a complete maze plan or prove that the sound isolation is magical rather than the effect of dense hedges."
     },
     {
-      "id": "M047", "group": "Interactions for an explorable model", "subject": "Great Hall", "relation": "has_temporary_state", "object": "Emergency sleeping hall",
+      "id": "M047",
+      "group": "Interactions for an explorable model",
+      "subject": "Great Hall",
+      "relation": "has_temporary_state",
+      "object": "Emergency sleeping hall",
       "description": "During the castle search all houses are gathered in the Great Hall. Its entrances are guarded; Dumbledore moves the long tables to the walls and covers the floor in hundreds of purple sleeping bags.",
-      "certainty": "explicit", "temporal": "Book 3 after the Fat Lady attack", "evidence": ["B03-C009-P0001", "B03-C009-P0002", "B03-C009-P0004", "B03-C009-P0008"],
+      "certainty": "explicit",
+      "temporal": "Book 3 after the Fat Lady attack",
+      "evidence": [
+        "B03-C009-P0001",
+        "B03-C009-P0002",
+        "B03-C009-P0004",
+        "B03-C009-P0008"
+      ],
       "model_notes": "Do not bake the feast tables permanently into the mesh. This room must support cleared-floor arrangements and furniture relocation."
     },
     {
-      "id": "M048", "group": "Interactions for an explorable model", "subject": "Entrance Hall", "relation": "has_damaged_state", "object": "Blasted doors, bloodied flagstones and broken Gryffindor hourglass",
+      "id": "M048",
+      "group": "Interactions for an explorable model",
+      "subject": "Entrance Hall",
+      "relation": "has_damaged_state",
+      "object": "Blasted doors, bloodied flagstones and broken Gryffindor hourglass",
       "description": "During the Book 6 flight, the oak front doors have been blasted open and the flagstones bear blood. A curse has hit the large Gryffindor hourglass and its rubies are falling onto the floor.",
-      "certainty": "explicit", "temporal": "Book 6 invasion aftermath", "evidence": ["B06-C028-P0022"],
+      "certainty": "explicit",
+      "temporal": "Book 6 invasion aftermath",
+      "evidence": [
+        "B06-C028-P0022"
+      ],
       "model_notes": "Keep fixture identity, damage and scattered contents separate. This is a specific damaged scene, not the normal entrance design."
     },
     {
-      "id": "M049", "group": "Interactions for an explorable model", "subject": "Corridor statues and armour", "relation": "can_be_animated_by", "object": "McGonagall's defensive spell",
+      "id": "M049",
+      "group": "Interactions for an explorable model",
+      "subject": "Corridor statues and armour",
+      "relation": "can_be_animated_by",
+      "object": "McGonagall's defensive spell",
       "description": "After McGonagall's spell, corridor statues and suits of armour jump from their plinths. Crashes from floors above and below indicate similar activation elsewhere.",
-      "certainty": "explicit", "temporal": "Book 7 battle preparation", "evidence": ["B07-C030-P0131", "B07-C030-P0132"],
+      "certainty": "explicit",
+      "temporal": "Book 7 battle preparation",
+      "evidence": [
+        "B07-C030-P0131",
+        "B07-C030-P0132"
+      ],
       "model_notes": "This provides direct later evidence of animation, stronger than Harry's initial suspicion about armour in Book 1. Plinths should remain when their occupants move."
     },
     {
-      "id": "M050", "group": "Interactions for an explorable model", "subject": "School perimeter", "relation": "includes", "object": "Boundary wall and conditionally passable aerial protection",
+      "id": "M050",
+      "group": "Interactions for an explorable model",
+      "subject": "School perimeter",
+      "relation": "includes",
+      "object": "Boundary wall and conditionally passable aerial protection",
       "description": "Harry and Dumbledore fly above a twisting lane and cross a boundary wall into the grounds. Dumbledore mutters and Harry feels his broom shudder, interpreting this as Dumbledore undoing the protection to permit their approach.",
-      "certainty": "explicit", "temporal": "Book 6 return flight", "evidence": ["B06-C027-P0036"],
+      "certainty": "explicit",
+      "temporal": "Book 6 return flight",
+      "evidence": [
+        "B06-C027-P0036"
+      ],
       "model_notes": "The wall and crossing are observed; the explanation is Harry's inference. Keep physical perimeter geometry and magical permission separate."
+    },
+    {
+      "id": "M051",
+      "group": "Additional alignment from the full review",
+      "subject": "Astronomy exam parapet position",
+      "relation": "is_described_as_directly_above",
+      "object": "Castle front doors, with view to Hagrid’s cabin",
+      "description": "From the top of the Astronomy Tower Harry sees the castle’s front doors open directly below his parapet position. He can follow people crossing the lawn and distinguish them entering Hagrid’s lit cabin.",
+      "certainty": "explicit",
+      "temporal": "Book 5 night Astronomy O.W.L.",
+      "evidence": [
+        "B05-C031-P0132",
+        "B05-C031-P0134",
+        "B05-C031-P0135",
+        "B05-C031-P0137"
+      ],
+      "model_notes": "Provide a viable downward sightline to the front doors and an unobstructed view to the cabin from this position. The passage does not measure a tower-axis offset or the horizontal distances."
     }
   ]
 }
