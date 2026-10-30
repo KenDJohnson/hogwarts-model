@@ -20,9 +20,10 @@
       "id": "B07-002",
       "location": "Secluded corners of Hogwarts grounds",
       "category": "grounds",
-      "description": "Harry recalls private hours with Ginny in secluded corners of the school grounds.",
+      "description": "Harry recalls private hours with Ginny in secluded corners of the school grounds. At the wedding he again remembers afternoons with her in lonely parts of the grounds.",
       "evidence": [
-        "B07-C006-P0037"
+        "B07-C006-P0037",
+        "B07-C008-P0062"
       ],
       "certainty": "explicit",
       "temporal": "July 1997 recollection",
@@ -197,6 +198,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two blocks, including full will conversation and late-night object examination. Recorded Hagrid’s newborn unicorn report, school legacy collection and sword display/presentation account. Burrow furnishings, birthday decorations and distant mountain dream are off site; carried gifts are not Hogwarts fixtures."
+    },
+    {
+      "chapter": 8,
+      "reviewed_ranges": [
+        [
+          1,
+          211
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks, including full Doge/Muriel history and Krum dialogue. Combined repeated secluded-grounds recollection. Burrow wedding tent, Durmstrang wall carving and Godric’s Hollow family/cellar accounts do not describe Hogwarts; officiant’s previous funeral attendance adds no new funeral layout."
     }
   ]
 }
