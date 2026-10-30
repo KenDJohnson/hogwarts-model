@@ -4574,6 +4574,177 @@
       "certainty": "reported",
       "temporal": "June 1996, immediately after final History of Magic exam",
       "model_notes": "Reported sabotage; not confirmation of destruction or of the proposed Transfiguration rampage."
+    },
+    {
+      "id": "B05-278",
+      "location": "Office to Forest evening route",
+      "category": "route",
+      "description": "Hermione leads from Umbridge’s corridor down stairs to the Entrance Hall, within about twenty feet of dinner through the Hall doors, then through oak front doors and down stone steps across the grass toward the Forest. The setting sun approaches the treetops ahead while shadows stretch behind them.",
+      "evidence": [
+        "B05-C033-P0001",
+        "B05-C033-P0002",
+        "B05-C033-P0003",
+        "B05-C033-P0008",
+        "B05-C033-P0009",
+        "B05-C033-P0013"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 evening following final exam",
+      "model_notes": "Observed sun/view relation; no exact date-based azimuth inferred."
+    },
+    {
+      "id": "B05-279",
+      "location": "Forest path toward Aragog",
+      "category": "route",
+      "description": "Hermione takes a different path from the Grawp visit: Harry recognises the path used three years earlier toward Aragog’s lair. Brambles, a fallen sapling and thick undergrowth obstruct it; eventually the dense canopy blocks all light.",
+      "evidence": [
+        "B05-C033-P0014",
+        "B05-C033-P0015",
+        "B05-C033-P0016",
+        "B05-C033-P0017",
+        "B05-C033-P0018",
+        "B05-C033-P0019",
+        "B05-C033-P0020",
+        "B05-C033-P0021",
+        "B05-C033-P0022",
+        "B05-C033-P0023"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 evening following final exam",
+      "model_notes": "Destination recognition is Harry’s memory; this group does not reach Aragog."
+    },
+    {
+      "id": "B05-280",
+      "location": "Centaur confrontation clearing",
+      "category": "grounds",
+      "description": "They emerge into a dim damp clearing; an arrow strikes a tree above Hermione and roughly fifty armed centaurs encircle them. The group backs to the centre while hooves shake the floor and voices echo.",
+      "evidence": [
+        "B05-C033-P0023",
+        "B05-C033-P0024",
+        "B05-C033-P0025",
+        "B05-C033-P0027",
+        "B05-C033-P0032",
+        "B05-C033-P0035",
+        "B05-C033-P0037",
+        "B05-C033-P0040",
+        "B05-C033-P0041",
+        "B05-C033-P0042",
+        "B05-C033-P0044",
+        "B05-C033-P0045",
+        "B05-C033-P0046"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 evening following final exam",
+      "model_notes": "Distinct clearing from Grawp’s tether site; Umbridge’s broken wand remains on the ground, and she is carried away through trees."
+    },
+    {
+      "id": "B05-281",
+      "location": "Forest territorial claims",
+      "category": "history",
+      "description": "Umbridge claims the Ministry permits centaurs only certain land; centaurs claim the Forest, reject wizard law and debate whether adolescents count as protected foals. They hold Harry and Hermione after she admits hoping to use them against Umbridge.",
+      "evidence": [
+        "B05-C033-P0031",
+        "B05-C033-P0033",
+        "B05-C033-P0034",
+        "B05-C033-P0035",
+        "B05-C033-P0036",
+        "B05-C033-P0038",
+        "B05-C033-P0047",
+        "B05-C033-P0048",
+        "B05-C033-P0049",
+        "B05-C033-P0051",
+        "B05-C033-P0052",
+        "B05-C033-P0055",
+        "B05-C033-P0058",
+        "B05-C033-P0059",
+        "B05-C033-P0060",
+        "B05-C033-P0061"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1996 evening following final exam",
+      "model_notes": "Conflicting character claims, not a verified legal cadastral boundary."
+    },
+    {
+      "id": "B05-282",
+      "location": "Grawp loose and Forest damage",
+      "category": "temporary",
+      "description": "Grawp parts two thick trunks at the clearing edge, appearing under the branch canopy with broken ankle ropes trailing. Arrows strike his face; he scatters centaurs, then pursues them through the opposite trees, smashing trees aside.",
+      "evidence": [
+        "B05-C033-P0062",
+        "B05-C033-P0063",
+        "B05-C033-P0066",
+        "B05-C033-P0069",
+        "B05-C033-P0072",
+        "B05-C033-P0077",
+        "B05-C033-P0078",
+        "B05-C033-P0079",
+        "B05-C033-P0080",
+        "B05-C033-P0082"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 evening following final exam",
+      "model_notes": "He has escaped restraints; no longer model him continuously tethered after this event."
+    },
+    {
+      "id": "B05-283",
+      "location": "Bowtruckle at escape shelter",
+      "category": "grounds",
+      "description": "After sheltering among trees Harry kicks a nearby tree and a Bowtruckle chatters overhead, flexing long fingers. Ron’s group approaches through low branches.",
+      "evidence": [
+        "B05-C033-P0079",
+        "B05-C033-P0085",
+        "B05-C033-P0086",
+        "B05-C033-P0088",
+        "B05-C033-P0089",
+        "B05-C033-P0090",
+        "B05-C033-P0091"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 evening following final exam",
+      "model_notes": "Actual Bowtruckle-in-tree habitat beyond the classroom specimens."
+    },
+    {
+      "id": "B05-284",
+      "location": "Office window to Forest pursuit",
+      "category": "route",
+      "description": "Ron says the rescued pupils saw Harry and Hermione head into the Forest from Umbridge’s office window and followed after escaping their captors.",
+      "evidence": [
+        "B05-C033-P0090",
+        "B05-C033-P0091",
+        "B05-C033-P0092",
+        "B05-C033-P0093",
+        "B05-C033-P0094",
+        "B05-C033-P0106"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1996 evening following final exam",
+      "model_notes": "Reported route and office-to-Forest sightline; exact tracking path unstated."
+    },
+    {
+      "id": "B05-285",
+      "location": "Thestral gathering before departure",
+      "category": "grounds",
+      "description": "Two Thestrals wait between trees; one licks Grawp’s blood from Harry’s sleeve. Another six or seven pick their way through the trees with wings tightly folded, providing mounts for six pupils.",
+      "evidence": [
+        "B05-C033-P0118",
+        "B05-C033-P0119",
+        "B05-C033-P0120",
+        "B05-C033-P0121",
+        "B05-C033-P0124",
+        "B05-C033-P0127",
+        "B05-C033-P0130",
+        "B05-C033-P0131",
+        "B05-C033-P0133",
+        "B05-C033-P0134",
+        "B05-C033-P0135",
+        "B05-C033-P0136",
+        "B05-C033-P0137",
+        "B05-C033-P0138",
+        "B05-C033-P0139"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 evening following final exam",
+      "model_notes": "Blood attraction is Ginny’s inference, supported by licking and arrival; it is not an explicitly demonstrated summoning spell."
     }
   ],
   "chapter_reviews": [
@@ -4928,6 +5099,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs including rescue argument, plan, Floo check and complete interrogation. Hermione’s weapon and pub-search account is a deliberate deception and not modelled as an actual installation or journey."
+    },
+    {
+      "chapter": 33,
+      "reviewed_ranges": [
+        [
+          1,
+          139
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph including complete centaur confrontation, Grawp fight, reunion and mount debate. Fabricated weapon location excluded; actual path distinguished from earlier Grawp route."
     }
   ]
 }
