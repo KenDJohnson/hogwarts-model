@@ -184,6 +184,30 @@
       "certainty": "explicit",
       "temporal": "1 September 1997",
       "model_notes": "Linked portrait travel and visual access depend on frame placement; no physical tunnel implied."
+    },
+    {
+      "id": "B07-014",
+      "location": "Umbridge’s former Hogwarts office",
+      "category": "furnishing",
+      "description": "Harry recognises the Ministry office as matching Umbridge’s Hogwarts office: lace draperies, doilies and dried flowers covering surfaces, ornamental wall plates with brightly coloured beribboned moving kittens, and a flouncy flowered desk cloth.",
+      "evidence": [
+        "B07-C013-P0032"
+      ],
+      "certainty": "explicit",
+      "temporal": "Recollection in September 1997 of Umbridge’s 1995–96 Hogwarts office",
+      "model_notes": "The explicit comparison supports these shared decorations; the Ministry door’s transplanted magical eye and telescope are not stated to have been at Hogwarts."
+    },
+    {
+      "id": "B07-015",
+      "location": "Filch’s filing cabinets",
+      "category": "furnishing",
+      "description": "A Ministry filing cabinet reminds Harry of Filch’s filing cabinets at Hogwarts, full of folders labelled with individual names.",
+      "evidence": [
+        "B07-C013-P0034"
+      ],
+      "certainty": "explicit",
+      "temporal": "Recollection in September 1997 of Umbridge’s 1995–96 Hogwarts office",
+      "model_notes": "Confirms cabinets and folder organisation, without assigning their room position or number."
     }
   ],
   "chapter_reviews": [
@@ -318,6 +342,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs. Recorded railway recollection, tower-top circular study and portrait surveillance mechanism. Ministry architecture and London entrance routes excluded."
+    },
+    {
+      "chapter": 13,
+      "reviewed_ranges": [
+        [
+          1,
+          190
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Recorded explicit comparisons with Hogwarts office decorations and Filch’s files. Remaining Ministry architecture, courtroom and escape route are outside scope."
     }
   ]
 }
