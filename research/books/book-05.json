@@ -5168,6 +5168,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs in three chunks, entire flight and Ministry exploration. Recorded Hogwarts aerial departure; Ministry Atrium, rotating room, brains, veil, time and prophecy rooms are not castle rooms."
+    },
+    {
+      "chapter": 35,
+      "reviewed_ranges": [
+        [
+          1,
+          286
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph in three chunks, including whole Death Eater confrontation, room-by-room battle and Sirius loss. All physical rooms and damage are in the Ministry; no additional Hogwarts passage qualifies."
     }
   ]
 }
