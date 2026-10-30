@@ -1119,6 +1119,180 @@
       "certainty": "explicit",
       "temporal": "After first Gryffindor–Slytherin match, autumn 1996",
       "model_notes": "An accessible unnamed classroom along Harry’s search route. “First unlocked” does not establish that it is the first door or immediately adjacent to the portrait; floor number not explicitly repeated."
+    },
+    {
+      "id": "B06-077",
+      "location": "Castle Christmas decorations",
+      "category": "temporary",
+      "description": "Snow swirls against icy windows. The Great Hall receives twelve Christmas trees; stair banisters are wound with holly and tinsel; everlasting candles glow inside armour helmets; large mistletoe bunches hang at intervals in corridors.",
+      "evidence": [
+        "B06-C015-P0001"
+      ],
+      "certainty": "explicit",
+      "temporal": "Before Christmas holidays, December 1996",
+      "model_notes": "Dated decoration across several spaces; armour positions, stair identities and tree distribution within Hall unspecified."
+    },
+    {
+      "id": "B06-078",
+      "location": "Castle alternative secret routes",
+      "category": "route",
+      "description": "Harry uses his knowledge of secret passageways to navigate between classes while avoiding mistletoe-blocked corridors.",
+      "evidence": [
+        "B06-C015-P0001"
+      ],
+      "certainty": "explicit",
+      "temporal": "Before Christmas holidays, December 1996",
+      "model_notes": "Multiple alternate interior routes exist, but none is named or mapped in this passage."
+    },
+    {
+      "id": "B06-079",
+      "location": "Library study area",
+      "category": "interior",
+      "description": "Harry and Hermione work at a table with bookshelves behind them. The shelves are dark enough for someone nearby to remain unseen until Madam Pince comes around a corner carrying a lamp. Conversations are whispered and the library closes at night.",
+      "evidence": [
+        "B06-C015-P0008",
+        "B06-C015-P0009",
+        "B06-C015-P0010",
+        "B06-C015-P0018",
+        "B06-C015-P0032",
+        "B06-C015-P0033",
+        "B06-C015-P0034"
+      ],
+      "certainty": "explicit",
+      "temporal": "Before Christmas holidays, December 1996",
+      "model_notes": "Shelf/table relationship, local concealment, portable lighting and use constraints. No shelf rows, room outline or full lighting plan established."
+    },
+    {
+      "id": "B06-080",
+      "location": "Security Sensor limitations",
+      "category": "magic",
+      "description": "Hermione explains that Secrecy Sensors detect jinxes, curses and concealment charms, but a love potion merely repackaged as perfume or cough medicine escapes that check unless Filch recognises it.",
+      "evidence": [
+        "B06-C015-P0021",
+        "B06-C015-P0022",
+        "B06-C015-P0025",
+        "B06-C015-P0026",
+        "B06-C015-P0029",
+        "B06-C015-P0031"
+      ],
+      "certainty": "reported",
+      "temporal": "Before Christmas holidays, December 1996",
+      "model_notes": "Important limit on 1996 entry screening. Hermione’s judgement of love-potion danger is not adopted as a modelling fact; no barrier should be treated as perfectly all-detecting."
+    },
+    {
+      "id": "B06-081",
+      "location": "Library–Gryffindor return route",
+      "category": "route",
+      "description": "After library closing Harry and Hermione return along deserted lamp-lit corridors to the Fat Lady. The current festive password is Baubles; the portrait swings forwards and they climb through its hole.",
+      "evidence": [
+        "B06-C015-P0041",
+        "B06-C015-P0042",
+        "B06-C015-P0043",
+        "B06-C015-P0044"
+      ],
+      "certainty": "explicit",
+      "temporal": "Before Christmas holidays, December 1996",
+      "model_notes": "Artificial corridor lighting and dated access credential; no exact floors or stair sequence in this route."
+    },
+    {
+      "id": "B06-082",
+      "location": "Transfiguration mirrors and bathroom below",
+      "category": "interior",
+      "description": "Students practise human transfiguration in front of mirrors. Harry later finds Hermione emerging from a girls’ bathroom on the floor below the Transfiguration classroom.",
+      "evidence": [
+        "B06-C015-P0054",
+        "B06-C015-P0055"
+      ],
+      "certainty": "explicit",
+      "temporal": "Before Christmas holidays, December 1996",
+      "model_notes": "Mirrors as teaching equipment and a one-floor vertical relationship. Do not identify this bathroom as Myrtle’s merely because Luna initially mistakes crying for Myrtle at P0061."
+    },
+    {
+      "id": "B06-083",
+      "location": "Unnamed corridor chandelier",
+      "category": "furnishing",
+      "description": "Along the corridor walked after the girls’ bathroom encounter, a chandelier hangs overhead; Peeves dangles upside-down from it as Harry and Luna pass underneath.",
+      "evidence": [
+        "B06-C015-P0063",
+        "B06-C015-P0073",
+        "B06-C015-P0074",
+        "B06-C015-P0075",
+        "B06-C015-P0076"
+      ],
+      "certainty": "explicit",
+      "temporal": "Before Christmas holidays, December 1996",
+      "model_notes": "Ceiling light fixture and overhead clearance in an unnamed corridor. Exact floor/corridor not stated."
+    },
+    {
+      "id": "B06-084",
+      "location": "Entrance Hall–Slughorn office",
+      "category": "route",
+      "description": "Harry meets Luna in the Entrance Hall, then leads her up the marble staircase to Slughorn’s office. Party music, laughter and conversation become louder as they approach.",
+      "evidence": [
+        "B06-C015-P0103",
+        "B06-C015-P0105",
+        "B06-C015-P0106",
+        "B06-C015-P0110"
+      ],
+      "certainty": "explicit",
+      "temporal": "Before Christmas holidays, December 1996",
+      "model_notes": "Upward route from Entrance Hall; no total floors traversed or claim that office directly opens onto the staircase."
+    },
+    {
+      "id": "B06-085",
+      "location": "Slughorn office party volume and hangings",
+      "category": "temporary",
+      "description": "Slughorn’s office is much larger than an ordinary teacher’s study, though Harry cannot tell whether this is built space or magical enlargement. Emerald, crimson and gold hangings drape the walls and ceiling, making a tent-like interior.",
+      "evidence": [
+        "B06-C015-P0111"
+      ],
+      "certainty": "explicit",
+      "temporal": "Slughorn Christmas party, December 1996",
+      "model_notes": "Preserve uncertainty about the room’s underlying size and magical expansion; fabric conceals the architectural surfaces."
+    },
+    {
+      "id": "B06-086",
+      "location": "Slughorn office party lighting and service",
+      "category": "temporary",
+      "description": "An ornate golden lamp hangs from the ceiling centre, filled with fluttering luminous fairies and bathing the crowded stuffy room in red light. Singing with mandolin-like accompaniment comes from a distant corner; pipe smoke hazes part of the room. House-elves carry heavy silver food platters through the crowd; mistletoe is present.",
+      "evidence": [
+        "B06-C015-P0111",
+        "B06-C015-P0118",
+        "B06-C015-P0125",
+        "B06-C015-P0129",
+        "B06-C015-P0130"
+      ],
+      "certainty": "explicit",
+      "temporal": "Slughorn Christmas party, December 1996",
+      "model_notes": "Event-specific lighting, atmosphere, food service and decorations; no permanent dining tables are established by the elves’ table-like appearance."
+    },
+    {
+      "id": "B06-087",
+      "location": "Last classroom in Slughorn office corridor",
+      "category": "interior",
+      "description": "Harry leaves the party into a deserted corridor, listens at successive doors, and hears Snape and Draco through the keyhole of the last classroom. Party noise masks Harry’s footsteps. Draco exits that classroom, passes Slughorn’s open office door and rounds a distant corner; Snape returns to the party.",
+      "evidence": [
+        "B06-C015-P0178",
+        "B06-C015-P0185",
+        "B06-C015-P0190",
+        "B06-C015-P0205",
+        "B06-C015-P0206"
+      ],
+      "certainty": "explicit",
+      "temporal": "Slughorn Christmas party, December 1996",
+      "model_notes": "Classroom on the same corridor, with a sound-transmitting keyhole and a further corner. No room fittings described; do not invent a direct classroom-office door."
+    },
+    {
+      "id": "B06-088",
+      "location": "Snape office dungeon location",
+      "category": "interior",
+      "description": "While trying to find Snape, Harry considers his office in the dungeons as a possible destination.",
+      "evidence": [
+        "B06-C015-P0178"
+      ],
+      "certainty": "explicit",
+      "temporal": "Before Christmas holidays, December 1996",
+      "model_notes": "Narration supplies the office’s dungeon location as background; the proposed journey there does not occur, so it establishes no travelled connection from the party."
     }
   ],
   "chapter_reviews": [
@@ -1275,6 +1449,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two blocks. Captured vegetable/greenhouse approach and active plants, classroom aftermath, second-floor tapestry shortcut to seventh-floor Gryffindor entrance, four-poster, changing room, frosty match state, wooden podium destruction, victory party and unnamed classroom. Harry’s imagined kissing scene adds no new architecture."
+    },
+    {
+      "chapter": 15,
+      "reviewed_ranges": [
+        [
+          1,
+          206
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks. Recorded seasonal decorations, alternative routes, library furniture/light, screening limits, portrait password, mirrors and bathroom vertical relation, corridor chandelier, marble-stair office approach, party room uncertainty and last-classroom eavesdropping geometry. Luna’s conspiracies and figurative comparisons are not architectural evidence."
     }
   ]
 }
