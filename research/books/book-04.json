@@ -291,6 +291,185 @@
       "certainty": "explicit",
       "temporal": "1 September 1994",
       "model_notes": "Specific to this dormitory and date. Harry attributes the warming pans to house-elves without witnessing placement; do not infer other dormitories’ bed counts."
+    },
+    {
+      "id": "B04-022",
+      "location": "Great Hall breakfast",
+      "category": "magic",
+      "description": "The ceiling displays pewter-grey clouds after the storm; around a hundred owls fly through the open windows and circle the house tables delivering post.",
+      "evidence": [
+        "B04-C013-P0001",
+        "B04-C013-P0008"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1994",
+      "model_notes": "Establishes functional window entry for a large owl flight; the owl count is approximate and does not give window dimensions."
+    },
+    {
+      "id": "B04-023",
+      "location": "Vegetable path and greenhouse three",
+      "category": "route",
+      "description": "The pupils cross a sodden vegetable path to greenhouse three, where black slug-like Bubotubers protrude upright from soil and produce a petrol-smelling yellow-green liquid when squeezed.",
+      "evidence": [
+        "B04-C013-P0009",
+        "B04-C013-P0010",
+        "B04-C013-P0012",
+        "B04-C013-P0013"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1994",
+      "model_notes": "Keep the source wording vegetable path; its exact planting layout is not established. The plants and collecting bottles are a dated lesson installation."
+    },
+    {
+      "id": "B04-024",
+      "location": "Greenhouses to Hagrid’s cabin",
+      "category": "route",
+      "description": "A booming castle bell is audible in the grounds. After Herbology the Hufflepuffs go up stone steps for Transfiguration, while the Gryffindors head in the other direction down a sloping lawn towards Hagrid’s small wooden cabin at the Forbidden Forest edge. They later walk back uphill to the castle for lunch.",
+      "evidence": [
+        "B04-C013-P0017",
+        "B04-C013-P0041"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1994",
+      "model_notes": "Defines relative slope and route branching, not an immediate adjacency between the greenhouse and the Transfiguration classroom."
+    },
+    {
+      "id": "B04-025",
+      "location": "Hagrid’s cabin lesson area",
+      "category": "temporary",
+      "description": "Several open wooden crates stand on the ground outside the cabin, each containing about a hundred newly hatched six-inch Blast-Ended Skrewts. The area has a rotting-fish smell, rattles, small explosions and sparks.",
+      "evidence": [
+        "B04-C013-P0018",
+        "B04-C013-P0021",
+        "B04-C013-P0023",
+        "B04-C013-P0024"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1994",
+      "model_notes": "A dated teaching setup; creature counts are approximate. Crates can be approached from the outside lesson area."
+    },
+    {
+      "id": "B04-026",
+      "location": "North Tower Divination access",
+      "category": "route",
+      "description": "At the top of a tightly spiralling staircase in North Tower a silver stepladder leads through a circular ceiling trapdoor into Trelawney’s room.",
+      "evidence": [
+        "B04-C013-P0050"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1994",
+      "model_notes": "Preserve both the staircase and the ladder stage. The route to North Tower and its exact floor level are unspecified."
+    },
+    {
+      "id": "B04-027",
+      "location": "Divination classroom",
+      "category": "interior",
+      "description": "The circular room has closed curtains, dim reddish light from many lamps covered with scarves and shawls, and a sweet-smelling hot fire. Chintz chairs and pouffes crowd the space around small circular tables. Trelawney sits in a large winged armchair before the fire facing the class.",
+      "evidence": [
+        "B04-C013-P0051",
+        "B04-C013-P0055",
+        "B04-C013-P0057",
+        "B04-C013-P0062"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1994",
+      "model_notes": "Furnish densely while retaining paths through occupied seating. Closed curtains describe the customary state here, not a lack of windows."
+    },
+    {
+      "id": "B04-028",
+      "location": "North Tower to Entrance Hall",
+      "category": "route",
+      "description": "After Divination the pupils descend staircases towards dinner in the Great Hall and reach the Entrance Hall, where pupils queue.",
+      "evidence": [
+        "B04-C013-P0076",
+        "B04-C013-P0079"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1994",
+      "model_notes": "A descending route is explicit; the text does not enumerate the flights or establish a direct single stair."
+    },
+    {
+      "id": "B04-029",
+      "location": "Entrance Hall floor and dungeon access",
+      "category": "interior",
+      "description": "The Entrance Hall floor is stone-flagged. The marble staircase descends into the Hall; from here Malfoy moves towards the dungeons, and Moody later escorts him that way to see Snape. Footsteps and shouts echo in the Hall.",
+      "evidence": [
+        "B04-C013-P0098",
+        "B04-C013-P0100",
+        "B04-C013-P0107",
+        "B04-C013-P0111",
+        "B04-C013-P0113",
+        "B04-C013-P0125",
+        "B04-C013-P0127"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1994",
+      "model_notes": "Dungeon access is connected to the Hall but its doorway position and intervening steps are unstated. The magical ferret incident adds no permanent architectural damage."
+    },
+    {
+      "id": "B04-030",
+      "location": "Defence Against the Dark Arts classroom",
+      "category": "furnishing",
+      "description": "Pupils have chairs and desks, including three seats directly before the teacher’s wooden desk. Moody stores a jar of spiders in a desk drawer and conducts demonstrations on its top. A blackboard stands within Harry’s line of sight from the front seats.",
+      "evidence": [
+        "B04-C014-P0011",
+        "B04-C014-P0012",
+        "B04-C014-P0023",
+        "B04-C014-P0028",
+        "B04-C014-P0051",
+        "B04-C014-P0061",
+        "B04-C014-P0067"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Thursday of term, September 1994",
+      "model_notes": "The pupils’ desk is solid wood; the teacher’s desktop is also explicitly wooden. The mention of throwing a spider from a window is a hypothetical action, not a demonstrated exit."
+    },
+    {
+      "id": "B04-031",
+      "location": "Side passage near Defence classroom",
+      "category": "route",
+      "description": "After leaving the classroom, the pupils find Neville halfway along a side passage opposite a stone wall. Moody meets them there, offers to take Neville up to his office to see books, and leads him away around a corner.",
+      "evidence": [
+        "B04-C014-P0075",
+        "B04-C014-P0079",
+        "B04-C014-P0080",
+        "B04-C014-P0088",
+        "B04-C014-P0089",
+        "B04-C014-P0094",
+        "B04-C014-P0095",
+        "B04-C014-P0096"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Thursday of term, September 1994",
+      "model_notes": "Preserve a nearby branching passage and corner. Up to the office is Moody’s wording, not a fully traced stair route; books in the office are reported."
+    },
+    {
+      "id": "B04-032",
+      "location": "Gryffindor common room window",
+      "category": "interior",
+      "description": "A moonlit window-sill can support Hedwig outside the common room. Harry opens the window; she flies across the room to a table and later leaves through the opening.",
+      "evidence": [
+        "B04-C014-P0159",
+        "B04-C014-P0160",
+        "B04-C014-P0161",
+        "B04-C014-P0177",
+        "B04-C014-P0178"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Thursday of term, September 1994",
+      "model_notes": "An operable exterior window with a sill and clear flight path. No compass bearing, size, or elevation is given."
+    },
+    {
+      "id": "B04-033",
+      "location": "Owlery feeding",
+      "category": "furnishing",
+      "description": "Harry directs Hedwig up to the Owlery for food.",
+      "evidence": [
+        "B04-C014-P0177"
+      ],
+      "certainty": "reported",
+      "temporal": "First Thursday of term, September 1994",
+      "model_notes": "Reports the Owlery’s feeding function and Harry’s upward direction, not a directly observed feeder or exact route."
     }
   ],
   "chapter_reviews": [
@@ -425,6 +604,28 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed, including Sorting song, kitchen reports, lake rescue report, approach, Hall, and dormitory route. Founders’ places of origin do not establish Hogwarts terrain."
+    },
+    {
+      "chapter": 13,
+      "reviewed_ranges": [
+        [
+          1,
+          154
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Recorded greenhouse and cabin approach, Divination room and access, Hall floor, and dungeon direction."
+    },
+    {
+      "chapter": 14,
+      "reviewed_ranges": [
+        [
+          1,
+          183
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Hypothetical ferret punishment, invented horoscopes, and memories of the Potters’ home do not establish Hogwarts geometry."
     }
   ]
 }
