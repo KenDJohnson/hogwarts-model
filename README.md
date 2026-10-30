@@ -63,6 +63,9 @@ receive a page range. Chapter headings and blank paragraphs do not count.
 The exact source is identified by SHA-256. Source EPUB member paths and source
 paragraph ordinals provide a second locator independent of generated pages.
 See [the research schema](research/SCHEMA.md) for inclusion and review rules.
+The [methodology](docs/methodology.md) explains source coverage, duplicate
+preview checks, citation limitations and the boundary between evidence and
+modelling choices.
 
 ## Research status
 
