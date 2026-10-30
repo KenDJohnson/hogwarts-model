@@ -12,6 +12,28 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter. Malfoy Manor and its security are not Hogwarts grounds; Charity Burbage’s employment, departure plans and Ministry transport discussions add no school-specific physical or spatial description. No manor feature is transferred to Hogwarts."
+    },
+    {
+      "chapter": 2,
+      "reviewed_ranges": [
+        [
+          1,
+          63
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two non-truncated blocks, including entire Doge obituary and Skeeter interview. School biography, Mirror dialogue and disputed account of Dumbledore’s fall add no new Hogwarts physical or spatial details. Privet Drive and purported Lake Windermere scene are outside scope."
+    },
+    {
+      "chapter": 3,
+      "reviewed_ranges": [
+        [
+          1,
+          120
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter. Privet Drive departure, blood protection, safe-house logistics and family dialogue contain no Hogwarts architectural or grounds description. Hagrid’s remembered door-smashing and general Dementor discussion belong elsewhere."
     }
   ]
 }
