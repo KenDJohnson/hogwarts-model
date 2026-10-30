@@ -3815,6 +3815,309 @@
       "certainty": "explicit",
       "temporal": "Easter and start of summer term, April 1996",
       "model_notes": "Demonstrates vertical clearance and chained peg removal; Harry’s own broom is not retrieved in this scene."
+    },
+    {
+      "id": "B05-235",
+      "location": "East-wing fifth-floor swamp",
+      "category": "temporary",
+      "description": "The swamp fills a fifth-floor east-wing corridor. After failed removal attempts the area is roped off, and Filch punts pupils across to their classrooms.",
+      "evidence": [
+        "B05-C030-P0002"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Essential temporary route obstruction and boat transport; teachers’ ability to remove it is Harry’s belief, not a demonstrated limitation."
+    },
+    {
+      "id": "B05-236",
+      "location": "Umbridge door replaced and broom moved",
+      "category": "temporary",
+      "description": "Two broom-shaped holes remain in Umbridge’s office door until Filch replaces it. He moves Harry’s Firebolt to the dungeons; an armed security troll guarding it is rumoured.",
+      "evidence": [
+        "B05-C030-P0003"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Door replacement and broom relocation narrated; troll specifically unconfirmed."
+    },
+    {
+      "id": "B05-237",
+      "location": "Office Niffler and corridor air",
+      "category": "temporary",
+      "description": "A Niffler tears Umbridge’s office apart seeking shiny objects and tries biting her rings. Frequent Dungbombs and Stink Pellets prompt pupils to wear Bubble-Head Charms for fresh air in corridors.",
+      "evidence": [
+        "B05-C030-P0004",
+        "B05-C030-P0005",
+        "B05-C030-P0006"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Damage extent unspecified; do not model permanent poisonous corridors."
+    },
+    {
+      "id": "B05-238",
+      "location": "Peeves school damage",
+      "category": "temporary",
+      "description": "Peeves overturns tables, bursts through blackboards, topples statues and vases, smashes lanterns, extinguishes candles, juggles burning torches, throws papers into fires or out of windows, traps Mrs Norris twice inside armour, and drops tarantulas into the Great Hall at breakfast.",
+      "evidence": [
+        "B05-C030-P0007"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Series of narrated local incidents; not evidence every object of these classes is destroyed."
+    },
+    {
+      "id": "B05-239",
+      "location": "Second-floor bathroom flood and chandelier",
+      "category": "temporary",
+      "description": "Peeves pulls all taps from the second-floor bathrooms and floods that floor. A week after the twins leave Harry sees him loosening a crystal chandelier.",
+      "evidence": [
+        "B05-C030-P0007",
+        "B05-C030-P0008"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Bathroom floor explicit; chandelier floor unspecified, and complete fall not narrated."
+    },
+    {
+      "id": "B05-240",
+      "location": "Charms view of front drive",
+      "category": "exterior",
+      "description": "From the Charms classroom window Hermione watches Montague’s parents stride up the front drive and enter the castle.",
+      "evidence": [
+        "B05-C030-P0009",
+        "B05-C030-P0010"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Classroom-to-drive/front-entry sightline, no orientation or floor."
+    },
+    {
+      "id": "B05-241",
+      "location": "Charms animated cups",
+      "category": "temporary",
+      "description": "Pupils animate teacups on desks with legs, including willow-pattern legs; one cup breaks and is repaired, another walks over the desk edge and smashes on the floor.",
+      "evidence": [
+        "B05-C030-P0013",
+        "B05-C030-P0014",
+        "B05-C030-P0015",
+        "B05-C030-P0016",
+        "B05-C030-P0021",
+        "B05-C030-P0022",
+        "B05-C030-P0026"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Lesson props and local breakage, not persistent moving furniture."
+    },
+    {
+      "id": "B05-242",
+      "location": "Stadium tiers and cabin route",
+      "category": "route",
+      "description": "Harry and Hermione sit in the second-highest row; Hagrid reaches them along the row behind, then they edge along their seats to stairs down to the lawn. From the stand edge he checks the lawn to his cabin, and they cross it toward the Forest.",
+      "evidence": [
+        "B05-C030-P0055",
+        "B05-C030-P0059",
+        "B05-C030-P0060",
+        "B05-C030-P0063",
+        "B05-C030-P0067",
+        "B05-C030-P0073",
+        "B05-C030-P0074",
+        "B05-C030-P0075",
+        "B05-C030-P0076",
+        "B05-C030-P0077",
+        "B05-C030-P0081"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Hagrid uses crowded spectator circulation; no width measurement."
+    },
+    {
+      "id": "B05-243",
+      "location": "Cabin-front Forest entry",
+      "category": "route",
+      "description": "At the cabin Hermione turns left toward its front door; Hagrid continues straight to the outermost trees and picks up a crossbow leaning against a tree before entering the Forest.",
+      "evidence": [
+        "B05-C030-P0081",
+        "B05-C030-P0082",
+        "B05-C030-P0083",
+        "B05-C030-P0084",
+        "B05-C030-P0085",
+        "B05-C030-P0088",
+        "B05-C030-P0089"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Left is relative to this stadium approach; weapon is a temporary stored prop."
+    },
+    {
+      "id": "B05-244",
+      "location": "Deep Forest route beyond Thestrals",
+      "category": "route",
+      "description": "They follow an increasingly overgrown path through protruding roots, low branches and dense dusk-like shade, passing far beyond the Thestral clearing. Hagrid then leaves the path toward the Forest heart through knotted brambles and thorn thickets that delay the pupils.",
+      "evidence": [
+        "B05-C030-P0093",
+        "B05-C030-P0096",
+        "B05-C030-P0103",
+        "B05-C030-P0104",
+        "B05-C030-P0105",
+        "B05-C030-P0106",
+        "B05-C030-P0107",
+        "B05-C030-P0108",
+        "B05-C030-P0109",
+        "B05-C030-P0110",
+        "B05-C030-P0112"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "No creatures encountered initially; cause only later inferred by Harry."
+    },
+    {
+      "id": "B05-245",
+      "location": "Approach to Grawp clearing",
+      "category": "route",
+      "description": "After a pause they continue another fifteen minutes past nettles and arrive behind a barricade of uprooted trunks and branches on a bare patch of ground.",
+      "evidence": [
+        "B05-C030-P0124",
+        "B05-C030-P0126",
+        "B05-C030-P0127",
+        "B05-C030-P0128",
+        "B05-C030-P0129",
+        "B05-C030-P0130"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Fifteen minutes starts after the conversation pause, not at the original Forest edge."
+    },
+    {
+      "id": "B05-246",
+      "location": "Grawp’s damaged Forest clearing",
+      "category": "grounds",
+      "description": "Grawp sleeps curled on bare earth amid uprooted trees. His curved back initially resembles a mound nearly Hagrid’s height and his head a mossy boulder to its left. The surrounding trunks and boughs form a fence-like barrier.",
+      "evidence": [
+        "B05-C030-P0130",
+        "B05-C030-P0131",
+        "B05-C030-P0132",
+        "B05-C030-P0137",
+        "B05-C030-P0158",
+        "B05-C030-P0170",
+        "B05-C030-P0179"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Descriptions are initial visual comparisons, not actual earth mound or constructed stone shelter."
+    },
+    {
+      "id": "B05-247",
+      "location": "Grawp size and restraints",
+      "category": "grounds",
+      "description": "Thick ropes like saplings bind Grawp’s wrists and ankles to the largest nearby tree trunks. He is at least sixteen feet tall, with sledge-sized bare feet, a huge round head, animal-skin smock and umbrella-sized hands; the anchor trees creak when he stands.",
+      "evidence": [
+        "B05-C030-P0151",
+        "B05-C030-P0160",
+        "B05-C030-P0161",
+        "B05-C030-P0162",
+        "B05-C030-P0163",
+        "B05-C030-P0170",
+        "B05-C030-P0180",
+        "B05-C030-P0182",
+        "B05-C030-P0184"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Initial height reported by Hagrid and subsequently confirmed by narrator; allow rope tension and reach in the model."
+    },
+    {
+      "id": "B05-248",
+      "location": "Grawp feeding and pine destruction",
+      "category": "temporary",
+      "description": "Hagrid says Grawp feeds himself on birds and deer. Grawp takes a nest from a towering pine, drops its eggs, bends the treetop until the roots crack, and eventually pulls the pine over; pupils hide behind a trunk to avoid his grasp.",
+      "evidence": [
+        "B05-C030-P0169",
+        "B05-C030-P0179",
+        "B05-C030-P0180",
+        "B05-C030-P0184",
+        "B05-C030-P0186",
+        "B05-C030-P0187",
+        "B05-C030-P0188",
+        "B05-C030-P0190",
+        "B05-C030-P0191",
+        "B05-C030-P0197",
+        "B05-C030-P0198",
+        "B05-C030-P0199",
+        "B05-C030-P0201",
+        "B05-C030-P0203",
+        "B05-C030-P0204"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Feeding range reported; nest destruction, tree bending and distant crash narrated. Keep this local damage temporal."
+    },
+    {
+      "id": "B05-249",
+      "location": "Centaur territorial encounter",
+      "category": "grounds",
+      "description": "Returning through thick knotgrass, they encounter Magorian and four or five other armed centaurs. The herd bars Hagrid after his rescue of Firenze, but permits passage because children are present, claiming not to harm foals; it warns about his concealed giant.",
+      "evidence": [
+        "B05-C030-P0205",
+        "B05-C030-P0207",
+        "B05-C030-P0208",
+        "B05-C030-P0209",
+        "B05-C030-P0210",
+        "B05-C030-P0211",
+        "B05-C030-P0213",
+        "B05-C030-P0215",
+        "B05-C030-P0217",
+        "B05-C030-P0219",
+        "B05-C030-P0220",
+        "B05-C030-P0221",
+        "B05-C030-P0222",
+        "B05-C030-P0223",
+        "B05-C030-P0224",
+        "B05-C030-P0225",
+        "B05-C030-P0226",
+        "B05-C030-P0227",
+        "B05-C030-P0229",
+        "B05-C030-P0231",
+        "B05-C030-P0232"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Reported territorial rules alongside observed confrontation; no guaranteed safety for every student encounter."
+    },
+    {
+      "id": "B05-250",
+      "location": "Forest return and stadium sightline",
+      "category": "route",
+      "description": "They skirt the same nettles, rejoin the path and walk another ten minutes until trees thin, sky appears, and the stadium is visible from the Forest shelter. They merge with matchgoers returning uphill to the castle.",
+      "evidence": [
+        "B05-C030-P0231",
+        "B05-C030-P0234",
+        "B05-C030-P0235",
+        "B05-C030-P0236",
+        "B05-C030-P0237",
+        "B05-C030-P0238",
+        "B05-C030-P0242",
+        "B05-C030-P0251",
+        "B05-C030-P0258"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Ten minutes begins after rejoining path; stadium/Forest reciprocal sightline explicit."
+    },
+    {
+      "id": "B05-251",
+      "location": "Front entrance lintel and Forest view",
+      "category": "exterior",
+      "description": "Celebrants carrying Ron bump his head on the castle doorway lintel while squeezing into the Entrance Hall. Harry and Hermione climb the steps and look back from the front doors toward distant Forest treetops, where Harry thinks birds erupt upward.",
+      "evidence": [
+        "B05-C030-P0265",
+        "B05-C030-P0266",
+        "B05-C030-P0269"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Lintel impact confirms finite doorway clearance; birds and uprooting explanation remain tentative."
     }
   ],
   "chapter_reviews": [
@@ -4136,6 +4439,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read every paragraph including complete careers advice, Floo conversation and twins departure. Knife bypass distinguished from speculation about anti-Alohomora protection."
+    },
+    {
+      "chapter": 30,
+      "reviewed_ranges": [
+        [
+          1,
+          269
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph in four chunks including complete Forest journey, Grawp reveal and centaur exchange. Folkloric retelling of twins dive-bombing Umbridge is not an observed event; troll guard remains rumour."
     }
   ]
 }
