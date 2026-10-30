@@ -469,6 +469,22 @@
       "certainty": "explicit",
       "temporal": "March 1998 tomb desecration",
       "model_notes": "Dated open/broken state, not the intact funeral model. No lid thickness, cavity dimensions or repair yet established."
+    },
+    {
+      "id": "B07-034",
+      "location": "Hogsmeade / Hogwarts perimeter",
+      "category": "magic",
+      "description": "In Harry’s vision Voldemort believes Harry cannot enter Hogsmeade undetected, still less the school, and plans to alert Snape that he may try to re-enter the castle. Harry chooses Hogsmeade as the approach from which to assess the school’s protections.",
+      "evidence": [
+        "B07-C027-P0053",
+        "B07-C027-P0060",
+        "B07-C027-P0062",
+        "B07-C027-P0065",
+        "B07-C027-P0066"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998, immediately before the return to Hogwarts",
+      "model_notes": "The impossibility is Voldemort’s confidence, not an established absolute barrier. Protection mechanisms are not described here; preserve subsequent observations separately."
     }
   ],
   "chapter_reviews": [
@@ -757,6 +773,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs in three complete chunks. Gringotts bank, underground lake, vaults, tunnels and dragon escape are London sites, not Hogwarts; no added school spatial descriptions."
+    },
+    {
+      "chapter": 27,
+      "reviewed_ranges": [
+        [
+          1,
+          69
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Recorded Hogsmeade/school surveillance expectation and proposed approach. The dragon’s landing lake is an unnamed remote mountain lake, not the Hogwarts lake; Voldemort’s other lake is the sea-cave Horcrux site."
     }
   ]
 }
