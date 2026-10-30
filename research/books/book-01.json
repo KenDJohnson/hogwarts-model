@@ -501,6 +501,454 @@
       "certainty": "explicit",
       "temporal": "September 1991, first school week",
       "model_notes": "Single-room plan and furniture; a bed is confirmed independently of Malfoy’s earlier allegations."
+    },
+    {
+      "id": "B01-039",
+      "location": "Gryffindor common room and dormitory",
+      "category": "furnishing",
+      "description": "A school notice is pinned in the common room. Dean’s West Ham team poster is in the shared boys’ dormitory. At night the common-room fireplace contains glowing embers and a lamp can be switched on near the chairs.",
+      "evidence": [
+        "B01-C009-P0001",
+        "B01-C009-P0005",
+        "B01-C009-P0127",
+        "B01-C009-P0128"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991",
+      "model_notes": "Temporary pupil poster and notice; fireplace and lamp are separate fixtures, without coordinates."
+    },
+    {
+      "id": "B01-040",
+      "location": "Front entrance to flying lawn",
+      "category": "route",
+      "description": "Pupils descend the front steps and cross sloping lawns to a smooth lawn on the opposite side of the grounds from the distant Forbidden Forest.",
+      "evidence": [
+        "B01-C009-P0018"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991",
+      "model_notes": "Relative opposition and downhill lawn approach; do not assign a compass bearing."
+    },
+    {
+      "id": "B01-041",
+      "location": "Flying lawn — brooms and oak",
+      "category": "grounds",
+      "description": "Twenty school broomsticks lie in neat lines on the lawn for the lesson. A nearby oak has high branches level with Malfoy when he hovers; Neville’s abandoned broom drifts towards the Forest.",
+      "evidence": [
+        "B01-C009-P0019",
+        "B01-C009-P0022",
+        "B01-C009-P0030",
+        "B01-C009-P0046"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991, first flying lesson",
+      "model_notes": "Oak presence is observed; no numeric tree height. Brooms are a lesson installation."
+    },
+    {
+      "id": "B01-042",
+      "location": "Flying lawn to classrooms",
+      "category": "route",
+      "description": "McGonagall takes Harry back up the front steps, up the marble staircase, through doors and corridors to Flitwick’s classroom, then farther along the corridor to an unoccupied classroom.",
+      "evidence": [
+        "B01-C009-P0066",
+        "B01-C009-P0067",
+        "B01-C009-P0068",
+        "B01-C009-P0069",
+        "B01-C009-P0071",
+        "B01-C009-P0072",
+        "B01-C009-P0074"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991",
+      "model_notes": "Establishes classroom sequence, not a floor number or adjacency to McGonagall’s office."
+    },
+    {
+      "id": "B01-043",
+      "location": "Unnamed classroom near Flitwick’s class",
+      "category": "furnishing",
+      "description": "An empty classroom contains a blackboard, chalk and a bin that clangs when chalk is thrown into it.",
+      "evidence": [
+        "B01-C009-P0074",
+        "B01-C009-P0075"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991",
+      "model_notes": "Do not identify this borrowed room as an office or as the Charms classroom itself."
+    },
+    {
+      "id": "B01-044",
+      "location": "Statue of Gregory the Smarmy — secret passage",
+      "category": "route",
+      "description": "The twins believe a newly reported passage out of school is one they previously found behind the statue of Gregory the Smarmy.",
+      "evidence": [
+        "B01-C009-P0101",
+        "B01-C009-P0102"
+      ],
+      "certainty": "reported",
+      "temporal": "September 1991",
+      "model_notes": "Reported location; destination, statue floor and whether the newly found passage is the same remain unresolved."
+    },
+    {
+      "id": "B01-045",
+      "location": "Trophy room — access report",
+      "category": "interior",
+      "description": "Malfoy proposes the trophy room for midnight, claiming that it is always unlocked.",
+      "evidence": [
+        "B01-C009-P0109"
+      ],
+      "certainty": "reported",
+      "temporal": "September 1991",
+      "model_notes": "The general access claim comes from a deceptive invitation; later entry is observed but does not prove always-unlocked access."
+    },
+    {
+      "id": "B01-046",
+      "location": "Gryffindor portrait — absent keeper and changed password",
+      "category": "magic",
+      "description": "The Fat Lady’s absence on a nighttime visit leaves Hermione locked outside. Neville cannot enter because he forgot the changed password, now Pig snout. When the portrait occupant returns, the password opens the entrance.",
+      "evidence": [
+        "B01-C009-P0137",
+        "B01-C009-P0149",
+        "B01-C009-P0150",
+        "B01-C009-P0200",
+        "B01-C009-P0201",
+        "B01-C009-P0202"
+      ],
+      "certainty": "explicit",
+      "temporal": "Midnight expedition, September 1991",
+      "model_notes": "Access depends on both the keeper’s presence and the current password."
+    },
+    {
+      "id": "B01-047",
+      "location": "Night corridors to trophy room",
+      "category": "route",
+      "description": "High corridor windows cast bars of moonlight across the route. The pupils go up a staircase to the third floor and approach the trophy room.",
+      "evidence": [
+        "B01-C009-P0158"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991",
+      "model_notes": "Preserve the stated local ascent; the full route from the seventh-floor common room includes unspecified travel and must not be collapsed into one flight."
+    },
+    {
+      "id": "B01-048",
+      "location": "Trophy room",
+      "category": "interior",
+      "description": "Crystal trophy cases display silver- and gold-coloured cups, shields, plates and statues. Doors stand at either end, and Filch’s voice is first heard in the next room.",
+      "evidence": [
+        "B01-C009-P0159",
+        "B01-C009-P0161",
+        "B01-C009-P0162",
+        "B01-C009-P0163"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991",
+      "model_notes": "Through-room circulation and neighbouring room are explicit; which trophy items have which metal is not itemised."
+    },
+    {
+      "id": "B01-049",
+      "location": "Trophy room escape — armour gallery and tapestry passage",
+      "category": "route",
+      "description": "Leaving through the door away from Filch, the pupils reach a long gallery full of suits of armour. After a collision with one suit, they run through a doorway and successive corridors, through a tapestry into a hidden passage, and emerge near their Charms classroom, far from the trophy room.",
+      "evidence": [
+        "B01-C009-P0163",
+        "B01-C009-P0165",
+        "B01-C009-P0166",
+        "B01-C009-P0167",
+        "B01-C009-P0168"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991",
+      "model_notes": "Narrative says miles from the trophy room but supplies no measured length; no compass turns or intervening stairs are stated."
+    },
+    {
+      "id": "B01-050",
+      "location": "Charms corridor to forbidden third-floor corridor",
+      "category": "route",
+      "description": "Within about a dozen paces after regrouping near Charms, Peeves emerges from a classroom. The pupils flee to a locked door at the corridor’s end; Alohomora opens it onto the forbidden third-floor corridor.",
+      "evidence": [
+        "B01-C009-P0174",
+        "B01-C009-P0175",
+        "B01-C009-P0182",
+        "B01-C009-P0183",
+        "B01-C009-P0186",
+        "B01-C009-P0187",
+        "B01-C009-P0196"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991",
+      "model_notes": "Connects Charms-corridor end to restricted corridor. Its geometry and exact relation to the trophy room remain unresolved."
+    },
+    {
+      "id": "B01-051",
+      "location": "Forbidden corridor — dog guard",
+      "category": "temporary",
+      "description": "A monstrous three-headed dog stands in the forbidden corridor and fills the space from floor to ceiling; its growls are thunderous.",
+      "evidence": [
+        "B01-C009-P0196",
+        "B01-C009-P0197",
+        "B01-C009-P0198",
+        "B01-C009-P0199",
+        "B01-C009-P0200"
+      ],
+      "certainty": "explicit",
+      "temporal": "1991–92 protection of the Stone",
+      "model_notes": "A living obstruction for the Stone’s protection; apparent scale is relative to an unspecified corridor height."
+    },
+    {
+      "id": "B01-052",
+      "location": "Forbidden corridor — trapdoor report",
+      "category": "interior",
+      "description": "Hermione says the dog was standing on a trapdoor, and concludes that it is guarding something.",
+      "evidence": [
+        "B01-C009-P0206",
+        "B01-C009-P0207",
+        "B01-C009-P0208",
+        "B01-C009-P0213"
+      ],
+      "certainty": "reported",
+      "temporal": "September 1991 discovery",
+      "model_notes": "Trapdoor is Hermione’s observed report here; purpose is her deduction, not yet a verified chamber plan."
+    },
+    {
+      "id": "B01-053",
+      "location": "Gryffindor Tower — floor level",
+      "category": "route",
+      "description": "After fleeing the forbidden corridor, the pupils reach the Fat Lady’s portrait on the seventh floor and re-enter the common room.",
+      "evidence": [
+        "B01-C009-P0200",
+        "B01-C009-P0202"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991",
+      "model_notes": "Explicit entrance floor. Do not assign the tower bedroom the same level without accounting for its spiral stair."
+    },
+    {
+      "id": "B01-054",
+      "location": "Quidditch stadium",
+      "category": "grounds",
+      "description": "Hundreds of seats stand raised around the pitch so spectators can see the aerial game. At each end three golden poles terminate in hoops, described as fifty feet high.",
+      "evidence": [
+        "B01-C010-P0033",
+        "B01-C010-P0034"
+      ],
+      "certainty": "explicit",
+      "temporal": "Autumn 1991",
+      "model_notes": "Six goals, two ends, elevated spectators. No pitch outline, dimensions, individual stand count or roof is specified."
+    },
+    {
+      "id": "B01-055",
+      "location": "Quidditch pitch to castle",
+      "category": "route",
+      "description": "After practice Harry and Wood walk back up to the castle.",
+      "evidence": [
+        "B01-C010-P0066",
+        "B01-C010-P0067"
+      ],
+      "certainty": "explicit",
+      "temporal": "Autumn 1991",
+      "model_notes": "Supports a higher castle relative to the pitch approach; slope and distance are unspecified."
+    },
+    {
+      "id": "B01-056",
+      "location": "Great Hall — Hallowe’en decorations",
+      "category": "temporary",
+      "description": "A thousand live bats flutter about the walls and ceiling and another thousand swoop above the tables, disturbing candles in pumpkins. The feast appears on golden plates; baking-pumpkin scent fills corridors that morning.",
+      "evidence": [
+        "B01-C010-P0070",
+        "B01-C010-P0085",
+        "B01-C010-P0086"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1991 feast",
+      "model_notes": "Hallowe’en sensory and decorative state, not permanent ceiling fixtures."
+    },
+    {
+      "id": "B01-057",
+      "location": "Great Hall evacuation to girls’ toilets",
+      "category": "route",
+      "description": "Leaving the feast, pupils climb stairs. Harry and Ron double back with Hufflepuffs into a deserted side corridor, turn a corner and hide behind a large stone griffin. Following the next corridor, they see a troll approach from a passage on the left and enter the girls’ toilets.",
+      "evidence": [
+        "B01-C010-P0090",
+        "B01-C010-P0092",
+        "B01-C010-P0093",
+        "B01-C010-P0095",
+        "B01-C010-P0101",
+        "B01-C010-P0102",
+        "B01-C010-P0103",
+        "B01-C010-P0106",
+        "B01-C010-P0107",
+        "B01-C010-P0110",
+        "B01-C010-P0112",
+        "B01-C010-P0119"
+      ],
+      "certainty": "explicit",
+      "temporal": "Autumn 1991",
+      "model_notes": "Harry judges Snape to be heading for the third floor; this does not identify the toilets’ floor. The griffin is stone; it is not identified as a moving office entrance."
+    },
+    {
+      "id": "B01-058",
+      "location": "Girls’ toilets — door and fixtures",
+      "category": "interior",
+      "description": "The toilet chamber has a door with a key left in its lock, wall-mounted sinks and taps, metal plumbing, and toilets. A wall opposite the entrance is where Hermione shelters.",
+      "evidence": [
+        "B01-C010-P0113",
+        "B01-C010-P0115",
+        "B01-C010-P0119",
+        "B01-C010-P0121",
+        "B01-C010-P0122",
+        "B01-C010-P0123",
+        "B01-C010-P0125",
+        "B01-C010-P0126",
+        "B01-C010-P0139"
+      ],
+      "certainty": "explicit",
+      "temporal": "Autumn 1991",
+      "model_notes": "Key can lock the door externally. Do not add cubicles or assign this bathroom to a named ghost without evidence."
+    },
+    {
+      "id": "B01-059",
+      "location": "Girls’ toilets — troll damage",
+      "category": "temporary",
+      "description": "The troll knocks sinks off the walls, leaving a tap and metal pipe available to throw. Loud shouts and crashes echo, and its fall shakes the room.",
+      "evidence": [
+        "B01-C010-P0122",
+        "B01-C010-P0123",
+        "B01-C010-P0125",
+        "B01-C010-P0127",
+        "B01-C010-P0131",
+        "B01-C010-P0139"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1991 troll incident",
+      "model_notes": "Observed fixture damage and acoustics; no repair description or claim of permanent structural damage."
+    },
+    {
+      "id": "B01-060",
+      "location": "Girls’ toilets to Gryffindor Tower",
+      "category": "route",
+      "description": "After leaving the toilets Harry and Ron climb two floors before beginning to talk, then reach the Fat Lady and enter the crowded common room, where plates and the relocated feast are available.",
+      "evidence": [
+        "B01-C010-P0157",
+        "B01-C010-P0162",
+        "B01-C010-P0163",
+        "B01-C010-P0164"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1991, after the troll",
+      "model_notes": "Two floors is the ascent before conversation, not necessarily the complete ascent to the seventh-floor portrait."
+    },
+    {
+      "id": "B01-061",
+      "location": "Grounds — November landscape and pitch sightline",
+      "category": "temporary",
+      "description": "Mountains around the school turn icy grey, the lake resembles chilled steel and the ground frosts each morning. Upstairs castle windows overlook Hagrid defrosting brooms on the Quidditch pitch.",
+      "evidence": [
+        "B01-C011-P0001"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1991",
+      "model_notes": "Confirms surrounding mountains and a castle-to-pitch line of sight; no particular window or tower is named."
+    },
+    {
+      "id": "B01-062",
+      "location": "Courtyard",
+      "category": "grounds",
+      "description": "The pupils spend a break in a freezing courtyard, crossed by Snape. Hermione warms them with portable blue fire in a jam jar.",
+      "evidence": [
+        "B01-C011-P0006"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1991",
+      "model_notes": "Courtyard presence is explicit; plan, enclosing elevations and precise castle connection are unstated."
+    },
+    {
+      "id": "B01-063",
+      "location": "Gryffindor common room — window seating",
+      "category": "furnishing",
+      "description": "Harry, Ron and Hermione sit together beside a common-room window while doing homework.",
+      "evidence": [
+        "B01-C011-P0013"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1991",
+      "model_notes": "Confirms seating by at least one window, without an external view or window shape."
+    },
+    {
+      "id": "B01-064",
+      "location": "Gryffindor common room to staff room",
+      "category": "route",
+      "description": "Harry goes down from the common room to the staff room, whose door opens when pushed; he subsequently runs back upstairs.",
+      "evidence": [
+        "B01-C011-P0014",
+        "B01-C011-P0016",
+        "B01-C011-P0017",
+        "B01-C011-P0025",
+        "B01-C011-P0026"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1991",
+      "model_notes": "Staff room is lower than this departure point. No floor number, lock requirement or corridor turns supplied."
+    },
+    {
+      "id": "B01-065",
+      "location": "Quidditch stands and changing rooms",
+      "category": "interior",
+      "description": "The stands rise high around the pitch, with a top row and rows traversable behind seated or standing spectators. Teams change in changing rooms and walk out onto the pitch.",
+      "evidence": [
+        "B01-C011-P0042",
+        "B01-C011-P0043",
+        "B01-C011-P0044",
+        "B01-C011-P0055",
+        "B01-C011-P0056",
+        "B01-C011-P0107",
+        "B01-C011-P0113",
+        "B01-C011-P0114"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1991",
+      "model_notes": "Opposed stands are established by the cross-pitch view of Snape. No unsupported separate building or stand shape."
+    },
+    {
+      "id": "B01-066",
+      "location": "Quidditch stands — supporter banner",
+      "category": "temporary",
+      "description": "A banner high in the stands reads Potter for President above a Gryffindor lion; its painted colours flash magically.",
+      "evidence": [
+        "B01-C011-P0043",
+        "B01-C011-P0057"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1991 Gryffindor–Slytherin match",
+      "model_notes": "Match-specific decoration."
+    },
+    {
+      "id": "B01-067",
+      "location": "Hagrid’s hut — view of Quidditch",
+      "category": "route",
+      "description": "Hagrid says he had been watching the match from his hut before joining the crowd, carrying binoculars.",
+      "evidence": [
+        "B01-C011-P0070",
+        "B01-C011-P0071",
+        "B01-C011-P0073"
+      ],
+      "certainty": "reported",
+      "temporal": "November 1991",
+      "model_notes": "Reported hut-to-game sightline; does not establish that ground-level play or every goal is visible."
+    },
+    {
+      "id": "B01-068",
+      "location": "Forbidden corridor — Fluffy’s purpose",
+      "category": "temporary",
+      "description": "Hagrid confirms that the three-headed dog is his, named Fluffy, lent to Dumbledore to guard the secret object.",
+      "evidence": [
+        "B01-C011-P0125",
+        "B01-C011-P0127",
+        "B01-C011-P0129",
+        "B01-C011-P0135"
+      ],
+      "certainty": "reported",
+      "temporal": "1991–92 Stone protection",
+      "model_notes": "Character confirmation of the temporary guard arrangement; acquisition in a pub supplies no Hogwarts pub location."
     }
   ],
   "chapter_reviews": [
@@ -591,6 +1039,39 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter read. Telescope lesson has no stated tower location; none assigned from memory. Distinguish narrated door mechanisms from Harry’s armour/layout impressions."
+    },
+    {
+      "chapter": 9,
+      "reviewed_ranges": [
+        [
+          1,
+          214
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Retained both trophy-room and Charms-corridor route constraints without filling omitted transitions; trapdoor initially comes from Hermione’s report."
+    },
+    {
+      "chapter": 10,
+      "reviewed_ranges": [
+        [
+          1,
+          165
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. No unsupported toilet floor inferred from the two-floor ascent; no exact pitch shape inferred from the game."
+    },
+    {
+      "chapter": 11,
+      "reviewed_ranges": [
+        [
+          1,
+          137
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Recorded pitch viewpoints and stand circulation; pupils’ accusation about the broom jinx is not promoted to architectural fact."
     }
   ]
 }
