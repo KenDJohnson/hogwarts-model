@@ -924,6 +924,201 @@
       "certainty": "explicit",
       "temporal": "Second private lesson, October 1996",
       "model_notes": "Dated removal of a loose display object; the table remains. Window size, count and bearing unspecified."
+    },
+    {
+      "id": "B06-065",
+      "location": "Vegetable patch–greenhouses route",
+      "category": "route",
+      "description": "The route to Herbology crosses a vegetable patch before the greenhouses. Returning mist makes finding the correct greenhouse slower than usual.",
+      "evidence": [
+        "B06-C014-P0001"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October–autumn 1996",
+      "model_notes": "Grounds waypoint and limited visibility; greenhouse count, numbering and patch position relative to castle unspecified."
+    },
+    {
+      "id": "B06-066",
+      "location": "Greenhouse Snargaluff project",
+      "category": "temporary",
+      "description": "Students work in groups around gnarled Snargaluff stumps. A stump sends long thorny bramble-like vines out of its top; a central opening contracts around an inserted arm. Removing a pulsating green grapefruit-sized pod makes the vines retract, leaving a dead-looking stump.",
+      "evidence": [
+        "B06-C014-P0002",
+        "B06-C014-P0010",
+        "B06-C014-P0013",
+        "B06-C014-P0014",
+        "B06-C014-P0032",
+        "B06-C014-P0034"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October–autumn 1996",
+      "model_notes": "Term-specific plant installation and animation states. Do not model the apparently dead stump without its active volume."
+    },
+    {
+      "id": "B06-067",
+      "location": "Greenhouse glass and work equipment",
+      "category": "furnishing",
+      "description": "The greenhouse has glass sides against which a thrown pod rebounds. Work equipment includes protective gloves/goggles, gum shields, secateurs, bowls and a trowel used to process pods.",
+      "evidence": [
+        "B06-C014-P0002",
+        "B06-C014-P0003",
+        "B06-C014-P0006",
+        "B06-C014-P0007",
+        "B06-C014-P0014",
+        "B06-C014-P0016",
+        "B06-C014-P0019",
+        "B06-C014-P0021",
+        "B06-C014-P0027",
+        "B06-C014-P0029",
+        "B06-C014-P0030",
+        "B06-C014-P0031"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October–autumn 1996",
+      "model_notes": "Glass envelope and movable class equipment, not a precise greenhouse plan or proof of workbench geometry."
+    },
+    {
+      "id": "B06-068",
+      "location": "Transfiguration classroom conjured birds",
+      "category": "temporary",
+      "description": "After Transfiguration, several conjured yellow birds continue flying and twittering around the classroom, with droppings falling from above.",
+      "evidence": [
+        "B06-C014-P0037",
+        "B06-C014-P0042"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October–autumn 1996",
+      "model_notes": "Lesson aftermath and animated state; no fixed bird population."
+    },
+    {
+      "id": "B06-069",
+      "location": "Quidditch changing room",
+      "category": "interior",
+      "description": "The team uses a changing room before and after playing; it has a door and a place for Harry to hang up his robes.",
+      "evidence": [
+        "B06-C014-P0053",
+        "B06-C014-P0054",
+        "B06-C014-P0135",
+        "B06-C014-P0170",
+        "B06-C014-P0172",
+        "B06-C014-P0175",
+        "B06-C014-P0185",
+        "B06-C014-P0188"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October–autumn 1996",
+      "model_notes": "Support room connected with pitch activity; no locker, bench, shower or exact entrance placement is specified."
+    },
+    {
+      "id": "B06-070",
+      "location": "Second-floor tapestry shortcut to Gryffindor",
+      "category": "route",
+      "description": "Returning from Quidditch to the castle, Harry and Ron reach the second floor and push aside a tapestry to use their usual shortcut up to Gryffindor Tower. Behind it is a corridor. They later hurry up stairs and along a seventh-floor corridor to the Fat Lady, then climb into the common room.",
+      "evidence": [
+        "B06-C014-P0056",
+        "B06-C014-P0062",
+        "B06-C014-P0079",
+        "B06-C014-P0082",
+        "B06-C014-P0083",
+        "B06-C014-P0084",
+        "B06-C014-P0087",
+        "B06-C014-P0090"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October–autumn 1996",
+      "model_notes": "Connect second-floor tapestry to a route ending at seventh-floor portrait entrance. The shortcut’s internal stair/floor sequence is not completely narrated; P0086 is Harry’s fantasy and adds no geometry."
+    },
+    {
+      "id": "B06-071",
+      "location": "Harry’s dormitory four-poster",
+      "category": "furnishing",
+      "description": "Harry lies in a four-poster bed with a canopy overhead and a pillow he can rearrange.",
+      "evidence": [
+        "B06-C014-P0092",
+        "B06-C014-P0094"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October–autumn 1996",
+      "model_notes": "Bed type and canopy, without fabric colour or dimensions in this passage."
+    },
+    {
+      "id": "B06-072",
+      "location": "First match frost and house colours",
+      "category": "temporary",
+      "description": "Frosty grass crunches on the walk down to the stadium and the pitch ground is frozen. One stadium end is filled with red-and-gold supporters and the other with green-and-silver supporters under a clear blue sky.",
+      "evidence": [
+        "B06-C014-P0109",
+        "B06-C014-P0110",
+        "B06-C014-P0132",
+        "B06-C014-P0145",
+        "B06-C014-P0148",
+        "B06-C014-P0163"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Gryffindor–Slytherin match, autumn 1996",
+      "model_notes": "Seasonal surface and crowd arrangement; colours are supporters’ display, not proof of permanent stand decoration."
+    },
+    {
+      "id": "B06-073",
+      "location": "Quidditch commentator podium",
+      "category": "furnishing",
+      "description": "The commentator stands on a podium and speaks through a magical megaphone. Harry can look towards it from his broom over the playing area.",
+      "evidence": [
+        "B06-C014-P0149",
+        "B06-C014-P0150",
+        "B06-C014-P0151"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Gryffindor–Slytherin match, autumn 1996",
+      "model_notes": "Location within viewing range of flight/pitch; no height or exact side specified. P0149’s “grounds” should not be expanded into an unsupported entire-school flyover."
+    },
+    {
+      "id": "B06-074",
+      "location": "Commentator podium collision damage",
+      "category": "temporary",
+      "description": "Ginny crashes into the commentator’s podium, reducing it to wooden wreckage with Zacharias beneath it; the team lands beside the wreckage.",
+      "evidence": [
+        "B06-C014-P0168"
+      ],
+      "certainty": "explicit",
+      "temporal": "End of first Gryffindor–Slytherin match, autumn 1996",
+      "model_notes": "Establishes wood construction and dated destruction. No subsequent repair is yet described."
+    },
+    {
+      "id": "B06-075",
+      "location": "Gryffindor victory party",
+      "category": "temporary",
+      "description": "A crowded common-room celebration includes a drinks table and Butterbeer. People in a corner are in full view of the room.",
+      "evidence": [
+        "B06-C014-P0190",
+        "B06-C014-P0191",
+        "B06-C014-P0192",
+        "B06-C014-P0194",
+        "B06-C014-P0195"
+      ],
+      "certainty": "explicit",
+      "temporal": "After first Gryffindor–Slytherin match, autumn 1996",
+      "model_notes": "Temporary party furnishing and visibility within room, not a complete room-wide isovist or permanent bar."
+    },
+    {
+      "id": "B06-076",
+      "location": "Unnamed classroom near Gryffindor route",
+      "category": "interior",
+      "description": "After leaving the Fat Lady’s portrait into a deserted corridor, Harry finds Hermione in the first unlocked classroom he tries. It has a teacher’s desk and a swinging door; a small conjured flock circles her head and later attacks Ron.",
+      "evidence": [
+        "B06-C014-P0196",
+        "B06-C014-P0198",
+        "B06-C014-P0204",
+        "B06-C014-P0206",
+        "B06-C014-P0208",
+        "B06-C014-P0210",
+        "B06-C014-P0211",
+        "B06-C014-P0212",
+        "B06-C014-P0213"
+      ],
+      "certainty": "explicit",
+      "temporal": "After first Gryffindor–Slytherin match, autumn 1996",
+      "model_notes": "An accessible unnamed classroom along Harry’s search route. “First unlocked” does not establish that it is the first door or immediately adjacent to the portrait; floor number not explicitly repeated."
     }
   ],
   "chapter_reviews": [
@@ -1069,6 +1264,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read every paragraph in two blocks, including full orphanage memory and all explanatory dialogue. Recorded office light/projection, named portrait behaviour, windows and removed ring. Historical King’s Cross school travel combined with route evidence; orphanage and seaside cave are not Hogwarts surroundings."
+    },
+    {
+      "chapter": 14,
+      "reviewed_ranges": [
+        [
+          1,
+          213
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks. Captured vegetable/greenhouse approach and active plants, classroom aftermath, second-floor tapestry shortcut to seventh-floor Gryffindor entrance, four-poster, changing room, frosty match state, wooden podium destruction, victory party and unnamed classroom. Harry’s imagined kissing scene adds no new architecture."
     }
   ]
 }
