@@ -15,6 +15,64 @@
       "certainty": "reported",
       "temporal": "Lupin’s teaching year, recalled July 1997",
       "model_notes": "Recollection used for an identity check and accepted by Lupin; establishes tank-to-corner relationship but no size, window, floor or later survival of the fixture."
+    },
+    {
+      "id": "B07-002",
+      "location": "Secluded corners of Hogwarts grounds",
+      "category": "grounds",
+      "description": "Harry recalls private hours with Ginny in secluded corners of the school grounds.",
+      "evidence": [
+        "B07-C006-P0037"
+      ],
+      "certainty": "explicit",
+      "temporal": "July 1997 recollection",
+      "model_notes": "Narrated memory of outdoor privacy/concealment opportunities; no named corner, wall, planting type or exact spot is described."
+    },
+    {
+      "id": "B07-003",
+      "location": "Hagrid front garden burial recollection",
+      "category": "history",
+      "description": "Harry recalls Barty Crouch being Transfigured into a bone and buried in Hagrid’s front garden.",
+      "evidence": [
+        "B07-C006-P0078",
+        "B07-C006-P0079",
+        "B07-C006-P0080"
+      ],
+      "certainty": "reported",
+      "temporal": "July 1997 recollection",
+      "model_notes": "Reported recollection, not a visible grave or current inspection. Parent should reconcile this wording with the original event’s evidence; no marker, exact position or remaining bone is described."
+    },
+    {
+      "id": "B07-004",
+      "location": "Library Horcrux books removed to Headmaster study",
+      "category": "furnishing",
+      "description": "Hermione says Dumbledore removed all Horcrux books from the library shelves without destroying them, keeping them in his study. One recovered volume, Secrets of the Darkest Art, is large and bound in faded black leather.",
+      "evidence": [
+        "B07-C006-P0155",
+        "B07-C006-P0156",
+        "B07-C006-P0159",
+        "B07-C006-P0161",
+        "B07-C006-P0166",
+        "B07-C006-P0167"
+      ],
+      "certainty": "reported",
+      "temporal": "July 1997 recollection",
+      "model_notes": "Collection/storage state before funeral and subsequent removal; exact office shelf/cabinet is not identified and the time of original removal is explicitly uncertain."
+    },
+    {
+      "id": "B07-005",
+      "location": "Headmaster study window–Gryffindor girls’ dormitory",
+      "category": "route",
+      "description": "Hermione reports Summoning the removed books after Dumbledore’s funeral: they flew out of his study window and into the girls’ dormitory through its open window, where she packed them.",
+      "evidence": [
+        "B07-C006-P0161",
+        "B07-C006-P0162",
+        "B07-C006-P0163",
+        "B07-C006-P0164"
+      ],
+      "certainty": "reported",
+      "temporal": "Immediately after June 1997 funeral, reported July 1997",
+      "model_notes": "Exterior aerial connection and opening dormitory window. No window-to-window distance, compass bearing or full flight path specified; do not assume adjacent rooms."
     }
   ],
   "chapter_reviews": [
@@ -72,6 +130,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two blocks. Recorded remembered corner tank in Lupin’s school office. Tonks safe-house, Burrow, aerial route, wounds and Ollivander vision are outside Hogwarts site; protected hundred-yard safe-house boundary must not be assigned to Hogwarts."
+    },
+    {
+      "chapter": 6,
+      "reviewed_ranges": [
+        [
+          1,
+          226
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks, including full planning/Horcrux discussion. Captured secluded school grounds recollection, reported Crouch front-garden burial, removed library collection and study-to-girls-dormitory window flight. Burrow ghoul/attic/security and garden preparations are off site and excluded."
     }
   ]
 }
