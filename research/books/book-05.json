@@ -393,6 +393,246 @@
       "certainty": "explicit",
       "temporal": "1 September 1995 start-of-term feast and night",
       "model_notes": "Temporary torn curtains are repaired in the same scene; no window size or exact count follows from the moonlight."
+    },
+    {
+      "id": "B05-029",
+      "location": "Gryffindor noticeboard",
+      "category": "temporary",
+      "description": "A recruitment notice for the twins’ paid experiments covers a poster announcing October’s first Hogsmeade weekend; Hermione removes the top notice.",
+      "evidence": [
+        "B05-C012-P0007",
+        "B05-C012-P0008",
+        "B05-C012-P0009",
+        "B05-C012-P0010",
+        "B05-C012-P0011",
+        "B05-C012-P0012"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Layered removable notices on the common-room board."
+    },
+    {
+      "id": "B05-030",
+      "location": "Gryffindor to breakfast route",
+      "category": "route",
+      "description": "After climbing out of the portrait hole, the friends descend a staircase lined with talking portraits of old witches and wizards, then reach the foot of the marble staircase in the Entrance Hall and enter the Great Hall.",
+      "evidence": [
+        "B05-C012-P0015",
+        "B05-C012-P0017",
+        "B05-C012-P0034",
+        "B05-C012-P0036"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Sequence does not establish that the portrait-lined flight is the marble stair itself."
+    },
+    {
+      "id": "B05-031",
+      "location": "Great Hall breakfast weather and owl entry",
+      "category": "interior",
+      "description": "The enchanted ceiling is rain-cloud grey; pupils sit on benches. Hundreds of owls enter through upper windows to deliver post, scattering rainwater over breakfast tables.",
+      "evidence": [
+        "B05-C012-P0036",
+        "B05-C012-P0049",
+        "B05-C012-P0050",
+        "B05-C012-P0052",
+        "B05-C012-P0058"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Upper windows are functioning owl entrances; seasonal wet state."
+    },
+    {
+      "id": "B05-032",
+      "location": "History of Magic classroom",
+      "category": "magic",
+      "description": "Binns leaves his classroom by drifting through its blackboard.",
+      "evidence": [
+        "B05-C012-P0106"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Confirms a blackboard and nonphysical ghost traversal; not a passage for living pupils."
+    },
+    {
+      "id": "B05-033",
+      "location": "Courtyard after History of Magic",
+      "category": "exterior",
+      "description": "After leaving History of Magic, the friends go into a damp courtyard, choosing a secluded corner below a heavily dripping balcony in misty September drizzle.",
+      "evidence": [
+        "B05-C012-P0110",
+        "B05-C012-P0111",
+        "B05-C012-P0122"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Courtyard has a corner and overhead balcony; adjacency to classroom is a travelled route without a stated intervening distance."
+    },
+    {
+      "id": "B05-034",
+      "location": "Courtyard to Potions",
+      "category": "route",
+      "description": "At the lesson bell they travel down to Snape’s dungeon and queue outside the classroom door before entering.",
+      "evidence": [
+        "B05-C012-P0133",
+        "B05-C012-P0134"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Descending route from the courtyard; floors unspecified."
+    },
+    {
+      "id": "B05-035",
+      "location": "Potions dungeon workspaces",
+      "category": "interior",
+      "description": "Harry, Ron and Hermione use their usual table at the back, with Hermione to Harry’s left; Slytherins sit at the front. Snape has a desk, a blackboard and an ingredient store cupboard with a door that he opens by wand.",
+      "evidence": [
+        "B05-C012-P0134",
+        "B05-C012-P0137",
+        "B05-C012-P0142",
+        "B05-C012-P0147",
+        "B05-C012-P0162",
+        "B05-C012-P0163"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Seating is observed for this class; cupboard is not assumed to be Snape’s private store."
+    },
+    {
+      "id": "B05-036",
+      "location": "Potions dungeon lesson atmosphere",
+      "category": "temporary",
+      "description": "Cauldrons simmer over controllable flames. Grey steam, green sparks and silver mist rise from different mixtures; multi-coloured vapour makes the blackboard difficult to read. Goyle’s sample flagon reportedly shatters and sets his clothes alight.",
+      "evidence": [
+        "B05-C012-P0143",
+        "B05-C012-P0145",
+        "B05-C012-P0153",
+        "B05-C012-P0163",
+        "B05-C012-P0164"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Fire incident is Hermione’s report within an otherwise observed lesson; avoid permanent scorch damage not stated."
+    },
+    {
+      "id": "B05-037",
+      "location": "Great Hall storm and route upward",
+      "category": "route",
+      "description": "After Potions Harry lunches in the Hall beneath a darker grey ceiling with rain lashing high windows; he then climbs the marble staircase.",
+      "evidence": [
+        "B05-C012-P0163",
+        "B05-C012-P0170",
+        "B05-C012-P0171"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Repeat weather description and concrete travel segment."
+    },
+    {
+      "id": "B05-038",
+      "location": "Sir Cadogan landing portraits",
+      "category": "furnishing",
+      "description": "A large portrait of Sir Cadogan occupies a landing on Harry’s upward route; its knight tries entering the neighbouring portrait but is repelled by the large wolfhound inhabiting it.",
+      "evidence": [
+        "B05-C012-P0172",
+        "B05-C012-P0173"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Picture-to-picture character movement does not establish a human doorway."
+    },
+    {
+      "id": "B05-039",
+      "location": "North Tower Divination approach",
+      "category": "route",
+      "description": "Harry waits beneath a trapdoor at the top of North Tower, then climbs the silver ladder into Trelawney’s classroom; the class descends that ladder afterward.",
+      "evidence": [
+        "B05-C012-P0174",
+        "B05-C012-P0175",
+        "B05-C012-P0191"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Top-of-tower access, distinct from unspecified earlier stairs."
+    },
+    {
+      "id": "B05-040",
+      "location": "Divination classroom fittings",
+      "category": "interior",
+      "description": "Spindly small tables carry battered leather-bound books. Scarves cover the lamps, and a low sickly-scented fire supplies little light. Tables, chairs and overstuffed pouffes impede direct paths across the room.",
+      "evidence": [
+        "B05-C012-P0175",
+        "B05-C012-P0183",
+        "B05-C012-P0186"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Retain dim shadowed seating and crowded circulation."
+    },
+    {
+      "id": "B05-041",
+      "location": "Defence classroom under Umbridge",
+      "category": "furnishing",
+      "description": "Umbridge sits behind the teacher’s desk; she writes magically on a blackboard. Pupils have seats including stools and a chair Harry kicks aside; their work uses quills, ink and parchment.",
+      "evidence": [
+        "B05-C012-P0193",
+        "B05-C012-P0199",
+        "B05-C012-P0200",
+        "B05-C012-P0205",
+        "B05-C012-P0214",
+        "B05-C012-P0269",
+        "B05-C012-P0273",
+        "B05-C012-P0286",
+        "B05-C012-P0287"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Specific stool and chair observations do not establish uniform classroom seating."
+    },
+    {
+      "id": "B05-042",
+      "location": "Defence classroom to McGonagall’s office",
+      "category": "route",
+      "description": "Harry exits Defence, follows a corridor, turns a corner and runs down the nearest staircase with a banister. McGonagall emerges from an office door to his left.",
+      "evidence": [
+        "B05-C012-P0289",
+        "B05-C012-P0293",
+        "B05-C012-P0298"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Observed sequence includes an evasive detour from Peeves; not necessarily the shortest route or proof of one-floor separation."
+    },
+    {
+      "id": "B05-043",
+      "location": "Corridor ink damage",
+      "category": "temporary",
+      "description": "Peeves drops two inkwells in the corridor near Defence, smashing them and splattering ink on the walls.",
+      "evidence": [
+        "B05-C012-P0289",
+        "B05-C012-P0290"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Temporary local mess; no repair described."
+    },
+    {
+      "id": "B05-044",
+      "location": "McGonagall’s study",
+      "category": "interior",
+      "description": "The study door closes automatically behind Harry. McGonagall sits at a desk piled with papers and a tartan biscuit tin, with a visitor’s chair opposite. Student movement can be heard overhead and around the office when the bell rings.",
+      "evidence": [
+        "B05-C012-P0304",
+        "B05-C012-P0313",
+        "B05-C012-P0315",
+        "B05-C012-P0316",
+        "B05-C012-P0323",
+        "B05-C012-P0339",
+        "B05-C012-P0340"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Do not infer a precise floor from overhead footfalls; automatic closing is observed without its mechanism."
     }
   ],
   "chapter_reviews": [
@@ -516,6 +756,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs, including complete Sorting song, speeches, route and dormitory argument. The song’s four pillars are a metaphor for houses, not four architectural columns."
+    },
+    {
+      "chapter": 12,
+      "reviewed_ranges": [
+        [
+          1,
+          340
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three untruncated chunks, including lessons, full classroom argument and office conversation."
     }
   ]
 }
