@@ -3142,6 +3142,168 @@
       "certainty": "inference",
       "temporal": "Night after tower attack, June 1997",
       "model_notes": "Cessation is observed; permanent departure is Harry’s unverified conviction here, not a followed flight. Empty office perch is independently seen at P0125."
+    },
+    {
+      "id": "B06-202",
+      "location": "Forest-edge visiting carriage",
+      "category": "temporary",
+      "description": "A house-sized powder-blue carriage pulled by twelve giant winged palominos flies in and lands at the Forest edge. A castle window gives Harry a view of the arrival and Madame Maxime descending its steps.",
+      "evidence": [
+        "B06-C030-P0002"
+      ],
+      "certainty": "explicit",
+      "temporal": "Afternoon before funeral, June 1997",
+      "model_notes": "Temporary visitor vehicle footprint and Forest-edge landing; no exact distance from cabin or earlier tournament parking site established."
+    },
+    {
+      "id": "B06-203",
+      "location": "Gryffindor common-room open window view",
+      "category": "route",
+      "description": "Seated beside an open common-room window, the group looks out over the twilit grounds.",
+      "evidence": [
+        "B06-C030-P0006",
+        "B06-C030-P0013",
+        "B06-C030-P0014",
+        "B06-C030-P0031"
+      ],
+      "certainty": "explicit",
+      "temporal": "Evening before funeral, June 1997",
+      "model_notes": "Window can open, unlike a purely painted view; girls’ dormitory door is within the same scene. No compass bearing."
+    },
+    {
+      "id": "B06-204",
+      "location": "Great Hall central throne chair",
+      "category": "furnishing",
+      "description": "A throne-like chair occupies the middle of the staff table and is left empty for Dumbledore; Hagrid’s chair is empty too, while Scrimgeour occupies Snape’s former place.",
+      "evidence": [
+        "B06-C030-P0043"
+      ],
+      "certainty": "explicit",
+      "temporal": "Dumbledore funeral, June 1997",
+      "model_notes": "Chair type and central placement are permanent-geometry evidence; occupancy is specific to funeral breakfast."
+    },
+    {
+      "id": "B06-205",
+      "location": "Great Hall–lakeshore ceremony route",
+      "category": "route",
+      "description": "Students file from the Great Hall benches through the Entrance Hall and front doors onto the stone steps, then follow their Heads of House towards the lake.",
+      "evidence": [
+        "B06-C030-P0045",
+        "B06-C030-P0046",
+        "B06-C030-P0047",
+        "B06-C030-P0048",
+        "B06-C030-P0050"
+      ],
+      "certainty": "explicit",
+      "temporal": "Dumbledore funeral, June 1997",
+      "model_notes": "Explicit ceremonial approach from main entrance; no underground or alternate exit involved."
+    },
+    {
+      "id": "B06-206",
+      "location": "Lakeside funeral chair layout",
+      "category": "temporary",
+      "description": "Hundreds of chairs are arranged in rows beside the lake, divided by a central aisle and all facing a marble table at the front. The group takes seats at a row end beside the water; Hagrid later walks up the aisle with the wrapped body and goes to Grawp in the back row.",
+      "evidence": [
+        "B06-C030-P0048",
+        "B06-C030-P0049",
+        "B06-C030-P0050",
+        "B06-C030-P0051",
+        "B06-C030-P0052",
+        "B06-C030-P0055",
+        "B06-C030-P0056",
+        "B06-C030-P0057"
+      ],
+      "certainty": "explicit",
+      "temporal": "Dumbledore funeral, June 1997",
+      "model_notes": "Temporary ceremony plan and lake adjacency; no exact row/chair count. Body is wrapped in purple velvet with golden stars; Hagrid’s chair legs sink into the ground when Grawp pats him."
+    },
+    {
+      "id": "B06-207",
+      "location": "Castle ghosts in bright sunlight",
+      "category": "magic",
+      "description": "Castle ghosts attend the outdoor funeral but are barely visible in bright sun, becoming discernible when they move and shimmer in the air.",
+      "evidence": [
+        "B06-C030-P0049"
+      ],
+      "certainty": "explicit",
+      "temporal": "Dumbledore funeral, June 1997",
+      "model_notes": "Rendering constraint for ghost appearance under strong daylight, not proof they are absent or immaterial only in sunlight."
+    },
+    {
+      "id": "B06-208",
+      "location": "Merpeople funeral chorus by shore",
+      "category": "grounds",
+      "description": "A chorus of pallid-faced merpeople with purplish flowing hair sings inches below the clear green sunlit lake surface. They later break the surface to listen, on Harry’s left, then sink and vanish. Harry recalls Dumbledore speaking to the Merchieftainess at a nearby waterside spot two years earlier.",
+      "evidence": [
+        "B06-C030-P0053",
+        "B06-C030-P0054",
+        "B06-C030-P0058",
+        "B06-C030-P0063"
+      ],
+      "certainty": "explicit",
+      "temporal": "Dumbledore funeral, June 1997",
+      "model_notes": "Underwater near-surface appearance and access to shore; no lake-bottom terrain described. Left is relative to Harry’s seated orientation, not a compass direction; recalled conversation locates an approximate prior shoreline event."
+    },
+    {
+      "id": "B06-209",
+      "location": "Funeral view across lake to centaur woods",
+      "category": "route",
+      "description": "From his lakeside seat Harry looks out over the lake towards the Forest and sees centaurs standing still among the trees, half-hidden in shade with bows lowered. They do not enter the open; their farewell arrows fall well short of the crowd before they retreat.",
+      "evidence": [
+        "B06-C030-P0059",
+        "B06-C030-P0063"
+      ],
+      "certainty": "explicit",
+      "temporal": "Dumbledore funeral, June 1997",
+      "model_notes": "Lake–Forest sightline and shaded tree edge; no measured arrow range, village or centaur settlement."
+    },
+    {
+      "id": "B06-210",
+      "location": "White marble tomb formation",
+      "category": "magic",
+      "description": "White flames envelop Dumbledore’s body and the marble table; rising white smoke briefly seems phoenix-shaped to Harry. When the fire vanishes, a white marble tomb encases both body and table.",
+      "evidence": [
+        "B06-C030-P0055",
+        "B06-C030-P0056",
+        "B06-C030-P0061",
+        "B06-C030-P0062"
+      ],
+      "certainty": "explicit",
+      "temporal": "Dumbledore funeral, June 1997",
+      "model_notes": "Permanent tomb formed during a dated magical event. No exact dimensions, inscription, ornament, lid seam or confirmed real phoenix appears in this passage."
+    },
+    {
+      "id": "B06-211",
+      "location": "Tomb–lake bank–beech tree route",
+      "category": "route",
+      "description": "Harry turns away from the tomb and walks around the lake bank. Ron and Hermione catch him in the shade of a familiar beech tree; from there the castle is visible above and the white tomb is reflected in water on the other side of the lake.",
+      "evidence": [
+        "B06-C030-P0076",
+        "B06-C030-P0078",
+        "B06-C030-P0080",
+        "B06-C030-P0085",
+        "B06-C030-P0106",
+        "B06-C030-P0112",
+        "B06-C030-P0121",
+        "B06-C030-P0122"
+      ],
+      "certainty": "explicit",
+      "temporal": "Dumbledore funeral, June 1997",
+      "model_notes": "Critical relative placement across water after a shore walk. Avoid assigning a compass shore or assuming a straight path; bird song and Hagrid’s later howls carry across the water."
+    },
+    {
+      "id": "B06-212",
+      "location": "Funeral travel and accommodation state",
+      "category": "temporary",
+      "description": "Visitors fill Hogsmeade lodging, Ministry officials are accommodated in the castle, and the Hogwarts Express is scheduled to leave one hour after the funeral. Lessons are suspended and examinations postponed.",
+      "evidence": [
+        "B06-C030-P0001",
+        "B06-C030-P0002",
+        "B06-C030-P0043"
+      ],
+      "certainty": "explicit",
+      "temporal": "Dumbledore funeral, June 1997",
+      "model_notes": "Dated occupancy, school use and departure timetable; no invented guest-room locations or special train platform changes."
     }
   ],
   "chapter_reviews": [
@@ -3463,6 +3625,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two blocks, including all battle reconstruction and staff discussions. Captured ward arrangement/approach, lament, reported patrols and darkness/cursed-stair mechanics, office route/succession/portraits/views, password exception and inferred phoenix departure. Marked witnessed report versus causal guesses; no false death assigned to Bill or Neville."
+    },
+    {
+      "chapter": 30,
+      "reviewed_ranges": [
+        [
+          1,
+          133
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete final chapter in two blocks. Captured Forest-edge carriage landing/view, opening common-room window, central staff throne, ceremonial route and rows, daylight ghost visibility, merpeople water/shore state, Forest sightline/centaur tribute, white tomb creation and later beech/tree/tomb reflection relationship, and travel/occupancy state. Figurative dark paths and dream rope ladder are not literal Hogwarts routes."
     }
   ]
 }
