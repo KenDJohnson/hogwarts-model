@@ -2066,6 +2066,249 @@
       "certainty": "explicit",
       "temporal": "May 1998, near four in the morning during the ceasefire",
       "model_notes": "Local staging for this confrontation, no fixed camp architecture. Tree species, direction and precise separation are unstated."
+    },
+    {
+      "id": "B07-124",
+      "location": "Forest clearing → thinning trees → outer edge",
+      "category": "route",
+      "description": "Harry lies on cold hard ground in the clearing, then Hagrid carries him through close-growing trees whose branches catch his hair and robes. The two following giants knock trees over, disturbing shrieking birds. The trees gradually thin towards open ground; centaurs watch before the party reaches the fresh air of the edge, where Dementors patrol the outer trees.",
+      "evidence": [
+        "B07-C036-P0001",
+        "B07-C036-P0008",
+        "B07-C036-P0012",
+        "B07-C036-P0021",
+        "B07-C036-P0024",
+        "B07-C036-P0025",
+        "B07-C036-P0028",
+        "B07-C036-P0029",
+        "B07-C036-P0030",
+        "B07-C036-P0031",
+        "B07-C036-P0032",
+        "B07-C036-P0033",
+        "B07-C036-P0034",
+        "B07-C036-P0035"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Return-route vegetation gradient and dated tree destruction; Hagrid’s words establish watching centaurs without a witnessed number."
+    },
+    {
+      "id": "B07-125",
+      "location": "Forest edge → castle front lawn and steps",
+      "category": "route",
+      "description": "Voldemort magnifies his voice through the grounds from the Forest edge, then leads the procession towards the castle. The Death Eaters form a line facing its open front doors, lit red by light from the Entrance Hall; defenders fill the doorway and front steps. Harry is lowered onto grass at Voldemort’s feet between the opposing groups.",
+      "evidence": [
+        "B07-C036-P0033",
+        "B07-C036-P0034",
+        "B07-C036-P0035",
+        "B07-C036-P0036",
+        "B07-C036-P0037",
+        "B07-C036-P0038",
+        "B07-C036-P0039",
+        "B07-C036-P0040",
+        "B07-C036-P0042",
+        "B07-C036-P0043",
+        "B07-C036-P0044",
+        "B07-C036-P0046",
+        "B07-C036-P0051",
+        "B07-C036-P0052",
+        "B07-C036-P0053",
+        "B07-C036-P0056",
+        "B07-C036-P0060"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Front lawn, lit Hall sightline and open staging, without measured distances. Nagini has been released from her protective sphere and rides Voldemort’s shoulders."
+    },
+    {
+      "id": "B07-126",
+      "location": "Castle window / Sorting Hat during confrontation",
+      "category": "temporary",
+      "description": "Voldemort summons the ragged, empty, mildewed Sorting Hat from a shattered castle window, places it on Neville and ignites it. Neville breaks free of his binding curse and draws a silver sword with a glittering rubied handle from the flaming Hat, then beheads Nagini.",
+      "evidence": [
+        "B07-C036-P0065",
+        "B07-C036-P0066",
+        "B07-C036-P0067",
+        "B07-C036-P0068",
+        "B07-C036-P0069",
+        "B07-C036-P0071",
+        "B07-C036-P0072",
+        "B07-C036-P0073"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Air route of a summoned object, not proof of office window location. Announced abolition of houses is Voldemort’s intention, not an observed redecoration."
+    },
+    {
+      "id": "B07-127",
+      "location": "School boundary / grounds counterattack",
+      "category": "temporary",
+      "description": "Uproar comes from the distant, out-of-sight boundary walls as what sounds like hundreds climb over and run towards the castle. Grawp rounds the castle side; enemy giants rush him while charging centaurs fire arrows. Thestrals and Buckbeak attack the giants’ eyes from the air, and the fighters are driven back into the castle.",
+      "evidence": [
+        "B07-C036-P0071",
+        "B07-C036-P0073",
+        "B07-C036-P0074",
+        "B07-C036-P0075",
+        "B07-C036-P0076",
+        "B07-C036-P0078"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Wall crossing is initially heard and interpreted rather than seen. Later arrivals appear to include Hogsmeade residents and fighters’ families under Charlie and Slughorn; no particular gate used is stated."
+    },
+    {
+      "id": "B07-128",
+      "location": "Front steps → Entrance Hall → Great Hall / kitchen route",
+      "category": "route",
+      "description": "The crowd enters through the front doors and Harry is swept into the Entrance Hall, where Voldemort backs across into the Great Hall. Further reinforcements climb the front steps, centaurs enter, and the door leading to the kitchens is blasted off its hinges as armed house-elves swarm into the Entrance Hall.",
+      "evidence": [
+        "B07-C036-P0076",
+        "B07-C036-P0077",
+        "B07-C036-P0078",
+        "B07-C036-P0079",
+        "B07-C036-P0080",
+        "B07-C036-P0081",
+        "B07-C036-P0082"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Kitchen-route door connects with the Entrance Hall circulation, but does not establish that the kitchen room itself directly adjoins it without intervening stairs/passages."
+    },
+    {
+      "id": "B07-129",
+      "location": "Great Hall / final duels and floor damage",
+      "category": "temporary",
+      "description": "Crowds fill the Great Hall and hundreds line its walls around the last two fights. Voldemort and Bellatrix duel about fifty yards apart. Hagrid throws Macnair against a stone wall. Molly and Bellatrix’s spells heat and crack the floor around their feet.",
+      "evidence": [
+        "B07-C036-P0081",
+        "B07-C036-P0082",
+        "B07-C036-P0083",
+        "B07-C036-P0084",
+        "B07-C036-P0085",
+        "B07-C036-P0086",
+        "B07-C036-P0088",
+        "B07-C036-P0089",
+        "B07-C036-P0091",
+        "B07-C036-P0095",
+        "B07-C036-P0096",
+        "B07-C036-P0097",
+        "B07-C036-P0098",
+        "B07-C036-P0099"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Fifty-yard distance is between duellists in this scene, establishing a substantial room span but not its exact length or width."
+    },
+    {
+      "id": "B07-130",
+      "location": "Great Hall / dawn window and enchanted ceiling",
+      "category": "interior",
+      "description": "A red-gold glow crosses the enchanted ceiling as dazzling sunlight appears over the nearest window sill, striking Harry’s and Voldemort’s faces simultaneously. The Elder Wand spins across that sky-like ceiling against the sunrise; the rising sun then dazzles the windows and fills the Hall with light.",
+      "evidence": [
+        "B07-C036-P0152",
+        "B07-C036-P0155",
+        "B07-C036-P0156",
+        "B07-C036-P0157"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Useful sunrise sightline; no explicit compass orientation or identification of which wall carries this window."
+    },
+    {
+      "id": "B07-131",
+      "location": "Great Hall / house tables restored and adjacent chamber",
+      "category": "temporary",
+      "description": "Voldemort’s body is placed in a chamber off the Hall, apart from the fallen defenders. McGonagall restores the house tables and benches, though people sit mingled across houses and species. Firenze recovers in a corner. Grawp peers through a smashed window while people throw him food, and aisles remain between tables.",
+      "evidence": [
+        "B07-C036-P0158",
+        "B07-C036-P0162",
+        "B07-C036-P0163",
+        "B07-C036-P0164",
+        "B07-C036-P0165"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Post-battle communal configuration and an unnamed adjoining chamber; broken window permits Grawp’s face and food exchange without fixing his stance or window height."
+    },
+    {
+      "id": "B07-132",
+      "location": "Great Hall → damaged marble stairs → office approach",
+      "category": "temporary",
+      "description": "The trio leave the Hall and climb marble stairs missing large chunks and part of the balustrade, with rubble and bloodstains every few steps. They continue through a doorway and along the castle route to the office, hearing Peeves’s victory song in distant corridors.",
+      "evidence": [
+        "B07-C036-P0165",
+        "B07-C036-P0166",
+        "B07-C036-P0169",
+        "B07-C036-P0170",
+        "B07-C036-P0171"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Damage remains after table restoration. No wholesale castle repair is narrated."
+    },
+    {
+      "id": "B07-133",
+      "location": "Headmaster’s office / displaced gargoyle and moving staircase",
+      "category": "temporary",
+      "description": "The guarding gargoyle has been knocked aside and stands lopsided. It grants access conversationally; the trio climb over it onto the spiral stone staircase, which moves slowly upward like an escalator, then pass through the door at the top.",
+      "evidence": [
+        "B07-C036-P0171",
+        "B07-C036-P0172",
+        "B07-C036-P0173",
+        "B07-C036-P0174"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Current access bypasses the normal password request. Harry’s doubt whether it can distinguish passwords is speculation, not a diagnosed permanent loss."
+    },
+    {
+      "id": "B07-134",
+      "location": "Headmaster’s office / returned portraits and desk",
+      "category": "furnishing",
+      "description": "The Pensieve still stands on the desk where Harry left it. The returned heads’ portraits surround the walls, their subjects standing on painted chairs and reaching between frames to shake hands. Dilys Derwent weeps, Dexter Fortescue waves an ear-trumpet and Phineas calls out; Dumbledore occupies the largest portrait directly behind the Headmaster’s chair.",
+      "evidence": [
+        "B07-C036-P0175",
+        "B07-C036-P0176",
+        "B07-C036-P0177",
+        "B07-C036-P0178",
+        "B07-C036-P0190",
+        "B07-C036-P0191"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, final battle at dawn",
+      "model_notes": "Returned subjects and comparative frame size, with desk still usable. The portraits’ chairs are painted contents, not real chairs along the office walls."
+    },
+    {
+      "id": "B07-135",
+      "location": "Forbidden Forest / lost Stone and proposed tomb return",
+      "category": "history",
+      "description": "Harry tells Dumbledore’s portrait that he dropped the Stone in the Forest and does not know exactly where. He intends to leave it unsearched, and to put the Elder Wand back where it came from.",
+      "evidence": [
+        "B07-C036-P0179",
+        "B07-C036-P0180",
+        "B07-C036-P0181",
+        "B07-C036-P0185",
+        "B07-C036-P0186",
+        "B07-C036-P0192",
+        "B07-C036-P0193",
+        "B07-C036-P0194",
+        "B07-C036-P0195"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998, post-battle plans",
+      "model_notes": "Location discussion after the battle does not depict a completed return of the wand or a repaired tomb. Earlier chapters identify the wand’s source as Dumbledore’s tomb."
+    },
+    {
+      "id": "B07-136",
+      "location": "Gryffindor Tower / four-poster bed",
+      "category": "furnishing",
+      "description": "As he leaves the office conversation, Harry thinks of the four-poster bed awaiting him in Gryffindor Tower and of asking Kreacher to bring a sandwich there.",
+      "evidence": [
+        "B07-C036-P0196"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, post-battle",
+      "model_notes": "Expected sleeping furniture and tower destination, not a narrated post-battle visit or a confirmed food delivery."
     }
   ],
   "chapter_reviews": [
@@ -2453,6 +2696,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs. The bright mist, glass-roofed hall, seats and railings belong to Harry’s liminal King’s Cross experience, not Hogwarts. His initial Room of Requirement question is explicitly tentative; the hall being larger than the Great Hall supplies no usable school geometry. Dialogue adds no new physical school description."
+    },
+    {
+      "chapter": 36,
+      "reviewed_ranges": [
+        [
+          1,
+          196
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three complete chunks. Recorded Forest return/tree damage, outer-tree Dementors, lawn/steps confrontation, Hat/window/sword, wall-crossing reinforcements and aerial creatures, kitchen-route door, Hall duels/size/floor/sunrise, tables restored and adjoining chamber, stair/gargoyle damage, moving office stair, returning portraits and intended object dispositions. No unobserved tomb repair or whole-castle restoration inferred."
     }
   ]
 }
