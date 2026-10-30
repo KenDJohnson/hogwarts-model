@@ -73,6 +73,51 @@
       "certainty": "reported",
       "temporal": "Immediately after June 1997 funeral, reported July 1997",
       "model_notes": "Exterior aerial connection and opening dormitory window. No window-to-window distance, compass bearing or full flight path specified; do not assume adjacent rooms."
+    },
+    {
+      "id": "B07-006",
+      "location": "Hogwarts unicorn herd",
+      "category": "grounds",
+      "description": "Hagrid reports that there are newborn unicorns and offers to show the students when they return.",
+      "evidence": [
+        "B07-C007-P0094",
+        "B07-C007-P0095"
+      ],
+      "certainty": "reported",
+      "temporal": "31 July 1997",
+      "model_notes": "Dated animal-population state associated with Hagrid’s Hogwarts work; exact enclosure or Forest clearing unspecified."
+    },
+    {
+      "id": "B07-007",
+      "location": "Dumbledore’s library and instruments bequeathed to school",
+      "category": "history",
+      "description": "Scrimgeour says Dumbledore’s private library, magical instruments and most other personal effects were left to Hogwarts.",
+      "evidence": [
+        "B07-C007-P0148"
+      ],
+      "certainty": "reported",
+      "temporal": "31 July 1997",
+      "model_notes": "Disposition supports continued school ownership of the collection; no physical relocation or exact posthumous room arrangement is shown here."
+    },
+    {
+      "id": "B07-008",
+      "location": "Gryffindor sword and Sorting Hat presentation",
+      "category": "magic",
+      "description": "Hermione recalls the sword coming to Harry out of the Sorting Hat. Scrimgeour says historical sources allow it to present itself to any worthy Gryffindor and refuses to transfer it under Dumbledore’s will. Harry recalls it hanging on the office wall during the previous year’s lessons.",
+      "evidence": [
+        "B07-C007-P0194",
+        "B07-C007-P0195",
+        "B07-C007-P0196",
+        "B07-C007-P0197",
+        "B07-C007-P0198",
+        "B07-C007-P0199",
+        "B07-C007-P0200",
+        "B07-C007-P0249",
+        "B07-C007-P0250"
+      ],
+      "certainty": "reported",
+      "temporal": "31 July 1997",
+      "model_notes": "Reported access behaviour and former display position, not proof of a current item’s authenticity or a visible sword-to-hat passage. No sword is produced at this meeting."
     }
   ],
   "chapter_reviews": [
@@ -141,6 +186,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two blocks, including full planning/Horcrux discussion. Captured secluded school grounds recollection, reported Crouch front-garden burial, removed library collection and study-to-girls-dormitory window flight. Burrow ghoul/attic/security and garden preparations are off site and excluded."
+    },
+    {
+      "chapter": 7,
+      "reviewed_ranges": [
+        [
+          1,
+          269
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks, including full will conversation and late-night object examination. Recorded Hagrid’s newborn unicorn report, school legacy collection and sword display/presentation account. Burrow furnishings, birthday decorations and distant mountain dream are off site; carried gifts are not Hogwarts fixtures."
     }
   ]
 }
