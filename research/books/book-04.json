@@ -12,6 +12,51 @@
       "certainty": "explicit",
       "temporal": "Summer before the 1994–95 school year",
       "model_notes": "A mobile inhabitant of the Forest at this date, not a fixed parked vehicle or a constraint on the Forest’s dimensions."
+    },
+    {
+      "id": "B04-002",
+      "location": "Hogwarts concealment",
+      "category": "magic",
+      "description": "Hermione explains that Muggles see Hogwarts as a deteriorating ruin with an entrance warning declaring it dangerous and unsafe to enter.",
+      "evidence": [
+        "B04-C011-P0079",
+        "B04-C011-P0081"
+      ],
+      "certainty": "reported",
+      "temporal": "September 1994; described as an existing enchantment",
+      "model_notes": "Character explanation, attributed to her reading of Hogwarts: A History. This defines a Muggle-facing appearance; it does not establish that the actual castle is ruined. The subsequent Unplottability discussion concerns Durmstrang, not a confirmed Hogwarts property."
+    },
+    {
+      "id": "B04-003",
+      "location": "London to Hogsmeade station",
+      "category": "route",
+      "description": "The Hogwarts Express departs the concealed platform nine and three-quarters at King’s Cross, travels north, and arrives at Hogsmeade station after dark. The London platform is accessed through the apparently solid barrier between platforms nine and ten.",
+      "evidence": [
+        "B04-C011-P0046",
+        "B04-C011-P0047",
+        "B04-C011-P0063",
+        "B04-C011-P0065",
+        "B04-C011-P0089",
+        "B04-C011-P0116"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "Regional approach context only. No travel distance or exact bearing beyond northward travel is given."
+    },
+    {
+      "id": "B04-004",
+      "location": "Hogsmeade station to Hogwarts",
+      "category": "route",
+      "description": "At the stormy evening arrival, Hagrid waits at the far end of the platform. First-years traditionally sail across the lake to the castle; approximately a hundred apparently horseless carriages wait outside the station and carry the other pupils up a track towards Hogwarts.",
+      "evidence": [
+        "B04-C011-P0117",
+        "B04-C011-P0118",
+        "B04-C011-P0120",
+        "B04-C011-P0121"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994 arrival",
+      "model_notes": "Retain Harry’s perception of horseless carriages. The paragraph gives the upward route and approximate vehicle count, not the track’s measured length or the lake landing geometry."
     }
   ],
   "chapter_reviews": [
@@ -91,6 +136,50 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Reviewed complete chapter. Burrow and World Cup locations are outside the Hogwarts boundary/tunnel scope; no additional spatial evidence."
+    },
+    {
+      "chapter": 8,
+      "reviewed_ranges": [
+        [
+          1,
+          156
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. World Cup, Burrow, and unrelated Ministry descriptions excluded; Hogwarts access and concealment recorded where present."
+    },
+    {
+      "chapter": 9,
+      "reviewed_ranges": [
+        [
+          1,
+          262
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. World Cup, Burrow, and unrelated Ministry descriptions excluded; Hogwarts access and concealment recorded where present."
+    },
+    {
+      "chapter": 10,
+      "reviewed_ranges": [
+        [
+          1,
+          115
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. World Cup, Burrow, and unrelated Ministry descriptions excluded; Hogwarts access and concealment recorded where present."
+    },
+    {
+      "chapter": 11,
+      "reviewed_ranges": [
+        [
+          1,
+          121
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. World Cup, Burrow, and unrelated Ministry descriptions excluded; Hogwarts access and concealment recorded where present."
     }
   ]
 }
