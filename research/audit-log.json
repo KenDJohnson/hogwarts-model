@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "source_sha256": "fc554e217f5ec7edc995b24de3d62f50cee929c524fa6ec5e0a7ae23a7ca2732",
+  "method": "Second-pass ranked uncited-paragraph inspection; complements full-text chapter review, not a substitute for it. The heuristic is not exhaustive.",
+  "passes": [
+    {
+      "book": 1,
+      "catalogue_entries_at_audit": 145,
+      "candidates_inspected": [
+        {
+          "id": "B01-C015-P0010",
+          "score": 13,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Discipline and loss of house points; no additional physical description."
+        },
+        {
+          "id": "B01-C006-P0031",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Muggle station confusion and clock; outside Hogwarts site, with the platform route already catalogued."
+        },
+        {
+          "id": "B01-C016-P0089",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Hypothetical destruction in dialogue, not an observed castle state."
+        },
+        {
+          "id": "B01-C002-P0058",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Harry’s primary school, not Hogwarts."
+        },
+        {
+          "id": "B01-C005-P0162",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Gringotts passage, outside scope."
+        },
+        {
+          "id": "B01-C005-P0164",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Gringotts underground lake, outside scope."
+        },
+        {
+          "id": "B01-C010-P0007",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Owl delivery of a carried package; adds no fixed spatial fact beyond existing Hall/mail descriptions."
+        },
+        {
+          "id": "B01-C003-P0050",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive interior, outside scope."
+        },
+        {
+          "id": "B01-C007-P0087",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Sorting action using the already catalogued stool; no new environmental fact."
+        },
+        {
+          "id": "B01-C007-P0122",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Appearance and seating of a ghost, not a fixed room feature; ghost presence already catalogued."
+        },
+        {
+          "id": "B01-C012-P0004",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Character rivalry and potion handling; no new spatial description."
+        },
+        {
+          "id": "B01-C015-P0019",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Social reaction in the school; no new environmental fact."
+        },
+        {
+          "id": "B01-C017-P0187",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Characters cheering at the existing table with a goblet; fixtures already catalogued."
+        },
+        {
+          "id": "B01-C001-P0037",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive interior, outside scope."
+        },
+        {
+          "id": "B01-C002-P0013",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive cupboard, outside scope."
+        },
+        {
+          "id": "B01-C002-P0021",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive kitchen and character appearance, outside scope."
+        },
+        {
+          "id": "B01-C006-P0164",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Train trolley visit, no new school-site spatial description."
+        }
+      ]
+    }
+  ]
+}

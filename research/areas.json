@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "note": "Overlapping navigation groups matched against reviewers' location labels. These are not assertions that two rooms are identical or adjacent.",
+  "areas": [
+    {"id": "castle-and-terrain", "title": "Castle exterior, terrain and general protections", "location_patterns": ["castle", "Hogwarts.*(?:security|conceal|protect|exterior|boundary|boundar|seen|view|histor)"]},
+    {"id": "arrival-and-gates", "title": "Arrival routes, station, gates and perimeter", "location_patterns": ["arrival", "station", "Express", "platform", "carriage", "gates?", "perimeter", "boundary", "boundaries", "drive", "front (?:door|entrance|steps)", "harbour", "cliff tunnel"]},
+    {"id": "entrance-hall", "title": "Entrance Hall and its connections", "location_patterns": ["Entrance Hall", "marble staircase", "antechamber"]},
+    {"id": "great-hall", "title": "Great Hall and adjoining rooms", "location_patterns": ["Great Hall", "staff table", "Sorting", "Goblet of Fire", "Yule Ball"]},
+    {"id": "circulation", "title": "Corridors, stairs, landings and general circulation", "location_patterns": ["corridor", "stair", "landing", "circulation", "passage", "portrait", "armour", "armor", "statue", "tapestr", "mirror room", "Erised"]},
+    {"id": "gryffindor", "title": "Gryffindor Tower, common room and dormitories", "location_patterns": ["Gryffindor", "Fat Lady", "Harry.s dormitory", "boys. dormitor", "girls. dormitor"]},
+    {"id": "slytherin", "title": "Slytherin house spaces", "location_patterns": ["Slytherin"]},
+    {"id": "ravenclaw", "title": "Ravenclaw house spaces", "location_patterns": ["Ravenclaw", "Rowena", "eagle.knocker"]},
+    {"id": "hufflepuff", "title": "Hufflepuff house connections", "location_patterns": ["Hufflepuff"]},
+    {"id": "classrooms", "title": "Classrooms and teaching spaces", "location_patterns": ["classroom", "Transfiguration", "Charms", "Potions", "Defence", "Defense", "Divination", "North Tower", "Binns", "History of Magic", "Firenze"]},
+    {"id": "offices", "title": "Offices, staff room and caretaker spaces", "location_patterns": ["office", "staff.room", "staffroom", "Headmaster", "Dumbledore", "Umbridge", "Filch", "Snape", "Lockhart", "Lupin", "Moody", "Slughorn", "McGonagall"]},
+    {"id": "library", "title": "Library and Restricted Section", "location_patterns": ["library", "Restricted Section", "Pince"]},
+    {"id": "hospital", "title": "Hospital wing", "location_patterns": ["hospital", "infirmary", "Pomfrey"]},
+    {"id": "washrooms", "title": "Bathrooms, toilets and washing spaces", "location_patterns": ["bathroom", "toilet", "washroom", "Myrtle", "Prefects"]},
+    {"id": "room-of-requirement", "title": "Room of Requirement and its changing states", "location_patterns": ["Requirement", "Come and Go", "Come.and.Go", "Room of Hidden", "hidden things", "DA (?:practice|refuge|hideout)", "Barnabas"]},
+    {"id": "stone-defences", "title": "Third-floor forbidden corridor and Stone defences", "location_patterns": ["third.floor", "Fluffy", "trapdoor", "trap door", "Devil.s Snare", "chess", "winged keys", "flying keys", "potion.*(?:riddle|bottle|barrier)", "Stone.*(?:chamber|defen)"]},
+    {"id": "chamber-of-secrets", "title": "Chamber of Secrets and underground access", "location_patterns": ["Chamber of Secrets", "Slytherin.s (?:statue|chamber)", "basilisk", "snake.*door", "underground.*(?:tunnel|chamber)"]},
+    {"id": "kitchens", "title": "Kitchens and service areas", "location_patterns": ["kitchen", "fruit", "pear", "house.elf"]},
+    {"id": "owlery", "title": "Owlery and West Tower", "location_patterns": ["Owlery", "West Tower"]},
+    {"id": "astronomy", "title": "Astronomy Tower and roof access", "location_patterns": ["Astronomy", "tallest tower", "highest tower", "battlement", "rampart", "roof"]},
+    {"id": "hagrid", "title": "Hagrid's cabin, garden and nearby installations", "location_patterns": ["Hagrid", "gamekeeper", "pumpkin", "vegetable", "paddock", "Beauxbatons"]},
+    {"id": "lake", "title": "Lake, shore, underwater world and tomb", "location_patterns": ["lake", "shore", "beech", "underwater", "merpeople", "mermaid", "Durmstrang", "tomb", "funeral", "second task"]},
+    {"id": "forest", "title": "Forbidden Forest and its inhabitants' spaces", "location_patterns": ["Forest", "Aragog", "centaur", "Grawp", "Thestral", "unicorn"]},
+    {"id": "quidditch", "title": "Quidditch grounds and tournament arenas", "location_patterns": ["Quidditch", "pitch", "stadium", "stand", "changing.room", "dragon", "maze", "first task", "third task", "enclosure"]},
+    {"id": "greenhouses", "title": "Greenhouses and cultivated grounds", "location_patterns": ["greenhouse", "Herbology", "Sprout", "vegetable", "garden", "lawn"]},
+    {"id": "hogsmeade-and-tunnels", "title": "Hogsmeade connections and secret tunnels", "location_patterns": ["Hogsmeade", "Honeydukes", "Shrieking Shack", "Willow", "Hog.s Head", "secret passage", "one.eyed", "one-eyed", "Ariana", "village"]}
+  ]
+}

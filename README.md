@@ -76,12 +76,25 @@ source-backed relationships and a floor-reference conflict. Its editable,
 machine-readable source is [model-constraints.json](research/model-constraints.json).
 It is a starting constraint set rather than a unique castle plan.
 
+Read the [full chronological catalogue](docs/catalogue.md), browse the
+[cross-book area guides](docs/areas/index.md), or use the
+[exact location index](docs/location-index.md). The area guides are overlapping
+navigation groups, not claims that similarly named rooms are the same room.
+
 ## Checks
 
 ```sh
 python -m unittest discover -s tests -v
+python scripts/check_research.py
 nix flake check
 ```
 
 No external Python packages or network services are needed to extract or query
 the ebook. Nix uses the committed lockfile for its development tools.
+
+`nix flake check` runs tool tests and validates the committed evidence bounds,
+source identity, review ledger, page arithmetic and generated JSON export
+without needing the ebook. A full source rebuild plus `verify_reader.py`
+checks the underlying text and page boundaries. A structurally valid ledger
+does not prove that every relevant description has been recognised; the
+second-pass audit records its own scope separately.

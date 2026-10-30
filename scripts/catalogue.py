@@ -325,6 +325,43 @@ def write_model_guide(corpus: dict, model: dict, destination: Path) -> None:
     destination.write_text("\n".join(lines) + "\n")
 
 
+def write_area_pages(catalogue: dict, area_config: dict, folder: Path) -> None:
+    """Provide overlapping cross-book navigation without merging room identities."""
+    folder.mkdir(parents=True, exist_ok=True)
+    groups = {area["id"]: [] for area in area_config["areas"]}
+    groups["other"] = []
+    patterns = {area["id"]: [re.compile(p, re.I) for p in area["location_patterns"]]
+                for area in area_config["areas"]}
+    for entry in catalogue["entries"]:
+        matches = [ident for ident, regexes in patterns.items() if any(r.search(entry["location"]) for r in regexes)]
+        entry["areas"] = matches or ["other"]
+        for ident in entry["areas"]:
+            groups[ident].append(entry)
+    areas = area_config["areas"] + [{"id": "other", "title": "Other or ungrouped locations"}]
+    index_lines = ["# Browse descriptions by area", "",
+                   "These overlapping navigation groups gather records across all seven books. "
+                   "They are matched against location labels and do not assert room identity or "
+                   "adjacency. The exact-label [location index](../location-index.md) and full "
+                   "[chronological catalogue](../catalogue.md) remain available.", ""]
+    for area in areas:
+        entries = groups[area["id"]]
+        if not entries:
+            continue
+        index_lines.append(f"- [{area['title']}]({area['id']}.md): {len(entries)} records.")
+        lines = [f"# {area['title']}", "", "[All areas](index.md) · [Full catalogue](../catalogue.md)", "",
+                 "All pages are project reference pages, ref250-v1. Group membership is a "
+                 "navigation aid; retain each record's certainty and dated state.", ""]
+        for entry in entries:
+            lines += [f"## {entry['id']}: {entry['location']}", "", entry["description"], "",
+                      f"Evidence: {entry['certainty']}; state: {entry['temporal']}.", "",
+                      f"Model: {entry['model_notes']}", ""]
+            for p in entry["citations"]:
+                lines.append(f"- [{p['label']}](../../build/reader/book-{p['book']:02d}.html#{p['id']})")
+            lines.append("")
+        (folder / f"{area['id']}.md").write_text("\n".join(lines) + "\n")
+    (folder / "index.md").write_text("\n".join(index_lines) + "\n")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--corpus", type=Path, default=ROOT / "build/corpus.json")
@@ -383,6 +420,9 @@ def main() -> None:
                 print(f"{entry['id']} · {entry['location']}\n{entry['description']}")
                 print("\n".join(c["label"] for c in entry["citations"]) + "\n")
         return
+    area_path = ROOT / "research/areas.json"
+    if area_path.exists():
+        write_area_pages(catalogue, load_json(area_path), args.docs / "areas")
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(json.dumps(catalogue, ensure_ascii=False, indent=2) + "\n")
     (args.output.parent / "coverage.json").write_text(json.dumps(coverage, ensure_ascii=False, indent=2) + "\n")

@@ -26,6 +26,13 @@
             python -m unittest discover -s tests -v
             touch $out
           '';
+          research = pkgs.runCommand "hogwarts-research-checks" {
+            nativeBuildInputs = [ pkgs.python3 ];
+          } ''
+            cp -R ${self}/scripts ${self}/research .
+            python scripts/check_research.py
+            touch $out
+          '';
         });
     };
 }
