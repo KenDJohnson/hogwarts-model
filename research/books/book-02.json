@@ -1,0 +1,75 @@
+{
+  "book": 2,
+  "entries": [
+    {
+      "id": "B02-001",
+      "location": "Hogwarts — summer recollection",
+      "category": "interior",
+      "description": "Harry recalls the castle’s secret passages and ghosts, Great Hall banquets, a four-poster in the tower dormitory, Hagrid’s cabin next to the Forbidden Forest, and six tall Quidditch goalposts.",
+      "evidence": [
+        "B02-C001-P0026"
+      ],
+      "certainty": "explicit",
+      "temporal": "Summer 1992 recollection of 1991–92",
+      "model_notes": "A narrated recap reaffirming established features; no new floor plan or numeric goalpost height."
+    },
+    {
+      "id": "B02-002",
+      "location": "School cabbage cultivation",
+      "category": "grounds",
+      "description": "Hagrid says flesh-eating slugs are ruining the school cabbages and that he is buying repellent.",
+      "evidence": [
+        "B02-C004-P0120"
+      ],
+      "certainty": "reported",
+      "temporal": "Summer 1992",
+      "model_notes": "Establishes school cabbage-growing and a pest problem, without identifying a bed, greenhouse or location beside Hagrid’s hut."
+    }
+  ],
+  "chapter_reviews": [
+    {
+      "chapter": 1,
+      "reviewed_ranges": [
+        [
+          1,
+          95
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read; Hogwarts recap retained. Privet Drive house and garden are outside boundary scope."
+    },
+    {
+      "chapter": 2,
+      "reviewed_ranges": [
+        [
+          1,
+          128
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read, including the dream. Dobby’s warning describes no specific Hogwarts space or physical boundary; off-site confinement excluded."
+    },
+    {
+      "chapter": 3,
+      "reviewed_ranges": [
+        [
+          1,
+          183
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Burrow, rescue flight and generic comments about house-elves in castles supply no new Hogwarts or nearby-boundary description."
+    },
+    {
+      "chapter": 4,
+      "reviewed_ranges": [
+        [
+          1,
+          203
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. London shops, Floo route and Burrow excluded from castle-boundary model; Hagrid’s school-cabbage report retained."
+    }
+  ]
+}
