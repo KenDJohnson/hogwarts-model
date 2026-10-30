@@ -1645,6 +1645,283 @@
       "certainty": "explicit",
       "temporal": "May 1998, Battle of Hogwarts",
       "model_notes": "Temporary movable magical containment, not a built feature of the Shack. Physical force does not remove it in the observed attack; other counters are not tested."
+    },
+    {
+      "id": "B07-100",
+      "location": "Shrieking Shack / castle / Hogsmeade broadcast",
+      "category": "magic",
+      "description": "Voldemort’s voice reverberates from the Shack walls and floor with the intimacy of someone standing beside the listeners. Harry understands it is being heard equally clearly at Hogwarts and throughout the surrounding area, including Hogsmeade.",
+      "evidence": [
+        "B07-C033-P0001",
+        "B07-C033-P0002",
+        "B07-C033-P0003",
+        "B07-C033-P0005",
+        "B07-C033-P0006",
+        "B07-C033-P0007"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, battle ceasefire",
+      "model_notes": "Wide-area magical sound during the one-hour retreat; not an ordinary room-acoustic relationship."
+    },
+    {
+      "id": "B07-101",
+      "location": "Willow tunnel → front lawn → castle steps",
+      "category": "route",
+      "description": "The trio crawl back through the tunnel and hurry towards the castle stone steps. Small bundles litter the front lawn in near-dawn darkness, and an abandoned giant’s clog, like a small boat, lies there; the giants themselves are absent.",
+      "evidence": [
+        "B07-C033-P0011",
+        "B07-C033-P0012",
+        "B07-C033-P0014"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, battle ceasefire",
+      "model_notes": "Bundles are not identified individually. The text jumps from tunnel transit to front lawn without surveying the intervening grounds route."
+    },
+    {
+      "id": "B07-102",
+      "location": "Entrance Hall / ceasefire damage",
+      "category": "temporary",
+      "description": "The deserted, silent Entrance Hall has blood-stained flagstones, scattered emeralds, broken marble and splintered wood. Part of the banisters has been blasted away.",
+      "evidence": [
+        "B07-C033-P0015",
+        "B07-C033-P0016",
+        "B07-C033-P0017"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, battle ceasefire",
+      "model_notes": "Continues chapter 32’s points-clock and stair damage, adding broken banisters and debris materials."
+    },
+    {
+      "id": "B07-103",
+      "location": "Great Hall / casualty and treatment configuration",
+      "category": "temporary",
+      "description": "The house tables have been removed. Survivors gather in groups, the injured are treated by Pomfrey and helpers on the raised platform, and the dead lie in a row through the middle. Remus and Tonks lie beside Fred beneath the dark enchanted ceiling.",
+      "evidence": [
+        "B07-C033-P0018",
+        "B07-C033-P0019",
+        "B07-C033-P0020",
+        "B07-C033-P0021"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, battle ceasefire",
+      "model_notes": "Dated cleared floor and triage platform, distinct from the earlier seated assembly; no disposal or restoration method for tables stated."
+    },
+    {
+      "id": "B07-104",
+      "location": "Great Hall → Headmaster’s office / password",
+      "category": "route",
+      "description": "Harry turns from the Great Hall doorway, runs up the marble staircase and through the empty castle to the stone gargoyle. Saying Dumbledore makes it slide aside and reveal the spiral staircase to the circular office.",
+      "evidence": [
+        "B07-C033-P0021",
+        "B07-C033-P0022",
+        "B07-C033-P0023",
+        "B07-C033-P0024",
+        "B07-C033-P0025",
+        "B07-C033-P0026"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, battle ceasefire",
+      "model_notes": "Password works at this time; not proof of a permanent password or a measured direct stair connection from Entrance Hall to office."
+    },
+    {
+      "id": "B07-105",
+      "location": "Headmaster’s office / portraits, chair and Pensieve",
+      "category": "furnishing",
+      "description": "Portraits hang all around the circular office, now empty; Dumbledore’s deserted frame is directly behind the Headmaster’s chair. The stone Pensieve is kept in its cabinet and is lifted onto the desk. Its wide basin has runic markings around the edge, and the office floor is carpeted.",
+      "evidence": [
+        "B07-C033-P0026",
+        "B07-C033-P0027",
+        "B07-C033-P0358"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, battle ceasefire",
+      "model_notes": "Narration speculates that absent headmasters are watching battle events through castle pictures; absence is directly seen but their exact destinations are not."
+    },
+    {
+      "id": "B07-106",
+      "location": "Hogwarts Express / historical journey furnishing",
+      "category": "route",
+      "description": "At platform nine and three-quarters students load trunks aboard the scarlet steam engine, carrying cats and caged owls. On the countryside journey a corridor serves compartments with sliding doors, facing seats and window-side corner seating.",
+      "evidence": [
+        "B07-C033-P0099",
+        "B07-C033-P0102",
+        "B07-C033-P0117",
+        "B07-C033-P0118",
+        "B07-C033-P0130",
+        "B07-C033-P0131",
+        "B07-C033-P0143",
+        "B07-C033-P0146"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1971 memory",
+      "model_notes": "Historical school transport geometry; London platform is retained only as the school railway’s departure context, not a separate city model."
+    },
+    {
+      "id": "B07-107",
+      "location": "Great Hall / historical Sorting arrangement",
+      "category": "history",
+      "description": "Candlelit house tables and benches face the Sorting area with a rickety stool on which the Hat is placed on each child. Lily joins Gryffindor; Snape moves to the other side of the Hall to sit with Slytherin.",
+      "evidence": [
+        "B07-C033-P0148",
+        "B07-C033-P0149",
+        "B07-C033-P0150",
+        "B07-C033-P0151",
+        "B07-C033-P0152",
+        "B07-C033-P0153"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1971 memory",
+      "model_notes": "Corroborates opposite-side Gryffindor/Slytherin seating decades earlier; no intervening table order or precise stool placement."
+    },
+    {
+      "id": "B07-108",
+      "location": "Castle courtyard / pillar",
+      "category": "exterior",
+      "description": "Lily and Snape cross the castle courtyard while arguing; Lily stops and leans against a pillar.",
+      "evidence": [
+        "B07-C033-P0155",
+        "B07-C033-P0158",
+        "B07-C033-P0175"
+      ],
+      "certainty": "explicit",
+      "temporal": "School years in the mid-1970s, exact year not specified",
+      "model_notes": "An unnamed courtyard contains at least one pillar; no covered walkway, cloister, shape or dimension supplied."
+    },
+    {
+      "id": "B07-109",
+      "location": "Whomping Willow tunnel / historical danger",
+      "category": "history",
+      "description": "Lily reports Snape going down the tunnel by the Whomping Willow and James saving him from what was below; the preceding conversation mentions Lupin’s full-moon absences.",
+      "evidence": [
+        "B07-C033-P0163",
+        "B07-C033-P0164",
+        "B07-C033-P0165",
+        "B07-C033-P0166",
+        "B07-C033-P0169",
+        "B07-C033-P0170"
+      ],
+      "certainty": "reported",
+      "temporal": "Mid-1970s school memory",
+      "model_notes": "Historical use and danger; do not add a new trap, chamber or new geometry not stated in the conversation."
+    },
+    {
+      "id": "B07-110",
+      "location": "Great Hall → grounds beech tree",
+      "category": "route",
+      "description": "After his Defence O.W.L. in the Great Hall, Snape walks away from the castle and inadvertently nears a beech tree under which James, Sirius, Lupin and Pettigrew sit.",
+      "evidence": [
+        "B07-C033-P0177"
+      ],
+      "certainty": "explicit",
+      "temporal": "Fifth-year O.W.L. period, 1976 memory",
+      "model_notes": "Tree species and exam-to-grounds sequence; no lake relationship is stated in this paragraph."
+    },
+    {
+      "id": "B07-111",
+      "location": "Gryffindor Tower entrance / Fat Lady",
+      "category": "history",
+      "description": "At night Lily stands in a corridor before the Fat Lady’s portrait at the Gryffindor Tower entrance, then climbs back through the portrait hole, leaving Snape outside.",
+      "evidence": [
+        "B07-C033-P0179",
+        "B07-C033-P0180",
+        "B07-C033-P0181",
+        "B07-C033-P0182",
+        "B07-C033-P0183",
+        "B07-C033-P0184",
+        "B07-C033-P0185",
+        "B07-C033-P0191",
+        "B07-C033-P0192"
+      ],
+      "certainty": "explicit",
+      "temporal": "1976 memory after the O.W.L. incident",
+      "model_notes": "Shows the same type of portrait entrance in an earlier generation; no newly specified floor or password."
+    },
+    {
+      "id": "B07-112",
+      "location": "Entrance Hall / Yule Ball circulation",
+      "category": "route",
+      "description": "Dumbledore and Snape speak apart in the Entrance Hall as the last Yule Ball guests pass towards bed; Fleur and Roger Davies come in from the grounds and continue past them.",
+      "evidence": [
+        "B07-C033-P0239",
+        "B07-C033-P0240",
+        "B07-C033-P0241",
+        "B07-C033-P0242",
+        "B07-C033-P0243",
+        "B07-C033-P0245"
+      ],
+      "certainty": "explicit",
+      "temporal": "Christmas 1994 memory",
+      "model_notes": "Grounds-to-Hall and onward sleeping-area circulation, without assuming a specifically named exterior door or bedroom destination."
+    },
+    {
+      "id": "B07-113",
+      "location": "Headmaster’s office / desk chairs and objects",
+      "category": "furnishing",
+      "description": "Dumbledore occupies a throne-like chair behind the desk, with a visitor’s chair across from him. The cracked Gaunt ring and Gryffindor sword lie together on the desk. Fawkes is present, audibly gnawing cuttlebone.",
+      "evidence": [
+        "B07-C033-P0217",
+        "B07-C033-P0235",
+        "B07-C033-P0246",
+        "B07-C033-P0248",
+        "B07-C033-P0259",
+        "B07-C033-P0260",
+        "B07-C033-P0263",
+        "B07-C033-P0276"
+      ],
+      "certainty": "explicit",
+      "temporal": "Memories spanning 1981, 1991 and summer 1996; detailed desk scene summer 1996",
+      "model_notes": "Earlier office scenes corroborate seating but the throne-like shape, opposite guest chair and ring/sword layout belong to the 1996 treatment scene, not every year."
+    },
+    {
+      "id": "B07-114",
+      "location": "Headmaster’s office / window and Patronus",
+      "category": "magic",
+      "description": "In a later night office conversation, with dark windows and Fawkes sitting silently, Snape’s silver doe lands on the floor, bounds across the office and soars out of the window as Dumbledore watches.",
+      "evidence": [
+        "B07-C033-P0309",
+        "B07-C033-P0310",
+        "B07-C033-P0331",
+        "B07-C033-P0332"
+      ],
+      "certainty": "explicit",
+      "temporal": "1996–97 memory",
+      "model_notes": "A visible outward window route for a Patronus, not proof a solid body could pass without opening the window. No compass direction given."
+    },
+    {
+      "id": "B07-115",
+      "location": "Headmaster’s office / portrait communication under Snape",
+      "category": "magic",
+      "description": "Snape consults Dumbledore’s portrait behind his desk. Phineas returns into his school frame with a location heard when Hermione opened her handbag, and Dumbledore’s portrait speaks from behind the Headmaster’s chair.",
+      "evidence": [
+        "B07-C033-P0335",
+        "B07-C033-P0336",
+        "B07-C033-P0348",
+        "B07-C033-P0349",
+        "B07-C033-P0350",
+        "B07-C033-P0351",
+        "B07-C033-P0352"
+      ],
+      "certainty": "explicit",
+      "temporal": "1997 and Christmas 1997 memories",
+      "model_notes": "Confirms functioning Dumbledore portrait and Phineas’s listening through the portable frame; it was the open bag that exposed the location."
+    },
+    {
+      "id": "B07-116",
+      "location": "Headmaster’s office / hidden cavity behind Dumbledore’s portrait",
+      "category": "furnishing",
+      "description": "Snape pulls the side of Dumbledore’s portrait so it swings forwards, exposing a hidden cavity behind it from which he takes the real sword of Gryffindor before leaving through the office door.",
+      "evidence": [
+        "B07-C033-P0352",
+        "B07-C033-P0353",
+        "B07-C033-P0354",
+        "B07-C033-P0355",
+        "B07-C033-P0356",
+        "B07-C033-P0357",
+        "B07-C033-P0358"
+      ],
+      "certainty": "explicit",
+      "temporal": "Christmas 1997 memory",
+      "model_notes": "Physical concealed sword store behind a movable portrait, directly observed through memory. Its construction date and dimensions are unspecified; this resolves the real sword’s storage before delivery, not the timing of the display-case substitution."
     }
   ],
   "chapter_reviews": [
@@ -1999,6 +2276,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs in two complete chunks. Recorded breach/spiders, armour niche, tapestry stair/slide, route to Hall, plant attacks, shattered points clock/balcony/banisters/doors, giant and Dementor grounds encounters, windless lake/forest sounds, Willow mechanism, crawl tunnel, Shack room/window/table/crate and protective sphere. Flagged open Willow tunnel against earlier blanket closure report."
+    },
+    {
+      "chapter": 33,
+      "reviewed_ranges": [
+        [
+          1,
+          358
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in four complete chunks, including every childhood, school and adult memory. Recorded ceasefire/broadcast, return route and damage, Great Hall triage, office access/fixtures, historical train/Sorting/courtyard/Willow/beech/portrait/ball routes, office desk/window scenes and hidden sword cavity. Childhood playground, riverside and unspecified adult hilltop are not identified as Hogwarts grounds and excluded."
     }
   ]
 }
