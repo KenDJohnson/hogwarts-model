@@ -570,3 +570,148 @@ Model implication: The conflict is explicit in the two sources, though the Book 
 - [Book 2, ch. 8, “The Deathday Party”, ref p. 133–134, ¶94 (B02-C008-P0094)](../build/reader/book-02.html#B02-C008-P0094)
 - [Book 4, ch. 22, “The Unexpected Task”, ref p. 416, ¶97 (B04-C022-P0097)](../build/reader/book-04.html#B04-C022-P0097)
 
+## Interactions for an explorable model
+
+### M041: House-elf transport
+
+Ron explains that house-elves can Apparate and Disapparate into and out of Hogwarts even though wizards cannot.
+
+Relation: `House-elf transport` → `has_reported_exception_to` → `Wizard Apparition restrictions`.
+
+Evidence: reported; state: Book 7 explanation.
+
+Model implication: Do not implement the grounds' protection as a universal ban on every type of magical movement. Keep the actor and transport method in the access rule.
+
+- [Book 7, ch. 10, “Kreacher’s Tale”, ref p. 204, ¶157 (B07-C010-P0157)](../build/reader/book-07.html#B07-C010-P0157)
+
+### M042: Paired Vanishing Cabinets
+
+Malfoy describes repairing the Hogwarts cabinet and explains its link to the one in Borgin and Burkes. Harry's earlier hiding route places the broken cabinet among objects in the Room of Requirement.
+
+Relation: `Paired Vanishing Cabinets` → `form_passage_between` → `Hogwarts and Borgin and Burkes`.
+
+Evidence: reported; state: Book 6 repaired invasion route; earlier broken state.
+
+Model implication: The object's location is observed; its mechanism and earlier limbo state are explained by Malfoy. Treat the connection as a portal with dated working/broken states, rather than an ordinary continuous tunnel.
+
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 554–555, ¶105 (B06-C024-P0105)](../build/reader/book-06.html#B06-C024-P0105)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 617–618, ¶74 (B06-C027-P0074)](../build/reader/book-06.html#B06-C027-P0074)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 618, ¶78 (B06-C027-P0078)](../build/reader/book-06.html#B06-C027-P0078)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 618–619, ¶79 (B06-C027-P0079)](../build/reader/book-06.html#B06-C027-P0079)
+
+### M043: Chamber entrance in Myrtle's bathroom
+
+A tiny snake is scratched into a copper tap that Myrtle says has never worked. Harry's hissing command makes the tap light up and spin; the sink sinks away, exposing a pipe large enough for a person to slide into.
+
+Relation: `Chamber entrance in Myrtle's bathroom` → `opens_with` → `Parseltongue at snake-marked copper tap`.
+
+Evidence: explicit; state: Book 2 Chamber rescue.
+
+Model implication: Represent the sink and tap as a transformable entrance, with the shaft below. Preserve the separate uncertainty about the bathroom's numbered floor.
+
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 303, ¶181 (B02-C016-P0181)](../build/reader/book-02.html#B02-C016-P0181)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 303, ¶182 (B02-C016-P0182)](../build/reader/book-02.html#B02-C016-P0182)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 303, ¶183 (B02-C016-P0183)](../build/reader/book-02.html#B02-C016-P0183)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 303, ¶188 (B02-C016-P0188)](../build/reader/book-02.html#B02-C016-P0188)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 303, ¶189 (B02-C016-P0189)](../build/reader/book-02.html#B02-C016-P0189)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 303–304, ¶190 (B02-C016-P0190)](../build/reader/book-02.html#B02-C016-P0190)
+
+### M044: Gryffindor girls' dormitory staircase
+
+Ron opens the dormitory door and starts up its spiral stair. At his sixth step a klaxon-like alarm sounds and the stairs become a long smooth stone slide; girls subsequently slide down it too. Hermione explains the old access rule.
+
+Relation: `Gryffindor girls' dormitory staircase` → `changes_to` → `Smooth stone slide with alarm when Ron climbs`.
+
+Evidence: explicit; state: Book 5 dormitory incident.
+
+Model implication: Animate a state change in this particular stair. The scene demonstrates the response to Ron; Hermione's explanation is reported policy, not a specification of how the enchantment classifies every possible visitor.
+
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 415, ¶22 (B05-C017-P0022)](../build/reader/book-05.html#B05-C017-P0022)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 415, ¶23 (B05-C017-P0023)](../build/reader/book-05.html#B05-C017-P0023)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 415, ¶24 (B05-C017-P0024)](../build/reader/book-05.html#B05-C017-P0024)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 416, ¶26 (B05-C017-P0026)](../build/reader/book-05.html#B05-C017-P0026)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 416, ¶28 (B05-C017-P0028)](../build/reader/book-05.html#B05-C017-P0028)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 416, ¶29 (B05-C017-P0029)](../build/reader/book-05.html#B05-C017-P0029)
+
+### M045: Merpeople settlement
+
+Beyond black mud and a painted rock, Harry encounters algae-stained stone dwellings with dark windows, weed gardens and a tethered Grindylow. More houses surround a village-like square containing a large merperson statue carved from a boulder; the tournament hostages are tied to its tail.
+
+Relation: `Merpeople settlement` → `occupies` → `Lake floor with stone dwellings and central statue`.
+
+Evidence: explicit; state: Book 4 second task.
+
+Model implication: Include an explorable underwater environment and separate the existing settlement from the temporary hostage installation. Harry's perceived swimming time is not a reliable distance measurement.
+
+- [Book 4, ch. 26, “The Second Task”, ref p. 524–525, ¶141 (B04-C026-P0141)](../build/reader/book-04.html#B04-C026-P0141)
+- [Book 4, ch. 26, “The Second Task”, ref p. 525, ¶144 (B04-C026-P0144)](../build/reader/book-04.html#B04-C026-P0144)
+- [Book 4, ch. 26, “The Second Task”, ref p. 525, ¶147 (B04-C026-P0147)](../build/reader/book-04.html#B04-C026-P0147)
+- [Book 4, ch. 26, “The Second Task”, ref p. 525–526, ¶149 (B04-C026-P0149)](../build/reader/book-04.html#B04-C026-P0149)
+- [Book 4, ch. 26, “The Second Task”, ref p. 526, ¶150 (B04-C026-P0150)](../build/reader/book-04.html#B04-C026-P0150)
+
+### M046: Third-task maze
+
+The pitch is transformed into a maze enclosed by a twenty-foot hedge with an entrance gap. Within the high hedges the crowd noise falls silent. Bagman previously says the pitch will be returned to normal after the task.
+
+Relation: `Third-task maze` → `temporarily_replaces` → `Quidditch pitch playing space`.
+
+Evidence: explicit; state: Book 4 third task.
+
+Model implication: The observed hedge height is twenty feet (6.096 metres). Restoration is a reported intention. These passages do not establish a complete maze plan or prove that the sound isolation is magical rather than the effect of dense hedges.
+
+- [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 582, ¶142 (B04-C028-P0142)](../build/reader/book-04.html#B04-C028-P0142)
+- [Book 4, ch. 31, “The Third Task”, ref p. 654–655, ¶125 (B04-C031-P0125)](../build/reader/book-04.html#B04-C031-P0125)
+- [Book 4, ch. 31, “The Third Task”, ref p. 656, ¶135 (B04-C031-P0135)](../build/reader/book-04.html#B04-C031-P0135)
+
+### M047: Great Hall
+
+During the castle search all houses are gathered in the Great Hall. Its entrances are guarded; Dumbledore moves the long tables to the walls and covers the floor in hundreds of purple sleeping bags.
+
+Relation: `Great Hall` → `has_temporary_state` → `Emergency sleeping hall`.
+
+Evidence: explicit; state: Book 3 after the Fat Lady attack.
+
+Model implication: Do not bake the feast tables permanently into the mesh. This room must support cleared-floor arrangements and furniture relocation.
+
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 160, ¶1 (B03-C009-P0001)](../build/reader/book-03.html#B03-C009-P0001)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 160–161, ¶2 (B03-C009-P0002)](../build/reader/book-03.html#B03-C009-P0002)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 161, ¶4 (B03-C009-P0004)](../build/reader/book-03.html#B03-C009-P0004)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 161, ¶8 (B03-C009-P0008)](../build/reader/book-03.html#B03-C009-P0008)
+
+### M048: Entrance Hall
+
+During the Book 6 flight, the oak front doors have been blasted open and the flagstones bear blood. A curse has hit the large Gryffindor hourglass and its rubies are falling onto the floor.
+
+Relation: `Entrance Hall` → `has_damaged_state` → `Blasted doors, bloodied flagstones and broken Gryffindor hourglass`.
+
+Evidence: explicit; state: Book 6 invasion aftermath.
+
+Model implication: Keep fixture identity, damage and scattered contents separate. This is a specific damaged scene, not the normal entrance design.
+
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 632–633, ¶22 (B06-C028-P0022)](../build/reader/book-06.html#B06-C028-P0022)
+
+### M049: Corridor statues and armour
+
+After McGonagall's spell, corridor statues and suits of armour jump from their plinths. Crashes from floors above and below indicate similar activation elsewhere.
+
+Relation: `Corridor statues and armour` → `can_be_animated_by` → `McGonagall's defensive spell`.
+
+Evidence: explicit; state: Book 7 battle preparation.
+
+Model implication: This provides direct later evidence of animation, stronger than Harry's initial suspicion about armour in Book 1. Plinths should remain when their occupants move.
+
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 638, ¶131 (B07-C030-P0131)](../build/reader/book-07.html#B07-C030-P0131)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 638, ¶132 (B07-C030-P0132)](../build/reader/book-07.html#B07-C030-P0132)
+
+### M050: School perimeter
+
+Harry and Dumbledore fly above a twisting lane and cross a boundary wall into the grounds. Dumbledore mutters and Harry feels his broom shudder, interpreting this as Dumbledore undoing the protection to permit their approach.
+
+Relation: `School perimeter` → `includes` → `Boundary wall and conditionally passable aerial protection`.
+
+Evidence: explicit; state: Book 6 return flight.
+
+Model implication: The wall and crossing are observed; the explanation is Harry's inference. Keep physical perimeter geometry and magical permission separate.
+
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 613–614, ¶36 (B06-C027-P0036)](../build/reader/book-06.html#B06-C027-P0036)
+

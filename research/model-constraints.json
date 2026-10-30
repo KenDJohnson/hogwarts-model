@@ -241,6 +241,66 @@
       "description": "Hermione places Myrtle's girls' toilet on the first floor in Book 2. Book 4 narration describes her as haunting the girls' toilets on the second floor.",
       "certainty": "explicit", "temporal": "Books 2 and 4", "evidence": ["B02-C008-P0094", "B04-C022-P0097"],
       "model_notes": "The conflict is explicit in the two sources, though the Book 2 location is dialogue. Keep both constraints and label any chosen implementation. Do not claim that a moving room or floor-renumbering explanation is itself stated canon."
+    },
+    {
+      "id": "M041", "group": "Interactions for an explorable model", "subject": "House-elf transport", "relation": "has_reported_exception_to", "object": "Wizard Apparition restrictions",
+      "description": "Ron explains that house-elves can Apparate and Disapparate into and out of Hogwarts even though wizards cannot.",
+      "certainty": "reported", "temporal": "Book 7 explanation", "evidence": ["B07-C010-P0157"],
+      "model_notes": "Do not implement the grounds' protection as a universal ban on every type of magical movement. Keep the actor and transport method in the access rule."
+    },
+    {
+      "id": "M042", "group": "Interactions for an explorable model", "subject": "Paired Vanishing Cabinets", "relation": "form_passage_between", "object": "Hogwarts and Borgin and Burkes",
+      "description": "Malfoy describes repairing the Hogwarts cabinet and explains its link to the one in Borgin and Burkes. Harry's earlier hiding route places the broken cabinet among objects in the Room of Requirement.",
+      "certainty": "reported", "temporal": "Book 6 repaired invasion route; earlier broken state", "evidence": ["B06-C024-P0105", "B06-C027-P0074", "B06-C027-P0078", "B06-C027-P0079"],
+      "model_notes": "The object's location is observed; its mechanism and earlier limbo state are explained by Malfoy. Treat the connection as a portal with dated working/broken states, rather than an ordinary continuous tunnel."
+    },
+    {
+      "id": "M043", "group": "Interactions for an explorable model", "subject": "Chamber entrance in Myrtle's bathroom", "relation": "opens_with", "object": "Parseltongue at snake-marked copper tap",
+      "description": "A tiny snake is scratched into a copper tap that Myrtle says has never worked. Harry's hissing command makes the tap light up and spin; the sink sinks away, exposing a pipe large enough for a person to slide into.",
+      "certainty": "explicit", "temporal": "Book 2 Chamber rescue", "evidence": ["B02-C016-P0181", "B02-C016-P0182", "B02-C016-P0183", "B02-C016-P0188", "B02-C016-P0189", "B02-C016-P0190"],
+      "model_notes": "Represent the sink and tap as a transformable entrance, with the shaft below. Preserve the separate uncertainty about the bathroom's numbered floor."
+    },
+    {
+      "id": "M044", "group": "Interactions for an explorable model", "subject": "Gryffindor girls' dormitory staircase", "relation": "changes_to", "object": "Smooth stone slide with alarm when Ron climbs",
+      "description": "Ron opens the dormitory door and starts up its spiral stair. At his sixth step a klaxon-like alarm sounds and the stairs become a long smooth stone slide; girls subsequently slide down it too. Hermione explains the old access rule.",
+      "certainty": "explicit", "temporal": "Book 5 dormitory incident", "evidence": ["B05-C017-P0022", "B05-C017-P0023", "B05-C017-P0024", "B05-C017-P0026", "B05-C017-P0028", "B05-C017-P0029"],
+      "model_notes": "Animate a state change in this particular stair. The scene demonstrates the response to Ron; Hermione's explanation is reported policy, not a specification of how the enchantment classifies every possible visitor."
+    },
+    {
+      "id": "M045", "group": "Interactions for an explorable model", "subject": "Merpeople settlement", "relation": "occupies", "object": "Lake floor with stone dwellings and central statue",
+      "description": "Beyond black mud and a painted rock, Harry encounters algae-stained stone dwellings with dark windows, weed gardens and a tethered Grindylow. More houses surround a village-like square containing a large merperson statue carved from a boulder; the tournament hostages are tied to its tail.",
+      "certainty": "explicit", "temporal": "Book 4 second task", "evidence": ["B04-C026-P0141", "B04-C026-P0144", "B04-C026-P0147", "B04-C026-P0149", "B04-C026-P0150"],
+      "model_notes": "Include an explorable underwater environment and separate the existing settlement from the temporary hostage installation. Harry's perceived swimming time is not a reliable distance measurement."
+    },
+    {
+      "id": "M046", "group": "Interactions for an explorable model", "subject": "Third-task maze", "relation": "temporarily_replaces", "object": "Quidditch pitch playing space",
+      "description": "The pitch is transformed into a maze enclosed by a twenty-foot hedge with an entrance gap. Within the high hedges the crowd noise falls silent. Bagman previously says the pitch will be returned to normal after the task.",
+      "certainty": "explicit", "temporal": "Book 4 third task", "evidence": ["B04-C028-P0142", "B04-C031-P0125", "B04-C031-P0135"],
+      "model_notes": "The observed hedge height is twenty feet (6.096 metres). Restoration is a reported intention. These passages do not establish a complete maze plan or prove that the sound isolation is magical rather than the effect of dense hedges."
+    },
+    {
+      "id": "M047", "group": "Interactions for an explorable model", "subject": "Great Hall", "relation": "has_temporary_state", "object": "Emergency sleeping hall",
+      "description": "During the castle search all houses are gathered in the Great Hall. Its entrances are guarded; Dumbledore moves the long tables to the walls and covers the floor in hundreds of purple sleeping bags.",
+      "certainty": "explicit", "temporal": "Book 3 after the Fat Lady attack", "evidence": ["B03-C009-P0001", "B03-C009-P0002", "B03-C009-P0004", "B03-C009-P0008"],
+      "model_notes": "Do not bake the feast tables permanently into the mesh. This room must support cleared-floor arrangements and furniture relocation."
+    },
+    {
+      "id": "M048", "group": "Interactions for an explorable model", "subject": "Entrance Hall", "relation": "has_damaged_state", "object": "Blasted doors, bloodied flagstones and broken Gryffindor hourglass",
+      "description": "During the Book 6 flight, the oak front doors have been blasted open and the flagstones bear blood. A curse has hit the large Gryffindor hourglass and its rubies are falling onto the floor.",
+      "certainty": "explicit", "temporal": "Book 6 invasion aftermath", "evidence": ["B06-C028-P0022"],
+      "model_notes": "Keep fixture identity, damage and scattered contents separate. This is a specific damaged scene, not the normal entrance design."
+    },
+    {
+      "id": "M049", "group": "Interactions for an explorable model", "subject": "Corridor statues and armour", "relation": "can_be_animated_by", "object": "McGonagall's defensive spell",
+      "description": "After McGonagall's spell, corridor statues and suits of armour jump from their plinths. Crashes from floors above and below indicate similar activation elsewhere.",
+      "certainty": "explicit", "temporal": "Book 7 battle preparation", "evidence": ["B07-C030-P0131", "B07-C030-P0132"],
+      "model_notes": "This provides direct later evidence of animation, stronger than Harry's initial suspicion about armour in Book 1. Plinths should remain when their occupants move."
+    },
+    {
+      "id": "M050", "group": "Interactions for an explorable model", "subject": "School perimeter", "relation": "includes", "object": "Boundary wall and conditionally passable aerial protection",
+      "description": "Harry and Dumbledore fly above a twisting lane and cross a boundary wall into the grounds. Dumbledore mutters and Harry feels his broom shudder, interpreting this as Dumbledore undoing the protection to permit their approach.",
+      "certainty": "explicit", "temporal": "Book 6 return flight", "evidence": ["B06-C027-P0036"],
+      "model_notes": "The wall and crossing are observed; the explanation is Harry's inference. Keep physical perimeter geometry and magical permission separate."
     }
   ]
 }
