@@ -1395,7 +1395,8 @@
         "B07-C031-P0259",
         "B07-C031-P0263",
         "B07-C031-P0264",
-        "B07-C031-P0265"
+        "B07-C031-P0265",
+        "B07-C031-P0262"
       ],
       "certainty": "explicit",
       "temporal": "May 1998 immediately after Fiendfyre escape",
@@ -2347,6 +2348,19 @@
       "certainty": "reported",
       "temporal": "1 September 2017 epilogue",
       "model_notes": "Confirms the two arrival modes remain in use nineteen years after the battle. No launch site, lake course, carriage road or universal visibility rule is supplied here."
+    },
+    {
+      "id": "B07-139",
+      "location": "Unnamed Hogwarts detention site",
+      "category": "temporary",
+      "description": "Neville reports that Michael Corner was caught releasing a first-year whom the Carrows had chained up, and was then tortured for doing so.",
+      "evidence": [
+        "B07-C029-P0042",
+        "B07-C029-P0044"
+      ],
+      "certainty": "reported",
+      "temporal": "1997–98 school year, before Neville’s refuge in late April 1998",
+      "model_notes": "Physical restraint in the school’s punishment regime; no room, chain anchorage or prisoner position is identified. Do not invent a dedicated dungeon cell."
     }
   ],
   "chapter_reviews": [
