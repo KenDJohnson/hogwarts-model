@@ -720,6 +720,168 @@
       "certainty": "explicit",
       "temporal": "September 1996",
       "model_notes": "Door connection and study furniture. This passage does not specify stairs beyond that door."
+    },
+    {
+      "id": "B06-052",
+      "location": "Gryffindor boys’ dormitory",
+      "category": "interior",
+      "description": "Storm-driven wind and sleet strike the dormitory windows. Harry reads in bed; Ron can be magically suspended above his own mattress and fall back onto it. Neville, Dean and Seamus are also present when the room wakes.",
+      "evidence": [
+        "B06-C012-P0003",
+        "B06-C012-P0007",
+        "B06-C012-P0010",
+        "B06-C012-P0011",
+        "B06-C012-P0013"
+      ],
+      "certainty": "explicit",
+      "temporal": "Mid-October 1996 Hogsmeade day",
+      "model_notes": "Shared sleeping room with windows and headroom above a bed. The suspension supplies no reliable ceiling height."
+    },
+    {
+      "id": "B06-053",
+      "location": "Front-door Hogsmeade checkpoint",
+      "category": "magic",
+      "description": "Filch stands at the oak front doors checking the names of students permitted to visit Hogsmeade and triple-checking them with a long, thin Secrecy Sensor. On return he approaches across the Entrance Hall with the Sensor, but McGonagall exempts her group.",
+      "evidence": [
+        "B06-C012-P0049",
+        "B06-C012-P0050",
+        "B06-C012-P0051",
+        "B06-C012-P0148"
+      ],
+      "certainty": "explicit",
+      "temporal": "Mid-October 1996 Hogsmeade day",
+      "model_notes": "Observed screening in both travel directions; portable equipment and staff procedure, not a permanent gate or detector installation."
+    },
+    {
+      "id": "B06-054",
+      "location": "Hogwarts–Hogsmeade road",
+      "category": "route",
+      "description": "The road out of the school grounds leads to Hogsmeade. The return goes up the village High Street and uphill along a lane to Hogwarts. The lane bends, has a hedgerow, and eventually enters the grounds before reaching the castle stone steps.",
+      "evidence": [
+        "B06-C012-P0002",
+        "B06-C012-P0052",
+        "B06-C012-P0105",
+        "B06-C012-P0108",
+        "B06-C012-P0113",
+        "B06-C012-P0114",
+        "B06-C012-P0140",
+        "B06-C012-P0145"
+      ],
+      "certainty": "explicit",
+      "temporal": "Mid-October 1996 Hogsmeade day",
+      "model_notes": "Winding uphill return with hedged edge; no precise road length, bearings or identification of every gate crossing in this scene."
+    },
+    {
+      "id": "B06-055",
+      "location": "October grounds weather",
+      "category": "temporary",
+      "description": "Strong wind and thick sleet accompany the village trip; frozen slush covers the return road. The landscape by the lane appears deserted while the wind roars.",
+      "evidence": [
+        "B06-C012-P0007",
+        "B06-C012-P0051",
+        "B06-C012-P0052",
+        "B06-C012-P0105",
+        "B06-C012-P0108",
+        "B06-C012-P0111",
+        "B06-C012-P0124",
+        "B06-C012-P0145"
+      ],
+      "certainty": "explicit",
+      "temporal": "Mid-October 1996 Hogsmeade day",
+      "model_notes": "Dated seasonal surface, weather and sound state; do not make permanent snow cover."
+    },
+    {
+      "id": "B06-056",
+      "location": "Hogsmeade excursion landmarks",
+      "category": "exterior",
+      "description": "Zonko’s is boarded up on this visit, while Honeydukes is open and crowded. The Three Broomsticks is reached after leaving Honeydukes and walking along the village street; departure from the pub leads back up the High Street towards Hogwarts.",
+      "evidence": [
+        "B06-C012-P0052",
+        "B06-C012-P0053",
+        "B06-C012-P0066",
+        "B06-C012-P0067",
+        "B06-C012-P0093",
+        "B06-C012-P0105"
+      ],
+      "certainty": "explicit",
+      "temporal": "Mid-October 1996 Hogsmeade day",
+      "model_notes": "Boundary-excursion waypoints and temporary shop closure; no exact inter-building distances or full village street plan."
+    },
+    {
+      "id": "B06-057",
+      "location": "Three Broomsticks pub",
+      "category": "interior",
+      "description": "The pub has tables, a bar, and an interior pillar near Harry’s table. Leanne says Katie returned from its bathroom carrying a parcel; the text explicitly leaves open whether she received it inside the bathroom.",
+      "evidence": [
+        "B06-C012-P0095",
+        "B06-C012-P0097",
+        "B06-C012-P0101",
+        "B06-C012-P0102",
+        "B06-C012-P0133",
+        "B06-C012-P0142",
+        "B06-C012-P0143",
+        "B06-C012-P0151"
+      ],
+      "certainty": "explicit",
+      "temporal": "Mid-October 1996 Hogsmeade day",
+      "model_notes": "Limited village interior context tied to the attempted castle delivery; no bathroom floor level or adjacency is established."
+    },
+    {
+      "id": "B06-058",
+      "location": "Entrance Hall–McGonagall office",
+      "category": "route",
+      "description": "McGonagall meets the group on the castle’s stone steps, takes them through the Entrance Hall and upstairs to her office. Afterward the students climb further stairs to the Gryffindor common room.",
+      "evidence": [
+        "B06-C012-P0145",
+        "B06-C012-P0146",
+        "B06-C012-P0148",
+        "B06-C012-P0149",
+        "B06-C012-P0183",
+        "B06-C012-P0185"
+      ],
+      "certainty": "explicit",
+      "temporal": "Mid-October 1996 Hogsmeade day",
+      "model_notes": "Office lies above Entrance Hall and below at least some of the route to Gryffindor; exact floor not stated."
+    },
+    {
+      "id": "B06-059",
+      "location": "McGonagall office",
+      "category": "interior",
+      "description": "Sleet hits the windows, which rattle in their frames. The office remains chilly despite a fire in a grate. McGonagall closes the door and moves around her desk to face the visitors.",
+      "evidence": [
+        "B06-C012-P0149"
+      ],
+      "certainty": "explicit",
+      "temporal": "Mid-October 1996 Hogsmeade day",
+      "model_notes": "Windows, fireplace, desk and door, plus storm-specific temperature/sound. Desk position gives no complete room plan."
+    },
+    {
+      "id": "B06-060",
+      "location": "McGonagall office–hospital wing",
+      "category": "route",
+      "description": "McGonagall sends Leanne up to the hospital wing and later says she will go up there herself.",
+      "evidence": [
+        "B06-C012-P0152",
+        "B06-C012-P0182"
+      ],
+      "certainty": "reported",
+      "temporal": "Mid-October 1996 Hogsmeade day",
+      "model_notes": "Upward route described from this office; do not infer an absolute hospital floor number."
+    },
+    {
+      "id": "B06-061",
+      "location": "Gryffindor portrait entrance and common-room fire",
+      "category": "magic",
+      "description": "Hermione gives the Fat Lady the password Dilligrout and the portrait swings open into the common room. The crowded room smells of damp clothing after students return from the storm; desirable armchairs stand by the fire.",
+      "evidence": [
+        "B06-C012-P0193",
+        "B06-C012-P0194",
+        "B06-C012-P0195",
+        "B06-C012-P0196"
+      ],
+      "certainty": "explicit",
+      "temporal": "Mid-October 1996 Hogsmeade day",
+      "model_notes": "Observed password access, swinging portrait, fireplace seating and a dated wet-clothing state; distinguish this entrance from a generic door."
     }
   ],
   "chapter_reviews": [
@@ -843,6 +1005,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two blocks, including classroom overview, trials, cabin visit and security dialogue. Captured outdoor greenhouse use, stadium and routes, giant-scale cabin furnishings, Forest colony state, Hall bird access and security procedures."
+    },
+    {
+      "chapter": 12,
+      "reviewed_ranges": [
+        [
+          1,
+          198
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks. Recorded dormitory/weather, outbound and inbound screening, winding village road and limited excursion landmarks, pub/bathroom uncertainty, McGonagall office and vertical routes, and common-room password/fire seating. Necklace is a carried object rather than a permanent installation."
     }
   ]
 }
