@@ -36,6 +36,141 @@
       "certainty": "explicit",
       "temporal": "Recollection before September 1995 return to school",
       "model_notes": "A remembered everyday approach, not a newly observed journey; establishes vegetable plots along a greenhouse approach without a compass bearing."
+    },
+    {
+      "id": "B05-004",
+      "location": "King’s Cross departure connection",
+      "category": "route",
+      "description": "The barrier between platforms nine and ten admits travellers to platform nine and three-quarters; arrivals emerge through a wrought-iron arch, beside the steam-belching Hogwarts Express.",
+      "evidence": [
+        "B05-C010-P0026",
+        "B05-C010-P0027",
+        "B05-C010-P0031"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 return to school",
+      "model_notes": "The remote London terminus is included only as the school rail connection."
+    },
+    {
+      "id": "B05-005",
+      "location": "Hogwarts Express interior",
+      "category": "interior",
+      "description": "A corridor serves compartments with glass-panelled sliding doors; luggage racks hold trunks and owl cages. The prefect carriage is toward the engine; Harry finds seating in the last carriage after passing five occupied carriages.",
+      "evidence": [
+        "B05-C010-P0051",
+        "B05-C010-P0054",
+        "B05-C010-P0057",
+        "B05-C010-P0059",
+        "B05-C010-P0060",
+        "B05-C010-P0065",
+        "B05-C010-P0069"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 return to school",
+      "model_notes": "Transport geometry, without an invented carriage total or exact seat plan."
+    },
+    {
+      "id": "B05-006",
+      "location": "Rail approach to Hogwarts",
+      "category": "route",
+      "description": "The train travels farther north through open country; carriage lamps come on at night. Harry attempts a distant castle view through a grimy rain-streaked window, but the moonless darkness prevents it.",
+      "evidence": [
+        "B05-C010-P0079",
+        "B05-C010-P0171",
+        "B05-C010-P0172"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 return to school",
+      "model_notes": "Do not turn the attempted view into a confirmed sightline or locate the railway by compass bearing from the castle."
+    },
+    {
+      "id": "B05-007",
+      "location": "Hogsmeade station and lake path",
+      "category": "route",
+      "description": "Pine trees line the path down to the lake, their smell reaching the arrival platform. First-years assemble separately under a teacher carrying a lantern.",
+      "evidence": [
+        "B05-C010-P0177",
+        "B05-C010-P0178",
+        "B05-C010-P0179"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 return to school",
+      "model_notes": "The downward path and pine lining are explicit; no first-year boat journey is narrated here."
+    },
+    {
+      "id": "B05-008",
+      "location": "Hogsmeade station to coach road",
+      "category": "route",
+      "description": "Students leave the platform through the station, passing a narrow doorway onto the dark rain-washed road outside. Roughly a hundred stagecoaches wait there to take pupils above first year up to the castle.",
+      "evidence": [
+        "B05-C010-P0183",
+        "B05-C010-P0184",
+        "B05-C010-P0185",
+        "B05-C010-P0186"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 return to school",
+      "model_notes": "Preserve road-to-station adjacency and uphill destination; no road length given."
+    },
+    {
+      "id": "B05-009",
+      "location": "Station coaches and their draft animals",
+      "category": "exterior",
+      "description": "Skeletal black horse-like creatures stand harnessed between the coach shafts. They have dragon-like heads, white pupil-less eyes and large black leathery bat-like wings; vapour issues from their nostrils in the cold station light.",
+      "evidence": [
+        "B05-C010-P0187",
+        "B05-C010-P0205",
+        "B05-C010-P0210",
+        "B05-C010-P0218"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 return to school",
+      "model_notes": "Animal clearance and harness placement matter for transport animation. Species name is not supplied in this chapter."
+    },
+    {
+      "id": "B05-010",
+      "location": "Coach draft-animal visibility",
+      "category": "magic",
+      "description": "Harry and Luna can see the harnessed winged creatures while Ron cannot, even standing directly before one.",
+      "evidence": [
+        "B05-C010-P0205",
+        "B05-C010-P0208",
+        "B05-C010-P0209",
+        "B05-C010-P0212",
+        "B05-C010-P0218",
+        "B05-C010-P0221",
+        "B05-C010-P0222"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 return to school",
+      "model_notes": "An observed visibility difference; its cause is not established by this passage."
+    },
+    {
+      "id": "B05-011",
+      "location": "Coach service continuity",
+      "category": "history",
+      "description": "Luna says she has seen the creatures since her first day and that they have always pulled the carriages.",
+      "evidence": [
+        "B05-C010-P0223"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1995 return to school",
+      "model_notes": "Character report, distinct from Harry’s previous assumption that the coaches moved by themselves."
+    },
+    {
+      "id": "B05-012",
+      "location": "Hogsmeade coaches: passenger interior",
+      "category": "interior",
+      "description": "Passengers climb into the coach’s dark, musty interior; one coach accommodates Hermione, Ginny, Ron, Luna and Harry.",
+      "evidence": [
+        "B05-C010-P0195",
+        "B05-C010-P0203",
+        "B05-C010-P0221",
+        "B05-C010-P0224"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 return to school",
+      "model_notes": "At least five occupants in this instance; upholstery and seating configuration unspecified."
     }
   ],
   "chapter_reviews": [
@@ -137,6 +272,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read every paragraph, including Ministry departure, Grimmauld Place, recollections and Boggart scene. Recorded the remembered greenhouse approach; London interiors and photograph are outside the castle model."
+    },
+    {
+      "chapter": 10,
+      "reviewed_ranges": [
+        [
+          1,
+          224
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs, including dream, London departure, train conversation and arrival. Dream corridor is unlocated and not treated as Hogwarts; Neville is uncertain whether the greenhouse has his plant."
     }
   ]
 }
