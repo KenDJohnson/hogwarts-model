@@ -355,6 +355,18 @@
       "certainty": "explicit",
       "temporal": "Christmas Eve 1997 recollection",
       "model_notes": "Corroborates the Hogwarts tomb’s white marble only; graveyard row positions and visibility belong to Godric’s Hollow, not the school tomb."
+    },
+    {
+      "id": "B07-026",
+      "location": "Room of Requirement / hidden objects state",
+      "category": "interior",
+      "description": "The clutter of Xenophilius’s living room recalls the Room of Requirement transformed into a gigantic labyrinth made of objects hidden over centuries.",
+      "evidence": [
+        "B07-C020-P0111"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late December 1997 recollection of the 1996–97 hiding-room state",
+      "model_notes": "Supports enormous scale and maze-like accumulated storage. The circular room, hanging creature models and working printing press belong to Lovegood’s house and are not attributes of the Hogwarts room."
     }
   ],
   "chapter_reviews": [
@@ -566,6 +578,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs in three complete chunks. Forest of Dean pool, oaks, sycamore, snow and campsite are explicitly remote from Hogwarts and excluded. Sword retrieval and portable Deluminator do not establish additional school geometry."
+    },
+    {
+      "chapter": 20,
+      "reviewed_ranges": [
+        [
+          1,
+          153
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Recorded direct comparison with Room of Requirement’s hiding state. Ottery St Catchpole, Lovegood tower, its garden and inventions are outside school boundary/tunnel context."
     }
   ]
 }
