@@ -39,6 +39,11 @@ def extract(source: Path) -> dict:
                     if local == "pageTarget" or elem.get("{http://www.idpf.org/2007/ops}type") == "pagebreak":
                         page_targets += 1
         for book, count in EXPECTED.items():
+            actual = {int(match[1]) for name in names if (match := re.fullmatch(
+                fr"{book}/OEBPS/hp0{book}_ch(\d{{3}})_en-gb.html", name
+            ))}
+            if actual != set(range(1, count + 1)):
+                raise ValueError(f"Book {book}: unexpected canonical chapter set {sorted(actual)}")
             metadata = ET.fromstring(archive.read(f"{book}/OEBPS/content.opf"))
             title = metadata.findtext("o:metadata/d:title", namespaces=NS)
             identifiers = [e.text for e in metadata.findall("o:metadata/d:identifier", NS)]

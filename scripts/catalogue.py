@@ -256,6 +256,71 @@ document.getElementById('query').addEventListener('input',render);document.getEl
     (folder / "index.html").write_text(page)
 
 
+def validate_model_constraints(corpus: dict, model: dict) -> list[str]:
+    index = paragraph_index(corpus)
+    errors = []
+    seen = set()
+    fields = {"id", "group", "subject", "relation", "object", "description", "certainty", "temporal", "evidence", "model_notes"}
+    for constraint in model.get("constraints", []):
+        ident = constraint.get("id", "<missing>")
+        if not re.fullmatch(r"M\d{3,}", ident) or ident in seen:
+            errors.append(f"{ident}: invalid or duplicate model constraint")
+        seen.add(ident)
+        if fields - constraint.keys():
+            errors.append(f"{ident}: missing model constraint fields")
+            continue
+        if constraint["certainty"] not in CERTAINTIES:
+            errors.append(f"{ident}: unknown model certainty")
+        if not constraint["evidence"]:
+            errors.append(f"{ident}: model constraint has no evidence")
+        for ref in constraint["evidence"]:
+            if ref not in index:
+                errors.append(f"{ident}: nonexistent model evidence {ref}")
+    return errors
+
+
+def write_model_guide(corpus: dict, model: dict, destination: Path) -> None:
+    index = paragraph_index(corpus)
+    lines = ["# Source-backed foundation for a Hogwarts model", "",
+             "This is a selected set of constraints to guide an initial blockout, not a complete "
+             "floor plan. The [description catalogue](catalogue.md) supplies the broader evidence. "
+             "All pages are generated project reference pages, ref250-v1.", "",
+             "## Working method", "",
+             "Build an adjacency and access graph before fixing coordinates. Keep each room, "
+             "route and fixture linked to its evidence. Fit dimensions only where the text "
+             "supplies them; label other dimensions as design choices. A plausible reconstruction "
+             "can satisfy the text without being uniquely determined by it.", "",
+             "Use separate temporal states for school years, tournament arrangements, changing "
+             "teachers' furnishings, Christmas and other decorations, access restrictions and "
+             "wartime damage. Give the Room of Requirement requested interiors and exits. "
+             "Represent conditional stair and door behaviour as rules on connections, with "
+             "ordinary traversable geometry for each active state.", "",
+             "Treat named compass directions and floor levels as local constraints with a source, "
+             "not permission to fill in an entire map. Distinguish British ground-floor numbering, "
+             "the floor of an entrance and the levels occupied by a tower. A staircase count is "
+             "not a storey count. Screen adaptations are not additional evidence for this project.", "",
+             "## Questions the reconstruction must keep open", "",
+             "- Exact castle footprint, tower diameters and heights, most room dimensions and corridor lengths.",
+             "- Complete site orientation, lake shape, terrain contours and the geometry of unmeasured routes.",
+             "- Locations and destinations of secret passages not individually identified by the text.",
+             "- Interiors of rooms that are mentioned without being described in the reviewed evidence.",
+             "- How to implement conflicting floor references without presenting the chosen repair as canon.", ""]
+    current_group = None
+    for constraint in model["constraints"]:
+        if constraint["group"] != current_group:
+            current_group = constraint["group"]
+            lines += [f"## {current_group}", ""]
+        lines += [f"### {constraint['id']}: {constraint['subject']}", "", constraint["description"], "",
+                  f"Relation: `{constraint['subject']}` → `{constraint['relation']}` → `{constraint['object']}`.", "",
+                  f"Evidence: {constraint['certainty']}; state: {constraint['temporal']}.", "",
+                  f"Model implication: {constraint['model_notes']}", ""]
+        for ref in constraint["evidence"]:
+            p = index[ref]
+            lines.append(f"- [{citation(p)}](../build/reader/book-{p['book']:02d}.html#{ref})")
+        lines.append("")
+    destination.write_text("\n".join(lines) + "\n")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--corpus", type=Path, default=ROOT / "build/corpus.json")
@@ -295,6 +360,9 @@ def main() -> None:
         return
     research = read_research(args.research)
     errors, coverage = validate(corpus, research)
+    model_path = ROOT / "research/model-constraints.json"
+    model = load_json(model_path) if model_path.exists() else {"constraints": []}
+    errors.extend(validate_model_constraints(corpus, model))
     for error in errors:
         print(error, file=sys.stderr)
     if errors:
@@ -315,6 +383,7 @@ def main() -> None:
     args.output.write_text(json.dumps(catalogue, ensure_ascii=False, indent=2) + "\n")
     (args.output.parent / "coverage.json").write_text(json.dumps(coverage, ensure_ascii=False, indent=2) + "\n")
     write_markdown(catalogue, coverage, args.docs)
+    write_model_guide(corpus, model, args.docs / "model-foundation.md")
     write_reader(corpus, catalogue, args.reader)
     with (args.output.parent / "catalogue.csv").open("w", newline="") as stream:
         writer = csv.DictWriter(stream, fieldnames=["id", "location", "category", "description", "certainty", "temporal", "model_notes", "references"])

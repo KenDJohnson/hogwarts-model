@@ -45,6 +45,11 @@ entire extracted corpus. `show` reports the book/chapter/reference page and can
 include neighbouring paragraphs. These tools assist the review; searching
 alone does not count as reading a chapter.
 
+After compiling a review, run `python scripts/discovery_audit.py --limit 30`
+to rank uncited paragraphs with architectural language for a second look.
+These are deliberately noisy discovery candidates, not verified omissions.
+The full candidate report stays under ignored `build/`.
+
 ## Citation policy
 
 The EPUB has no print-page map. The user selected stable EPUB references plus
@@ -60,9 +65,15 @@ See [the research schema](research/SCHEMA.md) for inclusion and review rules.
 
 ## Research status
 
-Corpus tooling is being established. A full-text extraction is not a completed
-semantic review. Per-chapter reviewed ranges will record what has actually
-been read; generated coverage reports will keep any remaining work visible.
+Extraction, citation, search and reader tooling are validated. A full-text
+extraction is not a completed semantic review. Per-chapter reviewed ranges
+record what has actually been read; generated coverage reports keep remaining
+work visible. The full seven-book semantic review is in progress.
+
+The [model foundation](docs/model-foundation.md) already records selected
+source-backed relationships and a floor-reference conflict. Its editable,
+machine-readable source is [model-constraints.json](research/model-constraints.json).
+It is a starting constraint set rather than a unique castle plan.
 
 ## Checks
 
