@@ -2442,6 +2442,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs in two complete chunks. Recorded office-to-grounds route, extant dark hut and remembered kettle, Forest-edge/interior terrain and Dementors, Stone effects/drop, Aragog clearing web remains and detailed confrontation layout."
+    },
+    {
+      "chapter": 35,
+      "reviewed_ranges": [
+        [
+          1,
+          175
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. The bright mist, glass-roofed hall, seats and railings belong to Harry’s liminal King’s Cross experience, not Hogwarts. His initial Room of Requirement question is explicitly tentative; the hall being larger than the Great Hall supplies no usable school geometry. Dialogue adds no new physical school description."
     }
   ]
 }
