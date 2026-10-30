@@ -23,6 +23,7 @@ and local HTML reader:
 ```sh
 python scripts/catalogue.py validate --require-complete
 python scripts/catalogue.py build
+python scripts/verify_reader.py
 open build/reader/index.html
 ```
 

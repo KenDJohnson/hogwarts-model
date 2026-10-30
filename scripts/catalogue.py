@@ -239,19 +239,23 @@ def write_reader(corpus: dict, catalogue: dict, folder: Path) -> None:
     data = json.dumps(records, ensure_ascii=False).replace("</", "<\\/")
     page = f'''<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hogwarts evidence catalogue</title><style>{STYLE}</style>
 <h1>Hogwarts evidence catalogue</h1><p>Search descriptions, places, model notes, and source passages. All pages are generated ref250-v1 pages, not printed pages.</p>
-<nav><input id="query" placeholder="Search, e.g. staircase, lake, seventh floor" aria-label="Search"><select id="book" aria-label="Book"><option value="">All books</option>{''.join(f'<option value="{b}">Book {b}</option>' for b in range(1,8))}</select></nav><p id="count"></p><main id="results"></main>
+<nav><input id="query" placeholder="Search, e.g. staircase, lake, seventh floor" aria-label="Search"><select id="book" aria-label="Book"><option value="">All books</option>{''.join(f'<option value="{b}">Book {b}</option>' for b in range(1,8))}</select><div><button id="previous">Previous 100</button> <button id="next">Next 100</button></div></nav><p id="count"></p><main id="results"></main>
 <script id="data" type="application/json">{data}</script><script>
 const entries=JSON.parse(document.getElementById('data').textContent);
 const main=document.getElementById('results');
+let offset=0;
 function element(tag,text,parent,cls){{const e=document.createElement(tag);if(text)e.textContent=text;if(cls)e.className=cls;if(parent)parent.append(e);return e;}}
 function render(){{const q=document.getElementById('query').value.toLocaleLowerCase();const book=document.getElementById('book').value;
  const matches=entries.filter(e=>(!book||e.citations[0].book===Number(book))&&JSON.stringify(e).toLocaleLowerCase().includes(q));
- document.getElementById('count').textContent=matches.length+' matching records; showing first 100. Narrow the search for more.';main.replaceChildren();
- for(const e of matches.slice(0,100)){{const a=element('article','',main);a.id=e.id;element('h2',e.id+' · '+e.location,a);element('p',e.description,a);element('p',e.category+' · '+e.certainty+' · '+e.temporal,a,'meta');element('p','Model: '+e.model_notes,a);
+ document.getElementById('count').textContent=matches.length+' matching records'+(matches.length?'; showing '+(offset+1)+'–'+Math.min(offset+100,matches.length):'')+'.';
+ document.getElementById('previous').disabled=offset===0;document.getElementById('next').disabled=offset+100>=matches.length;main.replaceChildren();
+ for(const e of matches.slice(offset,offset+100)){{const a=element('article','',main);a.id=e.id;element('h2',e.id+' · '+e.location,a);element('p',e.description,a);element('p',e.category+' · '+e.certainty+' · '+e.temporal,a,'meta');element('p','Model: '+e.model_notes,a);
  const detail=element('details','',a);element('summary','Evidence and source passages',detail);
  e.citations.forEach((c,i)=>{{const p=element('p','',detail);const link=element('a',c.label,p);link.href='book-'+String(c.book).padStart(2,'0')+'.html#'+c.id;element('p',c.source_member+' · source p['+c.source_p_ordinal+']',detail,'meta');element('blockquote',e.source_text[i],detail,'source');}});
  }} }}
-document.getElementById('query').addEventListener('input',render);document.getElementById('book').addEventListener('change',render);render();
+function reset(){{offset=0;render();}}
+document.getElementById('query').addEventListener('input',reset);document.getElementById('book').addEventListener('change',reset);
+document.getElementById('previous').addEventListener('click',()=>{{offset=Math.max(0,offset-100);render();}});document.getElementById('next').addEventListener('click',()=>{{offset+=100;render();}});render();
 </script></html>'''
     (folder / "index.html").write_text(page)
 
