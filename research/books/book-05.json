@@ -1,5 +1,28 @@
 {
   "book": 5,
   "entries": [],
-  "chapter_reviews": []
+  "chapter_reviews": [
+    {
+      "chapter": 1,
+      "reviewed_ranges": [
+        [
+          1,
+          184
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Privet Drive/Little Whinging, Dementor attack, Ministry letters and unlocated corridor dreams add no Hogwarts spatial description."
+    },
+    {
+      "chapter": 2,
+      "reviewed_ranges": [
+        [
+          1,
+          253
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Privet Drive/Little Whinging, Dementor attack, Ministry letters and unlocated corridor dreams add no Hogwarts spatial description."
+    }
+  ]
 }
