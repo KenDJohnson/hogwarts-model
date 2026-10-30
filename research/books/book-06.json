@@ -545,6 +545,181 @@
       "certainty": "explicit",
       "temporal": "First private lesson, September 1996",
       "model_notes": "Lamps are room fittings; ring is a dated display state rather than architecture. Exact table position relative to the door is not fixed by being noticed on departure."
+    },
+    {
+      "id": "B06-040",
+      "location": "Herbology greenhouses",
+      "category": "grounds",
+      "description": "The sixth-years go outside to greenhouses for Herbology; dangerous plants include Venomous Tentacula capable of seizing a student unexpectedly from behind.",
+      "evidence": [
+        "B06-C011-P0002"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1996",
+      "model_notes": "Exterior teaching structures and hazardous vegetation interaction; this passage supplies no greenhouse number or plan."
+    },
+    {
+      "id": "B06-041",
+      "location": "Great Hall staff furniture",
+      "category": "furnishing",
+      "description": "Hagrid has a huge chair at the staff table; the Headmaster also has an identifiable chair there.",
+      "evidence": [
+        "B06-C011-P0004",
+        "B06-C011-P0039",
+        "B06-C011-P0040"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1996",
+      "model_notes": "Differing chair scale/occupancy positions, without measured sizes or exact seating coordinates."
+    },
+    {
+      "id": "B06-042",
+      "location": "Great Hall owl access",
+      "category": "route",
+      "description": "Post owls swoop through the rain-flecked windows, scatter water droplets over diners and land at the tables.",
+      "evidence": [
+        "B06-C011-P0018",
+        "B06-C011-P0025"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1996",
+      "model_notes": "Windows function as bird-entry openings. Rainy ceiling at P0013 is a sky appearance; Harry’s feeling of heat is embarrassment, not objective room temperature."
+    },
+    {
+      "id": "B06-043",
+      "location": "Castle–Quidditch stadium",
+      "category": "route",
+      "description": "From breakfast in the Great Hall the group goes down through cool misty drizzle to the Quidditch stadium, where Hermione takes a place in the stands.",
+      "evidence": [
+        "B06-C011-P0043"
+      ],
+      "certainty": "explicit",
+      "temporal": "Quidditch trials morning, September 1996",
+      "model_notes": "Downward journey from castle to stadium; weather is a dated state, not permanent atmospheric specification."
+    },
+    {
+      "id": "B06-044",
+      "location": "Quidditch pitch and spectator stands",
+      "category": "grounds",
+      "description": "The stadium has a pitch with goalposts and groups of three goalhoops. Spectators sit in stands near the pitch edge, within view of applicants waiting there; Keeper trials take place airborne at the hoops.",
+      "evidence": [
+        "B06-C011-P0046",
+        "B06-C011-P0049",
+        "B06-C011-P0050",
+        "B06-C011-P0051",
+        "B06-C011-P0057",
+        "B06-C011-P0058",
+        "B06-C011-P0061",
+        "B06-C011-P0072"
+      ],
+      "certainty": "explicit",
+      "temporal": "Quidditch trials, September 1996",
+      "model_notes": "Three hoops are explicit in Harry’s hyperbole about McLaggen’s width; that hyperbole supplies no usable width. No stadium capacity, hoop height or pitch dimensions given."
+    },
+    {
+      "id": "B06-045",
+      "location": "Quidditch pitch–Hagrid cabin",
+      "category": "route",
+      "description": "After the trials the group leaves towards Hagrid’s cabin; later they hurry back through dark, deserted grounds to the castle and Great Hall entrance.",
+      "evidence": [
+        "B06-C011-P0073",
+        "B06-C011-P0128",
+        "B06-C011-P0129",
+        "B06-C011-P0130"
+      ],
+      "certainty": "explicit",
+      "temporal": "Trials day, September 1996",
+      "model_notes": "Grounds route connecting pitch, cabin and castle; no direct-distance or bearing claims. Weather clears to watery sunshine before dusk."
+    },
+    {
+      "id": "B06-046",
+      "location": "Hagrid cabin front",
+      "category": "grounds",
+      "description": "The large grey Hippogriff Buckbeak is tethered in front of Hagrid’s cabin. Hagrid can come around the corner of the building with Fang behind him.",
+      "evidence": [
+        "B06-C011-P0078",
+        "B06-C011-P0081",
+        "B06-C011-P0082",
+        "B06-C011-P0084"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1996",
+      "model_notes": "Directly observed tethering location supplements earlier reports. Animal approach involves reciprocal bows; no fence or enclosure is described."
+    },
+    {
+      "id": "B06-047",
+      "location": "Hagrid cabin table and tea equipment",
+      "category": "furnishing",
+      "description": "Visitors sit around an enormous wooden table. Hagrid brews tea in an enormous copper kettle and serves bucket-sized mugs; the cabin has room to circulate around the table.",
+      "evidence": [
+        "B06-C011-P0102",
+        "B06-C011-P0106",
+        "B06-C011-P0107",
+        "B06-C011-P0117"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1996",
+      "model_notes": "Relative giant-scale furnishings, material and circulation; avoid inventing exact scale ratios from metaphors."
+    },
+    {
+      "id": "B06-048",
+      "location": "Hagrid cabin grub barrel",
+      "category": "temporary",
+      "description": "A large barrel in a corner contains slimy white writhing grubs roughly a foot long, making a squelching sound. People take the longer way round the table to avoid it.",
+      "evidence": [
+        "B06-C011-P0111",
+        "B06-C011-P0113",
+        "B06-C011-P0115",
+        "B06-C011-P0117"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1996",
+      "model_notes": "Dated animal-food storage; the barrel’s relationship to a corner and circulation route is explicit."
+    },
+    {
+      "id": "B06-049",
+      "location": "Aragog colony deep in Forbidden Forest",
+      "category": "grounds",
+      "description": "Harry recalls that Aragog lives deep in the Forbidden Forest. Hagrid reports that the spider has been ill since summer and his family/colony is increasingly restless; he considers approaching unsafe for anyone except himself.",
+      "evidence": [
+        "B06-C011-P0118",
+        "B06-C011-P0119",
+        "B06-C011-P0121",
+        "B06-C011-P0123"
+      ],
+      "certainty": "reported",
+      "temporal": "September 1996",
+      "model_notes": "Habitat remembered by Harry and access danger reported by Hagrid. No new colony geometry or exact route; record ecological state without treating Hagrid’s safety judgement as a physical barrier."
+    },
+    {
+      "id": "B06-050",
+      "location": "Entrance Hall security screening",
+      "category": "magic",
+      "description": "Hermione reports that Filch screened arriving students with Secrecy Sensors in the Entrance Hall and confiscated Crabbe’s shrunken head. She also relays Filch’s statement that incoming owls are checked.",
+      "evidence": [
+        "B06-C011-P0151",
+        "B06-C011-P0152",
+        "B06-C011-P0153",
+        "B06-C011-P0155",
+        "B06-C011-P0156"
+      ],
+      "certainty": "reported",
+      "temporal": "September 1996",
+      "model_notes": "Operational 1996 security state; Harry himself missed screening due to late arrival, so it is not a universal impenetrable check."
+    },
+    {
+      "id": "B06-051",
+      "location": "Gryffindor common room and dormitory access",
+      "category": "interior",
+      "description": "The crowded common room has tables and chairs; a door leads towards the boys’ dormitories.",
+      "evidence": [
+        "B06-C011-P0147",
+        "B06-C011-P0161",
+        "B06-C011-P0162"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1996",
+      "model_notes": "Door connection and study furniture. This passage does not specify stairs beyond that door."
     }
   ],
   "chapter_reviews": [
@@ -657,6 +832,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in three non-truncated blocks, including the full Gaunt memory and explanatory dialogue. Captured unnamed concealment statue, seventh-floor gargoyle route, circular office/fittings and Pensieve transition. Little Hangleton and Gaunt cottage are geographically unrelated to Hogwarts and excluded."
+    },
+    {
+      "chapter": 11,
+      "reviewed_ranges": [
+        [
+          1,
+          166
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks, including classroom overview, trials, cabin visit and security dialogue. Captured outdoor greenhouse use, stadium and routes, giant-scale cabin furnishings, Forest colony state, Hall bird access and security procedures."
     }
   ]
 }
