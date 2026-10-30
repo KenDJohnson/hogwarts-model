@@ -350,4 +350,3 @@ Model: Third-floor shortcut on upward route; no complete internal shortcut shape
 
 - [Book 6, ch. 23, “Horcruxes”, ref p. 515–516, ¶1 (B06-C023-P0001)](../../build/reader/book-06.html#B06-C023-P0001)
 - [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶7 (B06-C023-P0007)](../../build/reader/book-06.html#B06-C023-P0007)
-

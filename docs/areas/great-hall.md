@@ -244,7 +244,7 @@ Evidence: explicit; state: 31 October 1992 Deathday party.
 
 Model: A roomier dungeon is the reported venue. No dungeon number or relation to Snape’s office is supplied.
 
-- [Book 2, ch. 8, “The Deathday Party”, ref p. 130–131, ¶71 (B02-C008-P0071)](../../build/reader/book-02.html#B02-C008-P0071)
+- [Book 2, ch. 8, “The Deathday Party”, ref p. 131, ¶71 (B02-C008-P0071)](../../build/reader/book-02.html#B02-C008-P0071)
 - [Book 2, ch. 8, “The Deathday Party”, ref p. 132, ¶84 (B02-C008-P0084)](../../build/reader/book-02.html#B02-C008-P0084)
 - [Book 2, ch. 8, “The Deathday Party”, ref p. 132–133, ¶85 (B02-C008-P0085)](../../build/reader/book-02.html#B02-C008-P0085)
 - [Book 2, ch. 8, “The Deathday Party”, ref p. 133, ¶86 (B02-C008-P0086)](../../build/reader/book-02.html#B02-C008-P0086)
@@ -274,7 +274,7 @@ Model: Large clear-floor use and wall-side stage. Lockhart reaches a wall when b
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 190, ¶55 (B02-C011-P0055)](../../build/reader/book-02.html#B02-C011-P0055)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 190, ¶56 (B02-C011-P0056)](../../build/reader/book-02.html#B02-C011-P0056)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 191, ¶61 (B02-C011-P0061)](../../build/reader/book-02.html#B02-C011-P0061)
-- [Book 2, ch. 11, “The Duelling Club”, ref p. 191, ¶65 (B02-C011-P0065)](../../build/reader/book-02.html#B02-C011-P0065)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 191–192, ¶65 (B02-C011-P0065)](../../build/reader/book-02.html#B02-C011-P0065)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 192, ¶69 (B02-C011-P0069)](../../build/reader/book-02.html#B02-C011-P0069)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 192, ¶70 (B02-C011-P0070)](../../build/reader/book-02.html#B02-C011-P0070)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 192, ¶71 (B02-C011-P0071)](../../build/reader/book-02.html#B02-C011-P0071)
@@ -282,12 +282,12 @@ Model: Large clear-floor use and wall-side stage. Lockhart reaches a wall when b
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 194, ¶84 (B02-C011-P0084)](../../build/reader/book-02.html#B02-C011-P0084)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 194, ¶85 (B02-C011-P0085)](../../build/reader/book-02.html#B02-C011-P0085)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 194, ¶86 (B02-C011-P0086)](../../build/reader/book-02.html#B02-C011-P0086)
-- [Book 2, ch. 11, “The Duelling Club”, ref p. 194–195, ¶88 (B02-C011-P0088)](../../build/reader/book-02.html#B02-C011-P0088)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 195, ¶88 (B02-C011-P0088)](../../build/reader/book-02.html#B02-C011-P0088)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 195, ¶98 (B02-C011-P0098)](../../build/reader/book-02.html#B02-C011-P0098)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 195, ¶99 (B02-C011-P0099)](../../build/reader/book-02.html#B02-C011-P0099)
-- [Book 2, ch. 11, “The Duelling Club”, ref p. 195–196, ¶101 (B02-C011-P0101)](../../build/reader/book-02.html#B02-C011-P0101)
-- [Book 2, ch. 11, “The Duelling Club”, ref p. 196, ¶105 (B02-C011-P0105)](../../build/reader/book-02.html#B02-C011-P0105)
-- [Book 2, ch. 11, “The Duelling Club”, ref p. 196–197, ¶107 (B02-C011-P0107)](../../build/reader/book-02.html#B02-C011-P0107)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 196, ¶101 (B02-C011-P0101)](../../build/reader/book-02.html#B02-C011-P0101)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 196–197, ¶105 (B02-C011-P0105)](../../build/reader/book-02.html#B02-C011-P0105)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 197, ¶107 (B02-C011-P0107)](../../build/reader/book-02.html#B02-C011-P0107)
 
 ## B02-077: Great Hall — conjured snake event
 
@@ -299,11 +299,11 @@ Model: Dated mobile hazard; no permanent serpent enclosure or Hall access rule i
 
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 195, ¶98 (B02-C011-P0098)](../../build/reader/book-02.html#B02-C011-P0098)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 195, ¶99 (B02-C011-P0099)](../../build/reader/book-02.html#B02-C011-P0099)
-- [Book 2, ch. 11, “The Duelling Club”, ref p. 195, ¶100 (B02-C011-P0100)](../../build/reader/book-02.html#B02-C011-P0100)
-- [Book 2, ch. 11, “The Duelling Club”, ref p. 195–196, ¶101 (B02-C011-P0101)](../../build/reader/book-02.html#B02-C011-P0101)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 195–196, ¶100 (B02-C011-P0100)](../../build/reader/book-02.html#B02-C011-P0100)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 196, ¶101 (B02-C011-P0101)](../../build/reader/book-02.html#B02-C011-P0101)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 196, ¶102 (B02-C011-P0102)](../../build/reader/book-02.html#B02-C011-P0102)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 196, ¶104 (B02-C011-P0104)](../../build/reader/book-02.html#B02-C011-P0104)
-- [Book 2, ch. 11, “The Duelling Club”, ref p. 196, ¶105 (B02-C011-P0105)](../../build/reader/book-02.html#B02-C011-P0105)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 196–197, ¶105 (B02-C011-P0105)](../../build/reader/book-02.html#B02-C011-P0105)
 
 ## B02-087: Great Hall — enchanted Christmas snowfall
 
@@ -328,12 +328,12 @@ Model: Dated decorative/event configuration, not permanent wall flowers.
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 238, ¶86 (B02-C013-P0086)](../../build/reader/book-02.html#B02-C013-P0086)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 238, ¶87 (B02-C013-P0087)](../../build/reader/book-02.html#B02-C013-P0087)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 238, ¶88 (B02-C013-P0088)](../../build/reader/book-02.html#B02-C013-P0088)
-- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 238, ¶89 (B02-C013-P0089)](../../build/reader/book-02.html#B02-C013-P0089)
-- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 238–239, ¶90 (B02-C013-P0090)](../../build/reader/book-02.html#B02-C013-P0090)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 238–239, ¶89 (B02-C013-P0089)](../../build/reader/book-02.html#B02-C013-P0089)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 239, ¶90 (B02-C013-P0090)](../../build/reader/book-02.html#B02-C013-P0090)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 239, ¶91 (B02-C013-P0091)](../../build/reader/book-02.html#B02-C013-P0091)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 239, ¶92 (B02-C013-P0092)](../../build/reader/book-02.html#B02-C013-P0092)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 239, ¶94 (B02-C013-P0094)](../../build/reader/book-02.html#B02-C013-P0094)
-- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 239, ¶95 (B02-C013-P0095)](../../build/reader/book-02.html#B02-C013-P0095)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 239–240, ¶95 (B02-C013-P0095)](../../build/reader/book-02.html#B02-C013-P0095)
 
 ## B02-109: Great Hall to library and pitch
 
@@ -352,8 +352,8 @@ Model: Upstairs library route, front-door stadium route; voice location/mechanis
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶55 (B02-C014-P0055)](../../build/reader/book-02.html#B02-C014-P0055)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶59 (B02-C014-P0059)](../../build/reader/book-02.html#B02-C014-P0059)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶60 (B02-C014-P0060)](../../build/reader/book-02.html#B02-C014-P0060)
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶61 (B02-C014-P0061)](../../build/reader/book-02.html#B02-C014-P0061)
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257–258, ¶62 (B02-C014-P0062)](../../build/reader/book-02.html#B02-C014-P0062)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257–258, ¶61 (B02-C014-P0061)](../../build/reader/book-02.html#B02-C014-P0061)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 258, ¶62 (B02-C014-P0062)](../../build/reader/book-02.html#B02-C014-P0062)
 
 ## B02-161: Great Hall — recovery feast and restored school state
 
@@ -363,7 +363,7 @@ Evidence: explicit; state: Late May–June 1993.
 
 Model: Closes emergency occupancy/access state; normal school life does not explicitly repair the underground rockfall or remove the basilisk corpse.
 
-- [Book 2, ch. 18, “Dobby’s Reward”, ref p. 333–334, ¶23 (B02-C018-P0023)](../../build/reader/book-02.html#B02-C018-P0023)
+- [Book 2, ch. 18, “Dobby’s Reward”, ref p. 334, ¶23 (B02-C018-P0023)](../../build/reader/book-02.html#B02-C018-P0023)
 - [Book 2, ch. 18, “Dobby’s Reward”, ref p. 334, ¶25 (B02-C018-P0025)](../../build/reader/book-02.html#B02-C018-P0025)
 - [Book 2, ch. 18, “Dobby’s Reward”, ref p. 334, ¶27 (B02-C018-P0027)](../../build/reader/book-02.html#B02-C018-P0027)
 - [Book 2, ch. 18, “Dobby’s Reward”, ref p. 343–344, ¶129 (B02-C018-P0129)](../../build/reader/book-02.html#B02-C018-P0129)
@@ -1054,7 +1054,7 @@ Evidence: explicit; state: Evening arrival, 1 September 1996.
 Model: Relative ordering only: do not assign all four tables left-to-right or a compass direction from this walk alone.
 
 - [Book 6, ch. 8, “Snape Victorious”, ref p. 167, ¶56 (B06-C008-P0056)](../../build/reader/book-06.html#B06-C008-P0056)
-- [Book 6, ch. 8, “Snape Victorious”, ref p. 167, ¶58 (B06-C008-P0058)](../../build/reader/book-06.html#B06-C008-P0058)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 167–168, ¶58 (B06-C008-P0058)](../../build/reader/book-06.html#B06-C008-P0058)
 - [Book 6, ch. 8, “Snape Victorious”, ref p. 174–175, ¶115 (B06-C008-P0115)](../../build/reader/book-06.html#B06-C008-P0115)
 
 ## B06-019: Great Hall candlelight and acoustics
@@ -1065,8 +1065,8 @@ Evidence: explicit; state: Evening arrival, 1 September 1996.
 
 Model: Suspended magical lighting and reverberant acoustic character; no ceiling geometry added here.
 
-- [Book 6, ch. 8, “Snape Victorious”, ref p. 167, ¶58 (B06-C008-P0058)](../../build/reader/book-06.html#B06-C008-P0058)
-- [Book 6, ch. 8, “Snape Victorious”, ref p. 170–171, ¶85 (B06-C008-P0085)](../../build/reader/book-06.html#B06-C008-P0085)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 167–168, ¶58 (B06-C008-P0058)](../../build/reader/book-06.html#B06-C008-P0058)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 171, ¶85 (B06-C008-P0085)](../../build/reader/book-06.html#B06-C008-P0085)
 
 ## B06-020: Great Hall meal service
 
@@ -1076,7 +1076,7 @@ Evidence: explicit; state: Evening arrival, 1 September 1996.
 
 Model: Temporary meal transition, not fixed table-top clutter; source mechanism not explained here.
 
-- [Book 6, ch. 8, “Snape Victorious”, ref p. 168, ¶68 (B06-C008-P0068)](../../build/reader/book-06.html#B06-C008-P0068)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 168–169, ¶68 (B06-C008-P0068)](../../build/reader/book-06.html#B06-C008-P0068)
 
 ## B06-025: Great Hall ceiling and windows
 
@@ -1096,7 +1096,7 @@ Evidence: explicit; state: September 1996.
 
 Model: Differing chair scale/occupancy positions, without measured sizes or exact seating coordinates.
 
-- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 225–226, ¶4 (B06-C011-P0004)](../../build/reader/book-06.html#B06-C011-P0004)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 226, ¶4 (B06-C011-P0004)](../../build/reader/book-06.html#B06-C011-P0004)
 - [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 230, ¶39 (B06-C011-P0039)](../../build/reader/book-06.html#B06-C011-P0039)
 - [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 230, ¶40 (B06-C011-P0040)](../../build/reader/book-06.html#B06-C011-P0040)
 
@@ -1119,7 +1119,7 @@ Evidence: explicit; state: January 1997.
 
 Model: Shelf position relative to seated Headmaster; do not infer a specific wall or shelf height.
 
-- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 375, ¶116 (B06-C017-P0116)](../../build/reader/book-06.html#B06-C017-P0116)
+- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 375–376, ¶116 (B06-C017-P0116)](../../build/reader/book-06.html#B06-C017-P0116)
 
 ## B06-103: Great Hall cleared for Apparition
 
@@ -1133,8 +1133,8 @@ Model: Temporary teaching layout with explicit five-foot displacement exemplifie
 - [Book 6, ch. 18, “Birthday Surprises”, ref p. 400, ¶78 (B06-C018-P0078)](../../build/reader/book-06.html#B06-C018-P0078)
 - [Book 6, ch. 18, “Birthday Surprises”, ref p. 400, ¶79 (B06-C018-P0079)](../../build/reader/book-06.html#B06-C018-P0079)
 - [Book 6, ch. 18, “Birthday Surprises”, ref p. 401, ¶88 (B06-C018-P0088)](../../build/reader/book-06.html#B06-C018-P0088)
-- [Book 6, ch. 18, “Birthday Surprises”, ref p. 401, ¶90 (B06-C018-P0090)](../../build/reader/book-06.html#B06-C018-P0090)
-- [Book 6, ch. 18, “Birthday Surprises”, ref p. 401–402, ¶91 (B06-C018-P0091)](../../build/reader/book-06.html#B06-C018-P0091)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 402, ¶90 (B06-C018-P0090)](../../build/reader/book-06.html#B06-C018-P0090)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 402, ¶91 (B06-C018-P0091)](../../build/reader/book-06.html#B06-C018-P0091)
 - [Book 6, ch. 18, “Birthday Surprises”, ref p. 403, ¶101 (B06-C018-P0101)](../../build/reader/book-06.html#B06-C018-P0101)
 
 ## B06-104: Great Hall Apparition exception
@@ -1150,8 +1150,8 @@ Model: Rule and duration are reported; local Apparition is witnessed. Maintain a
 - [Book 6, ch. 18, “Birthday Surprises”, ref p. 403, ¶102 (B06-C018-P0102)](../../build/reader/book-06.html#B06-C018-P0102)
 - [Book 6, ch. 18, “Birthday Surprises”, ref p. 403, ¶103 (B06-C018-P0103)](../../build/reader/book-06.html#B06-C018-P0103)
 - [Book 6, ch. 18, “Birthday Surprises”, ref p. 403, ¶104 (B06-C018-P0104)](../../build/reader/book-06.html#B06-C018-P0104)
-- [Book 6, ch. 18, “Birthday Surprises”, ref p. 403, ¶106 (B06-C018-P0106)](../../build/reader/book-06.html#B06-C018-P0106)
-- [Book 6, ch. 18, “Birthday Surprises”, ref p. 403–404, ¶107 (B06-C018-P0107)](../../build/reader/book-06.html#B06-C018-P0107)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 404, ¶106 (B06-C018-P0106)](../../build/reader/book-06.html#B06-C018-P0106)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 404, ¶107 (B06-C018-P0107)](../../build/reader/book-06.html#B06-C018-P0107)
 
 ## B06-204: Great Hall central throne chair
 
@@ -1175,7 +1175,7 @@ Model: Explicit ceremonial approach from main entrance; no underground or altern
 - [Book 6, ch. 30, “The White Tomb”, ref p. 674, ¶46 (B06-C030-P0046)](../../build/reader/book-06.html#B06-C030-P0046)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 674, ¶47 (B06-C030-P0047)](../../build/reader/book-06.html#B06-C030-P0047)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 674–675, ¶48 (B06-C030-P0048)](../../build/reader/book-06.html#B06-C030-P0048)
-- [Book 6, ch. 30, “The White Tomb”, ref p. 675–676, ¶50 (B06-C030-P0050)](../../build/reader/book-06.html#B06-C030-P0050)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 676, ¶50 (B06-C030-P0050)](../../build/reader/book-06.html#B06-C030-P0050)
 
 ## B07-008: Gryffindor sword and Sorting Hat presentation
 
@@ -1205,3 +1205,200 @@ Model: Seasonal count and use of hollow armour; no assertion that the same decor
 
 - [Book 7, ch. 16, “Godric’s Hollow”, ref p. 342, ¶89 (B07-C016-P0089)](../../build/reader/book-07.html#B07-C016-P0089)
 
+## B07-066: Great Hall / evacuation assembly
+
+The enchanted ceiling is dark with stars above four long house tables and benches. School ghosts shine pearly white among students. McGonagall addresses them from the raised platform at the top of the Hall, with teachers and Order members behind her. Harry walks alongside the Gryffindor table; Slytherins leave on the other side of the Hall.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts before and just after midnight.
+
+Model: Opposite-side relationship in this scene, not a complete surveyed table order. Platform supports an assembly rather than a newly installed structure.
+
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 643, ¶1 (B07-C031-P0001)](../../build/reader/book-07.html#B07-C031-P0001)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 643–644, ¶3 (B07-C031-P0003)](../../build/reader/book-07.html#B07-C031-P0003)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 644, ¶10 (B07-C031-P0010)](../../build/reader/book-07.html#B07-C031-P0010)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 645, ¶18 (B07-C031-P0018)](../../build/reader/book-07.html#B07-C031-P0018)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 646, ¶20 (B07-C031-P0020)](../../build/reader/book-07.html#B07-C031-P0020)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 646, ¶22 (B07-C031-P0022)](../../build/reader/book-07.html#B07-C031-P0022)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 646, ¶24 (B07-C031-P0024)](../../build/reader/book-07.html#B07-C031-P0024)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 646, ¶27 (B07-C031-P0027)](../../build/reader/book-07.html#B07-C031-P0027)
+
+## B07-069: Great Hall → Entrance Hall → marble stairs → refuge evacuation route
+
+Evacuees fill the Entrance Hall beyond the Great Hall and move up the marble staircase towards the Room of Requirement. At the top Harry follows a deserted corridor and sits on an empty statue plinth halfway along a passage, then returns to the stairs and descends to Nick below. Hundreds continue towards the refuge; Aberforth later reports hundreds passing through his pub.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts before and just after midnight.
+
+Model: Local sequence and flows, not an exact floor-to-floor survey. Vacant plinth follows the statue mobilisation.
+
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 647–648, ¶36 (B07-C031-P0036)](../../build/reader/book-07.html#B07-C031-P0036)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 648–649, ¶41 (B07-C031-P0041)](../../build/reader/book-07.html#B07-C031-P0041)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 649, ¶42 (B07-C031-P0042)](../../build/reader/book-07.html#B07-C031-P0042)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 649, ¶44 (B07-C031-P0044)](../../build/reader/book-07.html#B07-C031-P0044)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 658, ¶136 (B07-C031-P0136)](../../build/reader/book-07.html#B07-C031-P0136)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 658, ¶137 (B07-C031-P0137)](../../build/reader/book-07.html#B07-C031-P0137)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 658, ¶138 (B07-C031-P0138)](../../build/reader/book-07.html#B07-C031-P0138)
+
+## B07-103: Great Hall / casualty and treatment configuration
+
+The house tables have been removed. Survivors gather in groups, the injured are treated by Pomfrey and helpers on the raised platform, and the dead lie in a row through the middle. Remus and Tonks lie beside Fred beneath the dark enchanted ceiling.
+
+Evidence: explicit; state: May 1998, battle ceasefire.
+
+Model: Dated cleared floor and triage platform, distinct from the earlier seated assembly; no disposal or restoration method for tables stated.
+
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 700, ¶18 (B07-C033-P0018)](../../build/reader/book-07.html#B07-C033-P0018)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 700, ¶19 (B07-C033-P0019)](../../build/reader/book-07.html#B07-C033-P0019)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 700–701, ¶20 (B07-C033-P0020)](../../build/reader/book-07.html#B07-C033-P0020)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 701, ¶21 (B07-C033-P0021)](../../build/reader/book-07.html#B07-C033-P0021)
+
+## B07-104: Great Hall → Headmaster’s office / password
+
+Harry turns from the Great Hall doorway, runs up the marble staircase and through the empty castle to the stone gargoyle. Saying Dumbledore makes it slide aside and reveal the spiral staircase to the circular office.
+
+Evidence: explicit; state: May 1998, battle ceasefire.
+
+Model: Password works at this time; not proof of a permanent password or a measured direct stair connection from Entrance Hall to office.
+
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 701, ¶21 (B07-C033-P0021)](../../build/reader/book-07.html#B07-C033-P0021)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 701, ¶22 (B07-C033-P0022)](../../build/reader/book-07.html#B07-C033-P0022)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 701, ¶23 (B07-C033-P0023)](../../build/reader/book-07.html#B07-C033-P0023)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 701, ¶24 (B07-C033-P0024)](../../build/reader/book-07.html#B07-C033-P0024)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 701, ¶25 (B07-C033-P0025)](../../build/reader/book-07.html#B07-C033-P0025)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 701–702, ¶26 (B07-C033-P0026)](../../build/reader/book-07.html#B07-C033-P0026)
+
+## B07-107: Great Hall / historical Sorting arrangement
+
+Candlelit house tables and benches face the Sorting area with a rickety stool on which the Hat is placed on each child. Lily joins Gryffindor; Snape moves to the other side of the Hall to sit with Slytherin.
+
+Evidence: explicit; state: September 1971 memory.
+
+Model: Corroborates opposite-side Gryffindor/Slytherin seating decades earlier; no intervening table order or precise stool placement.
+
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 712, ¶148 (B07-C033-P0148)](../../build/reader/book-07.html#B07-C033-P0148)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 712, ¶149 (B07-C033-P0149)](../../build/reader/book-07.html#B07-C033-P0149)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 712, ¶150 (B07-C033-P0150)](../../build/reader/book-07.html#B07-C033-P0150)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 712–713, ¶151 (B07-C033-P0151)](../../build/reader/book-07.html#B07-C033-P0151)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 713, ¶152 (B07-C033-P0152)](../../build/reader/book-07.html#B07-C033-P0152)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 713, ¶153 (B07-C033-P0153)](../../build/reader/book-07.html#B07-C033-P0153)
+
+## B07-110: Great Hall → grounds beech tree
+
+After his Defence O.W.L. in the Great Hall, Snape walks away from the castle and inadvertently nears a beech tree under which James, Sirius, Lupin and Pettigrew sit.
+
+Evidence: explicit; state: Fifth-year O.W.L. period, 1976 memory.
+
+Model: Tree species and exam-to-grounds sequence; no lake relationship is stated in this paragraph.
+
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 715, ¶177 (B07-C033-P0177)](../../build/reader/book-07.html#B07-C033-P0177)
+
+## B07-112: Entrance Hall / Yule Ball circulation
+
+Dumbledore and Snape speak apart in the Entrance Hall as the last Yule Ball guests pass towards bed; Fleur and Roger Davies come in from the grounds and continue past them.
+
+Evidence: explicit; state: Christmas 1994 memory.
+
+Model: Grounds-to-Hall and onward sleeping-area circulation, without assuming a specifically named exterior door or bedroom destination.
+
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 720, ¶239 (B07-C033-P0239)](../../build/reader/book-07.html#B07-C033-P0239)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 720, ¶240 (B07-C033-P0240)](../../build/reader/book-07.html#B07-C033-P0240)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 720, ¶241 (B07-C033-P0241)](../../build/reader/book-07.html#B07-C033-P0241)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 720, ¶242 (B07-C033-P0242)](../../build/reader/book-07.html#B07-C033-P0242)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 720, ¶243 (B07-C033-P0243)](../../build/reader/book-07.html#B07-C033-P0243)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 720, ¶245 (B07-C033-P0245)](../../build/reader/book-07.html#B07-C033-P0245)
+
+## B07-126: Castle window / Sorting Hat during confrontation
+
+Voldemort summons the ragged, empty, mildewed Sorting Hat from a shattered castle window, places it on Neville and ignites it. Neville breaks free of his binding curse and draws a silver sword with a glittering rubied handle from the flaming Hat, then beheads Nagini.
+
+Evidence: explicit; state: May 1998, final battle at dawn.
+
+Model: Air route of a summoned object, not proof of office window location. Announced abolition of houses is Voldemort’s intention, not an observed redecoration.
+
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 776, ¶65 (B07-C036-P0065)](../../build/reader/book-07.html#B07-C036-P0065)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 776, ¶66 (B07-C036-P0066)](../../build/reader/book-07.html#B07-C036-P0066)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 776, ¶67 (B07-C036-P0067)](../../build/reader/book-07.html#B07-C036-P0067)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 776, ¶68 (B07-C036-P0068)](../../build/reader/book-07.html#B07-C036-P0068)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 776–777, ¶69 (B07-C036-P0069)](../../build/reader/book-07.html#B07-C036-P0069)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 777, ¶71 (B07-C036-P0071)](../../build/reader/book-07.html#B07-C036-P0071)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 777, ¶72 (B07-C036-P0072)](../../build/reader/book-07.html#B07-C036-P0072)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 777–778, ¶73 (B07-C036-P0073)](../../build/reader/book-07.html#B07-C036-P0073)
+
+## B07-128: Front steps → Entrance Hall → Great Hall / kitchen route
+
+The crowd enters through the front doors and Harry is swept into the Entrance Hall, where Voldemort backs across into the Great Hall. Further reinforcements climb the front steps, centaurs enter, and the door leading to the kitchens is blasted off its hinges as armed house-elves swarm into the Entrance Hall.
+
+Evidence: explicit; state: May 1998, final battle at dawn.
+
+Model: Kitchen-route door connects with the Entrance Hall circulation, but does not establish that the kitchen room itself directly adjoins it without intervening stairs/passages.
+
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 778, ¶76 (B07-C036-P0076)](../../build/reader/book-07.html#B07-C036-P0076)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 778–779, ¶77 (B07-C036-P0077)](../../build/reader/book-07.html#B07-C036-P0077)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779, ¶78 (B07-C036-P0078)](../../build/reader/book-07.html#B07-C036-P0078)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779, ¶79 (B07-C036-P0079)](../../build/reader/book-07.html#B07-C036-P0079)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779, ¶80 (B07-C036-P0080)](../../build/reader/book-07.html#B07-C036-P0080)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779, ¶81 (B07-C036-P0081)](../../build/reader/book-07.html#B07-C036-P0081)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779–780, ¶82 (B07-C036-P0082)](../../build/reader/book-07.html#B07-C036-P0082)
+
+## B07-129: Great Hall / final duels and floor damage
+
+Crowds fill the Great Hall and hundreds line its walls around the last two fights. Voldemort and Bellatrix duel about fifty yards apart. Hagrid throws Macnair against a stone wall. Molly and Bellatrix’s spells heat and crack the floor around their feet.
+
+Evidence: explicit; state: May 1998, final battle at dawn.
+
+Model: Fifty-yard distance is between duellists in this scene, establishing a substantial room span but not its exact length or width.
+
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779, ¶81 (B07-C036-P0081)](../../build/reader/book-07.html#B07-C036-P0081)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779–780, ¶82 (B07-C036-P0082)](../../build/reader/book-07.html#B07-C036-P0082)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 780, ¶83 (B07-C036-P0083)](../../build/reader/book-07.html#B07-C036-P0083)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 780, ¶84 (B07-C036-P0084)](../../build/reader/book-07.html#B07-C036-P0084)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 780, ¶85 (B07-C036-P0085)](../../build/reader/book-07.html#B07-C036-P0085)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 780, ¶86 (B07-C036-P0086)](../../build/reader/book-07.html#B07-C036-P0086)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 780, ¶88 (B07-C036-P0088)](../../build/reader/book-07.html#B07-C036-P0088)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 780–781, ¶89 (B07-C036-P0089)](../../build/reader/book-07.html#B07-C036-P0089)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 781, ¶91 (B07-C036-P0091)](../../build/reader/book-07.html#B07-C036-P0091)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 781, ¶95 (B07-C036-P0095)](../../build/reader/book-07.html#B07-C036-P0095)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 781–782, ¶96 (B07-C036-P0096)](../../build/reader/book-07.html#B07-C036-P0096)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 782, ¶97 (B07-C036-P0097)](../../build/reader/book-07.html#B07-C036-P0097)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 782, ¶98 (B07-C036-P0098)](../../build/reader/book-07.html#B07-C036-P0098)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 782, ¶99 (B07-C036-P0099)](../../build/reader/book-07.html#B07-C036-P0099)
+
+## B07-130: Great Hall / dawn window and enchanted ceiling
+
+A red-gold glow crosses the enchanted ceiling as dazzling sunlight appears over the nearest window sill, striking Harry’s and Voldemort’s faces simultaneously. The Elder Wand spins across that sky-like ceiling against the sunrise; the rising sun then dazzles the windows and fills the Hall with light.
+
+Evidence: explicit; state: May 1998, final battle at dawn.
+
+Model: Useful sunrise sightline; no explicit compass orientation or identification of which wall carries this window.
+
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 789, ¶152 (B07-C036-P0152)](../../build/reader/book-07.html#B07-C036-P0152)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 789–790, ¶155 (B07-C036-P0155)](../../build/reader/book-07.html#B07-C036-P0155)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 790, ¶156 (B07-C036-P0156)](../../build/reader/book-07.html#B07-C036-P0156)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 790–791, ¶157 (B07-C036-P0157)](../../build/reader/book-07.html#B07-C036-P0157)
+
+## B07-131: Great Hall / house tables restored and adjacent chamber
+
+Voldemort’s body is placed in a chamber off the Hall, apart from the fallen defenders. McGonagall restores the house tables and benches, though people sit mingled across houses and species. Firenze recovers in a corner. Grawp peers through a smashed window while people throw him food, and aisles remain between tables.
+
+Evidence: explicit; state: May 1998, final battle at dawn.
+
+Model: Post-battle communal configuration and an unnamed adjoining chamber; broken window permits Grawp’s face and food exchange without fixing his stance or window height.
+
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 791, ¶158 (B07-C036-P0158)](../../build/reader/book-07.html#B07-C036-P0158)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 791, ¶162 (B07-C036-P0162)](../../build/reader/book-07.html#B07-C036-P0162)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 791–792, ¶163 (B07-C036-P0163)](../../build/reader/book-07.html#B07-C036-P0163)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 792, ¶164 (B07-C036-P0164)](../../build/reader/book-07.html#B07-C036-P0164)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 792, ¶165 (B07-C036-P0165)](../../build/reader/book-07.html#B07-C036-P0165)
+
+## B07-132: Great Hall → damaged marble stairs → office approach
+
+The trio leave the Hall and climb marble stairs missing large chunks and part of the balustrade, with rubble and bloodstains every few steps. They continue through a doorway and along the castle route to the office, hearing Peeves’s victory song in distant corridors.
+
+Evidence: explicit; state: May 1998, final battle at dawn.
+
+Model: Damage remains after table restoration. No wholesale castle repair is narrated.
+
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 792, ¶165 (B07-C036-P0165)](../../build/reader/book-07.html#B07-C036-P0165)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 792, ¶166 (B07-C036-P0166)](../../build/reader/book-07.html#B07-C036-P0166)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 792, ¶169 (B07-C036-P0169)](../../build/reader/book-07.html#B07-C036-P0169)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 792–793, ¶170 (B07-C036-P0170)](../../build/reader/book-07.html#B07-C036-P0170)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 793, ¶171 (B07-C036-P0171)](../../build/reader/book-07.html#B07-C036-P0171)

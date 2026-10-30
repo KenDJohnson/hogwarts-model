@@ -2771,5 +2771,22 @@
       "method": "full-text paragraph review",
       "notes": "Read every paragraph of the Nineteen Years Later epilogue. Recorded school railway departure connection and reported first-year boats versus carriages/Thestrals. School operation/house/teacher names without additional physical detail are not separate spatial entries."
     }
+  ],
+  "extra_reviews": [
+    {
+      "id": "B07-C013-X0001",
+      "method": "full-text review of additional non-paragraph fragment",
+      "notes": "Read the Ministry personnel-form label; outside the Hogwarts geographic scope."
+    },
+    {
+      "id": "B07-C013-X0002",
+      "method": "full-text review of additional non-paragraph fragment",
+      "notes": "Read the Ministry personnel-form label; outside the Hogwarts geographic scope."
+    },
+    {
+      "id": "B07-C013-X0003",
+      "method": "full-text review of additional non-paragraph fragment",
+      "notes": "Read the Ministry personnel-form label; outside the Hogwarts geographic scope."
+    }
   ]
 }

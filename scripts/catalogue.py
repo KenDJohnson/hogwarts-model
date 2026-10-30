@@ -21,12 +21,17 @@ def load_json(path: Path):
     return json.loads(path.read_text())
 
 
+def chapter_blocks(chapter: dict) -> list:
+    return sorted(chapter["paragraphs"] + chapter.get("extra_blocks", []),
+                  key=lambda p: p.get("source_order", p["paragraph"] or 0))
+
+
 def paragraph_index(corpus: dict) -> dict:
     return {
         p["id"]: {**p, "book": book["number"], "book_title": book["title"],
                   "chapter": chapter["number"], "chapter_title": chapter["title"],
                   "is_epilogue": chapter["is_epilogue"], "source_member": chapter["source_member"]}
-        for book in corpus["books"] for chapter in book["chapters"] for p in chapter["paragraphs"]
+        for book in corpus["books"] for chapter in book["chapters"] for p in chapter_blocks(chapter)
     }
 
 
@@ -41,6 +46,7 @@ def validate(corpus: dict, research: list) -> tuple[list[str], dict]:
     errors = []
     seen_books, seen_entries = set(), set()
     reviewed = defaultdict(set)
+    reviewed_extras = set()
     entry_counts = Counter()
     for record in research:
         number = record.get("book")
@@ -49,6 +55,16 @@ def validate(corpus: dict, research: list) -> tuple[list[str], dict]:
             continue
         seen_books.add(number)
         chapters = {ch["number"]: ch for ch in books[number]["chapters"]}
+        for review in record.get("extra_reviews", []):
+            ident = review.get("id")
+            if ident not in paragraphs or not paragraphs[ident].get("is_extra") or paragraphs[ident]["book"] != number:
+                errors.append(f"Book {number}: invalid additional-text review {ident}")
+            elif ident in reviewed_extras:
+                errors.append(f"Book {number}: duplicate additional-text review {ident}")
+            elif not review.get("method") or not review.get("notes"):
+                errors.append(f"{ident}: missing additional-text review method/notes")
+            else:
+                reviewed_extras.add(ident)
         for entry in record.get("entries", []):
             ident = entry.get("id", "<missing>")
             if REQUIRED - entry.keys():
@@ -111,15 +127,23 @@ def validate(corpus: dict, research: list) -> tuple[list[str], dict]:
                     spans.append([value, value])
             chapter_reports.append({"chapter": ch["number"], "title": ch["title"],
                                     "paragraphs": count, "reviewed": count - len(missing),
-                                    "unread_ranges": spans})
+                                    "unread_ranges": spans,
+                                    "additional_text_blocks": len(ch.get("extra_blocks", [])),
+                                    "reviewed_additional_text_blocks": sum(p["id"] in reviewed_extras for p in ch.get("extra_blocks", [])),
+                                    "unread_extra_blocks": [p["id"] for p in ch.get("extra_blocks", []) if p["id"] not in reviewed_extras]})
         coverage.append({"book": number, "title": book["title"], "entries": entry_counts[number],
                          "paragraphs": sum(ch["paragraphs"] for ch in chapter_reports),
                          "reviewed": sum(ch["reviewed"] for ch in chapter_reports),
+                         "additional_text_blocks": sum(ch["additional_text_blocks"] for ch in chapter_reports),
+                         "reviewed_additional_text_blocks": sum(ch["reviewed_additional_text_blocks"] for ch in chapter_reports),
                          "chapters": chapter_reports})
     total = sum(b["paragraphs"] for b in coverage)
     count = sum(b["reviewed"] for b in coverage)
+    extras = sum(b["additional_text_blocks"] for b in coverage)
     return errors, {"source_sha256": corpus["source_sha256"], "paragraphs": total,
-                    "reviewed": count, "complete": count == total,
+                    "reviewed": count, "additional_text_blocks": extras,
+                    "reviewed_additional_text_blocks": len(reviewed_extras),
+                    "complete": count == total and len(reviewed_extras) == extras,
                     "entries": sum(entry_counts.values()), "books": coverage}
 
 
@@ -128,7 +152,8 @@ def citation(p: dict) -> str:
     pages = str(p["page_start"])
     if p["page_end"] != p["page_start"]:
         pages += f"–{p['page_end']}"
-    return f"Book {p['book']}, {chapter}, “{p['chapter_title']}”, ref p. {pages}, ¶{p['paragraph']} ({p['id']})"
+    location = f"extra fragment {int(p['id'].split('-X')[1])}" if p.get("is_extra") else f"¶{p['paragraph']}"
+    return f"Book {p['book']}, {chapter}, “{p['chapter_title']}”, ref p. {pages}, {location} ({p['id']})"
 
 
 def compile_catalogue(corpus: dict, research: list) -> dict:
@@ -143,9 +168,12 @@ def compile_catalogue(corpus: dict, research: list) -> dict:
                     "id", "book", "book_title", "chapter", "chapter_title", "is_epilogue",
                     "paragraph", "page_start", "page_end", "source_member", "source_p_ordinal",
                     "source_element_id", "word_start", "word_count"
-                )} | {"label": citation(p)})
+                )} | {"label": citation(p), "is_extra": p.get("is_extra", False),
+                      "source_element_tag": p.get("source_element_tag", "p"),
+                      "source_element_ordinal": p.get("source_element_ordinal", p["source_p_ordinal"]),
+                      "source_text_slot": p.get("source_text_slot", "text")})
             records.append({**entry, "citations": citations})
-    records.sort(key=lambda entry: (entry["evidence"][0], entry["id"]))
+    records.sort(key=lambda entry: (index[entry["evidence"][0]]["book"], index[entry["evidence"][0]]["word_start"], entry["id"]))
     return {"schema_version": 1, "source_sha256": corpus["source_sha256"],
             "pagination": corpus["pagination"], "entries": records}
 
@@ -154,7 +182,8 @@ def write_markdown(catalogue: dict, coverage: dict, folder: Path) -> None:
     folder.mkdir(parents=True, exist_ok=True)
     lines = ["# Hogwarts description catalogue", "",
              f"{coverage['entries']} reviewed description records. "
-             f"Reading ledger: {coverage['reviewed']:,}/{coverage['paragraphs']:,} paragraphs.", "",
+             f"Reading ledger: {coverage['reviewed']:,}/{coverage['paragraphs']:,} paragraphs "
+             f"plus {coverage['reviewed_additional_text_blocks']}/{coverage['additional_text_blocks']} additional text fragments.", "",
              "All pages below are **project reference pages (ref250-v1, 250 words)**, not print pages. "
              "Book titles and exact source paths are in the machine-readable catalogue. "
              "Rebuild the local reader to open source-text links.", "",
@@ -175,7 +204,7 @@ def write_markdown(catalogue: dict, coverage: dict, folder: Path) -> None:
             for p in entry["citations"]:
                 lines.append(f"- [{p['label']}](../build/reader/book-{p['book']:02d}.html#{p['id']})")
             lines.append("")
-    (folder / "catalogue.md").write_text("\n".join(lines) + "\n")
+    (folder / "catalogue.md").write_text("\n".join(lines).rstrip() + "\n")
     locations = defaultdict(list)
     for entry in catalogue["entries"]:
         locations[entry["location"]].append(entry)
@@ -183,21 +212,25 @@ def write_markdown(catalogue: dict, coverage: dict, folder: Path) -> None:
     for location, entries in sorted(locations.items(), key=lambda kv: kv[0].casefold()):
         links = ", ".join(f"[{e['id']}](catalogue.md#{e['id'].lower()})" for e in entries)
         lines += [f"## {location}", "", links, ""]
-    (folder / "location-index.md").write_text("\n".join(lines) + "\n")
+    (folder / "location-index.md").write_text("\n".join(lines).rstrip() + "\n")
     lines = ["# Full-text review coverage", "",
              "This reports the reviewers' declared reading ranges. Structural validation checks "
              "that those ranges cover the corpus; it cannot prove semantic completeness or that "
              "every description has been captured.", "",
              f"Reviewed: **{coverage['reviewed']:,}/{coverage['paragraphs']:,} paragraphs**. "
+             f"Additional text fragments: **{coverage['reviewed_additional_text_blocks']}/{coverage['additional_text_blocks']}**. "
              f"Records: **{coverage['entries']}**.", ""]
     for book in coverage["books"]:
         lines += [f"## Book {book['book']}: {book['title']}", "",
                   f"{book['reviewed']:,}/{book['paragraphs']:,} paragraphs; {book['entries']} records.", ""]
         for ch in book["chapters"]:
             status = "Reviewed" if not ch["unread_ranges"] else "Unread: " + ", ".join(f"¶{a}–{b}" for a,b in ch["unread_ranges"])
-            lines.append(f"- Chapter {ch['chapter']}, {ch['title']}: {status} ({ch['reviewed']}/{ch['paragraphs']}).")
+            extra = f"; extra fragments {ch['reviewed_additional_text_blocks']}/{ch['additional_text_blocks']}" if ch["additional_text_blocks"] else ""
+            if ch["unread_extra_blocks"]:
+                extra += "; unread " + ", ".join(ch["unread_extra_blocks"])
+            lines.append(f"- Chapter {ch['chapter']}, {ch['title']}: {status} ({ch['reviewed']}/{ch['paragraphs']}{extra}).")
         lines.append("")
-    (folder / "coverage.md").write_text("\n".join(lines) + "\n")
+    (folder / "coverage.md").write_text("\n".join(lines).rstrip() + "\n")
 
 
 STYLE = """body{font:17px/1.65 system-ui,sans-serif;max-width:1040px;margin:2em auto;padding:0 1em;color:#20242a;background:#faf8f1}a{color:#164e78}input,select,button{font:inherit;padding:.45em}input{width:65%;max-width:650px}article,.page{border-top:1px solid #bbb;margin-top:1.5em;padding-top:.5em}.meta{color:#59616c;font-size:.85em}.source{border-left:3px solid #a89778;padding-left:1em;white-space:pre-wrap}.continuation{color:#777;font-size:.8em}:target{background:#fff0ae}nav{position:sticky;top:0;background:#faf8f1;padding:.5em 0}h1,h2,h3{line-height:1.25}details{margin:.5em 0}.ref{font-size:.8em;display:block;color:#6b6251}@media print{nav,input,select,button{display:none}.page{break-before:page}}"""
@@ -213,7 +246,7 @@ def write_reader(corpus: dict, catalogue: dict, folder: Path) -> None:
                  '<nav>Reference page <input id="page" type="number" min="1" style="width:7em"><button onclick="location.hash=\'page-\'+document.getElementById(\'page\').value">Go</button></nav>']
         current_page = 0
         for chapter in book["chapters"]:
-            for p in chapter["paragraphs"]:
+            for block_ordinal, p in enumerate(chapter_blocks(chapter)):
                 words = p["text"].split()
                 consumed = 0
                 while consumed < len(words):
@@ -225,10 +258,12 @@ def write_reader(corpus: dict, catalogue: dict, folder: Path) -> None:
                             parts.append('</section>')
                         parts.append(f'<section class="page" id="page-{page}"><h2>Reference page {page}</h2>')
                         current_page = page
-                    if consumed == 0 and p["paragraph"] == 1:
+                    if consumed == 0 and block_ordinal == 0:
                         parts.append(f'<h3 id="chapter-{chapter["number"]}">{"Epilogue" if chapter["is_epilogue"] else "Chapter " + str(chapter["number"])}: {html.escape(chapter["title"])}</h3>')
                     ident = p["id"] if consumed == 0 else f"{p['id']}--page-{page}"
-                    source = f'{chapter["source_member"]} · source p[{p["source_p_ordinal"]}]'
+                    tag = p.get("source_element_tag", "p")
+                    ordinal = p.get("source_element_ordinal", p["source_p_ordinal"])
+                    source = f'{chapter["source_member"]} · source {tag}[{ordinal}] ({p.get("source_text_slot", "text")})'
                     parts.append(f'<p id="{ident}" title="{html.escape(source, quote=True)}"><a class="ref" href="#{p["id"]}">{p["id"]}{" (continued)" if consumed else ""}</a>{html.escape(" ".join(words[consumed:consumed+take]))}</p>')
                     consumed += take
         parts.append('</section></html>')
@@ -251,7 +286,7 @@ function render(){{const q=document.getElementById('query').value.toLocaleLowerC
  document.getElementById('previous').disabled=offset===0;document.getElementById('next').disabled=offset+100>=matches.length;main.replaceChildren();
  for(const e of matches.slice(offset,offset+100)){{const a=element('article','',main);a.id=e.id;element('h2',e.id+' · '+e.location,a);element('p',e.description,a);element('p',e.category+' · '+e.certainty+' · '+e.temporal,a,'meta');element('p','Model: '+e.model_notes,a);
  const detail=element('details','',a);element('summary','Evidence and source passages',detail);
- e.citations.forEach((c,i)=>{{const p=element('p','',detail);const link=element('a',c.label,p);link.href='book-'+String(c.book).padStart(2,'0')+'.html#'+c.id;element('p',c.source_member+' · source p['+c.source_p_ordinal+']',detail,'meta');element('blockquote',e.source_text[i],detail,'source');}});
+ e.citations.forEach((c,i)=>{{const p=element('p','',detail);const link=element('a',c.label,p);link.href='book-'+String(c.book).padStart(2,'0')+'.html#'+c.id;element('p',c.source_member+' · source '+c.source_element_tag+'['+c.source_element_ordinal+'] ('+c.source_text_slot+')',detail,'meta');element('blockquote',e.source_text[i],detail,'source');}});
  }} }}
 function reset(){{offset=0;render();}}
 document.getElementById('query').addEventListener('input',reset);document.getElementById('book').addEventListener('change',reset);
@@ -309,6 +344,10 @@ def write_model_guide(corpus: dict, model: dict, destination: Path) -> None:
              "- Locations and destinations of secret passages not individually identified by the text.",
              "- Interiors of rooms that are mentioned without being described in the reviewed evidence.",
              "- How to implement conflicting floor references without presenting the chosen repair as canon.", ""]
+    lines += ["The full review's reconciliation notes cover additional state and route details: "
+              "[books 1–3](../research/notes/books-1-2-3.md), "
+              "[books 4–5](../research/notes/books-4-5.md), and "
+              "[books 6–7](../research/notes/books-6-7.md).", ""]
     current_group = None
     for constraint in model["constraints"]:
         if constraint["group"] != current_group:
@@ -322,7 +361,7 @@ def write_model_guide(corpus: dict, model: dict, destination: Path) -> None:
             p = index[ref]
             lines.append(f"- [{citation(p)}](../build/reader/book-{p['book']:02d}.html#{ref})")
         lines.append("")
-    destination.write_text("\n".join(lines) + "\n")
+    destination.write_text("\n".join(lines).rstrip() + "\n")
 
 
 def write_area_pages(catalogue: dict, area_config: dict, folder: Path) -> None:
@@ -358,8 +397,8 @@ def write_area_pages(catalogue: dict, area_config: dict, folder: Path) -> None:
             for p in entry["citations"]:
                 lines.append(f"- [{p['label']}](../../build/reader/book-{p['book']:02d}.html#{p['id']})")
             lines.append("")
-        (folder / f"{area['id']}.md").write_text("\n".join(lines) + "\n")
-    (folder / "index.md").write_text("\n".join(index_lines) + "\n")
+        (folder / f"{area['id']}.md").write_text("\n".join(lines).rstrip() + "\n")
+    (folder / "index.md").write_text("\n".join(index_lines).rstrip() + "\n")
 
 
 def main() -> None:
@@ -391,7 +430,7 @@ def main() -> None:
             parser.error("Unknown paragraph ID")
         target = index[args.paragraph_id]
         for p in index.values():
-            if p["book"] == target["book"] and p["chapter"] == target["chapter"] and abs(p["paragraph"] - target["paragraph"]) <= args.context:
+            if p["book"] == target["book"] and p["chapter"] == target["chapter"] and abs(p.get("source_order",p["paragraph"] or 0) - target.get("source_order",target["paragraph"] or 0)) <= args.context:
                 print(citation(p) + "\n" + p["text"] + "\n")
         return
     if args.command == "search" and args.source:
@@ -430,7 +469,7 @@ def main() -> None:
     write_model_guide(corpus, model, args.docs / "model-foundation.md")
     write_reader(corpus, catalogue, args.reader)
     with (args.output.parent / "catalogue.csv").open("w", newline="") as stream:
-        writer = csv.DictWriter(stream, fieldnames=["id", "book", "book_title", "location", "category", "description", "certainty", "temporal", "model_notes", "references"])
+        writer = csv.DictWriter(stream, fieldnames=["id", "book", "book_title", "location", "category", "description", "certainty", "temporal", "model_notes", "references"], lineterminator="\n")
         writer.writeheader()
         for entry in catalogue["entries"]:
             writer.writerow({k:entry[k] for k in writer.fieldnames if k not in {"references", "book", "book_title"}} |

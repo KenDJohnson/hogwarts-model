@@ -301,14 +301,16 @@
       "subject": "Ravenclaw common room",
       "relation": "contains",
       "object": "Arched windows, blue/bronze silks, star dome and carpet, white marble founder statue",
-      "description": "The room is wide, circular and airy, with graceful arched windows, blue and bronze wall silks, a domed star-painted ceiling and matching midnight-blue carpet, tables, chairs and bookcases. Rowena's white marble statue stands opposite the entrance by another door.",
+      "description": "The room is wide, circular and airy, with graceful arched windows, blue and bronze wall silks, a domed star-painted ceiling and matching midnight-blue carpet, tables, chairs and bookcases. Rowena's white marble statue stands opposite the entrance by another door. The next chapter identifies the adjacent door as leading to dormitories above, with woken students coming down and later retreating upstairs.",
       "certainty": "explicit",
       "temporal": "Book 7 Ravenclaw visit",
       "evidence": [
         "B07-C029-P0163",
-        "B07-C029-P0164"
+        "B07-C029-P0164",
+        "B07-C030-P0004",
+        "B07-C030-P0014"
       ],
-      "model_notes": "The mountain view by day is a narrative projection from this night-time visit. Harry only guesses that the adjacent door leads to dormitories above; retain that qualification."
+      "model_notes": "Harry initially guesses the dormitory connection; the next chapter’s narration and staircase action confirm it. The mountain view is projected for daylight from a night-time visit. No dormitory dimensions are supplied."
     },
     {
       "id": "M021",
@@ -479,16 +481,18 @@
       "subject": "Room of Requirement exit used by Harry and Luna",
       "relation": "emerges_on",
       "object": "Fifth-floor corridor",
-      "description": "A long torchlit stair with unexpected turns leads from the refuge to a wall which melts open and reseals. The Marauder's Map places Harry and Luna in a fifth-floor corridor.",
+      "description": "A cupboard in the refuge opens onto a steep stair. Neville says its castle endpoint changes every day. The observed route is a long torchlit stair with unexpected turns, leading to a wall which melts open and reseals; the map places Harry and Luna in a fifth-floor corridor.",
       "certainty": "explicit",
       "temporal": "Book 7 Ravenclaw expedition",
       "evidence": [
+        "B07-C029-P0143",
+        "B07-C029-P0144",
         "B07-C029-P0146",
         "B07-C029-P0147",
         "B07-C029-P0148",
         "B07-C029-P0149"
       ],
-      "model_notes": "Do not relocate the regular seventh-floor entrance to reconcile this. Model a state-dependent exit and its connecting stair."
+      "model_notes": "The daily endpoint change is a resident’s report, while this fifth-floor emergence is observed. Keep it separate from the regular seventh-floor entrance and give the refuge a state-dependent exit."
     },
     {
       "id": "M032",
@@ -496,15 +500,17 @@
       "subject": "Earlier secret passages",
       "relation": "have_reported_count",
       "object": "Seven, with blocked and guarded variants",
-      "description": "Fred describes seven passages, four known to Filch, one behind a fourth-floor mirror blocked since the preceding winter, one under the Whomping Willow, and one from the one-eyed witch to Honeydukes' cellar. Neville later reports the older passages sealed and guarded.",
+      "description": "Fred describes seven passages, four known to Filch, one behind a fourth-floor mirror blocked since the preceding winter, one under the Whomping Willow, and one from the one-eyed witch to Honeydukes' cellar. Neville later reports the older passages sealed and guarded. Despite the blanket closure report, the trio later crawl the Willow passage without encountering barriers, reaching a crate-obstructed opening at the Shack.",
       "certainty": "reported",
       "temporal": "Book 3 map explanation; Book 7 occupation",
       "evidence": [
         "B03-C010-P0098",
         "B07-C029-P0011",
-        "B07-C029-P0012"
+        "B07-C029-P0012",
+        "B07-C032-P0114",
+        "B07-C032-P0118"
       ],
-      "model_notes": "Do not invent destinations for the four unnamed routes or reuse one fixed open/closed state across all years."
+      "model_notes": "Preserve the closure statement as a report and the later traversal as an observation. Do not invent a narrated unsealing event, unnamed destinations or a single open/closed state for every year."
     },
     {
       "id": "M033",

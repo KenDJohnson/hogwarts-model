@@ -156,7 +156,7 @@ Evidence: explicit; state: March 1993.
 
 Model: Confirms continued greenhouse-three cultivation and reported maturity criterion.
 
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 252–253, ¶14 (B02-C014-P0014)](../../build/reader/book-02.html#B02-C014-P0014)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 253, ¶14 (B02-C014-P0014)](../../build/reader/book-02.html#B02-C014-P0014)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 253, ¶15 (B02-C014-P0015)](../../build/reader/book-02.html#B02-C014-P0015)
 
 ## B02-118: Castle to Herbology — escorted route and compost heap
@@ -170,11 +170,11 @@ Model: Observed outdoor storage/waste feature and vegetation; spider heading is 
 - [Book 2, ch. 15, “Aragog”, ref p. 269, ¶9 (B02-C015-P0009)](../../build/reader/book-02.html#B02-C015-P0009)
 - [Book 2, ch. 15, “Aragog”, ref p. 269, ¶13 (B02-C015-P0013)](../../build/reader/book-02.html#B02-C015-P0013)
 - [Book 2, ch. 15, “Aragog”, ref p. 269, ¶15 (B02-C015-P0015)](../../build/reader/book-02.html#B02-C015-P0015)
-- [Book 2, ch. 15, “Aragog”, ref p. 269–270, ¶17 (B02-C015-P0017)](../../build/reader/book-02.html#B02-C015-P0017)
+- [Book 2, ch. 15, “Aragog”, ref p. 270, ¶17 (B02-C015-P0017)](../../build/reader/book-02.html#B02-C015-P0017)
 - [Book 2, ch. 15, “Aragog”, ref p. 270, ¶18 (B02-C015-P0018)](../../build/reader/book-02.html#B02-C015-P0018)
 - [Book 2, ch. 15, “Aragog”, ref p. 270, ¶19 (B02-C015-P0019)](../../build/reader/book-02.html#B02-C015-P0019)
 - [Book 2, ch. 15, “Aragog”, ref p. 270, ¶21 (B02-C015-P0021)](../../build/reader/book-02.html#B02-C015-P0021)
-- [Book 2, ch. 15, “Aragog”, ref p. 270–271, ¶26 (B02-C015-P0026)](../../build/reader/book-02.html#B02-C015-P0026)
+- [Book 2, ch. 15, “Aragog”, ref p. 271, ¶26 (B02-C015-P0026)](../../build/reader/book-02.html#B02-C015-P0026)
 - [Book 2, ch. 15, “Aragog”, ref p. 271, ¶28 (B02-C015-P0028)](../../build/reader/book-02.html#B02-C015-P0028)
 - [Book 2, ch. 15, “Aragog”, ref p. 271, ¶29 (B02-C015-P0029)](../../build/reader/book-02.html#B02-C015-P0029)
 - [Book 2, ch. 15, “Aragog”, ref p. 271, ¶31 (B02-C015-P0031)](../../build/reader/book-02.html#B02-C015-P0031)
@@ -568,8 +568,8 @@ Model: Term-specific plant installation and animation states. Do not model the a
 
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 289, ¶2 (B06-C014-P0002)](../../build/reader/book-06.html#B06-C014-P0002)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 290, ¶10 (B06-C014-P0010)](../../build/reader/book-06.html#B06-C014-P0010)
-- [Book 6, ch. 14, “Felix Felicis”, ref p. 290, ¶13 (B06-C014-P0013)](../../build/reader/book-06.html#B06-C014-P0013)
-- [Book 6, ch. 14, “Felix Felicis”, ref p. 290–291, ¶14 (B06-C014-P0014)](../../build/reader/book-06.html#B06-C014-P0014)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 290–291, ¶13 (B06-C014-P0013)](../../build/reader/book-06.html#B06-C014-P0013)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 291, ¶14 (B06-C014-P0014)](../../build/reader/book-06.html#B06-C014-P0014)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 293, ¶32 (B06-C014-P0032)](../../build/reader/book-06.html#B06-C014-P0032)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 294, ¶34 (B06-C014-P0034)](../../build/reader/book-06.html#B06-C014-P0034)
 
@@ -583,13 +583,13 @@ Model: Glass envelope and movable class equipment, not a precise greenhouse plan
 
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 289, ¶2 (B06-C014-P0002)](../../build/reader/book-06.html#B06-C014-P0002)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 289, ¶3 (B06-C014-P0003)](../../build/reader/book-06.html#B06-C014-P0003)
-- [Book 6, ch. 14, “Felix Felicis”, ref p. 289–290, ¶6 (B06-C014-P0006)](../../build/reader/book-06.html#B06-C014-P0006)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 290, ¶6 (B06-C014-P0006)](../../build/reader/book-06.html#B06-C014-P0006)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 290, ¶7 (B06-C014-P0007)](../../build/reader/book-06.html#B06-C014-P0007)
-- [Book 6, ch. 14, “Felix Felicis”, ref p. 290–291, ¶14 (B06-C014-P0014)](../../build/reader/book-06.html#B06-C014-P0014)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 291, ¶14 (B06-C014-P0014)](../../build/reader/book-06.html#B06-C014-P0014)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 291, ¶16 (B06-C014-P0016)](../../build/reader/book-06.html#B06-C014-P0016)
-- [Book 6, ch. 14, “Felix Felicis”, ref p. 291–292, ¶19 (B06-C014-P0019)](../../build/reader/book-06.html#B06-C014-P0019)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 292, ¶19 (B06-C014-P0019)](../../build/reader/book-06.html#B06-C014-P0019)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 292, ¶21 (B06-C014-P0021)](../../build/reader/book-06.html#B06-C014-P0021)
-- [Book 6, ch. 14, “Felix Felicis”, ref p. 292–293, ¶27 (B06-C014-P0027)](../../build/reader/book-06.html#B06-C014-P0027)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 293, ¶27 (B06-C014-P0027)](../../build/reader/book-06.html#B06-C014-P0027)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 293, ¶29 (B06-C014-P0029)](../../build/reader/book-06.html#B06-C014-P0029)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 293, ¶30 (B06-C014-P0030)](../../build/reader/book-06.html#B06-C014-P0030)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 293, ¶31 (B06-C014-P0031)](../../build/reader/book-06.html#B06-C014-P0031)
@@ -603,12 +603,12 @@ Evidence: explicit; state: Apparition-test day, spring 1997.
 Model: Patch is a detour, with a low stone concealment wall and views towards Forest/cabin; no exact plot boundary or compass orientation supplied.
 
 - [Book 6, ch. 22, “After the Burial”, ref p. 502, ¶108 (B06-C022-P0108)](../../build/reader/book-06.html#B06-C022-P0108)
-- [Book 6, ch. 22, “After the Burial”, ref p. 502–503, ¶111 (B06-C022-P0111)](../../build/reader/book-06.html#B06-C022-P0111)
+- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶111 (B06-C022-P0111)](../../build/reader/book-06.html#B06-C022-P0111)
 - [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶112 (B06-C022-P0112)](../../build/reader/book-06.html#B06-C022-P0112)
-- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶122 (B06-C022-P0122)](../../build/reader/book-06.html#B06-C022-P0122)
+- [Book 6, ch. 22, “After the Burial”, ref p. 504, ¶122 (B06-C022-P0122)](../../build/reader/book-06.html#B06-C022-P0122)
 - [Book 6, ch. 22, “After the Burial”, ref p. 504, ¶124 (B06-C022-P0124)](../../build/reader/book-06.html#B06-C022-P0124)
-- [Book 6, ch. 22, “After the Burial”, ref p. 504, ¶129 (B06-C022-P0129)](../../build/reader/book-06.html#B06-C022-P0129)
-- [Book 6, ch. 22, “After the Burial”, ref p. 504–505, ¶130 (B06-C022-P0130)](../../build/reader/book-06.html#B06-C022-P0130)
+- [Book 6, ch. 22, “After the Burial”, ref p. 504–505, ¶129 (B06-C022-P0129)](../../build/reader/book-06.html#B06-C022-P0129)
+- [Book 6, ch. 22, “After the Burial”, ref p. 505, ¶130 (B06-C022-P0130)](../../build/reader/book-06.html#B06-C022-P0130)
 
 ## B06-139: Hagrid rear window and back garden
 
@@ -618,9 +618,9 @@ Evidence: explicit; state: Apparition-test day, spring 1997.
 
 Model: Front/rear distinction, window view and patch-to-grave relationship. No extra rear door is explicitly described despite the group stepping out into the back garden.
 
-- [Book 6, ch. 22, “After the Burial”, ref p. 506, ¶143 (B06-C022-P0143)](../../build/reader/book-06.html#B06-C022-P0143)
-- [Book 6, ch. 22, “After the Burial”, ref p. 506, ¶144 (B06-C022-P0144)](../../build/reader/book-06.html#B06-C022-P0144)
-- [Book 6, ch. 22, “After the Burial”, ref p. 506–507, ¶145 (B06-C022-P0145)](../../build/reader/book-06.html#B06-C022-P0145)
+- [Book 6, ch. 22, “After the Burial”, ref p. 506–507, ¶143 (B06-C022-P0143)](../../build/reader/book-06.html#B06-C022-P0143)
+- [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶144 (B06-C022-P0144)](../../build/reader/book-06.html#B06-C022-P0144)
+- [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶145 (B06-C022-P0145)](../../build/reader/book-06.html#B06-C022-P0145)
 - [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶150 (B06-C022-P0150)](../../build/reader/book-06.html#B06-C022-P0150)
 - [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶151 (B06-C022-P0151)](../../build/reader/book-06.html#B06-C022-P0151)
 
@@ -632,9 +632,9 @@ Evidence: explicit; state: Apparition-test day, spring 1997.
 
 Model: Garden feature adjacent to burial activity without precise spacing.
 
-- [Book 6, ch. 22, “After the Burial”, ref p. 508, ¶157 (B06-C022-P0157)](../../build/reader/book-06.html#B06-C022-P0157)
-- [Book 6, ch. 22, “After the Burial”, ref p. 508, ¶158 (B06-C022-P0158)](../../build/reader/book-06.html#B06-C022-P0158)
-- [Book 6, ch. 22, “After the Burial”, ref p. 508–509, ¶159 (B06-C022-P0159)](../../build/reader/book-06.html#B06-C022-P0159)
+- [Book 6, ch. 22, “After the Burial”, ref p. 508–509, ¶157 (B06-C022-P0157)](../../build/reader/book-06.html#B06-C022-P0157)
+- [Book 6, ch. 22, “After the Burial”, ref p. 509, ¶158 (B06-C022-P0158)](../../build/reader/book-06.html#B06-C022-P0158)
+- [Book 6, ch. 22, “After the Burial”, ref p. 509, ¶159 (B06-C022-P0159)](../../build/reader/book-06.html#B06-C022-P0159)
 
 ## B06-165: Trelawney’s hiding-room ejection
 
@@ -644,10 +644,10 @@ Evidence: reported; state: June 1997, departure evening.
 
 Model: Room entry, voice/darkness and ejection are her report; the scream and aftermath are witnessed. Occupant identity, darkness cause and physical ejection mechanism remain unproven in this scene.
 
-- [Book 6, ch. 25, “The Seer Overheard”, ref p. 568, ¶56 (B06-C025-P0056)](../../build/reader/book-06.html#B06-C025-P0056)
-- [Book 6, ch. 25, “The Seer Overheard”, ref p. 568, ¶57 (B06-C025-P0057)](../../build/reader/book-06.html#B06-C025-P0057)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 569, ¶56 (B06-C025-P0056)](../../build/reader/book-06.html#B06-C025-P0056)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 569, ¶57 (B06-C025-P0057)](../../build/reader/book-06.html#B06-C025-P0057)
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 569, ¶58 (B06-C025-P0058)](../../build/reader/book-06.html#B06-C025-P0058)
-- [Book 6, ch. 25, “The Seer Overheard”, ref p. 569–570, ¶70 (B06-C025-P0070)](../../build/reader/book-06.html#B06-C025-P0070)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 570, ¶70 (B06-C025-P0070)](../../build/reader/book-06.html#B06-C025-P0070)
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 570, ¶73 (B06-C025-P0073)](../../build/reader/book-06.html#B06-C025-P0073)
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 570, ¶75 (B06-C025-P0075)](../../build/reader/book-06.html#B06-C025-P0075)
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 570, ¶77 (B06-C025-P0077)](../../build/reader/book-06.html#B06-C025-P0077)
@@ -672,9 +672,9 @@ Model: Boundary crossing is the operative restriction; gates are the route used 
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 633, ¶25 (B06-C028-P0025)](../../build/reader/book-06.html#B06-C028-P0025)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 634, ¶28 (B06-C028-P0028)](../../build/reader/book-06.html#B06-C028-P0028)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 634, ¶30 (B06-C028-P0030)](../../build/reader/book-06.html#B06-C028-P0030)
-- [Book 6, ch. 28, “Flight of the Prince”, ref p. 635–636, ¶44 (B06-C028-P0044)](../../build/reader/book-06.html#B06-C028-P0044)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 636, ¶44 (B06-C028-P0044)](../../build/reader/book-06.html#B06-C028-P0044)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 637, ¶52 (B06-C028-P0052)](../../build/reader/book-06.html#B06-C028-P0052)
-- [Book 6, ch. 28, “Flight of the Prince”, ref p. 637, ¶53 (B06-C028-P0053)](../../build/reader/book-06.html#B06-C028-P0053)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 637–638, ¶53 (B06-C028-P0053)](../../build/reader/book-06.html#B06-C028-P0053)
 
 ## B06-191: Front lawn–hospital route and ward bed positions
 
@@ -684,15 +684,15 @@ Evidence: explicit; state: Night after tower attack, June 1997.
 
 Model: Ward longitudinal relationship from entrance to far bed; no exact bed count or absolute floor. Pomfrey conjures an extra chair, so visitor furniture can change.
 
-- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 643, ¶6 (B06-C029-P0006)](../../build/reader/book-06.html#B06-C029-P0006)
-- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 643, ¶7 (B06-C029-P0007)](../../build/reader/book-06.html#B06-C029-P0007)
-- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 643–644, ¶9 (B06-C029-P0009)](../../build/reader/book-06.html#B06-C029-P0009)
-- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 644–645, ¶20 (B06-C029-P0020)](../../build/reader/book-06.html#B06-C029-P0020)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 643–644, ¶6 (B06-C029-P0006)](../../build/reader/book-06.html#B06-C029-P0006)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 644, ¶7 (B06-C029-P0007)](../../build/reader/book-06.html#B06-C029-P0007)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 644, ¶9 (B06-C029-P0009)](../../build/reader/book-06.html#B06-C029-P0009)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 645, ¶20 (B06-C029-P0020)](../../build/reader/book-06.html#B06-C029-P0020)
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 645, ¶23 (B06-C029-P0023)](../../build/reader/book-06.html#B06-C029-P0023)
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 646, ¶31 (B06-C029-P0031)](../../build/reader/book-06.html#B06-C029-P0031)
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 647, ¶38 (B06-C029-P0038)](../../build/reader/book-06.html#B06-C029-P0038)
-- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 647, ¶41 (B06-C029-P0041)](../../build/reader/book-06.html#B06-C029-P0041)
-- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 654, ¶85 (B06-C029-P0085)](../../build/reader/book-06.html#B06-C029-P0085)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 647–648, ¶41 (B06-C029-P0041)](../../build/reader/book-06.html#B06-C029-P0041)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 654–655, ¶85 (B06-C029-P0085)](../../build/reader/book-06.html#B06-C029-P0085)
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 655, ¶88 (B06-C029-P0088)](../../build/reader/book-06.html#B06-C029-P0088)
 
 ## B07-003: Hagrid front garden burial recollection
@@ -715,5 +715,42 @@ Evidence: explicit; state: March 1998 recollection of June 1997.
 
 Model: Confirms highest-tower base on lawn; no new tower plan or height.
 
-- [Book 7, ch. 24, “The Wandmaker”, ref p. 503–504, ¶1 (B07-C024-P0001)](../../build/reader/book-07.html#B07-C024-P0001)
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 504, ¶1 (B07-C024-P0001)](../../build/reader/book-07.html#B07-C024-P0001)
 
+## B07-101: Willow tunnel → front lawn → castle steps
+
+The trio crawl back through the tunnel and hurry towards the castle stone steps. Small bundles litter the front lawn in near-dawn darkness, and an abandoned giant’s clog, like a small boat, lies there; the giants themselves are absent.
+
+Evidence: explicit; state: May 1998, battle ceasefire.
+
+Model: Bundles are not identified individually. The text jumps from tunnel transit to front lawn without surveying the intervening grounds route.
+
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 699, ¶11 (B07-C033-P0011)](../../build/reader/book-07.html#B07-C033-P0011)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 699, ¶12 (B07-C033-P0012)](../../build/reader/book-07.html#B07-C033-P0012)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 699–700, ¶14 (B07-C033-P0014)](../../build/reader/book-07.html#B07-C033-P0014)
+
+## B07-125: Forest edge → castle front lawn and steps
+
+Voldemort magnifies his voice through the grounds from the Forest edge, then leads the procession towards the castle. The Death Eaters form a line facing its open front doors, lit red by light from the Entrance Hall; defenders fill the doorway and front steps. Harry is lowered onto grass at Voldemort’s feet between the opposing groups.
+
+Evidence: explicit; state: May 1998, final battle at dawn.
+
+Model: Front lawn, lit Hall sightline and open staging, without measured distances. Nagini has been released from her protective sphere and rides Voldemort’s shoulders.
+
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 771–772, ¶33 (B07-C036-P0033)](../../build/reader/book-07.html#B07-C036-P0033)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 772, ¶34 (B07-C036-P0034)](../../build/reader/book-07.html#B07-C036-P0034)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 772, ¶35 (B07-C036-P0035)](../../build/reader/book-07.html#B07-C036-P0035)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 772, ¶36 (B07-C036-P0036)](../../build/reader/book-07.html#B07-C036-P0036)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 772, ¶37 (B07-C036-P0037)](../../build/reader/book-07.html#B07-C036-P0037)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 772–773, ¶38 (B07-C036-P0038)](../../build/reader/book-07.html#B07-C036-P0038)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 773, ¶39 (B07-C036-P0039)](../../build/reader/book-07.html#B07-C036-P0039)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 773, ¶40 (B07-C036-P0040)](../../build/reader/book-07.html#B07-C036-P0040)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 773, ¶42 (B07-C036-P0042)](../../build/reader/book-07.html#B07-C036-P0042)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 773, ¶43 (B07-C036-P0043)](../../build/reader/book-07.html#B07-C036-P0043)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 773, ¶44 (B07-C036-P0044)](../../build/reader/book-07.html#B07-C036-P0044)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 773–774, ¶46 (B07-C036-P0046)](../../build/reader/book-07.html#B07-C036-P0046)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 774, ¶51 (B07-C036-P0051)](../../build/reader/book-07.html#B07-C036-P0051)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 774, ¶52 (B07-C036-P0052)](../../build/reader/book-07.html#B07-C036-P0052)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 774, ¶53 (B07-C036-P0053)](../../build/reader/book-07.html#B07-C036-P0053)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 775, ¶56 (B07-C036-P0056)](../../build/reader/book-07.html#B07-C036-P0056)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 775, ¶60 (B07-C036-P0060)](../../build/reader/book-07.html#B07-C036-P0060)

@@ -18,6 +18,8 @@ Treat named compass directions and floor levels as local constraints with a sour
 - Interiors of rooms that are mentioned without being described in the reviewed evidence.
 - How to implement conflicting floor references without presenting the chosen repair as canon.
 
+The full review's reconciliation notes cover additional state and route details: [books 1–3](../research/notes/books-1-2-3.md), [books 4–5](../research/notes/books-4-5.md), and [books 6–7](../research/notes/books-6-7.md).
+
 ## Terrain and arrival
 
 ### M001: Castle
@@ -133,7 +135,7 @@ Evidence: explicit; state: Added at end of Book 6; present in Book 7.
 
 Model implication: This is a dated addition. Earlier school-year scenes should omit it. No source-backed footprint dimensions are supplied by these passages.
 
-- [Book 6, ch. 30, “The White Tomb”, ref p. 680, ¶62 (B06-C030-P0062)](../build/reader/book-06.html#B06-C030-P0062)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 680–681, ¶62 (B06-C030-P0062)](../build/reader/book-06.html#B06-C030-P0062)
 - [Book 7, ch. 24, “The Wandmaker”, ref p. 530, ¶252 (B07-C024-P0252)](../build/reader/book-07.html#B07-C024-P0252)
 
 ## Entrance and shared rooms
@@ -281,16 +283,18 @@ Model implication: The earlier fifth-floor exit from the Room of Requirement is 
 
 ### M020: Ravenclaw common room
 
-The room is wide, circular and airy, with graceful arched windows, blue and bronze wall silks, a domed star-painted ceiling and matching midnight-blue carpet, tables, chairs and bookcases. Rowena's white marble statue stands opposite the entrance by another door.
+The room is wide, circular and airy, with graceful arched windows, blue and bronze wall silks, a domed star-painted ceiling and matching midnight-blue carpet, tables, chairs and bookcases. Rowena's white marble statue stands opposite the entrance by another door. The next chapter identifies the adjacent door as leading to dormitories above, with woken students coming down and later retreating upstairs.
 
 Relation: `Ravenclaw common room` → `contains` → `Arched windows, blue/bronze silks, star dome and carpet, white marble founder statue`.
 
 Evidence: explicit; state: Book 7 Ravenclaw visit.
 
-Model implication: The mountain view by day is a narrative projection from this night-time visit. Harry only guesses that the adjacent door leads to dormitories above; retain that qualification.
+Model implication: Harry initially guesses the dormitory connection; the next chapter’s narration and staircase action confirm it. The mountain view is projected for daylight from a night-time visit. No dormitory dimensions are supplied.
 
 - [Book 7, ch. 29, “The Lost Diadem”, ref p. 622, ¶163 (B07-C029-P0163)](../build/reader/book-07.html#B07-C029-P0163)
 - [Book 7, ch. 29, “The Lost Diadem”, ref p. 622–623, ¶164 (B07-C029-P0164)](../build/reader/book-07.html#B07-C029-P0164)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 624, ¶4 (B07-C030-P0004)](../build/reader/book-07.html#B07-C030-P0004)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 625, ¶14 (B07-C030-P0014)](../build/reader/book-07.html#B07-C030-P0014)
 
 ### M021: Divination classroom
 
@@ -358,10 +362,10 @@ Evidence: explicit; state: Book 6 return from the cave.
 
 Model implication: Maintain a relative height ordering and a usable stair door. The rooftop scene does not provide the tower's absolute height or all surrounding roof levels.
 
-- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 613–614, ¶36 (B06-C027-P0036)](../build/reader/book-06.html#B06-C027-P0036)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶36 (B06-C027-P0036)](../build/reader/book-06.html#B06-C027-P0036)
 - [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶37 (B06-C027-P0037)](../build/reader/book-06.html#B06-C027-P0037)
 - [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶38 (B06-C027-P0038)](../build/reader/book-06.html#B06-C027-P0038)
-- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614–615, ¶44 (B06-C027-P0044)](../build/reader/book-06.html#B06-C027-P0044)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 615, ¶44 (B06-C027-P0044)](../build/reader/book-06.html#B06-C027-P0044)
 
 ## Variable and hidden spaces
 
@@ -417,7 +421,7 @@ Evidence: explicit; state: Book 7 refuge.
 Model implication: The observed interior is explicit; growth, entry protections and passage creation are residents' reports. The room does not simply conjure food in this account.
 
 - [Book 7, ch. 29, “The Lost Diadem”, ref p. 611, ¶59 (B07-C029-P0059)](../build/reader/book-07.html#B07-C029-P0059)
-- [Book 7, ch. 29, “The Lost Diadem”, ref p. 611–612, ¶61 (B07-C029-P0061)](../build/reader/book-07.html#B07-C029-P0061)
+- [Book 7, ch. 29, “The Lost Diadem”, ref p. 612, ¶61 (B07-C029-P0061)](../build/reader/book-07.html#B07-C029-P0061)
 - [Book 7, ch. 29, “The Lost Diadem”, ref p. 612, ¶63 (B07-C029-P0063)](../build/reader/book-07.html#B07-C029-P0063)
 - [Book 7, ch. 29, “The Lost Diadem”, ref p. 612, ¶64 (B07-C029-P0064)](../build/reader/book-07.html#B07-C029-P0064)
 - [Book 7, ch. 29, “The Lost Diadem”, ref p. 613, ¶66 (B07-C029-P0066)](../build/reader/book-07.html#B07-C029-P0066)
@@ -439,14 +443,16 @@ Model implication: Treat as a later-created connection, separate from the earlie
 
 ### M031: Room of Requirement exit used by Harry and Luna
 
-A long torchlit stair with unexpected turns leads from the refuge to a wall which melts open and reseals. The Marauder's Map places Harry and Luna in a fifth-floor corridor.
+A cupboard in the refuge opens onto a steep stair. Neville says its castle endpoint changes every day. The observed route is a long torchlit stair with unexpected turns, leading to a wall which melts open and reseals; the map places Harry and Luna in a fifth-floor corridor.
 
 Relation: `Room of Requirement exit used by Harry and Luna` → `emerges_on` → `Fifth-floor corridor`.
 
 Evidence: explicit; state: Book 7 Ravenclaw expedition.
 
-Model implication: Do not relocate the regular seventh-floor entrance to reconcile this. Model a state-dependent exit and its connecting stair.
+Model implication: The daily endpoint change is a resident’s report, while this fifth-floor emergence is observed. Keep it separate from the regular seventh-floor entrance and give the refuge a state-dependent exit.
 
+- [Book 7, ch. 29, “The Lost Diadem”, ref p. 620, ¶143 (B07-C029-P0143)](../build/reader/book-07.html#B07-C029-P0143)
+- [Book 7, ch. 29, “The Lost Diadem”, ref p. 620, ¶144 (B07-C029-P0144)](../build/reader/book-07.html#B07-C029-P0144)
 - [Book 7, ch. 29, “The Lost Diadem”, ref p. 620, ¶146 (B07-C029-P0146)](../build/reader/book-07.html#B07-C029-P0146)
 - [Book 7, ch. 29, “The Lost Diadem”, ref p. 620, ¶147 (B07-C029-P0147)](../build/reader/book-07.html#B07-C029-P0147)
 - [Book 7, ch. 29, “The Lost Diadem”, ref p. 620–621, ¶148 (B07-C029-P0148)](../build/reader/book-07.html#B07-C029-P0148)
@@ -454,17 +460,19 @@ Model implication: Do not relocate the regular seventh-floor entrance to reconci
 
 ### M032: Earlier secret passages
 
-Fred describes seven passages, four known to Filch, one behind a fourth-floor mirror blocked since the preceding winter, one under the Whomping Willow, and one from the one-eyed witch to Honeydukes' cellar. Neville later reports the older passages sealed and guarded.
+Fred describes seven passages, four known to Filch, one behind a fourth-floor mirror blocked since the preceding winter, one under the Whomping Willow, and one from the one-eyed witch to Honeydukes' cellar. Neville later reports the older passages sealed and guarded. Despite the blanket closure report, the trio later crawl the Willow passage without encountering barriers, reaching a crate-obstructed opening at the Shack.
 
 Relation: `Earlier secret passages` → `have_reported_count` → `Seven, with blocked and guarded variants`.
 
 Evidence: reported; state: Book 3 map explanation; Book 7 occupation.
 
-Model implication: Do not invent destinations for the four unnamed routes or reuse one fixed open/closed state across all years.
+Model implication: Preserve the closure statement as a report and the later traversal as an observation. Do not invent a narrated unsealing event, unnamed destinations or a single open/closed state for every year.
 
 - [Book 3, ch. 10, “The Marauder’s Map”, ref p. 192–193, ¶98 (B03-C010-P0098)](../build/reader/book-03.html#B03-C010-P0098)
 - [Book 7, ch. 29, “The Lost Diadem”, ref p. 606, ¶11 (B07-C029-P0011)](../build/reader/book-07.html#B07-C029-P0011)
 - [Book 7, ch. 29, “The Lost Diadem”, ref p. 606–607, ¶12 (B07-C029-P0012)](../build/reader/book-07.html#B07-C029-P0012)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 690–691, ¶114 (B07-C032-P0114)](../build/reader/book-07.html#B07-C032-P0114)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 691, ¶118 (B07-C032-P0118)](../build/reader/book-07.html#B07-C032-P0118)
 
 ### M033: Honeydukes passage entrance
 
@@ -571,7 +579,7 @@ Evidence: explicit; state: Books 2 and 4.
 
 Model implication: The conflict is explicit in the two sources, though the Book 2 location is dialogue. Keep both constraints and label any chosen implementation. Do not claim that a moving room or floor-renumbering explanation is itself stated canon.
 
-- [Book 2, ch. 8, “The Deathday Party”, ref p. 133–134, ¶94 (B02-C008-P0094)](../build/reader/book-02.html#B02-C008-P0094)
+- [Book 2, ch. 8, “The Deathday Party”, ref p. 134, ¶94 (B02-C008-P0094)](../build/reader/book-02.html#B02-C008-P0094)
 - [Book 4, ch. 22, “The Unexpected Task”, ref p. 416, ¶97 (B04-C022-P0097)](../build/reader/book-04.html#B04-C022-P0097)
 
 ## Interactions for an explorable model
@@ -599,9 +607,9 @@ Evidence: reported; state: Book 6 repaired invasion route; earlier broken state.
 Model implication: The object's location is observed; its mechanism and earlier limbo state are explained by Malfoy. Treat the connection as a portal with dated working/broken states, rather than an ordinary continuous tunnel.
 
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 554–555, ¶105 (B06-C024-P0105)](../build/reader/book-06.html#B06-C024-P0105)
-- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 617–618, ¶74 (B06-C027-P0074)](../build/reader/book-06.html#B06-C027-P0074)
-- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 618, ¶78 (B06-C027-P0078)](../build/reader/book-06.html#B06-C027-P0078)
-- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 618–619, ¶79 (B06-C027-P0079)](../build/reader/book-06.html#B06-C027-P0079)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 618, ¶74 (B06-C027-P0074)](../build/reader/book-06.html#B06-C027-P0074)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 618–619, ¶78 (B06-C027-P0078)](../build/reader/book-06.html#B06-C027-P0078)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 619, ¶79 (B06-C027-P0079)](../build/reader/book-06.html#B06-C027-P0079)
 
 ### M043: Chamber entrance in Myrtle's bathroom
 
@@ -616,9 +624,9 @@ Model implication: Represent the sink and tap as a transformable entrance, with 
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 303, ¶181 (B02-C016-P0181)](../build/reader/book-02.html#B02-C016-P0181)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 303, ¶182 (B02-C016-P0182)](../build/reader/book-02.html#B02-C016-P0182)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 303, ¶183 (B02-C016-P0183)](../build/reader/book-02.html#B02-C016-P0183)
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 303, ¶188 (B02-C016-P0188)](../build/reader/book-02.html#B02-C016-P0188)
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 303, ¶189 (B02-C016-P0189)](../build/reader/book-02.html#B02-C016-P0189)
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 303–304, ¶190 (B02-C016-P0190)](../build/reader/book-02.html#B02-C016-P0190)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 303–304, ¶188 (B02-C016-P0188)](../build/reader/book-02.html#B02-C016-P0188)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 304, ¶189 (B02-C016-P0189)](../build/reader/book-02.html#B02-C016-P0189)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 304, ¶190 (B02-C016-P0190)](../build/reader/book-02.html#B02-C016-P0190)
 
 ### M044: Gryffindor girls' dormitory staircase
 
@@ -717,7 +725,7 @@ Evidence: explicit; state: Book 6 return flight.
 
 Model implication: The wall and crossing are observed; the explanation is Harry's inference. Keep physical perimeter geometry and magical permission separate.
 
-- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 613–614, ¶36 (B06-C027-P0036)](../build/reader/book-06.html#B06-C027-P0036)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶36 (B06-C027-P0036)](../build/reader/book-06.html#B06-C027-P0036)
 
 ## Additional alignment from the full review
 
@@ -735,4 +743,3 @@ Model implication: Provide a viable downward sightline to the front doors and an
 - [Book 5, ch. 31, “O.W.L.s”, ref p. 858–859, ¶134 (B05-C031-P0134)](../build/reader/book-05.html#B05-C031-P0134)
 - [Book 5, ch. 31, “O.W.L.s”, ref p. 859, ¶135 (B05-C031-P0135)](../build/reader/book-05.html#B05-C031-P0135)
 - [Book 5, ch. 31, “O.W.L.s”, ref p. 860, ¶137 (B05-C031-P0137)](../build/reader/book-05.html#B05-C031-P0137)
-

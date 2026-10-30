@@ -114,9 +114,9 @@ Evidence: explicit; state: November–December 1992.
 
 Model: A fixed noticeboard location, without side of hall or mounting height.
 
-- [Book 2, ch. 11, “The Duelling Club”, ref p. 189, ¶49 (B02-C011-P0049)](../../build/reader/book-02.html#B02-C011-P0049)
-- [Book 2, ch. 11, “The Duelling Club”, ref p. 189, ¶50 (B02-C011-P0050)](../../build/reader/book-02.html#B02-C011-P0050)
-- [Book 2, ch. 11, “The Duelling Club”, ref p. 189–190, ¶51 (B02-C011-P0051)](../../build/reader/book-02.html#B02-C011-P0051)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 189–190, ¶49 (B02-C011-P0049)](../../build/reader/book-02.html#B02-C011-P0049)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 190, ¶50 (B02-C011-P0050)](../../build/reader/book-02.html#B02-C011-P0050)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 190, ¶51 (B02-C011-P0051)](../../build/reader/book-02.html#B02-C011-P0051)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 190, ¶52 (B02-C011-P0052)](../../build/reader/book-02.html#B02-C011-P0052)
 
 ## B02-088: Entrance Hall — banisters, armour and cleaning cupboard
@@ -128,9 +128,9 @@ Evidence: explicit; state: December 1992.
 Model: Specific entrance furnishings and cupboard relation. Banisters are not given an explicit height; cupboard is initially proposed as a broom cupboard.
 
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 216, ¶69 (B02-C012-P0069)](../../build/reader/book-02.html#B02-C012-P0069)
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 216–217, ¶80 (B02-C012-P0080)](../../build/reader/book-02.html#B02-C012-P0080)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 217, ¶80 (B02-C012-P0080)](../../build/reader/book-02.html#B02-C012-P0080)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 217, ¶81 (B02-C012-P0081)](../../build/reader/book-02.html#B02-C012-P0081)
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 217, ¶82 (B02-C012-P0082)](../../build/reader/book-02.html#B02-C012-P0082)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 217–218, ¶82 (B02-C012-P0082)](../../build/reader/book-02.html#B02-C012-P0082)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 227–228, ¶197 (B02-C012-P0197)](../../build/reader/book-02.html#B02-C012-P0197)
 
 ## B03-009: Entrance Hall — right-hand Great Hall door
@@ -526,8 +526,8 @@ Evidence: reported; state: September 1996.
 
 Model: Operational 1996 security state; Harry himself missed screening due to late arrival, so it is not a universal impenetrable check.
 
-- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 243, ¶151 (B06-C011-P0151)](../../build/reader/book-06.html#B06-C011-P0151)
-- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 243–244, ¶152 (B06-C011-P0152)](../../build/reader/book-06.html#B06-C011-P0152)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 244, ¶151 (B06-C011-P0151)](../../build/reader/book-06.html#B06-C011-P0151)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 244, ¶152 (B06-C011-P0152)](../../build/reader/book-06.html#B06-C011-P0152)
 - [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 244, ¶153 (B06-C011-P0153)](../../build/reader/book-06.html#B06-C011-P0153)
 - [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 244, ¶155 (B06-C011-P0155)](../../build/reader/book-06.html#B06-C011-P0155)
 - [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 244, ¶156 (B06-C011-P0156)](../../build/reader/book-06.html#B06-C011-P0156)
@@ -542,8 +542,8 @@ Model: Office lies above Entrance Hall and below at least some of the route to G
 
 - [Book 6, ch. 12, “Silver and Opals”, ref p. 261, ¶145 (B06-C012-P0145)](../../build/reader/book-06.html#B06-C012-P0145)
 - [Book 6, ch. 12, “Silver and Opals”, ref p. 261, ¶146 (B06-C012-P0146)](../../build/reader/book-06.html#B06-C012-P0146)
-- [Book 6, ch. 12, “Silver and Opals”, ref p. 261, ¶148 (B06-C012-P0148)](../../build/reader/book-06.html#B06-C012-P0148)
-- [Book 6, ch. 12, “Silver and Opals”, ref p. 261–262, ¶149 (B06-C012-P0149)](../../build/reader/book-06.html#B06-C012-P0149)
+- [Book 6, ch. 12, “Silver and Opals”, ref p. 261–262, ¶148 (B06-C012-P0148)](../../build/reader/book-06.html#B06-C012-P0148)
+- [Book 6, ch. 12, “Silver and Opals”, ref p. 262, ¶149 (B06-C012-P0149)](../../build/reader/book-06.html#B06-C012-P0149)
 - [Book 6, ch. 12, “Silver and Opals”, ref p. 265, ¶183 (B06-C012-P0183)](../../build/reader/book-06.html#B06-C012-P0183)
 - [Book 6, ch. 12, “Silver and Opals”, ref p. 265, ¶185 (B06-C012-P0185)](../../build/reader/book-06.html#B06-C012-P0185)
 
@@ -558,7 +558,7 @@ Model: Upward route from Entrance Hall; no total floors traversed or claim that 
 - [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 327, ¶103 (B06-C015-P0103)](../../build/reader/book-06.html#B06-C015-P0103)
 - [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 327, ¶105 (B06-C015-P0105)](../../build/reader/book-06.html#B06-C015-P0105)
 - [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 327, ¶106 (B06-C015-P0106)](../../build/reader/book-06.html#B06-C015-P0106)
-- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 327, ¶110 (B06-C015-P0110)](../../build/reader/book-06.html#B06-C015-P0110)
+- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 327–328, ¶110 (B06-C015-P0110)](../../build/reader/book-06.html#B06-C015-P0110)
 
 ## B06-105: Entrance Hall–Gryffindor fourth-floor detour
 
@@ -569,7 +569,7 @@ Evidence: explicit; state: First Apparition lesson day, February 1997.
 Model: Local blocked-door event and alternate route; time is narrative travel time at a run, not a scale ruler or complete shortcut map.
 
 - [Book 6, ch. 18, “Birthday Surprises”, ref p. 404, ¶112 (B06-C018-P0112)](../../build/reader/book-06.html#B06-C018-P0112)
-- [Book 6, ch. 18, “Birthday Surprises”, ref p. 404, ¶113 (B06-C018-P0113)](../../build/reader/book-06.html#B06-C018-P0113)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 404–405, ¶113 (B06-C018-P0113)](../../build/reader/book-06.html#B06-C018-P0113)
 
 ## B06-112: Hospital wing–marble staircase–Gryffindor route
 
@@ -579,7 +579,7 @@ Evidence: explicit; state: Late evening of 1 March 1997.
 
 Model: Route sequence only; does not prove each described segment is adjacent or fix staircase landing level.
 
-- [Book 6, ch. 19, “Elf Tails”, ref p. 421, ¶54 (B06-C019-P0054)](../../build/reader/book-06.html#B06-C019-P0054)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 421–422, ¶54 (B06-C019-P0054)](../../build/reader/book-06.html#B06-C019-P0054)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 424, ¶74 (B06-C019-P0074)](../../build/reader/book-06.html#B06-C019-P0074)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 424, ¶80 (B06-C019-P0080)](../../build/reader/book-06.html#B06-C019-P0080)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 424, ¶81 (B06-C019-P0081)](../../build/reader/book-06.html#B06-C019-P0081)
@@ -596,3 +596,142 @@ Model: Fixed score hourglass material/contents and damaged state. No dimensions,
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 632–633, ¶22 (B06-C028-P0022)](../../build/reader/book-06.html#B06-C028-P0022)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 633, ¶23 (B06-C028-P0023)](../../build/reader/book-06.html#B06-C028-P0023)
 
+## B07-069: Great Hall → Entrance Hall → marble stairs → refuge evacuation route
+
+Evacuees fill the Entrance Hall beyond the Great Hall and move up the marble staircase towards the Room of Requirement. At the top Harry follows a deserted corridor and sits on an empty statue plinth halfway along a passage, then returns to the stairs and descends to Nick below. Hundreds continue towards the refuge; Aberforth later reports hundreds passing through his pub.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts before and just after midnight.
+
+Model: Local sequence and flows, not an exact floor-to-floor survey. Vacant plinth follows the statue mobilisation.
+
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 647–648, ¶36 (B07-C031-P0036)](../../build/reader/book-07.html#B07-C031-P0036)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 648–649, ¶41 (B07-C031-P0041)](../../build/reader/book-07.html#B07-C031-P0041)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 649, ¶42 (B07-C031-P0042)](../../build/reader/book-07.html#B07-C031-P0042)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 649, ¶44 (B07-C031-P0044)](../../build/reader/book-07.html#B07-C031-P0044)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 658, ¶136 (B07-C031-P0136)](../../build/reader/book-07.html#B07-C031-P0136)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 658, ¶137 (B07-C031-P0137)](../../build/reader/book-07.html#B07-C031-P0137)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 658, ¶138 (B07-C031-P0138)](../../build/reader/book-07.html#B07-C031-P0138)
+
+## B07-070: Entrance Hall / adjoining corridor and ghosts
+
+The Grey Lady crosses a solid wall from the Entrance Hall into a corridor Harry reaches through its door, then glides a few inches above the floor. She is tall, with waist-length hair and a floor-length cloak; she identifies herself as Helena Ravenclaw. She shows the dark wound in her chest and says the Bloody Baron wears chains in penitence.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts before and just after midnight.
+
+Model: Observed ghost appearance and wall passage; Baron-chain explanation is her report. Her Albanian forest and hollow tree are remote and not Hogwarts vegetation.
+
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 649, ¶49 (B07-C031-P0049)](../../build/reader/book-07.html#B07-C031-P0049)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 649, ¶53 (B07-C031-P0053)](../../build/reader/book-07.html#B07-C031-P0053)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 649, ¶54 (B07-C031-P0054)](../../build/reader/book-07.html#B07-C031-P0054)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 649–650, ¶55 (B07-C031-P0055)](../../build/reader/book-07.html#B07-C031-P0055)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 650, ¶57 (B07-C031-P0057)](../../build/reader/book-07.html#B07-C031-P0057)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 650, ¶60 (B07-C031-P0060)](../../build/reader/book-07.html#B07-C031-P0060)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 650, ¶61 (B07-C031-P0061)](../../build/reader/book-07.html#B07-C031-P0061)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 651, ¶74 (B07-C031-P0074)](../../build/reader/book-07.html#B07-C031-P0074)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 651, ¶77 (B07-C031-P0077)](../../build/reader/book-07.html#B07-C031-P0077)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 652, ¶88 (B07-C031-P0088)](../../build/reader/book-07.html#B07-C031-P0088)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 652, ¶90 (B07-C031-P0090)](../../build/reader/book-07.html#B07-C031-P0090)
+
+## B07-091: Lower corridor → marble staircase / active plant weapons
+
+After another descending staircase they reach a corridor full of duellers and portraits crowded with advisers. Peeves flies overhead dropping Snargaluff pods, whose green wormlike roots engulf heads and spill slippery juice. The trio run through it to the upper landing of the marble staircase leading into the Entrance Hall.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts.
+
+Model: Concrete travel sequence and battle surface hazard. Neville carries Venomous Tentacula into the Hall, where it coils around and reels in an enemy.
+
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 682, ¶54 (B07-C032-P0054)](../../build/reader/book-07.html#B07-C032-P0054)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 682–683, ¶55 (B07-C032-P0055)](../../build/reader/book-07.html#B07-C032-P0055)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 683, ¶57 (B07-C032-P0057)](../../build/reader/book-07.html#B07-C032-P0057)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 683, ¶58 (B07-C032-P0058)](../../build/reader/book-07.html#B07-C032-P0058)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 683, ¶59 (B07-C032-P0059)](../../build/reader/book-07.html#B07-C032-P0059)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 683, ¶60 (B07-C032-P0060)](../../build/reader/book-07.html#B07-C032-P0060)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 683, ¶61 (B07-C032-P0061)](../../build/reader/book-07.html#B07-C032-P0061)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 683, ¶62 (B07-C032-P0062)](../../build/reader/book-07.html#B07-C032-P0062)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 683–684, ¶64 (B07-C032-P0064)](../../build/reader/book-07.html#B07-C032-P0064)
+
+## B07-092: Entrance Hall / hourglass, balcony, marble banisters and doors
+
+As the trio descend the marble stairs, the Slytherin points hourglass shatters on their left and spills emeralds underfoot. Two bodies fall from a balcony overhead. Greyback is thrown into marble banisters; Trelawney attacks from above them with crystal balls, one smashing a window across the Hall. Heavy wooden front doors burst open for giant spiders.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts.
+
+Model: Slytherin hourglass, not the previously broken Gryffindor one. “Left” is relative to descent, with no compass direction or complete arrangement of house clocks.
+
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 683–684, ¶64 (B07-C032-P0064)](../../build/reader/book-07.html#B07-C032-P0064)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 684, ¶65 (B07-C032-P0065)](../../build/reader/book-07.html#B07-C032-P0065)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 684, ¶66 (B07-C032-P0066)](../../build/reader/book-07.html#B07-C032-P0066)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 684, ¶67 (B07-C032-P0067)](../../build/reader/book-07.html#B07-C032-P0067)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 684–685, ¶68 (B07-C032-P0068)](../../build/reader/book-07.html#B07-C032-P0068)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 685, ¶69 (B07-C032-P0069)](../../build/reader/book-07.html#B07-C032-P0069)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 685, ¶70 (B07-C032-P0070)](../../build/reader/book-07.html#B07-C032-P0070)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 685, ¶73 (B07-C032-P0073)](../../build/reader/book-07.html#B07-C032-P0073)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 685, ¶75 (B07-C032-P0075)](../../build/reader/book-07.html#B07-C032-P0075)
+
+## B07-102: Entrance Hall / ceasefire damage
+
+The deserted, silent Entrance Hall has blood-stained flagstones, scattered emeralds, broken marble and splintered wood. Part of the banisters has been blasted away.
+
+Evidence: explicit; state: May 1998, battle ceasefire.
+
+Model: Continues chapter 32’s points-clock and stair damage, adding broken banisters and debris materials.
+
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 700, ¶15 (B07-C033-P0015)](../../build/reader/book-07.html#B07-C033-P0015)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 700, ¶16 (B07-C033-P0016)](../../build/reader/book-07.html#B07-C033-P0016)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 700, ¶17 (B07-C033-P0017)](../../build/reader/book-07.html#B07-C033-P0017)
+
+## B07-112: Entrance Hall / Yule Ball circulation
+
+Dumbledore and Snape speak apart in the Entrance Hall as the last Yule Ball guests pass towards bed; Fleur and Roger Davies come in from the grounds and continue past them.
+
+Evidence: explicit; state: Christmas 1994 memory.
+
+Model: Grounds-to-Hall and onward sleeping-area circulation, without assuming a specifically named exterior door or bedroom destination.
+
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 720, ¶239 (B07-C033-P0239)](../../build/reader/book-07.html#B07-C033-P0239)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 720, ¶240 (B07-C033-P0240)](../../build/reader/book-07.html#B07-C033-P0240)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 720, ¶241 (B07-C033-P0241)](../../build/reader/book-07.html#B07-C033-P0241)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 720, ¶242 (B07-C033-P0242)](../../build/reader/book-07.html#B07-C033-P0242)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 720, ¶243 (B07-C033-P0243)](../../build/reader/book-07.html#B07-C033-P0243)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 720, ¶245 (B07-C033-P0245)](../../build/reader/book-07.html#B07-C033-P0245)
+
+## B07-117: Headmaster’s office → Entrance Hall → front grounds
+
+Harry leaves the dusty carpeted office with portraits still absent, descends through the floors to the marble staircase, crosses the Entrance Hall and exits by the front doors and steps. Neville and Wood bring a body in from the grounds to the Great Hall; the grounds nearby hold other dead and wounded.
+
+Evidence: explicit; state: May 1998, near four in the morning during the ceasefire.
+
+Model: Narrated uninterrupted route but no turn or floor count. Near-four-o’clock timing is explicit.
+
+- [Book 7, ch. 34, “The Forest Again”, ref p. 731–732, ¶1 (B07-C034-P0001)](../../build/reader/book-07.html#B07-C034-P0001)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 732–733, ¶4 (B07-C034-P0004)](../../build/reader/book-07.html#B07-C034-P0004)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 735, ¶11 (B07-C034-P0011)](../../build/reader/book-07.html#B07-C034-P0011)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 735, ¶12 (B07-C034-P0012)](../../build/reader/book-07.html#B07-C034-P0012)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 735, ¶13 (B07-C034-P0013)](../../build/reader/book-07.html#B07-C034-P0013)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 735, ¶14 (B07-C034-P0014)](../../build/reader/book-07.html#B07-C034-P0014)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 735–736, ¶15 (B07-C034-P0015)](../../build/reader/book-07.html#B07-C034-P0015)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 736, ¶16 (B07-C034-P0016)](../../build/reader/book-07.html#B07-C034-P0016)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 736, ¶17 (B07-C034-P0017)](../../build/reader/book-07.html#B07-C034-P0017)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 736, ¶18 (B07-C034-P0018)](../../build/reader/book-07.html#B07-C034-P0018)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 736, ¶19 (B07-C034-P0019)](../../build/reader/book-07.html#B07-C034-P0019)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 737, ¶38 (B07-C034-P0038)](../../build/reader/book-07.html#B07-C034-P0038)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 737–738, ¶39 (B07-C034-P0039)](../../build/reader/book-07.html#B07-C034-P0039)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 738, ¶40 (B07-C034-P0040)](../../build/reader/book-07.html#B07-C034-P0040)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 738, ¶41 (B07-C034-P0041)](../../build/reader/book-07.html#B07-C034-P0041)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 738, ¶46 (B07-C034-P0046)](../../build/reader/book-07.html#B07-C034-P0046)
+
+## B07-128: Front steps → Entrance Hall → Great Hall / kitchen route
+
+The crowd enters through the front doors and Harry is swept into the Entrance Hall, where Voldemort backs across into the Great Hall. Further reinforcements climb the front steps, centaurs enter, and the door leading to the kitchens is blasted off its hinges as armed house-elves swarm into the Entrance Hall.
+
+Evidence: explicit; state: May 1998, final battle at dawn.
+
+Model: Kitchen-route door connects with the Entrance Hall circulation, but does not establish that the kitchen room itself directly adjoins it without intervening stairs/passages.
+
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 778, ¶76 (B07-C036-P0076)](../../build/reader/book-07.html#B07-C036-P0076)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 778–779, ¶77 (B07-C036-P0077)](../../build/reader/book-07.html#B07-C036-P0077)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779, ¶78 (B07-C036-P0078)](../../build/reader/book-07.html#B07-C036-P0078)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779, ¶79 (B07-C036-P0079)](../../build/reader/book-07.html#B07-C036-P0079)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779, ¶80 (B07-C036-P0080)](../../build/reader/book-07.html#B07-C036-P0080)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779, ¶81 (B07-C036-P0081)](../../build/reader/book-07.html#B07-C036-P0081)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779–780, ¶82 (B07-C036-P0082)](../../build/reader/book-07.html#B07-C036-P0082)

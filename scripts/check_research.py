@@ -44,11 +44,13 @@ def check(root: Path, require_complete: bool = False) -> dict:
         if result["evidence"] != [c["id"] for c in result["citations"]]:
             errors.append(f"{ident}: citation list differs from evidence list")
         for ref in result["citations"]:
-            match = re.fullmatch(r"B(\d{2})-C(\d{3})-P(\d{4,})", ref["id"])
+            match = re.fullmatch(r"B(\d{2})-C(\d{3})-([PX])(\d{4,})", ref["id"])
             if not match:
                 errors.append(f"{ident}: invalid compiled reference ID")
                 continue
-            number, chapter, paragraph = map(int, match.groups())
+            number, chapter, kind, ordinal = match.groups()
+            number, chapter, ordinal = int(number),int(chapter),int(ordinal)
+            paragraph = ordinal if kind == "P" else None
             if (ref["book"],ref["chapter"],ref["paragraph"]) != (number,chapter,paragraph):
                 errors.append(f"{ident}: citation numbers differ from paragraph ID")
                 continue
@@ -71,6 +73,8 @@ def check(root: Path, require_complete: bool = False) -> dict:
         raise ValueError("\n".join(errors))
     return {"entries":len(expected), "reviewed_paragraphs":coverage["reviewed"],
             "total_paragraphs":coverage["paragraphs"], "complete":coverage["complete"],
+            "additional_text_blocks":coverage["additional_text_blocks"],
+            "reviewed_additional_text_blocks":coverage["reviewed_additional_text_blocks"],
             "source_sha256":inventory["source_sha256"], "metadata_and_exports_consistent":True}
 
 

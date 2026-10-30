@@ -50,9 +50,9 @@ Model: Reported negative search history and interpretation. Lack of discovery mu
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 152, ¶105 (B02-C009-P0105)](../../build/reader/book-02.html#B02-C009-P0105)
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 152, ¶110 (B02-C009-P0110)](../../build/reader/book-02.html#B02-C009-P0110)
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 152, ¶111 (B02-C009-P0111)](../../build/reader/book-02.html#B02-C009-P0111)
-- [Book 2, ch. 9, “The Writing on the Wall”, ref p. 152, ¶112 (B02-C009-P0112)](../../build/reader/book-02.html#B02-C009-P0112)
-- [Book 2, ch. 9, “The Writing on the Wall”, ref p. 152, ¶113 (B02-C009-P0113)](../../build/reader/book-02.html#B02-C009-P0113)
-- [Book 2, ch. 9, “The Writing on the Wall”, ref p. 152–153, ¶114 (B02-C009-P0114)](../../build/reader/book-02.html#B02-C009-P0114)
+- [Book 2, ch. 9, “The Writing on the Wall”, ref p. 152–153, ¶112 (B02-C009-P0112)](../../build/reader/book-02.html#B02-C009-P0112)
+- [Book 2, ch. 9, “The Writing on the Wall”, ref p. 153, ¶113 (B02-C009-P0113)](../../build/reader/book-02.html#B02-C009-P0113)
+- [Book 2, ch. 9, “The Writing on the Wall”, ref p. 153, ¶114 (B02-C009-P0114)](../../build/reader/book-02.html#B02-C009-P0114)
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 153, ¶115 (B02-C009-P0115)](../../build/reader/book-02.html#B02-C009-P0115)
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 153, ¶116 (B02-C009-P0116)](../../build/reader/book-02.html#B02-C009-P0116)
 
@@ -64,8 +64,8 @@ Evidence: inference; state: Late May 1993, Chamber rescue.
 
 Model: Explicitly a deduction from book evidence, symptoms and sound, later to be checked against admissions and observed entrance. No pipe diameter can be deduced from every wall.
 
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 292, ¶74 (B02-C016-P0074)](../../build/reader/book-02.html#B02-C016-P0074)
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 292–293, ¶75 (B02-C016-P0075)](../../build/reader/book-02.html#B02-C016-P0075)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 292–293, ¶74 (B02-C016-P0074)](../../build/reader/book-02.html#B02-C016-P0074)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 293, ¶75 (B02-C016-P0075)](../../build/reader/book-02.html#B02-C016-P0075)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 293, ¶76 (B02-C016-P0076)](../../build/reader/book-02.html#B02-C016-P0076)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 293, ¶78 (B02-C016-P0078)](../../build/reader/book-02.html#B02-C016-P0078)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 293, ¶79 (B02-C016-P0079)](../../build/reader/book-02.html#B02-C016-P0079)
@@ -78,9 +78,9 @@ Model: Explicitly a deduction from book evidence, symptoms and sound, later to b
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 294, ¶88 (B02-C016-P0088)](../../build/reader/book-02.html#B02-C016-P0088)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 294, ¶89 (B02-C016-P0089)](../../build/reader/book-02.html#B02-C016-P0089)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 294, ¶90 (B02-C016-P0090)](../../build/reader/book-02.html#B02-C016-P0090)
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 294, ¶91 (B02-C016-P0091)](../../build/reader/book-02.html#B02-C016-P0091)
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 294, ¶92 (B02-C016-P0092)](../../build/reader/book-02.html#B02-C016-P0092)
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 294–295, ¶94 (B02-C016-P0094)](../../build/reader/book-02.html#B02-C016-P0094)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 294–295, ¶91 (B02-C016-P0091)](../../build/reader/book-02.html#B02-C016-P0091)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 295, ¶92 (B02-C016-P0092)](../../build/reader/book-02.html#B02-C016-P0092)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 295, ¶94 (B02-C016-P0094)](../../build/reader/book-02.html#B02-C016-P0094)
 
 ## B02-143: Chamber approach — shed basilisk skin
 
@@ -95,7 +95,7 @@ Model: Narrated size estimate for the snake based on skin, not a measured tunnel
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 306, ¶215 (B02-C016-P0215)](../../build/reader/book-02.html#B02-C016-P0215)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 306, ¶216 (B02-C016-P0216)](../../build/reader/book-02.html#B02-C016-P0216)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 306, ¶217 (B02-C016-P0217)](../../build/reader/book-02.html#B02-C016-P0217)
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 306–307, ¶222 (B02-C016-P0222)](../../build/reader/book-02.html#B02-C016-P0222)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 307, ¶222 (B02-C016-P0222)](../../build/reader/book-02.html#B02-C016-P0222)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 307, ¶224 (B02-C016-P0224)](../../build/reader/book-02.html#B02-C016-P0224)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 308, ¶235 (B02-C016-P0235)](../../build/reader/book-02.html#B02-C016-P0235)
 
@@ -107,15 +107,15 @@ Evidence: explicit; state: Late May 1993, Chamber confrontation.
 
 Model: Length and ceiling height remain unmeasured; apparent watching/moving carvings are Harry’s impressions, not verified animation.
 
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 308–309, ¶1 (B02-C017-P0001)](../../build/reader/book-02.html#B02-C017-P0001)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 309, ¶1 (B02-C017-P0001)](../../build/reader/book-02.html#B02-C017-P0001)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 309, ¶2 (B02-C017-P0002)](../../build/reader/book-02.html#B02-C017-P0002)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 309, ¶3 (B02-C017-P0003)](../../build/reader/book-02.html#B02-C017-P0003)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 309, ¶4 (B02-C017-P0004)](../../build/reader/book-02.html#B02-C017-P0004)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 318, ¶83 (B02-C017-P0083)](../../build/reader/book-02.html#B02-C017-P0083)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 318, ¶84 (B02-C017-P0084)](../../build/reader/book-02.html#B02-C017-P0084)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 318–319, ¶84 (B02-C017-P0084)](../../build/reader/book-02.html#B02-C017-P0084)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 319, ¶91 (B02-C017-P0091)](../../build/reader/book-02.html#B02-C017-P0091)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶101 (B02-C017-P0101)](../../build/reader/book-02.html#B02-C017-P0101)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶106 (B02-C017-P0106)](../../build/reader/book-02.html#B02-C017-P0106)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321–322, ¶106 (B02-C017-P0106)](../../build/reader/book-02.html#B02-C017-P0106)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 322, ¶108 (B02-C017-P0108)](../../build/reader/book-02.html#B02-C017-P0108)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 322, ¶109 (B02-C017-P0109)](../../build/reader/book-02.html#B02-C017-P0109)
 
@@ -135,7 +135,7 @@ Model: Monument establishes chamber axis and end wall; no unsupported pool, cent
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 311, ¶28 (B02-C017-P0028)](../../build/reader/book-02.html#B02-C017-P0028)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶101 (B02-C017-P0101)](../../build/reader/book-02.html#B02-C017-P0101)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶103 (B02-C017-P0103)](../../build/reader/book-02.html#B02-C017-P0103)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321–322, ¶107 (B02-C017-P0107)](../../build/reader/book-02.html#B02-C017-P0107)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 322, ¶107 (B02-C017-P0107)](../../build/reader/book-02.html#B02-C017-P0107)
 
 ## B02-150: Chamber of Secrets — phoenix arrival
 
@@ -147,8 +147,8 @@ Model: Observed arrival at a pillar, without a demonstrated continuous route fro
 
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 318, ¶82 (B02-C017-P0082)](../../build/reader/book-02.html#B02-C017-P0082)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 318, ¶83 (B02-C017-P0083)](../../build/reader/book-02.html#B02-C017-P0083)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 318, ¶84 (B02-C017-P0084)](../../build/reader/book-02.html#B02-C017-P0084)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 318–319, ¶85 (B02-C017-P0085)](../../build/reader/book-02.html#B02-C017-P0085)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 318–319, ¶84 (B02-C017-P0084)](../../build/reader/book-02.html#B02-C017-P0084)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 319, ¶85 (B02-C017-P0085)](../../build/reader/book-02.html#B02-C017-P0085)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 319, ¶86 (B02-C017-P0086)](../../build/reader/book-02.html#B02-C017-P0086)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 319, ¶87 (B02-C017-P0087)](../../build/reader/book-02.html#B02-C017-P0087)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 319, ¶88 (B02-C017-P0088)](../../build/reader/book-02.html#B02-C017-P0088)
@@ -168,8 +168,8 @@ Model: Statue conceals a creature route. Its interior depth, storage cavity and 
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶103 (B02-C017-P0103)](../../build/reader/book-02.html#B02-C017-P0103)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶104 (B02-C017-P0104)](../../build/reader/book-02.html#B02-C017-P0104)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶105 (B02-C017-P0105)](../../build/reader/book-02.html#B02-C017-P0105)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶106 (B02-C017-P0106)](../../build/reader/book-02.html#B02-C017-P0106)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321–322, ¶107 (B02-C017-P0107)](../../build/reader/book-02.html#B02-C017-P0107)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321–322, ¶106 (B02-C017-P0106)](../../build/reader/book-02.html#B02-C017-P0106)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 322, ¶107 (B02-C017-P0107)](../../build/reader/book-02.html#B02-C017-P0107)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 322, ¶108 (B02-C017-P0108)](../../build/reader/book-02.html#B02-C017-P0108)
 
 ## B02-152: Chamber — basilisk scale and combat clearance
@@ -180,7 +180,7 @@ Evidence: explicit; state: Late May 1993, Chamber confrontation.
 
 Model: Observed relative scale and collision clearance, not a measured body length; no pillar breakage or wall collapse stated.
 
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321–322, ¶107 (B02-C017-P0107)](../../build/reader/book-02.html#B02-C017-P0107)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 322, ¶107 (B02-C017-P0107)](../../build/reader/book-02.html#B02-C017-P0107)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 322, ¶108 (B02-C017-P0108)](../../build/reader/book-02.html#B02-C017-P0108)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 322, ¶110 (B02-C017-P0110)](../../build/reader/book-02.html#B02-C017-P0110)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 322, ¶112 (B02-C017-P0112)](../../build/reader/book-02.html#B02-C017-P0112)
@@ -195,3 +195,21 @@ Model: Observed relative scale and collision clearance, not a measured body leng
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 324, ¶127 (B02-C017-P0127)](../../build/reader/book-02.html#B02-C017-P0127)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 324, ¶128 (B02-C017-P0128)](../../build/reader/book-02.html#B02-C017-P0128)
 
+## B07-077: Chamber of Secrets / entry and Basilisk remains
+
+Ron and Hermione report visiting the Chamber, tearing great curved dirty-yellow fangs from the dead Basilisk’s skull and using one to destroy the cup. Ron opened the entrance by imitating Harry’s Parseltongue command after several attempts.
+
+Evidence: reported; state: May 1998, Battle of Hogwarts before and just after midnight.
+
+Model: The required sound can be reproduced without natural Parseltongue ability; no new entrance geometry or proof of every remaining skeleton element.
+
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 659, ¶142 (B07-C031-P0142)](../../build/reader/book-07.html#B07-C031-P0142)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 659, ¶144 (B07-C031-P0144)](../../build/reader/book-07.html#B07-C031-P0144)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 659, ¶146 (B07-C031-P0146)](../../build/reader/book-07.html#B07-C031-P0146)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 659, ¶148 (B07-C031-P0148)](../../build/reader/book-07.html#B07-C031-P0148)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 659, ¶149 (B07-C031-P0149)](../../build/reader/book-07.html#B07-C031-P0149)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 659, ¶150 (B07-C031-P0150)](../../build/reader/book-07.html#B07-C031-P0150)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 659, ¶151 (B07-C031-P0151)](../../build/reader/book-07.html#B07-C031-P0151)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 659, ¶152 (B07-C031-P0152)](../../build/reader/book-07.html#B07-C031-P0152)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 659, ¶153 (B07-C031-P0153)](../../build/reader/book-07.html#B07-C031-P0153)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 660, ¶156 (B07-C031-P0156)](../../build/reader/book-07.html#B07-C031-P0156)

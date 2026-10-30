@@ -26,6 +26,12 @@ def normalise(text: str) -> str:
     return " ".join(text.split())
 
 
+def chapter_blocks(chapter: dict) -> list[dict]:
+    """Preserve P locators while interleaving non-paragraph text fragments."""
+    return sorted(chapter["paragraphs"] + chapter.get("extra_blocks", []),
+                  key=lambda p: p.get("source_order", p["paragraph"] or 0))
+
+
 def extract(source: Path) -> dict:
     books = []
     with zipfile.ZipFile(source) as archive:
@@ -54,29 +60,61 @@ def extract(source: Path) -> dict:
                 member = f"{book}/OEBPS/hp0{book}_ch{chapter:03d}_en-gb.html"
                 tree = ET.fromstring(archive.read(member))
                 chapter_title = normalise("".join(tree.find(f".//{HTML}h1").itertext()))
-                paragraphs = []
-                for source_ordinal, elem in enumerate(tree.findall(f".//{HTML}body//{HTML}p"), 1):
-                    text = normalise("".join(elem.itertext()))
+                paragraphs, extra_blocks = [], []
+                body = tree.find(f".//{HTML}body")
+                tag_counts, source_ordinals = {}, {}
+                for elem in body.iter():
+                    tag = elem.tag.rsplit("}", 1)[-1]
+                    tag_counts[tag] = tag_counts.get(tag, 0) + 1
+                    source_ordinals[elem] = tag_counts[tag]
+                source_order = 0
+
+                def emit(elem, raw, is_extra=False, slot="text"):
+                    nonlocal word_offset, source_order
+                    text = normalise(raw)
                     if not text:
-                        continue
-                    ordinal = len(paragraphs) + 1
+                        return
+                    source_order += 1
+                    collection = extra_blocks if is_extra else paragraphs
+                    ordinal = len(collection) + 1
+                    tag = elem.tag.rsplit("}", 1)[-1]
                     words = len(text.split())
-                    paragraphs.append({
-                        "id": f"B{book:02d}-C{chapter:03d}-P{ordinal:04d}",
-                        "paragraph": ordinal,
-                        "source_p_ordinal": source_ordinal,
+                    collection.append({
+                        "id": f"B{book:02d}-C{chapter:03d}-{'X' if is_extra else 'P'}{ordinal:04d}",
+                        "paragraph": None if is_extra else ordinal,
+                        "is_extra": is_extra, "source_order": source_order,
+                        "source_p_ordinal": None if is_extra else source_ordinals[elem],
+                        "source_element_tag": tag,
+                        "source_element_ordinal": source_ordinals[elem],
+                        "source_text_slot": slot,
                         "source_element_id": elem.get("id"),
-                        "word_start": word_offset,
-                        "word_count": words,
+                        "word_start": word_offset, "word_count": words,
                         "page_start": word_offset // WORDS_PER_PAGE + 1,
                         "page_end": (word_offset + words - 1) // WORDS_PER_PAGE + 1,
                         "text": text,
                     })
                     word_offset += words
+
+                def walk(elem):
+                    tag = elem.tag.rsplit("}", 1)[-1]
+                    if tag in {"h1", "h4"}:
+                        return
+                    if tag == "p":
+                        emit(elem, "".join(elem.itertext()))
+                        return
+                    if elem.text:
+                        emit(elem, elem.text, True)
+                    for child in elem:
+                        walk(child)
+                        if child.tail:
+                            emit(child, child.tail, True, "tail")
+
+                walk(body)
                 chapters.append({
                     "number": chapter, "title": chapter_title,
                     "is_epilogue": book == 7 and chapter == 37,
                     "source_member": member, "paragraphs": paragraphs,
+                    "extra_blocks": extra_blocks,
                 })
             books.append({
                 "number": book, "title": title, "isbn": isbn,
@@ -88,12 +126,12 @@ def extract(source: Path) -> dict:
             r"(\d)/OEBPS/hp0(\d)_ch\d{3}_en-gb.html", name
         )) and m[1] != m[2]]
     return {
-        "schema_version": 1,
+        "schema_version": 2,
         "source_sha256": hashlib.sha256(source.read_bytes()).hexdigest(),
         "source_filename": source.name,
         "pagination": {"scheme": "ref250-v1", "words_per_page": WORDS_PER_PAGE,
                        "reset": "per book", "printed_page_map": page_targets > 0,
-                       "word_rule": "normalised paragraph text split on whitespace; headings excluded"},
+                       "word_rule": "normalised narrative paragraphs and non-paragraph body text in document order, split on whitespace; headings excluded"},
         "excluded_preview_members": previews, "books": books,
     }
 
@@ -106,7 +144,7 @@ def write_corpus(corpus: dict, destination: Path) -> None:
         folder.mkdir(exist_ok=True)
         for chapter in book["chapters"]:
             lines = [f"{book['title']} | Chapter {chapter['number']}: {chapter['title']}", ""]
-            for p in chapter["paragraphs"]:
+            for p in chapter_blocks(chapter):
                 lines.extend([f"[{p['id']} | ref p. {p['page_start']}-{p['page_end']}] {p['text']}", ""])
             (folder / f"chapter-{chapter['number']:03d}.txt").write_text("\n".join(lines))
     inventory = {
@@ -114,9 +152,10 @@ def write_corpus(corpus: dict, destination: Path) -> None:
     }
     inventory["books"] = [
         {**{k: v for k, v in book.items() if k != "chapters"}, "chapters": [
-            {**{k: v for k, v in ch.items() if k != "paragraphs"},
+            {**{k: v for k, v in ch.items() if k not in {"paragraphs", "extra_blocks"}},
              "paragraph_count": len(ch["paragraphs"]),
-             "word_count": sum(p["word_count"] for p in ch["paragraphs"])}
+             "extra_blocks": [{k:v for k,v in p.items() if k != "text"} for p in ch.get("extra_blocks", [])],
+             "word_count": sum(p["word_count"] for p in chapter_blocks(ch))}
             for ch in book["chapters"]
         ]} for book in corpus["books"]
     ]
@@ -133,6 +172,7 @@ def main() -> None:
     print(json.dumps({"sha256": corpus["source_sha256"], "books": len(corpus["books"]),
                       "chapters": sum(len(b["chapters"]) for b in corpus["books"]),
                       "paragraphs": sum(len(c["paragraphs"]) for b in corpus["books"] for c in b["chapters"]),
+                      "additional_text_blocks": sum(len(c.get("extra_blocks", [])) for b in corpus["books"] for c in b["chapters"]),
                       "words": sum(b["word_count"] for b in corpus["books"]),
                       "printed_page_map": corpus["pagination"]["printed_page_map"]}))
 

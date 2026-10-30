@@ -14,11 +14,11 @@ Model: Observed dungeon circulation and side room; elapsed time includes searchi
 
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 221, ¶122 (B02-C012-P0122)](../../build/reader/book-02.html#B02-C012-P0122)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 221, ¶128 (B02-C012-P0128)](../../build/reader/book-02.html#B02-C012-P0128)
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 221, ¶130 (B02-C012-P0130)](../../build/reader/book-02.html#B02-C012-P0130)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 222, ¶130 (B02-C012-P0130)](../../build/reader/book-02.html#B02-C012-P0130)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 222, ¶134 (B02-C012-P0134)](../../build/reader/book-02.html#B02-C012-P0134)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 222, ¶135 (B02-C012-P0135)](../../build/reader/book-02.html#B02-C012-P0135)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 222, ¶137 (B02-C012-P0137)](../../build/reader/book-02.html#B02-C012-P0137)
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 222, ¶145 (B02-C012-P0145)](../../build/reader/book-02.html#B02-C012-P0145)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 223, ¶145 (B02-C012-P0145)](../../build/reader/book-02.html#B02-C012-P0145)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 223, ¶151 (B02-C012-P0151)](../../build/reader/book-02.html#B02-C012-P0151)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 223, ¶153 (B02-C012-P0153)](../../build/reader/book-02.html#B02-C012-P0153)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 223, ¶155 (B02-C012-P0155)](../../build/reader/book-02.html#B02-C012-P0155)
@@ -49,7 +49,7 @@ Model: Explicit underground height impression and finishes. Lake windows or unde
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 224, ¶160 (B02-C012-P0160)](../../build/reader/book-02.html#B02-C012-P0160)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 224, ¶161 (B02-C012-P0161)](../../build/reader/book-02.html#B02-C012-P0161)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 224, ¶162 (B02-C012-P0162)](../../build/reader/book-02.html#B02-C012-P0162)
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 226–227, ¶191 (B02-C012-P0191)](../../build/reader/book-02.html#B02-C012-P0191)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 227, ¶191 (B02-C012-P0191)](../../build/reader/book-02.html#B02-C012-P0191)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 227–228, ¶197 (B02-C012-P0197)](../../build/reader/book-02.html#B02-C012-P0197)
 
 ## B02-095: Slytherin common room escape to bathroom and hospital
@@ -87,7 +87,7 @@ Model: Monument establishes chamber axis and end wall; no unsupported pool, cent
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 311, ¶28 (B02-C017-P0028)](../../build/reader/book-02.html#B02-C017-P0028)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶101 (B02-C017-P0101)](../../build/reader/book-02.html#B02-C017-P0101)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶103 (B02-C017-P0103)](../../build/reader/book-02.html#B02-C017-P0103)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321–322, ¶107 (B02-C017-P0107)](../../build/reader/book-02.html#B02-C017-P0107)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 322, ¶107 (B02-C017-P0107)](../../build/reader/book-02.html#B02-C017-P0107)
 
 ## B02-151: Slytherin statue — basilisk mouth exit
 
@@ -102,8 +102,8 @@ Model: Statue conceals a creature route. Its interior depth, storage cavity and 
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶103 (B02-C017-P0103)](../../build/reader/book-02.html#B02-C017-P0103)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶104 (B02-C017-P0104)](../../build/reader/book-02.html#B02-C017-P0104)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶105 (B02-C017-P0105)](../../build/reader/book-02.html#B02-C017-P0105)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶106 (B02-C017-P0106)](../../build/reader/book-02.html#B02-C017-P0106)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321–322, ¶107 (B02-C017-P0107)](../../build/reader/book-02.html#B02-C017-P0107)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321–322, ¶106 (B02-C017-P0106)](../../build/reader/book-02.html#B02-C017-P0106)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 322, ¶107 (B02-C017-P0107)](../../build/reader/book-02.html#B02-C017-P0107)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 322, ¶108 (B02-C017-P0108)](../../build/reader/book-02.html#B02-C017-P0108)
 
 ## B04-122: Slytherin common-room approach
@@ -142,7 +142,7 @@ Evidence: reported; state: March–early April 1997.
 
 Model: Explicit reported vertical zone, not a measured depth or fully mapped entrance.
 
-- [Book 6, ch. 21, “The Unknowable Room”, ref p. 473, ¶51 (B06-C021-P0051)](../../build/reader/book-06.html#B06-C021-P0051)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 473–474, ¶51 (B06-C021-P0051)](../../build/reader/book-06.html#B06-C021-P0051)
 
 ## B07-028: Slytherin common room
 
@@ -158,4 +158,3 @@ Model: Harry is falsely claiming Slytherin membership; Scabior accepts the archi
 - [Book 7, ch. 23, “Malfoy Manor”, ref p. 476, ¶53 (B07-C023-P0053)](../../build/reader/book-07.html#B07-C023-P0053)
 - [Book 7, ch. 23, “Malfoy Manor”, ref p. 476, ¶54 (B07-C023-P0054)](../../build/reader/book-07.html#B07-C023-P0054)
 - [Book 7, ch. 23, “Malfoy Manor”, ref p. 476, ¶55 (B07-C023-P0055)](../../build/reader/book-07.html#B07-C023-P0055)
-

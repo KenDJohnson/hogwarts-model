@@ -13,8 +13,8 @@ been used to fill gaps in these seven novels.
 The seven books contain 199 narrative chapter files, including the final
 epilogue: 17, 18, 22, 37, 38, 30 and 37 files respectively. The last file of
 book 7 is explicitly labelled as the epilogue in the data and citations. The
-complete extraction contains 38,426 nonempty paragraphs and 1,101,354
-whitespace-separated words.
+complete extraction contains 38,426 nonempty paragraphs, 33 additional text
+fragments and 1,101,442 whitespace-separated words.
 
 The omnibus also contains the next book's first chapter at the end of books
 1–6. Those six previews are excluded. Their normalised paragraph text was
@@ -24,8 +24,12 @@ Covers, contents pages, publisher material, dedications and the epigraph are
 not included in the narrative reading ledger.
 
 The parser preserves all nonempty body `<p>` text, including dialogue, songs,
-letters and textual scene separators. Inline styling is discarded and
-whitespace is collapsed for a stable searchable transcript. The original
+letters and textual scene separators, plus text outside paragraphs in
+definition lists and tables. A final structural audit found 33 such fragments:
+four quiz prompts, 26 exam-grade/result cells and three Ministry form labels.
+They were read separately and recorded in `extra_reviews`. Stable `P` IDs
+were retained, with `X` IDs interleaved in document order. Inline styling is
+discarded and whitespace is collapsed for a stable searchable transcript. The original
 archive is unchanged. The parser verifies the expected canonical chapter-file
 sets rather than silently ignoring an extra or missing numbered chapter.
 
@@ -38,15 +42,20 @@ ordinal. The source ordinal counts blank `<p>` elements too; it can therefore
 differ from the narrative paragraph number. An original element ID is retained
 when present.
 
+Non-paragraph fragments have IDs such as `B02-C006-X0001`. Their locators
+identify the source element tag, its ordinal within the chapter body, and its
+`text` or `tail` slot. They do not renumber existing paragraph IDs.
+
 This EPUB has no print-page map. Its CSS `pagebreak` paragraphs mark chapter
 breaks and do not provide printed page numbers. The user selected stable EPUB
 references with generated pages rather than an unspecified printed edition.
 
 `ref250-v1` assigns 250 whitespace-separated words to each project reference
 page, starting at page 1 for each book. It counts normalised nonempty narrative
-paragraph text, including textual scene separators, and excludes chapter
-headings and blank paragraphs. A paragraph that crosses a boundary receives
-its full page range. The seven volumes produce 4,409 reference pages in total.
+paragraph text and non-paragraph narrative fragments in document order,
+including textual scene separators, and excludes chapter headings and blank
+text. A block that crosses a boundary receives its full page range. The seven
+volumes produce 4,410 reference pages in total.
 These numbers do not claim to match a print edition, Kindle location, Calibre
 page count or e-reader screen.
 

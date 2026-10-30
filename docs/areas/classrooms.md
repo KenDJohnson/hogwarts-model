@@ -221,7 +221,7 @@ Model: Window proximity inferred directly from the back row showered with glass,
 - [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 100, ¶107 (B02-C006-P0107)](../../build/reader/book-02.html#B02-C006-P0107)
 - [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 100, ¶110 (B02-C006-P0110)](../../build/reader/book-02.html#B02-C006-P0110)
 - [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 101, ¶114 (B02-C006-P0114)](../../build/reader/book-02.html#B02-C006-P0114)
-- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 101, ¶119 (B02-C006-P0119)](../../build/reader/book-02.html#B02-C006-P0119)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 101–102, ¶119 (B02-C006-P0119)](../../build/reader/book-02.html#B02-C006-P0119)
 - [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 102, ¶123 (B02-C006-P0123)](../../build/reader/book-02.html#B02-C006-P0123)
 - [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 102, ¶125 (B02-C006-P0125)](../../build/reader/book-02.html#B02-C006-P0125)
 - [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 102, ¶128 (B02-C006-P0128)](../../build/reader/book-02.html#B02-C006-P0128)
@@ -259,7 +259,7 @@ Model: Observed wreckage plus reported identity and cause. No paired cabinet, tr
 - [Book 2, ch. 8, “The Deathday Party”, ref p. 127, ¶33 (B02-C008-P0033)](../../build/reader/book-02.html#B02-C008-P0033)
 - [Book 2, ch. 8, “The Deathday Party”, ref p. 127, ¶34 (B02-C008-P0034)](../../build/reader/book-02.html#B02-C008-P0034)
 - [Book 2, ch. 8, “The Deathday Party”, ref p. 129, ¶50 (B02-C008-P0050)](../../build/reader/book-02.html#B02-C008-P0050)
-- [Book 2, ch. 8, “The Deathday Party”, ref p. 129–130, ¶59 (B02-C008-P0059)](../../build/reader/book-02.html#B02-C008-P0059)
+- [Book 2, ch. 8, “The Deathday Party”, ref p. 130, ¶59 (B02-C008-P0059)](../../build/reader/book-02.html#B02-C008-P0059)
 - [Book 2, ch. 8, “The Deathday Party”, ref p. 130, ¶60 (B02-C008-P0060)](../../build/reader/book-02.html#B02-C008-P0060)
 - [Book 2, ch. 8, “The Deathday Party”, ref p. 130, ¶61 (B02-C008-P0061)](../../build/reader/book-02.html#B02-C008-P0061)
 - [Book 2, ch. 8, “The Deathday Party”, ref p. 130, ¶62 (B02-C008-P0062)](../../build/reader/book-02.html#B02-C008-P0062)
@@ -286,7 +286,7 @@ Evidence: explicit; state: November 1992, after first attack.
 
 Model: Adds desk cleanup state; no permanent infestation implied.
 
-- [Book 2, ch. 9, “The Writing on the Wall”, ref p. 147, ¶67 (B02-C009-P0067)](../../build/reader/book-02.html#B02-C009-P0067)
+- [Book 2, ch. 9, “The Writing on the Wall”, ref p. 147–148, ¶67 (B02-C009-P0067)](../../build/reader/book-02.html#B02-C009-P0067)
 
 ## B02-052: History of Magic classroom and staff-room memory
 
@@ -298,7 +298,7 @@ Model: Classroom fixtures directly narrated; death anecdote reports historical a
 
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 149, ¶84 (B02-C009-P0084)](../../build/reader/book-02.html#B02-C009-P0084)
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 149, ¶85 (B02-C009-P0085)](../../build/reader/book-02.html#B02-C009-P0085)
-- [Book 2, ch. 9, “The Writing on the Wall”, ref p. 149–150, ¶89 (B02-C009-P0089)](../../build/reader/book-02.html#B02-C009-P0089)
+- [Book 2, ch. 9, “The Writing on the Wall”, ref p. 150, ¶89 (B02-C009-P0089)](../../build/reader/book-02.html#B02-C009-P0089)
 
 ## B02-074: Potions dungeon to private stores — diversion
 
@@ -347,8 +347,8 @@ Model: No floor number is supplied; keep distinct from the window-and-writing co
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 204, ¶175 (B02-C011-P0175)](../../build/reader/book-02.html#B02-C011-P0175)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 204, ¶176 (B02-C011-P0176)](../../build/reader/book-02.html#B02-C011-P0176)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 204, ¶177 (B02-C011-P0177)](../../build/reader/book-02.html#B02-C011-P0177)
-- [Book 2, ch. 11, “The Duelling Club”, ref p. 204, ¶178 (B02-C011-P0178)](../../build/reader/book-02.html#B02-C011-P0178)
-- [Book 2, ch. 11, “The Duelling Club”, ref p. 204–205, ¶179 (B02-C011-P0179)](../../build/reader/book-02.html#B02-C011-P0179)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 204–205, ¶178 (B02-C011-P0178)](../../build/reader/book-02.html#B02-C011-P0178)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 205, ¶179 (B02-C011-P0179)](../../build/reader/book-02.html#B02-C011-P0179)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 205, ¶181 (B02-C011-P0181)](../../build/reader/book-02.html#B02-C011-P0181)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 205, ¶183 (B02-C011-P0183)](../../build/reader/book-02.html#B02-C011-P0183)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 205–206, ¶184 (B02-C011-P0184)](../../build/reader/book-02.html#B02-C011-P0184)
@@ -368,8 +368,8 @@ Model: Historical memory sequence, indicating apparent continuity of entrance me
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 248, ¶187 (B02-C013-P0187)](../../build/reader/book-02.html#B02-C013-P0187)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 248, ¶188 (B02-C013-P0188)](../../build/reader/book-02.html#B02-C013-P0188)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 248, ¶189 (B02-C013-P0189)](../../build/reader/book-02.html#B02-C013-P0189)
-- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 248, ¶190 (B02-C013-P0190)](../../build/reader/book-02.html#B02-C013-P0190)
-- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 248–249, ¶191 (B02-C013-P0191)](../../build/reader/book-02.html#B02-C013-P0191)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 248–249, ¶190 (B02-C013-P0190)](../../build/reader/book-02.html#B02-C013-P0190)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 249, ¶191 (B02-C013-P0191)](../../build/reader/book-02.html#B02-C013-P0191)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 249, ¶192 (B02-C013-P0192)](../../build/reader/book-02.html#B02-C013-P0192)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 249, ¶193 (B02-C013-P0193)](../../build/reader/book-02.html#B02-C013-P0193)
 
@@ -384,7 +384,7 @@ Model: Transient furniture alteration; no permanent broken desk.
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 286, ¶3 (B02-C016-P0003)](../../build/reader/book-02.html#B02-C016-P0003)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 286, ¶5 (B02-C016-P0005)](../../build/reader/book-02.html#B02-C016-P0005)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 286, ¶6 (B02-C016-P0006)](../../build/reader/book-02.html#B02-C016-P0006)
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 286–287, ¶9 (B02-C016-P0009)](../../build/reader/book-02.html#B02-C016-P0009)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 287, ¶9 (B02-C016-P0009)](../../build/reader/book-02.html#B02-C016-P0009)
 
 ## B02-162: Unnamed classroom — reported private meeting
 
@@ -394,8 +394,8 @@ Evidence: reported; state: Late May–June 1993.
 
 Model: Reported unnamed classroom use; no floor, furnishings or identity with prior meeting rooms.
 
-- [Book 2, ch. 18, “Dobby’s Reward”, ref p. 344, ¶135 (B02-C018-P0135)](../../build/reader/book-02.html#B02-C018-P0135)
-- [Book 2, ch. 18, “Dobby’s Reward”, ref p. 344–345, ¶136 (B02-C018-P0136)](../../build/reader/book-02.html#B02-C018-P0136)
+- [Book 2, ch. 18, “Dobby’s Reward”, ref p. 345, ¶135 (B02-C018-P0135)](../../build/reader/book-02.html#B02-C018-P0135)
+- [Book 2, ch. 18, “Dobby’s Reward”, ref p. 345, ¶136 (B02-C018-P0136)](../../build/reader/book-02.html#B02-C018-P0136)
 - [Book 2, ch. 18, “Dobby’s Reward”, ref p. 345, ¶139 (B02-C018-P0139)](../../build/reader/book-02.html#B02-C018-P0139)
 
 ## B03-014: Great Hall to North Tower — long stair route
@@ -1691,8 +1691,8 @@ Evidence: explicit; state: First school day, September 1996.
 
 Model: Downward route and dungeon function; no exact stair sequence or total descent supplied.
 
-- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 188, ¶96 (B06-C009-P0096)](../../build/reader/book-06.html#B06-C009-P0096)
-- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 188–189, ¶97 (B06-C009-P0097)](../../build/reader/book-06.html#B06-C009-P0097)
+- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 188–189, ¶96 (B06-C009-P0096)](../../build/reader/book-06.html#B06-C009-P0096)
+- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 189, ¶97 (B06-C009-P0097)](../../build/reader/book-06.html#B06-C009-P0097)
 - [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 189, ¶99 (B06-C009-P0099)](../../build/reader/book-06.html#B06-C009-P0099)
 
 ## B06-032: Potions dungeon worktables and storage
@@ -1723,8 +1723,8 @@ Model: Lesson-specific vessels and effects. Amortentia’s perceived scent diffe
 - [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 191, ¶108 (B06-C009-P0108)](../../build/reader/book-06.html#B06-C009-P0108)
 - [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 191, ¶111 (B06-C009-P0111)](../../build/reader/book-06.html#B06-C009-P0111)
 - [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 191, ¶114 (B06-C009-P0114)](../../build/reader/book-06.html#B06-C009-P0114)
-- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 191, ¶119 (B06-C009-P0119)](../../build/reader/book-06.html#B06-C009-P0119)
-- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 191–192, ¶120 (B06-C009-P0120)](../../build/reader/book-06.html#B06-C009-P0120)
+- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 192, ¶119 (B06-C009-P0119)](../../build/reader/book-06.html#B06-C009-P0119)
+- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 192, ¶120 (B06-C009-P0120)](../../build/reader/book-06.html#B06-C009-P0120)
 - [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 193, ¶135 (B06-C009-P0135)](../../build/reader/book-06.html#B06-C009-P0135)
 - [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 196, ¶152 (B06-C009-P0152)](../../build/reader/book-06.html#B06-C009-P0152)
 
@@ -1736,7 +1736,7 @@ Evidence: explicit; state: Late October–autumn 1996.
 
 Model: Lesson aftermath and animated state; no fixed bird population.
 
-- [Book 6, ch. 14, “Felix Felicis”, ref p. 294–295, ¶37 (B06-C014-P0037)](../../build/reader/book-06.html#B06-C014-P0037)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 295, ¶37 (B06-C014-P0037)](../../build/reader/book-06.html#B06-C014-P0037)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 295, ¶42 (B06-C014-P0042)](../../build/reader/book-06.html#B06-C014-P0042)
 
 ## B06-076: Unnamed classroom near Gryffindor route
@@ -1747,11 +1747,11 @@ Evidence: explicit; state: After first Gryffindor–Slytherin match, autumn 1996
 
 Model: An accessible unnamed classroom along Harry’s search route. “First unlocked” does not establish that it is the first door or immediately adjacent to the portrait; floor number not explicitly repeated.
 
-- [Book 6, ch. 14, “Felix Felicis”, ref p. 313, ¶196 (B06-C014-P0196)](../../build/reader/book-06.html#B06-C014-P0196)
-- [Book 6, ch. 14, “Felix Felicis”, ref p. 313–314, ¶198 (B06-C014-P0198)](../../build/reader/book-06.html#B06-C014-P0198)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 313–314, ¶196 (B06-C014-P0196)](../../build/reader/book-06.html#B06-C014-P0196)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 314, ¶198 (B06-C014-P0198)](../../build/reader/book-06.html#B06-C014-P0198)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 314, ¶204 (B06-C014-P0204)](../../build/reader/book-06.html#B06-C014-P0204)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 314, ¶206 (B06-C014-P0206)](../../build/reader/book-06.html#B06-C014-P0206)
-- [Book 6, ch. 14, “Felix Felicis”, ref p. 314, ¶208 (B06-C014-P0208)](../../build/reader/book-06.html#B06-C014-P0208)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 315, ¶208 (B06-C014-P0208)](../../build/reader/book-06.html#B06-C014-P0208)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 315, ¶210 (B06-C014-P0210)](../../build/reader/book-06.html#B06-C014-P0210)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 315, ¶211 (B06-C014-P0211)](../../build/reader/book-06.html#B06-C014-P0211)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 315, ¶212 (B06-C014-P0212)](../../build/reader/book-06.html#B06-C014-P0212)
@@ -1765,8 +1765,8 @@ Evidence: explicit; state: Before Christmas holidays, December 1996.
 
 Model: Mirrors as teaching equipment and a one-floor vertical relationship. Do not identify this bathroom as Myrtle’s merely because Luna initially mistakes crying for Myrtle at P0061.
 
-- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 322, ¶54 (B06-C015-P0054)](../../build/reader/book-06.html#B06-C015-P0054)
-- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 322–323, ¶55 (B06-C015-P0055)](../../build/reader/book-06.html#B06-C015-P0055)
+- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 322–323, ¶54 (B06-C015-P0054)](../../build/reader/book-06.html#B06-C015-P0054)
+- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 323, ¶55 (B06-C015-P0055)](../../build/reader/book-06.html#B06-C015-P0055)
 
 ## B06-087: Last classroom in Slughorn office corridor
 
@@ -1777,10 +1777,10 @@ Evidence: explicit; state: Slughorn Christmas party, December 1996.
 Model: Classroom on the same corridor, with a sound-transmitting keyhole and a further corner. No room fittings described; do not invent a direct classroom-office door.
 
 - [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 335–336, ¶178 (B06-C015-P0178)](../../build/reader/book-06.html#B06-C015-P0178)
-- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 336, ¶185 (B06-C015-P0185)](../../build/reader/book-06.html#B06-C015-P0185)
+- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 337, ¶185 (B06-C015-P0185)](../../build/reader/book-06.html#B06-C015-P0185)
 - [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 337, ¶190 (B06-C015-P0190)](../../build/reader/book-06.html#B06-C015-P0190)
-- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 338, ¶205 (B06-C015-P0205)](../../build/reader/book-06.html#B06-C015-P0205)
-- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 338–339, ¶206 (B06-C015-P0206)](../../build/reader/book-06.html#B06-C015-P0206)
+- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 338–339, ¶205 (B06-C015-P0205)](../../build/reader/book-06.html#B06-C015-P0205)
+- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 339, ¶206 (B06-C015-P0206)](../../build/reader/book-06.html#B06-C015-P0206)
 
 ## B06-092: Portrait of drunken monks by Charms corridor
 
@@ -1802,7 +1802,7 @@ Evidence: explicit; state: January 1997.
 Model: Dated demonstration effect confirms an overhead surface; supplies no ceiling height or permanent water feature.
 
 - [Book 6, ch. 17, “A Sluggish Memory”, ref p. 370, ¶75 (B06-C017-P0075)](../../build/reader/book-06.html#B06-C017-P0075)
-- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 370, ¶76 (B06-C017-P0076)](../../build/reader/book-06.html#B06-C017-P0076)
+- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 370–371, ¶76 (B06-C017-P0076)](../../build/reader/book-06.html#B06-C017-P0076)
 
 ## B06-100: Potions work stations and store contents
 
@@ -1812,8 +1812,8 @@ Evidence: explicit; state: January 1997 antidote lesson.
 
 Model: Additional storage contents and heating method. Shared table is also called a desk; do not create an extra fixture from wording variation.
 
-- [Book 6, ch. 18, “Birthday Surprises”, ref p. 390–391, ¶13 (B06-C018-P0013)](../../build/reader/book-06.html#B06-C018-P0013)
-- [Book 6, ch. 18, “Birthday Surprises”, ref p. 391–392, ¶22 (B06-C018-P0022)](../../build/reader/book-06.html#B06-C018-P0022)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 391, ¶13 (B06-C018-P0013)](../../build/reader/book-06.html#B06-C018-P0013)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 392, ¶22 (B06-C018-P0022)](../../build/reader/book-06.html#B06-C018-P0022)
 - [Book 6, ch. 18, “Birthday Surprises”, ref p. 392, ¶23 (B06-C018-P0023)](../../build/reader/book-06.html#B06-C018-P0023)
 - [Book 6, ch. 18, “Birthday Surprises”, ref p. 392, ¶25 (B06-C018-P0025)](../../build/reader/book-06.html#B06-C018-P0025)
 - [Book 6, ch. 18, “Birthday Surprises”, ref p. 394, ¶34 (B06-C018-P0034)](../../build/reader/book-06.html#B06-C018-P0034)
@@ -1828,7 +1828,7 @@ Evidence: explicit; state: March 1997.
 
 Model: Concealed interior doorway and route destination; exact position and mechanism not described.
 
-- [Book 6, ch. 19, “Elf Tails”, ref p. 428, ¶110 (B06-C019-P0110)](../../build/reader/book-06.html#B06-C019-P0110)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 428–429, ¶110 (B06-C019-P0110)](../../build/reader/book-06.html#B06-C019-P0110)
 
 ## B06-123: Defence teaching post curse
 
@@ -1849,11 +1849,57 @@ Evidence: explicit; state: Morning after Aragog burial, spring 1997.
 
 Model: Lesson-specific spell effect and work furniture; not weather penetrating the castle.
 
-- [Book 6, ch. 24, “Sectumsempra”, ref p. 539, ¶2 (B06-C024-P0002)](../../build/reader/book-06.html#B06-C024-P0002)
-- [Book 6, ch. 24, “Sectumsempra”, ref p. 539–540, ¶3 (B06-C024-P0003)](../../build/reader/book-06.html#B06-C024-P0003)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 539–540, ¶2 (B06-C024-P0002)](../../build/reader/book-06.html#B06-C024-P0002)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 540, ¶3 (B06-C024-P0003)](../../build/reader/book-06.html#B06-C024-P0003)
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 540, ¶4 (B06-C024-P0004)](../../build/reader/book-06.html#B06-C024-P0004)
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 540, ¶5 (B06-C024-P0005)](../../build/reader/book-06.html#B06-C024-P0005)
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 541, ¶17 (B06-C024-P0017)](../../build/reader/book-06.html#B06-C024-P0017)
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 541, ¶19 (B06-C024-P0019)](../../build/reader/book-06.html#B06-C024-P0019)
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 541, ¶20 (B06-C024-P0020)](../../build/reader/book-06.html#B06-C024-P0020)
 
+## B07-060: Ravenclaw spiral stair → lower corridor / unnamed classroom
+
+The group descends the spiral staircase and travels along corridors, then descends two additional floors before meeting Snape concealed behind armour. A wall torch sits in a bracket. Snape flees through a classroom door farther along that corridor and escapes through its window, flying towards the perimeter wall.
+
+Evidence: explicit; state: May 1998, preparations for the battle.
+
+Model: Do not equate “two more floors” with a surveyed tower height. The classroom is unnamed; view establishes line of sight towards the perimeter.
+
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 631, ¶69 (B07-C030-P0069)](../../build/reader/book-07.html#B07-C030-P0069)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 631, ¶70 (B07-C030-P0070)](../../build/reader/book-07.html#B07-C030-P0070)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 631–632, ¶71 (B07-C030-P0071)](../../build/reader/book-07.html#B07-C030-P0071)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 632, ¶73 (B07-C030-P0073)](../../build/reader/book-07.html#B07-C030-P0073)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 633, ¶90 (B07-C030-P0090)](../../build/reader/book-07.html#B07-C030-P0090)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 633, ¶91 (B07-C030-P0091)](../../build/reader/book-07.html#B07-C030-P0091)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 633–634, ¶92 (B07-C030-P0092)](../../build/reader/book-07.html#B07-C030-P0092)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 634, ¶94 (B07-C030-P0094)](../../build/reader/book-07.html#B07-C030-P0094)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 634, ¶96 (B07-C030-P0096)](../../build/reader/book-07.html#B07-C030-P0096)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 634, ¶97 (B07-C030-P0097)](../../build/reader/book-07.html#B07-C030-P0097)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 634, ¶99 (B07-C030-P0099)](../../build/reader/book-07.html#B07-C030-P0099)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 634–635, ¶100 (B07-C030-P0100)](../../build/reader/book-07.html#B07-C030-P0100)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 635, ¶103 (B07-C030-P0103)](../../build/reader/book-07.html#B07-C030-P0103)
+
+## B07-061: Unnamed corridor and classroom / duel damage
+
+The torch is pulled from its wall bracket and transformed into a corridor-filling ring of fire, then serpent, smoke and daggers. Daggers pierce a suit of armour, which is animated, hurled against the wall and shattered. Snape leaves a body-shaped hole in the classroom window.
+
+Evidence: explicit; state: May 1998, preparations for the battle.
+
+Model: Dated magical transformations and broken fittings, not permanent materials of corridor structure.
+
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 633, ¶90 (B07-C030-P0090)](../../build/reader/book-07.html#B07-C030-P0090)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 633, ¶91 (B07-C030-P0091)](../../build/reader/book-07.html#B07-C030-P0091)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 634, ¶94 (B07-C030-P0094)](../../build/reader/book-07.html#B07-C030-P0094)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 634, ¶96 (B07-C030-P0096)](../../build/reader/book-07.html#B07-C030-P0096)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 635, ¶103 (B07-C030-P0103)](../../build/reader/book-07.html#B07-C030-P0103)
+
+## B07-074: Castle walls / Mandrake defence
+
+Sprout, Neville and about half a dozen others carry large potted Mandrakes while wearing earmuffs. Neville says they intend to throw them over the walls.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts before and just after midnight.
+
+Model: Observed plants and ear protection; deployment over a particular wall is still intended, not seen here.
+
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 657, ¶126 (B07-C031-P0126)](../../build/reader/book-07.html#B07-C031-P0126)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 657, ¶127 (B07-C031-P0127)](../../build/reader/book-07.html#B07-C031-P0127)

@@ -7,6 +7,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
+from corpus import chapter_blocks
+
 
 class ReaderParser(HTMLParser):
     def __init__(self):
@@ -46,11 +48,11 @@ class ReaderParser(HTMLParser):
 
 
 def verify(corpus: dict, folder: Path) -> dict:
-    words = paragraphs = pages = 0
+    words = paragraphs = pages = extras = 0
     for book in corpus["books"]:
         parsed = ReaderParser()
         parsed.feed((folder / f"book-{book['number']:02d}.html").read_text())
-        source = [p for chapter in book["chapters"] for p in chapter["paragraphs"]]
+        source = [p for chapter in book["chapters"] for p in chapter_blocks(chapter)]
         if list(parsed.paragraphs) != [p["id"] for p in source]:
             raise ValueError(f"Book {book['number']}: missing, extra or reordered paragraph")
         for p in source:
@@ -65,9 +67,11 @@ def verify(corpus: dict, folder: Path) -> dict:
             if len(content) != expected:
                 raise ValueError(f"Book {book['number']}, page {page}: {len(content)} words; expected {expected}")
         words += book["word_count"]
-        paragraphs += len(source)
+        paragraphs += sum(not p.get("is_extra") for p in source)
+        extras += sum(bool(p.get("is_extra")) for p in source)
         pages += len(parsed.pages)
     return {"books": len(corpus["books"]), "paragraphs": paragraphs, "words": words,
+            "additional_text_blocks": extras,
             "reference_pages": pages, "source_text_and_page_ranges_match": True}
 
 

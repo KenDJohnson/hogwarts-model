@@ -38,8 +38,8 @@ Evidence: explicit; state: November 1992.
 Model: Observed departure inside Hogwarts. Arrival itself is not witnessed and the mechanism is not named here.
 
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 177, ¶130 (B02-C010-P0130)](../../build/reader/book-02.html#B02-C010-P0130)
-- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 177, ¶131 (B02-C010-P0131)](../../build/reader/book-02.html#B02-C010-P0131)
-- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 177, ¶132 (B02-C010-P0132)](../../build/reader/book-02.html#B02-C010-P0132)
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 177–178, ¶131 (B02-C010-P0131)](../../build/reader/book-02.html#B02-C010-P0131)
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 178, ¶132 (B02-C010-P0132)](../../build/reader/book-02.html#B02-C010-P0132)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 178, ¶134 (B02-C010-P0134)](../../build/reader/book-02.html#B02-C010-P0134)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 181, ¶161 (B02-C010-P0161)](../../build/reader/book-02.html#B02-C010-P0161)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 181, ¶162 (B02-C010-P0162)](../../build/reader/book-02.html#B02-C010-P0162)
@@ -197,7 +197,7 @@ Model: Observed instantaneous elf arrival inside the castle despite human Appari
 - [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶185 (B06-C019-P0185)](../../build/reader/book-06.html#B06-C019-P0185)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶187 (B06-C019-P0187)](../../build/reader/book-06.html#B06-C019-P0187)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶188 (B06-C019-P0188)](../../build/reader/book-06.html#B06-C019-P0188)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶189 (B06-C019-P0189)](../../build/reader/book-06.html#B06-C019-P0189)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 438–439, ¶189 (B06-C019-P0189)](../../build/reader/book-06.html#B06-C019-P0189)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 439, ¶193 (B06-C019-P0193)](../../build/reader/book-06.html#B06-C019-P0193)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 439, ¶194 (B06-C019-P0194)](../../build/reader/book-06.html#B06-C019-P0194)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 440, ¶199 (B06-C019-P0199)](../../build/reader/book-06.html#B06-C019-P0199)
@@ -210,7 +210,7 @@ Evidence: explicit; state: March–early April 1997.
 
 Model: Confirms elf Disapparition inside castle independently of human anti-Apparition rules. Arrival position is near the group/fire, not an invented fixed teleport point.
 
-- [Book 6, ch. 21, “The Unknowable Room”, ref p. 471–472, ¶29 (B06-C021-P0029)](../../build/reader/book-06.html#B06-C021-P0029)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 472, ¶29 (B06-C021-P0029)](../../build/reader/book-06.html#B06-C021-P0029)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 472, ¶30 (B06-C021-P0030)](../../build/reader/book-06.html#B06-C021-P0030)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 472, ¶31 (B06-C021-P0031)](../../build/reader/book-06.html#B06-C021-P0031)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 472, ¶34 (B06-C021-P0034)](../../build/reader/book-06.html#B06-C021-P0034)
@@ -220,3 +220,32 @@ Model: Confirms elf Disapparition inside castle independently of human anti-Appa
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 475, ¶64 (B06-C021-P0064)](../../build/reader/book-06.html#B06-C021-P0064)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 477, ¶82 (B06-C021-P0082)](../../build/reader/book-06.html#B06-C021-P0082)
 
+## B07-079: Hogwarts kitchens / house-elves
+
+Ron expects the house-elves to be down in the kitchen during the battle and urges warning them to escape.
+
+Evidence: reported; state: May 1998, Battle of Hogwarts before and just after midnight.
+
+Model: Expectation of occupied kitchen, not a witnessed headcount or an evacuation that is shown taking place.
+
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 661, ¶176 (B07-C031-P0176)](../../build/reader/book-07.html#B07-C031-P0176)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 661, ¶177 (B07-C031-P0177)](../../build/reader/book-07.html#B07-C031-P0177)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 661, ¶178 (B07-C031-P0178)](../../build/reader/book-07.html#B07-C031-P0178)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 661, ¶179 (B07-C031-P0179)](../../build/reader/book-07.html#B07-C031-P0179)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 661, ¶180 (B07-C031-P0180)](../../build/reader/book-07.html#B07-C031-P0180)
+
+## B07-128: Front steps → Entrance Hall → Great Hall / kitchen route
+
+The crowd enters through the front doors and Harry is swept into the Entrance Hall, where Voldemort backs across into the Great Hall. Further reinforcements climb the front steps, centaurs enter, and the door leading to the kitchens is blasted off its hinges as armed house-elves swarm into the Entrance Hall.
+
+Evidence: explicit; state: May 1998, final battle at dawn.
+
+Model: Kitchen-route door connects with the Entrance Hall circulation, but does not establish that the kitchen room itself directly adjoins it without intervening stairs/passages.
+
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 778, ¶76 (B07-C036-P0076)](../../build/reader/book-07.html#B07-C036-P0076)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 778–779, ¶77 (B07-C036-P0077)](../../build/reader/book-07.html#B07-C036-P0077)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779, ¶78 (B07-C036-P0078)](../../build/reader/book-07.html#B07-C036-P0078)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779, ¶79 (B07-C036-P0079)](../../build/reader/book-07.html#B07-C036-P0079)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779, ¶80 (B07-C036-P0080)](../../build/reader/book-07.html#B07-C036-P0080)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779, ¶81 (B07-C036-P0081)](../../build/reader/book-07.html#B07-C036-P0081)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779–780, ¶82 (B07-C036-P0082)](../../build/reader/book-07.html#B07-C036-P0082)

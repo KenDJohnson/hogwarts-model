@@ -120,7 +120,7 @@ Evidence: reported; state: November 1992.
 
 Model: Resolves the temporary transport obstruction’s cause by character admission; no claim that the normal gateway closes at eleven.
 
-- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 177–178, ¶133 (B02-C010-P0133)](../../build/reader/book-02.html#B02-C010-P0133)
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 178, ¶133 (B02-C010-P0133)](../../build/reader/book-02.html#B02-C010-P0133)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 178, ¶135 (B02-C010-P0135)](../../build/reader/book-02.html#B02-C010-P0135)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 178, ¶136 (B02-C010-P0136)](../../build/reader/book-02.html#B02-C010-P0136)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 178, ¶137 (B02-C010-P0137)](../../build/reader/book-02.html#B02-C010-P0137)
@@ -137,7 +137,7 @@ Evidence: explicit; state: Late spring 1993.
 Model: Explicit manually operable interior lock; no key, bar shape or exterior unlocking mechanism stated.
 
 - [Book 2, ch. 15, “Aragog”, ref p. 273, ¶55 (B02-C015-P0055)](../../build/reader/book-02.html#B02-C015-P0055)
-- [Book 2, ch. 15, “Aragog”, ref p. 273, ¶56 (B02-C015-P0056)](../../build/reader/book-02.html#B02-C015-P0056)
+- [Book 2, ch. 15, “Aragog”, ref p. 273–274, ¶56 (B02-C015-P0056)](../../build/reader/book-02.html#B02-C015-P0056)
 
 ## B02-150: Chamber of Secrets — phoenix arrival
 
@@ -149,8 +149,8 @@ Model: Observed arrival at a pillar, without a demonstrated continuous route fro
 
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 318, ¶82 (B02-C017-P0082)](../../build/reader/book-02.html#B02-C017-P0082)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 318, ¶83 (B02-C017-P0083)](../../build/reader/book-02.html#B02-C017-P0083)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 318, ¶84 (B02-C017-P0084)](../../build/reader/book-02.html#B02-C017-P0084)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 318–319, ¶85 (B02-C017-P0085)](../../build/reader/book-02.html#B02-C017-P0085)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 318–319, ¶84 (B02-C017-P0084)](../../build/reader/book-02.html#B02-C017-P0084)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 319, ¶85 (B02-C017-P0085)](../../build/reader/book-02.html#B02-C017-P0085)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 319, ¶86 (B02-C017-P0086)](../../build/reader/book-02.html#B02-C017-P0086)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 319, ¶87 (B02-C017-P0087)](../../build/reader/book-02.html#B02-C017-P0087)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 319, ¶88 (B02-C017-P0088)](../../build/reader/book-02.html#B02-C017-P0088)
@@ -165,11 +165,11 @@ Evidence: explicit; state: Late May–June 1993.
 
 Model: School-to-station transfer mode is omitted this year; do not reuse book 1’s boat detail as a fresh observation.
 
-- [Book 2, ch. 18, “Dobby’s Reward”, ref p. 344, ¶133 (B02-C018-P0133)](../../build/reader/book-02.html#B02-C018-P0133)
-- [Book 2, ch. 18, “Dobby’s Reward”, ref p. 344, ¶134 (B02-C018-P0134)](../../build/reader/book-02.html#B02-C018-P0134)
+- [Book 2, ch. 18, “Dobby’s Reward”, ref p. 344–345, ¶133 (B02-C018-P0133)](../../build/reader/book-02.html#B02-C018-P0133)
+- [Book 2, ch. 18, “Dobby’s Reward”, ref p. 345, ¶134 (B02-C018-P0134)](../../build/reader/book-02.html#B02-C018-P0134)
 - [Book 2, ch. 18, “Dobby’s Reward”, ref p. 345, ¶142 (B02-C018-P0142)](../../build/reader/book-02.html#B02-C018-P0142)
 - [Book 2, ch. 18, “Dobby’s Reward”, ref p. 345, ¶145 (B02-C018-P0145)](../../build/reader/book-02.html#B02-C018-P0145)
-- [Book 2, ch. 18, “Dobby’s Reward”, ref p. 345, ¶147 (B02-C018-P0147)](../../build/reader/book-02.html#B02-C018-P0147)
+- [Book 2, ch. 18, “Dobby’s Reward”, ref p. 346, ¶147 (B02-C018-P0147)](../../build/reader/book-02.html#B02-C018-P0147)
 
 ## B03-001: Hogwarts Express — term-start connection
 
@@ -870,10 +870,10 @@ Evidence: explicit; state: Evening arrival, 1 September 1996.
 
 Model: Visibility before arrival constrains an approach view. The half-hour estimate at P0187 is Harry’s judgement, not a measured travel time; no compass bearing is given.
 
-- [Book 6, ch. 7, “The Slug Club”, ref p. 152–153, ¶187 (B06-C007-P0187)](../../build/reader/book-06.html#B06-C007-P0187)
+- [Book 6, ch. 7, “The Slug Club”, ref p. 153, ¶187 (B06-C007-P0187)](../../build/reader/book-06.html#B06-C007-P0187)
 - [Book 6, ch. 7, “The Slug Club”, ref p. 157, ¶224 (B06-C007-P0224)](../../build/reader/book-06.html#B06-C007-P0224)
-- [Book 6, ch. 7, “The Slug Club”, ref p. 157, ¶226 (B06-C007-P0226)](../../build/reader/book-06.html#B06-C007-P0226)
-- [Book 6, ch. 7, “The Slug Club”, ref p. 157–158, ¶227 (B06-C007-P0227)](../../build/reader/book-06.html#B06-C007-P0227)
+- [Book 6, ch. 7, “The Slug Club”, ref p. 157–158, ¶226 (B06-C007-P0226)](../../build/reader/book-06.html#B06-C007-P0226)
+- [Book 6, ch. 7, “The Slug Club”, ref p. 158, ¶227 (B06-C007-P0227)](../../build/reader/book-06.html#B06-C007-P0227)
 - [Book 6, ch. 7, “The Slug Club”, ref p. 158, ¶229 (B06-C007-P0229)](../../build/reader/book-06.html#B06-C007-P0229)
 
 ## B06-010: Hogwarts Express carriage
@@ -885,8 +885,8 @@ Evidence: explicit; state: 1 September 1996 approach journey.
 Model: Ancillary transport interior if the arrival sequence is modelled; no exact dimensions. Distinguish corridor-facing glazing from exterior train windows.
 
 - [Book 6, ch. 7, “The Slug Club”, ref p. 153, ¶191 (B06-C007-P0191)](../../build/reader/book-06.html#B06-C007-P0191)
-- [Book 6, ch. 7, “The Slug Club”, ref p. 153, ¶192 (B06-C007-P0192)](../../build/reader/book-06.html#B06-C007-P0192)
-- [Book 6, ch. 7, “The Slug Club”, ref p. 153–154, ¶193 (B06-C007-P0193)](../../build/reader/book-06.html#B06-C007-P0193)
+- [Book 6, ch. 7, “The Slug Club”, ref p. 153–154, ¶192 (B06-C007-P0192)](../../build/reader/book-06.html#B06-C007-P0192)
+- [Book 6, ch. 7, “The Slug Club”, ref p. 154, ¶193 (B06-C007-P0193)](../../build/reader/book-06.html#B06-C007-P0193)
 - [Book 6, ch. 7, “The Slug Club”, ref p. 158, ¶229 (B06-C007-P0229)](../../build/reader/book-06.html#B06-C007-P0229)
 
 ## B06-012: Station acoustic surroundings
@@ -908,9 +908,9 @@ Evidence: explicit; state: Evening arrival, 1 September 1996.
 Model: Route and slope are explicit; perceived distance supplies no numerical length. The Thestral-carriage convoy at P0005 is imagined rather than witnessed in this scene.
 
 - [Book 6, ch. 8, “Snape Victorious”, ref p. 162, ¶19 (B06-C008-P0019)](../../build/reader/book-06.html#B06-C008-P0019)
-- [Book 6, ch. 8, “Snape Victorious”, ref p. 162, ¶22 (B06-C008-P0022)](../../build/reader/book-06.html#B06-C008-P0022)
-- [Book 6, ch. 8, “Snape Victorious”, ref p. 163, ¶31 (B06-C008-P0031)](../../build/reader/book-06.html#B06-C008-P0031)
-- [Book 6, ch. 8, “Snape Victorious”, ref p. 163–164, ¶32 (B06-C008-P0032)](../../build/reader/book-06.html#B06-C008-P0032)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 163, ¶22 (B06-C008-P0022)](../../build/reader/book-06.html#B06-C008-P0022)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 163–164, ¶31 (B06-C008-P0031)](../../build/reader/book-06.html#B06-C008-P0031)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 164, ¶32 (B06-C008-P0032)](../../build/reader/book-06.html#B06-C008-P0032)
 
 ## B06-014: Hogwarts main gates
 
@@ -920,7 +920,7 @@ Evidence: explicit; state: Evening arrival, 1 September 1996.
 
 Model: Model paired gateposts and their sculptures. Material and dimensions of the posts and gates are not specified in this passage.
 
-- [Book 6, ch. 8, “Snape Victorious”, ref p. 163–164, ¶32 (B06-C008-P0032)](../../build/reader/book-06.html#B06-C008-P0032)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 164, ¶32 (B06-C008-P0032)](../../build/reader/book-06.html#B06-C008-P0032)
 
 ## B06-015: Hogwarts gates and perimeter walls
 
@@ -934,7 +934,7 @@ Model: Observed gate behaviour supports an authorised-opening interaction. Tonks
 - [Book 6, ch. 8, “Snape Victorious”, ref p. 164, ¶34 (B06-C008-P0034)](../../build/reader/book-06.html#B06-C008-P0034)
 - [Book 6, ch. 8, “Snape Victorious”, ref p. 164, ¶36 (B06-C008-P0036)](../../build/reader/book-06.html#B06-C008-P0036)
 - [Book 6, ch. 8, “Snape Victorious”, ref p. 164, ¶37 (B06-C008-P0037)](../../build/reader/book-06.html#B06-C008-P0037)
-- [Book 6, ch. 8, “Snape Victorious”, ref p. 164–165, ¶41 (B06-C008-P0041)](../../build/reader/book-06.html#B06-C008-P0041)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 165, ¶41 (B06-C008-P0041)](../../build/reader/book-06.html#B06-C008-P0041)
 - [Book 6, ch. 8, “Snape Victorious”, ref p. 165, ¶46 (B06-C008-P0046)](../../build/reader/book-06.html#B06-C008-P0046)
 
 ## B06-016: Main gates–castle front entrance
@@ -945,8 +945,8 @@ Evidence: explicit; state: Evening arrival, 1 September 1996.
 
 Model: Establish distance and line of sight between gates and castle foot without inventing bearings or a measured length.
 
-- [Book 6, ch. 8, “Snape Victorious”, ref p. 164, ¶40 (B06-C008-P0040)](../../build/reader/book-06.html#B06-C008-P0040)
-- [Book 6, ch. 8, “Snape Victorious”, ref p. 165, ¶49 (B06-C008-P0049)](../../build/reader/book-06.html#B06-C008-P0049)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 164–165, ¶40 (B06-C008-P0040)](../../build/reader/book-06.html#B06-C008-P0040)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 165–166, ¶49 (B06-C008-P0049)](../../build/reader/book-06.html#B06-C008-P0049)
 - [Book 6, ch. 8, “Snape Victorious”, ref p. 167, ¶56 (B06-C008-P0056)](../../build/reader/book-06.html#B06-C008-P0056)
 
 ## B06-017: Front entrance and Entrance Hall
@@ -970,7 +970,7 @@ Evidence: explicit; state: Return after New Year 1997.
 Model: Temporary network permission, destination fireplace, grate and carpet. Do not assume unrestricted public Floo access in other periods.
 
 - [Book 6, ch. 17, “A Sluggish Memory”, ref p. 364, ¶1 (B06-C017-P0001)](../../build/reader/book-06.html#B06-C017-P0001)
-- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 364–365, ¶9 (B06-C017-P0009)](../../build/reader/book-06.html#B06-C017-P0009)
+- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 365, ¶9 (B06-C017-P0009)](../../build/reader/book-06.html#B06-C017-P0009)
 - [Book 6, ch. 17, “A Sluggish Memory”, ref p. 365, ¶10 (B06-C017-P0010)](../../build/reader/book-06.html#B06-C017-P0010)
 - [Book 6, ch. 17, “A Sluggish Memory”, ref p. 365, ¶12 (B06-C017-P0012)](../../build/reader/book-06.html#B06-C017-P0012)
 
@@ -982,8 +982,8 @@ Evidence: explicit; state: January 1997 antidote lesson.
 
 Model: Additional storage contents and heating method. Shared table is also called a desk; do not create an extra fixture from wording variation.
 
-- [Book 6, ch. 18, “Birthday Surprises”, ref p. 390–391, ¶13 (B06-C018-P0013)](../../build/reader/book-06.html#B06-C018-P0013)
-- [Book 6, ch. 18, “Birthday Surprises”, ref p. 391–392, ¶22 (B06-C018-P0022)](../../build/reader/book-06.html#B06-C018-P0022)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 391, ¶13 (B06-C018-P0013)](../../build/reader/book-06.html#B06-C018-P0013)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 392, ¶22 (B06-C018-P0022)](../../build/reader/book-06.html#B06-C018-P0022)
 - [Book 6, ch. 18, “Birthday Surprises”, ref p. 392, ¶23 (B06-C018-P0023)](../../build/reader/book-06.html#B06-C018-P0023)
 - [Book 6, ch. 18, “Birthday Surprises”, ref p. 392, ¶25 (B06-C018-P0025)](../../build/reader/book-06.html#B06-C018-P0025)
 - [Book 6, ch. 18, “Birthday Surprises”, ref p. 394, ¶34 (B06-C018-P0034)](../../build/reader/book-06.html#B06-C018-P0034)
@@ -1003,7 +1003,7 @@ Model: Observed instantaneous elf arrival inside the castle despite human Appari
 - [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶185 (B06-C019-P0185)](../../build/reader/book-06.html#B06-C019-P0185)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶187 (B06-C019-P0187)](../../build/reader/book-06.html#B06-C019-P0187)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶188 (B06-C019-P0188)](../../build/reader/book-06.html#B06-C019-P0188)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶189 (B06-C019-P0189)](../../build/reader/book-06.html#B06-C019-P0189)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 438–439, ¶189 (B06-C019-P0189)](../../build/reader/book-06.html#B06-C019-P0189)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 439, ¶193 (B06-C019-P0193)](../../build/reader/book-06.html#B06-C019-P0193)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 439, ¶194 (B06-C019-P0194)](../../build/reader/book-06.html#B06-C019-P0194)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 440, ¶199 (B06-C019-P0199)](../../build/reader/book-06.html#B06-C019-P0199)
@@ -1017,12 +1017,12 @@ Evidence: explicit; state: Apparition-test day, spring 1997.
 Model: Patch is a detour, with a low stone concealment wall and views towards Forest/cabin; no exact plot boundary or compass orientation supplied.
 
 - [Book 6, ch. 22, “After the Burial”, ref p. 502, ¶108 (B06-C022-P0108)](../../build/reader/book-06.html#B06-C022-P0108)
-- [Book 6, ch. 22, “After the Burial”, ref p. 502–503, ¶111 (B06-C022-P0111)](../../build/reader/book-06.html#B06-C022-P0111)
+- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶111 (B06-C022-P0111)](../../build/reader/book-06.html#B06-C022-P0111)
 - [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶112 (B06-C022-P0112)](../../build/reader/book-06.html#B06-C022-P0112)
-- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶122 (B06-C022-P0122)](../../build/reader/book-06.html#B06-C022-P0122)
+- [Book 6, ch. 22, “After the Burial”, ref p. 504, ¶122 (B06-C022-P0122)](../../build/reader/book-06.html#B06-C022-P0122)
 - [Book 6, ch. 22, “After the Burial”, ref p. 504, ¶124 (B06-C022-P0124)](../../build/reader/book-06.html#B06-C022-P0124)
-- [Book 6, ch. 22, “After the Burial”, ref p. 504, ¶129 (B06-C022-P0129)](../../build/reader/book-06.html#B06-C022-P0129)
-- [Book 6, ch. 22, “After the Burial”, ref p. 504–505, ¶130 (B06-C022-P0130)](../../build/reader/book-06.html#B06-C022-P0130)
+- [Book 6, ch. 22, “After the Burial”, ref p. 504–505, ¶129 (B06-C022-P0129)](../../build/reader/book-06.html#B06-C022-P0129)
+- [Book 6, ch. 22, “After the Burial”, ref p. 505, ¶130 (B06-C022-P0130)](../../build/reader/book-06.html#B06-C022-P0130)
 
 ## B06-145: Front door–third-floor shortcut–Gryffindor
 
@@ -1047,8 +1047,8 @@ Model: Front entrance → steps → descending drive → gates sequence; environ
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶204 (B06-C025-P0204)](../../build/reader/book-06.html#B06-C025-P0204)
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶205 (B06-C025-P0205)](../../build/reader/book-06.html#B06-C025-P0205)
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶206 (B06-C025-P0206)](../../build/reader/book-06.html#B06-C025-P0206)
-- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶209 (B06-C025-P0209)](../../build/reader/book-06.html#B06-C025-P0209)
-- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582–583, ¶210 (B06-C025-P0210)](../../build/reader/book-06.html#B06-C025-P0210)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582–583, ¶209 (B06-C025-P0209)](../../build/reader/book-06.html#B06-C025-P0209)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 583, ¶210 (B06-C025-P0210)](../../build/reader/book-06.html#B06-C025-P0210)
 
 ## B06-170: Gates–Hogsmeade pubs–Apparition departure
 
@@ -1074,7 +1074,7 @@ Evidence: inference; state: Night of tower attack, June 1997.
 
 Model: Sound and shudder are observed, while barrier purpose and deliberate suspension are Harry’s interpretation. No evidence of a physically moving wall or blanket permanent removal.
 
-- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 613–614, ¶36 (B06-C027-P0036)](../../build/reader/book-06.html#B06-C027-P0036)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶36 (B06-C027-P0036)](../../build/reader/book-06.html#B06-C027-P0036)
 
 ## B06-188: Lawn escape route and Apparition boundary
 
@@ -1089,9 +1089,9 @@ Model: Boundary crossing is the operative restriction; gates are the route used 
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 633, ¶25 (B06-C028-P0025)](../../build/reader/book-06.html#B06-C028-P0025)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 634, ¶28 (B06-C028-P0028)](../../build/reader/book-06.html#B06-C028-P0028)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 634, ¶30 (B06-C028-P0030)](../../build/reader/book-06.html#B06-C028-P0030)
-- [Book 6, ch. 28, “Flight of the Prince”, ref p. 635–636, ¶44 (B06-C028-P0044)](../../build/reader/book-06.html#B06-C028-P0044)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 636, ¶44 (B06-C028-P0044)](../../build/reader/book-06.html#B06-C028-P0044)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 637, ¶52 (B06-C028-P0052)](../../build/reader/book-06.html#B06-C028-P0052)
-- [Book 6, ch. 28, “Flight of the Prince”, ref p. 637, ¶53 (B06-C028-P0053)](../../build/reader/book-06.html#B06-C028-P0053)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 637–638, ¶53 (B06-C028-P0053)](../../build/reader/book-06.html#B06-C028-P0053)
 
 ## B06-202: Forest-edge visiting carriage
 
@@ -1161,3 +1161,127 @@ Model: His sources support a very heavily guarded wartime state; “only” is h
 
 - [Book 7, ch. 28, “The Missing Mirror”, ref p. 604, ¶149 (B07-C028-P0149)](../../build/reader/book-07.html#B07-C028-P0149)
 
+## B07-065: Hogwarts main gates / night view
+
+Harry’s final vision looks through high wrought-iron gates flanked by pillars carrying winged boars, across dark grounds to the castle blazing with lights.
+
+Evidence: explicit; state: May 1998, preparations for the battle.
+
+Model: Gate material, flanking ornaments and castle sightline; change from unlit pre-dawn windows in chapter 24 reflects a different night/state.
+
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 643, ¶194 (B07-C030-P0194)](../../build/reader/book-07.html#B07-C030-P0194)
+
+## B07-072: Forest-side boundary → castle corridor window
+
+Hagrid reports Grawp carrying him and Fang from their cave, smashing through the boundary by the Forest and putting them through a castle window. Harry sees Hagrid crash through a window to his left into the opposite corridor wall, with Grawp outside. Hagrid’s later footfalls shake the corridor’s floorboards.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts before and just after midnight.
+
+Model: Dated breach and wooden corridor floor; boundary material and height of this window are not given.
+
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 654, ¶108 (B07-C031-P0108)](../../build/reader/book-07.html#B07-C031-P0108)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 654, ¶109 (B07-C031-P0109)](../../build/reader/book-07.html#B07-C031-P0109)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 654–655, ¶111 (B07-C031-P0111)](../../build/reader/book-07.html#B07-C031-P0111)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 655, ¶112 (B07-C031-P0112)](../../build/reader/book-07.html#B07-C031-P0112)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 655, ¶113 (B07-C031-P0113)](../../build/reader/book-07.html#B07-C031-P0113)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 655, ¶116 (B07-C031-P0116)](../../build/reader/book-07.html#B07-C031-P0116)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 655, ¶118 (B07-C031-P0118)](../../build/reader/book-07.html#B07-C031-P0118)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 655, ¶119 (B07-C031-P0119)](../../build/reader/book-07.html#B07-C031-P0119)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 655–656, ¶120 (B07-C031-P0120)](../../build/reader/book-07.html#B07-C031-P0120)
+
+## B07-093: Castle front steps / giant attack / upper window
+
+Outside the front steps a twenty-foot giant is illuminated at its shins by light from the castle doors; it smashes an upper window and reaches through for people. Harry shelters in the doorway from falling glass. Grawp rounds a castle corner, fights it beside trembling stone steps, and the trio run down into the grounds towards the Forest.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts.
+
+Model: Visible scale and reach, without assigning a numbered floor to the broken window. Grawp is smaller than this enemy giant.
+
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 685, ¶77 (B07-C032-P0077)](../../build/reader/book-07.html#B07-C032-P0077)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 685–686, ¶79 (B07-C032-P0079)](../../build/reader/book-07.html#B07-C032-P0079)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 686, ¶80 (B07-C032-P0080)](../../build/reader/book-07.html#B07-C032-P0080)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 686, ¶81 (B07-C032-P0081)](../../build/reader/book-07.html#B07-C032-P0081)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 686, ¶83 (B07-C032-P0083)](../../build/reader/book-07.html#B07-C032-P0083)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 686–687, ¶84 (B07-C032-P0084)](../../build/reader/book-07.html#B07-C032-P0084)
+
+## B07-106: Hogwarts Express / historical journey furnishing
+
+At platform nine and three-quarters students load trunks aboard the scarlet steam engine, carrying cats and caged owls. On the countryside journey a corridor serves compartments with sliding doors, facing seats and window-side corner seating.
+
+Evidence: explicit; state: September 1971 memory.
+
+Model: Historical school transport geometry; London platform is retained only as the school railway’s departure context, not a separate city model.
+
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 708, ¶99 (B07-C033-P0099)](../../build/reader/book-07.html#B07-C033-P0099)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 709, ¶102 (B07-C033-P0102)](../../build/reader/book-07.html#B07-C033-P0102)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 710, ¶117 (B07-C033-P0117)](../../build/reader/book-07.html#B07-C033-P0117)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 710, ¶118 (B07-C033-P0118)](../../build/reader/book-07.html#B07-C033-P0118)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 711, ¶130 (B07-C033-P0130)](../../build/reader/book-07.html#B07-C033-P0130)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 711, ¶131 (B07-C033-P0131)](../../build/reader/book-07.html#B07-C033-P0131)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 712, ¶143 (B07-C033-P0143)](../../build/reader/book-07.html#B07-C033-P0143)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 712, ¶146 (B07-C033-P0146)](../../build/reader/book-07.html#B07-C033-P0146)
+
+## B07-127: School boundary / grounds counterattack
+
+Uproar comes from the distant, out-of-sight boundary walls as what sounds like hundreds climb over and run towards the castle. Grawp rounds the castle side; enemy giants rush him while charging centaurs fire arrows. Thestrals and Buckbeak attack the giants’ eyes from the air, and the fighters are driven back into the castle.
+
+Evidence: explicit; state: May 1998, final battle at dawn.
+
+Model: Wall crossing is initially heard and interpreted rather than seen. Later arrivals appear to include Hogsmeade residents and fighters’ families under Charlie and Slughorn; no particular gate used is stated.
+
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 777, ¶71 (B07-C036-P0071)](../../build/reader/book-07.html#B07-C036-P0071)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 777–778, ¶73 (B07-C036-P0073)](../../build/reader/book-07.html#B07-C036-P0073)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 778, ¶74 (B07-C036-P0074)](../../build/reader/book-07.html#B07-C036-P0074)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 778, ¶75 (B07-C036-P0075)](../../build/reader/book-07.html#B07-C036-P0075)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 778, ¶76 (B07-C036-P0076)](../../build/reader/book-07.html#B07-C036-P0076)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779, ¶78 (B07-C036-P0078)](../../build/reader/book-07.html#B07-C036-P0078)
+
+## B07-128: Front steps → Entrance Hall → Great Hall / kitchen route
+
+The crowd enters through the front doors and Harry is swept into the Entrance Hall, where Voldemort backs across into the Great Hall. Further reinforcements climb the front steps, centaurs enter, and the door leading to the kitchens is blasted off its hinges as armed house-elves swarm into the Entrance Hall.
+
+Evidence: explicit; state: May 1998, final battle at dawn.
+
+Model: Kitchen-route door connects with the Entrance Hall circulation, but does not establish that the kitchen room itself directly adjoins it without intervening stairs/passages.
+
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 778, ¶76 (B07-C036-P0076)](../../build/reader/book-07.html#B07-C036-P0076)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 778–779, ¶77 (B07-C036-P0077)](../../build/reader/book-07.html#B07-C036-P0077)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779, ¶78 (B07-C036-P0078)](../../build/reader/book-07.html#B07-C036-P0078)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779, ¶79 (B07-C036-P0079)](../../build/reader/book-07.html#B07-C036-P0079)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779, ¶80 (B07-C036-P0080)](../../build/reader/book-07.html#B07-C036-P0080)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779, ¶81 (B07-C036-P0081)](../../build/reader/book-07.html#B07-C036-P0081)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 779–780, ¶82 (B07-C036-P0082)](../../build/reader/book-07.html#B07-C036-P0082)
+
+## B07-137: Hogwarts Express / London departure connection
+
+Families pass through the barrier between platforms nine and ten without collision to reach platform nine and three-quarters, clouded by thick white steam from the scarlet Hogwarts Express. Carriages have doors and opening windows, with a corridor along which James runs; the train leaves near eleven and rounds a corner out of sight.
+
+Evidence: explicit; state: 1 September 2017 epilogue.
+
+Model: School railway departure endpoint only; the fifty-yard separation of families on the platform is not a Hogwarts grounds measurement. No Hogsmeade station arrival is depicted in the epilogue.
+
+- [Book 7, Epilogue, “Nineteen Years Later”, ref p. 796, ¶1 (B07-C037-P0001)](../../build/reader/book-07.html#B07-C037-P0001)
+- [Book 7, Epilogue, “Nineteen Years Later”, ref p. 796, ¶4 (B07-C037-P0004)](../../build/reader/book-07.html#B07-C037-P0004)
+- [Book 7, Epilogue, “Nineteen Years Later”, ref p. 797, ¶8 (B07-C037-P0008)](../../build/reader/book-07.html#B07-C037-P0008)
+- [Book 7, Epilogue, “Nineteen Years Later”, ref p. 797, ¶14 (B07-C037-P0014)](../../build/reader/book-07.html#B07-C037-P0014)
+- [Book 7, Epilogue, “Nineteen Years Later”, ref p. 797, ¶15 (B07-C037-P0015)](../../build/reader/book-07.html#B07-C037-P0015)
+- [Book 7, Epilogue, “Nineteen Years Later”, ref p. 797–798, ¶17 (B07-C037-P0017)](../../build/reader/book-07.html#B07-C037-P0017)
+- [Book 7, Epilogue, “Nineteen Years Later”, ref p. 798, ¶19 (B07-C037-P0019)](../../build/reader/book-07.html#B07-C037-P0019)
+- [Book 7, Epilogue, “Nineteen Years Later”, ref p. 798, ¶24 (B07-C037-P0024)](../../build/reader/book-07.html#B07-C037-P0024)
+- [Book 7, Epilogue, “Nineteen Years Later”, ref p. 800, ¶47 (B07-C037-P0047)](../../build/reader/book-07.html#B07-C037-P0047)
+- [Book 7, Epilogue, “Nineteen Years Later”, ref p. 800–801, ¶56 (B07-C037-P0056)](../../build/reader/book-07.html#B07-C037-P0056)
+- [Book 7, Epilogue, “Nineteen Years Later”, ref p. 801–802, ¶69 (B07-C037-P0069)](../../build/reader/book-07.html#B07-C037-P0069)
+- [Book 7, Epilogue, “Nineteen Years Later”, ref p. 802, ¶72 (B07-C037-P0072)](../../build/reader/book-07.html#B07-C037-P0072)
+- [Book 7, Epilogue, “Nineteen Years Later”, ref p. 802, ¶73 (B07-C037-P0073)](../../build/reader/book-07.html#B07-C037-P0073)
+
+## B07-138: School arrival boats / Thestral carriages
+
+Harry tells first-year Albus he will go up to school in the boats rather than the carriages. James warns him about Thestrals, which Albus says James described as invisible; Harry calls them gentle.
+
+Evidence: reported; state: 1 September 2017 epilogue.
+
+Model: Confirms the two arrival modes remain in use nineteen years after the battle. No launch site, lake course, carriage road or universal visibility rule is supplied here.
+
+- [Book 7, Epilogue, “Nineteen Years Later”, ref p. 800, ¶54 (B07-C037-P0054)](../../build/reader/book-07.html#B07-C037-P0054)
+- [Book 7, Epilogue, “Nineteen Years Later”, ref p. 800, ¶55 (B07-C037-P0055)](../../build/reader/book-07.html#B07-C037-P0055)
+- [Book 7, Epilogue, “Nineteen Years Later”, ref p. 801, ¶57 (B07-C037-P0057)](../../build/reader/book-07.html#B07-C037-P0057)

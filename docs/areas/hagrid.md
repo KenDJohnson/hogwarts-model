@@ -174,14 +174,14 @@ Evidence: explicit; state: September 1992, first Saturday.
 
 Model: Observed route and bush proximity; nearest is Harry’s judgment, not a measured comparison with hospital distance.
 
-- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 113, ¶87 (B02-C007-P0087)](../../build/reader/book-02.html#B02-C007-P0087)
-- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 113–114, ¶88 (B02-C007-P0088)](../../build/reader/book-02.html#B02-C007-P0088)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶87 (B02-C007-P0087)](../../build/reader/book-02.html#B02-C007-P0087)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶88 (B02-C007-P0088)](../../build/reader/book-02.html#B02-C007-P0088)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶90 (B02-C007-P0090)](../../build/reader/book-02.html#B02-C007-P0090)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶91 (B02-C007-P0091)](../../build/reader/book-02.html#B02-C007-P0091)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶92 (B02-C007-P0092)](../../build/reader/book-02.html#B02-C007-P0092)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶93 (B02-C007-P0093)](../../build/reader/book-02.html#B02-C007-P0093)
-- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶94 (B02-C007-P0094)](../../build/reader/book-02.html#B02-C007-P0094)
-- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶95 (B02-C007-P0095)](../../build/reader/book-02.html#B02-C007-P0095)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114–115, ¶94 (B02-C007-P0094)](../../build/reader/book-02.html#B02-C007-P0094)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 115, ¶95 (B02-C007-P0095)](../../build/reader/book-02.html#B02-C007-P0095)
 
 ## B02-029: Hagrid’s cabin — corners, table and basin
 
@@ -196,9 +196,9 @@ Model: Adds separate bed/fire corners and table finish; rooster and basin are te
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 115, ¶101 (B02-C007-P0101)](../../build/reader/book-02.html#B02-C007-P0101)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 115, ¶103 (B02-C007-P0103)](../../build/reader/book-02.html#B02-C007-P0103)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 116, ¶107 (B02-C007-P0107)](../../build/reader/book-02.html#B02-C007-P0107)
-- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 117–118, ¶121 (B02-C007-P0121)](../../build/reader/book-02.html#B02-C007-P0121)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 118, ¶121 (B02-C007-P0121)](../../build/reader/book-02.html#B02-C007-P0121)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 118, ¶125 (B02-C007-P0125)](../../build/reader/book-02.html#B02-C007-P0125)
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 251, ¶1 (B02-C014-P0001)](../../build/reader/book-02.html#B02-C014-P0001)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 251–252, ¶1 (B02-C014-P0001)](../../build/reader/book-02.html#B02-C014-P0001)
 
 ## B02-030: Hagrid’s rear vegetable patch
 
@@ -242,16 +242,16 @@ Model: Ceiling height is relative to Hagrid, not a numeric measurement; basket a
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 262, ¶100 (B02-C014-P0100)](../../build/reader/book-02.html#B02-C014-P0100)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 262, ¶101 (B02-C014-P0101)](../../build/reader/book-02.html#B02-C014-P0101)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 262, ¶102 (B02-C014-P0102)](../../build/reader/book-02.html#B02-C014-P0102)
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 262, ¶105 (B02-C014-P0105)](../../build/reader/book-02.html#B02-C014-P0105)
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 262–263, ¶106 (B02-C014-P0106)](../../build/reader/book-02.html#B02-C014-P0106)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 262–263, ¶105 (B02-C014-P0105)](../../build/reader/book-02.html#B02-C014-P0105)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 263, ¶106 (B02-C014-P0106)](../../build/reader/book-02.html#B02-C014-P0106)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 263, ¶112 (B02-C014-P0112)](../../build/reader/book-02.html#B02-C014-P0112)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 264, ¶124 (B02-C014-P0124)](../../build/reader/book-02.html#B02-C014-P0124)
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 264, ¶127 (B02-C014-P0127)](../../build/reader/book-02.html#B02-C014-P0127)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 264–265, ¶127 (B02-C014-P0127)](../../build/reader/book-02.html#B02-C014-P0127)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 265, ¶134 (B02-C014-P0134)](../../build/reader/book-02.html#B02-C014-P0134)
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 265–266, ¶137 (B02-C014-P0137)](../../build/reader/book-02.html#B02-C014-P0137)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 266, ¶137 (B02-C014-P0137)](../../build/reader/book-02.html#B02-C014-P0137)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 266, ¶144 (B02-C014-P0144)](../../build/reader/book-02.html#B02-C014-P0144)
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 266, ¶146 (B02-C014-P0146)](../../build/reader/book-02.html#B02-C014-P0146)
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 266–267, ¶148 (B02-C014-P0148)](../../build/reader/book-02.html#B02-C014-P0148)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 266–267, ¶146 (B02-C014-P0146)](../../build/reader/book-02.html#B02-C014-P0146)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 267, ¶148 (B02-C014-P0148)](../../build/reader/book-02.html#B02-C014-P0148)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 267, ¶149 (B02-C014-P0149)](../../build/reader/book-02.html#B02-C014-P0149)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 267, ¶151 (B02-C014-P0151)](../../build/reader/book-02.html#B02-C014-P0151)
 
@@ -263,7 +263,7 @@ Evidence: explicit; state: Late spring 1993.
 
 Model: Adds mantel storage and specific forest-edge tree; exact distance from cabin to sycamore unknown.
 
-- [Book 2, ch. 15, “Aragog”, ref p. 273–274, ¶58 (B02-C015-P0058)](../../build/reader/book-02.html#B02-C015-P0058)
+- [Book 2, ch. 15, “Aragog”, ref p. 274, ¶58 (B02-C015-P0058)](../../build/reader/book-02.html#B02-C015-P0058)
 - [Book 2, ch. 15, “Aragog”, ref p. 274, ¶59 (B02-C015-P0059)](../../build/reader/book-02.html#B02-C015-P0059)
 - [Book 2, ch. 15, “Aragog”, ref p. 274, ¶60 (B02-C015-P0060)](../../build/reader/book-02.html#B02-C015-P0060)
 - [Book 2, ch. 15, “Aragog”, ref p. 274, ¶61 (B02-C015-P0061)](../../build/reader/book-02.html#B02-C015-P0061)
@@ -1087,7 +1087,7 @@ Model: Grounds creature state; no exact enclosure or position is specified here.
 - [Book 6, ch. 3, “Will and Won’t”, ref p. 57, ¶112 (B06-C003-P0112)](../../build/reader/book-06.html#B06-C003-P0112)
 - [Book 6, ch. 3, “Will and Won’t”, ref p. 57, ¶113 (B06-C003-P0113)](../../build/reader/book-06.html#B06-C003-P0113)
 - [Book 6, ch. 3, “Will and Won’t”, ref p. 57, ¶114 (B06-C003-P0114)](../../build/reader/book-06.html#B06-C003-P0114)
-- [Book 6, ch. 6, “Draco’s Detour”, ref p. 113–114, ¶37 (B06-C006-P0037)](../../build/reader/book-06.html#B06-C006-P0037)
+- [Book 6, ch. 6, “Draco’s Detour”, ref p. 114, ¶37 (B06-C006-P0037)](../../build/reader/book-06.html#B06-C006-P0037)
 
 ## B06-045: Quidditch pitch–Hagrid cabin
 
@@ -1124,9 +1124,9 @@ Evidence: explicit; state: September 1996.
 Model: Relative giant-scale furnishings, material and circulation; avoid inventing exact scale ratios from metaphors.
 
 - [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 237, ¶102 (B06-C011-P0102)](../../build/reader/book-06.html#B06-C011-P0102)
-- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 237–238, ¶106 (B06-C011-P0106)](../../build/reader/book-06.html#B06-C011-P0106)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 238, ¶106 (B06-C011-P0106)](../../build/reader/book-06.html#B06-C011-P0106)
 - [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 238, ¶107 (B06-C011-P0107)](../../build/reader/book-06.html#B06-C011-P0107)
-- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 238, ¶117 (B06-C011-P0117)](../../build/reader/book-06.html#B06-C011-P0117)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 239, ¶117 (B06-C011-P0117)](../../build/reader/book-06.html#B06-C011-P0117)
 
 ## B06-048: Hagrid cabin grub barrel
 
@@ -1138,8 +1138,8 @@ Model: Dated animal-food storage; the barrel’s relationship to a corner and ci
 
 - [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 238, ¶111 (B06-C011-P0111)](../../build/reader/book-06.html#B06-C011-P0111)
 - [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 238, ¶113 (B06-C011-P0113)](../../build/reader/book-06.html#B06-C011-P0113)
-- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 238, ¶115 (B06-C011-P0115)](../../build/reader/book-06.html#B06-C011-P0115)
-- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 238, ¶117 (B06-C011-P0117)](../../build/reader/book-06.html#B06-C011-P0117)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 238–239, ¶115 (B06-C011-P0115)](../../build/reader/book-06.html#B06-C011-P0115)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 239, ¶117 (B06-C011-P0117)](../../build/reader/book-06.html#B06-C011-P0117)
 
 ## B06-065: Vegetable patch–greenhouses route
 
@@ -1170,12 +1170,12 @@ Evidence: explicit; state: Apparition-test day, spring 1997.
 Model: Patch is a detour, with a low stone concealment wall and views towards Forest/cabin; no exact plot boundary or compass orientation supplied.
 
 - [Book 6, ch. 22, “After the Burial”, ref p. 502, ¶108 (B06-C022-P0108)](../../build/reader/book-06.html#B06-C022-P0108)
-- [Book 6, ch. 22, “After the Burial”, ref p. 502–503, ¶111 (B06-C022-P0111)](../../build/reader/book-06.html#B06-C022-P0111)
+- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶111 (B06-C022-P0111)](../../build/reader/book-06.html#B06-C022-P0111)
 - [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶112 (B06-C022-P0112)](../../build/reader/book-06.html#B06-C022-P0112)
-- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶122 (B06-C022-P0122)](../../build/reader/book-06.html#B06-C022-P0122)
+- [Book 6, ch. 22, “After the Burial”, ref p. 504, ¶122 (B06-C022-P0122)](../../build/reader/book-06.html#B06-C022-P0122)
 - [Book 6, ch. 22, “After the Burial”, ref p. 504, ¶124 (B06-C022-P0124)](../../build/reader/book-06.html#B06-C022-P0124)
-- [Book 6, ch. 22, “After the Burial”, ref p. 504, ¶129 (B06-C022-P0129)](../../build/reader/book-06.html#B06-C022-P0129)
-- [Book 6, ch. 22, “After the Burial”, ref p. 504–505, ¶130 (B06-C022-P0130)](../../build/reader/book-06.html#B06-C022-P0130)
+- [Book 6, ch. 22, “After the Burial”, ref p. 504–505, ¶129 (B06-C022-P0129)](../../build/reader/book-06.html#B06-C022-P0129)
+- [Book 6, ch. 22, “After the Burial”, ref p. 505, ¶130 (B06-C022-P0130)](../../build/reader/book-06.html#B06-C022-P0130)
 
 ## B06-139: Hagrid rear window and back garden
 
@@ -1185,9 +1185,9 @@ Evidence: explicit; state: Apparition-test day, spring 1997.
 
 Model: Front/rear distinction, window view and patch-to-grave relationship. No extra rear door is explicitly described despite the group stepping out into the back garden.
 
-- [Book 6, ch. 22, “After the Burial”, ref p. 506, ¶143 (B06-C022-P0143)](../../build/reader/book-06.html#B06-C022-P0143)
-- [Book 6, ch. 22, “After the Burial”, ref p. 506, ¶144 (B06-C022-P0144)](../../build/reader/book-06.html#B06-C022-P0144)
-- [Book 6, ch. 22, “After the Burial”, ref p. 506–507, ¶145 (B06-C022-P0145)](../../build/reader/book-06.html#B06-C022-P0145)
+- [Book 6, ch. 22, “After the Burial”, ref p. 506–507, ¶143 (B06-C022-P0143)](../../build/reader/book-06.html#B06-C022-P0143)
+- [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶144 (B06-C022-P0144)](../../build/reader/book-06.html#B06-C022-P0144)
+- [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶145 (B06-C022-P0145)](../../build/reader/book-06.html#B06-C022-P0145)
 - [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶150 (B06-C022-P0150)](../../build/reader/book-06.html#B06-C022-P0150)
 - [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶151 (B06-C022-P0151)](../../build/reader/book-06.html#B06-C022-P0151)
 
@@ -1199,9 +1199,9 @@ Evidence: explicit; state: Apparition-test day, spring 1997.
 
 Model: Garden feature adjacent to burial activity without precise spacing.
 
-- [Book 6, ch. 22, “After the Burial”, ref p. 508, ¶157 (B06-C022-P0157)](../../build/reader/book-06.html#B06-C022-P0157)
-- [Book 6, ch. 22, “After the Burial”, ref p. 508, ¶158 (B06-C022-P0158)](../../build/reader/book-06.html#B06-C022-P0158)
-- [Book 6, ch. 22, “After the Burial”, ref p. 508–509, ¶159 (B06-C022-P0159)](../../build/reader/book-06.html#B06-C022-P0159)
+- [Book 6, ch. 22, “After the Burial”, ref p. 508–509, ¶157 (B06-C022-P0157)](../../build/reader/book-06.html#B06-C022-P0157)
+- [Book 6, ch. 22, “After the Burial”, ref p. 509, ¶158 (B06-C022-P0158)](../../build/reader/book-06.html#B06-C022-P0158)
+- [Book 6, ch. 22, “After the Burial”, ref p. 509, ¶159 (B06-C022-P0159)](../../build/reader/book-06.html#B06-C022-P0159)
 
 ## B06-142: Hagrid cabin dog basket and candle
 
@@ -1214,13 +1214,13 @@ Model: Additional dog furniture, table arrangement and candle lighting; wine bot
 - [Book 6, ch. 22, “After the Burial”, ref p. 509, ¶160 (B06-C022-P0160)](../../build/reader/book-06.html#B06-C022-P0160)
 - [Book 6, ch. 22, “After the Burial”, ref p. 509, ¶161 (B06-C022-P0161)](../../build/reader/book-06.html#B06-C022-P0161)
 - [Book 6, ch. 22, “After the Burial”, ref p. 509, ¶163 (B06-C022-P0163)](../../build/reader/book-06.html#B06-C022-P0163)
-- [Book 6, ch. 22, “After the Burial”, ref p. 509, ¶165 (B06-C022-P0165)](../../build/reader/book-06.html#B06-C022-P0165)
+- [Book 6, ch. 22, “After the Burial”, ref p. 509–510, ¶165 (B06-C022-P0165)](../../build/reader/book-06.html#B06-C022-P0165)
 - [Book 6, ch. 22, “After the Burial”, ref p. 511, ¶175 (B06-C022-P0175)](../../build/reader/book-06.html#B06-C022-P0175)
-- [Book 6, ch. 22, “After the Burial”, ref p. 511, ¶180 (B06-C022-P0180)](../../build/reader/book-06.html#B06-C022-P0180)
+- [Book 6, ch. 22, “After the Burial”, ref p. 511–512, ¶180 (B06-C022-P0180)](../../build/reader/book-06.html#B06-C022-P0180)
 - [Book 6, ch. 22, “After the Burial”, ref p. 512, ¶189 (B06-C022-P0189)](../../build/reader/book-06.html#B06-C022-P0189)
-- [Book 6, ch. 22, “After the Burial”, ref p. 512, ¶195 (B06-C022-P0195)](../../build/reader/book-06.html#B06-C022-P0195)
-- [Book 6, ch. 22, “After the Burial”, ref p. 513, ¶206 (B06-C022-P0206)](../../build/reader/book-06.html#B06-C022-P0206)
-- [Book 6, ch. 22, “After the Burial”, ref p. 514–515, ¶223 (B06-C022-P0223)](../../build/reader/book-06.html#B06-C022-P0223)
+- [Book 6, ch. 22, “After the Burial”, ref p. 512–513, ¶195 (B06-C022-P0195)](../../build/reader/book-06.html#B06-C022-P0195)
+- [Book 6, ch. 22, “After the Burial”, ref p. 514, ¶206 (B06-C022-P0206)](../../build/reader/book-06.html#B06-C022-P0206)
+- [Book 6, ch. 22, “After the Burial”, ref p. 515, ¶223 (B06-C022-P0223)](../../build/reader/book-06.html#B06-C022-P0223)
 
 ## B06-144: Hagrid’s school cupboard for young Aragog
 
@@ -1230,7 +1230,7 @@ Evidence: reported; state: Hagrid’s student years, recalled spring 1997.
 
 Model: Historical animal-hiding cupboard only; exact room, floor, size and survival are unspecified.
 
-- [Book 6, ch. 22, “After the Burial”, ref p. 509–510, ¶166 (B06-C022-P0166)](../../build/reader/book-06.html#B06-C022-P0166)
+- [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶166 (B06-C022-P0166)](../../build/reader/book-06.html#B06-C022-P0166)
 - [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶168 (B06-C022-P0168)](../../build/reader/book-06.html#B06-C022-P0168)
 - [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶169 (B06-C022-P0169)](../../build/reader/book-06.html#B06-C022-P0169)
 
@@ -1259,19 +1259,19 @@ Evidence: explicit; state: Night of tower attack, June 1997.
 
 Model: Dated major cabin damage, not demonstrated total destruction or reconstruction. Hagrid believes injured Bowtruckles inside have burned; their fate is not inspected. No proof all previous fixtures survive.
 
-- [Book 6, ch. 28, “Flight of the Prince”, ref p. 634, ¶32 (B06-C028-P0032)](../../build/reader/book-06.html#B06-C028-P0032)
-- [Book 6, ch. 28, “Flight of the Prince”, ref p. 634, ¶33 (B06-C028-P0033)](../../build/reader/book-06.html#B06-C028-P0033)
-- [Book 6, ch. 28, “Flight of the Prince”, ref p. 634–635, ¶34 (B06-C028-P0034)](../../build/reader/book-06.html#B06-C028-P0034)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 634–635, ¶32 (B06-C028-P0032)](../../build/reader/book-06.html#B06-C028-P0032)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 635, ¶33 (B06-C028-P0033)](../../build/reader/book-06.html#B06-C028-P0033)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 635, ¶34 (B06-C028-P0034)](../../build/reader/book-06.html#B06-C028-P0034)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 635, ¶35 (B06-C028-P0035)](../../build/reader/book-06.html#B06-C028-P0035)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 636, ¶46 (B06-C028-P0046)](../../build/reader/book-06.html#B06-C028-P0046)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 636, ¶47 (B06-C028-P0047)](../../build/reader/book-06.html#B06-C028-P0047)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 637, ¶51 (B06-C028-P0051)](../../build/reader/book-06.html#B06-C028-P0051)
-- [Book 6, ch. 28, “Flight of the Prince”, ref p. 637–638, ¶55 (B06-C028-P0055)](../../build/reader/book-06.html#B06-C028-P0055)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 638, ¶55 (B06-C028-P0055)](../../build/reader/book-06.html#B06-C028-P0055)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 638, ¶57 (B06-C028-P0057)](../../build/reader/book-06.html#B06-C028-P0057)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 638, ¶61 (B06-C028-P0061)](../../build/reader/book-06.html#B06-C028-P0061)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 638, ¶62 (B06-C028-P0062)](../../build/reader/book-06.html#B06-C028-P0062)
-- [Book 6, ch. 28, “Flight of the Prince”, ref p. 638, ¶63 (B06-C028-P0063)](../../build/reader/book-06.html#B06-C028-P0063)
-- [Book 6, ch. 28, “Flight of the Prince”, ref p. 638–639, ¶64 (B06-C028-P0064)](../../build/reader/book-06.html#B06-C028-P0064)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 638–639, ¶63 (B06-C028-P0063)](../../build/reader/book-06.html#B06-C028-P0063)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 639, ¶64 (B06-C028-P0064)](../../build/reader/book-06.html#B06-C028-P0064)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 639, ¶67 (B06-C028-P0067)](../../build/reader/book-06.html#B06-C028-P0067)
 
 ## B07-003: Hagrid front garden burial recollection
@@ -1306,7 +1306,20 @@ Evidence: reported; state: March 1998 broadcast about events within the previous
 
 Model: Evidence for an inhabited Hagrid house after the previous book’s fire, without a stated reconstruction or a guarantee it is the same building. The party is explicitly a rumour; Grawp’s assistance is suggested rather than witnessed.
 
-- [Book 7, ch. 22, “The Deathly Hallows”, ref p. 468, ¶163 (B07-C022-P0163)](../../build/reader/book-07.html#B07-C022-P0163)
-- [Book 7, ch. 22, “The Deathly Hallows”, ref p. 468–469, ¶164 (B07-C022-P0164)](../../build/reader/book-07.html#B07-C022-P0164)
+- [Book 7, ch. 22, “The Deathly Hallows”, ref p. 468–469, ¶163 (B07-C022-P0163)](../../build/reader/book-07.html#B07-C022-P0163)
+- [Book 7, ch. 22, “The Deathly Hallows”, ref p. 469, ¶164 (B07-C022-P0164)](../../build/reader/book-07.html#B07-C022-P0164)
 - [Book 7, ch. 22, “The Deathly Hallows”, ref p. 469, ¶165 (B07-C022-P0165)](../../build/reader/book-07.html#B07-C022-P0165)
 
+## B07-118: Front grounds → Hagrid’s hut → Forbidden Forest edge
+
+Continuing away from the castle, Harry passes Hagrid’s hut, dark and silent, then reaches the Forest edge. The hut recalls a copper kettle shining on the fire, rock cakes and giant grubs from earlier visits.
+
+Evidence: explicit; state: May 1998, near four in the morning during the ceasefire.
+
+Model: Confirms the hut is standing during this battle after book 6’s fire, without supplying the rebuilding history or exact distance from castle/Forest.
+
+- [Book 7, ch. 34, “The Forest Again”, ref p. 737–738, ¶39 (B07-C034-P0039)](../../build/reader/book-07.html#B07-C034-P0039)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 738, ¶46 (B07-C034-P0046)](../../build/reader/book-07.html#B07-C034-P0046)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 738–739, ¶47 (B07-C034-P0047)](../../build/reader/book-07.html#B07-C034-P0047)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 739, ¶48 (B07-C034-P0048)](../../build/reader/book-07.html#B07-C034-P0048)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 739, ¶49 (B07-C034-P0049)](../../build/reader/book-07.html#B07-C034-P0049)

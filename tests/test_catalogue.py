@@ -78,6 +78,21 @@ class CatalogueTests(unittest.TestCase):
         errors, _ = catalogue.validate(corpus, [record])
         self.assertEqual(len(errors), 2)
 
+    def test_nonparagraph_text_needs_its_own_review(self):
+        corpus, record = fixture()
+        extra = {**corpus["books"][0]["chapters"][0]["paragraphs"][1],
+                 "id": "B01-C001-X0001", "paragraph": None, "source_order": 3, "is_extra": True}
+        corpus["books"][0]["chapters"][0]["extra_blocks"] = [extra]
+        errors, coverage = catalogue.validate(corpus, [record])
+        self.assertEqual(errors, [])
+        self.assertFalse(coverage["complete"])
+        self.assertEqual(coverage["additional_text_blocks"], 1)
+        record["extra_reviews"] = [{"id": extra["id"], "method": "full-text review", "notes": "Read the extra cell."}]
+        errors, coverage = catalogue.validate(corpus, [record])
+        self.assertEqual(errors, [])
+        self.assertTrue(coverage["complete"])
+        self.assertIn("extra fragment 1", catalogue.citation({**extra, "book":1, "chapter":1, "chapter_title":"Arrival", "is_epilogue":False}))
+
     def test_compiled_citation_and_reader_word_boundaries(self):
         corpus, record = fixture()
         errors, coverage = catalogue.validate(corpus, [record])

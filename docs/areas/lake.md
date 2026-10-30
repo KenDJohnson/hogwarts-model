@@ -708,7 +708,7 @@ Model: Explicit ceremonial approach from main entrance; no underground or altern
 - [Book 6, ch. 30, “The White Tomb”, ref p. 674, ¶46 (B06-C030-P0046)](../../build/reader/book-06.html#B06-C030-P0046)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 674, ¶47 (B06-C030-P0047)](../../build/reader/book-06.html#B06-C030-P0047)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 674–675, ¶48 (B06-C030-P0048)](../../build/reader/book-06.html#B06-C030-P0048)
-- [Book 6, ch. 30, “The White Tomb”, ref p. 675–676, ¶50 (B06-C030-P0050)](../../build/reader/book-06.html#B06-C030-P0050)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 676, ¶50 (B06-C030-P0050)](../../build/reader/book-06.html#B06-C030-P0050)
 
 ## B06-206: Lakeside funeral chair layout
 
@@ -719,13 +719,13 @@ Evidence: explicit; state: Dumbledore funeral, June 1997.
 Model: Temporary ceremony plan and lake adjacency; no exact row/chair count. Body is wrapped in purple velvet with golden stars; Hagrid’s chair legs sink into the ground when Grawp pats him.
 
 - [Book 6, ch. 30, “The White Tomb”, ref p. 674–675, ¶48 (B06-C030-P0048)](../../build/reader/book-06.html#B06-C030-P0048)
-- [Book 6, ch. 30, “The White Tomb”, ref p. 675, ¶49 (B06-C030-P0049)](../../build/reader/book-06.html#B06-C030-P0049)
-- [Book 6, ch. 30, “The White Tomb”, ref p. 675–676, ¶50 (B06-C030-P0050)](../../build/reader/book-06.html#B06-C030-P0050)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 675–676, ¶49 (B06-C030-P0049)](../../build/reader/book-06.html#B06-C030-P0049)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 676, ¶50 (B06-C030-P0050)](../../build/reader/book-06.html#B06-C030-P0050)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 676, ¶51 (B06-C030-P0051)](../../build/reader/book-06.html#B06-C030-P0051)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 676–677, ¶52 (B06-C030-P0052)](../../build/reader/book-06.html#B06-C030-P0052)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 677, ¶55 (B06-C030-P0055)](../../build/reader/book-06.html#B06-C030-P0055)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 677–678, ¶56 (B06-C030-P0056)](../../build/reader/book-06.html#B06-C030-P0056)
-- [Book 6, ch. 30, “The White Tomb”, ref p. 678, ¶57 (B06-C030-P0057)](../../build/reader/book-06.html#B06-C030-P0057)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 678–679, ¶57 (B06-C030-P0057)](../../build/reader/book-06.html#B06-C030-P0057)
 
 ## B06-208: Merpeople funeral chorus by shore
 
@@ -737,8 +737,8 @@ Model: Underwater near-surface appearance and access to shore; no lake-bottom te
 
 - [Book 6, ch. 30, “The White Tomb”, ref p. 677, ¶53 (B06-C030-P0053)](../../build/reader/book-06.html#B06-C030-P0053)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 677, ¶54 (B06-C030-P0054)](../../build/reader/book-06.html#B06-C030-P0054)
-- [Book 6, ch. 30, “The White Tomb”, ref p. 678–679, ¶58 (B06-C030-P0058)](../../build/reader/book-06.html#B06-C030-P0058)
-- [Book 6, ch. 30, “The White Tomb”, ref p. 680–681, ¶63 (B06-C030-P0063)](../../build/reader/book-06.html#B06-C030-P0063)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 679, ¶58 (B06-C030-P0058)](../../build/reader/book-06.html#B06-C030-P0058)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 681, ¶63 (B06-C030-P0063)](../../build/reader/book-06.html#B06-C030-P0063)
 
 ## B06-210: White marble tomb formation
 
@@ -751,7 +751,7 @@ Model: Permanent tomb formed during a dated magical event. No exact dimensions, 
 - [Book 6, ch. 30, “The White Tomb”, ref p. 677, ¶55 (B06-C030-P0055)](../../build/reader/book-06.html#B06-C030-P0055)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 677–678, ¶56 (B06-C030-P0056)](../../build/reader/book-06.html#B06-C030-P0056)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 680, ¶61 (B06-C030-P0061)](../../build/reader/book-06.html#B06-C030-P0061)
-- [Book 6, ch. 30, “The White Tomb”, ref p. 680, ¶62 (B06-C030-P0062)](../../build/reader/book-06.html#B06-C030-P0062)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 680–681, ¶62 (B06-C030-P0062)](../../build/reader/book-06.html#B06-C030-P0062)
 
 ## B06-209: Funeral view across lake to centaur woods
 
@@ -761,8 +761,8 @@ Evidence: explicit; state: Dumbledore funeral, June 1997.
 
 Model: Lake–Forest sightline and shaded tree edge; no measured arrow range, village or centaur settlement.
 
-- [Book 6, ch. 30, “The White Tomb”, ref p. 679, ¶59 (B06-C030-P0059)](../../build/reader/book-06.html#B06-C030-P0059)
-- [Book 6, ch. 30, “The White Tomb”, ref p. 680–681, ¶63 (B06-C030-P0063)](../../build/reader/book-06.html#B06-C030-P0063)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 679–680, ¶59 (B06-C030-P0059)](../../build/reader/book-06.html#B06-C030-P0059)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 681, ¶63 (B06-C030-P0063)](../../build/reader/book-06.html#B06-C030-P0063)
 
 ## B06-211: Tomb–lake bank–beech tree route
 
@@ -772,12 +772,12 @@ Evidence: explicit; state: Dumbledore funeral, June 1997.
 
 Model: Critical relative placement across water after a shore walk. Avoid assigning a compass shore or assuming a straight path; bird song and Hagrid’s later howls carry across the water.
 
-- [Book 6, ch. 30, “The White Tomb”, ref p. 682–683, ¶76 (B06-C030-P0076)](../../build/reader/book-06.html#B06-C030-P0076)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 683, ¶76 (B06-C030-P0076)](../../build/reader/book-06.html#B06-C030-P0076)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 683, ¶78 (B06-C030-P0078)](../../build/reader/book-06.html#B06-C030-P0078)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 683, ¶80 (B06-C030-P0080)](../../build/reader/book-06.html#B06-C030-P0080)
-- [Book 6, ch. 30, “The White Tomb”, ref p. 683, ¶85 (B06-C030-P0085)](../../build/reader/book-06.html#B06-C030-P0085)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 684, ¶85 (B06-C030-P0085)](../../build/reader/book-06.html#B06-C030-P0085)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 685, ¶106 (B06-C030-P0106)](../../build/reader/book-06.html#B06-C030-P0106)
-- [Book 6, ch. 30, “The White Tomb”, ref p. 685, ¶112 (B06-C030-P0112)](../../build/reader/book-06.html#B06-C030-P0112)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 686, ¶112 (B06-C030-P0112)](../../build/reader/book-06.html#B06-C030-P0112)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 686–687, ¶121 (B06-C030-P0121)](../../build/reader/book-06.html#B06-C030-P0121)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 687, ¶122 (B06-C030-P0122)](../../build/reader/book-06.html#B06-C030-P0122)
 
@@ -828,3 +828,40 @@ Model: Dated open/broken state, not the intact funeral model. No lid thickness, 
 - [Book 7, ch. 24, “The Wandmaker”, ref p. 530, ¶254 (B07-C024-P0254)](../../build/reader/book-07.html#B07-C024-P0254)
 - [Book 7, ch. 24, “The Wandmaker”, ref p. 530–531, ¶255 (B07-C024-P0255)](../../build/reader/book-07.html#B07-C024-P0255)
 
+## B07-095: Lake / Forbidden Forest during battle
+
+While running to the Willow, Harry hears the lake crashing like the sea and the Forbidden Forest creaking despite a windless night, as though the grounds themselves are in rebellion.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts.
+
+Model: Dated magical or battle disturbance; no ordinary-weather explanation or permanent rough-lake condition implied.
+
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 689, ¶103 (B07-C032-P0103)](../../build/reader/book-07.html#B07-C032-P0103)
+
+## B07-110: Great Hall → grounds beech tree
+
+After his Defence O.W.L. in the Great Hall, Snape walks away from the castle and inadvertently nears a beech tree under which James, Sirius, Lupin and Pettigrew sit.
+
+Evidence: explicit; state: Fifth-year O.W.L. period, 1976 memory.
+
+Model: Tree species and exam-to-grounds sequence; no lake relationship is stated in this paragraph.
+
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 715, ¶177 (B07-C033-P0177)](../../build/reader/book-07.html#B07-C033-P0177)
+
+## B07-135: Forbidden Forest / lost Stone and proposed tomb return
+
+Harry tells Dumbledore’s portrait that he dropped the Stone in the Forest and does not know exactly where. He intends to leave it unsearched, and to put the Elder Wand back where it came from.
+
+Evidence: reported; state: May 1998, post-battle plans.
+
+Model: Location discussion after the battle does not depict a completed return of the wand or a repaired tomb. Earlier chapters identify the wand’s source as Dumbledore’s tomb.
+
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 794, ¶179 (B07-C036-P0179)](../../build/reader/book-07.html#B07-C036-P0179)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 794, ¶180 (B07-C036-P0180)](../../build/reader/book-07.html#B07-C036-P0180)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 794, ¶181 (B07-C036-P0181)](../../build/reader/book-07.html#B07-C036-P0181)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 795, ¶185 (B07-C036-P0185)](../../build/reader/book-07.html#B07-C036-P0185)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 795, ¶186 (B07-C036-P0186)](../../build/reader/book-07.html#B07-C036-P0186)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 795, ¶192 (B07-C036-P0192)](../../build/reader/book-07.html#B07-C036-P0192)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 795, ¶193 (B07-C036-P0193)](../../build/reader/book-07.html#B07-C036-P0193)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 795–796, ¶194 (B07-C036-P0194)](../../build/reader/book-07.html#B07-C036-P0194)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 796, ¶195 (B07-C036-P0195)](../../build/reader/book-07.html#B07-C036-P0195)

@@ -169,8 +169,8 @@ Model: Upstairs library route, front-door stadium route; voice location/mechanis
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶55 (B02-C014-P0055)](../../build/reader/book-02.html#B02-C014-P0055)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶59 (B02-C014-P0059)](../../build/reader/book-02.html#B02-C014-P0059)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶60 (B02-C014-P0060)](../../build/reader/book-02.html#B02-C014-P0060)
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶61 (B02-C014-P0061)](../../build/reader/book-02.html#B02-C014-P0061)
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257–258, ¶62 (B02-C014-P0062)](../../build/reader/book-02.html#B02-C014-P0062)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257–258, ¶61 (B02-C014-P0061)](../../build/reader/book-02.html#B02-C014-P0061)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 258, ¶62 (B02-C014-P0062)](../../build/reader/book-02.html#B02-C014-P0062)
 
 ## B02-111: Hospital wing — adjacent beds and library attack report
 
@@ -311,7 +311,7 @@ Model: Shelf/table relationship, local concealment, portable lighting and use co
 - [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 317, ¶8 (B06-C015-P0008)](../../build/reader/book-06.html#B06-C015-P0008)
 - [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 317, ¶9 (B06-C015-P0009)](../../build/reader/book-06.html#B06-C015-P0009)
 - [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 317, ¶10 (B06-C015-P0010)](../../build/reader/book-06.html#B06-C015-P0010)
-- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 318–319, ¶18 (B06-C015-P0018)](../../build/reader/book-06.html#B06-C015-P0018)
+- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 319, ¶18 (B06-C015-P0018)](../../build/reader/book-06.html#B06-C015-P0018)
 - [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 320, ¶32 (B06-C015-P0032)](../../build/reader/book-06.html#B06-C015-P0032)
 - [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 320, ¶33 (B06-C015-P0033)](../../build/reader/book-06.html#B06-C015-P0033)
 - [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 320, ¶34 (B06-C015-P0034)](../../build/reader/book-06.html#B06-C015-P0034)
@@ -337,10 +337,10 @@ Evidence: reported; state: Early June 1997.
 
 Model: Archival collection, not evidence of where within the library it is shelved; proposed Potions-award search is not confirmation of a physical display.
 
-- [Book 6, ch. 25, “The Seer Overheard”, ref p. 565, ¶23 (B06-C025-P0023)](../../build/reader/book-06.html#B06-C025-P0023)
-- [Book 6, ch. 25, “The Seer Overheard”, ref p. 565–566, ¶24 (B06-C025-P0024)](../../build/reader/book-06.html#B06-C025-P0024)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 565–566, ¶23 (B06-C025-P0023)](../../build/reader/book-06.html#B06-C025-P0023)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 566, ¶24 (B06-C025-P0024)](../../build/reader/book-06.html#B06-C025-P0024)
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 566, ¶25 (B06-C025-P0025)](../../build/reader/book-06.html#B06-C025-P0025)
-- [Book 6, ch. 25, “The Seer Overheard”, ref p. 566–567, ¶36 (B06-C025-P0036)](../../build/reader/book-06.html#B06-C025-P0036)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 567, ¶36 (B06-C025-P0036)](../../build/reader/book-06.html#B06-C025-P0036)
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 567, ¶37 (B06-C025-P0037)](../../build/reader/book-06.html#B06-C025-P0037)
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 567, ¶39 (B06-C025-P0039)](../../build/reader/book-06.html#B06-C025-P0039)
 
@@ -368,4 +368,3 @@ Evidence: reported; state: 31 July 1997.
 Model: Disposition supports continued school ownership of the collection; no physical relocation or exact posthumous room arrangement is shown here.
 
 - [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 129, ¶148 (B07-C007-P0148)](../../build/reader/book-07.html#B07-C007-P0148)
-

@@ -112,6 +112,264 @@
       ]
     },
     {
+      "book": 2,
+      "catalogue_entries_at_audit": 163,
+      "candidates_inspected": [
+        {
+          "id": "B02-C016-P0134",
+          "score": 12,
+          "disposition": "supplemented",
+          "reason": "Added the explicitly crowded and quiet Tower state to B02-135."
+        },
+        {
+          "id": "B02-C010-P0044",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Existing long Gryffindor table and a breakfast gathering, no new spatial fixture."
+        },
+        {
+          "id": "B02-C014-P0001",
+          "score": 10,
+          "disposition": "supplemented",
+          "reason": "Added the retrospective small wooden cabin description to B02-029."
+        },
+        {
+          "id": "B02-C004-P0004",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C003-P0173",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C004-P0067",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C001-P0067",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Recollection of Voldemort and injuries, no new environmental description."
+        },
+        {
+          "id": "B02-C001-P0085",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C001-P0092",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C002-P0116",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C004-P0150",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C011-P0025",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Carried/personal protective items traded by pupils, not an architectural fixture."
+        },
+        {
+          "id": "B02-C003-P0029",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C003-P0111",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C003-P0120",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C004-P0001",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C005-P0002",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Burrow meal and fireworks, outside the Hogwarts grounds."
+        },
+        {
+          "id": "B02-C002-P0006",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C002-P0084",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C003-P0037",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C011-P0162",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Collision with Hagrid, not a fixture or structural obstacle."
+        }
+      ]
+    },
+    {
+      "book": 3,
+      "catalogue_entries_at_audit": 165,
+      "candidates_inspected": [
+        {
+          "id": "B03-C012-P0112",
+          "score": 12,
+          "disposition": "supplemented",
+          "reason": "Added B03-166 to preserve the recurrent corner study setup and its books/charts/papers."
+        },
+        {
+          "id": "B03-C015-P0101",
+          "score": 12,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Inter-house tension and injuries, no new room geometry or environmental installation."
+        },
+        {
+          "id": "B03-C005-P0113",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Character descriptions and team roles, not environmental features."
+        },
+        {
+          "id": "B03-C013-P0044",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "A carried broom displayed on an existing house table, no new fixture."
+        },
+        {
+          "id": "B03-C015-P0129",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Applause and hissing from existing house tables, no new room layout."
+        },
+        {
+          "id": "B03-C004-P0005",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        },
+        {
+          "id": "B03-C014-P0061",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Existing Hall-to-marble-stair route, with no new fixed viewpoint or intermediate space."
+        },
+        {
+          "id": "B03-C001-P0007",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        },
+        {
+          "id": "B03-C004-P0035",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        },
+        {
+          "id": "B03-C003-P0041",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        },
+        {
+          "id": "B03-C005-P0007",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        },
+        {
+          "id": "B03-C002-P0001",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        },
+        {
+          "id": "B03-C002-P0016",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        },
+        {
+          "id": "B03-C002-P0128",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        },
+        {
+          "id": "B03-C005-P0258",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Character applause at existing table, no new spatial detail."
+        },
+        {
+          "id": "B03-C006-P0226",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Conversation at existing Slytherin table, no new environmental feature."
+        },
+        {
+          "id": "B03-C021-P0238",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Recounted Patronus crossing; direct lake sightline and Patronus observations already catalogued."
+        },
+        {
+          "id": "B03-C002-P0051",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        },
+        {
+          "id": "B03-C002-P0067",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        },
+        {
+          "id": "B03-C003-P0162",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
+        }
+      ]
+    },
+    {
       "book": 4,
       "catalogue_entries_at_audit": 243,
       "candidates_inspected": [
@@ -414,456 +672,6 @@
           "score": 4,
           "disposition": "exclude_or_already_represented",
           "reason": "Existing bed and dormitory with character reflection, no new spatial fact."
-        }
-      ]
-    },
-    {
-      "book": 2,
-      "catalogue_entries_at_audit": 163,
-      "candidates_inspected": [
-        {
-          "id": "B02-C016-P0134",
-          "score": 12,
-          "disposition": "supplemented",
-          "reason": "Added the explicitly crowded and quiet Tower state to B02-135."
-        },
-        {
-          "id": "B02-C010-P0044",
-          "score": 10,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Existing long Gryffindor table and a breakfast gathering, no new spatial fixture."
-        },
-        {
-          "id": "B02-C014-P0001",
-          "score": 10,
-          "disposition": "supplemented",
-          "reason": "Added the retrospective small wooden cabin description to B02-029."
-        },
-        {
-          "id": "B02-C004-P0004",
-          "score": 9,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
-        },
-        {
-          "id": "B02-C003-P0173",
-          "score": 8,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
-        },
-        {
-          "id": "B02-C004-P0067",
-          "score": 8,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
-        },
-        {
-          "id": "B02-C001-P0067",
-          "score": 6,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Recollection of Voldemort and injuries, no new environmental description."
-        },
-        {
-          "id": "B02-C001-P0085",
-          "score": 6,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
-        },
-        {
-          "id": "B02-C001-P0092",
-          "score": 6,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
-        },
-        {
-          "id": "B02-C002-P0116",
-          "score": 6,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
-        },
-        {
-          "id": "B02-C004-P0150",
-          "score": 6,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
-        },
-        {
-          "id": "B02-C011-P0025",
-          "score": 6,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Carried/personal protective items traded by pupils, not an architectural fixture."
-        },
-        {
-          "id": "B02-C003-P0029",
-          "score": 5,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
-        },
-        {
-          "id": "B02-C003-P0111",
-          "score": 5,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
-        },
-        {
-          "id": "B02-C003-P0120",
-          "score": 5,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
-        },
-        {
-          "id": "B02-C004-P0001",
-          "score": 5,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
-        },
-        {
-          "id": "B02-C005-P0002",
-          "score": 5,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Burrow meal and fireworks, outside the Hogwarts grounds."
-        },
-        {
-          "id": "B02-C002-P0006",
-          "score": 4,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
-        },
-        {
-          "id": "B02-C002-P0084",
-          "score": 4,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
-        },
-        {
-          "id": "B02-C003-P0037",
-          "score": 4,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
-        },
-        {
-          "id": "B02-C011-P0162",
-          "score": 4,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Collision with Hagrid, not a fixture or structural obstacle."
-        }
-      ]
-    },
-    {
-      "book": 6,
-      "catalogue_entries_at_audit": 212,
-      "candidates_inspected": [
-        {
-          "id": "B06-C024-P0057",
-          "score": 13,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Quidditch standings and bottom-of-table idiom, not physical dimensions or a table fixture."
-        },
-        {
-          "id": "B06-C026-P0015",
-          "score": 12,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Coastal Horcrux cave and its lake, not the Hogwarts lake or underground harbour."
-        },
-        {
-          "id": "B06-C007-P0143",
-          "score": 11,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Slug Club seating in a train compartment, outside castle/grounds; adds no approach geometry."
-        },
-        {
-          "id": "B06-C026-P0044",
-          "score": 11,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Coastal Horcrux cave and its lake, not the Hogwarts lake or underground harbour."
-        },
-        {
-          "id": "B06-C011-P0138",
-          "score": 10,
-          "disposition": "exclude_or_already_represented",
-          "reason": "A meal smell and character interruption on an existing Great Hall route; no new fixture or layout."
-        },
-        {
-          "id": "B06-C030-P0017",
-          "score": 10,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Dark winding path is a metaphor for the Horcrux search, not a landscape route."
-        },
-        {
-          "id": "B06-C010-P0094",
-          "score": 9,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Gaunt house in a memory, outside Hogwarts."
-        },
-        {
-          "id": "B06-C002-P0040",
-          "score": 8,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
-        },
-        {
-          "id": "B06-C006-P0101",
-          "score": 8,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
-        },
-        {
-          "id": "B06-C024-P0128",
-          "score": 8,
-          "disposition": "supplemented",
-          "reason": "Added the qualified report of Myrtle’s castle-bathroom movement to B06-130."
-        },
-        {
-          "id": "B06-C030-P0044",
-          "score": 8,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Characters seated at an existing Slytherin table; no new environmental feature."
-        },
-        {
-          "id": "B06-C003-P0044",
-          "score": 7,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
-        },
-        {
-          "id": "B06-C019-P0056",
-          "score": 7,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Conversation with a precautionary ceiling glance; no new measured height or fixture."
-        },
-        {
-          "id": "B06-C026-P0046",
-          "score": 7,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Coastal Horcrux cave and its lake, not the Hogwarts lake or underground harbour."
-        },
-        {
-          "id": "B06-C001-P0042",
-          "score": 6,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
-        },
-        {
-          "id": "B06-C003-P0053",
-          "score": 6,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
-        },
-        {
-          "id": "B06-C005-P0001",
-          "score": 6,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
-        },
-        {
-          "id": "B06-C006-P0036",
-          "score": 6,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
-        },
-        {
-          "id": "B06-C013-P0103",
-          "score": 6,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Orphanage corridor in a memory, outside Hogwarts."
-        },
-        {
-          "id": "B06-C016-P0130",
-          "score": 6,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
-        },
-        {
-          "id": "B06-C024-P0059",
-          "score": 6,
-          "disposition": "supplemented",
-          "reason": "Added explicit evidence of later continued access denial to B06-126."
-        },
-        {
-          "id": "B06-C028-P0092",
-          "score": 6,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Carried locket’s portrait space, not an architectural room or display."
-        },
-        {
-          "id": "B06-C004-P0062",
-          "score": 4,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
-        },
-        {
-          "id": "B06-C004-P0067",
-          "score": 4,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
-        },
-        {
-          "id": "B06-C004-P0237",
-          "score": 4,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
-        },
-        {
-          "id": "B06-C005-P0229",
-          "score": 4,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
-        },
-        {
-          "id": "B06-C005-P0236",
-          "score": 4,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
-        },
-        {
-          "id": "B06-C006-P0031",
-          "score": 4,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
-        },
-        {
-          "id": "B06-C014-P0086",
-          "score": 4,
-          "disposition": "exclude_or_already_represented",
-          "reason": "An imagined encounter in an already described corridor, not an observed changed state."
-        },
-        {
-          "id": "B06-C014-P0095",
-          "score": 4,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Character emotions and ordinary dormitory route, no new spatial feature."
-        },
-        {
-          "id": "B06-C027-P0035",
-          "score": 4,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Character fears during an already described return flight, no additional site fact."
-        }
-      ]
-    },
-    {
-      "book": 3,
-      "catalogue_entries_at_audit": 165,
-      "candidates_inspected": [
-        {
-          "id": "B03-C012-P0112",
-          "score": 12,
-          "disposition": "supplemented",
-          "reason": "Added B03-166 to preserve the recurrent corner study setup and its books/charts/papers."
-        },
-        {
-          "id": "B03-C015-P0101",
-          "score": 12,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Inter-house tension and injuries, no new room geometry or environmental installation."
-        },
-        {
-          "id": "B03-C005-P0113",
-          "score": 10,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Character descriptions and team roles, not environmental features."
-        },
-        {
-          "id": "B03-C013-P0044",
-          "score": 10,
-          "disposition": "exclude_or_already_represented",
-          "reason": "A carried broom displayed on an existing house table, no new fixture."
-        },
-        {
-          "id": "B03-C015-P0129",
-          "score": 10,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Applause and hissing from existing house tables, no new room layout."
-        },
-        {
-          "id": "B03-C004-P0005",
-          "score": 9,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
-        },
-        {
-          "id": "B03-C014-P0061",
-          "score": 9,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Existing Hall-to-marble-stair route, with no new fixed viewpoint or intermediate space."
-        },
-        {
-          "id": "B03-C001-P0007",
-          "score": 8,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
-        },
-        {
-          "id": "B03-C004-P0035",
-          "score": 8,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
-        },
-        {
-          "id": "B03-C003-P0041",
-          "score": 7,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
-        },
-        {
-          "id": "B03-C005-P0007",
-          "score": 7,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
-        },
-        {
-          "id": "B03-C002-P0001",
-          "score": 6,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
-        },
-        {
-          "id": "B03-C002-P0016",
-          "score": 6,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
-        },
-        {
-          "id": "B03-C002-P0128",
-          "score": 6,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
-        },
-        {
-          "id": "B03-C005-P0258",
-          "score": 6,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Character applause at existing table, no new spatial detail."
-        },
-        {
-          "id": "B03-C006-P0226",
-          "score": 6,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Conversation at existing Slytherin table, no new environmental feature."
-        },
-        {
-          "id": "B03-C021-P0238",
-          "score": 5,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Recounted Patronus crossing; direct lake sightline and Patronus observations already catalogued."
-        },
-        {
-          "id": "B03-C002-P0051",
-          "score": 4,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
-        },
-        {
-          "id": "B03-C002-P0067",
-          "score": 4,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
-        },
-        {
-          "id": "B03-C003-P0162",
-          "score": 4,
-          "disposition": "exclude_or_already_represented",
-          "reason": "Privet Drive, Knight Bus, Leaky Cauldron or Diagon Alley; outside castle and surrounding grounds."
         }
       ]
     },
@@ -1272,6 +1080,666 @@
           "score": 4,
           "disposition": "exclude_or_already_represented",
           "reason": "Ministry offices, courtroom, lifts or Department of Mysteries, outside Hogwarts."
+        }
+      ]
+    },
+    {
+      "book": 6,
+      "catalogue_entries_at_audit": 212,
+      "candidates_inspected": [
+        {
+          "id": "B06-C024-P0057",
+          "score": 13,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Quidditch standings and bottom-of-table idiom, not physical dimensions or a table fixture."
+        },
+        {
+          "id": "B06-C026-P0015",
+          "score": 12,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Coastal Horcrux cave and its lake, not the Hogwarts lake or underground harbour."
+        },
+        {
+          "id": "B06-C007-P0143",
+          "score": 11,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Slug Club seating in a train compartment, outside castle/grounds; adds no approach geometry."
+        },
+        {
+          "id": "B06-C026-P0044",
+          "score": 11,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Coastal Horcrux cave and its lake, not the Hogwarts lake or underground harbour."
+        },
+        {
+          "id": "B06-C011-P0138",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "A meal smell and character interruption on an existing Great Hall route; no new fixture or layout."
+        },
+        {
+          "id": "B06-C030-P0017",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Dark winding path is a metaphor for the Horcrux search, not a landscape route."
+        },
+        {
+          "id": "B06-C010-P0094",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Gaunt house in a memory, outside Hogwarts."
+        },
+        {
+          "id": "B06-C002-P0040",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C006-P0101",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C024-P0128",
+          "score": 8,
+          "disposition": "supplemented",
+          "reason": "Added the qualified report of Myrtle’s castle-bathroom movement to B06-130."
+        },
+        {
+          "id": "B06-C030-P0044",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Characters seated at an existing Slytherin table; no new environmental feature."
+        },
+        {
+          "id": "B06-C003-P0044",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C019-P0056",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Conversation with a precautionary ceiling glance; no new measured height or fixture."
+        },
+        {
+          "id": "B06-C026-P0046",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Coastal Horcrux cave and its lake, not the Hogwarts lake or underground harbour."
+        },
+        {
+          "id": "B06-C001-P0042",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C003-P0053",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C005-P0001",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C006-P0036",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C013-P0103",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Orphanage corridor in a memory, outside Hogwarts."
+        },
+        {
+          "id": "B06-C016-P0130",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C024-P0059",
+          "score": 6,
+          "disposition": "supplemented",
+          "reason": "Added explicit evidence of later continued access denial to B06-126."
+        },
+        {
+          "id": "B06-C028-P0092",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Carried locket’s portrait space, not an architectural room or display."
+        },
+        {
+          "id": "B06-C004-P0062",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C004-P0067",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C004-P0237",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C005-P0229",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C005-P0236",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C006-P0031",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C014-P0086",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "An imagined encounter in an already described corridor, not an observed changed state."
+        },
+        {
+          "id": "B06-C014-P0095",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Character emotions and ordinary dormitory route, no new spatial feature."
+        },
+        {
+          "id": "B06-C027-P0035",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Character fears during an already described return flight, no additional site fact."
+        }
+      ]
+    },
+    {
+      "book": 7,
+      "catalogue_entries_at_audit": 139,
+      "candidates_inspected": [
+        {
+          "id": "B07-C010-P0079",
+          "score": 15,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place, London approach or Ministry setting, outside the Hogwarts site."
+        },
+        {
+          "id": "B07-C010-P0009",
+          "score": 14,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Hogwarts students’ photograph on Sirius’s Grimmauld Place bedroom wall; not a Hogwarts room."
+        },
+        {
+          "id": "B07-C021-P0153",
+          "score": 13,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Lovegood house and garden, outside Hogwarts."
+        },
+        {
+          "id": "B07-C023-P0292",
+          "score": 13,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Malfoy Manor or Nurmengard, outside Hogwarts."
+        },
+        {
+          "id": "B07-C010-P0007",
+          "score": 12,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place, London approach or Ministry setting, outside the Hogwarts site."
+        },
+        {
+          "id": "B07-C010-P0061",
+          "score": 12,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place, London approach or Ministry setting, outside the Hogwarts site."
+        },
+        {
+          "id": "B07-C013-P0075",
+          "score": 12,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place, London approach or Ministry setting, outside the Hogwarts site."
+        },
+        {
+          "id": "B07-C016-P0053",
+          "score": 11,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Founders’ birthplace and other village history, not Hogwarts grounds or approach."
+        },
+        {
+          "id": "B07-C026-P0109",
+          "score": 11,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Shell Cottage or Gringotts, including the bank’s underground lake, outside Hogwarts."
+        },
+        {
+          "id": "B07-C027-P0014",
+          "score": 11,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Unnamed dragon-landing lake after Gringotts, not the Hogwarts lake."
+        },
+        {
+          "id": "B07-C002-P0013",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Dumbledore’s school arrival and personal history, with no physical Hogwarts feature."
+        },
+        {
+          "id": "B07-C009-P0094",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place, London approach or Ministry setting, outside the Hogwarts site."
+        },
+        {
+          "id": "B07-C024-P0236",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Shell Cottage rooms, garden or occupants, outside Hogwarts."
+        },
+        {
+          "id": "B07-C004-P0012",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Tonks/Burrow settings or personal history, not Hogwarts geometry."
+        },
+        {
+          "id": "B07-C011-P0037",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place, London approach or Ministry setting, outside the Hogwarts site."
+        },
+        {
+          "id": "B07-C014-P0057",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Travelling tent, off-site woodland, London or Gregorovitch vision, outside the school site."
+        },
+        {
+          "id": "B07-C016-P0090",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Godric’s Hollow, graveyard or Bathilda’s house, outside Hogwarts."
+        },
+        {
+          "id": "B07-C024-P0073",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Shell Cottage rooms, garden or occupants, outside Hogwarts."
+        },
+        {
+          "id": "B07-C027-P0056",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Identifies a Horcrux as being at Hogwarts without adding a physical location."
+        },
+        {
+          "id": "B07-C029-P0072",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Gaunt-shack vision while physically in the refuge; do not attribute the shack’s ruined floor to the Room."
+        },
+        {
+          "id": "B07-C035-P0009",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "King’s Cross-like visionary space; Harry’s Room-of-Requirement guess does not identify a physical Hogwarts interior."
+        },
+        {
+          "id": "B07-C012-P0133",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place, London approach or Ministry setting, outside the Hogwarts site."
+        },
+        {
+          "id": "B07-C013-P0017",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place, London approach or Ministry setting, outside the Hogwarts site."
+        },
+        {
+          "id": "B07-C015-P0059",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Travelling tent, off-site woodland, London or Gregorovitch vision, outside the school site."
+        },
+        {
+          "id": "B07-C017-P0084",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Godric’s Hollow, graveyard or Bathilda’s house, outside Hogwarts."
+        },
+        {
+          "id": "B07-C023-P0202",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Malfoy Manor or Nurmengard, outside Hogwarts."
+        },
+        {
+          "id": "B07-C026-P0014",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Shell Cottage or Gringotts, including the bank’s underground lake, outside Hogwarts."
+        },
+        {
+          "id": "B07-C026-P0186",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Shell Cottage or Gringotts, including the bank’s underground lake, outside Hogwarts."
+        },
+        {
+          "id": "B07-C005-P0049",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Tonks/Burrow settings or personal history, not Hogwarts geometry."
+        },
+        {
+          "id": "B07-C010-P0104",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place, London approach or Ministry setting, outside the Hogwarts site."
+        },
+        {
+          "id": "B07-C014-P0096",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Travelling tent, off-site woodland, London or Gregorovitch vision, outside the school site."
+        },
+        {
+          "id": "B07-C015-P0010",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Travelling tent, off-site woodland, London or Gregorovitch vision, outside the school site."
+        },
+        {
+          "id": "B07-C017-P0013",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Godric’s Hollow, graveyard or Bathilda’s house, outside Hogwarts."
+        },
+        {
+          "id": "B07-C020-P0097",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Lovegood house and garden, outside Hogwarts."
+        },
+        {
+          "id": "B07-C020-P0108",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Lovegood house and garden, outside Hogwarts."
+        },
+        {
+          "id": "B07-C023-P0106",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Malfoy Manor or Nurmengard, outside Hogwarts."
+        },
+        {
+          "id": "B07-C024-P0078",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Shell Cottage rooms, garden or occupants, outside Hogwarts."
+        },
+        {
+          "id": "B07-C025-P0120",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Shell Cottage rooms, garden or occupants, outside Hogwarts."
+        },
+        {
+          "id": "B07-C035-P0010",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "King’s Cross-like visionary space and a size comparison, not an enlarged Great Hall or Room of Requirement."
+        },
+        {
+          "id": "B07-C002-P0003",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Tonks/Burrow settings or personal history, not Hogwarts geometry."
+        },
+        {
+          "id": "B07-C002-P0018",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Post-school travel plans and family history, with no school-site description."
+        },
+        {
+          "id": "B07-C007-P0044",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Tonks/Burrow settings or personal history, not Hogwarts geometry."
+        },
+        {
+          "id": "B07-C010-P0081",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Slytherin team photograph in Regulus’s bedroom; uniforms and people, no pitch geometry."
+        },
+        {
+          "id": "B07-C011-P0157",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place, London approach or Ministry setting, outside the Hogwarts site."
+        },
+        {
+          "id": "B07-C013-P0079",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place, London approach or Ministry setting, outside the Hogwarts site."
+        },
+        {
+          "id": "B07-C023-P0157",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Malfoy Manor or Nurmengard, outside Hogwarts."
+        },
+        {
+          "id": "B07-C026-P0174",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Shell Cottage or Gringotts, including the bank’s underground lake, outside Hogwarts."
+        },
+        {
+          "id": "B07-C036-P0123",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Voldemort’s taunt repeats the already recorded marble tomb; decay is not a fresh narrated physical observation."
+        },
+        {
+          "id": "B07-C004-P0007",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Tonks/Burrow settings or personal history, not Hogwarts geometry."
+        },
+        {
+          "id": "B07-C006-P0204",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Tonks/Burrow settings or personal history, not Hogwarts geometry."
+        },
+        {
+          "id": "B07-C007-P0126",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Tonks/Burrow settings or personal history, not Hogwarts geometry."
+        },
+        {
+          "id": "B07-C010-P0106",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place, London approach or Ministry setting, outside the Hogwarts site."
+        },
+        {
+          "id": "B07-C011-P0139",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place, London approach or Ministry setting, outside the Hogwarts site."
+        },
+        {
+          "id": "B07-C013-P0076",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place, London approach or Ministry setting, outside the Hogwarts site."
+        },
+        {
+          "id": "B07-C017-P0019",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Godric’s Hollow, graveyard or Bathilda’s house, outside Hogwarts."
+        },
+        {
+          "id": "B07-C027-P0031",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Transition from the remote lake to Voldemort’s off-site vision, not a castle room."
+        },
+        {
+          "id": "B07-C004-P0002",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Tonks/Burrow settings or personal history, not Hogwarts geometry."
+        },
+        {
+          "id": "B07-C004-P0005",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Tonks/Burrow settings or personal history, not Hogwarts geometry."
+        },
+        {
+          "id": "B07-C005-P0114",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Tonks/Burrow settings or personal history, not Hogwarts geometry."
+        },
+        {
+          "id": "B07-C005-P0139",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Tonks/Burrow settings or personal history, not Hogwarts geometry."
+        },
+        {
+          "id": "B07-C007-P0083",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Tonks/Burrow settings or personal history, not Hogwarts geometry."
+        },
+        {
+          "id": "B07-C011-P0001",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place, London approach or Ministry setting, outside the Hogwarts site."
+        },
+        {
+          "id": "B07-C011-P0171",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place, London approach or Ministry setting, outside the Hogwarts site."
+        },
+        {
+          "id": "B07-C012-P0008",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place, London approach or Ministry setting, outside the Hogwarts site."
+        },
+        {
+          "id": "B07-C012-P0010",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place, London approach or Ministry setting, outside the Hogwarts site."
+        },
+        {
+          "id": "B07-C013-P0014",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Grimmauld Place, London approach or Ministry setting, outside the Hogwarts site."
+        },
+        {
+          "id": "B07-C017-P0043",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Godric’s Hollow, graveyard or Bathilda’s house, outside Hogwarts."
+        },
+        {
+          "id": "B07-C017-P0085",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Godric’s Hollow, graveyard or Bathilda’s house, outside Hogwarts."
+        },
+        {
+          "id": "B07-C017-P0108",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Godric’s Hollow, graveyard or Bathilda’s house, outside Hogwarts."
+        },
+        {
+          "id": "B07-C020-P0088",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Lovegood house and garden, outside Hogwarts."
+        },
+        {
+          "id": "B07-C020-P0109",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Lovegood house and garden, outside Hogwarts."
+        },
+        {
+          "id": "B07-C023-P0087",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Malfoy Manor or Nurmengard, outside Hogwarts."
+        },
+        {
+          "id": "B07-C023-P0200",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Malfoy Manor or Nurmengard, outside Hogwarts."
+        },
+        {
+          "id": "B07-C026-P0122",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Shell Cottage or Gringotts, including the bank’s underground lake, outside Hogwarts."
+        },
+        {
+          "id": "B07-C026-P0134",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Shell Cottage or Gringotts, including the bank’s underground lake, outside Hogwarts."
+        },
+        {
+          "id": "B07-C026-P0185",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Shell Cottage or Gringotts, including the bank’s underground lake, outside Hogwarts."
+        },
+        {
+          "id": "B07-C032-P0102",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Walled-up thoughts and small space are mental metaphors, not room or corridor descriptions."
         }
       ]
     }

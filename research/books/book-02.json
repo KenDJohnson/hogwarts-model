@@ -3200,5 +3200,27 @@
       "method": "full-text paragraph review",
       "notes": "Complete chapter read. Recovery, office vertical relations and departure included. No unread paragraphs remain in book 2."
     }
+  ],
+  "extra_reviews": [
+    {
+      "id": "B02-C006-X0001",
+      "method": "full-text review of additional non-paragraph fragment",
+      "notes": "Read the complete Lockhart quiz prompt; no physical or spatial Hogwarts description."
+    },
+    {
+      "id": "B02-C006-X0002",
+      "method": "full-text review of additional non-paragraph fragment",
+      "notes": "Read the complete Lockhart quiz prompt; no physical or spatial Hogwarts description."
+    },
+    {
+      "id": "B02-C006-X0003",
+      "method": "full-text review of additional non-paragraph fragment",
+      "notes": "Read the complete Lockhart quiz prompt; no physical or spatial Hogwarts description."
+    },
+    {
+      "id": "B02-C006-X0004",
+      "method": "full-text review of additional non-paragraph fragment",
+      "notes": "Read the complete Lockhart quiz prompt; no physical or spatial Hogwarts description."
+    }
   ]
 }

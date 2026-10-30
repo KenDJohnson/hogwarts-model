@@ -89,8 +89,8 @@ Evidence: reported; state: Reported Hallowe’en 1992.
 
 Model: Preserve this reported first-floor placement; reconcile separately with subsequent journey descriptions rather than silently changing it.
 
-- [Book 2, ch. 8, “The Deathday Party”, ref p. 133, ¶92 (B02-C008-P0092)](../../build/reader/book-02.html#B02-C008-P0092)
-- [Book 2, ch. 8, “The Deathday Party”, ref p. 133–134, ¶94 (B02-C008-P0094)](../../build/reader/book-02.html#B02-C008-P0094)
+- [Book 2, ch. 8, “The Deathday Party”, ref p. 134, ¶92 (B02-C008-P0092)](../../build/reader/book-02.html#B02-C008-P0092)
+- [Book 2, ch. 8, “The Deathday Party”, ref p. 134, ¶94 (B02-C008-P0094)](../../build/reader/book-02.html#B02-C008-P0094)
 - [Book 2, ch. 8, “The Deathday Party”, ref p. 134, ¶95 (B02-C008-P0095)](../../build/reader/book-02.html#B02-C008-P0095)
 - [Book 2, ch. 8, “The Deathday Party”, ref p. 134, ¶96 (B02-C008-P0096)](../../build/reader/book-02.html#B02-C008-P0096)
 - [Book 2, ch. 8, “The Deathday Party”, ref p. 135, ¶115 (B02-C008-P0115)](../../build/reader/book-02.html#B02-C008-P0115)
@@ -109,7 +109,7 @@ Model: Observed adjacency ties bathroom to the previously narrated second-floor 
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 156, ¶155 (B02-C009-P0155)](../../build/reader/book-02.html#B02-C009-P0155)
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 156, ¶156 (B02-C009-P0156)](../../build/reader/book-02.html#B02-C009-P0156)
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 156, ¶157 (B02-C009-P0157)](../../build/reader/book-02.html#B02-C009-P0157)
-- [Book 2, ch. 9, “The Writing on the Wall”, ref p. 157, ¶170 (B02-C009-P0170)](../../build/reader/book-02.html#B02-C009-P0170)
+- [Book 2, ch. 9, “The Writing on the Wall”, ref p. 157–158, ¶170 (B02-C009-P0170)](../../build/reader/book-02.html#B02-C009-P0170)
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 158, ¶176 (B02-C009-P0176)](../../build/reader/book-02.html#B02-C009-P0176)
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 158, ¶178 (B02-C009-P0178)](../../build/reader/book-02.html#B02-C009-P0178)
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 158, ¶179 (B02-C009-P0179)](../../build/reader/book-02.html#B02-C009-P0179)
@@ -123,8 +123,8 @@ Evidence: explicit; state: November 1992, after first attack.
 
 Model: Detailed neglected state; no sink or cubicle count. The end cubicle contains a toilet with a cistern.
 
-- [Book 2, ch. 9, “The Writing on the Wall”, ref p. 156, ¶158 (B02-C009-P0158)](../../build/reader/book-02.html#B02-C009-P0158)
-- [Book 2, ch. 9, “The Writing on the Wall”, ref p. 156–157, ¶159 (B02-C009-P0159)](../../build/reader/book-02.html#B02-C009-P0159)
+- [Book 2, ch. 9, “The Writing on the Wall”, ref p. 156–157, ¶158 (B02-C009-P0158)](../../build/reader/book-02.html#B02-C009-P0158)
+- [Book 2, ch. 9, “The Writing on the Wall”, ref p. 157, ¶159 (B02-C009-P0159)](../../build/reader/book-02.html#B02-C009-P0159)
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 157, ¶160 (B02-C009-P0160)](../../build/reader/book-02.html#B02-C009-P0160)
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 157, ¶163 (B02-C009-P0163)](../../build/reader/book-02.html#B02-C009-P0163)
 
@@ -136,12 +136,12 @@ Evidence: explicit; state: November 1992, after first attack.
 
 Model: Ghost interaction with water and plumbing is observed; no human-accessible tunnel is established here.
 
-- [Book 2, ch. 9, “The Writing on the Wall”, ref p. 156–157, ¶159 (B02-C009-P0159)](../../build/reader/book-02.html#B02-C009-P0159)
+- [Book 2, ch. 9, “The Writing on the Wall”, ref p. 157, ¶159 (B02-C009-P0159)](../../build/reader/book-02.html#B02-C009-P0159)
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 157, ¶160 (B02-C009-P0160)](../../build/reader/book-02.html#B02-C009-P0160)
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 157, ¶161 (B02-C009-P0161)](../../build/reader/book-02.html#B02-C009-P0161)
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 157, ¶167 (B02-C009-P0167)](../../build/reader/book-02.html#B02-C009-P0167)
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 157, ¶169 (B02-C009-P0169)](../../build/reader/book-02.html#B02-C009-P0169)
-- [Book 2, ch. 9, “The Writing on the Wall”, ref p. 157–158, ¶172 (B02-C009-P0172)](../../build/reader/book-02.html#B02-C009-P0172)
+- [Book 2, ch. 9, “The Writing on the Wall”, ref p. 158, ¶172 (B02-C009-P0172)](../../build/reader/book-02.html#B02-C009-P0172)
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 158, ¶173 (B02-C009-P0173)](../../build/reader/book-02.html#B02-C009-P0173)
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 158, ¶174 (B02-C009-P0174)](../../build/reader/book-02.html#B02-C009-P0174)
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 158, ¶175 (B02-C009-P0175)](../../build/reader/book-02.html#B02-C009-P0175)
@@ -189,19 +189,19 @@ Evidence: explicit; state: December 1992.
 
 Model: Observed cramped space, fixtures and relative cubicle positions during Christmas brewing; do not infer total cubicle count from middle alone.
 
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 217–218, ¶83 (B02-C012-P0083)](../../build/reader/book-02.html#B02-C012-P0083)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 218, ¶83 (B02-C012-P0083)](../../build/reader/book-02.html#B02-C012-P0083)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 218, ¶85 (B02-C012-P0085)](../../build/reader/book-02.html#B02-C012-P0085)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 218, ¶89 (B02-C012-P0089)](../../build/reader/book-02.html#B02-C012-P0089)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 218, ¶90 (B02-C012-P0090)](../../build/reader/book-02.html#B02-C012-P0090)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 218, ¶92 (B02-C012-P0092)](../../build/reader/book-02.html#B02-C012-P0092)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 218, ¶93 (B02-C012-P0093)](../../build/reader/book-02.html#B02-C012-P0093)
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 218–219, ¶97 (B02-C012-P0097)](../../build/reader/book-02.html#B02-C012-P0097)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 219, ¶97 (B02-C012-P0097)](../../build/reader/book-02.html#B02-C012-P0097)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 219, ¶98 (B02-C012-P0098)](../../build/reader/book-02.html#B02-C012-P0098)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 219, ¶99 (B02-C012-P0099)](../../build/reader/book-02.html#B02-C012-P0099)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 219, ¶100 (B02-C012-P0100)](../../build/reader/book-02.html#B02-C012-P0100)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 219, ¶104 (B02-C012-P0104)](../../build/reader/book-02.html#B02-C012-P0104)
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 219, ¶105 (B02-C012-P0105)](../../build/reader/book-02.html#B02-C012-P0105)
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 219–220, ¶106 (B02-C012-P0106)](../../build/reader/book-02.html#B02-C012-P0106)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 219–220, ¶105 (B02-C012-P0105)](../../build/reader/book-02.html#B02-C012-P0105)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 220, ¶106 (B02-C012-P0106)](../../build/reader/book-02.html#B02-C012-P0106)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 220, ¶107 (B02-C012-P0107)](../../build/reader/book-02.html#B02-C012-P0107)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 220, ¶108 (B02-C012-P0108)](../../build/reader/book-02.html#B02-C012-P0108)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 220, ¶109 (B02-C012-P0109)](../../build/reader/book-02.html#B02-C012-P0109)
@@ -217,11 +217,11 @@ Model: Observed dungeon circulation and side room; elapsed time includes searchi
 
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 221, ¶122 (B02-C012-P0122)](../../build/reader/book-02.html#B02-C012-P0122)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 221, ¶128 (B02-C012-P0128)](../../build/reader/book-02.html#B02-C012-P0128)
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 221, ¶130 (B02-C012-P0130)](../../build/reader/book-02.html#B02-C012-P0130)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 222, ¶130 (B02-C012-P0130)](../../build/reader/book-02.html#B02-C012-P0130)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 222, ¶134 (B02-C012-P0134)](../../build/reader/book-02.html#B02-C012-P0134)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 222, ¶135 (B02-C012-P0135)](../../build/reader/book-02.html#B02-C012-P0135)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 222, ¶137 (B02-C012-P0137)](../../build/reader/book-02.html#B02-C012-P0137)
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 222, ¶145 (B02-C012-P0145)](../../build/reader/book-02.html#B02-C012-P0145)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 223, ¶145 (B02-C012-P0145)](../../build/reader/book-02.html#B02-C012-P0145)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 223, ¶151 (B02-C012-P0151)](../../build/reader/book-02.html#B02-C012-P0151)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 223, ¶153 (B02-C012-P0153)](../../build/reader/book-02.html#B02-C012-P0153)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 223, ¶155 (B02-C012-P0155)](../../build/reader/book-02.html#B02-C012-P0155)
@@ -256,8 +256,8 @@ Model: Flooded extent and acoustic state; no drain capacity or quantified water 
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 231, ¶19 (B02-C013-P0019)](../../build/reader/book-02.html#B02-C013-P0019)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 231, ¶21 (B02-C013-P0021)](../../build/reader/book-02.html#B02-C013-P0021)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 231, ¶22 (B02-C013-P0022)](../../build/reader/book-02.html#B02-C013-P0022)
-- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 231, ¶25 (B02-C013-P0025)](../../build/reader/book-02.html#B02-C013-P0025)
-- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 231–232, ¶26 (B02-C013-P0026)](../../build/reader/book-02.html#B02-C013-P0026)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 232, ¶25 (B02-C013-P0025)](../../build/reader/book-02.html#B02-C013-P0025)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 232, ¶26 (B02-C013-P0026)](../../build/reader/book-02.html#B02-C013-P0026)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 232, ¶30 (B02-C013-P0030)](../../build/reader/book-02.html#B02-C013-P0030)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 232, ¶31 (B02-C013-P0031)](../../build/reader/book-02.html#B02-C013-P0031)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 233, ¶37 (B02-C013-P0037)](../../build/reader/book-02.html#B02-C013-P0037)
@@ -275,8 +275,8 @@ Model: Reported sensory/historical evidence. Creature remains unnamed here; no p
 - [Book 2, ch. 15, “Aragog”, ref p. 281, ¶125 (B02-C015-P0125)](../../build/reader/book-02.html#B02-C015-P0125)
 - [Book 2, ch. 15, “Aragog”, ref p. 281, ¶127 (B02-C015-P0127)](../../build/reader/book-02.html#B02-C015-P0127)
 - [Book 2, ch. 15, “Aragog”, ref p. 281, ¶128 (B02-C015-P0128)](../../build/reader/book-02.html#B02-C015-P0128)
-- [Book 2, ch. 15, “Aragog”, ref p. 281, ¶130 (B02-C015-P0130)](../../build/reader/book-02.html#B02-C015-P0130)
-- [Book 2, ch. 15, “Aragog”, ref p. 281–282, ¶131 (B02-C015-P0131)](../../build/reader/book-02.html#B02-C015-P0131)
+- [Book 2, ch. 15, “Aragog”, ref p. 281–282, ¶130 (B02-C015-P0130)](../../build/reader/book-02.html#B02-C015-P0130)
+- [Book 2, ch. 15, “Aragog”, ref p. 282, ¶131 (B02-C015-P0131)](../../build/reader/book-02.html#B02-C015-P0131)
 
 ## B02-130: Myrtle’s bathroom — cubicle separation recollection
 
@@ -286,7 +286,7 @@ Evidence: reported; state: Late May 1993, Chamber rescue.
 
 Model: Character’s relative count, not necessarily three intervening toilets or a total cubicle count.
 
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 285–286, ¶1 (B02-C016-P0001)](../../build/reader/book-02.html#B02-C016-P0001)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 286, ¶1 (B02-C016-P0001)](../../build/reader/book-02.html#B02-C016-P0001)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 286, ¶2 (B02-C016-P0002)](../../build/reader/book-02.html#B02-C016-P0002)
 
 ## B02-138: Lockhart’s office to Myrtle’s bathroom
@@ -312,8 +312,8 @@ Model: Eyewitness ghost report, with deliberately vague source position; no exac
 
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 302, ¶171 (B02-C016-P0171)](../../build/reader/book-02.html#B02-C016-P0171)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 302, ¶173 (B02-C016-P0173)](../../build/reader/book-02.html#B02-C016-P0173)
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 302, ¶175 (B02-C016-P0175)](../../build/reader/book-02.html#B02-C016-P0175)
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 302–303, ¶177 (B02-C016-P0177)](../../build/reader/book-02.html#B02-C016-P0177)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 302–303, ¶175 (B02-C016-P0175)](../../build/reader/book-02.html#B02-C016-P0175)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 303, ¶177 (B02-C016-P0177)](../../build/reader/book-02.html#B02-C016-P0177)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 303, ¶178 (B02-C016-P0178)](../../build/reader/book-02.html#B02-C016-P0178)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 303, ¶179 (B02-C016-P0179)](../../build/reader/book-02.html#B02-C016-P0179)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 303, ¶180 (B02-C016-P0180)](../../build/reader/book-02.html#B02-C016-P0180)
@@ -328,10 +328,10 @@ Model: Demonstrated four-person lift and reset of the entrance. Return does not 
 
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 329, ¶175 (B02-C017-P0175)](../../build/reader/book-02.html#B02-C017-P0175)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 329, ¶176 (B02-C017-P0176)](../../build/reader/book-02.html#B02-C017-P0176)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 329, ¶177 (B02-C017-P0177)](../../build/reader/book-02.html#B02-C017-P0177)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 329, ¶178 (B02-C017-P0178)](../../build/reader/book-02.html#B02-C017-P0178)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 329, ¶179 (B02-C017-P0179)](../../build/reader/book-02.html#B02-C017-P0179)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 329–330, ¶180 (B02-C017-P0180)](../../build/reader/book-02.html#B02-C017-P0180)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 329–330, ¶177 (B02-C017-P0177)](../../build/reader/book-02.html#B02-C017-P0177)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 330, ¶178 (B02-C017-P0178)](../../build/reader/book-02.html#B02-C017-P0178)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 330, ¶179 (B02-C017-P0179)](../../build/reader/book-02.html#B02-C017-P0179)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 330, ¶180 (B02-C017-P0180)](../../build/reader/book-02.html#B02-C017-P0180)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 330, ¶181 (B02-C017-P0181)](../../build/reader/book-02.html#B02-C017-P0181)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 330, ¶182 (B02-C017-P0182)](../../build/reader/book-02.html#B02-C017-P0182)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 330, ¶183 (B02-C017-P0183)](../../build/reader/book-02.html#B02-C017-P0183)
@@ -347,8 +347,8 @@ Model: Short narrated transition without stairs or floor number. Do not silently
 
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 330, ¶186 (B02-C017-P0186)](../../build/reader/book-02.html#B02-C017-P0186)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 330, ¶188 (B02-C017-P0188)](../../build/reader/book-02.html#B02-C017-P0188)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 330, ¶189 (B02-C017-P0189)](../../build/reader/book-02.html#B02-C017-P0189)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 330, ¶190 (B02-C017-P0190)](../../build/reader/book-02.html#B02-C017-P0190)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 330–331, ¶189 (B02-C017-P0189)](../../build/reader/book-02.html#B02-C017-P0189)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 331, ¶190 (B02-C017-P0190)](../../build/reader/book-02.html#B02-C017-P0190)
 
 ## B04-115: Moaning Myrtle’s bathroom
 
@@ -511,8 +511,8 @@ Evidence: reported; state: Summer 1996 appointment.
 
 Model: Access permission; no location, fittings or geometry are supplied here.
 
-- [Book 6, ch. 6, “Draco’s Detour”, ref p. 110, ¶15 (B06-C006-P0015)](../../build/reader/book-06.html#B06-C006-P0015)
-- [Book 6, ch. 6, “Draco’s Detour”, ref p. 110, ¶16 (B06-C006-P0016)](../../build/reader/book-06.html#B06-C006-P0016)
+- [Book 6, ch. 6, “Draco’s Detour”, ref p. 110–111, ¶15 (B06-C006-P0015)](../../build/reader/book-06.html#B06-C006-P0015)
+- [Book 6, ch. 6, “Draco’s Detour”, ref p. 111, ¶16 (B06-C006-P0016)](../../build/reader/book-06.html#B06-C006-P0016)
 
 ## B06-082: Transfiguration mirrors and bathroom below
 
@@ -522,8 +522,8 @@ Evidence: explicit; state: Before Christmas holidays, December 1996.
 
 Model: Mirrors as teaching equipment and a one-floor vertical relationship. Do not identify this bathroom as Myrtle’s merely because Luna initially mistakes crying for Myrtle at P0061.
 
-- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 322, ¶54 (B06-C015-P0054)](../../build/reader/book-06.html#B06-C015-P0054)
-- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 322–323, ¶55 (B06-C015-P0055)](../../build/reader/book-06.html#B06-C015-P0055)
+- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 322–323, ¶54 (B06-C015-P0054)](../../build/reader/book-06.html#B06-C015-P0054)
+- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 323, ¶55 (B06-C015-P0055)](../../build/reader/book-06.html#B06-C015-P0055)
 
 ## B06-130: Boys’ bathroom visited by Myrtle
 
@@ -533,17 +533,17 @@ Evidence: explicit; state: March–early April 1997.
 
 Model: Fixture relationships and acoustics; no floor identified in this scene. Myrtle says she lives in a different girls’ bathroom but can visit other places, so this is not her usual bathroom. The later movement is qualified as apparent/report-based; do not interpret every bathroom as a surveyed list of fixed ghost portals.
 
-- [Book 6, ch. 21, “The Unknowable Room”, ref p. 483–484, ¶125 (B06-C021-P0125)](../../build/reader/book-06.html#B06-C021-P0125)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 484, ¶125 (B06-C021-P0125)](../../build/reader/book-06.html#B06-C021-P0125)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 484, ¶126 (B06-C021-P0126)](../../build/reader/book-06.html#B06-C021-P0126)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 484, ¶127 (B06-C021-P0127)](../../build/reader/book-06.html#B06-C021-P0127)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 484, ¶128 (B06-C021-P0128)](../../build/reader/book-06.html#B06-C021-P0128)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 484, ¶130 (B06-C021-P0130)](../../build/reader/book-06.html#B06-C021-P0130)
-- [Book 6, ch. 21, “The Unknowable Room”, ref p. 484–485, ¶132 (B06-C021-P0132)](../../build/reader/book-06.html#B06-C021-P0132)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 485, ¶132 (B06-C021-P0132)](../../build/reader/book-06.html#B06-C021-P0132)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 485, ¶133 (B06-C021-P0133)](../../build/reader/book-06.html#B06-C021-P0133)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 485, ¶136 (B06-C021-P0136)](../../build/reader/book-06.html#B06-C021-P0136)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 485, ¶138 (B06-C021-P0138)](../../build/reader/book-06.html#B06-C021-P0138)
-- [Book 6, ch. 21, “The Unknowable Room”, ref p. 485, ¶142 (B06-C021-P0142)](../../build/reader/book-06.html#B06-C021-P0142)
-- [Book 6, ch. 24, “Sectumsempra”, ref p. 556–557, ¶128 (B06-C024-P0128)](../../build/reader/book-06.html#B06-C024-P0128)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 486, ¶142 (B06-C021-P0142)](../../build/reader/book-06.html#B06-C021-P0142)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 557, ¶128 (B06-C024-P0128)](../../build/reader/book-06.html#B06-C024-P0128)
 
 ## B06-152: Sixth-floor boys’ bathroom approach
 
@@ -571,8 +571,8 @@ Model: Fixture/view relationships and reverberation. Repeated cracked mirror and
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 549, ¶63 (B06-C024-P0063)](../../build/reader/book-06.html#B06-C024-P0063)
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 549, ¶65 (B06-C024-P0065)](../../build/reader/book-06.html#B06-C024-P0065)
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 549, ¶66 (B06-C024-P0066)](../../build/reader/book-06.html#B06-C024-P0066)
-- [Book 6, ch. 24, “Sectumsempra”, ref p. 549, ¶67 (B06-C024-P0067)](../../build/reader/book-06.html#B06-C024-P0067)
-- [Book 6, ch. 24, “Sectumsempra”, ref p. 549–550, ¶68 (B06-C024-P0068)](../../build/reader/book-06.html#B06-C024-P0068)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 549–550, ¶67 (B06-C024-P0067)](../../build/reader/book-06.html#B06-C024-P0067)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 550, ¶68 (B06-C024-P0068)](../../build/reader/book-06.html#B06-C024-P0068)
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 551, ¶82 (B06-C024-P0082)](../../build/reader/book-06.html#B06-C024-P0082)
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 551, ¶83 (B06-C024-P0083)](../../build/reader/book-06.html#B06-C024-P0083)
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 556, ¶125 (B06-C024-P0125)](../../build/reader/book-06.html#B06-C024-P0125)
@@ -586,16 +586,51 @@ Evidence: explicit; state: May 1997.
 Model: Dated damaged fixture and floor state; no subsequent repair is narrated here. Injury-related visual shimmer at P0090 is not structural transformation.
 
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 549, ¶66 (B06-C024-P0066)](../../build/reader/book-06.html#B06-C024-P0066)
-- [Book 6, ch. 24, “Sectumsempra”, ref p. 549, ¶67 (B06-C024-P0067)](../../build/reader/book-06.html#B06-C024-P0067)
-- [Book 6, ch. 24, “Sectumsempra”, ref p. 549–550, ¶68 (B06-C024-P0068)](../../build/reader/book-06.html#B06-C024-P0068)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 549–550, ¶67 (B06-C024-P0067)](../../build/reader/book-06.html#B06-C024-P0067)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 550, ¶68 (B06-C024-P0068)](../../build/reader/book-06.html#B06-C024-P0068)
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 550, ¶69 (B06-C024-P0069)](../../build/reader/book-06.html#B06-C024-P0069)
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 550, ¶70 (B06-C024-P0070)](../../build/reader/book-06.html#B06-C024-P0070)
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 550, ¶72 (B06-C024-P0072)](../../build/reader/book-06.html#B06-C024-P0072)
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 550, ¶74 (B06-C024-P0074)](../../build/reader/book-06.html#B06-C024-P0074)
-- [Book 6, ch. 24, “Sectumsempra”, ref p. 550, ¶77 (B06-C024-P0077)](../../build/reader/book-06.html#B06-C024-P0077)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 550–551, ¶77 (B06-C024-P0077)](../../build/reader/book-06.html#B06-C024-P0077)
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 551, ¶80 (B06-C024-P0080)](../../build/reader/book-06.html#B06-C024-P0080)
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 551, ¶81 (B06-C024-P0081)](../../build/reader/book-06.html#B06-C024-P0081)
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 551, ¶83 (B06-C024-P0083)](../../build/reader/book-06.html#B06-C024-P0083)
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 552, ¶91 (B06-C024-P0091)](../../build/reader/book-06.html#B06-C024-P0091)
 - [Book 6, ch. 24, “Sectumsempra”, ref p. 552, ¶93 (B06-C024-P0093)](../../build/reader/book-06.html#B06-C024-P0093)
 
+## B07-049: Room of Requirement / adaptive refuge and bathroom
+
+Neville reports the refuge beginning much smaller, with one hammock and only Gryffindor hangings, then enlarging as more DA members arrived. Seamus says it creates additional hammocks as needed and added a bathroom when girls joined the nearly two-week-old refuge.
+
+Evidence: reported; state: May 1998 return to Hogwarts.
+
+Model: Responsive size, occupancy furniture and sanitation, not fixed bathroom dimensions or a stable total hammock count.
+
+- [Book 7, ch. 29, “The Lost Diadem”, ref p. 612, ¶61 (B07-C029-P0061)](../../build/reader/book-07.html#B07-C029-P0061)
+- [Book 7, ch. 29, “The Lost Diadem”, ref p. 613, ¶66 (B07-C029-P0066)](../../build/reader/book-07.html#B07-C029-P0066)
+- [Book 7, ch. 29, “The Lost Diadem”, ref p. 613, ¶67 (B07-C029-P0067)](../../build/reader/book-07.html#B07-C029-P0067)
+
+## B07-064: Room of Requirement / refuge return and bathroom
+
+Harry and Luna return from the next staircase to the enchanted wall, which opens when Harry leans against it, and descend the steep staircase into a now densely crowded refuge. The open doorway to its bathroom leads directly off the Room; Harry finds it empty.
+
+Evidence: explicit; state: May 1998, preparations for the battle.
+
+Model: Demonstrates bidirectional return through the same evening’s castle exit and direct bathroom connection. Repeated arrivals use the separate Hog’s Head tunnel.
+
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 638, ¶135 (B07-C030-P0135)](../../build/reader/book-07.html#B07-C030-P0135)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 638, ¶136 (B07-C030-P0136)](../../build/reader/book-07.html#B07-C030-P0136)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 638, ¶140 (B07-C030-P0140)](../../build/reader/book-07.html#B07-C030-P0140)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 638–639, ¶142 (B07-C030-P0142)](../../build/reader/book-07.html#B07-C030-P0142)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 639, ¶143 (B07-C030-P0143)](../../build/reader/book-07.html#B07-C030-P0143)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 639, ¶148 (B07-C030-P0148)](../../build/reader/book-07.html#B07-C030-P0148)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 639, ¶149 (B07-C030-P0149)](../../build/reader/book-07.html#B07-C030-P0149)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 639–640, ¶150 (B07-C030-P0150)](../../build/reader/book-07.html#B07-C030-P0150)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 640, ¶162 (B07-C030-P0162)](../../build/reader/book-07.html#B07-C030-P0162)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 640–641, ¶163 (B07-C030-P0163)](../../build/reader/book-07.html#B07-C030-P0163)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 642, ¶180 (B07-C030-P0180)](../../build/reader/book-07.html#B07-C030-P0180)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 642, ¶182 (B07-C030-P0182)](../../build/reader/book-07.html#B07-C030-P0182)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 643, ¶190 (B07-C030-P0190)](../../build/reader/book-07.html#B07-C030-P0190)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 643, ¶191 (B07-C030-P0191)](../../build/reader/book-07.html#B07-C030-P0191)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 643, ¶192 (B07-C030-P0192)](../../build/reader/book-07.html#B07-C030-P0192)

@@ -2,7 +2,7 @@
 
 This reports the reviewers' declared reading ranges. Structural validation checks that those ranges cover the corpus; it cannot prove semantic completeness or that every description has been captured.
 
-Reviewed: **36,678/38,426 paragraphs**. Records: **1283**.
+Reviewed: **38,426/38,426 paragraphs**. Additional text fragments: **33/33**. Records: **1380**.
 
 ## Book 1: Harry Potter and the Philosopher's Stone
 
@@ -35,7 +35,7 @@ Reviewed: **36,678/38,426 paragraphs**. Records: **1283**.
 - Chapter 3, The Burrow: Reviewed (183/183).
 - Chapter 4, At Flourish and Blotts: Reviewed (203/203).
 - Chapter 5, The Whomping Willow: Reviewed (196/196).
-- Chapter 6, Gilderoy Lockhart: Reviewed (144/144).
+- Chapter 6, Gilderoy Lockhart: Reviewed (144/144; extra fragments 4/4).
 - Chapter 7, Mudbloods and Murmurs: Reviewed (170/170).
 - Chapter 8, The Deathday Party: Reviewed (184/184).
 - Chapter 9, The Writing on the Wall: Reviewed (214/214).
@@ -169,7 +169,7 @@ Reviewed: **36,678/38,426 paragraphs**. Records: **1283**.
 - Chapter 2, Spinner’s End: Reviewed (175/175).
 - Chapter 3, Will and Won’t: Reviewed (138/138).
 - Chapter 4, Horace Slughorn: Reviewed (237/237).
-- Chapter 5, An Excess of Phlegm: Reviewed (253/253).
+- Chapter 5, An Excess of Phlegm: Reviewed (253/253; extra fragments 26/26).
 - Chapter 6, Draco’s Detour: Reviewed (228/228).
 - Chapter 7, The Slug Club: Reviewed (240/240).
 - Chapter 8, Snape Victorious: Reviewed (139/139).
@@ -198,7 +198,7 @@ Reviewed: **36,678/38,426 paragraphs**. Records: **1283**.
 
 ## Book 7: Harry Potter and the Deathly Hallows
 
-5,131/6,879 paragraphs; 42 records.
+6,879/6,879 paragraphs; 139 records.
 
 - Chapter 1, The Dark Lord Ascending: Reviewed (108/108).
 - Chapter 2, In Memoriam: Reviewed (63/63).
@@ -212,7 +212,7 @@ Reviewed: **36,678/38,426 paragraphs**. Records: **1283**.
 - Chapter 10, Kreacher’s Tale: Reviewed (195/195).
 - Chapter 11, The Bribe: Reviewed (207/207).
 - Chapter 12, Magic is Might: Reviewed (215/215).
-- Chapter 13, The Muggle-Born Registration Commission: Reviewed (190/190).
+- Chapter 13, The Muggle-Born Registration Commission: Reviewed (190/190; extra fragments 3/3).
 - Chapter 14, The Thief: Reviewed (137/137).
 - Chapter 15, The Goblin’s Revenge: Reviewed (278/278).
 - Chapter 16, Godric’s Hollow: Reviewed (133/133).
@@ -228,13 +228,12 @@ Reviewed: **36,678/38,426 paragraphs**. Records: **1283**.
 - Chapter 26, Gringotts: Reviewed (187/187).
 - Chapter 27, The Final Hiding Place: Reviewed (69/69).
 - Chapter 28, The Missing Mirror: Reviewed (151/151).
-- Chapter 29, The Lost Diadem: Unread: ¶1–167 (0/167).
-- Chapter 30, The Sacking of Severus Snape: Unread: ¶1–194 (0/194).
-- Chapter 31, The Battle of Hogwarts: Unread: ¶1–284 (0/284).
-- Chapter 32, The Elder Wand: Unread: ¶1–178 (0/178).
-- Chapter 33, The Prince’s Tale: Unread: ¶1–358 (0/358).
-- Chapter 34, The Forest Again: Unread: ¶1–119 (0/119).
-- Chapter 35, King’s Cross: Unread: ¶1–175 (0/175).
-- Chapter 36, The Flaw in the Plan: Unread: ¶1–196 (0/196).
-- Chapter 37, Nineteen Years Later: Unread: ¶1–77 (0/77).
-
+- Chapter 29, The Lost Diadem: Reviewed (167/167).
+- Chapter 30, The Sacking of Severus Snape: Reviewed (194/194).
+- Chapter 31, The Battle of Hogwarts: Reviewed (284/284).
+- Chapter 32, The Elder Wand: Reviewed (178/178).
+- Chapter 33, The Prince’s Tale: Reviewed (358/358).
+- Chapter 34, The Forest Again: Reviewed (119/119).
+- Chapter 35, King’s Cross: Reviewed (175/175).
+- Chapter 36, The Flaw in the Plan: Reviewed (196/196).
+- Chapter 37, Nineteen Years Later: Reviewed (77/77).

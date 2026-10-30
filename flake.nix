@@ -30,7 +30,7 @@
             nativeBuildInputs = [ pkgs.python3 ];
           } ''
             cp -R ${self}/scripts ${self}/research .
-            python scripts/check_research.py
+            python scripts/check_research.py --require-complete
             touch $out
           '';
         });

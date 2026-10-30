@@ -191,11 +191,11 @@ Evidence: explicit; state: September 1992, first Saturday.
 Model: Reaffirms downhill pitch route; dawn mist and birdsong are seasonal scene conditions.
 
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 105, ¶5 (B02-C007-P0005)](../../build/reader/book-02.html#B02-C007-P0005)
-- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 105–106, ¶10 (B02-C007-P0010)](../../build/reader/book-02.html#B02-C007-P0010)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 106, ¶10 (B02-C007-P0010)](../../build/reader/book-02.html#B02-C007-P0010)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 106, ¶16 (B02-C007-P0016)](../../build/reader/book-02.html#B02-C007-P0016)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 106, ¶18 (B02-C007-P0018)](../../build/reader/book-02.html#B02-C007-P0018)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 107, ¶24 (B02-C007-P0024)](../../build/reader/book-02.html#B02-C007-P0024)
-- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 107–108, ¶29 (B02-C007-P0029)](../../build/reader/book-02.html#B02-C007-P0029)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 108, ¶29 (B02-C007-P0029)](../../build/reader/book-02.html#B02-C007-P0029)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 108, ¶30 (B02-C007-P0030)](../../build/reader/book-02.html#B02-C007-P0030)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 108, ¶31 (B02-C007-P0031)](../../build/reader/book-02.html#B02-C007-P0031)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 109–110, ¶42 (B02-C007-P0042)](../../build/reader/book-02.html#B02-C007-P0042)
@@ -210,9 +210,9 @@ Model: Flooded planting beds and lake rise are seasonal, with no numeric level c
 
 - [Book 2, ch. 8, “The Deathday Party”, ref p. 123, ¶1 (B02-C008-P0001)](../../build/reader/book-02.html#B02-C008-P0001)
 - [Book 2, ch. 8, “The Deathday Party”, ref p. 123, ¶2 (B02-C008-P0002)](../../build/reader/book-02.html#B02-C008-P0002)
-- [Book 2, ch. 8, “The Deathday Party”, ref p. 123–124, ¶4 (B02-C008-P0004)](../../build/reader/book-02.html#B02-C008-P0004)
+- [Book 2, ch. 8, “The Deathday Party”, ref p. 124, ¶4 (B02-C008-P0004)](../../build/reader/book-02.html#B02-C008-P0004)
 - [Book 2, ch. 8, “The Deathday Party”, ref p. 124, ¶6 (B02-C008-P0006)](../../build/reader/book-02.html#B02-C008-P0006)
-- [Book 2, ch. 8, “The Deathday Party”, ref p. 131, ¶79 (B02-C008-P0079)](../../build/reader/book-02.html#B02-C008-P0079)
+- [Book 2, ch. 8, “The Deathday Party”, ref p. 131–132, ¶79 (B02-C008-P0079)](../../build/reader/book-02.html#B02-C008-P0079)
 
 ## B02-053: Hogwarts foundation — secluded castle
 
@@ -234,11 +234,11 @@ Evidence: explicit; state: November–December 1992.
 
 Model: Seasonal weather and plant care, not a closure of every classroom or greenhouse.
 
-- [Book 2, ch. 11, “The Duelling Club”, ref p. 198, ¶128 (B02-C011-P0128)](../../build/reader/book-02.html#B02-C011-P0128)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 198–199, ¶128 (B02-C011-P0128)](../../build/reader/book-02.html#B02-C011-P0128)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 199, ¶133 (B02-C011-P0133)](../../build/reader/book-02.html#B02-C011-P0133)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 199, ¶135 (B02-C011-P0135)](../../build/reader/book-02.html#B02-C011-P0135)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 199, ¶136 (B02-C011-P0136)](../../build/reader/book-02.html#B02-C011-P0136)
-- [Book 2, ch. 11, “The Duelling Club”, ref p. 199–200, ¶138 (B02-C011-P0138)](../../build/reader/book-02.html#B02-C011-P0138)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 200, ¶138 (B02-C011-P0138)](../../build/reader/book-02.html#B02-C011-P0138)
 - [Book 2, ch. 11, “The Duelling Club”, ref p. 200, ¶139 (B02-C011-P0139)](../../build/reader/book-02.html#B02-C011-P0139)
 
 ## B02-112: Castle — emergency movement rules
@@ -250,8 +250,8 @@ Evidence: reported; state: After Hermione/Penelope attack, spring 1993.
 Model: Schoolwide time-dependent access restrictions, not newly built barriers.
 
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 259, ¶81 (B02-C014-P0081)](../../build/reader/book-02.html#B02-C014-P0081)
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 259, ¶83 (B02-C014-P0083)](../../build/reader/book-02.html#B02-C014-P0083)
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 259–260, ¶84 (B02-C014-P0084)](../../build/reader/book-02.html#B02-C014-P0084)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 259–260, ¶83 (B02-C014-P0083)](../../build/reader/book-02.html#B02-C014-P0083)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 260, ¶84 (B02-C014-P0084)](../../build/reader/book-02.html#B02-C014-P0084)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 260, ¶85 (B02-C014-P0085)](../../build/reader/book-02.html#B02-C014-P0085)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 261, ¶92 (B02-C014-P0092)](../../build/reader/book-02.html#B02-C014-P0092)
 
@@ -276,7 +276,7 @@ Evidence: explicit; state: Late spring 1993.
 Model: Adds explicit mullions and greenhouse flower scale; no window lattice pattern or individual room identified.
 
 - [Book 2, ch. 15, “Aragog”, ref p. 267, ¶1 (B02-C015-P0001)](../../build/reader/book-02.html#B02-C015-P0001)
-- [Book 2, ch. 15, “Aragog”, ref p. 267, ¶4 (B02-C015-P0004)](../../build/reader/book-02.html#B02-C015-P0004)
+- [Book 2, ch. 15, “Aragog”, ref p. 267–268, ¶4 (B02-C015-P0004)](../../build/reader/book-02.html#B02-C015-P0004)
 
 ## B02-118: Castle to Herbology — escorted route and compost heap
 
@@ -289,11 +289,11 @@ Model: Observed outdoor storage/waste feature and vegetation; spider heading is 
 - [Book 2, ch. 15, “Aragog”, ref p. 269, ¶9 (B02-C015-P0009)](../../build/reader/book-02.html#B02-C015-P0009)
 - [Book 2, ch. 15, “Aragog”, ref p. 269, ¶13 (B02-C015-P0013)](../../build/reader/book-02.html#B02-C015-P0013)
 - [Book 2, ch. 15, “Aragog”, ref p. 269, ¶15 (B02-C015-P0015)](../../build/reader/book-02.html#B02-C015-P0015)
-- [Book 2, ch. 15, “Aragog”, ref p. 269–270, ¶17 (B02-C015-P0017)](../../build/reader/book-02.html#B02-C015-P0017)
+- [Book 2, ch. 15, “Aragog”, ref p. 270, ¶17 (B02-C015-P0017)](../../build/reader/book-02.html#B02-C015-P0017)
 - [Book 2, ch. 15, “Aragog”, ref p. 270, ¶18 (B02-C015-P0018)](../../build/reader/book-02.html#B02-C015-P0018)
 - [Book 2, ch. 15, “Aragog”, ref p. 270, ¶19 (B02-C015-P0019)](../../build/reader/book-02.html#B02-C015-P0019)
 - [Book 2, ch. 15, “Aragog”, ref p. 270, ¶21 (B02-C015-P0021)](../../build/reader/book-02.html#B02-C015-P0021)
-- [Book 2, ch. 15, “Aragog”, ref p. 270–271, ¶26 (B02-C015-P0026)](../../build/reader/book-02.html#B02-C015-P0026)
+- [Book 2, ch. 15, “Aragog”, ref p. 271, ¶26 (B02-C015-P0026)](../../build/reader/book-02.html#B02-C015-P0026)
 - [Book 2, ch. 15, “Aragog”, ref p. 271, ¶28 (B02-C015-P0028)](../../build/reader/book-02.html#B02-C015-P0028)
 - [Book 2, ch. 15, “Aragog”, ref p. 271, ¶29 (B02-C015-P0029)](../../build/reader/book-02.html#B02-C015-P0029)
 - [Book 2, ch. 15, “Aragog”, ref p. 271, ¶31 (B02-C015-P0031)](../../build/reader/book-02.html#B02-C015-P0031)
@@ -309,7 +309,7 @@ Evidence: explicit; state: Late spring 1993.
 Model: Explicit manually operable interior lock; no key, bar shape or exterior unlocking mechanism stated.
 
 - [Book 2, ch. 15, “Aragog”, ref p. 273, ¶55 (B02-C015-P0055)](../../build/reader/book-02.html#B02-C015-P0055)
-- [Book 2, ch. 15, “Aragog”, ref p. 273, ¶56 (B02-C015-P0056)](../../build/reader/book-02.html#B02-C015-P0056)
+- [Book 2, ch. 15, “Aragog”, ref p. 273–274, ¶56 (B02-C015-P0056)](../../build/reader/book-02.html#B02-C015-P0056)
 
 ## B02-132: Castle patrols and lesson route
 
@@ -319,21 +319,21 @@ Evidence: explicit; state: Late May 1993, Chamber rescue.
 
 Model: Fourth floor is the patrol location, not a stated location of this lesson route. No precise adjacency inferred.
 
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 289, ¶47 (B02-C016-P0047)](../../build/reader/book-02.html#B02-C016-P0047)
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 289–290, ¶48 (B02-C016-P0048)](../../build/reader/book-02.html#B02-C016-P0048)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 289–290, ¶47 (B02-C016-P0047)](../../build/reader/book-02.html#B02-C016-P0047)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 290, ¶48 (B02-C016-P0048)](../../build/reader/book-02.html#B02-C016-P0048)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 290, ¶49 (B02-C016-P0049)](../../build/reader/book-02.html#B02-C016-P0049)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 290, ¶51 (B02-C016-P0051)](../../build/reader/book-02.html#B02-C016-P0051)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 290, ¶52 (B02-C016-P0052)](../../build/reader/book-02.html#B02-C016-P0052)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 290, ¶53 (B02-C016-P0053)](../../build/reader/book-02.html#B02-C016-P0053)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 290, ¶54 (B02-C016-P0054)](../../build/reader/book-02.html#B02-C016-P0054)
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 290, ¶56 (B02-C016-P0056)](../../build/reader/book-02.html#B02-C016-P0056)
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 290, ¶57 (B02-C016-P0057)](../../build/reader/book-02.html#B02-C016-P0057)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 290–291, ¶56 (B02-C016-P0056)](../../build/reader/book-02.html#B02-C016-P0056)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 291, ¶57 (B02-C016-P0057)](../../build/reader/book-02.html#B02-C016-P0057)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 291, ¶60 (B02-C016-P0060)](../../build/reader/book-02.html#B02-C016-P0060)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 291, ¶61 (B02-C016-P0061)](../../build/reader/book-02.html#B02-C016-P0061)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 291, ¶63 (B02-C016-P0063)](../../build/reader/book-02.html#B02-C016-P0063)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 291, ¶64 (B02-C016-P0064)](../../build/reader/book-02.html#B02-C016-P0064)
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 291, ¶66 (B02-C016-P0066)](../../build/reader/book-02.html#B02-C016-P0066)
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 291, ¶67 (B02-C016-P0067)](../../build/reader/book-02.html#B02-C016-P0067)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 291–292, ¶66 (B02-C016-P0066)](../../build/reader/book-02.html#B02-C016-P0066)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 292, ¶67 (B02-C016-P0067)](../../build/reader/book-02.html#B02-C016-P0067)
 
 ## B03-008: Grounds gates and castle drive
 
@@ -941,8 +941,8 @@ Evidence: explicit; state: Evening arrival, 1 September 1996.
 
 Model: Establish distance and line of sight between gates and castle foot without inventing bearings or a measured length.
 
-- [Book 6, ch. 8, “Snape Victorious”, ref p. 164, ¶40 (B06-C008-P0040)](../../build/reader/book-06.html#B06-C008-P0040)
-- [Book 6, ch. 8, “Snape Victorious”, ref p. 165, ¶49 (B06-C008-P0049)](../../build/reader/book-06.html#B06-C008-P0049)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 164–165, ¶40 (B06-C008-P0040)](../../build/reader/book-06.html#B06-C008-P0040)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 165–166, ¶49 (B06-C008-P0049)](../../build/reader/book-06.html#B06-C008-P0049)
 - [Book 6, ch. 8, “Snape Victorious”, ref p. 167, ¶56 (B06-C008-P0056)](../../build/reader/book-06.html#B06-C008-P0056)
 
 ## B06-022: Castle security state
@@ -953,7 +953,7 @@ Evidence: reported; state: Evening arrival, 1 September 1996.
 
 Model: Broad security state, independent of the more specific gates and walls. Do not invent visible fortification additions.
 
-- [Book 6, ch. 8, “Snape Victorious”, ref p. 173–174, ¶112 (B06-C008-P0112)](../../build/reader/book-06.html#B06-C008-P0112)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 174, ¶112 (B06-C008-P0112)](../../build/reader/book-06.html#B06-C008-P0112)
 
 ## B06-043: Castle–Quidditch stadium
 
@@ -973,7 +973,7 @@ Evidence: explicit; state: Before Christmas holidays, December 1996.
 
 Model: Dated decoration across several spaces; armour positions, stair identities and tree distribution within Hall unspecified.
 
-- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 315, ¶1 (B06-C015-P0001)](../../build/reader/book-06.html#B06-C015-P0001)
+- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 315–316, ¶1 (B06-C015-P0001)](../../build/reader/book-06.html#B06-C015-P0001)
 
 ## B06-078: Castle alternative secret routes
 
@@ -983,7 +983,7 @@ Evidence: explicit; state: Before Christmas holidays, December 1996.
 
 Model: Multiple alternate interior routes exist, but none is named or mapped in this passage.
 
-- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 315, ¶1 (B06-C015-P0001)](../../build/reader/book-06.html#B06-C015-P0001)
+- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 315–316, ¶1 (B06-C015-P0001)](../../build/reader/book-06.html#B06-C015-P0001)
 
 ## B06-121: Castle ancient magic
 
@@ -993,7 +993,7 @@ Evidence: reported; state: March 1997.
 
 Model: Dumbledore’s interpretation of Voldemort’s aims remains speculation; the passage provides no new hidden-room location or visible magical installation.
 
-- [Book 6, ch. 20, “Lord Voldemort’s Request”, ref p. 450–451, ¶68 (B06-C020-P0068)](../../build/reader/book-06.html#B06-C020-P0068)
+- [Book 6, ch. 20, “Lord Voldemort’s Request”, ref p. 451, ¶68 (B06-C020-P0068)](../../build/reader/book-06.html#B06-C020-P0068)
 - [Book 6, ch. 20, “Lord Voldemort’s Request”, ref p. 451, ¶70 (B06-C020-P0070)](../../build/reader/book-06.html#B06-C020-P0070)
 - [Book 6, ch. 20, “Lord Voldemort’s Request”, ref p. 451, ¶71 (B06-C020-P0071)](../../build/reader/book-06.html#B06-C020-P0071)
 
@@ -1024,8 +1024,8 @@ Model: Front entrance → steps → descending drive → gates sequence; environ
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶204 (B06-C025-P0204)](../../build/reader/book-06.html#B06-C025-P0204)
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶205 (B06-C025-P0205)](../../build/reader/book-06.html#B06-C025-P0205)
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶206 (B06-C025-P0206)](../../build/reader/book-06.html#B06-C025-P0206)
-- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶209 (B06-C025-P0209)](../../build/reader/book-06.html#B06-C025-P0209)
-- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582–583, ¶210 (B06-C025-P0210)](../../build/reader/book-06.html#B06-C025-P0210)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582–583, ¶209 (B06-C025-P0209)](../../build/reader/book-06.html#B06-C025-P0209)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 583, ¶210 (B06-C025-P0210)](../../build/reader/book-06.html#B06-C025-P0210)
 
 ## B06-173: Hogsmeade High Street return and castle view
 
@@ -1035,7 +1035,7 @@ Evidence: explicit; state: Night of tower attack, June 1997.
 
 Model: Ground-level village → school-sky visibility and bedroom → High Street reported view; imagined Inferi around shops at P0002 are not real village occupants.
 
-- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 609–610, ¶1 (B06-C027-P0001)](../../build/reader/book-06.html#B06-C027-P0001)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 610, ¶1 (B06-C027-P0001)](../../build/reader/book-06.html#B06-C027-P0001)
 - [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 610, ¶2 (B06-C027-P0002)](../../build/reader/book-06.html#B06-C027-P0002)
 - [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 610, ¶4 (B06-C027-P0004)](../../build/reader/book-06.html#B06-C027-P0004)
 - [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 611, ¶15 (B06-C027-P0015)](../../build/reader/book-06.html#B06-C027-P0015)
@@ -1061,7 +1061,7 @@ Model: Tower base–front lawn relationship and temporary light sources. Harry�
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 641, ¶88 (B06-C028-P0088)](../../build/reader/book-06.html#B06-C028-P0088)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 641–642, ¶89 (B06-C028-P0089)](../../build/reader/book-06.html#B06-C028-P0089)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 642, ¶90 (B06-C028-P0090)](../../build/reader/book-06.html#B06-C028-P0090)
-- [Book 6, ch. 28, “Flight of the Prince”, ref p. 642, ¶93 (B06-C028-P0093)](../../build/reader/book-06.html#B06-C028-P0093)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 642–643, ¶93 (B06-C028-P0093)](../../build/reader/book-06.html#B06-C028-P0093)
 
 ## B06-207: Castle ghosts in bright sunlight
 
@@ -1071,7 +1071,7 @@ Evidence: explicit; state: Dumbledore funeral, June 1997.
 
 Model: Rendering constraint for ghost appearance under strong daylight, not proof they are absent or immaterial only in sunlight.
 
-- [Book 6, ch. 30, “The White Tomb”, ref p. 675, ¶49 (B06-C030-P0049)](../../build/reader/book-06.html#B06-C030-P0049)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 675–676, ¶49 (B06-C030-P0049)](../../build/reader/book-06.html#B06-C030-P0049)
 
 ## B07-010: Hogwarts Apparition protections
 
@@ -1119,3 +1119,313 @@ Model: His sources support a very heavily guarded wartime state; “only” is h
 
 - [Book 7, ch. 28, “The Missing Mirror”, ref p. 604, ¶149 (B07-C028-P0149)](../../build/reader/book-07.html#B07-C028-P0149)
 
+## B07-046: Castle walls / resistance graffiti
+
+Neville reports Dumbledore’s Army sneaking out at night to put recruitment graffiti on the walls, angering Snape.
+
+Evidence: reported; state: May 1998 return to Hogwarts.
+
+Model: No corridor or inscription location identified. Physical wartime wall markings, not a permanent decorative layer.
+
+- [Book 7, ch. 29, “The Lost Diadem”, ref p. 609, ¶39 (B07-C029-P0039)](../../build/reader/book-07.html#B07-C029-P0039)
+- [Book 7, ch. 29, “The Lost Diadem”, ref p. 609, ¶40 (B07-C029-P0040)](../../build/reader/book-07.html#B07-C029-P0040)
+
+## B07-051: Room of Requirement cupboard → changing castle exit
+
+A small cupboard in a corner opens onto a steep, long torchlit staircase with unexpected bends. Neville says its endpoint changes daily. Harry and Luna climb to apparent solid wall, push it so it melts away, and emerge into a dark fifth-floor corridor; it reseals immediately.
+
+Evidence: explicit; state: May 1998 return to Hogwarts.
+
+Model: Fifth floor is this evening’s exit, not a permanent corridor connection or proof that the refuge occupies a lower fixed floor.
+
+- [Book 7, ch. 29, “The Lost Diadem”, ref p. 620, ¶141 (B07-C029-P0141)](../../build/reader/book-07.html#B07-C029-P0141)
+- [Book 7, ch. 29, “The Lost Diadem”, ref p. 620, ¶142 (B07-C029-P0142)](../../build/reader/book-07.html#B07-C029-P0142)
+- [Book 7, ch. 29, “The Lost Diadem”, ref p. 620, ¶143 (B07-C029-P0143)](../../build/reader/book-07.html#B07-C029-P0143)
+- [Book 7, ch. 29, “The Lost Diadem”, ref p. 620, ¶144 (B07-C029-P0144)](../../build/reader/book-07.html#B07-C029-P0144)
+- [Book 7, ch. 29, “The Lost Diadem”, ref p. 620, ¶146 (B07-C029-P0146)](../../build/reader/book-07.html#B07-C029-P0146)
+- [Book 7, ch. 29, “The Lost Diadem”, ref p. 620, ¶147 (B07-C029-P0147)](../../build/reader/book-07.html#B07-C029-P0147)
+- [Book 7, ch. 29, “The Lost Diadem”, ref p. 620–621, ¶148 (B07-C029-P0148)](../../build/reader/book-07.html#B07-C029-P0148)
+- [Book 7, ch. 29, “The Lost Diadem”, ref p. 621, ¶149 (B07-C029-P0149)](../../build/reader/book-07.html#B07-C029-P0149)
+
+## B07-063: Castle statues and suits of armour
+
+McGonagall animates statues and armour along the corridor, with echoing crashes indicating the same on floors above and below, and orders them to man the boundaries. They leave their plinths, including figures smaller and larger than life and animals; the armour carries swords and spiked balls on chains.
+
+Evidence: explicit; state: May 1998, preparations for the battle.
+
+Model: Records original plinth-mounted displays and mobilised battle state. Activation elsewhere is inferred by Harry from sound and is described as such.
+
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 637, ¶124 (B07-C030-P0124)](../../build/reader/book-07.html#B07-C030-P0124)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 637, ¶125 (B07-C030-P0125)](../../build/reader/book-07.html#B07-C030-P0125)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 638, ¶131 (B07-C030-P0131)](../../build/reader/book-07.html#B07-C030-P0131)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 638, ¶132 (B07-C030-P0132)](../../build/reader/book-07.html#B07-C030-P0132)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 638, ¶133 (B07-C030-P0133)](../../build/reader/book-07.html#B07-C030-P0133)
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 638, ¶134 (B07-C030-P0134)](../../build/reader/book-07.html#B07-C030-P0134)
+
+## B07-065: Hogwarts main gates / night view
+
+Harry’s final vision looks through high wrought-iron gates flanked by pillars carrying winged boars, across dark grounds to the castle blazing with lights.
+
+Evidence: explicit; state: May 1998, preparations for the battle.
+
+Model: Gate material, flanking ornaments and castle sightline; change from unlit pre-dawn windows in chapter 24 reflects a different night/state.
+
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 643, ¶194 (B07-C030-P0194)](../../build/reader/book-07.html#B07-C030-P0194)
+
+## B07-067: Castle / Hogsmeade / mountain-cave acoustics
+
+Voldemort’s disembodied voice seems to issue from the Great Hall walls. Hagrid reports hearing the ultimatum in his mountain cave, and Aberforth says all Hogsmeade heard it.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts before and just after midnight.
+
+Model: Observed Hall sound with reported wider reach; not ordinary acoustic proof of physical proximity between cave, pub and castle.
+
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 644, ¶12 (B07-C031-P0012)](../../build/reader/book-07.html#B07-C031-P0012)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 644–645, ¶13 (B07-C031-P0013)](../../build/reader/book-07.html#B07-C031-P0013)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 645, ¶14 (B07-C031-P0014)](../../build/reader/book-07.html#B07-C031-P0014)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 645, ¶15 (B07-C031-P0015)](../../build/reader/book-07.html#B07-C031-P0015)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 645, ¶16 (B07-C031-P0016)](../../build/reader/book-07.html#B07-C031-P0016)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 655, ¶116 (B07-C031-P0116)](../../build/reader/book-07.html#B07-C031-P0116)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 658, ¶138 (B07-C031-P0138)](../../build/reader/book-07.html#B07-C031-P0138)
+
+## B07-071: Castle / hypothesised historical diadem deposition
+
+Harry deduces that Riddle hid the diadem during his visit to request a teaching job, on the way to or from Dumbledore’s office.
+
+Evidence: inference; state: May 1998, Battle of Hogwarts before and just after midnight.
+
+Model: Reasoning links the hiding room to the remembered job interview, without proving an exact route or time of placement.
+
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 653, ¶100 (B07-C031-P0100)](../../build/reader/book-07.html#B07-C031-P0100)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 653, ¶102 (B07-C031-P0102)](../../build/reader/book-07.html#B07-C031-P0102)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 653, ¶103 (B07-C031-P0103)](../../build/reader/book-07.html#B07-C031-P0103)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 653–654, ¶105 (B07-C031-P0105)](../../build/reader/book-07.html#B07-C031-P0105)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 654, ¶107 (B07-C031-P0107)](../../build/reader/book-07.html#B07-C031-P0107)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 656, ¶123 (B07-C031-P0123)](../../build/reader/book-07.html#B07-C031-P0123)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 656, ¶124 (B07-C031-P0124)](../../build/reader/book-07.html#B07-C031-P0124)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 656–657, ¶125 (B07-C031-P0125)](../../build/reader/book-07.html#B07-C031-P0125)
+
+## B07-072: Forest-side boundary → castle corridor window
+
+Hagrid reports Grawp carrying him and Fang from their cave, smashing through the boundary by the Forest and putting them through a castle window. Harry sees Hagrid crash through a window to his left into the opposite corridor wall, with Grawp outside. Hagrid’s later footfalls shake the corridor’s floorboards.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts before and just after midnight.
+
+Model: Dated breach and wooden corridor floor; boundary material and height of this window are not given.
+
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 654, ¶108 (B07-C031-P0108)](../../build/reader/book-07.html#B07-C031-P0108)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 654, ¶109 (B07-C031-P0109)](../../build/reader/book-07.html#B07-C031-P0109)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 654–655, ¶111 (B07-C031-P0111)](../../build/reader/book-07.html#B07-C031-P0111)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 655, ¶112 (B07-C031-P0112)](../../build/reader/book-07.html#B07-C031-P0112)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 655, ¶113 (B07-C031-P0113)](../../build/reader/book-07.html#B07-C031-P0113)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 655, ¶116 (B07-C031-P0116)](../../build/reader/book-07.html#B07-C031-P0116)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 655, ¶118 (B07-C031-P0118)](../../build/reader/book-07.html#B07-C031-P0118)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 655, ¶119 (B07-C031-P0119)](../../build/reader/book-07.html#B07-C031-P0119)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 655–656, ¶120 (B07-C031-P0120)](../../build/reader/book-07.html#B07-C031-P0120)
+
+## B07-074: Castle walls / Mandrake defence
+
+Sprout, Neville and about half a dozen others carry large potted Mandrakes while wearing earmuffs. Neville says they intend to throw them over the walls.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts before and just after midnight.
+
+Model: Observed plants and ear protection; deployment over a particular wall is still intended, not seen here.
+
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 657, ¶126 (B07-C031-P0126)](../../build/reader/book-07.html#B07-C031-P0126)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 657, ¶127 (B07-C031-P0127)](../../build/reader/book-07.html#B07-C031-P0127)
+
+## B07-075: Castle portraits / news network and Sir Cadogan
+
+Painted figures in historical dress race alongside Harry through neighbouring canvases, cramming into each other’s pictures and shouting news from elsewhere in the castle. Sir Cadogan, a small armoured knight with a fat pony, accompanies him from frame to frame along one corridor.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts before and just after midnight.
+
+Model: Within-castle portrait movement and information flow. No frame dimensions or permanent hanging order supplied.
+
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 657, ¶128 (B07-C031-P0128)](../../build/reader/book-07.html#B07-C031-P0128)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 657, ¶130 (B07-C031-P0130)](../../build/reader/book-07.html#B07-C031-P0130)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 657–658, ¶131 (B07-C031-P0131)](../../build/reader/book-07.html#B07-C031-P0131)
+
+## B07-076: Castle passages / vase and displaced display statue
+
+A huge vase explodes from its plinth as the castle shakes. In another corridor Fred’s group guards a concealed hole beside an empty plinth whose former statue hid a secret passage; owls crowd a subsequent corridor.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts before and just after midnight.
+
+Model: Do not identify this unnamed statue passage with a known named tunnel without cross-book evidence. Owls’ presence does not locate the Owlery.
+
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 657, ¶128 (B07-C031-P0128)](../../build/reader/book-07.html#B07-C031-P0128)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 657, ¶129 (B07-C031-P0129)](../../build/reader/book-07.html#B07-C031-P0129)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 658, ¶132 (B07-C031-P0132)](../../build/reader/book-07.html#B07-C031-P0132)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 658, ¶133 (B07-C031-P0133)](../../build/reader/book-07.html#B07-C031-P0133)
+
+## B07-080: Corridor windows / castle foot / North Battlements
+
+Back upstairs dust fills shaking corridors. Through one window Harry sees fighting flashes close to the castle’s foot and Grawp carrying what looks like a roof-torn stone gargoyle. At the next window, missing several panes, Ginny casts into fighters below. Aberforth reports enemy giants apparently breaching the North Battlements.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts before and just after midnight.
+
+Model: North is explicit for battlements, not necessarily for these windows. Gargoyle origin and breach are qualified observations/reports, not surveyed facts.
+
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 662–663, ¶187 (B07-C031-P0187)](../../build/reader/book-07.html#B07-C031-P0187)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 663, ¶188 (B07-C031-P0188)](../../build/reader/book-07.html#B07-C031-P0188)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 663, ¶189 (B07-C031-P0189)](../../build/reader/book-07.html#B07-C031-P0189)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 663, ¶190 (B07-C031-P0190)](../../build/reader/book-07.html#B07-C031-P0190)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 663, ¶191 (B07-C031-P0191)](../../build/reader/book-07.html#B07-C031-P0191)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 663, ¶192 (B07-C031-P0192)](../../build/reader/book-07.html#B07-C031-P0192)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 663, ¶194 (B07-C031-P0194)](../../build/reader/book-07.html#B07-C031-P0194)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 663, ¶196 (B07-C031-P0196)](../../build/reader/book-07.html#B07-C031-P0196)
+
+## B07-098: Shrieking Shack / occupied room and castle view
+
+The desolate room has peeling wallpaper, boarded windows except one, and a solitary oil lamp. Its open window shows distant battle flashes at the castle, whose sounds are muffled. Lucius sits in its darkest corner. At the tunnel end Harry can see the edge of a table with Voldemort beside it; Snape passes within inches of the concealed opening.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts.
+
+Model: Room identified by Harry after the vision and then reached physically. Visibility from a tunnel gap is restricted, so do not infer a complete furnishing inventory.
+
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 679, ¶22 (B07-C032-P0022)](../../build/reader/book-07.html#B07-C032-P0022)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 679, ¶24 (B07-C032-P0024)](../../build/reader/book-07.html#B07-C032-P0024)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 680, ¶34 (B07-C032-P0034)](../../build/reader/book-07.html#B07-C032-P0034)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 680–681, ¶37 (B07-C032-P0037)](../../build/reader/book-07.html#B07-C032-P0037)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 691, ¶118 (B07-C032-P0118)](../../build/reader/book-07.html#B07-C032-P0118)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 691, ¶119 (B07-C032-P0119)](../../build/reader/book-07.html#B07-C032-P0119)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 692, ¶123 (B07-C032-P0123)](../../build/reader/book-07.html#B07-C032-P0123)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 692, ¶124 (B07-C032-P0124)](../../build/reader/book-07.html#B07-C032-P0124)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 692, ¶129 (B07-C032-P0129)](../../build/reader/book-07.html#B07-C032-P0129)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 693, ¶134 (B07-C032-P0134)](../../build/reader/book-07.html#B07-C032-P0134)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 693, ¶135 (B07-C032-P0135)](../../build/reader/book-07.html#B07-C032-P0135)
+
+## B07-093: Castle front steps / giant attack / upper window
+
+Outside the front steps a twenty-foot giant is illuminated at its shins by light from the castle doors; it smashes an upper window and reaches through for people. Harry shelters in the doorway from falling glass. Grawp rounds a castle corner, fights it beside trembling stone steps, and the trio run down into the grounds towards the Forest.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts.
+
+Model: Visible scale and reach, without assigning a numbered floor to the broken window. Grawp is smaller than this enemy giant.
+
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 685, ¶77 (B07-C032-P0077)](../../build/reader/book-07.html#B07-C032-P0077)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 685–686, ¶79 (B07-C032-P0079)](../../build/reader/book-07.html#B07-C032-P0079)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 686, ¶80 (B07-C032-P0080)](../../build/reader/book-07.html#B07-C032-P0080)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 686, ¶81 (B07-C032-P0081)](../../build/reader/book-07.html#B07-C032-P0081)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 686, ¶83 (B07-C032-P0083)](../../build/reader/book-07.html#B07-C032-P0083)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 686–687, ¶84 (B07-C032-P0084)](../../build/reader/book-07.html#B07-C032-P0084)
+
+## B07-094: Grounds between castle and Forest / Dementor wave and giant
+
+Halfway towards the Forest the trio meet about a hundred Dementors advancing towards the castle. Their cold freezes breath and muffles battle sounds; Patronuses scatter them and warmth and normal volume return. Another giant emerges from the Forest direction carrying a club taller than the students, forcing them to run towards the Whomping Willow.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts.
+
+Model: Approximate encounter midpoint and directional origin, no measured separation between Forest and Willow.
+
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 686–687, ¶84 (B07-C032-P0084)](../../build/reader/book-07.html#B07-C032-P0084)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 687, ¶85 (B07-C032-P0085)](../../build/reader/book-07.html#B07-C032-P0085)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 687, ¶86 (B07-C032-P0086)](../../build/reader/book-07.html#B07-C032-P0086)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 687, ¶90 (B07-C032-P0090)](../../build/reader/book-07.html#B07-C032-P0090)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 687, ¶91 (B07-C032-P0091)](../../build/reader/book-07.html#B07-C032-P0091)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 687–688, ¶92 (B07-C032-P0092)](../../build/reader/book-07.html#B07-C032-P0092)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 688, ¶96 (B07-C032-P0096)](../../build/reader/book-07.html#B07-C032-P0096)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 688, ¶98 (B07-C032-P0098)](../../build/reader/book-07.html#B07-C032-P0098)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 688, ¶99 (B07-C032-P0099)](../../build/reader/book-07.html#B07-C032-P0099)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 688–689, ¶100 (B07-C032-P0100)](../../build/reader/book-07.html#B07-C032-P0100)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 689, ¶101 (B07-C032-P0101)](../../build/reader/book-07.html#B07-C032-P0101)
+
+## B07-100: Shrieking Shack / castle / Hogsmeade broadcast
+
+Voldemort’s voice reverberates from the Shack walls and floor with the intimacy of someone standing beside the listeners. Harry understands it is being heard equally clearly at Hogwarts and throughout the surrounding area, including Hogsmeade.
+
+Evidence: explicit; state: May 1998, battle ceasefire.
+
+Model: Wide-area magical sound during the one-hour retreat; not an ordinary room-acoustic relationship.
+
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 698, ¶1 (B07-C033-P0001)](../../build/reader/book-07.html#B07-C033-P0001)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 698, ¶2 (B07-C033-P0002)](../../build/reader/book-07.html#B07-C033-P0002)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 698, ¶3 (B07-C033-P0003)](../../build/reader/book-07.html#B07-C033-P0003)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 698, ¶5 (B07-C033-P0005)](../../build/reader/book-07.html#B07-C033-P0005)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 698, ¶6 (B07-C033-P0006)](../../build/reader/book-07.html#B07-C033-P0006)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 698–699, ¶7 (B07-C033-P0007)](../../build/reader/book-07.html#B07-C033-P0007)
+
+## B07-101: Willow tunnel → front lawn → castle steps
+
+The trio crawl back through the tunnel and hurry towards the castle stone steps. Small bundles litter the front lawn in near-dawn darkness, and an abandoned giant’s clog, like a small boat, lies there; the giants themselves are absent.
+
+Evidence: explicit; state: May 1998, battle ceasefire.
+
+Model: Bundles are not identified individually. The text jumps from tunnel transit to front lawn without surveying the intervening grounds route.
+
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 699, ¶11 (B07-C033-P0011)](../../build/reader/book-07.html#B07-C033-P0011)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 699, ¶12 (B07-C033-P0012)](../../build/reader/book-07.html#B07-C033-P0012)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 699–700, ¶14 (B07-C033-P0014)](../../build/reader/book-07.html#B07-C033-P0014)
+
+## B07-106: Hogwarts Express / historical journey furnishing
+
+At platform nine and three-quarters students load trunks aboard the scarlet steam engine, carrying cats and caged owls. On the countryside journey a corridor serves compartments with sliding doors, facing seats and window-side corner seating.
+
+Evidence: explicit; state: September 1971 memory.
+
+Model: Historical school transport geometry; London platform is retained only as the school railway’s departure context, not a separate city model.
+
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 708, ¶99 (B07-C033-P0099)](../../build/reader/book-07.html#B07-C033-P0099)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 709, ¶102 (B07-C033-P0102)](../../build/reader/book-07.html#B07-C033-P0102)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 710, ¶117 (B07-C033-P0117)](../../build/reader/book-07.html#B07-C033-P0117)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 710, ¶118 (B07-C033-P0118)](../../build/reader/book-07.html#B07-C033-P0118)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 711, ¶130 (B07-C033-P0130)](../../build/reader/book-07.html#B07-C033-P0130)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 711, ¶131 (B07-C033-P0131)](../../build/reader/book-07.html#B07-C033-P0131)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 712, ¶143 (B07-C033-P0143)](../../build/reader/book-07.html#B07-C033-P0143)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 712, ¶146 (B07-C033-P0146)](../../build/reader/book-07.html#B07-C033-P0146)
+
+## B07-108: Castle courtyard / pillar
+
+Lily and Snape cross the castle courtyard while arguing; Lily stops and leans against a pillar.
+
+Evidence: explicit; state: School years in the mid-1970s, exact year not specified.
+
+Model: An unnamed courtyard contains at least one pillar; no covered walkway, cloister, shape or dimension supplied.
+
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 713, ¶155 (B07-C033-P0155)](../../build/reader/book-07.html#B07-C033-P0155)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 713, ¶158 (B07-C033-P0158)](../../build/reader/book-07.html#B07-C033-P0158)
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 715, ¶175 (B07-C033-P0175)](../../build/reader/book-07.html#B07-C033-P0175)
+
+## B07-125: Forest edge → castle front lawn and steps
+
+Voldemort magnifies his voice through the grounds from the Forest edge, then leads the procession towards the castle. The Death Eaters form a line facing its open front doors, lit red by light from the Entrance Hall; defenders fill the doorway and front steps. Harry is lowered onto grass at Voldemort’s feet between the opposing groups.
+
+Evidence: explicit; state: May 1998, final battle at dawn.
+
+Model: Front lawn, lit Hall sightline and open staging, without measured distances. Nagini has been released from her protective sphere and rides Voldemort’s shoulders.
+
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 771–772, ¶33 (B07-C036-P0033)](../../build/reader/book-07.html#B07-C036-P0033)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 772, ¶34 (B07-C036-P0034)](../../build/reader/book-07.html#B07-C036-P0034)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 772, ¶35 (B07-C036-P0035)](../../build/reader/book-07.html#B07-C036-P0035)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 772, ¶36 (B07-C036-P0036)](../../build/reader/book-07.html#B07-C036-P0036)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 772, ¶37 (B07-C036-P0037)](../../build/reader/book-07.html#B07-C036-P0037)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 772–773, ¶38 (B07-C036-P0038)](../../build/reader/book-07.html#B07-C036-P0038)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 773, ¶39 (B07-C036-P0039)](../../build/reader/book-07.html#B07-C036-P0039)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 773, ¶40 (B07-C036-P0040)](../../build/reader/book-07.html#B07-C036-P0040)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 773, ¶42 (B07-C036-P0042)](../../build/reader/book-07.html#B07-C036-P0042)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 773, ¶43 (B07-C036-P0043)](../../build/reader/book-07.html#B07-C036-P0043)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 773, ¶44 (B07-C036-P0044)](../../build/reader/book-07.html#B07-C036-P0044)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 773–774, ¶46 (B07-C036-P0046)](../../build/reader/book-07.html#B07-C036-P0046)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 774, ¶51 (B07-C036-P0051)](../../build/reader/book-07.html#B07-C036-P0051)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 774, ¶52 (B07-C036-P0052)](../../build/reader/book-07.html#B07-C036-P0052)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 774, ¶53 (B07-C036-P0053)](../../build/reader/book-07.html#B07-C036-P0053)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 775, ¶56 (B07-C036-P0056)](../../build/reader/book-07.html#B07-C036-P0056)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 775, ¶60 (B07-C036-P0060)](../../build/reader/book-07.html#B07-C036-P0060)
+
+## B07-126: Castle window / Sorting Hat during confrontation
+
+Voldemort summons the ragged, empty, mildewed Sorting Hat from a shattered castle window, places it on Neville and ignites it. Neville breaks free of his binding curse and draws a silver sword with a glittering rubied handle from the flaming Hat, then beheads Nagini.
+
+Evidence: explicit; state: May 1998, final battle at dawn.
+
+Model: Air route of a summoned object, not proof of office window location. Announced abolition of houses is Voldemort’s intention, not an observed redecoration.
+
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 776, ¶65 (B07-C036-P0065)](../../build/reader/book-07.html#B07-C036-P0065)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 776, ¶66 (B07-C036-P0066)](../../build/reader/book-07.html#B07-C036-P0066)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 776, ¶67 (B07-C036-P0067)](../../build/reader/book-07.html#B07-C036-P0067)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 776, ¶68 (B07-C036-P0068)](../../build/reader/book-07.html#B07-C036-P0068)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 776–777, ¶69 (B07-C036-P0069)](../../build/reader/book-07.html#B07-C036-P0069)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 777, ¶71 (B07-C036-P0071)](../../build/reader/book-07.html#B07-C036-P0071)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 777, ¶72 (B07-C036-P0072)](../../build/reader/book-07.html#B07-C036-P0072)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 777–778, ¶73 (B07-C036-P0073)](../../build/reader/book-07.html#B07-C036-P0073)

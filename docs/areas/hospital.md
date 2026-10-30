@@ -57,14 +57,14 @@ Evidence: explicit; state: November 1992.
 
 Model: Adds curtained bedside privacy and water vessel; no unsupported curtain track geometry.
 
-- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 175–176, ¶112 (B02-C010-P0112)](../../build/reader/book-02.html#B02-C010-P0112)
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 176, ¶112 (B02-C010-P0112)](../../build/reader/book-02.html#B02-C010-P0112)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 176, ¶113 (B02-C010-P0113)](../../build/reader/book-02.html#B02-C010-P0113)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 176, ¶114 (B02-C010-P0114)](../../build/reader/book-02.html#B02-C010-P0114)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 176, ¶117 (B02-C010-P0117)](../../build/reader/book-02.html#B02-C010-P0117)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 176, ¶118 (B02-C010-P0118)](../../build/reader/book-02.html#B02-C010-P0118)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 176, ¶119 (B02-C010-P0119)](../../build/reader/book-02.html#B02-C010-P0119)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 176, ¶120 (B02-C010-P0120)](../../build/reader/book-02.html#B02-C010-P0120)
-- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 176–177, ¶123 (B02-C010-P0123)](../../build/reader/book-02.html#B02-C010-P0123)
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 177, ¶123 (B02-C010-P0123)](../../build/reader/book-02.html#B02-C010-P0123)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 177, ¶125 (B02-C010-P0125)](../../build/reader/book-02.html#B02-C010-P0125)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 177, ¶127 (B02-C010-P0127)](../../build/reader/book-02.html#B02-C010-P0127)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 177, ¶130 (B02-C010-P0130)](../../build/reader/book-02.html#B02-C010-P0130)
@@ -83,8 +83,8 @@ Evidence: explicit; state: November 1992.
 Model: Observed departure inside Hogwarts. Arrival itself is not witnessed and the mechanism is not named here.
 
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 177, ¶130 (B02-C010-P0130)](../../build/reader/book-02.html#B02-C010-P0130)
-- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 177, ¶131 (B02-C010-P0131)](../../build/reader/book-02.html#B02-C010-P0131)
-- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 177, ¶132 (B02-C010-P0132)](../../build/reader/book-02.html#B02-C010-P0132)
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 177–178, ¶131 (B02-C010-P0131)](../../build/reader/book-02.html#B02-C010-P0131)
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 178, ¶132 (B02-C010-P0132)](../../build/reader/book-02.html#B02-C010-P0132)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 178, ¶134 (B02-C010-P0134)](../../build/reader/book-02.html#B02-C010-P0134)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 181, ¶161 (B02-C010-P0161)](../../build/reader/book-02.html#B02-C010-P0161)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 181, ¶162 (B02-C010-P0162)](../../build/reader/book-02.html#B02-C010-P0162)
@@ -104,7 +104,7 @@ Model: At least the observed relative bed spacing; do not invent a precise total
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 182, ¶165 (B02-C010-P0165)](../../build/reader/book-02.html#B02-C010-P0165)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 182, ¶168 (B02-C010-P0168)](../../build/reader/book-02.html#B02-C010-P0168)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 182, ¶169 (B02-C010-P0169)](../../build/reader/book-02.html#B02-C010-P0169)
-- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 182, ¶176 (B02-C010-P0176)](../../build/reader/book-02.html#B02-C010-P0176)
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 182–183, ¶176 (B02-C010-P0176)](../../build/reader/book-02.html#B02-C010-P0176)
 
 ## B02-071: Hospital wing — high privacy curtains
 
@@ -157,7 +157,7 @@ Model: Movable curtains are deployed for privacy; recovery lasts until early Feb
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 229, ¶1 (B02-C013-P0001)](../../build/reader/book-02.html#B02-C013-P0001)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 229, ¶2 (B02-C013-P0002)](../../build/reader/book-02.html#B02-C013-P0002)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 229, ¶3 (B02-C013-P0003)](../../build/reader/book-02.html#B02-C013-P0003)
-- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 229, ¶4 (B02-C013-P0004)](../../build/reader/book-02.html#B02-C013-P0004)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 229–230, ¶4 (B02-C013-P0004)](../../build/reader/book-02.html#B02-C013-P0004)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 230, ¶7 (B02-C013-P0007)](../../build/reader/book-02.html#B02-C013-P0007)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 230, ¶8 (B02-C013-P0008)](../../build/reader/book-02.html#B02-C013-P0008)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 230, ¶12 (B02-C013-P0012)](../../build/reader/book-02.html#B02-C013-P0012)
@@ -172,10 +172,10 @@ Evidence: explicit; state: January–February 1993.
 Model: Places this bathroom/attack corridor above the ward departure point in this scene, adding to unresolved floor constraints.
 
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 230, ¶13 (B02-C013-P0013)](../../build/reader/book-02.html#B02-C013-P0013)
-- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 230, ¶14 (B02-C013-P0014)](../../build/reader/book-02.html#B02-C013-P0014)
-- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 230, ¶15 (B02-C013-P0015)](../../build/reader/book-02.html#B02-C013-P0015)
-- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 230, ¶16 (B02-C013-P0016)](../../build/reader/book-02.html#B02-C013-P0016)
-- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 230–231, ¶17 (B02-C013-P0017)](../../build/reader/book-02.html#B02-C013-P0017)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 230–231, ¶14 (B02-C013-P0014)](../../build/reader/book-02.html#B02-C013-P0014)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 231, ¶15 (B02-C013-P0015)](../../build/reader/book-02.html#B02-C013-P0015)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 231, ¶16 (B02-C013-P0016)](../../build/reader/book-02.html#B02-C013-P0016)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 231, ¶17 (B02-C013-P0017)](../../build/reader/book-02.html#B02-C013-P0017)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 231, ¶18 (B02-C013-P0018)](../../build/reader/book-02.html#B02-C013-P0018)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 231, ¶19 (B02-C013-P0019)](../../build/reader/book-02.html#B02-C013-P0019)
 - [Book 2, ch. 13, “The Very Secret Diary”, ref p. 231, ¶21 (B02-C013-P0021)](../../build/reader/book-02.html#B02-C013-P0021)
@@ -193,8 +193,8 @@ Model: Adds direct stadium-to-ward journey; hospital floor is not named.
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 258, ¶67 (B02-C014-P0067)](../../build/reader/book-02.html#B02-C014-P0067)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 258, ¶69 (B02-C014-P0069)](../../build/reader/book-02.html#B02-C014-P0069)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 258, ¶70 (B02-C014-P0070)](../../build/reader/book-02.html#B02-C014-P0070)
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 258, ¶72 (B02-C014-P0072)](../../build/reader/book-02.html#B02-C014-P0072)
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 258–259, ¶73 (B02-C014-P0073)](../../build/reader/book-02.html#B02-C014-P0073)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 258–259, ¶72 (B02-C014-P0072)](../../build/reader/book-02.html#B02-C014-P0072)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 259, ¶73 (B02-C014-P0073)](../../build/reader/book-02.html#B02-C014-P0073)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 259, ¶74 (B02-C014-P0074)](../../build/reader/book-02.html#B02-C014-P0074)
 
 ## B02-111: Hospital wing — adjacent beds and library attack report
@@ -233,16 +233,16 @@ Evidence: explicit; state: Late May 1993, Chamber rescue.
 
 Model: Adds lower staff-room relation and seating/wardrobe. Left is Harry’s viewpoint in the room, not a fixed compass wall.
 
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 291–292, ¶68 (B02-C016-P0068)](../../build/reader/book-02.html#B02-C016-P0068)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 292, ¶68 (B02-C016-P0068)](../../build/reader/book-02.html#B02-C016-P0068)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 292, ¶70 (B02-C016-P0070)](../../build/reader/book-02.html#B02-C016-P0070)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 292, ¶71 (B02-C016-P0071)](../../build/reader/book-02.html#B02-C016-P0071)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 292, ¶72 (B02-C016-P0072)](../../build/reader/book-02.html#B02-C016-P0072)
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 292, ¶74 (B02-C016-P0074)](../../build/reader/book-02.html#B02-C016-P0074)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 292–293, ¶74 (B02-C016-P0074)](../../build/reader/book-02.html#B02-C016-P0074)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 293, ¶79 (B02-C016-P0079)](../../build/reader/book-02.html#B02-C016-P0079)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 295, ¶96 (B02-C016-P0096)](../../build/reader/book-02.html#B02-C016-P0096)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 295, ¶97 (B02-C016-P0097)](../../build/reader/book-02.html#B02-C016-P0097)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 295, ¶104 (B02-C016-P0104)](../../build/reader/book-02.html#B02-C016-P0104)
-- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 295, ¶105 (B02-C016-P0105)](../../build/reader/book-02.html#B02-C016-P0105)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 295–296, ¶105 (B02-C016-P0105)](../../build/reader/book-02.html#B02-C016-P0105)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 296, ¶107 (B02-C016-P0107)](../../build/reader/book-02.html#B02-C016-P0107)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 296, ¶110 (B02-C016-P0110)](../../build/reader/book-02.html#B02-C016-P0110)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 296, ¶112 (B02-C016-P0112)](../../build/reader/book-02.html#B02-C016-P0112)
@@ -515,10 +515,10 @@ Evidence: explicit; state: Evening of 1 March 1997.
 Model: Ward entrance, furnishings and sight restriction. Six-visitors rule is staff policy, not physical capacity. Narration calls these ward doors “dormitory doors”.
 
 - [Book 6, ch. 19, “Elf Tails”, ref p. 416, ¶2 (B06-C019-P0002)](../../build/reader/book-06.html#B06-C019-P0002)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 416, ¶3 (B06-C019-P0003)](../../build/reader/book-06.html#B06-C019-P0003)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 416–417, ¶3 (B06-C019-P0003)](../../build/reader/book-06.html#B06-C019-P0003)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 417, ¶8 (B06-C019-P0008)](../../build/reader/book-06.html#B06-C019-P0008)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 419, ¶35 (B06-C019-P0035)](../../build/reader/book-06.html#B06-C019-P0035)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 420–421, ¶49 (B06-C019-P0049)](../../build/reader/book-06.html#B06-C019-P0049)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 421, ¶49 (B06-C019-P0049)](../../build/reader/book-06.html#B06-C019-P0049)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 421, ¶53 (B06-C019-P0053)](../../build/reader/book-06.html#B06-C019-P0053)
 
 ## B06-111: Hospital wing–Slughorn office level relation
@@ -541,8 +541,8 @@ Evidence: explicit; state: Night after Hufflepuff match, March 1997.
 
 Model: Curtain referents may include bed screens or windows; the passage says all curtains, so do not arbitrarily choose. Spell does not prove a naturally soundproof office.
 
-- [Book 6, ch. 19, “Elf Tails”, ref p. 419, ¶38 (B06-C019-P0038)](../../build/reader/book-06.html#B06-C019-P0038)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 434, ¶160 (B06-C019-P0160)](../../build/reader/book-06.html#B06-C019-P0160)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 420, ¶38 (B06-C019-P0038)](../../build/reader/book-06.html#B06-C019-P0038)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 435, ¶160 (B06-C019-P0160)](../../build/reader/book-06.html#B06-C019-P0160)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 437, ¶179 (B06-C019-P0179)](../../build/reader/book-06.html#B06-C019-P0179)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶187 (B06-C019-P0187)](../../build/reader/book-06.html#B06-C019-P0187)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 439, ¶193 (B06-C019-P0193)](../../build/reader/book-06.html#B06-C019-P0193)
@@ -556,7 +556,7 @@ Evidence: explicit; state: Late evening of 1 March 1997.
 
 Model: Route sequence only; does not prove each described segment is adjacent or fix staircase landing level.
 
-- [Book 6, ch. 19, “Elf Tails”, ref p. 421, ¶54 (B06-C019-P0054)](../../build/reader/book-06.html#B06-C019-P0054)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 421–422, ¶54 (B06-C019-P0054)](../../build/reader/book-06.html#B06-C019-P0054)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 424, ¶74 (B06-C019-P0074)](../../build/reader/book-06.html#B06-C019-P0074)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 424, ¶80 (B06-C019-P0080)](../../build/reader/book-06.html#B06-C019-P0080)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 424, ¶81 (B06-C019-P0081)](../../build/reader/book-06.html#B06-C019-P0081)
@@ -570,11 +570,11 @@ Evidence: explicit; state: Evening after Hufflepuff match, March 1997.
 
 Model: Local bed adjacency and light effect. Ron’s statement that he heard the match commentary from the ward (P0166) supplies an additional reported acoustic connection.
 
-- [Book 6, ch. 19, “Elf Tails”, ref p. 433–434, ¶153 (B06-C019-P0153)](../../build/reader/book-06.html#B06-C019-P0153)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 434, ¶153 (B06-C019-P0153)](../../build/reader/book-06.html#B06-C019-P0153)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 434, ¶154 (B06-C019-P0154)](../../build/reader/book-06.html#B06-C019-P0154)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 434, ¶155 (B06-C019-P0155)](../../build/reader/book-06.html#B06-C019-P0155)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 435, ¶165 (B06-C019-P0165)](../../build/reader/book-06.html#B06-C019-P0165)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 436–437, ¶177 (B06-C019-P0177)](../../build/reader/book-06.html#B06-C019-P0177)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 437, ¶177 (B06-C019-P0177)](../../build/reader/book-06.html#B06-C019-P0177)
 
 ## B06-117: House-elf arrival in hospital wing
 
@@ -589,7 +589,7 @@ Model: Observed instantaneous elf arrival inside the castle despite human Appari
 - [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶185 (B06-C019-P0185)](../../build/reader/book-06.html#B06-C019-P0185)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶187 (B06-C019-P0187)](../../build/reader/book-06.html#B06-C019-P0187)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶188 (B06-C019-P0188)](../../build/reader/book-06.html#B06-C019-P0188)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶189 (B06-C019-P0189)](../../build/reader/book-06.html#B06-C019-P0189)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 438–439, ¶189 (B06-C019-P0189)](../../build/reader/book-06.html#B06-C019-P0189)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 439, ¶193 (B06-C019-P0193)](../../build/reader/book-06.html#B06-C019-P0193)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 439, ¶194 (B06-C019-P0194)](../../build/reader/book-06.html#B06-C019-P0194)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 440, ¶199 (B06-C019-P0199)](../../build/reader/book-06.html#B06-C019-P0199)
@@ -617,14 +617,13 @@ Evidence: explicit; state: Night after tower attack, June 1997.
 
 Model: Ward longitudinal relationship from entrance to far bed; no exact bed count or absolute floor. Pomfrey conjures an extra chair, so visitor furniture can change.
 
-- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 643, ¶6 (B06-C029-P0006)](../../build/reader/book-06.html#B06-C029-P0006)
-- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 643, ¶7 (B06-C029-P0007)](../../build/reader/book-06.html#B06-C029-P0007)
-- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 643–644, ¶9 (B06-C029-P0009)](../../build/reader/book-06.html#B06-C029-P0009)
-- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 644–645, ¶20 (B06-C029-P0020)](../../build/reader/book-06.html#B06-C029-P0020)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 643–644, ¶6 (B06-C029-P0006)](../../build/reader/book-06.html#B06-C029-P0006)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 644, ¶7 (B06-C029-P0007)](../../build/reader/book-06.html#B06-C029-P0007)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 644, ¶9 (B06-C029-P0009)](../../build/reader/book-06.html#B06-C029-P0009)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 645, ¶20 (B06-C029-P0020)](../../build/reader/book-06.html#B06-C029-P0020)
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 645, ¶23 (B06-C029-P0023)](../../build/reader/book-06.html#B06-C029-P0023)
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 646, ¶31 (B06-C029-P0031)](../../build/reader/book-06.html#B06-C029-P0031)
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 647, ¶38 (B06-C029-P0038)](../../build/reader/book-06.html#B06-C029-P0038)
-- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 647, ¶41 (B06-C029-P0041)](../../build/reader/book-06.html#B06-C029-P0041)
-- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 654, ¶85 (B06-C029-P0085)](../../build/reader/book-06.html#B06-C029-P0085)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 647–648, ¶41 (B06-C029-P0041)](../../build/reader/book-06.html#B06-C029-P0041)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 654–655, ¶85 (B06-C029-P0085)](../../build/reader/book-06.html#B06-C029-P0085)
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 655, ¶88 (B06-C029-P0088)](../../build/reader/book-06.html#B06-C029-P0088)
-

@@ -64,3 +64,22 @@ each book, excludes chapter headings and blank paragraphs, and allows a
 paragraph to span pages. These are project reference pages, not print or
 e-reader screen pages. The corpus also retains the EPUB member and the source
 paragraph ordinal (counting blank `<p>` elements) for exact relocation.
+
+Additional non-paragraph narrative fragments use `X` IDs, for example
+`B02-C006-X0001`. These cover text in definition lists and tables that is not
+inside a `<p>`. Each retains its source element tag, ordinal among that tag in
+the chapter body, and `text`/`tail` slot. They count in document order for
+pagination while existing `P` IDs remain unchanged. Their completed reviews
+are recorded separately under the book object's `extra_reviews` array:
+
+```json
+{
+  "id": "B02-C006-X0001",
+  "method": "full-text review of additional non-paragraph fragment",
+  "notes": "Read the complete quiz prompt; no physical or spatial description."
+}
+```
+
+Complete coverage requires all ordinary paragraph ranges and all additional
+fragments to have been read. `extra_blocks` in the source inventory contains
+metadata only; the complete extracted text remains ignored.

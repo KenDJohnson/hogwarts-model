@@ -195,8 +195,8 @@ Evidence: reported; state: Spring 1993.
 
 Model: A reported route clue rather than a mapped path; actual destination reviewed in the next chapter.
 
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 266, ¶146 (B02-C014-P0146)](../../build/reader/book-02.html#B02-C014-P0146)
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 266–267, ¶148 (B02-C014-P0148)](../../build/reader/book-02.html#B02-C014-P0148)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 266–267, ¶146 (B02-C014-P0146)](../../build/reader/book-02.html#B02-C014-P0146)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 267, ¶148 (B02-C014-P0148)](../../build/reader/book-02.html#B02-C014-P0148)
 
 ## B02-121: Hagrid’s empty cabin — mantel and route to Forest
 
@@ -206,7 +206,7 @@ Evidence: explicit; state: Late spring 1993.
 
 Model: Adds mantel storage and specific forest-edge tree; exact distance from cabin to sycamore unknown.
 
-- [Book 2, ch. 15, “Aragog”, ref p. 273–274, ¶58 (B02-C015-P0058)](../../build/reader/book-02.html#B02-C015-P0058)
+- [Book 2, ch. 15, “Aragog”, ref p. 274, ¶58 (B02-C015-P0058)](../../build/reader/book-02.html#B02-C015-P0058)
 - [Book 2, ch. 15, “Aragog”, ref p. 274, ¶59 (B02-C015-P0059)](../../build/reader/book-02.html#B02-C015-P0059)
 - [Book 2, ch. 15, “Aragog”, ref p. 274, ¶60 (B02-C015-P0060)](../../build/reader/book-02.html#B02-C015-P0060)
 - [Book 2, ch. 15, “Aragog”, ref p. 274, ¶61 (B02-C015-P0061)](../../build/reader/book-02.html#B02-C015-P0061)
@@ -227,7 +227,7 @@ Model: Two timed segments include searching; do not convert to fixed distances. 
 - [Book 2, ch. 15, “Aragog”, ref p. 275, ¶66 (B02-C015-P0066)](../../build/reader/book-02.html#B02-C015-P0066)
 - [Book 2, ch. 15, “Aragog”, ref p. 275, ¶67 (B02-C015-P0067)](../../build/reader/book-02.html#B02-C015-P0067)
 - [Book 2, ch. 15, “Aragog”, ref p. 275, ¶70 (B02-C015-P0070)](../../build/reader/book-02.html#B02-C015-P0070)
-- [Book 2, ch. 15, “Aragog”, ref p. 275, ¶71 (B02-C015-P0071)](../../build/reader/book-02.html#B02-C015-P0071)
+- [Book 2, ch. 15, “Aragog”, ref p. 275–276, ¶71 (B02-C015-P0071)](../../build/reader/book-02.html#B02-C015-P0071)
 
 ## B02-123: Forest car clearing
 
@@ -242,8 +242,8 @@ Model: Distinct preliminary clearing before the spider hollow. No surviving airb
 - [Book 2, ch. 15, “Aragog”, ref p. 276, ¶79 (B02-C015-P0079)](../../build/reader/book-02.html#B02-C015-P0079)
 - [Book 2, ch. 15, “Aragog”, ref p. 276, ¶85 (B02-C015-P0085)](../../build/reader/book-02.html#B02-C015-P0085)
 - [Book 2, ch. 15, “Aragog”, ref p. 276, ¶86 (B02-C015-P0086)](../../build/reader/book-02.html#B02-C015-P0086)
-- [Book 2, ch. 15, “Aragog”, ref p. 276, ¶89 (B02-C015-P0089)](../../build/reader/book-02.html#B02-C015-P0089)
-- [Book 2, ch. 15, “Aragog”, ref p. 276–277, ¶90 (B02-C015-P0090)](../../build/reader/book-02.html#B02-C015-P0090)
+- [Book 2, ch. 15, “Aragog”, ref p. 276–277, ¶89 (B02-C015-P0089)](../../build/reader/book-02.html#B02-C015-P0089)
+- [Book 2, ch. 15, “Aragog”, ref p. 277, ¶90 (B02-C015-P0090)](../../build/reader/book-02.html#B02-C015-P0090)
 - [Book 2, ch. 15, “Aragog”, ref p. 277, ¶91 (B02-C015-P0091)](../../build/reader/book-02.html#B02-C015-P0091)
 - [Book 2, ch. 15, “Aragog”, ref p. 277, ¶92 (B02-C015-P0092)](../../build/reader/book-02.html#B02-C015-P0092)
 - [Book 2, ch. 15, “Aragog”, ref p. 277, ¶93 (B02-C015-P0093)](../../build/reader/book-02.html#B02-C015-P0093)
@@ -262,8 +262,8 @@ Model: Height above ground at capture is about ten feet in Ron’s sightline, no
 - [Book 2, ch. 15, “Aragog”, ref p. 277–278, ¶97 (B02-C015-P0097)](../../build/reader/book-02.html#B02-C015-P0097)
 - [Book 2, ch. 15, “Aragog”, ref p. 278, ¶98 (B02-C015-P0098)](../../build/reader/book-02.html#B02-C015-P0098)
 - [Book 2, ch. 15, “Aragog”, ref p. 278, ¶99 (B02-C015-P0099)](../../build/reader/book-02.html#B02-C015-P0099)
-- [Book 2, ch. 15, “Aragog”, ref p. 278, ¶100 (B02-C015-P0100)](../../build/reader/book-02.html#B02-C015-P0100)
-- [Book 2, ch. 15, “Aragog”, ref p. 278–279, ¶101 (B02-C015-P0101)](../../build/reader/book-02.html#B02-C015-P0101)
+- [Book 2, ch. 15, “Aragog”, ref p. 278–279, ¶100 (B02-C015-P0100)](../../build/reader/book-02.html#B02-C015-P0100)
+- [Book 2, ch. 15, “Aragog”, ref p. 279, ¶101 (B02-C015-P0101)](../../build/reader/book-02.html#B02-C015-P0101)
 - [Book 2, ch. 15, “Aragog”, ref p. 279, ¶102 (B02-C015-P0102)](../../build/reader/book-02.html#B02-C015-P0102)
 
 ## B02-125: Aragog’s hollow — central web and colony
@@ -275,16 +275,16 @@ Evidence: explicit; state: Late spring 1993.
 Model: Defines steep enclosed depression, open sky and central domed web, without metric diameter or spider count.
 
 - [Book 2, ch. 15, “Aragog”, ref p. 278, ¶99 (B02-C015-P0099)](../../build/reader/book-02.html#B02-C015-P0099)
-- [Book 2, ch. 15, “Aragog”, ref p. 278, ¶100 (B02-C015-P0100)](../../build/reader/book-02.html#B02-C015-P0100)
+- [Book 2, ch. 15, “Aragog”, ref p. 278–279, ¶100 (B02-C015-P0100)](../../build/reader/book-02.html#B02-C015-P0100)
 - [Book 2, ch. 15, “Aragog”, ref p. 279, ¶104 (B02-C015-P0104)](../../build/reader/book-02.html#B02-C015-P0104)
 - [Book 2, ch. 15, “Aragog”, ref p. 279, ¶105 (B02-C015-P0105)](../../build/reader/book-02.html#B02-C015-P0105)
 - [Book 2, ch. 15, “Aragog”, ref p. 279, ¶107 (B02-C015-P0107)](../../build/reader/book-02.html#B02-C015-P0107)
 - [Book 2, ch. 15, “Aragog”, ref p. 279, ¶111 (B02-C015-P0111)](../../build/reader/book-02.html#B02-C015-P0111)
-- [Book 2, ch. 15, “Aragog”, ref p. 279, ¶113 (B02-C015-P0113)](../../build/reader/book-02.html#B02-C015-P0113)
+- [Book 2, ch. 15, “Aragog”, ref p. 279–280, ¶113 (B02-C015-P0113)](../../build/reader/book-02.html#B02-C015-P0113)
 - [Book 2, ch. 15, “Aragog”, ref p. 280, ¶118 (B02-C015-P0118)](../../build/reader/book-02.html#B02-C015-P0118)
 - [Book 2, ch. 15, “Aragog”, ref p. 281, ¶126 (B02-C015-P0126)](../../build/reader/book-02.html#B02-C015-P0126)
 - [Book 2, ch. 15, “Aragog”, ref p. 281, ¶129 (B02-C015-P0129)](../../build/reader/book-02.html#B02-C015-P0129)
-- [Book 2, ch. 15, “Aragog”, ref p. 281–282, ¶131 (B02-C015-P0131)](../../build/reader/book-02.html#B02-C015-P0131)
+- [Book 2, ch. 15, “Aragog”, ref p. 282, ¶131 (B02-C015-P0131)](../../build/reader/book-02.html#B02-C015-P0131)
 - [Book 2, ch. 15, “Aragog”, ref p. 282, ¶135 (B02-C015-P0135)](../../build/reader/book-02.html#B02-C015-P0135)
 - [Book 2, ch. 15, “Aragog”, ref p. 282, ¶136 (B02-C015-P0136)](../../build/reader/book-02.html#B02-C015-P0136)
 
@@ -326,11 +326,11 @@ Evidence: explicit; state: Late spring 1993.
 Model: Confirms patrols and return sequence. Common-room fire is reduced to glowing ash after the long excursion.
 
 - [Book 2, ch. 15, “Aragog”, ref p. 283, ¶144 (B02-C015-P0144)](../../build/reader/book-02.html#B02-C015-P0144)
-- [Book 2, ch. 15, “Aragog”, ref p. 283, ¶145 (B02-C015-P0145)](../../build/reader/book-02.html#B02-C015-P0145)
+- [Book 2, ch. 15, “Aragog”, ref p. 283–284, ¶145 (B02-C015-P0145)](../../build/reader/book-02.html#B02-C015-P0145)
 - [Book 2, ch. 15, “Aragog”, ref p. 284, ¶148 (B02-C015-P0148)](../../build/reader/book-02.html#B02-C015-P0148)
 - [Book 2, ch. 15, “Aragog”, ref p. 284, ¶149 (B02-C015-P0149)](../../build/reader/book-02.html#B02-C015-P0149)
 - [Book 2, ch. 15, “Aragog”, ref p. 284, ¶151 (B02-C015-P0151)](../../build/reader/book-02.html#B02-C015-P0151)
-- [Book 2, ch. 15, “Aragog”, ref p. 284, ¶152 (B02-C015-P0152)](../../build/reader/book-02.html#B02-C015-P0152)
+- [Book 2, ch. 15, “Aragog”, ref p. 284–285, ¶152 (B02-C015-P0152)](../../build/reader/book-02.html#B02-C015-P0152)
 - [Book 2, ch. 15, “Aragog”, ref p. 285, ¶154 (B02-C015-P0154)](../../build/reader/book-02.html#B02-C015-P0154)
 
 ## B03-049: Castle — storm lighting and audible Forest
@@ -1230,7 +1230,7 @@ Evidence: reported; state: Evening arrival, 1 September 1996.
 
 Model: Mountain habitat beyond the Forest; no exact mountain, cave entrance, route or distance is supplied.
 
-- [Book 6, ch. 8, “Snape Victorious”, ref p. 175–176, ¶127 (B06-C008-P0127)](../../build/reader/book-06.html#B06-C008-P0127)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 176, ¶127 (B06-C008-P0127)](../../build/reader/book-06.html#B06-C008-P0127)
 
 ## B06-049: Aragog colony deep in Forbidden Forest
 
@@ -1240,10 +1240,10 @@ Evidence: reported; state: September 1996.
 
 Model: Habitat remembered by Harry and access danger reported by Hagrid. No new colony geometry or exact route; record ecological state without treating Hagrid’s safety judgement as a physical barrier.
 
-- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 238–239, ¶118 (B06-C011-P0118)](../../build/reader/book-06.html#B06-C011-P0118)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 239, ¶118 (B06-C011-P0118)](../../build/reader/book-06.html#B06-C011-P0118)
 - [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 239, ¶119 (B06-C011-P0119)](../../build/reader/book-06.html#B06-C011-P0119)
 - [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 239, ¶121 (B06-C011-P0121)](../../build/reader/book-06.html#B06-C011-P0121)
-- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 239–240, ¶123 (B06-C011-P0123)](../../build/reader/book-06.html#B06-C011-P0123)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 240, ¶123 (B06-C011-P0123)](../../build/reader/book-06.html#B06-C011-P0123)
 
 ## B06-138: Forest spider colony after Aragog’s death
 
@@ -1253,12 +1253,12 @@ Evidence: reported; state: Apparition-test day, spring 1997.
 
 Model: Changed access danger and web habitat; no magical barrier or precise colony location added.
 
-- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶121 (B06-C022-P0121)](../../build/reader/book-06.html#B06-C022-P0121)
-- [Book 6, ch. 22, “After the Burial”, ref p. 503–504, ¶123 (B06-C022-P0123)](../../build/reader/book-06.html#B06-C022-P0123)
+- [Book 6, ch. 22, “After the Burial”, ref p. 503–504, ¶121 (B06-C022-P0121)](../../build/reader/book-06.html#B06-C022-P0121)
+- [Book 6, ch. 22, “After the Burial”, ref p. 504, ¶123 (B06-C022-P0123)](../../build/reader/book-06.html#B06-C022-P0123)
 - [Book 6, ch. 22, “After the Burial”, ref p. 505, ¶135 (B06-C022-P0135)](../../build/reader/book-06.html#B06-C022-P0135)
 - [Book 6, ch. 22, “After the Burial”, ref p. 505, ¶136 (B06-C022-P0136)](../../build/reader/book-06.html#B06-C022-P0136)
 - [Book 6, ch. 22, “After the Burial”, ref p. 505, ¶137 (B06-C022-P0137)](../../build/reader/book-06.html#B06-C022-P0137)
-- [Book 6, ch. 22, “After the Burial”, ref p. 505, ¶138 (B06-C022-P0138)](../../build/reader/book-06.html#B06-C022-P0138)
+- [Book 6, ch. 22, “After the Burial”, ref p. 505–506, ¶138 (B06-C022-P0138)](../../build/reader/book-06.html#B06-C022-P0138)
 
 ## B06-140: Aragog grave and earth mound
 
@@ -1268,12 +1268,12 @@ Evidence: explicit; state: Apparition-test day, spring 1997.
 
 Model: Ten feet describes spoil-heap height, not grave depth. Record the filled grave as the resulting terrain feature and the open pit as the funeral state.
 
-- [Book 6, ch. 22, “After the Burial”, ref p. 506–507, ¶145 (B06-C022-P0145)](../../build/reader/book-06.html#B06-C022-P0145)
+- [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶145 (B06-C022-P0145)](../../build/reader/book-06.html#B06-C022-P0145)
 - [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶151 (B06-C022-P0151)](../../build/reader/book-06.html#B06-C022-P0151)
-- [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶152 (B06-C022-P0152)](../../build/reader/book-06.html#B06-C022-P0152)
+- [Book 6, ch. 22, “After the Burial”, ref p. 507–508, ¶152 (B06-C022-P0152)](../../build/reader/book-06.html#B06-C022-P0152)
 - [Book 6, ch. 22, “After the Burial”, ref p. 508, ¶155 (B06-C022-P0155)](../../build/reader/book-06.html#B06-C022-P0155)
-- [Book 6, ch. 22, “After the Burial”, ref p. 508, ¶157 (B06-C022-P0157)](../../build/reader/book-06.html#B06-C022-P0157)
-- [Book 6, ch. 22, “After the Burial”, ref p. 508–509, ¶159 (B06-C022-P0159)](../../build/reader/book-06.html#B06-C022-P0159)
+- [Book 6, ch. 22, “After the Burial”, ref p. 508–509, ¶157 (B06-C022-P0157)](../../build/reader/book-06.html#B06-C022-P0157)
+- [Book 6, ch. 22, “After the Burial”, ref p. 509, ¶159 (B06-C022-P0159)](../../build/reader/book-06.html#B06-C022-P0159)
 
 ## B06-144: Hagrid’s school cupboard for young Aragog
 
@@ -1283,7 +1283,7 @@ Evidence: reported; state: Hagrid’s student years, recalled spring 1997.
 
 Model: Historical animal-hiding cupboard only; exact room, floor, size and survival are unspecified.
 
-- [Book 6, ch. 22, “After the Burial”, ref p. 509–510, ¶166 (B06-C022-P0166)](../../build/reader/book-06.html#B06-C022-P0166)
+- [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶166 (B06-C022-P0166)](../../build/reader/book-06.html#B06-C022-P0166)
 - [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶168 (B06-C022-P0168)](../../build/reader/book-06.html#B06-C022-P0168)
 - [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶169 (B06-C022-P0169)](../../build/reader/book-06.html#B06-C022-P0169)
 
@@ -1305,8 +1305,8 @@ Evidence: explicit; state: Dumbledore funeral, June 1997.
 
 Model: Lake–Forest sightline and shaded tree edge; no measured arrow range, village or centaur settlement.
 
-- [Book 6, ch. 30, “The White Tomb”, ref p. 679, ¶59 (B06-C030-P0059)](../../build/reader/book-06.html#B06-C030-P0059)
-- [Book 6, ch. 30, “The White Tomb”, ref p. 680–681, ¶63 (B06-C030-P0063)](../../build/reader/book-06.html#B06-C030-P0063)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 679–680, ¶59 (B06-C030-P0059)](../../build/reader/book-06.html#B06-C030-P0059)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 681, ¶63 (B06-C030-P0063)](../../build/reader/book-06.html#B06-C030-P0063)
 
 ## B07-006: Hogwarts unicorn herd
 
@@ -1346,3 +1346,234 @@ Model: Dated use as detention/work area and character report of dangerous fauna;
 - [Book 7, ch. 15, “The Goblin’s Revenge”, ref p. 324–325, ¶254 (B07-C015-P0254)](../../build/reader/book-07.html#B07-C015-P0254)
 - [Book 7, ch. 15, “The Goblin’s Revenge”, ref p. 325, ¶255 (B07-C015-P0255)](../../build/reader/book-07.html#B07-C015-P0255)
 
+## B07-072: Forest-side boundary → castle corridor window
+
+Hagrid reports Grawp carrying him and Fang from their cave, smashing through the boundary by the Forest and putting them through a castle window. Harry sees Hagrid crash through a window to his left into the opposite corridor wall, with Grawp outside. Hagrid’s later footfalls shake the corridor’s floorboards.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts before and just after midnight.
+
+Model: Dated breach and wooden corridor floor; boundary material and height of this window are not given.
+
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 654, ¶108 (B07-C031-P0108)](../../build/reader/book-07.html#B07-C031-P0108)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 654, ¶109 (B07-C031-P0109)](../../build/reader/book-07.html#B07-C031-P0109)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 654–655, ¶111 (B07-C031-P0111)](../../build/reader/book-07.html#B07-C031-P0111)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 655, ¶112 (B07-C031-P0112)](../../build/reader/book-07.html#B07-C031-P0112)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 655, ¶113 (B07-C031-P0113)](../../build/reader/book-07.html#B07-C031-P0113)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 655, ¶116 (B07-C031-P0116)](../../build/reader/book-07.html#B07-C031-P0116)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 655, ¶118 (B07-C031-P0118)](../../build/reader/book-07.html#B07-C031-P0118)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 655, ¶119 (B07-C031-P0119)](../../build/reader/book-07.html#B07-C031-P0119)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 655–656, ¶120 (B07-C031-P0120)](../../build/reader/book-07.html#B07-C031-P0120)
+
+## B07-094: Grounds between castle and Forest / Dementor wave and giant
+
+Halfway towards the Forest the trio meet about a hundred Dementors advancing towards the castle. Their cold freezes breath and muffles battle sounds; Patronuses scatter them and warmth and normal volume return. Another giant emerges from the Forest direction carrying a club taller than the students, forcing them to run towards the Whomping Willow.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts.
+
+Model: Approximate encounter midpoint and directional origin, no measured separation between Forest and Willow.
+
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 686–687, ¶84 (B07-C032-P0084)](../../build/reader/book-07.html#B07-C032-P0084)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 687, ¶85 (B07-C032-P0085)](../../build/reader/book-07.html#B07-C032-P0085)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 687, ¶86 (B07-C032-P0086)](../../build/reader/book-07.html#B07-C032-P0086)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 687, ¶90 (B07-C032-P0090)](../../build/reader/book-07.html#B07-C032-P0090)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 687, ¶91 (B07-C032-P0091)](../../build/reader/book-07.html#B07-C032-P0091)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 687–688, ¶92 (B07-C032-P0092)](../../build/reader/book-07.html#B07-C032-P0092)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 688, ¶96 (B07-C032-P0096)](../../build/reader/book-07.html#B07-C032-P0096)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 688, ¶98 (B07-C032-P0098)](../../build/reader/book-07.html#B07-C032-P0098)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 688, ¶99 (B07-C032-P0099)](../../build/reader/book-07.html#B07-C032-P0099)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 688–689, ¶100 (B07-C032-P0100)](../../build/reader/book-07.html#B07-C032-P0100)
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 689, ¶101 (B07-C032-P0101)](../../build/reader/book-07.html#B07-C032-P0101)
+
+## B07-095: Lake / Forbidden Forest during battle
+
+While running to the Willow, Harry hears the lake crashing like the sea and the Forbidden Forest creaking despite a windless night, as though the grounds themselves are in rebellion.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts.
+
+Model: Dated magical or battle disturbance; no ordinary-weather explanation or permanent rough-lake condition implied.
+
+- [Book 7, ch. 32, “The Elder Wand”, ref p. 689, ¶103 (B07-C032-P0103)](../../build/reader/book-07.html#B07-C032-P0103)
+
+## B07-118: Front grounds → Hagrid’s hut → Forbidden Forest edge
+
+Continuing away from the castle, Harry passes Hagrid’s hut, dark and silent, then reaches the Forest edge. The hut recalls a copper kettle shining on the fire, rock cakes and giant grubs from earlier visits.
+
+Evidence: explicit; state: May 1998, near four in the morning during the ceasefire.
+
+Model: Confirms the hut is standing during this battle after book 6’s fire, without supplying the rebuilding history or exact distance from castle/Forest.
+
+- [Book 7, ch. 34, “The Forest Again”, ref p. 737–738, ¶39 (B07-C034-P0039)](../../build/reader/book-07.html#B07-C034-P0039)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 738, ¶46 (B07-C034-P0046)](../../build/reader/book-07.html#B07-C034-P0046)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 738–739, ¶47 (B07-C034-P0047)](../../build/reader/book-07.html#B07-C034-P0047)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 739, ¶48 (B07-C034-P0048)](../../build/reader/book-07.html#B07-C034-P0048)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 739, ¶49 (B07-C034-P0049)](../../build/reader/book-07.html#B07-C034-P0049)
+
+## B07-119: Forbidden Forest outer edge / Dementors and terrain
+
+Earthy, twig-strewn ground marks the outer Forest edge. Dementors glide among the trees, bringing chill. A cold breeze seems to issue from deeper in the Forest.
+
+Evidence: explicit; state: May 1998, near four in the morning during the ceasefire.
+
+Model: Local terrain and dated enemy presence; breeze attribution is qualified by the narration.
+
+- [Book 7, ch. 34, “The Forest Again”, ref p. 739, ¶48 (B07-C034-P0048)](../../build/reader/book-07.html#B07-C034-P0048)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 739, ¶49 (B07-C034-P0049)](../../build/reader/book-07.html#B07-C034-P0049)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 740, ¶58 (B07-C034-P0058)](../../build/reader/book-07.html#B07-C034-P0058)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 742, ¶75 (B07-C034-P0075)](../../build/reader/book-07.html#B07-C034-P0075)
+
+## B07-121: Forbidden Forest / Resurrection Stone effects and loss
+
+At the Forest edge Harry turns the Stone three times and sees his dead parents, Sirius and Lupin, more substantial than ghosts but less than living bodies. They are invisible to others and shield him emotionally from Dementors like Patronuses. On entering the clearing’s firelight he drops the Stone and they vanish.
+
+Evidence: explicit; state: May 1998, near four in the morning during the ceasefire.
+
+Model: Dated supernatural companions and lost object at the approach to the clearing; no exact drop coordinates or persistent visible figures afterward.
+
+- [Book 7, ch. 34, “The Forest Again”, ref p. 740, ¶54 (B07-C034-P0054)](../../build/reader/book-07.html#B07-C034-P0054)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 740, ¶55 (B07-C034-P0055)](../../build/reader/book-07.html#B07-C034-P0055)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 740, ¶57 (B07-C034-P0057)](../../build/reader/book-07.html#B07-C034-P0057)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 740, ¶58 (B07-C034-P0058)](../../build/reader/book-07.html#B07-C034-P0058)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 740, ¶59 (B07-C034-P0059)](../../build/reader/book-07.html#B07-C034-P0059)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 742, ¶76 (B07-C034-P0076)](../../build/reader/book-07.html#B07-C034-P0076)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 742, ¶77 (B07-C034-P0077)](../../build/reader/book-07.html#B07-C034-P0077)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 742, ¶78 (B07-C034-P0078)](../../build/reader/book-07.html#B07-C034-P0078)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 742, ¶79 (B07-C034-P0079)](../../build/reader/book-07.html#B07-C034-P0079)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 742, ¶82 (B07-C034-P0082)](../../build/reader/book-07.html#B07-C034-P0082)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 743, ¶86 (B07-C034-P0086)](../../build/reader/book-07.html#B07-C034-P0086)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 745, ¶107 (B07-C034-P0107)](../../build/reader/book-07.html#B07-C034-P0107)
+
+## B07-120: Forbidden Forest / dense interior route
+
+Harry proceeds deeper through old trees growing close together, with tangled branches and gnarled twisted roots underfoot. He stumbles and slips; a pair of patrolling Death Eaters emerge from behind a nearby tree, then lead him farther in.
+
+Evidence: explicit; state: May 1998, near four in the morning during the ceasefire.
+
+Model: Natural obstacles and dense woodland, without a named established path or a compass bearing. Dolohov’s statement about Hagrid keeping creatures there is a character report.
+
+- [Book 7, ch. 34, “The Forest Again”, ref p. 742, ¶82 (B07-C034-P0082)](../../build/reader/book-07.html#B07-C034-P0082)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 742–743, ¶83 (B07-C034-P0083)](../../build/reader/book-07.html#B07-C034-P0083)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 743, ¶84 (B07-C034-P0084)](../../build/reader/book-07.html#B07-C034-P0084)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 743, ¶85 (B07-C034-P0085)](../../build/reader/book-07.html#B07-C034-P0085)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 743, ¶86 (B07-C034-P0086)](../../build/reader/book-07.html#B07-C034-P0086)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 743, ¶87 (B07-C034-P0087)](../../build/reader/book-07.html#B07-C034-P0087)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 743, ¶88 (B07-C034-P0088)](../../build/reader/book-07.html#B07-C034-P0088)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 743, ¶89 (B07-C034-P0089)](../../build/reader/book-07.html#B07-C034-P0089)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 743, ¶90 (B07-C034-P0090)](../../build/reader/book-07.html#B07-C034-P0090)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 743, ¶91 (B07-C034-P0091)](../../build/reader/book-07.html#B07-C034-P0091)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 743, ¶92 (B07-C034-P0092)](../../build/reader/book-07.html#B07-C034-P0092)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 743, ¶93 (B07-C034-P0093)](../../build/reader/book-07.html#B07-C034-P0093)
+
+## B07-122: Aragog’s former clearing / Death Eater camp
+
+After only minutes following the patrol deeper in, Harry reaches the clearing where Aragog lived. Remnants of his vast web remain, but the descendants have been driven out to fight. A fire burns in the centre, surrounded by silent Death Eaters; two giants sit at the group’s outskirts, casting huge shadows.
+
+Evidence: explicit; state: May 1998, near four in the morning during the ceasefire.
+
+Model: Relative few-minute final segment, not total castle-to-clearing travel time. Dated occupation and reduced spider presence.
+
+- [Book 7, ch. 34, “The Forest Again”, ref p. 743, ¶93 (B07-C034-P0093)](../../build/reader/book-07.html#B07-C034-P0093)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 743–744, ¶94 (B07-C034-P0094)](../../build/reader/book-07.html#B07-C034-P0094)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 744, ¶95 (B07-C034-P0095)](../../build/reader/book-07.html#B07-C034-P0095)
+
+## B07-123: Forest clearing / Voldemort, fire, protective sphere and prisoner tree
+
+Voldemort stands beyond the fire with Nagini’s glittering sphere floating behind his head. Bellatrix sits closest to him. Harry enters the firelight and faces him across only the fire; Hagrid is bound to a nearby tree, his struggles shaking its branches.
+
+Evidence: explicit; state: May 1998, near four in the morning during the ceasefire.
+
+Model: Local staging for this confrontation, no fixed camp architecture. Tree species, direction and precise separation are unstated.
+
+- [Book 7, ch. 34, “The Forest Again”, ref p. 744, ¶95 (B07-C034-P0095)](../../build/reader/book-07.html#B07-C034-P0095)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 744, ¶96 (B07-C034-P0096)](../../build/reader/book-07.html#B07-C034-P0096)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 744, ¶97 (B07-C034-P0097)](../../build/reader/book-07.html#B07-C034-P0097)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 745, ¶101 (B07-C034-P0101)](../../build/reader/book-07.html#B07-C034-P0101)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 745, ¶103 (B07-C034-P0103)](../../build/reader/book-07.html#B07-C034-P0103)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 745, ¶104 (B07-C034-P0104)](../../build/reader/book-07.html#B07-C034-P0104)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 745, ¶107 (B07-C034-P0107)](../../build/reader/book-07.html#B07-C034-P0107)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 745–746, ¶108 (B07-C034-P0108)](../../build/reader/book-07.html#B07-C034-P0108)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 746, ¶111 (B07-C034-P0111)](../../build/reader/book-07.html#B07-C034-P0111)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 746, ¶113 (B07-C034-P0113)](../../build/reader/book-07.html#B07-C034-P0113)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 746, ¶114 (B07-C034-P0114)](../../build/reader/book-07.html#B07-C034-P0114)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 746, ¶115 (B07-C034-P0115)](../../build/reader/book-07.html#B07-C034-P0115)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 746–747, ¶117 (B07-C034-P0117)](../../build/reader/book-07.html#B07-C034-P0117)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 747, ¶118 (B07-C034-P0118)](../../build/reader/book-07.html#B07-C034-P0118)
+- [Book 7, ch. 34, “The Forest Again”, ref p. 747, ¶119 (B07-C034-P0119)](../../build/reader/book-07.html#B07-C034-P0119)
+
+## B07-124: Forest clearing → thinning trees → outer edge
+
+Harry lies on cold hard ground in the clearing, then Hagrid carries him through close-growing trees whose branches catch his hair and robes. The two following giants knock trees over, disturbing shrieking birds. The trees gradually thin towards open ground; centaurs watch before the party reaches the fresh air of the edge, where Dementors patrol the outer trees.
+
+Evidence: explicit; state: May 1998, final battle at dawn.
+
+Model: Return-route vegetation gradient and dated tree destruction; Hagrid’s words establish watching centaurs without a witnessed number.
+
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 767, ¶1 (B07-C036-P0001)](../../build/reader/book-07.html#B07-C036-P0001)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 768, ¶8 (B07-C036-P0008)](../../build/reader/book-07.html#B07-C036-P0008)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 768–769, ¶12 (B07-C036-P0012)](../../build/reader/book-07.html#B07-C036-P0012)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 769, ¶21 (B07-C036-P0021)](../../build/reader/book-07.html#B07-C036-P0021)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 770, ¶24 (B07-C036-P0024)](../../build/reader/book-07.html#B07-C036-P0024)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 770, ¶25 (B07-C036-P0025)](../../build/reader/book-07.html#B07-C036-P0025)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 770–771, ¶28 (B07-C036-P0028)](../../build/reader/book-07.html#B07-C036-P0028)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 771, ¶29 (B07-C036-P0029)](../../build/reader/book-07.html#B07-C036-P0029)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 771, ¶30 (B07-C036-P0030)](../../build/reader/book-07.html#B07-C036-P0030)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 771, ¶31 (B07-C036-P0031)](../../build/reader/book-07.html#B07-C036-P0031)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 771, ¶32 (B07-C036-P0032)](../../build/reader/book-07.html#B07-C036-P0032)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 771–772, ¶33 (B07-C036-P0033)](../../build/reader/book-07.html#B07-C036-P0033)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 772, ¶34 (B07-C036-P0034)](../../build/reader/book-07.html#B07-C036-P0034)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 772, ¶35 (B07-C036-P0035)](../../build/reader/book-07.html#B07-C036-P0035)
+
+## B07-125: Forest edge → castle front lawn and steps
+
+Voldemort magnifies his voice through the grounds from the Forest edge, then leads the procession towards the castle. The Death Eaters form a line facing its open front doors, lit red by light from the Entrance Hall; defenders fill the doorway and front steps. Harry is lowered onto grass at Voldemort’s feet between the opposing groups.
+
+Evidence: explicit; state: May 1998, final battle at dawn.
+
+Model: Front lawn, lit Hall sightline and open staging, without measured distances. Nagini has been released from her protective sphere and rides Voldemort’s shoulders.
+
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 771–772, ¶33 (B07-C036-P0033)](../../build/reader/book-07.html#B07-C036-P0033)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 772, ¶34 (B07-C036-P0034)](../../build/reader/book-07.html#B07-C036-P0034)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 772, ¶35 (B07-C036-P0035)](../../build/reader/book-07.html#B07-C036-P0035)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 772, ¶36 (B07-C036-P0036)](../../build/reader/book-07.html#B07-C036-P0036)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 772, ¶37 (B07-C036-P0037)](../../build/reader/book-07.html#B07-C036-P0037)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 772–773, ¶38 (B07-C036-P0038)](../../build/reader/book-07.html#B07-C036-P0038)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 773, ¶39 (B07-C036-P0039)](../../build/reader/book-07.html#B07-C036-P0039)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 773, ¶40 (B07-C036-P0040)](../../build/reader/book-07.html#B07-C036-P0040)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 773, ¶42 (B07-C036-P0042)](../../build/reader/book-07.html#B07-C036-P0042)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 773, ¶43 (B07-C036-P0043)](../../build/reader/book-07.html#B07-C036-P0043)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 773, ¶44 (B07-C036-P0044)](../../build/reader/book-07.html#B07-C036-P0044)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 773–774, ¶46 (B07-C036-P0046)](../../build/reader/book-07.html#B07-C036-P0046)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 774, ¶51 (B07-C036-P0051)](../../build/reader/book-07.html#B07-C036-P0051)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 774, ¶52 (B07-C036-P0052)](../../build/reader/book-07.html#B07-C036-P0052)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 774, ¶53 (B07-C036-P0053)](../../build/reader/book-07.html#B07-C036-P0053)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 775, ¶56 (B07-C036-P0056)](../../build/reader/book-07.html#B07-C036-P0056)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 775, ¶60 (B07-C036-P0060)](../../build/reader/book-07.html#B07-C036-P0060)
+
+## B07-135: Forbidden Forest / lost Stone and proposed tomb return
+
+Harry tells Dumbledore’s portrait that he dropped the Stone in the Forest and does not know exactly where. He intends to leave it unsearched, and to put the Elder Wand back where it came from.
+
+Evidence: reported; state: May 1998, post-battle plans.
+
+Model: Location discussion after the battle does not depict a completed return of the wand or a repaired tomb. Earlier chapters identify the wand’s source as Dumbledore’s tomb.
+
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 794, ¶179 (B07-C036-P0179)](../../build/reader/book-07.html#B07-C036-P0179)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 794, ¶180 (B07-C036-P0180)](../../build/reader/book-07.html#B07-C036-P0180)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 794, ¶181 (B07-C036-P0181)](../../build/reader/book-07.html#B07-C036-P0181)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 795, ¶185 (B07-C036-P0185)](../../build/reader/book-07.html#B07-C036-P0185)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 795, ¶186 (B07-C036-P0186)](../../build/reader/book-07.html#B07-C036-P0186)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 795, ¶192 (B07-C036-P0192)](../../build/reader/book-07.html#B07-C036-P0192)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 795, ¶193 (B07-C036-P0193)](../../build/reader/book-07.html#B07-C036-P0193)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 795–796, ¶194 (B07-C036-P0194)](../../build/reader/book-07.html#B07-C036-P0194)
+- [Book 7, ch. 36, “The Flaw in the Plan”, ref p. 796, ¶195 (B07-C036-P0195)](../../build/reader/book-07.html#B07-C036-P0195)
+
+## B07-138: School arrival boats / Thestral carriages
+
+Harry tells first-year Albus he will go up to school in the boats rather than the carriages. James warns him about Thestrals, which Albus says James described as invisible; Harry calls them gentle.
+
+Evidence: reported; state: 1 September 2017 epilogue.
+
+Model: Confirms the two arrival modes remain in use nineteen years after the battle. No launch site, lake course, carriage road or universal visibility rule is supplied here.
+
+- [Book 7, Epilogue, “Nineteen Years Later”, ref p. 800, ¶54 (B07-C037-P0054)](../../build/reader/book-07.html#B07-C037-P0054)
+- [Book 7, Epilogue, “Nineteen Years Later”, ref p. 800, ¶55 (B07-C037-P0055)](../../build/reader/book-07.html#B07-C037-P0055)
+- [Book 7, Epilogue, “Nineteen Years Later”, ref p. 801, ¶57 (B07-C037-P0057)](../../build/reader/book-07.html#B07-C037-P0057)

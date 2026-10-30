@@ -26,6 +26,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B02-126](catalogue.md#b02-126)
 
+## Aragog’s former clearing / Death Eater camp
+
+[B07-122](catalogue.md#b07-122)
+
 ## Aragog’s hollow — car rescue and Forest exit
 
 [B02-128](catalogue.md#b02-128)
@@ -69,6 +73,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Astronomy Tower summit
 
 [B05-262](catalogue.md#b05-262)
+
+## Astronomy, Ravenclaw and Gryffindor towers / siege positions
+
+[B07-068](catalogue.md#b07-068)
 
 ## Attack corridor to hospital wing
 
@@ -125,6 +133,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Beauxbatons paddock trough
 
 [B04-101](catalogue.md#b04-101)
+
+## Blasted outer corridor / armour niche
+
+[B07-089](catalogue.md#b07-089)
 
 ## Board near Fat Lady corridor
 
@@ -214,6 +226,14 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B05-200](catalogue.md#b05-200)
 
+## Castle / Hogsmeade / mountain-cave acoustics
+
+[B07-067](catalogue.md#b07-067)
+
+## Castle / hypothesised historical diadem deposition
+
+[B07-071](catalogue.md#b07-071)
+
 ## Castle alternative secret routes
 
 [B06-078](catalogue.md#b06-078)
@@ -246,6 +266,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B01-027](catalogue.md#b01-027)
 
+## Castle courtyard / pillar
+
+[B07-108](catalogue.md#b07-108)
+
 ## Castle doors, portraits and armour
 
 [B01-026](catalogue.md#b01-026)
@@ -265,6 +289,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Castle front doors — inside lock
 
 [B02-120](catalogue.md#b02-120)
+
+## Castle front steps / giant attack / upper window
+
+[B07-093](catalogue.md#b07-093)
 
 ## Castle front steps–drive–gates
 
@@ -294,6 +322,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B01-088](catalogue.md#b01-088)
 
+## Castle passages / vase and displaced display statue
+
+[B07-076](catalogue.md#b07-076)
+
 ## Castle patrols and lesson route
 
 [B02-132](catalogue.md#b02-132)
@@ -301,6 +333,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Castle physical and mental protections
 
 [B05-166](catalogue.md#b05-166)
+
+## Castle portraits / news network and Sir Cadogan
+
+[B07-075](catalogue.md#b07-075)
 
 ## Castle portraits and armour
 
@@ -321,6 +357,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Castle staircases
 
 [B01-025](catalogue.md#b01-025)
+
+## Castle statues and suits of armour
+
+[B07-063](catalogue.md#b07-063)
 
 ## Castle to gates: departing staff carriage
 
@@ -353,6 +393,18 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Castle turrets, courtyard and bell
 
 [B06-134](catalogue.md#b06-134)
+
+## Castle walls / Mandrake defence
+
+[B07-074](catalogue.md#b07-074)
+
+## Castle walls / resistance graffiti
+
+[B07-046](catalogue.md#b07-046)
+
+## Castle window / Sorting Hat during confrontation
+
+[B07-126](catalogue.md#b07-126)
 
 ## Castle winter interiors
 
@@ -445,6 +497,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Chamber monster — fear and historical bathroom death
 
 [B02-127](catalogue.md#b02-127)
+
+## Chamber of Secrets / entry and Basilisk remains
+
+[B07-077](catalogue.md#b07-077)
 
 ## Chamber of Secrets — founder legend
 
@@ -622,6 +678,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B05-070](catalogue.md#b05-070)
 
+## Concealed stair / two tapestries / lower corridor
+
+[B07-090](catalogue.md#b07-090)
+
 ## Concealed stair shortcut with vanishing step
 
 [B06-186](catalogue.md#b06-186)
@@ -638,6 +698,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B05-043](catalogue.md#b05-043)
 
+## Corridor outside Room of Requirement / exploded outer wall
+
+[B07-088](catalogue.md#b07-088)
+
 ## Corridor structural battle damage
 
 [B06-184](catalogue.md#b06-184)
@@ -653,6 +717,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Corridor view towards Hagrid cabin
 
 [B06-090](catalogue.md#b06-090)
+
+## Corridor windows / castle foot / North Battlements
+
+[B07-080](catalogue.md#b07-080)
 
 ## Corridors between Gryffindor and headmaster entrance
 
@@ -1010,6 +1078,22 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B01-010](catalogue.md#b01-010), [B04-006](catalogue.md#b04-006)
 
+## Entrance Hall / adjoining corridor and ghosts
+
+[B07-070](catalogue.md#b07-070)
+
+## Entrance Hall / ceasefire damage
+
+[B07-102](catalogue.md#b07-102)
+
+## Entrance Hall / hourglass, balcony, marble banisters and doors
+
+[B07-092](catalogue.md#b07-092)
+
+## Entrance Hall / Yule Ball circulation
+
+[B07-112](catalogue.md#b07-112)
+
 ## Entrance Hall and Great Hall sightline
 
 [B05-255](catalogue.md#b05-255)
@@ -1202,6 +1286,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B06-102](catalogue.md#b06-102)
 
+## Fifth-floor corridor route → Ravenclaw stair
+
+[B07-052](catalogue.md#b07-052)
+
 ## Fifth-year boys’ dormitory fittings
 
 [B05-027](catalogue.md#b05-027)
@@ -1334,13 +1422,29 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B04-001](catalogue.md#b04-001), [B06-005](catalogue.md#b06-005), [B07-020](catalogue.md#b07-020)
 
+## Forbidden Forest / dense interior route
+
+[B07-120](catalogue.md#b07-120)
+
 ## Forbidden Forest / Hagrid’s hut
 
 [B07-016](catalogue.md#b07-016)
 
+## Forbidden Forest / lost Stone and proposed tomb return
+
+[B07-135](catalogue.md#b07-135)
+
+## Forbidden Forest / Resurrection Stone effects and loss
+
+[B07-121](catalogue.md#b07-121)
+
 ## Forbidden Forest entrance path and fork
 
 [B01-108](catalogue.md#b01-108)
+
+## Forbidden Forest outer edge / Dementors and terrain
+
+[B07-119](catalogue.md#b07-119)
 
 ## Forbidden Forest: Sirius’s refuge
 
@@ -1366,9 +1470,17 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B02-123](catalogue.md#b02-123)
 
+## Forest clearing / Voldemort, fire, protective sphere and prisoner tree
+
+[B07-123](catalogue.md#b07-123)
+
 ## Forest clearing — dead unicorn and attacker
 
 [B01-113](catalogue.md#b01-113)
+
+## Forest clearing → thinning trees → outer edge
+
+[B07-124](catalogue.md#b07-124)
 
 ## Forest danger — werewolf rumour and Hagrid’s assurance
 
@@ -1377,6 +1489,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Forest edge via cabin to Gryffindor Tower
 
 [B02-129](catalogue.md#b02-129)
+
+## Forest edge → castle front lawn and steps
+
+[B07-125](catalogue.md#b07-125)
 
 ## Forest edge: oak lookout onto Hagrid’s cabin and castle
 
@@ -1474,6 +1590,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B06-202](catalogue.md#b06-202)
 
+## Forest-side boundary → castle corridor window
+
+[B07-072](catalogue.md#b07-072)
+
 ## Forest-to-London aerial route
 
 [B05-287](catalogue.md#b05-287)
@@ -1498,6 +1618,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B01-040](catalogue.md#b01-040)
 
+## Front grounds → Hagrid’s hut → Forbidden Forest edge
+
+[B07-118](catalogue.md#b07-118)
+
 ## Front lawn–hospital route and ward bed positions
 
 [B06-191](catalogue.md#b06-191)
@@ -1509,6 +1633,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Front steps — lake and cabin views
 
 [B03-110](catalogue.md#b03-110)
+
+## Front steps → Entrance Hall → Great Hall / kitchen route
+
+[B07-128](catalogue.md#b07-128)
 
 ## Front steps–vegetable patch–Hagrid route
 
@@ -1613,6 +1741,30 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Great Hall / castle Christmas decorations
 
 [B07-024](catalogue.md#b07-024)
+
+## Great Hall / casualty and treatment configuration
+
+[B07-103](catalogue.md#b07-103)
+
+## Great Hall / dawn window and enchanted ceiling
+
+[B07-130](catalogue.md#b07-130)
+
+## Great Hall / evacuation assembly
+
+[B07-066](catalogue.md#b07-066)
+
+## Great Hall / final duels and floor damage
+
+[B07-129](catalogue.md#b07-129)
+
+## Great Hall / historical Sorting arrangement
+
+[B07-107](catalogue.md#b07-107)
+
+## Great Hall / house tables restored and adjacent chamber
+
+[B07-131](catalogue.md#b07-131)
 
 ## Great Hall and Entrance Hall after selection
 
@@ -1874,6 +2026,22 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B02-101](catalogue.md#b02-101)
 
+## Great Hall → damaged marble stairs → office approach
+
+[B07-132](catalogue.md#b07-132)
+
+## Great Hall → Entrance Hall → marble stairs → refuge evacuation route
+
+[B07-069](catalogue.md#b07-069)
+
+## Great Hall → grounds beech tree
+
+[B07-110](catalogue.md#b07-110)
+
+## Great Hall → Headmaster’s office / password
+
+[B07-104](catalogue.md#b07-104)
+
 ## Great Hall: third-year end-of-term feast
 
 [B03-163](catalogue.md#b03-163)
@@ -1941,6 +2109,14 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Grounds and lake — sultry summer
 
 [B03-107](catalogue.md#b03-107)
+
+## Grounds between castle and Forest / Dementor wave and giant
+
+[B07-094](catalogue.md#b07-094)
+
+## Grounds defensive enchantments
+
+[B07-062](catalogue.md#b07-062)
 
 ## Grounds entrances — Dementor access constraints
 
@@ -2241,6 +2417,14 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Gryffindor to Headmaster at night
 
 [B05-149](catalogue.md#b05-149)
+
+## Gryffindor Tower / four-poster bed
+
+[B07-136](catalogue.md#b07-136)
+
+## Gryffindor Tower entrance / Fat Lady
+
+[B07-111](catalogue.md#b07-111)
 
 ## Gryffindor Tower entrance and common room
 
@@ -2626,13 +2810,41 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B06-006](catalogue.md#b06-006), [B07-012](catalogue.md#b07-012)
 
+## Headmaster’s office / desk chairs and objects
+
+[B07-113](catalogue.md#b07-113)
+
+## Headmaster’s office / displaced gargoyle and moving staircase
+
+[B07-133](catalogue.md#b07-133)
+
+## Headmaster’s office / hidden cavity behind Dumbledore’s portrait
+
+[B07-116](catalogue.md#b07-116)
+
 ## Headmaster’s office / Phineas Nigellus portrait
 
 [B07-013](catalogue.md#b07-013), [B07-018](catalogue.md#b07-018)
 
+## Headmaster’s office / portrait communication under Snape
+
+[B07-115](catalogue.md#b07-115)
+
+## Headmaster’s office / portraits, chair and Pensieve
+
+[B07-105](catalogue.md#b07-105)
+
+## Headmaster’s office / returned portraits and desk
+
+[B07-134](catalogue.md#b07-134)
+
 ## Headmaster’s office / sword display
 
 [B07-017](catalogue.md#b07-017)
+
+## Headmaster’s office / window and Patronus
+
+[B07-114](catalogue.md#b07-114)
 
 ## Headmaster’s office in diary memory
 
@@ -2645,6 +2857,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Headmaster’s office to Potions dungeon in diary memory
 
 [B02-105](catalogue.md#b02-105)
+
+## Headmaster’s office → Entrance Hall → front grounds
+
+[B07-117](catalogue.md#b07-117)
 
 ## Headmaster’s study / Phineas Nigellus portrait
 
@@ -2677,6 +2893,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Herbology watering equipment
 
 [B05-182](catalogue.md#b05-182)
+
+## Hidden-things cupboard / bust / diadem marker
+
+[B07-083](catalogue.md#b07-083)
 
 ## Hiding-room route to damaged cupboard
 
@@ -2729,6 +2949,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Hogsmeade / Hogwarts perimeter
 
 [B07-034](catalogue.md#b07-034)
+
+## Hogsmeade / Hog’s Head Apparition access
+
+[B07-043](catalogue.md#b07-043)
 
 ## Hogsmeade / regional position
 
@@ -2874,6 +3098,14 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B04-239](catalogue.md#b04-239)
 
+## Hogwarts Express / historical journey furnishing
+
+[B07-106](catalogue.md#b07-106)
+
+## Hogwarts Express / London departure connection
+
+[B07-137](catalogue.md#b07-137)
+
 ## Hogwarts Express approach context
 
 [B07-011](catalogue.md#b07-011)
@@ -2942,6 +3174,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B04-015](catalogue.md#b04-015), [B06-002](catalogue.md#b06-002)
 
+## Hogwarts kitchens / house-elves
+
+[B07-079](catalogue.md#b07-079)
+
 ## Hogwarts kitchens and servicing
 
 [B04-016](catalogue.md#b04-016)
@@ -2949,6 +3185,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Hogwarts main gates
 
 [B06-014](catalogue.md#b06-014)
+
+## Hogwarts main gates / night view
+
+[B07-065](catalogue.md#b07-065)
 
 ## Hogwarts portraits
 
@@ -3025,6 +3265,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Hog’s Head — nearby village connection
 
 [B01-119](catalogue.md#b01-119)
+
+## Hog’s Head → Room of Requirement tunnel
+
+[B07-044](catalogue.md#b07-044)
 
 ## Honeydukes cellar — hidden trapdoor and shop stairs
 
@@ -3226,6 +3470,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B05-160](catalogue.md#b05-160)
 
+## Lake / Forbidden Forest during battle
+
+[B07-095](catalogue.md#b07-095)
+
 ## Lake and Durmstrang ship arrival
 
 [B04-045](catalogue.md#b04-045)
@@ -3409,6 +3657,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## London to Hogsmeade station
 
 [B04-003](catalogue.md#b04-003)
+
+## Lower corridor → marble staircase / active plant weapons
+
+[B07-091](catalogue.md#b07-091)
 
 ## Lupin’s Hogwarts office
 
@@ -4166,6 +4418,38 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B05-103](catalogue.md#b05-103)
 
+## Ravenclaw common room
+
+[B07-054](catalogue.md#b07-054)
+
+## Ravenclaw common room / battle damage and restraint
+
+[B07-058](catalogue.md#b07-058)
+
+## Ravenclaw common room / dormitory staircase
+
+[B07-056](catalogue.md#b07-056)
+
+## Ravenclaw common room / Rowena statue and adjoining door
+
+[B07-055](catalogue.md#b07-055)
+
+## Ravenclaw common-room entrance
+
+[B07-053](catalogue.md#b07-053)
+
+## Ravenclaw diadem / destruction outside hiding room
+
+[B07-087](catalogue.md#b07-087)
+
+## Ravenclaw entrance / reasoning challenge
+
+[B07-057](catalogue.md#b07-057)
+
+## Ravenclaw spiral stair → lower corridor / unnamed classroom
+
+[B07-060](catalogue.md#b07-060)
+
 ## Real Moody’s confinement and ingredient theft
 
 [B04-230](catalogue.md#b04-230)
@@ -4190,9 +4474,53 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B06-156](catalogue.md#b06-156)
 
+## Room of Hidden Things / duel destabilisation
+
+[B07-084](catalogue.md#b07-084)
+
+## Room of Hidden Things / Fiendfyre destruction
+
+[B07-085](catalogue.md#b07-085)
+
+## Room of Hidden Things / scale, contents and landmarks
+
+[B07-082](catalogue.md#b07-082)
+
+## Room of Requirement / adaptive refuge and bathroom
+
+[B07-049](catalogue.md#b07-049)
+
+## Room of Requirement / escape aperture and uncertain future usability
+
+[B07-086](catalogue.md#b07-086)
+
 ## Room of Requirement / hidden objects state
 
 [B07-026](catalogue.md#b07-026)
+
+## Room of Requirement / hidden-things entrance and acoustic isolation
+
+[B07-081](catalogue.md#b07-081)
+
+## Room of Requirement / refuge access and food limits
+
+[B07-050](catalogue.md#b07-050)
+
+## Room of Requirement / refuge exit and tunnel closure
+
+[B07-078](catalogue.md#b07-078)
+
+## Room of Requirement / refuge furnishings
+
+[B07-048](catalogue.md#b07-048)
+
+## Room of Requirement / refuge return and bathroom
+
+[B07-064](catalogue.md#b07-064)
+
+## Room of Requirement / resistance refuge interior
+
+[B07-047](catalogue.md#b07-047)
 
 ## Room of Requirement access denial
 
@@ -4213,6 +4541,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Room of Requirement corridor left/right relation
 
 [B06-164](catalogue.md#b06-164)
+
+## Room of Requirement cupboard → changing castle exit
+
+[B07-051](catalogue.md#b07-051)
 
 ## Room of Requirement detector table damage
 
@@ -4250,6 +4582,14 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B04-165](catalogue.md#b04-165)
 
+## School arrival boats / Thestral carriages
+
+[B07-138](catalogue.md#b07-138)
+
+## School boundary / grounds counterattack
+
+[B07-127](catalogue.md#b07-127)
+
 ## School cabbage cultivation
 
 [B02-002](catalogue.md#b02-002)
@@ -4273,6 +4613,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## School entrances: withdrawal of Dementors
 
 [B03-159](catalogue.md#b03-159)
+
+## School evacuation / magical transport constraints
+
+[B07-059](catalogue.md#b07-059)
 
 ## School exit and Hogsmeade road
 
@@ -4322,6 +4666,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B06-080](catalogue.md#b06-080)
 
+## Seven old Hogwarts secret passages
+
+[B07-045](catalogue.md#b07-045)
+
 ## Seven secret Hogsmeade passages — reported coverage
 
 [B03-062](catalogue.md#b03-062)
@@ -4346,9 +4694,21 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B04-150](catalogue.md#b04-150)
 
+## Shrieking Shack / castle / Hogsmeade broadcast
+
+[B07-100](catalogue.md#b07-100)
+
 ## Shrieking Shack / Hogsmeade
 
 [B07-021](catalogue.md#b07-021)
+
+## Shrieking Shack / Nagini’s protective sphere
+
+[B07-099](catalogue.md#b07-099)
+
+## Shrieking Shack / occupied room and castle view
+
+[B07-098](catalogue.md#b07-098)
 
 ## Shrieking Shack meeting access proposal
 
@@ -4585,6 +4945,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Staff-room entrance
 
 [B05-091](catalogue.md#b05-091)
+
+## Staff-room entrance / stone gargoyles
+
+[B07-073](catalogue.md#b07-073)
 
 ## Staff-room staged cleaning summons
 
@@ -4918,6 +5282,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B02-162](catalogue.md#b02-162)
 
+## Unnamed corridor and classroom / duel damage
+
+[B07-061](catalogue.md#b07-061)
+
 ## Unnamed corridor chandelier
 
 [B06-083](catalogue.md#b06-083)
@@ -4925,6 +5293,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Unnamed first-floor empty classroom
 
 [B05-270](catalogue.md#b05-270)
+
+## Unnamed Hogwarts detention site
+
+[B07-139](catalogue.md#b07-139)
 
 ## Unnamed meeting room after Quidditch
 
@@ -4990,6 +5362,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B02-007](catalogue.md#b02-007)
 
+## Whomping Willow / root entrance and disabling knot
+
+[B07-096](catalogue.md#b07-096)
+
 ## Whomping Willow planting history
 
 [B04-208](catalogue.md#b04-208)
@@ -5001,6 +5377,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Whomping Willow to Shrieking Shack tunnel
 
 [B03-119](catalogue.md#b03-119)
+
+## Whomping Willow tunnel / historical danger
+
+[B07-109](catalogue.md#b07-109)
 
 ## Whomping Willow vicinity to front entrance
 
@@ -5017,6 +5397,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Whomping Willow — planting and exclusion history
 
 [B03-056](catalogue.md#b03-056)
+
+## Whomping Willow → Shrieking Shack tunnel
+
+[B07-097](catalogue.md#b07-097)
 
 ## Whomping Willow, tunnel and Shrieking Shack
 
@@ -5037,6 +5421,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Wilfred the Wistful statue
 
 [B05-062](catalogue.md#b05-062)
+
+## Willow tunnel → front lawn → castle steps
+
+[B07-101](catalogue.md#b07-101)
 
 ## Winged-key chamber — architecture and lock
 
@@ -5069,4 +5457,3 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Yule Ball spoken meal orders
 
 [B04-125](catalogue.md#b04-125)
-

@@ -152,11 +152,11 @@ Evidence: explicit; state: September 1992, first Saturday.
 Model: Reaffirms downhill pitch route; dawn mist and birdsong are seasonal scene conditions.
 
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 105, ¶5 (B02-C007-P0005)](../../build/reader/book-02.html#B02-C007-P0005)
-- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 105–106, ¶10 (B02-C007-P0010)](../../build/reader/book-02.html#B02-C007-P0010)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 106, ¶10 (B02-C007-P0010)](../../build/reader/book-02.html#B02-C007-P0010)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 106, ¶16 (B02-C007-P0016)](../../build/reader/book-02.html#B02-C007-P0016)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 106, ¶18 (B02-C007-P0018)](../../build/reader/book-02.html#B02-C007-P0018)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 107, ¶24 (B02-C007-P0024)](../../build/reader/book-02.html#B02-C007-P0024)
-- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 107–108, ¶29 (B02-C007-P0029)](../../build/reader/book-02.html#B02-C007-P0029)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 108, ¶29 (B02-C007-P0029)](../../build/reader/book-02.html#B02-C007-P0029)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 108, ¶30 (B02-C007-P0030)](../../build/reader/book-02.html#B02-C007-P0030)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 108, ¶31 (B02-C007-P0031)](../../build/reader/book-02.html#B02-C007-P0031)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 109–110, ¶42 (B02-C007-P0042)](../../build/reader/book-02.html#B02-C007-P0042)
@@ -170,8 +170,8 @@ Evidence: explicit; state: September 1992, first Saturday.
 Model: Seating is observed without a specified bench form. Portable tactical boards do not fix pitch shape beyond the text.
 
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 108, ¶31 (B02-C007-P0031)](../../build/reader/book-02.html#B02-C007-P0031)
-- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 108, ¶33 (B02-C007-P0033)](../../build/reader/book-02.html#B02-C007-P0033)
-- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 108–109, ¶34 (B02-C007-P0034)](../../build/reader/book-02.html#B02-C007-P0034)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 108–109, ¶33 (B02-C007-P0033)](../../build/reader/book-02.html#B02-C007-P0033)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 109, ¶34 (B02-C007-P0034)](../../build/reader/book-02.html#B02-C007-P0034)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 109, ¶35 (B02-C007-P0035)](../../build/reader/book-02.html#B02-C007-P0035)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 109, ¶39 (B02-C007-P0039)](../../build/reader/book-02.html#B02-C007-P0039)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 109, ¶41 (B02-C007-P0041)](../../build/reader/book-02.html#B02-C007-P0041)
@@ -199,14 +199,14 @@ Evidence: explicit; state: September 1992, first Saturday.
 
 Model: Observed route and bush proximity; nearest is Harry’s judgment, not a measured comparison with hospital distance.
 
-- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 113, ¶87 (B02-C007-P0087)](../../build/reader/book-02.html#B02-C007-P0087)
-- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 113–114, ¶88 (B02-C007-P0088)](../../build/reader/book-02.html#B02-C007-P0088)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶87 (B02-C007-P0087)](../../build/reader/book-02.html#B02-C007-P0087)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶88 (B02-C007-P0088)](../../build/reader/book-02.html#B02-C007-P0088)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶90 (B02-C007-P0090)](../../build/reader/book-02.html#B02-C007-P0090)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶91 (B02-C007-P0091)](../../build/reader/book-02.html#B02-C007-P0091)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶92 (B02-C007-P0092)](../../build/reader/book-02.html#B02-C007-P0092)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶93 (B02-C007-P0093)](../../build/reader/book-02.html#B02-C007-P0093)
-- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶94 (B02-C007-P0094)](../../build/reader/book-02.html#B02-C007-P0094)
-- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶95 (B02-C007-P0095)](../../build/reader/book-02.html#B02-C007-P0095)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114–115, ¶94 (B02-C007-P0094)](../../build/reader/book-02.html#B02-C007-P0094)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 115, ¶95 (B02-C007-P0095)](../../build/reader/book-02.html#B02-C007-P0095)
 
 ## B02-065: Quidditch pitch — rain, mud and rogue Bludger
 
@@ -216,21 +216,21 @@ Evidence: explicit; state: November 1992.
 
 Model: A temporary altered ball behaviour, not a change to the pitch’s normal boundaries or rules.
 
-- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 168–169, ¶52 (B02-C010-P0052)](../../build/reader/book-02.html#B02-C010-P0052)
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 169, ¶52 (B02-C010-P0052)](../../build/reader/book-02.html#B02-C010-P0052)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 169, ¶54 (B02-C010-P0054)](../../build/reader/book-02.html#B02-C010-P0054)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 169, ¶55 (B02-C010-P0055)](../../build/reader/book-02.html#B02-C010-P0055)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 169, ¶56 (B02-C010-P0056)](../../build/reader/book-02.html#B02-C010-P0056)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 169, ¶57 (B02-C010-P0057)](../../build/reader/book-02.html#B02-C010-P0057)
-- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 169–170, ¶59 (B02-C010-P0059)](../../build/reader/book-02.html#B02-C010-P0059)
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 170, ¶59 (B02-C010-P0059)](../../build/reader/book-02.html#B02-C010-P0059)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 170, ¶60 (B02-C010-P0060)](../../build/reader/book-02.html#B02-C010-P0060)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 170, ¶61 (B02-C010-P0061)](../../build/reader/book-02.html#B02-C010-P0061)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 170, ¶64 (B02-C010-P0064)](../../build/reader/book-02.html#B02-C010-P0064)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 172, ¶79 (B02-C010-P0079)](../../build/reader/book-02.html#B02-C010-P0079)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 172, ¶80 (B02-C010-P0080)](../../build/reader/book-02.html#B02-C010-P0080)
-- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 172, ¶81 (B02-C010-P0081)](../../build/reader/book-02.html#B02-C010-P0081)
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 172–173, ¶81 (B02-C010-P0081)](../../build/reader/book-02.html#B02-C010-P0081)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 173, ¶84 (B02-C010-P0084)](../../build/reader/book-02.html#B02-C010-P0084)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 173, ¶87 (B02-C010-P0087)](../../build/reader/book-02.html#B02-C010-P0087)
-- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 173, ¶88 (B02-C010-P0088)](../../build/reader/book-02.html#B02-C010-P0088)
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 173–174, ¶88 (B02-C010-P0088)](../../build/reader/book-02.html#B02-C010-P0088)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 174, ¶91 (B02-C010-P0091)](../../build/reader/book-02.html#B02-C010-P0091)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 174, ¶100 (B02-C010-P0100)](../../build/reader/book-02.html#B02-C010-P0100)
 
@@ -251,8 +251,8 @@ Model: Upstairs library route, front-door stadium route; voice location/mechanis
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶55 (B02-C014-P0055)](../../build/reader/book-02.html#B02-C014-P0055)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶59 (B02-C014-P0059)](../../build/reader/book-02.html#B02-C014-P0059)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶60 (B02-C014-P0060)](../../build/reader/book-02.html#B02-C014-P0060)
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶61 (B02-C014-P0061)](../../build/reader/book-02.html#B02-C014-P0061)
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257–258, ¶62 (B02-C014-P0062)](../../build/reader/book-02.html#B02-C014-P0062)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257–258, ¶61 (B02-C014-P0061)](../../build/reader/book-02.html#B02-C014-P0061)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 258, ¶62 (B02-C014-P0062)](../../build/reader/book-02.html#B02-C014-P0062)
 
 ## B02-110: Quidditch stadium to hospital wing
 
@@ -267,8 +267,8 @@ Model: Adds direct stadium-to-ward journey; hospital floor is not named.
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 258, ¶67 (B02-C014-P0067)](../../build/reader/book-02.html#B02-C014-P0067)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 258, ¶69 (B02-C014-P0069)](../../build/reader/book-02.html#B02-C014-P0069)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 258, ¶70 (B02-C014-P0070)](../../build/reader/book-02.html#B02-C014-P0070)
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 258, ¶72 (B02-C014-P0072)](../../build/reader/book-02.html#B02-C014-P0072)
-- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 258–259, ¶73 (B02-C014-P0073)](../../build/reader/book-02.html#B02-C014-P0073)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 258–259, ¶72 (B02-C014-P0072)](../../build/reader/book-02.html#B02-C014-P0072)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 259, ¶73 (B02-C014-P0073)](../../build/reader/book-02.html#B02-C014-P0073)
 - [Book 2, ch. 14, “Cornelius Fudge”, ref p. 259, ¶74 (B02-C014-P0074)](../../build/reader/book-02.html#B02-C014-P0074)
 
 ## B03-032: Quidditch pitch — hoop height and edge changing rooms
@@ -1225,11 +1225,11 @@ Evidence: explicit; state: Quidditch trials, September 1996.
 Model: Three hoops are explicit in Harry’s hyperbole about McLaggen’s width; that hyperbole supplies no usable width. No stadium capacity, hoop height or pitch dimensions given.
 
 - [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 231, ¶46 (B06-C011-P0046)](../../build/reader/book-06.html#B06-C011-P0046)
-- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 231, ¶49 (B06-C011-P0049)](../../build/reader/book-06.html#B06-C011-P0049)
-- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 231–232, ¶50 (B06-C011-P0050)](../../build/reader/book-06.html#B06-C011-P0050)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 231–232, ¶49 (B06-C011-P0049)](../../build/reader/book-06.html#B06-C011-P0049)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 232, ¶50 (B06-C011-P0050)](../../build/reader/book-06.html#B06-C011-P0050)
 - [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 232, ¶51 (B06-C011-P0051)](../../build/reader/book-06.html#B06-C011-P0051)
 - [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 233, ¶57 (B06-C011-P0057)](../../build/reader/book-06.html#B06-C011-P0057)
-- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 233, ¶58 (B06-C011-P0058)](../../build/reader/book-06.html#B06-C011-P0058)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 233–234, ¶58 (B06-C011-P0058)](../../build/reader/book-06.html#B06-C011-P0058)
 - [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 234, ¶61 (B06-C011-P0061)](../../build/reader/book-06.html#B06-C011-P0061)
 - [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 235, ¶72 (B06-C011-P0072)](../../build/reader/book-06.html#B06-C011-P0072)
 
@@ -1256,9 +1256,9 @@ Model: Support room connected with pitch activity; no locker, bench, shower or e
 
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 297, ¶53 (B06-C014-P0053)](../../build/reader/book-06.html#B06-C014-P0053)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 297, ¶54 (B06-C014-P0054)](../../build/reader/book-06.html#B06-C014-P0054)
-- [Book 6, ch. 14, “Felix Felicis”, ref p. 305, ¶135 (B06-C014-P0135)](../../build/reader/book-06.html#B06-C014-P0135)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 305–306, ¶135 (B06-C014-P0135)](../../build/reader/book-06.html#B06-C014-P0135)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 310, ¶170 (B06-C014-P0170)](../../build/reader/book-06.html#B06-C014-P0170)
-- [Book 6, ch. 14, “Felix Felicis”, ref p. 310, ¶172 (B06-C014-P0172)](../../build/reader/book-06.html#B06-C014-P0172)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 311, ¶172 (B06-C014-P0172)](../../build/reader/book-06.html#B06-C014-P0172)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 311, ¶175 (B06-C014-P0175)](../../build/reader/book-06.html#B06-C014-P0175)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 312, ¶185 (B06-C014-P0185)](../../build/reader/book-06.html#B06-C014-P0185)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 312, ¶188 (B06-C014-P0188)](../../build/reader/book-06.html#B06-C014-P0188)
@@ -1273,5 +1273,4 @@ Model: Location within viewing range of flight/pitch; no height or exact side sp
 
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 307, ¶149 (B06-C014-P0149)](../../build/reader/book-06.html#B06-C014-P0149)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 307, ¶150 (B06-C014-P0150)](../../build/reader/book-06.html#B06-C014-P0150)
-- [Book 6, ch. 14, “Felix Felicis”, ref p. 307, ¶151 (B06-C014-P0151)](../../build/reader/book-06.html#B06-C014-P0151)
-
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 307–308, ¶151 (B06-C014-P0151)](../../build/reader/book-06.html#B06-C014-P0151)

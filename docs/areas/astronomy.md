@@ -162,8 +162,8 @@ Model: Tower occupancy/sound report, without layout or certainty that sounds are
 
 - [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶10 (B06-C023-P0010)](../../build/reader/book-06.html#B06-C023-P0010)
 - [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶11 (B06-C023-P0011)](../../build/reader/book-06.html#B06-C023-P0011)
-- [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶12 (B06-C023-P0012)](../../build/reader/book-06.html#B06-C023-P0012)
-- [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶13 (B06-C023-P0013)](../../build/reader/book-06.html#B06-C023-P0013)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 516–517, ¶12 (B06-C023-P0012)](../../build/reader/book-06.html#B06-C023-P0012)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 517, ¶13 (B06-C023-P0013)](../../build/reader/book-06.html#B06-C023-P0013)
 
 ## B06-175: Broom flight from village to Astronomy Tower
 
@@ -173,9 +173,9 @@ Evidence: explicit; state: Night of tower attack, June 1997.
 
 Model: Aerial approach and height hierarchy. The lane is seen from above; no exact flight length or wall height.
 
-- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612–613, ¶33 (B06-C027-P0033)](../../build/reader/book-06.html#B06-C027-P0033)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 613, ¶33 (B06-C027-P0033)](../../build/reader/book-06.html#B06-C027-P0033)
 - [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 613, ¶34 (B06-C027-P0034)](../../build/reader/book-06.html#B06-C027-P0034)
-- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 613–614, ¶36 (B06-C027-P0036)](../../build/reader/book-06.html#B06-C027-P0036)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶36 (B06-C027-P0036)](../../build/reader/book-06.html#B06-C027-P0036)
 - [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶37 (B06-C027-P0037)](../../build/reader/book-06.html#B06-C027-P0037)
 - [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶38 (B06-C027-P0038)](../../build/reader/book-06.html#B06-C027-P0038)
 
@@ -187,17 +187,17 @@ Evidence: explicit; state: Night of tower attack, June 1997.
 
 Model: Tower-top enclosure and descent route, not a roofed interior room. Door material is not specified by its iron handle.
 
-- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 613–614, ¶36 (B06-C027-P0036)](../../build/reader/book-06.html#B06-C027-P0036)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶36 (B06-C027-P0036)](../../build/reader/book-06.html#B06-C027-P0036)
 - [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶37 (B06-C027-P0037)](../../build/reader/book-06.html#B06-C027-P0037)
 - [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶38 (B06-C027-P0038)](../../build/reader/book-06.html#B06-C027-P0038)
-- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614–615, ¶44 (B06-C027-P0044)](../../build/reader/book-06.html#B06-C027-P0044)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 615, ¶44 (B06-C027-P0044)](../../build/reader/book-06.html#B06-C027-P0044)
 - [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 615, ¶45 (B06-C027-P0045)](../../build/reader/book-06.html#B06-C027-P0045)
 - [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 615, ¶46 (B06-C027-P0046)](../../build/reader/book-06.html#B06-C027-P0046)
 - [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 615, ¶47 (B06-C027-P0047)](../../build/reader/book-06.html#B06-C027-P0047)
 - [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 615, ¶48 (B06-C027-P0048)](../../build/reader/book-06.html#B06-C027-P0048)
 - [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 619, ¶82 (B06-C027-P0082)](../../build/reader/book-06.html#B06-C027-P0082)
 - [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 621, ¶97 (B06-C027-P0097)](../../build/reader/book-06.html#B06-C027-P0097)
-- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 621, ¶102 (B06-C027-P0102)](../../build/reader/book-06.html#B06-C027-P0102)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 621–622, ¶102 (B06-C027-P0102)](../../build/reader/book-06.html#B06-C027-P0102)
 - [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 624, ¶125 (B06-C027-P0125)](../../build/reader/book-06.html#B06-C027-P0125)
 - [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 626, ¶146 (B06-C027-P0146)](../../build/reader/book-06.html#B06-C027-P0146)
 
@@ -224,7 +224,7 @@ Model: Top-to-corridor connection; ten is the number of steps jumped, not the st
 
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 628–629, ¶3 (B06-C028-P0003)](../../build/reader/book-06.html#B06-C028-P0003)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 629, ¶5 (B06-C028-P0005)](../../build/reader/book-06.html#B06-C028-P0005)
-- [Book 6, ch. 28, “Flight of the Prince”, ref p. 629, ¶7 (B06-C028-P0007)](../../build/reader/book-06.html#B06-C028-P0007)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 629–630, ¶7 (B06-C028-P0007)](../../build/reader/book-06.html#B06-C028-P0007)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 631, ¶17 (B06-C028-P0017)](../../build/reader/book-06.html#B06-C028-P0017)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 631–632, ¶18 (B06-C028-P0018)](../../build/reader/book-06.html#B06-C028-P0018)
 
@@ -244,7 +244,7 @@ Model: Tower base–front lawn relationship and temporary light sources. Harry�
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 641, ¶88 (B06-C028-P0088)](../../build/reader/book-06.html#B06-C028-P0088)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 641–642, ¶89 (B06-C028-P0089)](../../build/reader/book-06.html#B06-C028-P0089)
 - [Book 6, ch. 28, “Flight of the Prince”, ref p. 642, ¶90 (B06-C028-P0090)](../../build/reader/book-06.html#B06-C028-P0090)
-- [Book 6, ch. 28, “Flight of the Prince”, ref p. 642, ¶93 (B06-C028-P0093)](../../build/reader/book-06.html#B06-C028-P0093)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 642–643, ¶93 (B06-C028-P0093)](../../build/reader/book-06.html#B06-C028-P0093)
 
 ## B06-195: Astronomy stair cursed barrier and collapse
 
@@ -254,14 +254,14 @@ Evidence: reported; state: Night after tower attack, June 1997.
 
 Model: Selectively passable barrier and explicit destruction sequence. Dark-Mark eligibility is Harry’s guess at P0080, not established; do not implement that as confirmed authentication.
 
-- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 652–653, ¶74 (B06-C029-P0074)](../../build/reader/book-06.html#B06-C029-P0074)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653, ¶74 (B06-C029-P0074)](../../build/reader/book-06.html#B06-C029-P0074)
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653, ¶75 (B06-C029-P0075)](../../build/reader/book-06.html#B06-C029-P0075)
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653, ¶76 (B06-C029-P0076)](../../build/reader/book-06.html#B06-C029-P0076)
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653, ¶77 (B06-C029-P0077)](../../build/reader/book-06.html#B06-C029-P0077)
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653, ¶78 (B06-C029-P0078)](../../build/reader/book-06.html#B06-C029-P0078)
-- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653, ¶79 (B06-C029-P0079)](../../build/reader/book-06.html#B06-C029-P0079)
-- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653, ¶80 (B06-C029-P0080)](../../build/reader/book-06.html#B06-C029-P0080)
-- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653–654, ¶81 (B06-C029-P0081)](../../build/reader/book-06.html#B06-C029-P0081)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653–654, ¶79 (B06-C029-P0079)](../../build/reader/book-06.html#B06-C029-P0079)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 654, ¶80 (B06-C029-P0080)](../../build/reader/book-06.html#B06-C029-P0080)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 654, ¶81 (B06-C029-P0081)](../../build/reader/book-06.html#B06-C029-P0081)
 - [Book 6, ch. 29, “The Phoenix Lament”, ref p. 654, ¶82 (B06-C029-P0082)](../../build/reader/book-06.html#B06-C029-P0082)
 
 ## B07-029: Tallest tower / lawn at its foot
@@ -272,5 +272,33 @@ Evidence: explicit; state: March 1998 recollection of June 1997.
 
 Model: Confirms highest-tower base on lawn; no new tower plan or height.
 
-- [Book 7, ch. 24, “The Wandmaker”, ref p. 503–504, ¶1 (B07-C024-P0001)](../../build/reader/book-07.html#B07-C024-P0001)
+- [Book 7, ch. 24, “The Wandmaker”, ref p. 504, ¶1 (B07-C024-P0001)](../../build/reader/book-07.html#B07-C024-P0001)
 
+## B07-068: Astronomy, Ravenclaw and Gryffindor towers / siege positions
+
+Kingsley names Ravenclaw, Astronomy and Gryffindor as the three highest towers and assigns defenders there for their good overview and spell-casting positions, with other groups covering the grounds and passage entrances.
+
+Evidence: reported; state: May 1998, Battle of Hogwarts before and just after midnight.
+
+Model: Names the three highest without ranking them individually here; previous highest-Astronomy evidence remains separate.
+
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 646–647, ¶28 (B07-C031-P0028)](../../build/reader/book-07.html#B07-C031-P0028)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 647, ¶29 (B07-C031-P0029)](../../build/reader/book-07.html#B07-C031-P0029)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 647, ¶30 (B07-C031-P0030)](../../build/reader/book-07.html#B07-C031-P0030)
+
+## B07-080: Corridor windows / castle foot / North Battlements
+
+Back upstairs dust fills shaking corridors. Through one window Harry sees fighting flashes close to the castle’s foot and Grawp carrying what looks like a roof-torn stone gargoyle. At the next window, missing several panes, Ginny casts into fighters below. Aberforth reports enemy giants apparently breaching the North Battlements.
+
+Evidence: explicit; state: May 1998, Battle of Hogwarts before and just after midnight.
+
+Model: North is explicit for battlements, not necessarily for these windows. Gargoyle origin and breach are qualified observations/reports, not surveyed facts.
+
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 662–663, ¶187 (B07-C031-P0187)](../../build/reader/book-07.html#B07-C031-P0187)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 663, ¶188 (B07-C031-P0188)](../../build/reader/book-07.html#B07-C031-P0188)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 663, ¶189 (B07-C031-P0189)](../../build/reader/book-07.html#B07-C031-P0189)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 663, ¶190 (B07-C031-P0190)](../../build/reader/book-07.html#B07-C031-P0190)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 663, ¶191 (B07-C031-P0191)](../../build/reader/book-07.html#B07-C031-P0191)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 663, ¶192 (B07-C031-P0192)](../../build/reader/book-07.html#B07-C031-P0192)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 663, ¶194 (B07-C031-P0194)](../../build/reader/book-07.html#B07-C031-P0194)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 663, ¶196 (B07-C031-P0196)](../../build/reader/book-07.html#B07-C031-P0196)

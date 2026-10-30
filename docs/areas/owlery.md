@@ -205,4 +205,3 @@ Model: Cabin appears unoccupied to Harry; flight confirms Forest presence rather
 
 - [Book 5, ch. 14, “Percy and Padfoot”, ref p. 331–332, ¶26 (B05-C014-P0026)](../../build/reader/book-05.html#B05-C014-P0026)
 - [Book 5, ch. 14, “Percy and Padfoot”, ref p. 332, ¶27 (B05-C014-P0027)](../../build/reader/book-05.html#B05-C014-P0027)
-

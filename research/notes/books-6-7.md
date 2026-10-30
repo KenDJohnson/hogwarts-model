@@ -7,8 +7,8 @@ counted as review. Chapter ranges were saved and committed incrementally.
 
 | Book | Chapters reviewed | Paragraphs reviewed | Narrative words | Entries |
 | --- | ---: | ---: | ---: | ---: |
-| 6 | 30 of 30 | 5,809 of 5,809 | 171,796 | 212 |
-| 7, including epilogue | 37 of 37 | 6,879 of 6,879 | 200,462 | 139 |
+| 6 | 30 of 30 | 5,809 of 5,809 | 171,840 | 212 |
+| 7, including epilogue | 37 of 37 | 6,879 of 6,879 | 200,467 | 139 |
 
 Every evidence ID is an existing paragraph in the assigned book. The parent
 catalogue validator passes. Its whole-corpus `complete: false` is expected in
@@ -73,3 +73,5 @@ Important constraints for reconciliation and modelling:
 
 These notes identify uncertainties, not unread work. No assigned narrative
 range remains unread. No print pages have been supplied or inferred.
+
+Parent final reconciliation: 26 non-paragraph O.W.L. grade/result cells (44 words) and three Ministry form labels (five words) were additionally read and recorded under `extra_reviews`. P locators remain unchanged. The reported Ravenclaw dormitory guess is confirmed by the next chapter, as noted above. The Crouch burial cross-check is consistent: B04-C035-P0160 places the bone in freshly dug earth in front of Hagrid’s cabin; B07-C006-P0080 recalls this as his front garden, without giving a precise grave position.

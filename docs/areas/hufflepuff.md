@@ -24,12 +24,11 @@ Evidence: explicit; state: Gryffindor–Hufflepuff match, March 1997.
 
 Model: A podium is functioning again after the earlier collision; text does not say whether repaired or replaced. Do not infer repair method. Match sound carries over the grounds.
 
-- [Book 6, ch. 19, “Elf Tails”, ref p. 429–430, ¶120 (B06-C019-P0120)](../../build/reader/book-06.html#B06-C019-P0120)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 430, ¶120 (B06-C019-P0120)](../../build/reader/book-06.html#B06-C019-P0120)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 431, ¶132 (B06-C019-P0132)](../../build/reader/book-06.html#B06-C019-P0132)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 431, ¶133 (B06-C019-P0133)](../../build/reader/book-06.html#B06-C019-P0133)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 431, ¶136 (B06-C019-P0136)](../../build/reader/book-06.html#B06-C019-P0136)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 431–432, ¶138 (B06-C019-P0138)](../../build/reader/book-06.html#B06-C019-P0138)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 432, ¶138 (B06-C019-P0138)](../../build/reader/book-06.html#B06-C019-P0138)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 432, ¶139 (B06-C019-P0139)](../../build/reader/book-06.html#B06-C019-P0139)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 432, ¶141 (B06-C019-P0141)](../../build/reader/book-06.html#B06-C019-P0141)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 433, ¶148 (B06-C019-P0148)](../../build/reader/book-06.html#B06-C019-P0148)
-

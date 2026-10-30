@@ -13,7 +13,7 @@ python scripts/corpus.py "Harry Potter.epub"
 ```
 
 The extractor writes `build/corpus.json`, `build/inventory.json`, and one
-paragraph-labelled text file per chapter. Only the seven books' own chapters
+locator-labelled text file per chapter. Only the seven books' own chapters
 are included; next-book preview chapters are excluded. Book 7's last file is
 the epilogue, labelled as such in metadata.
 
@@ -62,6 +62,9 @@ receive a page range. Chapter headings and blank paragraphs do not count.
 
 The exact source is identified by SHA-256. Source EPUB member paths and source
 paragraph ordinals provide a second locator independent of generated pages.
+Non-paragraph text, including definition-list questions and table cells, has
+separate `X` fragment IDs and source element/ordinal/text-slot locators. These
+fragments are interleaved in document order without renumbering `P` paragraphs.
 See [the research schema](research/SCHEMA.md) for inclusion and review rules.
 The [methodology](docs/methodology.md) explains source coverage, duplicate
 preview checks, citation limitations and the boundary between evidence and
@@ -69,13 +72,20 @@ modelling choices.
 
 ## Research status
 
-Extraction, citation, search and reader tooling are validated. A full-text
-extraction is not a completed semantic review. Per-chapter reviewed ranges
-record what has actually been read; generated coverage reports keep remaining
-work visible. The full seven-book semantic review is in progress.
+The complete seven-book narrative has been reviewed: **199 chapter files
+including the epilogue, 38,426 paragraphs and 33 additional text fragments**.
+The corpus contains **1,101,442 words** and **4,410 project reference pages**.
+The catalogue contains **1,380 records**. All chapter and supplementary-text
+review ranges are complete. A second pass inspected **283 uncited discovery
+candidates** across all seven books; its decisions are recorded in
+[the audit log](research/audit-log.json).
 
-The [model foundation](docs/model-foundation.md) already records selected
-source-backed relationships and a floor-reference conflict. Its editable,
+Full-text coverage and reference validity are checked mechanically. Semantic
+exhaustiveness remains a research judgement: the complete review, explicit
+inclusion rules, source links and omission audit make that judgement inspectable.
+
+The [model foundation](docs/model-foundation.md) records 51 selected
+source-backed constraints, conflicts and changing states. Its editable,
 machine-readable source is [model-constraints.json](research/model-constraints.json).
 It is a starting constraint set rather than a unique castle plan.
 
@@ -88,7 +98,7 @@ navigation groups, not claims that similarly named rooms are the same room.
 
 ```sh
 python -m unittest discover -s tests -v
-python scripts/check_research.py
+python scripts/check_research.py --require-complete
 nix flake check
 ```
 

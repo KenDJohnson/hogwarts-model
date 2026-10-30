@@ -34,6 +34,22 @@ class CorpusTests(unittest.TestCase):
             self.assertEqual(book["word_count"], 252)
             self.assertEqual(book["reference_pages"], 2)
 
+    def test_definition_lists_and_table_text_preserve_paragraph_ids(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            source = Path(tmp) / "fixture.epub"
+            with zipfile.ZipFile(source, "w") as archive:
+                archive.writestr("1/OEBPS/content.opf", '<package xmlns="http://www.idpf.org/2007/opf" xmlns:d="http://purl.org/dc/elements/1.1/"><metadata><d:title>Fixture</d:title></metadata></package>')
+                archive.writestr("1/OEBPS/hp01_ch001_en-gb.html", '<html xmlns="http://www.w3.org/1999/xhtml"><body><h1>Chapter</h1><p>' + ' '.join(['word']*249) + '</p><dl><dd><i>Quiz prompt.</i></dd></dl><table><tr><td>Grade</td><td><p>Embedded paragraph.</p></td></tr></table><p>End.</p></body></html>')
+            with patch.object(corpus, "EXPECTED", {1: 1}):
+                result = corpus.extract(source)
+            chapter = result["books"][0]["chapters"][0]
+            self.assertEqual([p["id"] for p in corpus.chapter_blocks(chapter)], [
+                "B01-C001-P0001", "B01-C001-X0001", "B01-C001-X0002", "B01-C001-P0002", "B01-C001-P0003"])
+            self.assertEqual([p["text"] for p in chapter["extra_blocks"]], ["Quiz prompt.", "Grade"])
+            self.assertEqual(chapter["paragraphs"][1]["text"], "Embedded paragraph.")
+            self.assertEqual(result["books"][0]["word_count"], 255)
+            self.assertEqual((chapter["extra_blocks"][0]["page_start"], chapter["extra_blocks"][0]["page_end"]), (1,2))
+
 
 if __name__ == "__main__":
     unittest.main()
