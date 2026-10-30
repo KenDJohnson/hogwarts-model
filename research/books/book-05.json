@@ -4118,6 +4118,284 @@
       "certainty": "explicit",
       "temporal": "May 1996, post-twins unrest and final Quidditch match",
       "model_notes": "Lintel impact confirms finite doorway clearance; birds and uprooting explanation remain tentative."
+    },
+    {
+      "id": "B05-252",
+      "location": "Lakeshore and June grounds",
+      "category": "grounds",
+      "description": "The friends again revise in the lakeside beech’s shade, near other pupils. In June the cloudless sky reflects in a smooth sparkling lake and satin-green lawns ripple in a light breeze.",
+      "evidence": [
+        "B05-C031-P0001",
+        "B05-C031-P0002",
+        "B05-C031-P0003",
+        "B05-C031-P0004",
+        "B05-C031-P0029"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Warm late-May/June state; lake clearly liquid again."
+    },
+    {
+      "id": "B05-253",
+      "location": "Grawp pine height report",
+      "category": "history",
+      "description": "Hermione describes Grawp as sixteen feet tall and the pines he uproots as twenty feet tall.",
+      "evidence": [
+        "B05-C031-P0018"
+      ],
+      "certainty": "reported",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Reported approximate pine height, supplementary to direct Forest observations."
+    },
+    {
+      "id": "B05-254",
+      "location": "Greenhouse three revision class",
+      "category": "interior",
+      "description": "Sprout admits the queued students into greenhouse three for Herbology revision.",
+      "evidence": [
+        "B05-C031-P0032",
+        "B05-C031-P0037"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Specific classroom identity, without additional inferred contents."
+    },
+    {
+      "id": "B05-255",
+      "location": "Entrance Hall and Great Hall sightline",
+      "category": "interior",
+      "description": "From dinner seats pupils can see the examiners through the Great Hall’s double doors into the Entrance Hall; they cross the threshold and linger at the marble stair foot.",
+      "evidence": [
+        "B05-C031-P0068",
+        "B05-C031-P0069",
+        "B05-C031-P0070",
+        "B05-C031-P0072",
+        "B05-C031-P0073",
+        "B05-C031-P0074",
+        "B05-C031-P0076"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Line of sight from dining space to Hall circulation; broom-cupboard emergence is only a simile about Marchbanks’s search."
+    },
+    {
+      "id": "B05-256",
+      "location": "Great Hall written examinations",
+      "category": "temporary",
+      "description": "After breakfast the House tables are replaced with individual tables facing the staff-table end. A desk by the presiding teacher holds an enormous hourglass, spare quills, ink and parchment. House tables return at lunchtime.",
+      "evidence": [
+        "B05-C031-P0079",
+        "B05-C031-P0080",
+        "B05-C031-P0083",
+        "B05-C031-P0085",
+        "B05-C031-P0186",
+        "B05-C031-P0187",
+        "B05-C031-P0188",
+        "B05-C031-P0192",
+        "B05-C031-P0194",
+        "B05-C031-P0200",
+        "B05-C031-P0214"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Daily furniture conversion and stone floor confirmed; sunlight heats desks and reaches Harry’s head."
+    },
+    {
+      "id": "B05-257",
+      "location": "Practical-exam waiting chamber",
+      "category": "route",
+      "description": "Pupils wait in the small chamber beside the Great Hall, entering the Hall in alphabetical groups; tested pupils do not return. Flitwick stands just inside the door and directs Harry to an examiner’s small table in a far corner.",
+      "evidence": [
+        "B05-C031-P0085",
+        "B05-C031-P0086",
+        "B05-C031-P0088",
+        "B05-C031-P0089",
+        "B05-C031-P0090",
+        "B05-C031-P0091"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Waiting room adjacency and one-way exam circulation, without a fixed room name."
+    },
+    {
+      "id": "B05-258",
+      "location": "Hall practical-exam stations",
+      "category": "temporary",
+      "description": "Exam props include a levitated wineglass that smashes, an egg cup, rat, dinner plate and Transfiguration animals; a ferret becomes flamingos requiring temporary evacuation. Defence practice includes Boggart banishing, and Harry’s stag Patronus canters the Hall’s length.",
+      "evidence": [
+        "B05-C031-P0092",
+        "B05-C031-P0093",
+        "B05-C031-P0094",
+        "B05-C031-P0096",
+        "B05-C031-P0097",
+        "B05-C031-P0098",
+        "B05-C031-P0100",
+        "B05-C031-P0101",
+        "B05-C031-P0102",
+        "B05-C031-P0103",
+        "B05-C031-P0104",
+        "B05-C031-P0105"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Transient practical testing materials; no claim all exam subjects use identical station layouts."
+    },
+    {
+      "id": "B05-259",
+      "location": "Common-room view of Forest teaching",
+      "category": "exterior",
+      "description": "At an open common-room window Harry and Ron play chess in warm air while watching Hagrid teach at the Forest edge; Harry guesses unicorns from the boys standing back.",
+      "evidence": [
+        "B05-C031-P0106",
+        "B05-C031-P0110",
+        "B05-C031-P0113",
+        "B05-C031-P0114",
+        "B05-C031-P0115"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Hagrid and class observed; unicorn identification remains a guess. Hermione reports another Niffler attack in Umbridge’s office."
+    },
+    {
+      "id": "B05-260",
+      "location": "Creature examination lawn",
+      "category": "temporary",
+      "description": "The creature practical takes place on the lawn at the Forest edge, with a Knarl among a dozen hedgehogs, milk, Bowtruckle handling, a Fire Crab to feed and clean, and food choices for a sick unicorn. Hagrid watches from his cabin window.",
+      "evidence": [
+        "B05-C031-P0121",
+        "B05-C031-P0122"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Exam materials confirmed; a real sick unicorn is not explicitly present. Cabin-to-exam-lawn sightline."
+    },
+    {
+      "id": "B05-261",
+      "location": "Divination examination furniture",
+      "category": "temporary",
+      "description": "Harry’s practical uses a desktop, blank crystal ball, tea-leaf reading and an examiner’s palm; afterward the friends ascend the marble staircase.",
+      "evidence": [
+        "B05-C031-P0123",
+        "B05-C031-P0124",
+        "B05-C031-P0125",
+        "B05-C031-P0126",
+        "B05-C031-P0129",
+        "B05-C031-P0130",
+        "B05-C031-P0131"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "No specific exam-room identity supplied beyond ascent afterward."
+    },
+    {
+      "id": "B05-262",
+      "location": "Astronomy Tower summit",
+      "category": "interior",
+      "description": "At eleven the pupils set telescopes on stands at the top of the Astronomy Tower beside a parapet, writing star charts while examiners circulate. They later descend a spiral staircase to its foot.",
+      "evidence": [
+        "B05-C031-P0132",
+        "B05-C031-P0133",
+        "B05-C031-P0134",
+        "B05-C031-P0138",
+        "B05-C031-P0142",
+        "B05-C031-P0145",
+        "B05-C031-P0152",
+        "B05-C031-P0165"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Open sky observing area with parapet; telescope holders also used. No roof or dome invented."
+    },
+    {
+      "id": "B05-263",
+      "location": "Astronomy Tower front-door alignment",
+      "category": "exterior",
+      "description": "Harry stands at a parapet directly above the castle front doors. When they open, light spills down the stone steps onto the lawn; he can see people crossing it, castle-window lights reflected on the ground and the cabin’s lit windows and door.",
+      "evidence": [
+        "B05-C031-P0133",
+        "B05-C031-P0134",
+        "B05-C031-P0135",
+        "B05-C031-P0136",
+        "B05-C031-P0137",
+        "B05-C031-P0138",
+        "B05-C031-P0139",
+        "B05-C031-P0152"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Strong vertical alignment and multi-point sightlines; no total tower height stated."
+    },
+    {
+      "id": "B05-264",
+      "location": "Hagrid cabin night battle",
+      "category": "temporary",
+      "description": "Six attackers enter Hagrid’s lit cabin, then its door bursts open into a fight outside. Fang is Stunned, one attacker thrown about ten feet and others knocked down. McGonagall is struck by four Stunners halfway between cabin and castle.",
+      "evidence": [
+        "B05-C031-P0137",
+        "B05-C031-P0138",
+        "B05-C031-P0139",
+        "B05-C031-P0145",
+        "B05-C031-P0146",
+        "B05-C031-P0149",
+        "B05-C031-P0150",
+        "B05-C031-P0151",
+        "B05-C031-P0154",
+        "B05-C031-P0157",
+        "B05-C031-P0158",
+        "B05-C031-P0159",
+        "B05-C031-P0160",
+        "B05-C031-P0162"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Observed from distant tower; thrown distance is Harry’s estimate. Hagrid’s spell resistance is observed, cause later attributed to giant ancestry."
+    },
+    {
+      "id": "B05-265",
+      "location": "Hagrid escape toward gates",
+      "category": "route",
+      "description": "Hagrid lifts unconscious Fang around his shoulders and runs toward the distant gates, vanishing into darkness under a missed final Stunning Spell.",
+      "evidence": [
+        "B05-C031-P0162",
+        "B05-C031-P0163",
+        "B05-C031-P0164",
+        "B05-C031-P0168",
+        "B05-C031-P0169",
+        "B05-C031-P0172",
+        "B05-C031-P0173"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Direction and disappearance observed; destination with Dumbledore only conjectured."
+    },
+    {
+      "id": "B05-266",
+      "location": "Umbridge office window Niffler route",
+      "category": "history",
+      "description": "Lee admits he put the Nifflers in Umbridge’s office by levitating them through her window.",
+      "evidence": [
+        "B05-C031-P0177",
+        "B05-C031-P0178",
+        "B05-C031-P0179"
+      ],
+      "certainty": "reported",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Reported exterior-window access, explaining entry despite the new door."
+    },
+    {
+      "id": "B05-267",
+      "location": "Dormitory rescue view",
+      "category": "exterior",
+      "description": "Colin says pupils watched through a dormitory window as McGonagall was carried back uphill to the castle.",
+      "evidence": [
+        "B05-C031-P0181",
+        "B05-C031-P0182",
+        "B05-C031-P0183",
+        "B05-C031-P0184"
+      ],
+      "certainty": "reported",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Reported view from Colin’s dormitory, not necessarily Harry’s window or room."
     }
   ],
   "chapter_reviews": [
@@ -4450,6 +4728,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read every paragraph in four chunks including complete Forest journey, Grawp reveal and centaur exchange. Folkloric retelling of twins dive-bombing Umbridge is not an observed event; troll guard remains rumour."
+    },
+    {
+      "chapter": 31,
+      "reviewed_ranges": [
+        [
+          1,
+          214
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph in four chunks including entire examination sequence, tower battle and final vision. Ministry torture vision is not a Hogwarts room."
     }
   ]
 }
