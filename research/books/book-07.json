@@ -119,6 +119,32 @@
       "certainty": "reported",
       "temporal": "31 July 1997",
       "model_notes": "Reported access behaviour and former display position, not proof of a current item’s authenticity or a visible sword-to-hat passage. No sword is produced at this meeting."
+    },
+    {
+      "id": "B07-009",
+      "location": "Headmaster’s study / Phineas Nigellus portrait",
+      "category": "magic",
+      "description": "Seeing Phineas Nigellus’s empty portrait at Grimmauld Place, Harry concludes that its subject is spending the night in the Headmaster’s study at Hogwarts.",
+      "evidence": [
+        "B07-C010-P0006"
+      ],
+      "certainty": "inference",
+      "temporal": "August 1997",
+      "model_notes": "Establishes Harry’s understanding of linked portrait destinations; his conclusion is not a direct observation of the school frame that night."
+    },
+    {
+      "id": "B07-010",
+      "location": "Hogwarts Apparition protections",
+      "category": "magic",
+      "description": "Ron explains that house-elves can Apparate and Disapparate into and out of Hogwarts although wizards cannot.",
+      "evidence": [
+        "B07-C010-P0155",
+        "B07-C010-P0156",
+        "B07-C010-P0157"
+      ],
+      "certainty": "reported",
+      "temporal": "August 1997 explanation of continuing constraint",
+      "model_notes": "Species-specific access rule; do not apply the wizard prohibition to house-elves. The sea cave discussed alongside it is a separate remote site."
     }
   ],
   "chapter_reviews": [
@@ -220,6 +246,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all narrative paragraphs. London cafe, Grimmauld Place and Malfoy Manor scenes add no Hogwarts spatial constraints."
+    },
+    {
+      "chapter": 10,
+      "reviewed_ranges": [
+        [
+          1,
+          195
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Recorded linked portrait destination and house-elf exception to Hogwarts Apparition protections. Grimmauld Place and the sea cave are outside school/grounds scope."
     }
   ]
 }
