@@ -1616,6 +1616,137 @@
       "certainty": "explicit",
       "temporal": "Morning of 1 March 1997",
       "model_notes": "Footstool, armchair, drinks table, low table and kit locations constrain local circulation but do not establish the whole floor plan. Kit is movable and antidote supplies are a dated state."
+    },
+    {
+      "id": "B06-110",
+      "location": "Hospital wing ward and entrance",
+      "category": "interior",
+      "description": "The ward has double doors, curtained windows and lamps. Beds have bedside cabinets and visitors can pull chairs around a bed. Ron is initially the only patient; visitors wait outside and try to see in as doors open.",
+      "evidence": [
+        "B06-C019-P0002",
+        "B06-C019-P0003",
+        "B06-C019-P0008",
+        "B06-C019-P0035",
+        "B06-C019-P0049",
+        "B06-C019-P0053"
+      ],
+      "certainty": "explicit",
+      "temporal": "Evening of 1 March 1997",
+      "model_notes": "Ward entrance, furnishings and sight restriction. Six-visitors rule is staff policy, not physical capacity. Narration calls these ward doors “dormitory doors”."
+    },
+    {
+      "id": "B06-111",
+      "location": "Hospital wing–Slughorn office level relation",
+      "category": "route",
+      "description": "Harry recounts that McGonagall and Pomfrey brought the poisoned Ron up from Slughorn’s room to the hospital wing.",
+      "evidence": [
+        "B06-C019-P0010",
+        "B06-C019-P0011",
+        "B06-C019-P0013"
+      ],
+      "certainty": "reported",
+      "temporal": "1 March 1997",
+      "model_notes": "Reported upward transfer, no absolute floor numbers or full stair path."
+    },
+    {
+      "id": "B06-112",
+      "location": "Hospital wing–marble staircase–Gryffindor route",
+      "category": "route",
+      "description": "Leaving the ward, Harry, Hermione and Hagrid walk along a corridor towards the marble staircase. Further along the return route a corner lets Filch’s shadow appear on the wall before he turns into view; a turning leads towards Gryffindor Tower.",
+      "evidence": [
+        "B06-C019-P0054",
+        "B06-C019-P0074",
+        "B06-C019-P0080",
+        "B06-C019-P0081",
+        "B06-C019-P0084"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late evening of 1 March 1997",
+      "model_notes": "Route sequence only; does not prove each described segment is adjacent or fix staircase landing level."
+    },
+    {
+      "id": "B06-113",
+      "location": "Disguised wall door shortcut to Potions",
+      "category": "route",
+      "description": "Harry escapes a conversation by stepping sideways through a door masquerading as solid wall and running along a shortcut towards Potions.",
+      "evidence": [
+        "B06-C019-P0110"
+      ],
+      "certainty": "explicit",
+      "temporal": "March 1997",
+      "model_notes": "Concealed interior doorway and route destination; exact position and mechanism not described."
+    },
+    {
+      "id": "B06-114",
+      "location": "Hufflepuff-match conditions and podium use",
+      "category": "temporary",
+      "description": "At the Hufflepuff match there is little wind, broken cloud and intermittent dazzling sunlight. Luna and McGonagall occupy a commentator’s podium below Harry’s aerial viewpoint, using the magical megaphone.",
+      "evidence": [
+        "B06-C019-P0120",
+        "B06-C019-P0132",
+        "B06-C019-P0133",
+        "B06-C019-P0136",
+        "B06-C019-P0138",
+        "B06-C019-P0139",
+        "B06-C019-P0141",
+        "B06-C019-P0148"
+      ],
+      "certainty": "explicit",
+      "temporal": "Gryffindor–Hufflepuff match, March 1997",
+      "model_notes": "A podium is functioning again after the earlier collision; text does not say whether repaired or replaced. Do not infer repair method. Match sound carries over the grounds."
+    },
+    {
+      "id": "B06-115",
+      "location": "Hospital bed light and exterior sky",
+      "category": "interior",
+      "description": "Harry wakes in a warm comfortable hospital bed with Ron on his left; a lamp casts a golden circle onto the shadowed ceiling and crimson-streaked indigo sky is visible outside.",
+      "evidence": [
+        "B06-C019-P0153",
+        "B06-C019-P0154",
+        "B06-C019-P0155",
+        "B06-C019-P0165",
+        "B06-C019-P0177"
+      ],
+      "certainty": "explicit",
+      "temporal": "Evening after Hufflepuff match, March 1997",
+      "model_notes": "Local bed adjacency and light effect. Ron’s statement that he heard the match commentary from the ward (P0166) supplies an additional reported acoustic connection."
+    },
+    {
+      "id": "B06-116",
+      "location": "Hospital nighttime controls and Pomfrey office",
+      "category": "magic",
+      "description": "Pomfrey’s office opens into the ward. At bedtime she waves her wand to close all curtains, the lamps dim, and she returns through her office door. Harry later casts Muffliato towards that door and no response follows the noisy disturbance in the ward.",
+      "evidence": [
+        "B06-C019-P0038",
+        "B06-C019-P0160",
+        "B06-C019-P0179",
+        "B06-C019-P0187",
+        "B06-C019-P0193",
+        "B06-C019-P0200"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night after Hufflepuff match, March 1997",
+      "model_notes": "Curtain referents may include bed screens or windows; the passage says all curtains, so do not arbitrarily choose. Spell does not prove a naturally soundproof office."
+    },
+    {
+      "id": "B06-117",
+      "location": "House-elf arrival in hospital wing",
+      "category": "magic",
+      "description": "Calling Kreacher’s name produces a loud crack followed by Kreacher and Dobby wrestling on the ward floor. Peeves appears in midair above them and swoops around a lamp.",
+      "evidence": [
+        "B06-C019-P0183",
+        "B06-C019-P0184",
+        "B06-C019-P0185",
+        "B06-C019-P0187",
+        "B06-C019-P0188",
+        "B06-C019-P0189",
+        "B06-C019-P0193",
+        "B06-C019-P0194",
+        "B06-C019-P0199"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night after Hufflepuff match, March 1997",
+      "model_notes": "Observed instantaneous elf arrival inside the castle despite human Apparition restrictions. This scene does not explicitly name the travel mechanism or show their origin."
     }
   ],
   "chapter_reviews": [
@@ -1816,6 +1947,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two blocks. Captured snowy courtyard, potion storage/heating/stools, restricted-book behaviour, thaw/mud, cleared Hall and bounded Apparition exemption, fourth-floor obstruction/shortcut, boys’ staircase, Map limitations, cancelled trip and study furniture during poisoning. False claim about Romilda’s extra lessons is explicitly an invention and excluded."
+    },
+    {
+      "chapter": 19,
+      "reviewed_ranges": [
+        [
+          1,
+          210
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks. Captured ward double doors/furniture/office/light and controls, return route and corner, disguised-wall shortcut, match conditions and resumed podium use, and elf arrival. Falling-tunnel sensation on injury and Harry’s romantic imagination are not literal passages. Forest argument gives no new mapped location."
     }
   ]
 }
