@@ -3129,6 +3129,101 @@
       "certainty": "explicit",
       "temporal": "Late May–early June 1995, after Crouch disappearance",
       "model_notes": "Dated valid password. Preserve the moving stair and separate upper office door; no numeric rise or fixed floor count is given."
+    },
+    {
+      "id": "B04-200",
+      "location": "Dumbledore’s office",
+      "category": "interior",
+      "description": "The office is a beautiful circular room lined with sleeping portraits of previous headmasters and headmistresses. Dumbledore has a polished desk and chair with a visitor chair opposite and enough space to pace behind it. Fawkes occupies a golden perch beside the door; the office is sunlit.",
+      "evidence": [
+        "B04-C030-P0003",
+        "B04-C030-P0004",
+        "B04-C030-P0013",
+        "B04-C030-P0015",
+        "B04-C030-P0016",
+        "B04-C030-P0126",
+        "B04-C030-P0128",
+        "B04-C030-P0158",
+        "B04-C030-P0161",
+        "B04-C030-P0170"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1995 office visit; earlier school memory where specified",
+      "model_notes": "Clunks can be heard fading in the corridor below after visitors depart. No measured diameter is supplied."
+    },
+    {
+      "id": "B04-201",
+      "location": "Office shelf and sword display",
+      "category": "furnishing",
+      "description": "Behind Dumbledore’s desk a shelf holds the ragged Sorting Hat. Beside it a glass case displays Gryffindor’s silver sword with large rubies in its hilt.",
+      "evidence": [
+        "B04-C030-P0017"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1995 office visit; earlier school memory where specified",
+      "model_notes": "The sword’s history is given by narration; preserve the current glass case and shelf positions."
+    },
+    {
+      "id": "B04-202",
+      "location": "Office cabinet and Pensieve",
+      "category": "magic",
+      "description": "A black cabinet behind the visitor chair contains a shallow stone basin carved with runes and symbols, filled with moving silver-white memory substance. Its light reflects on the sword case. Touching the surface draws Harry into a memory; Dumbledore retrieves him and moves the basin onto the polished desk, where stored memories can also project revolving figures.",
+      "evidence": [
+        "B04-C030-P0017",
+        "B04-C030-P0018",
+        "B04-C030-P0019",
+        "B04-C030-P0020",
+        "B04-C030-P0023",
+        "B04-C030-P0024",
+        "B04-C030-P0025",
+        "B04-C030-P0026",
+        "B04-C030-P0123",
+        "B04-C030-P0125",
+        "B04-C030-P0126",
+        "B04-C030-P0127",
+        "B04-C030-P0128",
+        "B04-C030-P0129",
+        "B04-C030-P0131",
+        "B04-C030-P0133",
+        "B04-C030-P0135",
+        "B04-C030-P0136",
+        "B04-C030-P0137",
+        "B04-C030-P0138",
+        "B04-C030-P0142",
+        "B04-C030-P0145",
+        "B04-C030-P0146",
+        "B04-C030-P0205"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1995 office visit; earlier school memory where specified",
+      "model_notes": "Magical memory access is not a physical tunnel or extra room beneath the cabinet. The courtroom shown in the basin is outside Hogwarts."
+    },
+    {
+      "id": "B04-203",
+      "location": "Hogwarts wall torches",
+      "category": "furnishing",
+      "description": "The narration compares the memory courtroom’s bracket-mounted wall torches to those illuminating Hogwarts walls.",
+      "evidence": [
+        "B04-C030-P0021"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1995 office visit; earlier school memory where specified",
+      "model_notes": "Only the stated Hogwarts fixture comparison is imported; the courtroom’s square plan, benches and chained chairs do not belong to the castle."
+    },
+    {
+      "id": "B04-204",
+      "location": "Space behind greenhouses in school memory",
+      "category": "history",
+      "description": "A projected memory of school-age Bertha Jorkins reports that she saw a pupil kissing Florence behind the greenhouses.",
+      "evidence": [
+        "B04-C030-P0142",
+        "B04-C030-P0143",
+        "B04-C030-P0144",
+        "B04-C030-P0145"
+      ],
+      "certainty": "reported",
+      "temporal": "Late May–June 1995 office visit; earlier school memory where specified",
+      "model_notes": "Reported historical use of space behind the greenhouses; the memory does not show its planting, geometry or exact year."
     }
   ],
   "chapter_reviews": [
@@ -3450,6 +3545,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed. Included dawn Owlery entrance and spiral stair, map/Disapparition limits, classroom sail view, cushion storage, hot Divination room and moving Headmaster access. Dream at paragraphs 119–129 describes a remote house, not Hogwarts."
+    },
+    {
+      "chapter": 30,
+      "reviewed_ranges": [
+        [
+          1,
+          205
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included office plan and displays, Pensieve cabinet behaviour, explicit Hogwarts torch comparison and Bertha’s greenhouse report. All trial-room descriptions and remote disappearances remain outside the Hogwarts catalogue."
     }
   ]
 }
