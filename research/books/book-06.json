@@ -1438,6 +1438,184 @@
       "certainty": "explicit",
       "temporal": "Riddle’s teenage school years, memory viewed January 1997",
       "model_notes": "The supplied memory is explicitly tampered with (P0198–P0202). Preserve this historical view as provisional; white fog and abrupt sound changes are memory alteration artefacts, not actual office fixtures or weather."
+    },
+    {
+      "id": "B06-099",
+      "location": "Snowy courtyard",
+      "category": "temporary",
+      "description": "Harry and Hermione stand in a deserted courtyard during break; the snow is ankle-deep.",
+      "evidence": [
+        "B06-C018-P0005",
+        "B06-C018-P0012"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1997",
+      "model_notes": "Unnamed courtyard and relative snow depth; no plan, paving or enclosure described."
+    },
+    {
+      "id": "B06-100",
+      "location": "Potions work stations and store contents",
+      "category": "furnishing",
+      "description": "Students use stools at shared worktables with cauldrons heated by individual fires. Slughorn’s desk is at the front of the dungeon. The store cupboard contains unicorn horns, tangles of dried herbs and, at the back, a card box of brown shrivelled bezoars.",
+      "evidence": [
+        "B06-C018-P0013",
+        "B06-C018-P0022",
+        "B06-C018-P0023",
+        "B06-C018-P0025",
+        "B06-C018-P0034",
+        "B06-C018-P0035",
+        "B06-C018-P0048"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1997 antidote lesson",
+      "model_notes": "Additional storage contents and heating method. Shared table is also called a desk; do not create an extra fixture from wording variation."
+    },
+    {
+      "id": "B06-101",
+      "location": "Restricted-section books",
+      "category": "magic",
+      "description": "Hermione reports searching the library’s restricted section for Horcrux explanations. An old borrowed book, Magick Moste Evile, gives a ghostly wail when slammed shut.",
+      "evidence": [
+        "B06-C018-P0069",
+        "B06-C018-P0070"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–February 1997",
+      "model_notes": "Book behaviour directly observed; completeness of her search is reported. No restricted-section entrance or shelving geometry is described here."
+    },
+    {
+      "id": "B06-102",
+      "location": "February grounds thaw",
+      "category": "temporary",
+      "description": "Snow melts as February arrives, giving way to cold persistent rain beneath low purple-grey clouds. The lawns become slippery and muddy; late February adds wind.",
+      "evidence": [
+        "B06-C018-P0071",
+        "B06-C018-P0129"
+      ],
+      "certainty": "explicit",
+      "temporal": "February 1997",
+      "model_notes": "Dated terrain surface and weather, replacing January snow state."
+    },
+    {
+      "id": "B06-103",
+      "location": "Great Hall cleared for Apparition",
+      "category": "temporary",
+      "description": "The Hall’s tables disappear for the lesson, leaving floor space for pupils. Rain strikes the high windows and the enchanted ceiling swirls darkly above. Students are instructed to leave five feet clear in front of each person, and wooden hoops appear on the dusty floor at their destinations.",
+      "evidence": [
+        "B06-C018-P0072",
+        "B06-C018-P0078",
+        "B06-C018-P0079",
+        "B06-C018-P0088",
+        "B06-C018-P0090",
+        "B06-C018-P0091",
+        "B06-C018-P0101"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Apparition lesson, February 1997",
+      "model_notes": "Temporary teaching layout with explicit five-foot displacement exemplified by Susan’s Splinching. No hoop diameter or Hall dimension supplied; tables are absent, not destroyed."
+    },
+    {
+      "id": "B06-104",
+      "location": "Great Hall Apparition exception",
+      "category": "magic",
+      "description": "Twycross explains that Dumbledore has lifted Hogwarts’s anti-Apparition enchantment only inside the Great Hall and only for one hour. He warns that nobody can Apparate beyond the Hall’s walls. Students attempt local moves; Twycross vanishes and reappears at the back of the Hall. The hoops vanish after the lesson.",
+      "evidence": [
+        "B06-C018-P0077",
+        "B06-C018-P0101",
+        "B06-C018-P0102",
+        "B06-C018-P0103",
+        "B06-C018-P0104",
+        "B06-C018-P0106",
+        "B06-C018-P0107"
+      ],
+      "certainty": "reported",
+      "temporal": "First Apparition lesson, February 1997",
+      "model_notes": "Rule and duration are reported; local Apparition is witnessed. Maintain a bounded temporary exception, not unrestricted Apparition on the grounds."
+    },
+    {
+      "id": "B06-105",
+      "location": "Entrance Hall–Gryffindor fourth-floor detour",
+      "category": "route",
+      "description": "Returning to Gryffindor Tower, Harry and Ron meet a fourth-floor door jammed shut by Peeves. They turn back and use a familiar shortcut, reaching the portrait hole within five minutes.",
+      "evidence": [
+        "B06-C018-P0112",
+        "B06-C018-P0113"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Apparition lesson day, February 1997",
+      "model_notes": "Local blocked-door event and alternate route; time is narrative travel time at a run, not a scale ruler or complete shortcut map."
+    },
+    {
+      "id": "B06-106",
+      "location": "Gryffindor boys’ stair and dormitory",
+      "category": "route",
+      "description": "A door off the common room leads to the boys’ staircase and up to the dormitory, which contains pupils’ beds and trunks. Ron’s bed has a post, and the dormitory has a rain-washed window.",
+      "evidence": [
+        "B06-C018-P0115",
+        "B06-C018-P0116",
+        "B06-C018-P0123",
+        "B06-C018-P0135",
+        "B06-C018-P0136",
+        "B06-C018-P0137",
+        "B06-C018-P0150"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–1 March 1997",
+      "model_notes": "Explicit door → stair → dormitory relationship. No spiral form or exact number of beds added by this passage."
+    },
+    {
+      "id": "B06-107",
+      "location": "Marauder’s Map depiction and missing locations",
+      "category": "magic",
+      "description": "The activated Map depicts detailed plans of castle floors and labelled moving dots for occupants. It shows a Slytherin common room and dormitory, Snape’s study, bathrooms and hospital wing; Draco periodically cannot be found despite Crabbe and Goyle appearing in corridors.",
+      "evidence": [
+        "B06-C018-P0119",
+        "B06-C018-P0120",
+        "B06-C018-P0121",
+        "B06-C018-P0124",
+        "B06-C018-P0128",
+        "B06-C018-P0138",
+        "B06-C018-P0140",
+        "B06-C018-P0143",
+        "B06-C018-P0148"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–1 March 1997",
+      "model_notes": "Diegetic map evidence, not supplied coordinates. Apparent completeness at P0121 is limited by observed disappearances; do not invent missing-room geometry or assume Draco has left the grounds."
+    },
+    {
+      "id": "B06-108",
+      "location": "Hogsmeade access cancellation",
+      "category": "temporary",
+      "description": "Notices on every common-room noticeboard announce cancellation of the next Hogsmeade visit.",
+      "evidence": [
+        "B06-C018-P0129",
+        "B06-C018-P0130",
+        "B06-C018-P0131"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late February 1997",
+      "model_notes": "Temporary access restriction, not physical closure of the road or village."
+    },
+    {
+      "id": "B06-109",
+      "location": "Slughorn study furniture and circulation",
+      "category": "interior",
+      "description": "Slughorn’s study is overheated and crowded. Ron trips over a tasselled footstool, then sits in an armchair. A table is loaded with drinks; another low table lies across Harry’s route to Slughorn’s open potion kit, which Harry jumps to reach.",
+      "evidence": [
+        "B06-C018-P0204",
+        "B06-C018-P0212",
+        "B06-C018-P0213",
+        "B06-C018-P0214",
+        "B06-C018-P0220",
+        "B06-C018-P0222",
+        "B06-C018-P0228",
+        "B06-C018-P0232",
+        "B06-C018-P0233"
+      ],
+      "certainty": "explicit",
+      "temporal": "Morning of 1 March 1997",
+      "model_notes": "Footstool, armchair, drinks table, low table and kit locations constrain local circulation but do not establish the whole floor plan. Kit is movable and antidote supplies are a dated state."
     }
   ],
   "chapter_reviews": [
@@ -1627,6 +1805,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two blocks, including both memories and all school-history dialogue. Recorded temporary Floo endpoint/carpet, snowy corridor view, changed password/portrait report, noticeboards, Charms ceiling, office rug/shelf and historical trophy/Slughorn furniture. Tampered memory fog is not castle atmosphere; Gaunt house and Riddle estate excluded."
+    },
+    {
+      "chapter": 18,
+      "reviewed_ranges": [
+        [
+          1,
+          233
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks. Captured snowy courtyard, potion storage/heating/stools, restricted-book behaviour, thaw/mud, cleared Hall and bounded Apparition exemption, fourth-floor obstruction/shortcut, boys’ staircase, Map limitations, cancelled trip and study furniture during poisoning. False claim about Romilda’s extra lessons is explicitly an invention and excluded."
     }
   ]
 }
