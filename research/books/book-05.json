@@ -865,6 +865,205 @@
       "certainty": "explicit",
       "temporal": "First school week, September 1995",
       "model_notes": "Precise local floor and turn; does not fix total travel from the third floor or statue-to-portrait distance."
+    },
+    {
+      "id": "B05-060",
+      "location": "Gryffindor dormitory and morning common room",
+      "category": "interior",
+      "description": "Early sunlight enters through a gap in Harry’s four-poster curtains. Below the dormitories, the common room has an extinguished grate and old squashy fireside chair; the usual evening rubbish and elf hats have been cleared overnight. Sunlight advances halfway across the room.",
+      "evidence": [
+        "B05-C014-P0001",
+        "B05-C014-P0002",
+        "B05-C014-P0003",
+        "B05-C014-P0014"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Cleaning observed, cleaner identity not supplied; direction of sunrise through particular windows unspecified."
+    },
+    {
+      "id": "B05-061",
+      "location": "Paracelsus corridor junction",
+      "category": "route",
+      "description": "On a route from Gryffindor to the Owlery, Nick warns of a bust of Paracelsus halfway along the corridor. Harry turns left rather than right, taking a longer upward route past many windows.",
+      "evidence": [
+        "B05-C014-P0015",
+        "B05-C014-P0016",
+        "B05-C014-P0017",
+        "B05-C014-P0018"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Bust placement and safer route observed/reported separately: planned falling-bust prank is Nick’s report, not an observed collapse."
+    },
+    {
+      "id": "B05-062",
+      "location": "Wilfred the Wistful statue",
+      "category": "furnishing",
+      "description": "Mrs Norris disappears behind a statue of Wilfred the Wistful on Harry’s longer route to the Owlery.",
+      "evidence": [
+        "B05-C014-P0019"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "A distinct statue; no material or precise floor supplied."
+    },
+    {
+      "id": "B05-063",
+      "location": "Owlery volume and floor",
+      "category": "interior",
+      "description": "The circular Owlery has glassless windows, rafters supporting hundreds of owls and a vaulted ceiling whose upper reaches accommodate Hedwig. Straw, droppings and small animal bones cover the floor.",
+      "evidence": [
+        "B05-C014-P0021",
+        "B05-C014-P0022",
+        "B05-C014-P0023",
+        "B05-C014-P0043",
+        "B05-C014-P0044"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Keep vertical owl-roost space and unglazed openings."
+    },
+    {
+      "id": "B05-064",
+      "location": "Owlery service and access",
+      "category": "route",
+      "description": "Owls launch through windows. The room has a handled door and stairs descending outside it; after leaving, Harry and Cho reach the entrance to a corridor leading toward the castle’s west wing.",
+      "evidence": [
+        "B05-C014-P0026",
+        "B05-C014-P0028",
+        "B05-C014-P0036",
+        "B05-C014-P0059",
+        "B05-C014-P0061",
+        "B05-C014-P0066",
+        "B05-C014-P0068"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Does not locate Ravenclaw quarters or assert that the Owlery itself is in the west wing."
+    },
+    {
+      "id": "B05-065",
+      "location": "Owlery view over cabin and Forest",
+      "category": "exterior",
+      "description": "From one Owlery window Hagrid’s hut is clearly visible with drawn curtains and a smokeless chimney. Beyond the swaying Forest treetops Harry sees a black leathery-winged carriage creature rise, circle and plunge back among the trees.",
+      "evidence": [
+        "B05-C014-P0026",
+        "B05-C014-P0027"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Cabin appears unoccupied to Harry; flight confirms Forest presence rather than an exact nest."
+    },
+    {
+      "id": "B05-066",
+      "location": "Castle to Quidditch pitch",
+      "category": "route",
+      "description": "Harry and Ron walk downhill over sloping lawns to the pitch. Approaching it, Harry sees the Forbidden Forest to his right and owls around the Owlery tower.",
+      "evidence": [
+        "B05-C014-P0111",
+        "B05-C014-P0114",
+        "B05-C014-P0115"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Right is relative to this approach, not a compass direction. Preserve reciprocal castle/pitch travel."
+    },
+    {
+      "id": "B05-067",
+      "location": "Quidditch changing-room facilities",
+      "category": "interior",
+      "description": "A cupboard in the changing room stores balls. Angelina enters from the Captain’s office; players carry a ball crate onto the pitch and change back after practice.",
+      "evidence": [
+        "B05-C014-P0115",
+        "B05-C014-P0118",
+        "B05-C014-P0119",
+        "B05-C014-P0120",
+        "B05-C014-P0121",
+        "B05-C014-P0143",
+        "B05-C014-P0162",
+        "B05-C014-P0163"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Connect Captain’s office to changing-room circulation; no full room plan."
+    },
+    {
+      "id": "B05-068",
+      "location": "Quidditch stadium goal and stand layout",
+      "category": "exterior",
+      "description": "The pitch has three tall goalposts at the defended end, including left, middle and right hoops. Spectators halfway up the stands can jeer audibly across the stadium. Practice uses the opposite end and a ball crate on the ground.",
+      "evidence": [
+        "B05-C014-P0115",
+        "B05-C014-P0121",
+        "B05-C014-P0128",
+        "B05-C014-P0139",
+        "B05-C014-P0141",
+        "B05-C014-P0143",
+        "B05-C014-P0147",
+        "B05-C014-P0148",
+        "B05-C014-P0150",
+        "B05-C014-P0156"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Goals at opposite ends are explicit in action; no dimensions inferred."
+    },
+    {
+      "id": "B05-069",
+      "location": "Pitch to medical care",
+      "category": "route",
+      "description": "Fred and George fly toward the castle supporting injured Katie between them after Angelina says she needs the hospital wing.",
+      "evidence": [
+        "B05-C014-P0159",
+        "B05-C014-P0160",
+        "B05-C014-P0161",
+        "B05-C014-P0162"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Airborne departure is observed; actual hospital entry and route inside are not narrated."
+    },
+    {
+      "id": "B05-070",
+      "location": "Common-room windows and study arrangement",
+      "category": "interior",
+      "description": "Pupils study at tables and armchairs beside the fire. A screech owl waits on a windowsill; Ron opens the window and it flies inside to land on his essay, then leaves. Hermione’s knitting needles work suspended in midair.",
+      "evidence": [
+        "B05-C014-P0178",
+        "B05-C014-P0180",
+        "B05-C014-P0181",
+        "B05-C014-P0183",
+        "B05-C014-P0193",
+        "B05-C014-P0196",
+        "B05-C014-P0214",
+        "B05-C014-P0222"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Operable common-room window and exterior owl access; no claim of window count."
+    },
+    {
+      "id": "B05-071",
+      "location": "Common-room hearth communication",
+      "category": "magic",
+      "description": "Harry kneels on a singed threadbare hearthrug before the fire. Sirius’s head appears among the flames for conversation and vanishes with a small pop; he reports checking the room briefly every hour beforehand.",
+      "evidence": [
+        "B05-C014-P0225",
+        "B05-C014-P0229",
+        "B05-C014-P0231",
+        "B05-C014-P0232",
+        "B05-C014-P0234",
+        "B05-C014-P0235",
+        "B05-C014-P0236",
+        "B05-C014-P0237",
+        "B05-C014-P0239",
+        "B05-C014-P0290",
+        "B05-C014-P0291"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Remote head communication is observed, hourly checks reported. Do not model full-body arrival from this scene."
     }
   ],
   "chapter_reviews": [
@@ -1010,6 +1209,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read every paragraph in three chunks, including detentions, conversations, lessons and Keeper trials viewed from the office."
+    },
+    {
+      "chapter": 14,
+      "reviewed_ranges": [
+        [
+          1,
+          291
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three chunks, including full newspaper excerpts, Percy letter and hearth discussion."
     }
   ]
 }
