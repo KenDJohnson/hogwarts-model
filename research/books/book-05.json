@@ -4792,6 +4792,180 @@
       "certainty": "explicit",
       "temporal": "June 1996 sunset and night, Department of Mysteries expedition",
       "model_notes": "School boundary aerial egress and surrounding terrain; no speed, duration, exact bearing or continuous mapped road course supplied. London endpoint is Ministry visitors’ entrance."
+    },
+    {
+      "id": "B05-288",
+      "location": "Headmaster office repaired state",
+      "category": "interior",
+      "description": "On returning Harry finds the office apparently repaired: silver instruments again puff and whir on spindle-legged tables, and portraits rest in frames. Dawn shows a pale-green horizon through the window; carpet and polished desk brighten as the sun rises over mountains.",
+      "evidence": [
+        "B05-C037-P0001",
+        "B05-C037-P0002",
+        "B05-C037-P0003",
+        "B05-C037-P0012",
+        "B05-C037-P0015",
+        "B05-C037-P0024",
+        "B05-C037-P0069",
+        "B05-C037-P0086",
+        "B05-C037-P0131",
+        "B05-C037-P0138",
+        "B05-C037-P0176"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 dawn after Ministry battle; historical interview where specified",
+      "model_notes": "Restoration is inferred from observed intact contents; no repair spell or worker witnessed."
+    },
+    {
+      "id": "B05-289",
+      "location": "Headmaster office sealed door",
+      "category": "magic",
+      "description": "Phineas says the office should be barred to all but the rightful Headmaster. Harry twice finds its doorknob immovable and cannot exit; Dumbledore explicitly refuses release until he has spoken.",
+      "evidence": [
+        "B05-C037-P0008",
+        "B05-C037-P0010",
+        "B05-C037-P0011",
+        "B05-C037-P0013",
+        "B05-C037-P0044",
+        "B05-C037-P0045",
+        "B05-C037-P0046",
+        "B05-C037-P0047",
+        "B05-C037-P0048",
+        "B05-C037-P0050",
+        "B05-C037-P0051",
+        "B05-C037-P0055",
+        "B05-C037-P0056"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 dawn after Ministry battle; historical interview where specified",
+      "model_notes": "Reported access rule and observed temporary confinement; Portkey admission separately demonstrated."
+    },
+    {
+      "id": "B05-290",
+      "location": "Headmaster office Floo and phoenix perch",
+      "category": "magic",
+      "description": "Dumbledore arrives bodily through emerald flames in the office fireplace, then places newborn Fawkes on soft ashes in a tray beneath the golden perch beside the door.",
+      "evidence": [
+        "B05-C037-P0018",
+        "B05-C037-P0019",
+        "B05-C037-P0020",
+        "B05-C037-P0021",
+        "B05-C037-P0023",
+        "B05-C037-P0176"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 dawn after Ministry battle; historical interview where specified",
+      "model_notes": "Floo access now observed in this office; perch includes ash tray for phoenix rebirth."
+    },
+    {
+      "id": "B05-291",
+      "location": "Headmaster window Quidditch view",
+      "category": "exterior",
+      "description": "Harry looks from the office window toward the distant Quidditch stadium and recalls Sirius watching there in black-dog form.",
+      "evidence": [
+        "B05-C037-P0029",
+        "B05-C037-P0032"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 dawn after Ministry battle; historical interview where specified",
+      "model_notes": "Direct stadium sightline; recalled spectator presence does not supply a new entrance route."
+    },
+    {
+      "id": "B05-292",
+      "location": "Harry’s office damage",
+      "category": "temporary",
+      "description": "Harry smashes a delicate silver instrument against the wall, throws a lunascope into the fireplace and breaks its spindle-legged table on the floor, scattering legs, wooden fragments and silver cogs before sitting opposite the desk.",
+      "evidence": [
+        "B05-C037-P0037",
+        "B05-C037-P0038",
+        "B05-C037-P0039",
+        "B05-C037-P0040",
+        "B05-C037-P0053",
+        "B05-C037-P0054",
+        "B05-C037-P0063",
+        "B05-C037-P0086",
+        "B05-C037-P0176"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 dawn after Ministry battle; historical interview where specified",
+      "model_notes": "A second damage event after the initial repaired state; no subsequent repair in this chapter."
+    },
+    {
+      "id": "B05-293",
+      "location": "Headmaster desk writing set",
+      "category": "furnishing",
+      "description": "A silver ink pot and handsome scarlet quill stand on Dumbledore’s polished desk.",
+      "evidence": [
+        "B05-C037-P0086"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 dawn after Ministry battle; historical interview where specified",
+      "model_notes": "Specific desk fittings illuminated by morning sunlight."
+    },
+    {
+      "id": "B05-294",
+      "location": "Sword case and Pensieve cabinet",
+      "category": "furnishing",
+      "description": "The glass case containing Gryffindor’s sword gleams in full sunlight. A black cabinet beside Fawkes’s perch has a sliding catch and contains the rune-carved shallow stone Pensieve, which Dumbledore moves to the desk.",
+      "evidence": [
+        "B05-C037-P0176",
+        "B05-C037-P0181",
+        "B05-C037-P0182",
+        "B05-C037-P0184",
+        "B05-C037-P0185"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 dawn after Ministry battle; historical interview where specified",
+      "model_notes": "Pensieve is back in its office storage; no duplicate assumed. It can project a speaking memory figure above the basin."
+    },
+    {
+      "id": "B05-295",
+      "location": "Snape’s Forest search account",
+      "category": "history",
+      "description": "Dumbledore says Snape alerted the Order when pupils failed to return from the Forest and intended to search the Forest himself.",
+      "evidence": [
+        "B05-C037-P0098",
+        "B05-C037-P0099",
+        "B05-C037-P0100",
+        "B05-C037-P0101",
+        "B05-C037-P0119"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1996 dawn after Ministry battle; historical interview where specified",
+      "model_notes": "Reported intended search, without a verified search path or discovery."
+    },
+    {
+      "id": "B05-296",
+      "location": "Hog’s Head upstairs interview room",
+      "category": "history",
+      "description": "Dumbledore says Trelawney’s original interview and prophecy occurred on a cold wet night in a room above the Hog’s Head bar; an eavesdropper was discovered and expelled from the building.",
+      "evidence": [
+        "B05-C037-P0180",
+        "B05-C037-P0201",
+        "B05-C037-P0202",
+        "B05-C037-P0203"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1996 dawn after Ministry battle; historical interview where specified",
+      "model_notes": "Historical school-recruitment venue; establishes an upstairs room over the bar, not a Hogwarts room."
+    },
+    {
+      "id": "B05-297",
+      "location": "Ministry-to-Headmaster office Portkey",
+      "category": "magic",
+      "description": "Dumbledore enchants the fallen golden statue head with Portus and sends Harry from the Ministry Atrium directly into his Hogwarts office, where the head lands on the floor.",
+      "evidence": [
+        "B05-C036-P0102",
+        "B05-C036-P0107",
+        "B05-C036-P0108",
+        "B05-C036-P0114",
+        "B05-C036-P0115",
+        "B05-C036-P0116",
+        "B05-C036-P0117",
+        "B05-C037-P0001"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 end of Ministry battle",
+      "model_notes": "Observed inbound Portkey access despite ordinary Apparition restriction; Fudge protests lack of Ministry authorisation, so do not call it legally authorised."
     }
   ],
   "chapter_reviews": [
@@ -5179,6 +5353,28 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read every paragraph in three chunks, including whole Death Eater confrontation, room-by-room battle and Sirius loss. All physical rooms and damage are in the Ministry; no additional Hogwarts passage qualifies."
+    },
+    {
+      "chapter": 36,
+      "reviewed_ranges": [
+        [
+          1,
+          117
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph, including complete Atrium duel and restoration orders. Remote Ministry damage excluded. Return Portkey departure is combined with the arrival observed at the start of chapter 37."
+    },
+    {
+      "chapter": 37,
+      "reviewed_ranges": [
+        [
+          1,
+          212
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph in three chunks, including full prophecy and explanation. Privet Drive blood protection and locked Ministry room are not Hogwarts wards. Recorded office repair then fresh damage in correct sequence."
     }
   ]
 }
