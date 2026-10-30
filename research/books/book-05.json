@@ -2501,6 +2501,20 @@
       "certainty": "explicit",
       "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
       "model_notes": "Only the school-linked portrait network is catalogued from this remote hospital; unrelated ward architecture excluded."
+    },
+    {
+      "id": "B05-159",
+      "location": "Hogwarts Apparition boundary",
+      "category": "magic",
+      "description": "Hermione cites Hogwarts: A History to state that nobody can Apparate or Disapparate within Hogwarts, rejecting Harry’s idea that he was physically transported out of his dormitory during the snake vision. Ron says he remained in bed.",
+      "evidence": [
+        "B05-C023-P0080",
+        "B05-C023-P0081",
+        "B05-C023-P0082"
+      ],
+      "certainty": "reported",
+      "temporal": "Christmas holidays, December 1995",
+      "model_notes": "Reported general restriction and eyewitness denial of that journey; do not conflate it with the separately observed authorised Portkey departure."
     }
   ],
   "chapter_reviews": [
@@ -2745,6 +2759,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read every paragraph in three chunks, including London house, transit, hospital guide and eavesdropping. Remote hospital rooms are not Hogwarts hospital wing; retained its portrait link only."
+    },
+    {
+      "chapter": 23,
+      "reviewed_ranges": [
+        [
+          1,
+          226
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph, including corridor dream, full Christmas house and hospital scenes. Only school Apparition boundary adds Hogwarts constraints; London boiler den, hospital ward and dream passage are not castle rooms."
     }
   ]
 }
