@@ -12,6 +12,4112 @@
       "certainty": "explicit",
       "temporal": "Recollection in August 1995 of third-year Quidditch storm",
       "model_notes": "Narrated weather memory, without a new pitch layout or numerical temperature. The present broom flight ends in London and is not a Hogwarts access route."
+    },
+    {
+      "id": "B05-002",
+      "location": "Corridor to Snape’s dungeon",
+      "category": "interior",
+      "description": "A Ministry basement corridor with rough stone walls and bracket-mounted torches is said to resemble the corridor leading to Snape’s dungeon at Hogwarts.",
+      "evidence": [
+        "B05-C007-P0152"
+      ],
+      "certainty": "explicit",
+      "temporal": "August 1995 comparison with existing Hogwarts dungeon approach",
+      "model_notes": "Record the rough stone and torch-bracket comparison. The heavy bolted doors described as here belong to the Ministry corridor and are not imported as Hogwarts door specifications."
+    },
+    {
+      "id": "B05-003",
+      "location": "Grounds: route to Herbology greenhouses",
+      "category": "route",
+      "description": "Harry recalls walking across the vegetable patches to reach the Herbology greenhouses.",
+      "evidence": [
+        "B05-C009-P0082"
+      ],
+      "certainty": "explicit",
+      "temporal": "Recollection before September 1995 return to school",
+      "model_notes": "A remembered everyday approach, not a newly observed journey; establishes vegetable plots along a greenhouse approach without a compass bearing."
+    },
+    {
+      "id": "B05-004",
+      "location": "King’s Cross departure connection",
+      "category": "route",
+      "description": "The barrier between platforms nine and ten admits travellers to platform nine and three-quarters; arrivals emerge through a wrought-iron arch, beside the steam-belching Hogwarts Express.",
+      "evidence": [
+        "B05-C010-P0026",
+        "B05-C010-P0027",
+        "B05-C010-P0031"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 return to school",
+      "model_notes": "The remote London terminus is included only as the school rail connection."
+    },
+    {
+      "id": "B05-005",
+      "location": "Hogwarts Express interior",
+      "category": "interior",
+      "description": "A corridor serves compartments with glass-panelled sliding doors; luggage racks hold trunks and owl cages. The prefect carriage is toward the engine; Harry finds seating in the last carriage after passing five occupied carriages.",
+      "evidence": [
+        "B05-C010-P0051",
+        "B05-C010-P0054",
+        "B05-C010-P0057",
+        "B05-C010-P0059",
+        "B05-C010-P0060",
+        "B05-C010-P0065",
+        "B05-C010-P0069"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 return to school",
+      "model_notes": "Transport geometry, without an invented carriage total or exact seat plan."
+    },
+    {
+      "id": "B05-006",
+      "location": "Rail approach to Hogwarts",
+      "category": "route",
+      "description": "The train travels farther north through open country; carriage lamps come on at night. Harry attempts a distant castle view through a grimy rain-streaked window, but the moonless darkness prevents it.",
+      "evidence": [
+        "B05-C010-P0079",
+        "B05-C010-P0171",
+        "B05-C010-P0172"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 return to school",
+      "model_notes": "Do not turn the attempted view into a confirmed sightline or locate the railway by compass bearing from the castle."
+    },
+    {
+      "id": "B05-007",
+      "location": "Hogsmeade station and lake path",
+      "category": "route",
+      "description": "Pine trees line the path down to the lake, their smell reaching the arrival platform. First-years assemble separately under a teacher carrying a lantern.",
+      "evidence": [
+        "B05-C010-P0177",
+        "B05-C010-P0178",
+        "B05-C010-P0179"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 return to school",
+      "model_notes": "The downward path and pine lining are explicit; no first-year boat journey is narrated here."
+    },
+    {
+      "id": "B05-008",
+      "location": "Hogsmeade station to coach road",
+      "category": "route",
+      "description": "Students leave the platform through the station, passing a narrow doorway onto the dark rain-washed road outside. Roughly a hundred stagecoaches wait there to take pupils above first year up to the castle.",
+      "evidence": [
+        "B05-C010-P0183",
+        "B05-C010-P0184",
+        "B05-C010-P0185",
+        "B05-C010-P0186"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 return to school",
+      "model_notes": "Preserve road-to-station adjacency and uphill destination; no road length given."
+    },
+    {
+      "id": "B05-009",
+      "location": "Station coaches and their draft animals",
+      "category": "exterior",
+      "description": "Skeletal black horse-like creatures stand harnessed between the coach shafts. They have dragon-like heads, white pupil-less eyes and large black leathery bat-like wings; vapour issues from their nostrils in the cold station light.",
+      "evidence": [
+        "B05-C010-P0187",
+        "B05-C010-P0205",
+        "B05-C010-P0210",
+        "B05-C010-P0218"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 return to school",
+      "model_notes": "Animal clearance and harness placement matter for transport animation. Species name is not supplied in this chapter."
+    },
+    {
+      "id": "B05-010",
+      "location": "Coach draft-animal visibility",
+      "category": "magic",
+      "description": "Harry and Luna can see the harnessed winged creatures while Ron cannot, even standing directly before one.",
+      "evidence": [
+        "B05-C010-P0205",
+        "B05-C010-P0208",
+        "B05-C010-P0209",
+        "B05-C010-P0212",
+        "B05-C010-P0218",
+        "B05-C010-P0221",
+        "B05-C010-P0222"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 return to school",
+      "model_notes": "An observed visibility difference; its cause is not established by this passage."
+    },
+    {
+      "id": "B05-011",
+      "location": "Coach service continuity",
+      "category": "history",
+      "description": "Luna says she has seen the creatures since her first day and that they have always pulled the carriages.",
+      "evidence": [
+        "B05-C010-P0223"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1995 return to school",
+      "model_notes": "Character report, distinct from Harry’s previous assumption that the coaches moved by themselves."
+    },
+    {
+      "id": "B05-012",
+      "location": "Hogsmeade coaches: passenger interior",
+      "category": "interior",
+      "description": "Passengers climb into the coach’s dark, musty interior; one coach accommodates Hermione, Ginny, Ron, Luna and Harry.",
+      "evidence": [
+        "B05-C010-P0195",
+        "B05-C010-P0203",
+        "B05-C010-P0221",
+        "B05-C010-P0224"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 return to school",
+      "model_notes": "At least five occupants in this instance; upholstery and seating configuration unspecified."
+    },
+    {
+      "id": "B05-013",
+      "location": "Coach approach through school gates",
+      "category": "route",
+      "description": "The creaking wheeled coaches travel uphill in convoy through the grounds gates, between tall stone pillars topped with winged boars; the vehicles have doors and windows.",
+      "evidence": [
+        "B05-C011-P0001",
+        "B05-C011-P0007",
+        "B05-C011-P0009"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Connect station road to gated grounds; no count of intervening bends."
+    },
+    {
+      "id": "B05-014",
+      "location": "Castle approach and Hagrid’s cabin",
+      "category": "exterior",
+      "description": "A towering mass of castle turrets rises against the night sky, with some windows brightly lit above the arrivals. Hagrid’s cabin stands by the Forbidden Forest; Harry looks toward it both from the gate approach and the coach stopping place but sees no light.",
+      "evidence": [
+        "B05-C011-P0009",
+        "B05-C011-P0010"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Cabin darkness is a temporary absence, not proof of abandonment. Preserve attempted viewing positions without assuming unobstructed daytime sightlines."
+    },
+    {
+      "id": "B05-015",
+      "location": "Front steps and Entrance Hall",
+      "category": "route",
+      "description": "Coaches stop near stone steps leading to the oak front doors. Inside, torches illuminate a flagged stone floor; double doors on the right lead to the Great Hall.",
+      "evidence": [
+        "B05-C011-P0010",
+        "B05-C011-P0013",
+        "B05-C011-P0014"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Right is relative to entering from the front doors."
+    },
+    {
+      "id": "B05-016",
+      "location": "Great Hall lighting and roof",
+      "category": "interior",
+      "description": "Four long house tables sit beneath a starless black ceiling matching the sky visible through high windows. Candles float above the tables and translucent ghosts mingle among pupils.",
+      "evidence": [
+        "B05-C011-P0015"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "September night state; ghost movement is not restricted to physical seats."
+    },
+    {
+      "id": "B05-017",
+      "location": "Great Hall staff table and chair",
+      "category": "furnishing",
+      "description": "The long staff table runs along the top wall. Dumbledore occupies a high-backed golden chair in its centre; Umbridge sits beside him, and Grubbly-Plank takes Hagrid’s place at the very end.",
+      "evidence": [
+        "B05-C011-P0016",
+        "B05-C011-P0027",
+        "B05-C011-P0036"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Named seating is this feast’s arrangement; no compass orientation."
+    },
+    {
+      "id": "B05-018",
+      "location": "Sorting layout in Great Hall",
+      "category": "temporary",
+      "description": "First-years enter from the Entrance Hall and line up in front of the staff table facing the school. McGonagall sets a stool carrying the patched, darned, frayed Sorting Hat in front of them and removes both after Sorting.",
+      "evidence": [
+        "B05-C011-P0036",
+        "B05-C011-P0037",
+        "B05-C011-P0039",
+        "B05-C011-P0132",
+        "B05-C011-P0135"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Ceremonial movable furniture rather than a permanent obstacle."
+    },
+    {
+      "id": "B05-019",
+      "location": "Great Hall feast service",
+      "category": "magic",
+      "description": "Food appears on all five long tables, including joints, pies, vegetables, bread, sauces and pumpkin-juice flagons.",
+      "evidence": [
+        "B05-C011-P0138"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Five includes the staff table; mechanism not explained here."
+    },
+    {
+      "id": "B05-020",
+      "location": "Sorting Hat storage",
+      "category": "furnishing",
+      "description": "Nearly Headless Nick says the Sorting Hat lives in Dumbledore’s office.",
+      "evidence": [
+        "B05-C011-P0145"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Reported storage location; his idea that it overhears information is speculation."
+    },
+    {
+      "id": "B05-021",
+      "location": "Forest and corridor access rules",
+      "category": "magic",
+      "description": "Dumbledore declares the grounds’ Forest out of bounds to students and says magic is forbidden in corridors between lessons.",
+      "evidence": [
+        "B05-C011-P0160",
+        "B05-C011-P0161"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Institutional rules, not demonstrated physical magical barriers."
+    },
+    {
+      "id": "B05-022",
+      "location": "Filch’s office door",
+      "category": "furnishing",
+      "description": "Dumbledore says an extensive list of forbidden things is fastened to the caretaker’s office door.",
+      "evidence": [
+        "B05-C011-P0161"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Reported fixture; door location and list dimensions unspecified."
+    },
+    {
+      "id": "B05-023",
+      "location": "Great Hall house-table adjacency",
+      "category": "interior",
+      "description": "Gryffindor first-years approach their prefects through the gap between the Gryffindor and Hufflepuff tables.",
+      "evidence": [
+        "B05-C011-P0198"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Establishes adjacency without supplying complete table order."
+    },
+    {
+      "id": "B05-024",
+      "location": "Great Hall to Gryffindor route",
+      "category": "route",
+      "description": "Harry leaves the Great Hall into the crowded Entrance Hall, climbs the marble staircase and takes two concealed shortcuts through upstairs corridors, reaching the end of the corridor to Gryffindor common room.",
+      "evidence": [
+        "B05-C011-P0199",
+        "B05-C011-P0200",
+        "B05-C011-P0201"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Shortcuts are real but undescribed; do not invent their doors, length or landing floors."
+    },
+    {
+      "id": "B05-025",
+      "location": "Fat Lady entrance",
+      "category": "magic",
+      "description": "At the corridor end, the Fat Lady in a pink satin dress refuses entry without a password. Mimbulus mimbletonia causes her portrait to swing outward like a door, exposing a circular wall opening through which pupils climb.",
+      "evidence": [
+        "B05-C011-P0201",
+        "B05-C011-P0202",
+        "B05-C011-P0203",
+        "B05-C011-P0204",
+        "B05-C011-P0205"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Date the password; circular opening and swinging portrait are distinct components."
+    },
+    {
+      "id": "B05-026",
+      "location": "Gryffindor common room",
+      "category": "interior",
+      "description": "The cosy circular tower room contains dilapidated squashy armchairs, rickety tables and a crackling fire in a grate. Across the room the twins pin material to a noticeboard; a door leads toward the boys’ dormitories.",
+      "evidence": [
+        "B05-C011-P0206"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Dormitories are above the common room according to pupils going up; no precise spiral route is supplied here."
+    },
+    {
+      "id": "B05-027",
+      "location": "Fifth-year boys’ dormitory fittings",
+      "category": "furnishing",
+      "description": "Dean and Seamus decorate walls beside their beds with posters and photographs, including a Kenmare Kestrels team poster. Neville places his Mimbulus mimbletonia on his bedside cabinet; Harry has a trunk and bedside table. Ron’s bed is next to Harry’s.",
+      "evidence": [
+        "B05-C011-P0207",
+        "B05-C011-P0208",
+        "B05-C011-P0212",
+        "B05-C011-P0213",
+        "B05-C011-P0216",
+        "B05-C011-P0226",
+        "B05-C011-P0253"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Personal decorations and plant belong to the 1995–96 occupancy."
+    },
+    {
+      "id": "B05-028",
+      "location": "Dormitory beds and illumination",
+      "category": "interior",
+      "description": "Harry anticipates a soft warm four-poster bed above the Hall. The dormitory beds have closable hangings, pillows and covers; Seamus tears his hangings down and repairs them by wand. Moonlight reaches Neville’s cactus, and Ron extinguishes the last candle.",
+      "evidence": [
+        "B05-C011-P0159",
+        "B05-C011-P0227",
+        "B05-C011-P0247",
+        "B05-C011-P0251",
+        "B05-C011-P0252",
+        "B05-C011-P0253",
+        "B05-C011-P0255"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Temporary torn curtains are repaired in the same scene; no window size or exact count follows from the moonlight."
+    },
+    {
+      "id": "B05-029",
+      "location": "Gryffindor noticeboard",
+      "category": "temporary",
+      "description": "A recruitment notice for the twins’ paid experiments covers a poster announcing October’s first Hogsmeade weekend; Hermione removes the top notice.",
+      "evidence": [
+        "B05-C012-P0007",
+        "B05-C012-P0008",
+        "B05-C012-P0009",
+        "B05-C012-P0010",
+        "B05-C012-P0011",
+        "B05-C012-P0012"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Layered removable notices on the common-room board."
+    },
+    {
+      "id": "B05-030",
+      "location": "Gryffindor to breakfast route",
+      "category": "route",
+      "description": "After climbing out of the portrait hole, the friends descend a staircase lined with talking portraits of old witches and wizards, then reach the foot of the marble staircase in the Entrance Hall and enter the Great Hall.",
+      "evidence": [
+        "B05-C012-P0015",
+        "B05-C012-P0017",
+        "B05-C012-P0034",
+        "B05-C012-P0036"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Sequence does not establish that the portrait-lined flight is the marble stair itself."
+    },
+    {
+      "id": "B05-031",
+      "location": "Great Hall breakfast weather and owl entry",
+      "category": "interior",
+      "description": "The enchanted ceiling is rain-cloud grey; pupils sit on benches. Hundreds of owls enter through upper windows to deliver post, scattering rainwater over breakfast tables.",
+      "evidence": [
+        "B05-C012-P0036",
+        "B05-C012-P0049",
+        "B05-C012-P0050",
+        "B05-C012-P0052",
+        "B05-C012-P0058"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Upper windows are functioning owl entrances; seasonal wet state."
+    },
+    {
+      "id": "B05-032",
+      "location": "History of Magic classroom",
+      "category": "magic",
+      "description": "Binns leaves his classroom by drifting through its blackboard.",
+      "evidence": [
+        "B05-C012-P0106"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Confirms a blackboard and nonphysical ghost traversal; not a passage for living pupils."
+    },
+    {
+      "id": "B05-033",
+      "location": "Courtyard after History of Magic",
+      "category": "exterior",
+      "description": "After leaving History of Magic, the friends go into a damp courtyard, choosing a secluded corner below a heavily dripping balcony in misty September drizzle.",
+      "evidence": [
+        "B05-C012-P0110",
+        "B05-C012-P0111",
+        "B05-C012-P0122"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Courtyard has a corner and overhead balcony; adjacency to classroom is a travelled route without a stated intervening distance."
+    },
+    {
+      "id": "B05-034",
+      "location": "Courtyard to Potions",
+      "category": "route",
+      "description": "At the lesson bell they travel down to Snape’s dungeon and queue outside the classroom door before entering.",
+      "evidence": [
+        "B05-C012-P0133",
+        "B05-C012-P0134"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Descending route from the courtyard; floors unspecified."
+    },
+    {
+      "id": "B05-035",
+      "location": "Potions dungeon workspaces",
+      "category": "interior",
+      "description": "Harry, Ron and Hermione use their usual table at the back, with Hermione to Harry’s left; Slytherins sit at the front. Snape has a desk, a blackboard and an ingredient store cupboard with a door that he opens by wand.",
+      "evidence": [
+        "B05-C012-P0134",
+        "B05-C012-P0137",
+        "B05-C012-P0142",
+        "B05-C012-P0147",
+        "B05-C012-P0162",
+        "B05-C012-P0163"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Seating is observed for this class; cupboard is not assumed to be Snape’s private store."
+    },
+    {
+      "id": "B05-036",
+      "location": "Potions dungeon lesson atmosphere",
+      "category": "temporary",
+      "description": "Cauldrons simmer over controllable flames. Grey steam, green sparks and silver mist rise from different mixtures; multi-coloured vapour makes the blackboard difficult to read. Goyle’s sample flagon reportedly shatters and sets his clothes alight.",
+      "evidence": [
+        "B05-C012-P0143",
+        "B05-C012-P0145",
+        "B05-C012-P0153",
+        "B05-C012-P0163",
+        "B05-C012-P0164"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Fire incident is Hermione’s report within an otherwise observed lesson; avoid permanent scorch damage not stated."
+    },
+    {
+      "id": "B05-037",
+      "location": "Great Hall storm and route upward",
+      "category": "route",
+      "description": "After Potions Harry lunches in the Hall beneath a darker grey ceiling with rain lashing high windows; he then climbs the marble staircase.",
+      "evidence": [
+        "B05-C012-P0163",
+        "B05-C012-P0170",
+        "B05-C012-P0171"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Repeat weather description and concrete travel segment."
+    },
+    {
+      "id": "B05-038",
+      "location": "Sir Cadogan landing portraits",
+      "category": "furnishing",
+      "description": "A large portrait of Sir Cadogan occupies a landing on Harry’s upward route; its knight tries entering the neighbouring portrait but is repelled by the large wolfhound inhabiting it.",
+      "evidence": [
+        "B05-C012-P0172",
+        "B05-C012-P0173"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Picture-to-picture character movement does not establish a human doorway."
+    },
+    {
+      "id": "B05-039",
+      "location": "North Tower Divination approach",
+      "category": "route",
+      "description": "Harry waits beneath a trapdoor at the top of North Tower, then climbs the silver ladder into Trelawney’s classroom; the class descends that ladder afterward.",
+      "evidence": [
+        "B05-C012-P0174",
+        "B05-C012-P0175",
+        "B05-C012-P0191"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Top-of-tower access, distinct from unspecified earlier stairs."
+    },
+    {
+      "id": "B05-040",
+      "location": "Divination classroom fittings",
+      "category": "interior",
+      "description": "Spindly small tables carry battered leather-bound books. Scarves cover the lamps, and a low sickly-scented fire supplies little light. Tables, chairs and overstuffed pouffes impede direct paths across the room.",
+      "evidence": [
+        "B05-C012-P0175",
+        "B05-C012-P0183",
+        "B05-C012-P0186"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Retain dim shadowed seating and crowded circulation."
+    },
+    {
+      "id": "B05-041",
+      "location": "Defence classroom under Umbridge",
+      "category": "furnishing",
+      "description": "Umbridge sits behind the teacher’s desk; she writes magically on a blackboard. Pupils have seats including stools and a chair Harry kicks aside; their work uses quills, ink and parchment.",
+      "evidence": [
+        "B05-C012-P0193",
+        "B05-C012-P0199",
+        "B05-C012-P0200",
+        "B05-C012-P0205",
+        "B05-C012-P0214",
+        "B05-C012-P0269",
+        "B05-C012-P0273",
+        "B05-C012-P0286",
+        "B05-C012-P0287"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Specific stool and chair observations do not establish uniform classroom seating."
+    },
+    {
+      "id": "B05-042",
+      "location": "Defence classroom to McGonagall’s office",
+      "category": "route",
+      "description": "Harry exits Defence, follows a corridor, turns a corner and runs down the nearest staircase with a banister. McGonagall emerges from an office door to his left.",
+      "evidence": [
+        "B05-C012-P0289",
+        "B05-C012-P0293",
+        "B05-C012-P0298"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Observed sequence includes an evasive detour from Peeves; not necessarily the shortest route or proof of one-floor separation."
+    },
+    {
+      "id": "B05-043",
+      "location": "Corridor ink damage",
+      "category": "temporary",
+      "description": "Peeves drops two inkwells in the corridor near Defence, smashing them and splattering ink on the walls.",
+      "evidence": [
+        "B05-C012-P0289",
+        "B05-C012-P0290"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Temporary local mess; no repair described."
+    },
+    {
+      "id": "B05-044",
+      "location": "McGonagall’s study",
+      "category": "interior",
+      "description": "The study door closes automatically behind Harry. McGonagall sits at a desk piled with papers and a tartan biscuit tin, with a visitor’s chair opposite. Student movement can be heard overhead and around the office when the bell rings.",
+      "evidence": [
+        "B05-C012-P0304",
+        "B05-C012-P0313",
+        "B05-C012-P0315",
+        "B05-C012-P0316",
+        "B05-C012-P0323",
+        "B05-C012-P0339",
+        "B05-C012-P0340"
+      ],
+      "certainty": "explicit",
+      "temporal": "First Monday of September term, 1995",
+      "model_notes": "Do not infer a precise floor from overhead footfalls; automatic closing is observed without its mechanism."
+    },
+    {
+      "id": "B05-045",
+      "location": "Feast-to-tower corridor and cabin view",
+      "category": "route",
+      "description": "Leaving dinner the friends reach a first-floor landing, then traverse windowed corridors toward Gryffindor Tower. A rain-washed window at the turn into the Fat Lady’s corridor gives Harry a view toward Hagrid’s still-unlit cabin.",
+      "evidence": [
+        "B05-C013-P0009",
+        "B05-C013-P0010",
+        "B05-C013-P0014",
+        "B05-C013-P0015"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Do not assign the Fat Lady corridor to the first floor; further travel intervenes."
+    },
+    {
+      "id": "B05-046",
+      "location": "Triwizard return lawn",
+      "category": "history",
+      "description": "Hermione recalls Harry arriving in the middle of the lawn carrying Cedric’s body after the maze task.",
+      "evidence": [
+        "B05-C013-P0011"
+      ],
+      "certainty": "reported",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Reported retrospective placement complements the earlier return account; no lawn coordinates."
+    },
+    {
+      "id": "B05-047",
+      "location": "Gryffindor fireside furnishings",
+      "category": "furnishing",
+      "description": "The friends occupy three favourite armchairs by the fire; Hermione’s chair has holes leaking stuffing. Bags are stored in a corner, and a small table stands by the fireplace.",
+      "evidence": [
+        "B05-C013-P0016",
+        "B05-C013-P0017",
+        "B05-C013-P0023",
+        "B05-C013-P0060"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Worn upholstered furniture, not immaculate replacements."
+    },
+    {
+      "id": "B05-048",
+      "location": "Gryffindor dormitory approaches",
+      "category": "route",
+      "description": "A door leads to the girls’ dormitories. Harry passes the boys’ dormitory door to a stone spiral staircase; later he climbs up from late common-room study to bed.",
+      "evidence": [
+        "B05-C013-P0067",
+        "B05-C013-P0071",
+        "B05-C013-P0197",
+        "B05-C013-P0290"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Doors and separate approaches confirmed; no new floor count."
+    },
+    {
+      "id": "B05-049",
+      "location": "Common-room concealed hats",
+      "category": "temporary",
+      "description": "Hermione places woollen hats under rubbish on the table by the fireplace; Ron uncovers the first pair. By Friday more hats are hidden throughout the room, and a Butterbeer celebration occupies it.",
+      "evidence": [
+        "B05-C013-P0060",
+        "B05-C013-P0062",
+        "B05-C013-P0067",
+        "B05-C013-P0068",
+        "B05-C013-P0258",
+        "B05-C013-P0261",
+        "B05-C013-P0262",
+        "B05-C013-P0270",
+        "B05-C013-P0271",
+        "B05-C013-P0276"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Temporary props; disappearance alone does not prove elves were freed."
+    },
+    {
+      "id": "B05-050",
+      "location": "Charms teacher’s desk",
+      "category": "furnishing",
+      "description": "Flitwick perches on a pile of books to see over his desk during Charms.",
+      "evidence": [
+        "B05-C013-P0079"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Scale aid for the teacher; pile height unspecified."
+    },
+    {
+      "id": "B05-051",
+      "location": "Sloping lawn and outdoor creature classroom",
+      "category": "grounds",
+      "description": "The class walks down the sloping lawn to Hagrid’s cabin at the Forest edge. Grubbly-Plank waits about ten yards from the front door behind a long trestle table of Bowtruckles and woodlice; students work sitting or crouching on the grass.",
+      "evidence": [
+        "B05-C013-P0085",
+        "B05-C013-P0087",
+        "B05-C013-P0089",
+        "B05-C013-P0094",
+        "B05-C013-P0100"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Temporary lesson station at a stated distance from the front door."
+    },
+    {
+      "id": "B05-052",
+      "location": "Forest-edge creature movement and bell",
+      "category": "grounds",
+      "description": "An escaped Bowtruckle runs from the lesson into the Forest and disappears among the tree roots. The school bell is audible distantly across the grounds.",
+      "evidence": [
+        "B05-C013-P0104"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Small-scale roots and traversable lawn-to-Forest interface; not a mapped permanent Bowtruckle colony."
+    },
+    {
+      "id": "B05-053",
+      "location": "Creature lesson to greenhouses and castle",
+      "category": "route",
+      "description": "From Hagrid’s lesson the friends cross the vegetable patch to the greenhouses. The nearest greenhouse has a door used by the departing fourth-year class; after a lesson using dragon-dung fertiliser, pupils go back uphill to the castle.",
+      "evidence": [
+        "B05-C013-P0104",
+        "B05-C013-P0107",
+        "B05-C013-P0108",
+        "B05-C013-P0111",
+        "B05-C013-P0112",
+        "B05-C013-P0117",
+        "B05-C013-P0122"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Connects cabin lesson, vegetable patch, greenhouses and uphill castle return."
+    },
+    {
+      "id": "B05-054",
+      "location": "Quidditch pitch bookings",
+      "category": "temporary",
+      "description": "Angelina says she has booked the pitch for Friday’s Keeper trials.",
+      "evidence": [
+        "B05-C013-P0127"
+      ],
+      "certainty": "reported",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Reported scheduled use, not permanent physical exclusivity."
+    },
+    {
+      "id": "B05-055",
+      "location": "Defence teacher’s office location and former states",
+      "category": "history",
+      "description": "Umbridge’s office is on the third floor and is the office formerly occupied by Lockhart, Lupin and the impostor Moody: respectively self-portraits, dark creatures in cages or tanks, and detection instruments and artefacts.",
+      "evidence": [
+        "B05-C013-P0138",
+        "B05-C013-P0139"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Identifies continuity of one room despite changing decor; retain historical occupant states."
+    },
+    {
+      "id": "B05-056",
+      "location": "Umbridge’s office decor and detention furniture",
+      "category": "interior",
+      "description": "Lace covers and cloths drape the surfaces. Dried-flower vases stand on doilies, and wall plates depict brightly coloured kittens with different neck bows. A cloth covers her desk; a small lace-covered table and straight-backed chair hold Harry’s detention parchment. Her desk has drawers.",
+      "evidence": [
+        "B05-C013-P0140",
+        "B05-C013-P0142",
+        "B05-C013-P0144",
+        "B05-C013-P0152",
+        "B05-C013-P0158",
+        "B05-C013-P0237",
+        "B05-C013-P0245"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "September occupation state; do not retain predecessors’ equipment without evidence."
+    },
+    {
+      "id": "B05-057",
+      "location": "Umbridge’s detention quill",
+      "category": "magic",
+      "description": "A long thin black quill with an unusually sharp point writes with Harry’s blood without an ink supply and cuts matching words into his hand; repeated use eventually leaves lasting cuts.",
+      "evidence": [
+        "B05-C013-P0153",
+        "B05-C013-P0154",
+        "B05-C013-P0160",
+        "B05-C013-P0161",
+        "B05-C013-P0162",
+        "B05-C013-P0166",
+        "B05-C013-P0167",
+        "B05-C013-P0199"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Interactive office prop; effects belong to this quill, not the room’s architecture."
+    },
+    {
+      "id": "B05-058",
+      "location": "Umbridge window and Quidditch sightline",
+      "category": "interior",
+      "description": "Her office has a window through which darkness falls. Moving his chair about an inch to the right gives Harry a distant view of Keeper trials and three high goalposts; individual identities remain too distant to resolve. The pitch disappears from view after nightfall.",
+      "evidence": [
+        "B05-C013-P0168",
+        "B05-C013-P0236",
+        "B05-C013-P0238",
+        "B05-C013-P0242",
+        "B05-C013-P0245",
+        "B05-C013-P0248"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Explicit third-floor office-to-pitch sightline; no compass direction or distance in yards."
+    },
+    {
+      "id": "B05-059",
+      "location": "Seventh-floor Lachlan statue route",
+      "category": "route",
+      "description": "Returning from Umbridge, Harry climbs a staircase to the seventh floor, turns right at its top and encounters Ron hiding behind a statue of Lachlan the Lanky. They continue to the Fat Lady.",
+      "evidence": [
+        "B05-C013-P0203",
+        "B05-C013-P0205",
+        "B05-C013-P0210",
+        "B05-C013-P0218",
+        "B05-C013-P0225",
+        "B05-C013-P0233"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Precise local floor and turn; does not fix total travel from the third floor or statue-to-portrait distance."
+    },
+    {
+      "id": "B05-060",
+      "location": "Gryffindor dormitory and morning common room",
+      "category": "interior",
+      "description": "Early sunlight enters through a gap in Harry’s four-poster curtains. Below the dormitories, the common room has an extinguished grate and old squashy fireside chair; the usual evening rubbish and elf hats have been cleared overnight. Sunlight advances halfway across the room.",
+      "evidence": [
+        "B05-C014-P0001",
+        "B05-C014-P0002",
+        "B05-C014-P0003",
+        "B05-C014-P0014"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Cleaning observed, cleaner identity not supplied; direction of sunrise through particular windows unspecified."
+    },
+    {
+      "id": "B05-061",
+      "location": "Paracelsus corridor junction",
+      "category": "route",
+      "description": "On a route from Gryffindor to the Owlery, Nick warns of a bust of Paracelsus halfway along the corridor. Harry turns left rather than right, taking a longer upward route past many windows.",
+      "evidence": [
+        "B05-C014-P0015",
+        "B05-C014-P0016",
+        "B05-C014-P0017",
+        "B05-C014-P0018"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Bust placement and safer route observed/reported separately: planned falling-bust prank is Nick’s report, not an observed collapse."
+    },
+    {
+      "id": "B05-062",
+      "location": "Wilfred the Wistful statue",
+      "category": "furnishing",
+      "description": "Mrs Norris disappears behind a statue of Wilfred the Wistful on Harry’s longer route to the Owlery.",
+      "evidence": [
+        "B05-C014-P0019"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "A distinct statue; no material or precise floor supplied."
+    },
+    {
+      "id": "B05-063",
+      "location": "Owlery volume and floor",
+      "category": "interior",
+      "description": "The circular Owlery has glassless windows, rafters supporting hundreds of owls and a vaulted ceiling whose upper reaches accommodate Hedwig. Straw, droppings and small animal bones cover the floor.",
+      "evidence": [
+        "B05-C014-P0021",
+        "B05-C014-P0022",
+        "B05-C014-P0023",
+        "B05-C014-P0043",
+        "B05-C014-P0044"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Keep vertical owl-roost space and unglazed openings."
+    },
+    {
+      "id": "B05-064",
+      "location": "Owlery service and access",
+      "category": "route",
+      "description": "Owls launch through windows. The room has a handled door and stairs descending outside it; after leaving, Harry and Cho reach the entrance to a corridor leading toward the castle’s west wing.",
+      "evidence": [
+        "B05-C014-P0026",
+        "B05-C014-P0028",
+        "B05-C014-P0036",
+        "B05-C014-P0059",
+        "B05-C014-P0061",
+        "B05-C014-P0066",
+        "B05-C014-P0068"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Does not locate Ravenclaw quarters or assert that the Owlery itself is in the west wing."
+    },
+    {
+      "id": "B05-065",
+      "location": "Owlery view over cabin and Forest",
+      "category": "exterior",
+      "description": "From one Owlery window Hagrid’s hut is clearly visible with drawn curtains and a smokeless chimney. Beyond the swaying Forest treetops Harry sees a black leathery-winged carriage creature rise, circle and plunge back among the trees.",
+      "evidence": [
+        "B05-C014-P0026",
+        "B05-C014-P0027"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Cabin appears unoccupied to Harry; flight confirms Forest presence rather than an exact nest."
+    },
+    {
+      "id": "B05-066",
+      "location": "Castle to Quidditch pitch",
+      "category": "route",
+      "description": "Harry and Ron walk downhill over sloping lawns to the pitch. Approaching it, Harry sees the Forbidden Forest to his right and owls around the Owlery tower.",
+      "evidence": [
+        "B05-C014-P0111",
+        "B05-C014-P0114",
+        "B05-C014-P0115"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Right is relative to this approach, not a compass direction. Preserve reciprocal castle/pitch travel."
+    },
+    {
+      "id": "B05-067",
+      "location": "Quidditch changing-room facilities",
+      "category": "interior",
+      "description": "A cupboard in the changing room stores balls. Angelina enters from the Captain’s office; players carry a ball crate onto the pitch and change back after practice.",
+      "evidence": [
+        "B05-C014-P0115",
+        "B05-C014-P0118",
+        "B05-C014-P0119",
+        "B05-C014-P0120",
+        "B05-C014-P0121",
+        "B05-C014-P0143",
+        "B05-C014-P0162",
+        "B05-C014-P0163"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Connect Captain’s office to changing-room circulation; no full room plan."
+    },
+    {
+      "id": "B05-068",
+      "location": "Quidditch stadium goal and stand layout",
+      "category": "exterior",
+      "description": "The pitch has three tall goalposts at the defended end, including left, middle and right hoops. Spectators halfway up the stands can jeer audibly across the stadium. Practice uses the opposite end and a ball crate on the ground.",
+      "evidence": [
+        "B05-C014-P0115",
+        "B05-C014-P0121",
+        "B05-C014-P0128",
+        "B05-C014-P0139",
+        "B05-C014-P0141",
+        "B05-C014-P0143",
+        "B05-C014-P0147",
+        "B05-C014-P0148",
+        "B05-C014-P0150",
+        "B05-C014-P0156"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Goals at opposite ends are explicit in action; no dimensions inferred."
+    },
+    {
+      "id": "B05-069",
+      "location": "Pitch to medical care",
+      "category": "route",
+      "description": "Fred and George fly toward the castle supporting injured Katie between them after Angelina says she needs the hospital wing.",
+      "evidence": [
+        "B05-C014-P0159",
+        "B05-C014-P0160",
+        "B05-C014-P0161",
+        "B05-C014-P0162"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Airborne departure is observed; actual hospital entry and route inside are not narrated."
+    },
+    {
+      "id": "B05-070",
+      "location": "Common-room windows and study arrangement",
+      "category": "interior",
+      "description": "Pupils study at tables and armchairs beside the fire. A screech owl waits on a windowsill; Ron opens the window and it flies inside to land on his essay, then leaves. Hermione’s knitting needles work suspended in midair.",
+      "evidence": [
+        "B05-C014-P0178",
+        "B05-C014-P0180",
+        "B05-C014-P0181",
+        "B05-C014-P0183",
+        "B05-C014-P0193",
+        "B05-C014-P0196",
+        "B05-C014-P0214",
+        "B05-C014-P0222"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Operable common-room window and exterior owl access; no claim of window count."
+    },
+    {
+      "id": "B05-071",
+      "location": "Common-room hearth communication",
+      "category": "magic",
+      "description": "Harry kneels on a singed threadbare hearthrug before the fire. Sirius’s head appears among the flames for conversation and vanishes with a small pop; he reports checking the room briefly every hour beforehand.",
+      "evidence": [
+        "B05-C014-P0225",
+        "B05-C014-P0229",
+        "B05-C014-P0231",
+        "B05-C014-P0232",
+        "B05-C014-P0234",
+        "B05-C014-P0235",
+        "B05-C014-P0236",
+        "B05-C014-P0237",
+        "B05-C014-P0239",
+        "B05-C014-P0290",
+        "B05-C014-P0291"
+      ],
+      "certainty": "explicit",
+      "temporal": "First September weekend, 1995",
+      "model_notes": "Remote head communication is observed, hourly checks reported. Do not model full-body arrival from this scene."
+    },
+    {
+      "id": "B05-072",
+      "location": "Potions to Entrance Hall",
+      "category": "route",
+      "description": "After using the blackboard and submitting potion flasks at Snape’s desk, pupils climb steps out of the dungeon and cross the Entrance Hall toward lunch.",
+      "evidence": [
+        "B05-C015-P0034",
+        "B05-C015-P0035",
+        "B05-C015-P0039"
+      ],
+      "certainty": "explicit",
+      "temporal": "Second week of September term, 1995",
+      "model_notes": "Explicit upward connection from dungeon circulation to Entrance Hall."
+    },
+    {
+      "id": "B05-073",
+      "location": "Divination inspection furniture and route",
+      "category": "temporary",
+      "description": "Harry sits at the back of the shadowed classroom. Umbridge enters through the floor trapdoor and draws an armchair to a point a few inches behind Trelawney’s seat; she later descends the silver ladder, and the pupils reach Defence ten minutes afterward.",
+      "evidence": [
+        "B05-C015-P0069",
+        "B05-C015-P0071",
+        "B05-C015-P0074",
+        "B05-C015-P0083",
+        "B05-C015-P0108"
+      ],
+      "certainty": "explicit",
+      "temporal": "Second week of September term, 1995",
+      "model_notes": "Movable inspection chair and approximate travel interval, not a measured direct-route duration."
+    },
+    {
+      "id": "B05-074",
+      "location": "Defence classroom desk rows",
+      "category": "interior",
+      "description": "Umbridge walks around the front row of student desks to address Hermione, then returns to the front of the room.",
+      "evidence": [
+        "B05-C015-P0111",
+        "B05-C015-P0112",
+        "B05-C015-P0126"
+      ],
+      "certainty": "explicit",
+      "temporal": "Second week of September term, 1995",
+      "model_notes": "Confirms desks arranged in rows; the count and spacing are unspecified."
+    },
+    {
+      "id": "B05-075",
+      "location": "Transfiguration inspection and workstations",
+      "category": "temporary",
+      "description": "Umbridge sits in a classroom corner with her clipboard. McGonagall has a teacher’s desk; a box of live mice is passed among pupils for Vanishing practice.",
+      "evidence": [
+        "B05-C015-P0152",
+        "B05-C015-P0155",
+        "B05-C015-P0168",
+        "B05-C015-P0169",
+        "B05-C015-P0170"
+      ],
+      "certainty": "explicit",
+      "temporal": "Second week of September term, 1995",
+      "model_notes": "Inspection seating and lesson materials are temporary."
+    },
+    {
+      "id": "B05-076",
+      "location": "Outdoor Bowtruckle lesson",
+      "category": "grounds",
+      "description": "Pupils walk down the lawns toward the Forest to a trestle table holding captive Bowtruckles searching for woodlice. Umbridge walks among the students and returns across the lawn to the castle afterward.",
+      "evidence": [
+        "B05-C015-P0177",
+        "B05-C015-P0178",
+        "B05-C015-P0185",
+        "B05-C015-P0197"
+      ],
+      "certainty": "explicit",
+      "temporal": "Second week of September term, 1995",
+      "model_notes": "Repeated concrete lesson setup; planned Porlocks, Kneazles, Crups and Knarls are not confirmed installed exhibits."
+    },
+    {
+      "id": "B05-077",
+      "location": "Common-room sofa, windows and repair",
+      "category": "furnishing",
+      "description": "Windowpanes rattle in a night breeze and the fire gutters. Crookshanks runs under a sofa when Harry breaks a china bowl; Harry’s Reparo reassembles the bowl, leaving its spilled liquid unrecovered.",
+      "evidence": [
+        "B05-C015-P0199",
+        "B05-C015-P0200",
+        "B05-C015-P0201",
+        "B05-C015-P0227",
+        "B05-C015-P0252",
+        "B05-C015-P0264",
+        "B05-C015-P0265",
+        "B05-C015-P0266",
+        "B05-C015-P0267"
+      ],
+      "certainty": "explicit",
+      "temporal": "Second week of September term, 1995",
+      "model_notes": "Confirms sofa with under-clearance and glazed windows; broken bowl is repaired locally in the scene."
+    },
+    {
+      "id": "B05-078",
+      "location": "School exit and Hogsmeade road",
+      "category": "route",
+      "description": "Filch checks a parental-permission list before pupils leave onto the stone steps. The friends descend the wide drive to the gates, pass between the winged-boar-topped stone pillars and turn left onto the village road.",
+      "evidence": [
+        "B05-C016-P0037",
+        "B05-C016-P0038",
+        "B05-C016-P0039",
+        "B05-C016-P0044",
+        "B05-C016-P0046"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late September and first October Hogsmeade weekend, 1995",
+      "model_notes": "Explicit gate-to-village turn; compass orientation unspecified."
+    },
+    {
+      "id": "B05-079",
+      "location": "Hogsmeade approach to Hog’s Head",
+      "category": "route",
+      "description": "Following the main street past Zonko’s and the post office, they turn up a side street to a small inn at its top. Returning, they turn into the High Street and stop outside Scrivenshaft’s.",
+      "evidence": [
+        "B05-C016-P0048",
+        "B05-C016-P0049",
+        "B05-C016-P0184",
+        "B05-C016-P0191",
+        "B05-C016-P0192",
+        "B05-C016-P0205"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late September and first October Hogsmeade weekend, 1995",
+      "model_notes": "Village detail retained as a route to the off-main-road school meeting, not a complete village inventory."
+    },
+    {
+      "id": "B05-080",
+      "location": "Hog’s Head sign and entrance",
+      "category": "exterior",
+      "description": "A battered wooden sign hangs above the door from a rusty bracket, showing a severed boar’s head bleeding onto a white cloth. Opening the door lets a band of dusty sunlight cross the bar.",
+      "evidence": [
+        "B05-C016-P0049",
+        "B05-C016-P0050",
+        "B05-C016-P0068"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late September and first October Hogsmeade weekend, 1995",
+      "model_notes": "Wind makes the hanging sign creak."
+    },
+    {
+      "id": "B05-081",
+      "location": "Hog’s Head bar room",
+      "category": "interior",
+      "description": "The bar is one small dingy dirty room smelling of goats, with grime-encrusted bay windows admitting little daylight. Candle stubs on rough wooden tables supply light; accumulated dirt covers a stone floor.",
+      "evidence": [
+        "B05-C016-P0051"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late September and first October Hogsmeade weekend, 1995",
+      "model_notes": "Observed 1995 condition of the castle-boundary meeting location."
+    },
+    {
+      "id": "B05-082",
+      "location": "Hog’s Head internal arrangement",
+      "category": "interior",
+      "description": "A table stands in one window; a shadowy corner is beside the fireplace. The barman comes from a back room; bottles are stored under the counter, and an ancient wooden till opens its drawer automatically. The group takes the table farthest from the bar and adds chairs for twenty-five newcomers.",
+      "evidence": [
+        "B05-C016-P0052",
+        "B05-C016-P0057",
+        "B05-C016-P0060",
+        "B05-C016-P0062",
+        "B05-C016-P0068",
+        "B05-C016-P0069",
+        "B05-C016-P0071",
+        "B05-C016-P0073",
+        "B05-C016-P0074",
+        "B05-C016-P0079",
+        "B05-C016-P0080",
+        "B05-C016-P0081"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late September and first October Hogsmeade weekend, 1995",
+      "model_notes": "At least twenty-eight students occupy the room; retain count as event occupancy, not a code capacity."
+    },
+    {
+      "id": "B05-083",
+      "location": "Village pubs and school access",
+      "category": "history",
+      "description": "Hermione describes the Three Broomsticks as usually crowded and noisy and reports Flitwick confirming that pupils may enter the Hog’s Head. Harry contrasts its dirt with the Three Broomsticks’ large clean warm-looking bar.",
+      "evidence": [
+        "B05-C016-P0048",
+        "B05-C016-P0051",
+        "B05-C016-P0055"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late September and first October Hogsmeade weekend, 1995",
+      "model_notes": "Pub access permission is reported; no physical enforcement barrier asserted."
+    },
+    {
+      "id": "B05-084",
+      "location": "Dumbledore’s office sword and portraits",
+      "category": "furnishing",
+      "description": "Terry Boot reports seeing a sword in Dumbledore’s office and hearing one of the wall portraits tell of Harry using it to kill the Basilisk; Harry confirms the deed.",
+      "evidence": [
+        "B05-C016-P0117",
+        "B05-C016-P0118"
+      ],
+      "certainty": "reported",
+      "temporal": "Late September and first October Hogsmeade weekend, 1995",
+      "model_notes": "Reported office contents and talking wall portrait; this does not newly describe the sword’s display case."
+    },
+    {
+      "id": "B05-085",
+      "location": "Proposed Defence practice rooms",
+      "category": "history",
+      "description": "Katie suggests the library, Dean an unused classroom, and Ron recalls McGonagall permitting use of her room for Harry’s Triwizard practice. No meeting room is selected here.",
+      "evidence": [
+        "B05-C016-P0163",
+        "B05-C016-P0164",
+        "B05-C016-P0165",
+        "B05-C016-P0166",
+        "B05-C016-P0167",
+        "B05-C016-P0168",
+        "B05-C016-P0169",
+        "B05-C016-P0170"
+      ],
+      "certainty": "reported",
+      "temporal": "Late September and first October Hogsmeade weekend, 1995",
+      "model_notes": "Separate proposed venues from confirmed use; Ron’s past-use recollection is reported."
+    },
+    {
+      "id": "B05-086",
+      "location": "Lakeside beech",
+      "category": "grounds",
+      "description": "The friends study in the shade of a large beech on the lake edge during the last autumn sunshine.",
+      "evidence": [
+        "B05-C017-P0001"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "A specific lakeshore tree and usable shaded ground; no precise compass position."
+    },
+    {
+      "id": "B05-087",
+      "location": "Gryffindor noticeboard contents",
+      "category": "temporary",
+      "description": "A large decree covers the common-room board’s secondhand-book lists, school rules, training timetable, Chocolate Frog trades, joke-test recruitment, Hogsmeade dates and lost-and-found notices.",
+      "evidence": [
+        "B05-C017-P0003",
+        "B05-C017-P0004",
+        "B05-C017-P0005",
+        "B05-C017-P0006",
+        "B05-C017-P0007",
+        "B05-C017-P0008",
+        "B05-C017-P0009",
+        "B05-C017-P0010",
+        "B05-C017-P0011",
+        "B05-C017-P0012"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "October notice state; decree disbands groups of three or more until approved."
+    },
+    {
+      "id": "B05-088",
+      "location": "Girls’ dormitory staircase enchantment",
+      "category": "magic",
+      "description": "Behind the girls’ door a spiral staircase transforms when Ron reaches its sixth step: a klaxon sounds and the steps merge into a long smooth spiralling stone slide, delivering him to the common room. Girls, including Hermione, slide down onto a rug.",
+      "evidence": [
+        "B05-C017-P0022",
+        "B05-C017-P0023",
+        "B05-C017-P0024",
+        "B05-C017-P0025",
+        "B05-C017-P0026",
+        "B05-C017-P0027",
+        "B05-C017-P0028",
+        "B05-C017-P0029"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "Observed access prevention for Ron. Hermione’s explanation that founders distrusted boys and that girls can enter boys’ rooms is reported; no reset timing shown."
+    },
+    {
+      "id": "B05-089",
+      "location": "History classroom seating and window",
+      "category": "interior",
+      "description": "Binns floats an inch above his chair. The classroom has rows of seats and a narrow external window ledge, thick window glass and a sliding catch; Harry opens it to admit injured Hedwig.",
+      "evidence": [
+        "B05-C017-P0062",
+        "B05-C017-P0064",
+        "B05-C017-P0066",
+        "B05-C017-P0067",
+        "B05-C017-P0072"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "Operable classroom window; small ledge need not be a human route."
+    },
+    {
+      "id": "B05-090",
+      "location": "History classroom to staff room",
+      "category": "route",
+      "description": "Harry leaves History of Magic, follows its corridor past a window overlooking the grounds near Hagrid’s cabin, then goes downstairs to the staff room.",
+      "evidence": [
+        "B05-C017-P0076",
+        "B05-C017-P0077",
+        "B05-C017-P0078"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "The classroom is above the staff-room approach, without an exact floor difference."
+    },
+    {
+      "id": "B05-091",
+      "location": "Staff-room entrance",
+      "category": "magic",
+      "description": "Two stone gargoyles flank the staff-room door and speak to Harry. Teachers open the door from inside; at break the adjacent corridor carries students in both directions and leads out into a courtyard with a sheltered corner.",
+      "evidence": [
+        "B05-C017-P0078",
+        "B05-C017-P0080",
+        "B05-C017-P0081",
+        "B05-C017-P0085",
+        "B05-C017-P0088",
+        "B05-C017-P0097",
+        "B05-C017-P0099",
+        "B05-C017-P0102",
+        "B05-C017-P0104"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "Talking guards do not demonstrate a password or physically blocked entry."
+    },
+    {
+      "id": "B05-092",
+      "location": "Hogwarts Thestrals and owl safety",
+      "category": "grounds",
+      "description": "Grubbly-Plank says Hagrid has trained the Hogwarts Thestrals not to attack owls, although Thestrals can prey on birds.",
+      "evidence": [
+        "B05-C017-P0091"
+      ],
+      "certainty": "reported",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "Reported local animal-management constraint; Hedwig’s actual attacker remains unproven."
+    },
+    {
+      "id": "B05-093",
+      "location": "Courtyard to dungeon classroom",
+      "category": "route",
+      "description": "After courtyard break the friends descend stone steps to the dungeons; at the bottom they reach the queue outside Snape’s classroom door.",
+      "evidence": [
+        "B05-C017-P0104",
+        "B05-C017-P0117",
+        "B05-C017-P0118",
+        "B05-C017-P0128"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "Retain bottom-of-stairs classroom relationship without importing an exact floor count."
+    },
+    {
+      "id": "B05-094",
+      "location": "Potions classroom rows and inspection corner",
+      "category": "interior",
+      "description": "Snape’s classroom has two lines of desks with circulation between them and a dim corner occupied by Umbridge. Potion mixtures remain from the preceding lesson over the weekend; instructions appear on the board.",
+      "evidence": [
+        "B05-C017-P0135",
+        "B05-C017-P0137",
+        "B05-C017-P0138",
+        "B05-C017-P0139",
+        "B05-C017-P0141",
+        "B05-C017-P0159",
+        "B05-C017-P0160"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "Not proof of exactly two desk rows in the whole room; describes the lines she walks between."
+    },
+    {
+      "id": "B05-095",
+      "location": "Divination teacher’s chair",
+      "category": "furnishing",
+      "description": "The Divination room is hot and heavily perfumed, with student pouffes and a high-backed teacher’s chair.",
+      "evidence": [
+        "B05-C017-P0166",
+        "B05-C017-P0167",
+        "B05-C017-P0169"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "Adds teacher-chair form to repeated classroom atmosphere."
+    },
+    {
+      "id": "B05-096",
+      "location": "Common-room demonstration and hearth",
+      "category": "temporary",
+      "description": "The twins demonstrate vomiting sweets into a bucket, whose contents Lee magically vanishes. Later the friends kneel on the hearthrug, which has a hole; the fireplace has a solid brick side wall and hot flames.",
+      "evidence": [
+        "B05-C017-P0197",
+        "B05-C017-P0198",
+        "B05-C017-P0202",
+        "B05-C017-P0206",
+        "B05-C017-P0208",
+        "B05-C017-P0210",
+        "B05-C017-P0212",
+        "B05-C017-P0232",
+        "B05-C017-P0252"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "Temporary demonstration equipment; the wall and worn rug are permanent fittings."
+    },
+    {
+      "id": "B05-097",
+      "location": "Fourth-floor mirror passage",
+      "category": "route",
+      "description": "Sirius recalls a roomy secret passage behind a large fourth-floor mirror, potentially wide enough for jinx practice. Harry reports the twins saying it is now blocked by a cave-in or similar collapse.",
+      "evidence": [
+        "B05-C017-P0249",
+        "B05-C017-P0250",
+        "B05-C017-P0251"
+      ],
+      "certainty": "reported",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "Historical capacity and present blockage are reports; collapse wording is uncertain, and no destination is given."
+    },
+    {
+      "id": "B05-098",
+      "location": "Common-room Floo interception",
+      "category": "magic",
+      "description": "Sirius disappears from the common-room fire as Umbridge’s ringed hand appears and gropes through the flames. Harry can still see the hand from the boys’ dormitory doorway while the friends flee.",
+      "evidence": [
+        "B05-C017-P0252",
+        "B05-C017-P0254",
+        "B05-C017-P0256",
+        "B05-C017-P0257",
+        "B05-C017-P0258"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "Demonstrates remote reaching and doorway-to-hearth sightline, not a secret physical tunnel."
+    },
+    {
+      "id": "B05-099",
+      "location": "Shrieking Shack meeting access proposal",
+      "category": "route",
+      "description": "Sirius proposes the Shrieking Shack for lessons; Hermione contrasts four past animal-form users with twenty-eight current pupils who could not all be concealed by one cloak.",
+      "evidence": [
+        "B05-C017-P0246",
+        "B05-C017-P0247",
+        "B05-C017-P0248",
+        "B05-C017-P0249"
+      ],
+      "certainty": "reported",
+      "temporal": "Early October 1995, after first Hogsmeade meeting",
+      "model_notes": "A rejected access/concealment proposal, not an actual journey or measured shack capacity."
+    },
+    {
+      "id": "B05-100",
+      "location": "Charms rain lesson",
+      "category": "temporary",
+      "description": "Bullfrogs and ravens occupy classroom desks during Silencing practice; heavy rain pounds the windows.",
+      "evidence": [
+        "B05-C018-P0004",
+        "B05-C018-P0005",
+        "B05-C018-P0007",
+        "B05-C018-P0009",
+        "B05-C018-P0015",
+        "B05-C018-P0020",
+        "B05-C018-P0023"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Temporary living practice materials and weather."
+    },
+    {
+      "id": "B05-101",
+      "location": "First-floor break classroom",
+      "category": "interior",
+      "description": "Rain keeps pupils indoors for break in an overcrowded first-floor classroom with seats, windows and a chandelier near which Peeves floats while firing ink pellets.",
+      "evidence": [
+        "B05-C018-P0025",
+        "B05-C018-P0028",
+        "B05-C018-P0029",
+        "B05-C018-P0044",
+        "B05-C018-P0048",
+        "B05-C018-P0054"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "An unnamed room, distinct from an assumed identity with Charms."
+    },
+    {
+      "id": "B05-102",
+      "location": "Quidditch changing building",
+      "category": "interior",
+      "description": "The changing rooms are warm and lit, with a roof audibly struck by rain, a window, benches and cloak pegs. Angelina emerges from the Captain’s office.",
+      "evidence": [
+        "B05-C018-P0056",
+        "B05-C018-P0059",
+        "B05-C018-P0065",
+        "B05-C018-P0072",
+        "B05-C018-P0078",
+        "B05-C018-P0081",
+        "B05-C018-P0083",
+        "B05-C018-P0084",
+        "B05-C018-P0092",
+        "B05-C018-P0103",
+        "B05-C018-P0109"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Building is exposed to wind and rain; no material of roof stated."
+    },
+    {
+      "id": "B05-103",
+      "location": "Rain-soaked pitch and uphill return",
+      "category": "temporary",
+      "description": "Grass on the approach is sodden and slippery, the pitch centre deepens into mud, and fading light, wind and sweeping rain severely restrict visibility. Rain beating the lake can be heard from the pitch. Players return uphill over muddy lawns.",
+      "evidence": [
+        "B05-C018-P0056",
+        "B05-C018-P0069",
+        "B05-C018-P0071",
+        "B05-C018-P0072",
+        "B05-C018-P0114"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "October storm state; Impervius improves rain shedding without restoring useful visibility."
+    },
+    {
+      "id": "B05-104",
+      "location": "Common room night cleaning",
+      "category": "history",
+      "description": "After midnight the common-room candles are all extinguished and its fire is almost out. Dobby returns Hedwig beside the hat-covered table and says other elves now refuse to clean Gryffindor Tower because hidden clothing insults them, so he does all its cleaning.",
+      "evidence": [
+        "B05-C018-P0118",
+        "B05-C018-P0129",
+        "B05-C018-P0130",
+        "B05-C018-P0134",
+        "B05-C018-P0135",
+        "B05-C018-P0138",
+        "B05-C018-P0139",
+        "B05-C018-P0141",
+        "B05-C018-P0142",
+        "B05-C018-P0145",
+        "B05-C018-P0150"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Dark room observed; exclusive cleaning arrangement is Dobby’s report, not proof any elf has been freed."
+    },
+    {
+      "id": "B05-105",
+      "location": "Room of Requirement operating rule",
+      "category": "magic",
+      "description": "Dobby calls it the Come and Go Room or Room of Requirement: it can be entered by a person with real need, appears intermittently, and supplies what that seeker needs. He says few know it and many accidental users cannot find it again.",
+      "evidence": [
+        "B05-C018-P0154",
+        "B05-C018-P0156",
+        "B05-C018-P0157",
+        "B05-C018-P0158",
+        "B05-C018-P0161",
+        "B05-C018-P0162"
+      ],
+      "certainty": "reported",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Reported rules here; later observed entrance is separately recorded."
+    },
+    {
+      "id": "B05-106",
+      "location": "Room of Requirement prior uses",
+      "category": "history",
+      "description": "Dobby reports an elf-sized bed and Butterbeer antidotes when sheltering drunken Winky, and extra cleaning supplies for Filch. Harry recalls Dumbledore’s chamber-pot room and proposes that it is the same place; Dobby expects it could be.",
+      "evidence": [
+        "B05-C018-P0158",
+        "B05-C018-P0159",
+        "B05-C018-P0160",
+        "B05-C018-P0173"
+      ],
+      "certainty": "reported",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Bed and supplies are reported; identification of the chamber-pot room is a character inference rather than independently confirmed identity."
+    },
+    {
+      "id": "B05-107",
+      "location": "Storm lesson relocations",
+      "category": "temporary",
+      "description": "Pupils splash across a flooded vegetable patch to Herbology while rain hammers the greenhouse roof. Creature lessons are moved from the exposed grounds to a free classroom on the ground floor; evening Quidditch is cancelled.",
+      "evidence": [
+        "B05-C018-P0168"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Ground-floor room is unnamed; do not assign it other classes’ identity."
+    },
+    {
+      "id": "B05-108",
+      "location": "Seventh-floor Room of Requirement approach",
+      "category": "route",
+      "description": "The meeting place is on the seventh floor opposite the tapestry of Barnabas the Barmy trying to teach trolls ballet. The friends leave Gryffindor, reach the top of a final staircase and follow the corridor to a blank wall facing the enormous moving tapestry.",
+      "evidence": [
+        "B05-C018-P0169",
+        "B05-C018-P0179",
+        "B05-C018-P0180",
+        "B05-C018-P0185",
+        "B05-C018-P0186"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Fifth-years may use corridors until nine; staircase sequence supplies no exact common-room level change."
+    },
+    {
+      "id": "B05-109",
+      "location": "Entrance ritual landmarks",
+      "category": "magic",
+      "description": "They pass the blank wall three times concentrating on a concealed practice place, turning at a window just beyond it and a man-sized vase on its other side. A highly polished door with a brass handle appears after the third pass.",
+      "evidence": [
+        "B05-C018-P0186",
+        "B05-C018-P0187",
+        "B05-C018-P0188",
+        "B05-C018-P0189",
+        "B05-C018-P0190"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Window and vase bound the walking segment; no measured separation."
+    },
+    {
+      "id": "B05-110",
+      "location": "Practice-room volume and floor relation",
+      "category": "interior",
+      "description": "The door opens into a spacious room lit with flickering torches like those in the dungeons eight floors below.",
+      "evidence": [
+        "B05-C018-P0190"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Eight-floor relation is textual; avoid deriving ceiling heights or a global building grid."
+    },
+    {
+      "id": "B05-111",
+      "location": "Practice-room books and cushions",
+      "category": "furnishing",
+      "description": "Wooden bookcases line the walls with hundreds of large leather-bound defence books. Large silk cushions replace chairs on the floor and allow all twenty-eight participants to sit.",
+      "evidence": [
+        "B05-C018-P0191",
+        "B05-C018-P0192",
+        "B05-C018-P0193",
+        "B05-C018-P0194",
+        "B05-C018-P0197",
+        "B05-C018-P0218"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "State supplied for this meeting, not a permanent layout across requirements."
+    },
+    {
+      "id": "B05-112",
+      "location": "Practice-room detectors and lock",
+      "category": "furnishing",
+      "description": "Far-end shelves hold Sneakoscopes, Secrecy Sensors and a large cracked Foe-Glass with moving indistinct figures. Harry recognises the glass as apparently the one from impostor Moody’s office. The entrance has a key protruding from a working lock.",
+      "evidence": [
+        "B05-C018-P0191",
+        "B05-C018-P0197",
+        "B05-C018-P0201",
+        "B05-C018-P0202",
+        "B05-C018-P0203"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Recognition is Harry’s belief, not proven transfer of the same object; detectors can be fooled according to Harry."
+    },
+    {
+      "id": "B05-113",
+      "location": "Room of Requirement broom-cupboard history",
+      "category": "history",
+      "description": "Fred recalls that he and George once hid from Filch in this room when it was a broom cupboard.",
+      "evidence": [
+        "B05-C018-P0200"
+      ],
+      "certainty": "reported",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Reported previous manifestation; not an extra simultaneously accessible room."
+    },
+    {
+      "id": "B05-114",
+      "location": "DA wall notice and practice clearances",
+      "category": "temporary",
+      "description": "Hermione pins the signed Dumbledore’s Army parchment on the wall. Paired duelling leaves room for Harry to circulate, sends books off shelves and a wand against the ceiling; Harry finds a whistle atop books immediately after needing one.",
+      "evidence": [
+        "B05-C018-P0219",
+        "B05-C018-P0220",
+        "B05-C018-P0227",
+        "B05-C018-P0228",
+        "B05-C018-P0230",
+        "B05-C018-P0234",
+        "B05-C018-P0236",
+        "B05-C018-P0238",
+        "B05-C018-P0240",
+        "B05-C018-P0242",
+        "B05-C018-P0249",
+        "B05-C018-P0252",
+        "B05-C018-P0253"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Local movement and conjured/provided prop, without invented dimensions or lasting structural damage."
+    },
+    {
+      "id": "B05-115",
+      "location": "House routes after DA meeting",
+      "category": "route",
+      "description": "The Marauder’s Map shows Hufflepuffs returning to the basement corridor that also leads to the kitchens, Ravenclaws to a tower on the west side, and Gryffindors along the corridor to the Fat Lady.",
+      "evidence": [
+        "B05-C018-P0181",
+        "B05-C018-P0182",
+        "B05-C018-P0184",
+        "B05-C018-P0258"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Narrated observation through the map; no complete Hufflepuff entrance or Ravenclaw interior supplied."
+    },
+    {
+      "id": "B05-116",
+      "location": "Room of Requirement disappearing door",
+      "category": "magic",
+      "description": "After the final three pupils leave, the door melts back into stone behind them.",
+      "evidence": [
+        "B05-C018-P0259",
+        "B05-C018-P0260",
+        "B05-C018-P0264"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1995, first DA meeting and preceding storm",
+      "model_notes": "Observed closure effect; does not prove the contents cease to exist."
+    },
+    {
+      "id": "B05-117",
+      "location": "Room of Requirement detector table damage",
+      "category": "temporary",
+      "description": "During later DA practice Parvati’s Reductor Curse reduces the table carrying the Sneakoscopes to dust.",
+      "evidence": [
+        "B05-C019-P0001"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "A table is present in this later manifestation; do not silently substitute the earlier detector shelves. Repair is not described."
+    },
+    {
+      "id": "B05-118",
+      "location": "DA meeting tokens",
+      "category": "magic",
+      "description": "Hermione distributes fake Galleons from a basket. Their edge numbers communicate meeting dates and times through a Protean Charm and grow hot when changed.",
+      "evidence": [
+        "B05-C019-P0003",
+        "B05-C019-P0004",
+        "B05-C019-P0013",
+        "B05-C019-P0017",
+        "B05-C019-P0018"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Portable props for meeting coordination; not fixed geometry."
+    },
+    {
+      "id": "B05-119",
+      "location": "McGonagall study trophy",
+      "category": "furnishing",
+      "description": "McGonagall says she is accustomed to keeping the Quidditch Cup in her study.",
+      "evidence": [
+        "B05-C019-P0021"
+      ],
+      "certainty": "reported",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Reported trophy location, without a display stand or case."
+    },
+    {
+      "id": "B05-120",
+      "location": "Pitch scheduling and library jinx",
+      "category": "history",
+      "description": "Snape books the pitch repeatedly for Slytherin practices, restricting Gryffindor access. Fourteen witnesses report Alicia being jinxed from behind while working in the library; she attends the hospital wing.",
+      "evidence": [
+        "B05-C019-P0022",
+        "B05-C019-P0048"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Pitch access is scheduled, not fenced by House. Library attack is a reported incident, with no asserted furniture damage."
+    },
+    {
+      "id": "B05-121",
+      "location": "Early November castle and mountains",
+      "category": "temporary",
+      "description": "Hard morning frosts and icy draughts follow October storms. Surrounding mountains are snowcapped, the sky and Great Hall ceiling pale pearly grey, and castle corridors become cold enough for dragonskin gloves.",
+      "evidence": [
+        "B05-C019-P0026"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Seasonal thermal and distant-terrain state."
+    },
+    {
+      "id": "B05-122",
+      "location": "Match-day stadium approach",
+      "category": "route",
+      "description": "From the Hall the players cross the Entrance Hall, descend stone steps and follow frost-crunching sloping lawns down to the stadium and changing rooms.",
+      "evidence": [
+        "B05-C019-P0049",
+        "B05-C019-P0051",
+        "B05-C019-P0057",
+        "B05-C019-P0058",
+        "B05-C019-P0059"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Repeated route with frozen ground; calm overcast conditions improve visibility."
+    },
+    {
+      "id": "B05-123",
+      "location": "Quidditch stands and circulation",
+      "category": "exterior",
+      "description": "Banked benches in spectator stands receive hundreds of spectators. Players file from the changing room onto the pitch; supporters occupy identifiable Slytherin and Gryffindor sections, with Pansy at the front of the Slytherin stands.",
+      "evidence": [
+        "B05-C019-P0064",
+        "B05-C019-P0065",
+        "B05-C019-P0066",
+        "B05-C019-P0070",
+        "B05-C019-P0074",
+        "B05-C019-P0076",
+        "B05-C019-P0091",
+        "B05-C019-P0093",
+        "B05-C019-P0097",
+        "B05-C019-P0112",
+        "B05-C019-P0115",
+        "B05-C019-P0121"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Sound carries throughout stadium. Three goalhoops at each defended end; no precise audience capacity or compass placement."
+    },
+    {
+      "id": "B05-124",
+      "location": "Frozen pitch and low flight space",
+      "category": "temporary",
+      "description": "The Snitch flies near the foot of a goalpost toward the other side of the stands. Harry catches it only feet above the surface and falls five or six feet onto the frozen pitch after a Bludger strike.",
+      "evidence": [
+        "B05-C019-P0126",
+        "B05-C019-P0129",
+        "B05-C019-P0130",
+        "B05-C019-P0131",
+        "B05-C019-P0134",
+        "B05-C019-P0136",
+        "B05-C019-P0140"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Specific local flight and fall clearances, not goalpost height."
+    },
+    {
+      "id": "B05-125",
+      "location": "Pitch to McGonagall’s office",
+      "category": "route",
+      "description": "After the fight Harry and George walk from the pitch uphill to the castle, through a quiet Entrance Hall, then along a corridor to McGonagall’s office; she approaches behind them.",
+      "evidence": [
+        "B05-C019-P0152",
+        "B05-C019-P0153",
+        "B05-C019-P0154",
+        "B05-C019-P0155"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Intervening floors and stairs are not described."
+    },
+    {
+      "id": "B05-126",
+      "location": "McGonagall desk accident",
+      "category": "temporary",
+      "description": "McGonagall’s tartan biscuit tin slides off her desk and bursts open on the floor, scattering Ginger Newts; she has thrown her scarf onto the floor.",
+      "evidence": [
+        "B05-C019-P0155",
+        "B05-C019-P0158",
+        "B05-C019-P0162",
+        "B05-C019-P0166"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Temporary movable clutter; no permanent office damage."
+    },
+    {
+      "id": "B05-127",
+      "location": "Confiscated broom storage order",
+      "category": "temporary",
+      "description": "Umbridge announces that Harry’s, Fred’s and George’s brooms will be confiscated and kept in her office after their lifetime Quidditch bans.",
+      "evidence": [
+        "B05-C019-P0178",
+        "B05-C019-P0180",
+        "B05-C019-P0182",
+        "B05-C019-P0185"
+      ],
+      "certainty": "reported",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Announced storage plan rather than a narrated transfer in this chapter."
+    },
+    {
+      "id": "B05-128",
+      "location": "November common-room snow view",
+      "category": "temporary",
+      "description": "Snow swirls against the dark common-room window; Hermione sees enough outside to announce Hagrid’s return. The captured Snitch flies around the room as Crookshanks leaps between chairs pursuing it.",
+      "evidence": [
+        "B05-C019-P0189",
+        "B05-C019-P0194",
+        "B05-C019-P0200",
+        "B05-C019-P0204",
+        "B05-C019-P0217",
+        "B05-C019-P0223"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late October to first November Quidditch match, 1995",
+      "model_notes": "Return signal is not specified here; do not invent a lamp sighting until described."
+    },
+    {
+      "id": "B05-129",
+      "location": "Gryffindor to cabin at night",
+      "category": "route",
+      "description": "The friends descend many staircases from the portrait hole, cross the Entrance Hall and enter snowy grounds. Hagrid’s windows show little golden squares and smoke rises from his chimney as they approach his wooden front door.",
+      "evidence": [
+        "B05-C020-P0001",
+        "B05-C020-P0003",
+        "B05-C020-P0004",
+        "B05-C020-P0007"
+      ],
+      "certainty": "explicit",
+      "temporal": "Snowy November night of Hagrid’s return, 1995",
+      "model_notes": "Front door has a keyhole and bolt; snow tracks reveal travel despite the Invisibility Cloak."
+    },
+    {
+      "id": "B05-130",
+      "location": "Hagrid cabin return-night furnishings",
+      "category": "interior",
+      "description": "Hagrid closes curtains after admitting them. A travelling cloak lies over a chair and a large haversack against the wall just inside the door. He heats a copper kettle over the fire and serves tea in bucket-shaped mugs.",
+      "evidence": [
+        "B05-C020-P0010",
+        "B05-C020-P0011",
+        "B05-C020-P0012",
+        "B05-C020-P0035",
+        "B05-C020-P0036",
+        "B05-C020-P0038",
+        "B05-C020-P0039"
+      ],
+      "certainty": "explicit",
+      "temporal": "Snowy November night of Hagrid’s return, 1995",
+      "model_notes": "Travel equipment marks recent return; curtains and fire are fittings."
+    },
+    {
+      "id": "B05-131",
+      "location": "Hagrid cabin central table",
+      "category": "furnishing",
+      "description": "An enormous wooden table stands in the cabin centre. A tea towel initially covers a raw dragon steak slightly larger than a car tyre; Hagrid uses it as a cold dressing and it later falls to the floor.",
+      "evidence": [
+        "B05-C020-P0022",
+        "B05-C020-P0023",
+        "B05-C020-P0024",
+        "B05-C020-P0025",
+        "B05-C020-P0030",
+        "B05-C020-P0035",
+        "B05-C020-P0049",
+        "B05-C020-P0060"
+      ],
+      "certainty": "explicit",
+      "temporal": "Snowy November night of Hagrid’s return, 1995",
+      "model_notes": "Temporary medical/food prop and mess on central work surface."
+    },
+    {
+      "id": "B05-132",
+      "location": "Cabin door window and dog basket",
+      "category": "interior",
+      "description": "A thin-curtained window beside the doorway shows Umbridge’s shadow before entry. The friends hide in a corner, while Hagrid conceals two mugs beneath the cushion in Fang’s basket; Hermione’s broken mug remains on the floor.",
+      "evidence": [
+        "B05-C020-P0170",
+        "B05-C020-P0184",
+        "B05-C020-P0186",
+        "B05-C020-P0187",
+        "B05-C020-P0188",
+        "B05-C020-P0195",
+        "B05-C020-P0197",
+        "B05-C020-P0201",
+        "B05-C020-P0202",
+        "B05-C020-P0203"
+      ],
+      "certainty": "explicit",
+      "temporal": "Snowy November night of Hagrid’s return, 1995",
+      "model_notes": "Preserve door-adjacent window, dog basket and temporary china fragments."
+    },
+    {
+      "id": "B05-133",
+      "location": "Cabin search and bed location",
+      "category": "interior",
+      "description": "Umbridge walks the length of the cabin, looks beneath the bed and inside cupboards and Hagrid’s enormous cooking cauldron, passing within two inches of the hidden pupils against a wall. The vast bed occupies a corner.",
+      "evidence": [
+        "B05-C020-P0213",
+        "B05-C020-P0252"
+      ],
+      "certainty": "explicit",
+      "temporal": "Snowy November night of Hagrid’s return, 1995",
+      "model_notes": "Under-bed clearance and walkable perimeter observed; no numeric cabin dimensions."
+    },
+    {
+      "id": "B05-134",
+      "location": "Cabin-to-castle sightline and snow tracks",
+      "category": "route",
+      "description": "Hagrid parts a curtain about an inch to watch Umbridge returning to the castle. She has reported three sets of footprints from the castle doors with none returning; the friends later go uphill through thicker snow, erasing their tracks with Hermione’s Obliteration Charm.",
+      "evidence": [
+        "B05-C020-P0208",
+        "B05-C020-P0211",
+        "B05-C020-P0240",
+        "B05-C020-P0241",
+        "B05-C020-P0253",
+        "B05-C020-P0254"
+      ],
+      "certainty": "explicit",
+      "temporal": "Snowy November night of Hagrid’s return, 1995",
+      "model_notes": "Initial footprint count is Umbridge’s report; later physical erasure is observed. No cloak-based footprint immunity."
+    },
+    {
+      "id": "B05-135",
+      "location": "Domestic herd report",
+      "category": "grounds",
+      "description": "Hagrid says he has raised special lesson creatures for years and believes his is Britain’s only domestic herd.",
+      "evidence": [
+        "B05-C020-P0244",
+        "B05-C020-P0248",
+        "B05-C020-P0250"
+      ],
+      "certainty": "reported",
+      "temporal": "Snowy November night of Hagrid’s return, 1995",
+      "model_notes": "Reported still-unnamed herd; location and species await the next lesson."
+    },
+    {
+      "id": "B05-136",
+      "location": "Frozen grounds and tower windows",
+      "category": "temporary",
+      "description": "Two feet of snow cover the grounds; students skate on the frozen lake, toboggan and enchant snowballs to fly up and hit Gryffindor Tower windows. Ron opens a common-room window and is struck by a snowball before shutting it.",
+      "evidence": [
+        "B05-C021-P0001",
+        "B05-C021-P0002",
+        "B05-C021-P0003",
+        "B05-C021-P0004",
+        "B05-C021-P0005"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "November freeze and student use, not year-round lake solidity."
+    },
+    {
+      "id": "B05-137",
+      "location": "Forest visit report",
+      "category": "grounds",
+      "description": "Hermione says she waits at Hagrid’s door for half an hour before he emerges from the Forest.",
+      "evidence": [
+        "B05-C021-P0007",
+        "B05-C021-P0008",
+        "B05-C021-P0009"
+      ],
+      "certainty": "reported",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Does not confirm a Chimaera: Hermione explicitly doubts he has one."
+    },
+    {
+      "id": "B05-138",
+      "location": "Hall central aisle adjacency",
+      "category": "interior",
+      "description": "Pupils run up the aisle between Gryffindor and Hufflepuff tables to greet Hagrid at the staff table.",
+      "evidence": [
+        "B05-C021-P0010"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Repeated adjacency and aisle-to-staff-table connection."
+    },
+    {
+      "id": "B05-139",
+      "location": "Forest lesson approach",
+      "category": "route",
+      "description": "Hagrid waits at the Forest edge carrying half a dead cow, then leads pupils into dark trees for about ten minutes to a dense stand where the light resembles twilight and no snow reaches the ground.",
+      "evidence": [
+        "B05-C021-P0011",
+        "B05-C021-P0012",
+        "B05-C021-P0013",
+        "B05-C021-P0016",
+        "B05-C021-P0021",
+        "B05-C021-P0022",
+        "B05-C021-P0023"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Sheltered snowy-season route; no compass direction or measured distance."
+    },
+    {
+      "id": "B05-140",
+      "location": "Thestral feeding habitat",
+      "category": "grounds",
+      "description": "Hagrid lays the carcass on the ground and gives shrieking calls. Thestrals emerge among the trees, one from between two gnarled yews, and eat with pointed fangs; more arrive with leathery wings folded and long black tails swishing.",
+      "evidence": [
+        "B05-C021-P0023",
+        "B05-C021-P0024",
+        "B05-C021-P0025",
+        "B05-C021-P0026",
+        "B05-C021-P0027",
+        "B05-C021-P0029",
+        "B05-C021-P0030",
+        "B05-C021-P0034",
+        "B05-C021-P0036",
+        "B05-C021-P0038",
+        "B05-C021-P0039",
+        "B05-C021-P0077"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Actual Forest feeding site, distinct from the coach road."
+    },
+    {
+      "id": "B05-141",
+      "location": "Thestral herd history and work",
+      "category": "history",
+      "description": "Hagrid identifies a resident Forest herd founded with one male and five females; Tenebrus was the first born there. He says the herd mainly pulls school coaches, sometimes carrying Dumbledore on journeys, and tame animals have an exceptional sense of direction.",
+      "evidence": [
+        "B05-C021-P0036",
+        "B05-C021-P0038",
+        "B05-C021-P0057",
+        "B05-C021-P0060",
+        "B05-C021-P0062",
+        "B05-C021-P0066",
+        "B05-C021-P0071"
+      ],
+      "certainty": "reported",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Reported husbandry and abilities; not a census of the current herd."
+    },
+    {
+      "id": "B05-142",
+      "location": "Thestral visibility rule",
+      "category": "magic",
+      "description": "Hermione states, and Hagrid confirms, that people who have seen death can see Thestrals. Harry, Neville and one Slytherin see the feeding animals while others see flesh disappear.",
+      "evidence": [
+        "B05-C021-P0029",
+        "B05-C021-P0031",
+        "B05-C021-P0032",
+        "B05-C021-P0033",
+        "B05-C021-P0034",
+        "B05-C021-P0035",
+        "B05-C021-P0040",
+        "B05-C021-P0041",
+        "B05-C021-P0042",
+        "B05-C021-P0043",
+        "B05-C021-P0044",
+        "B05-C021-P0073",
+        "B05-C021-P0074",
+        "B05-C021-P0075",
+        "B05-C021-P0076",
+        "B05-C021-P0089"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Rule is reported and classroom visibility difference directly observed. Do not infer that Umbridge sees them from her mere arrival."
+    },
+    {
+      "id": "B05-143",
+      "location": "Forest to greenhouses in snow",
+      "category": "route",
+      "description": "Pupils return uphill toward the castle along channels previously made through snow. Hermione melts an easier route through untouched snow between the class and the greenhouses using hot air from her wand.",
+      "evidence": [
+        "B05-C021-P0082",
+        "B05-C021-P0090",
+        "B05-C021-P0091",
+        "B05-C021-P0092"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Retain travel sequence without straight-line assumptions."
+    },
+    {
+      "id": "B05-144",
+      "location": "December castle holiday state",
+      "category": "temporary",
+      "description": "Further snow and bitter cold keep younger pupils indoors during breaks. Prefects supervise castle decorations including tinsel and patrol corridors with Filch.",
+      "evidence": [
+        "B05-C021-P0094",
+        "B05-C021-P0095"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Tinsel difficulty is Ron’s report; no specific decorated room supplied."
+    },
+    {
+      "id": "B05-145",
+      "location": "Room of Requirement Christmas decorations",
+      "category": "temporary",
+      "description": "Torches flare when Harry enters. A hundred golden Harry-faced Christmas baubles hang from the ceiling until he removes them; a large clump of mistletoe with white berries remains overhead.",
+      "evidence": [
+        "B05-C021-P0098",
+        "B05-C021-P0099",
+        "B05-C021-P0100",
+        "B05-C021-P0101",
+        "B05-C021-P0102",
+        "B05-C021-P0104",
+        "B05-C021-P0146",
+        "B05-C021-P0147"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Harry attributes decorations to Dobby; actual baubles and mistletoe observed. Nargles are Luna’s unsupported claim."
+    },
+    {
+      "id": "B05-146",
+      "location": "DA Stunning-room capacity",
+      "category": "interior",
+      "description": "Cushions are laid across the floor for Stunning practice, but the room is too confined for everyone to practise simultaneously; half observe while half cast, then swap. Cushions are stacked afterward and pupils depart in twos and threes.",
+      "evidence": [
+        "B05-C021-P0114",
+        "B05-C021-P0119",
+        "B05-C021-P0120",
+        "B05-C021-P0121",
+        "B05-C021-P0122",
+        "B05-C021-P0123",
+        "B05-C021-P0125",
+        "B05-C021-P0127"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Concrete capacity constraint despite the room’s spacious appearance; no metric size."
+    },
+    {
+      "id": "B05-147",
+      "location": "Common-room hearthrug ink spill",
+      "category": "temporary",
+      "description": "The friends work beside the fire at a table and armchairs; Ron lies on the hearthrug and knocks his ink bottle over it when sitting up.",
+      "evidence": [
+        "B05-C021-P0155",
+        "B05-C021-P0156",
+        "B05-C021-P0167",
+        "B05-C021-P0171",
+        "B05-C021-P0206",
+        "B05-C021-P0210",
+        "B05-C021-P0211",
+        "B05-C021-P0212"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Ink spill is temporary; no subsequent rug cleaning described."
+    },
+    {
+      "id": "B05-148",
+      "location": "Boys’ dormitory window and bed relation",
+      "category": "interior",
+      "description": "With his bed hangings open, Harry sees stars through a window beside Neville’s bed. His glasses rest on his bedside table and Ron speaks from his right; McGonagall later reaches the dormitory via the stairs.",
+      "evidence": [
+        "B05-C021-P0216",
+        "B05-C021-P0217",
+        "B05-C021-P0221",
+        "B05-C021-P0231",
+        "B05-C021-P0233",
+        "B05-C021-P0240",
+        "B05-C021-P0247",
+        "B05-C021-P0248",
+        "B05-C021-P0249"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1995 before Christmas departure",
+      "model_notes": "Right is from Harry’s position in bed; the subsequent snake-vision corridor is not Hogwarts."
+    },
+    {
+      "id": "B05-149",
+      "location": "Gryffindor to Headmaster at night",
+      "category": "route",
+      "description": "McGonagall leads Harry and Ron down the dormitory spiral stairs, across the common room and through the portrait hole along the Fat Lady’s moonlit corridor. After a few minutes they reach the office’s stone gargoyle.",
+      "evidence": [
+        "B05-C022-P0003",
+        "B05-C022-P0004"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
+      "model_notes": "Travel duration approximate; intervening corridor turns and floors not supplied."
+    },
+    {
+      "id": "B05-150",
+      "location": "Headmaster staircase and door",
+      "category": "magic",
+      "description": "Fizzing Whizzbee makes the gargoyle leap aside and the wall split, exposing continuously ascending stone spiral stairs. The wall closes behind riders; tight circles bring them to a polished oak door with a brass griffin-shaped knocker. The door opens of itself after three knocks.",
+      "evidence": [
+        "B05-C022-P0004",
+        "B05-C022-P0005",
+        "B05-C022-P0006",
+        "B05-C022-P0007"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
+      "model_notes": "Password belongs to December 1995."
+    },
+    {
+      "id": "B05-151",
+      "location": "Headmaster office night fittings",
+      "category": "interior",
+      "description": "Tables hold fragile silver instruments, unusually still and smokeless tonight; former heads’ portraits cover the walls. Fawkes sleeps on a perch beside and behind the entrance door. A candle lights papers on Dumbledore’s desk, behind which stands his high-backed chair.",
+      "evidence": [
+        "B05-C022-P0008",
+        "B05-C022-P0010",
+        "B05-C022-P0024",
+        "B05-C022-P0025",
+        "B05-C022-P0029",
+        "B05-C022-P0030",
+        "B05-C022-P0033",
+        "B05-C022-P0036",
+        "B05-C022-P0040"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
+      "model_notes": "Fawkes perch position explicit; instrument activity varies with time."
+    },
+    {
+      "id": "B05-152",
+      "location": "Portrait communication network",
+      "category": "magic",
+      "description": "Everard’s portrait hangs near the ceiling beside Dilys’s; after they leave their frames, one shows a dark curtain and the other a leather armchair. They return with reports from other institutions. Dumbledore explains they travel among their own portraits; Hogwarts subjects usually enter neighbouring pictures.",
+      "evidence": [
+        "B05-C022-P0024",
+        "B05-C022-P0025",
+        "B05-C022-P0029",
+        "B05-C022-P0030",
+        "B05-C022-P0040",
+        "B05-C022-P0043",
+        "B05-C022-P0045"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
+      "model_notes": "Remote institutional connection, not a physical passage. Everard returns at the top of the wall to the visitors’ right."
+    },
+    {
+      "id": "B05-153",
+      "location": "Conjured office visitor chairs",
+      "category": "temporary",
+      "description": "McGonagall conjures three straight-backed wooden chairs for herself, Harry and Ron.",
+      "evidence": [
+        "B05-C022-P0032",
+        "B05-C022-P0033"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
+      "model_notes": "Event furniture, distinct from Dumbledore’s comfortable chintz chairs at the Ministry."
+    },
+    {
+      "id": "B05-154",
+      "location": "Office smoke instrument",
+      "category": "magic",
+      "description": "Dumbledore places a silver instrument from its spindly table onto his desk and activates it by wand. A tiny top tube emits pale-green smoke forming a serpent that divides into two; a second tap stops it and the smoke vanishes.",
+      "evidence": [
+        "B05-C022-P0036",
+        "B05-C022-P0037",
+        "B05-C022-P0038",
+        "B05-C022-P0039",
+        "B05-C022-P0040"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
+      "model_notes": "Function remains unexplained; do not label it a confirmed truth detector."
+    },
+    {
+      "id": "B05-155",
+      "location": "Phineas Nigellus portrait connection",
+      "category": "magic",
+      "description": "A portrait of pointed-bearded Phineas in Slytherin green and silver hangs in the office with a Slytherin banner backdrop. He moves to his other portrait in Harry’s Grimmauld Place bedroom to deliver a message, then returns.",
+      "evidence": [
+        "B05-C022-P0054",
+        "B05-C022-P0055",
+        "B05-C022-P0056",
+        "B05-C022-P0060",
+        "B05-C022-P0061",
+        "B05-C022-P0063",
+        "B05-C022-P0064",
+        "B05-C022-P0065",
+        "B05-C022-P0066",
+        "B05-C022-P0067",
+        "B05-C022-P0068",
+        "B05-C022-P0069",
+        "B05-C022-P0077"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
+      "model_notes": "Specific remote portrait connection observed through departures/return and Dumbledore’s explanation; Armando Dippet also has an office portrait."
+    },
+    {
+      "id": "B05-156",
+      "location": "Office cupboard and Portkey departure",
+      "category": "magic",
+      "description": "A cupboard behind Harry and Ron contains a blackened old kettle. Dumbledore enchants it blue momentarily with Portus; five pupils touch it at his desk and are transported to Grimmauld Place’s basement kitchen.",
+      "evidence": [
+        "B05-C022-P0053",
+        "B05-C022-P0069",
+        "B05-C022-P0071",
+        "B05-C022-P0073",
+        "B05-C022-P0079",
+        "B05-C022-P0080",
+        "B05-C022-P0081",
+        "B05-C022-P0083",
+        "B05-C022-P0084",
+        "B05-C022-P0087"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
+      "model_notes": "Demonstrated authorised Portkey departure inside Hogwarts, distinct from unsafe watched Floo travel; no general permission for all Portkeys inferred."
+    },
+    {
+      "id": "B05-157",
+      "location": "Fawkes office warning",
+      "category": "magic",
+      "description": "Fawkes disappears in a flash of fire; later flame appears in mid-office leaving one golden feather as a warning of an approaching visitor.",
+      "evidence": [
+        "B05-C022-P0034",
+        "B05-C022-P0035",
+        "B05-C022-P0051",
+        "B05-C022-P0074",
+        "B05-C022-P0075",
+        "B05-C022-P0076"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
+      "model_notes": "Remote phoenix warning transport, not an architectural passage."
+    },
+    {
+      "id": "B05-158",
+      "location": "Dilys Derwent external portrait",
+      "category": "history",
+      "description": "The hospital reception contains a second portrait of Dilys Derwent with silver ringlets, labelled Hogwarts headmistress 1741–1768; she notices Harry’s group and leaves her frame.",
+      "evidence": [
+        "B05-C022-P0167",
+        "B05-C022-P0168",
+        "B05-C022-P0169",
+        "B05-C022-P0170",
+        "B05-C022-P0171"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1995, night of Arthur Weasley’s attack and following day",
+      "model_notes": "Only the school-linked portrait network is catalogued from this remote hospital; unrelated ward architecture excluded."
+    },
+    {
+      "id": "B05-159",
+      "location": "Hogwarts Apparition boundary",
+      "category": "magic",
+      "description": "Hermione cites Hogwarts: A History to state that nobody can Apparate or Disapparate within Hogwarts, rejecting Harry’s idea that he was physically transported out of his dormitory during the snake vision. Ron says he remained in bed.",
+      "evidence": [
+        "B05-C023-P0080",
+        "B05-C023-P0081",
+        "B05-C023-P0082"
+      ],
+      "certainty": "reported",
+      "temporal": "Christmas holidays, December 1995",
+      "model_notes": "Reported general restriction and eyewitness denial of that journey; do not conflate it with the separately observed authorised Portkey departure."
+    },
+    {
+      "id": "B05-160",
+      "location": "Knight Bus school return",
+      "category": "route",
+      "description": "The purple three-decker Knight Bus carries the pupils from London through magically compressed road travel into snowy Hogsmeade, past the Hog’s Head side-street sign, stopping outside Hogwarts gates.",
+      "evidence": [
+        "B05-C024-P0072",
+        "B05-C024-P0085",
+        "B05-C024-P0092",
+        "B05-C024-P0094",
+        "B05-C024-P0095",
+        "B05-C024-P0096",
+        "B05-C024-P0099",
+        "B05-C024-P0101",
+        "B05-C024-P0102",
+        "B05-C024-P0104",
+        "B05-C024-P0105"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1996 return and first Occlumency lesson",
+      "model_notes": "School connection only; intermediate Britain-wide streets are not mapped as contiguous castle approaches."
+    },
+    {
+      "id": "B05-161",
+      "location": "Knight Bus passenger arrangement",
+      "category": "interior",
+      "description": "Daytime mismatched chairs cluster by windows, replacing the brass beds Harry recalls at night. Stairs lead to the top deck; there are candle brackets and a large front window.",
+      "evidence": [
+        "B05-C024-P0088",
+        "B05-C024-P0092",
+        "B05-C024-P0093",
+        "B05-C024-P0094",
+        "B05-C024-P0095",
+        "B05-C024-P0104",
+        "B05-C024-P0105"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1996 return and first Occlumency lesson",
+      "model_notes": "Transport state relevant to arrival; seats slide during abrupt travel."
+    },
+    {
+      "id": "B05-162",
+      "location": "January gate-to-castle approach",
+      "category": "route",
+      "description": "After leaving the bus on a deserted road outside the gates, six pupils drag trunks uphill along a slippery drive to the oaken front doors. Tonks says they will be safe within the grounds.",
+      "evidence": [
+        "B05-C024-P0104",
+        "B05-C024-P0105",
+        "B05-C024-P0106",
+        "B05-C024-P0109"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1996 return and first Occlumency lesson",
+      "model_notes": "Slippery winter state observed; safety assurance is Tonks’s report."
+    },
+    {
+      "id": "B05-163",
+      "location": "Entrance Hall to library approach",
+      "category": "route",
+      "description": "Hermione takes Ron from the Entrance Hall toward the marble staircase to go to the library; Cho ascends the same stair and Harry catches her halfway up before going to the library himself.",
+      "evidence": [
+        "B05-C024-P0113",
+        "B05-C024-P0117",
+        "B05-C024-P0119",
+        "B05-C024-P0130",
+        "B05-C024-P0132",
+        "B05-C024-P0133",
+        "B05-C024-P0135"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1996 return and first Occlumency lesson",
+      "model_notes": "Library lies along this upward route, with no stated floor or direct stair landing entrance."
+    },
+    {
+      "id": "B05-164",
+      "location": "Snape’s office stores and furniture",
+      "category": "interior",
+      "description": "The shadowy office has shelves of hundreds of glass jars containing slimy animal and plant parts in coloured potions, an ingredient cupboard in one corner, a desk in candlelight and a visitor’s chair opposite it. The desk has legs against which Harry strikes his knee.",
+      "evidence": [
+        "B05-C024-P0137",
+        "B05-C024-P0138",
+        "B05-C024-P0139",
+        "B05-C024-P0140",
+        "B05-C024-P0171",
+        "B05-C024-P0186",
+        "B05-C024-P0193"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1996 return and first Occlumency lesson",
+      "model_notes": "Distinguish private office cupboard from the classroom ingredient cupboard."
+    },
+    {
+      "id": "B05-165",
+      "location": "Pensieve in Snape’s office",
+      "category": "temporary",
+      "description": "Dumbledore’s shallow stone Pensieve, engraved with runes and symbols, stands on Snape’s desk. Snape deposits three strands of memory into it, moves it to an out-of-the-way shelf and later retrieves the memories.",
+      "evidence": [
+        "B05-C024-P0138",
+        "B05-C024-P0184",
+        "B05-C024-P0186",
+        "B05-C024-P0243"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1996 return and first Occlumency lesson",
+      "model_notes": "Temporary transfer for Occlumency, not a second independent permanent basin."
+    },
+    {
+      "id": "B05-166",
+      "location": "Castle physical and mental protections",
+      "category": "magic",
+      "description": "Snape says many ancient spells and charms guard the walls and grounds for occupants’ bodily and mental safety; distance and eye contact matter in Legilimency, while Harry’s connection is an exception to normal rules.",
+      "evidence": [
+        "B05-C024-P0153",
+        "B05-C024-P0155",
+        "B05-C024-P0156",
+        "B05-C024-P0157",
+        "B05-C024-P0158",
+        "B05-C024-P0159"
+      ],
+      "certainty": "reported",
+      "temporal": "January 1996 return and first Occlumency lesson",
+      "model_notes": "Reported protective scope without invented wards or absolute protection against all mental intrusion."
+    },
+    {
+      "id": "B05-167",
+      "location": "Earlier Hogwarts scenes recalled in Occlumency",
+      "category": "history",
+      "description": "Harry recalls Hermione in the hospital wing with a fur-covered face, Dementors approaching across the dark grounds lake, and his parents’ reflections in an enchanted mirror.",
+      "evidence": [
+        "B05-C024-P0191",
+        "B05-C024-P0209",
+        "B05-C024-P0220"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1996 return and first Occlumency lesson",
+      "model_notes": "Memory fragments add event/environment states without locating the mirror anew."
+    },
+    {
+      "id": "B05-168",
+      "location": "Library windows and reading space",
+      "category": "interior",
+      "description": "Students work at lamp-lit tables while the sky darkens beyond mullioned windows; Madam Pince patrols the aisles. A window opposite Harry reflects his face.",
+      "evidence": [
+        "B05-C024-P0244",
+        "B05-C024-P0245",
+        "B05-C024-P0249",
+        "B05-C024-P0262"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1996 return and first Occlumency lesson",
+      "model_notes": "Specific glazing pattern and reflective evening state; table/chair layout otherwise unspecified."
+    },
+    {
+      "id": "B05-169",
+      "location": "Common-room demonstration and boys’ stairs",
+      "category": "temporary",
+      "description": "The crowded common room hosts Headless Hat demonstrations: a pink-feathered pointed hat makes itself and the wearer’s head invisible until removed. Harry crosses to the cool stone boys’ staircase and opens the dormitory door above.",
+      "evidence": [
+        "B05-C024-P0263",
+        "B05-C024-P0264",
+        "B05-C024-P0265",
+        "B05-C024-P0266",
+        "B05-C024-P0267",
+        "B05-C024-P0268",
+        "B05-C024-P0275",
+        "B05-C024-P0276",
+        "B05-C024-P0280",
+        "B05-C024-P0287"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1996 return and first Occlumency lesson",
+      "model_notes": "Portable joke prop, not a building invisibility field. Ordinary dormitory door and stone circulation confirmed."
+    },
+    {
+      "id": "B05-170",
+      "location": "Great Hall staff seating in January",
+      "category": "interior",
+      "description": "Umbridge eats at the far end of the staff table, looking along it toward Dumbledore and McGonagall; Sprout reads a newspaper propped against a ketchup bottle.",
+      "evidence": [
+        "B05-C025-P0019"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–14 February 1996",
+      "model_notes": "Date-specific staff seating rather than immutable assigned places."
+    },
+    {
+      "id": "B05-171",
+      "location": "Hagrid’s salamander care",
+      "category": "grounds",
+      "description": "Hagrid reports two salamanders with scale rot requiring chilli powder, then leaves through the front doors down the stone steps into damp grounds.",
+      "evidence": [
+        "B05-C025-P0041",
+        "B05-C025-P0043",
+        "B05-C025-P0044",
+        "B05-C025-P0046",
+        "B05-C025-P0047"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–14 February 1996",
+      "model_notes": "Care and number reported; precise enclosure location not given."
+    },
+    {
+      "id": "B05-172",
+      "location": "Herbology Screechsnap trays",
+      "category": "temporary",
+      "description": "Susan Bones tends Screechsnap seedlings in a tray with dragon manure; too much makes the seedlings wriggle and squeak.",
+      "evidence": [
+        "B05-C025-P0050",
+        "B05-C025-P0051"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–14 February 1996",
+      "model_notes": "Actual classroom plants in this lesson, not a proposed collection."
+    },
+    {
+      "id": "B05-173",
+      "location": "House decree notices and surveillance states",
+      "category": "temporary",
+      "description": "Educational Decree Twenty-six appears on house noticeboards. Umbridge observes every Divination and creature lesson, standing by the Divination fire among its perfume, crystal ball, tea leaves and rune stones. Hagrid forbids evening visits to his cabin.",
+      "evidence": [
+        "B05-C025-P0054",
+        "B05-C025-P0056",
+        "B05-C025-P0057",
+        "B05-C025-P0058",
+        "B05-C025-P0059",
+        "B05-C025-P0060",
+        "B05-C025-P0065",
+        "B05-C025-P0066",
+        "B05-C025-P0067"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–14 February 1996",
+      "model_notes": "Notice and inspection state observed; staff-room inability to converse freely is Hermione’s inference. Cabin restriction is an instruction, not a magical seal."
+    },
+    {
+      "id": "B05-174",
+      "location": "January–February weather transition",
+      "category": "temporary",
+      "description": "January gives way to wetter warmer February weather; the Valentine’s outing begins breezy but develops heavy cold rain.",
+      "evidence": [
+        "B05-C025-P0087",
+        "B05-C025-P0105",
+        "B05-C025-P0123",
+        "B05-C025-P0124",
+        "B05-C025-P0165",
+        "B05-C025-P0168"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–14 February 1996",
+      "model_notes": "Seasonal state to reconcile with earlier frozen lake; this passage does not explicitly certify thaw."
+    },
+    {
+      "id": "B05-175",
+      "location": "Hogsmeade route past stadium",
+      "category": "route",
+      "description": "Cho waits beside the oak front doors in the Entrance Hall. After Filch signs them out, she and Harry pass the stadium, seeing Ron and Ginny flying above the stands, then follow the drive downhill and leave through the gates for the village High Street.",
+      "evidence": [
+        "B05-C025-P0099",
+        "B05-C025-P0100",
+        "B05-C025-P0105",
+        "B05-C025-P0114",
+        "B05-C025-P0117"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–14 February 1996",
+      "model_notes": "Stadium is visible from this school exit route; no exact lateral distance."
+    },
+    {
+      "id": "B05-176",
+      "location": "Village boundary security state",
+      "category": "temporary",
+      "description": "Death Eater wanted posters fill shop windows including Dervish and Banges. Cho recalls Dementors throughout Hogsmeade during Sirius’s escape; Harry sees none now.",
+      "evidence": [
+        "B05-C025-P0119",
+        "B05-C025-P0120",
+        "B05-C025-P0121",
+        "B05-C025-P0122",
+        "B05-C025-P0123"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–14 February 1996",
+      "model_notes": "Past patrol is reported; current absence observed locally, not proof no Dementor exists anywhere."
+    },
+    {
+      "id": "B05-177",
+      "location": "Village meeting route and Three Broomsticks",
+      "category": "route",
+      "description": "From High Street near Scrivenshaft’s they go up a side road to Madam Puddifoot’s small teashop. After leaving it Harry turns right and reaches the Three Broomsticks within minutes, moving among crammed tables to a corner seat, then across the crowded room to Hermione’s table.",
+      "evidence": [
+        "B05-C025-P0123",
+        "B05-C025-P0126",
+        "B05-C025-P0165",
+        "B05-C025-P0166",
+        "B05-C025-P0167",
+        "B05-C025-P0169",
+        "B05-C025-P0170",
+        "B05-C025-P0171",
+        "B05-C025-P0188",
+        "B05-C025-P0190",
+        "B05-C025-P0192",
+        "B05-C025-P0193"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–14 February 1996",
+      "model_notes": "Retained to situate the school-linked interview meeting; tea-shop romantic furnishings do not constrain Hogwarts and are not separately inventoried."
+    },
+    {
+      "id": "B05-178",
+      "location": "Common-room grounds view and study",
+      "category": "interior",
+      "description": "The common-room windows overlook dark grounds and cloudy night sky. Pupils work at tables with piles of books, pull up chairs, and later watch a magically enlarged talking Quibbler cover hung on a wall.",
+      "evidence": [
+        "B05-C026-P0031",
+        "B05-C026-P0032",
+        "B05-C026-P0033",
+        "B05-C026-P0034",
+        "B05-C026-P0036",
+        "B05-C026-P0038",
+        "B05-C026-P0043",
+        "B05-C026-P0047",
+        "B05-C026-P0128"
+      ],
+      "certainty": "explicit",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Talking poster is a temporary joke enchantment whose voice degrades over time."
+    },
+    {
+      "id": "B05-179",
+      "location": "Quidditch spectator tiers",
+      "category": "exterior",
+      "description": "Harry and Hermione watch the Hufflepuff match from seats a few rows above Umbridge.",
+      "evidence": [
+        "B05-C026-P0051",
+        "B05-C026-P0052",
+        "B05-C026-P0059",
+        "B05-C026-P0065",
+        "B05-C026-P0066"
+      ],
+      "certainty": "explicit",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Relative tier seating; no dimensions added by the game result."
+    },
+    {
+      "id": "B05-180",
+      "location": "Quibbler decree fixtures",
+      "category": "temporary",
+      "description": "Enormous Decree Twenty-seven notices are posted throughout school, including corridors, classrooms and house noticeboards, banning possession of The Quibbler.",
+      "evidence": [
+        "B05-C026-P0107",
+        "B05-C026-P0109",
+        "B05-C026-P0110",
+        "B05-C026-P0111",
+        "B05-C026-P0112",
+        "B05-C026-P0113",
+        "B05-C026-P0114",
+        "B05-C026-P0119"
+      ],
+      "certainty": "explicit",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Institutional restriction represented through temporary notices; not an automatic magical confiscation field."
+    },
+    {
+      "id": "B05-181",
+      "location": "Girls’ toilet cubicles",
+      "category": "interior",
+      "description": "Hermione reports other girls discussing Harry’s interview from occupied toilet cubicles.",
+      "evidence": [
+        "B05-C026-P0117",
+        "B05-C026-P0118"
+      ],
+      "certainty": "reported",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Reported cubicle-based girls’ lavatory, unnamed and unlocated."
+    },
+    {
+      "id": "B05-182",
+      "location": "Herbology watering equipment",
+      "category": "furnishing",
+      "description": "Harry passes Sprout a watering can during Herbology.",
+      "evidence": [
+        "B05-C026-P0120"
+      ],
+      "certainty": "explicit",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Small functional greenhouse prop."
+    },
+    {
+      "id": "B05-183",
+      "location": "Dormitory windows and water jug",
+      "category": "furnishing",
+      "description": "Harry rests his forehead against a cool glass window beside his own bed. A water jug stands on his bedside table; the room has bed curtains, mattresses and pillows, with moonlight during his later awakening.",
+      "evidence": [
+        "B05-C026-P0129",
+        "B05-C026-P0151",
+        "B05-C026-P0153",
+        "B05-C026-P0164",
+        "B05-C026-P0165",
+        "B05-C026-P0167",
+        "B05-C026-P0170"
+      ],
+      "certainty": "explicit",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Adds Harry’s own bedside window, not a replacement for Neville’s separately described window."
+    },
+    {
+      "id": "B05-184",
+      "location": "Courtyard usual corner",
+      "category": "exterior",
+      "description": "The friends talk in their usual corner of the cool breezy courtyard while the twins sell Headless Hats across the yard.",
+      "evidence": [
+        "B05-C026-P0172"
+      ],
+      "certainty": "explicit",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Repeated shared courtyard with opposing areas; no identification with a specific named quadrangle."
+    },
+    {
+      "id": "B05-185",
+      "location": "Snape office specimens and repaired jar",
+      "category": "temporary",
+      "description": "Snape’s office collection includes a dead frog in purple liquid and a dead eel. Harry staggers several steps into wall shelves, breaking a specimen jar and spilling potion; Snape repairs it immediately with Reparo. The Pensieve remains in use.",
+      "evidence": [
+        "B05-C026-P0189",
+        "B05-C026-P0198",
+        "B05-C026-P0202",
+        "B05-C026-P0217",
+        "B05-C026-P0218",
+        "B05-C026-P0219",
+        "B05-C026-P0222"
+      ],
+      "certainty": "explicit",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Damage repaired; spilled potion is not explicitly recovered. Revealed childhood rooms are not identified as Hogwarts."
+    },
+    {
+      "id": "B05-186",
+      "location": "Snape office to Entrance Hall",
+      "category": "route",
+      "description": "A scream reaches Snape’s office from above. Harry follows him toward the stone steps up from the dungeons and emerges into the Entrance Hall, crowded with pupils from dinner in the Great Hall and on the marble staircase.",
+      "evidence": [
+        "B05-C026-P0235",
+        "B05-C026-P0236",
+        "B05-C026-P0238",
+        "B05-C026-P0239",
+        "B05-C026-P0240",
+        "B05-C026-P0241"
+      ],
+      "certainty": "explicit",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Confirms office below Entrance Hall acoustically and by travel; floor count unspecified."
+    },
+    {
+      "id": "B05-187",
+      "location": "Trelawney dismissal scene",
+      "category": "temporary",
+      "description": "Trelawney stands with two large trunks and a sherry bottle in a spectator ring in the Entrance Hall, then sits on a trunk. Umbridge stands near the stair foot. Staff lead Trelawney up the marble stairs and levitate her trunks after her.",
+      "evidence": [
+        "B05-C026-P0242",
+        "B05-C026-P0244",
+        "B05-C026-P0246",
+        "B05-C026-P0247",
+        "B05-C026-P0248",
+        "B05-C026-P0258",
+        "B05-C026-P0259",
+        "B05-C026-P0260"
+      ],
+      "certainty": "explicit",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "One trunk looks thrown downstairs to Harry, an impression rather than a witnessed fall; no structural damage."
+    },
+    {
+      "id": "B05-188",
+      "location": "Misty front doorway and Firenze arrival",
+      "category": "route",
+      "description": "Dumbledore opens the oak front doors from the grounds and leaves them wide as mist enters. Firenze’s palomino horse body passes through the doors while spectators clear a path.",
+      "evidence": [
+        "B05-C026-P0251",
+        "B05-C026-P0266",
+        "B05-C026-P0267",
+        "B05-C026-P0268"
+      ],
+      "certainty": "explicit",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Observed centaur clearance through the front entrance; no metric door width."
+    },
+    {
+      "id": "B05-189",
+      "location": "Divination accommodation after dismissal",
+      "category": "history",
+      "description": "Dumbledore insists Trelawney may continue living at Hogwarts after losing her post; he says the new teacher will prefer ground-floor lodgings.",
+      "evidence": [
+        "B05-C026-P0245",
+        "B05-C026-P0253",
+        "B05-C026-P0256",
+        "B05-C026-P0262",
+        "B05-C026-P0263"
+      ],
+      "certainty": "reported",
+      "temporal": "February–early March 1996, Quibbler publication and Trelawney dismissal",
+      "model_notes": "Ground-floor preference announced here; actual classroom and sleeping arrangements await later evidence."
+    },
+    {
+      "id": "B05-190",
+      "location": "Trelawney office after dismissal",
+      "category": "history",
+      "description": "Lavender reports visiting Trelawney’s office upstairs with daffodils; she distinguishes these flowers from Sprout’s honking daffodils.",
+      "evidence": [
+        "B05-C027-P0008",
+        "B05-C027-P0009",
+        "B05-C027-P0010"
+      ],
+      "certainty": "reported",
+      "temporal": "March–early April 1996, new Divination class and DA discovery",
+      "model_notes": "Reported continued room access; do not put the honking flowers in Trelawney’s office."
+    },
+    {
+      "id": "B05-191",
+      "location": "Classroom eleven approach",
+      "category": "route",
+      "description": "From breakfast pupils enter the Entrance Hall, bypass the marble stairs and follow a ground-floor corridor on the side opposite the Great Hall to classroom eleven, a formerly irregularly used, neglected classroom.",
+      "evidence": [
+        "B05-C027-P0014",
+        "B05-C027-P0015",
+        "B05-C027-P0017",
+        "B05-C027-P0018"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–early April 1996, new Divination class and DA discovery",
+      "model_notes": "Direct side-of-hall relation explicit; no compass direction."
+    },
+    {
+      "id": "B05-192",
+      "location": "Classroom eleven forest transformation",
+      "category": "magic",
+      "description": "The classroom has become a forest clearing: springy moss and earth underfoot, trees growing from the floor with leafy branches over ceiling and windows, soft green dappled light, boulders, tree trunks and a stump for seating. A wastepaper basket remains by the stump.",
+      "evidence": [
+        "B05-C027-P0018",
+        "B05-C027-P0020",
+        "B05-C027-P0024",
+        "B05-C027-P0025",
+        "B05-C027-P0026"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–early April 1996, new Divination class and DA discovery",
+      "model_notes": "Firenze credits Dumbledore with imitating his habitat; this is an indoor enchanted room, not the actual Forest."
+    },
+    {
+      "id": "B05-193",
+      "location": "Firenze classroom changing sky",
+      "category": "magic",
+      "description": "A hand gesture dims the classroom to twilight and produces stars overhead, including red Mars. Pupils lie on the floor, then burn sage and mallowsweet there, observing pungent fumes before extinguishing their fires.",
+      "evidence": [
+        "B05-C027-P0038",
+        "B05-C027-P0039",
+        "B05-C027-P0040",
+        "B05-C027-P0041",
+        "B05-C027-P0045",
+        "B05-C027-P0049",
+        "B05-C027-P0050",
+        "B05-C027-P0051",
+        "B05-C027-P0052",
+        "B05-C027-P0053"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–early April 1996, new Divination class and DA discovery",
+      "model_notes": "Lesson-specific light and fire state; ceiling display is not a physically open sky."
+    },
+    {
+      "id": "B05-194",
+      "location": "Classroom eleven bell and door",
+      "category": "furnishing",
+      "description": "A bell rings directly outside the classroom door; Firenze asks Ron to close that door for private conversation.",
+      "evidence": [
+        "B05-C027-P0054",
+        "B05-C027-P0055",
+        "B05-C027-P0056",
+        "B05-C027-P0057",
+        "B05-C027-P0058"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–early April 1996, new Divination class and DA discovery",
+      "model_notes": "Specific external bell position and closable door."
+    },
+    {
+      "id": "B05-195",
+      "location": "Firenze Forest exclusion",
+      "category": "grounds",
+      "description": "Firenze says the Forest was his home until his herd banished him for working for Dumbledore; he cannot return and warns that even going too near could provoke a centaur battle.",
+      "evidence": [
+        "B05-C027-P0026",
+        "B05-C027-P0028",
+        "B05-C027-P0034",
+        "B05-C027-P0035",
+        "B05-C027-P0036",
+        "B05-C027-P0037",
+        "B05-C027-P0061",
+        "B05-C027-P0063",
+        "B05-C027-P0066"
+      ],
+      "certainty": "reported",
+      "temporal": "March–early April 1996, new Divination class and DA discovery",
+      "model_notes": "Reported territorial/social exclusion, not an invisible magical wall. Harry recalls an earlier rescue ride."
+    },
+    {
+      "id": "B05-196",
+      "location": "Hagrid cabin Knarl supplies",
+      "category": "temporary",
+      "description": "After a creature lesson Harry doubles back to Hagrid, who drops a basin of Knarl droppings onto his floor and mops them up as Harry returns uphill to the castle.",
+      "evidence": [
+        "B05-C027-P0069",
+        "B05-C027-P0070",
+        "B05-C027-P0071",
+        "B05-C027-P0072",
+        "B05-C027-P0073"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–early April 1996, new Divination class and DA discovery",
+      "model_notes": "Basin and cleaning mess; exact room is implied by cabin context, not newly named."
+    },
+    {
+      "id": "B05-197",
+      "location": "Spring DA Patronus lesson",
+      "category": "temporary",
+      "description": "In a brightly lit Room of Requirement, silver swan and otter Patronuses move among pupils; their disappearance noticeably darkens the room. Dobby enters through the door and bounces off a stone wall while trying to punish himself.",
+      "evidence": [
+        "B05-C027-P0075",
+        "B05-C027-P0076",
+        "B05-C027-P0077",
+        "B05-C027-P0078",
+        "B05-C027-P0079",
+        "B05-C027-P0080",
+        "B05-C027-P0083",
+        "B05-C027-P0084",
+        "B05-C027-P0086",
+        "B05-C027-P0088",
+        "B05-C027-P0089",
+        "B05-C027-P0090"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–early April 1996, new Divination class and DA discovery",
+      "model_notes": "No Boggart is actually supplied: Harry only proposes needing one."
+    },
+    {
+      "id": "B05-198",
+      "location": "Room of Requirement evacuation bottleneck",
+      "category": "route",
+      "description": "Pupils rush into a scrum at the exit, forming a queue and spilling into both ends of the corridor. At ten to nine Harry considers the library and Owlery nearer refuges than dormitories; he orders Dobby back down to the kitchen.",
+      "evidence": [
+        "B05-C027-P0104",
+        "B05-C027-P0105",
+        "B05-C027-P0106",
+        "B05-C027-P0107",
+        "B05-C027-P0108",
+        "B05-C027-P0109"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–early April 1996, new Divination class and DA discovery",
+      "model_notes": "Harry’s relative-distance assessment is contextual, not a measured path-length table."
+    },
+    {
+      "id": "B05-199",
+      "location": "Seventh-floor bathroom and dragon-vase niche",
+      "category": "route",
+      "description": "Harry turns right from the Room of Requirement toward a boys’ bathroom ahead. A Trip Jinx makes him skid six feet; Malfoy hides behind him in a niche beneath an ugly dragon-shaped vase, and Umbridge approaches round the far corner.",
+      "evidence": [
+        "B05-C027-P0109",
+        "B05-C027-P0110",
+        "B05-C027-P0111",
+        "B05-C027-P0112",
+        "B05-C027-P0113",
+        "B05-C027-P0114",
+        "B05-C027-P0115",
+        "B05-C027-P0116"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–early April 1996, new Divination class and DA discovery",
+      "model_notes": "Do not assume this vase is the same man-sized vase used for the entrance ritual."
+    },
+    {
+      "id": "B05-200",
+      "location": "Captured pupil to Headmaster",
+      "category": "route",
+      "description": "Within minutes Umbridge brings Harry to the gargoyle, uses Fizzing Whizzbee and ascends the moving stone stairs through the splitting wall to the polished door with griffin knocker.",
+      "evidence": [
+        "B05-C027-P0116",
+        "B05-C027-P0117",
+        "B05-C027-P0118",
+        "B05-C027-P0121"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–early April 1996, new Divination class and DA discovery",
+      "model_notes": "Umbridge claims he headed to Gryffindor; actual narration says he sought a bathroom, so preserve observed route."
+    },
+    {
+      "id": "B05-201",
+      "location": "Headmaster office hearing layout",
+      "category": "interior",
+      "description": "Dumbledore is behind his desk with McGonagall beside him; Fudge stands by the fire, two Aurors flank the door, and Percy waits at a wall. Portraits watch and move into adjacent frames; Fortescue’s portrait is on the wall behind the desk.",
+      "evidence": [
+        "B05-C027-P0119",
+        "B05-C027-P0120",
+        "B05-C027-P0133",
+        "B05-C027-P0144",
+        "B05-C027-P0147",
+        "B05-C027-P0159",
+        "B05-C027-P0160",
+        "B05-C027-P0207",
+        "B05-C027-P0208"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–early April 1996, new Divination class and DA discovery",
+      "model_notes": "Confirms office fireplace, carpet and portrait position. Fudge twice nearly backs into the flames; incident arrangement is temporary."
+    },
+    {
+      "id": "B05-202",
+      "location": "Umbridge office mirror and Floo surveillance",
+      "category": "history",
+      "description": "Umbridge reports Marietta seeing her own hexed face in the office mirror. She says Madam Edgecombe of the Floo Network office has helped police Hogwarts fires.",
+      "evidence": [
+        "B05-C027-P0145",
+        "B05-C027-P0150"
+      ],
+      "certainty": "reported",
+      "temporal": "March–early April 1996, new Divination class and DA discovery",
+      "model_notes": "Reported mirror fixture and surveillance mechanism; not all fires are necessarily physically sealed."
+    },
+    {
+      "id": "B05-203",
+      "location": "DA evidence removed",
+      "category": "history",
+      "description": "Umbridge reports Pansy entering the seventh-floor Room of Requirement after the escape and retrieving the signed list from its wall; she produces it in the Headmaster’s office.",
+      "evidence": [
+        "B05-C027-P0195",
+        "B05-C027-P0196",
+        "B05-C027-P0197",
+        "B05-C027-P0200",
+        "B05-C027-P0201"
+      ],
+      "certainty": "reported",
+      "temporal": "March–early April 1996, new Divination class and DA discovery",
+      "model_notes": "List removal is reported and object presented; hostile entry did not automatically erase the room’s contents."
+    },
+    {
+      "id": "B05-204",
+      "location": "Headmaster office fight damage",
+      "category": "temporary",
+      "description": "Silver flashes and gunshot-like bangs shake the floor and fill the office with dust. The desk overturns, all spindly tables fall and silver instruments break; glass shatters. Four officials lie on the floor while Fawkes circles above.",
+      "evidence": [
+        "B05-C027-P0240",
+        "B05-C027-P0241",
+        "B05-C027-P0242",
+        "B05-C027-P0243",
+        "B05-C027-P0244",
+        "B05-C027-P0245",
+        "B05-C027-P0246",
+        "B05-C027-P0247",
+        "B05-C027-P0264"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–early April 1996, new Divination class and DA discovery",
+      "model_notes": "Record damaged state; no repair occurs within this chapter."
+    },
+    {
+      "id": "B05-205",
+      "location": "Phoenix-assisted departure and Apparition rule",
+      "category": "magic",
+      "description": "Dumbledore grasps Fawkes’s long tail; both vanish in a flash of fire. Umbridge says he cannot have Disapparated from inside school; officials instead search down the office stairs.",
+      "evidence": [
+        "B05-C027-P0253",
+        "B05-C027-P0254",
+        "B05-C027-P0256",
+        "B05-C027-P0257",
+        "B05-C027-P0258",
+        "B05-C027-P0259",
+        "B05-C027-P0260",
+        "B05-C027-P0261",
+        "B05-C027-P0266"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–early April 1996, new Divination class and DA discovery",
+      "model_notes": "Observed phoenix departure is separate from prohibited ordinary Disapparition. Destination not shown."
+    },
+    {
+      "id": "B05-206",
+      "location": "Headmistress notices",
+      "category": "temporary",
+      "description": "Decree Twenty-eight notices naming Umbridge Headmistress go up throughout the school overnight.",
+      "evidence": [
+        "B05-C028-P0001",
+        "B05-C028-P0002",
+        "B05-C028-P0003",
+        "B05-C028-P0004",
+        "B05-C028-P0005"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Administrative/visual state following Dumbledore’s departure."
+    },
+    {
+      "id": "B05-207",
+      "location": "Headmaster office sealed against Umbridge",
+      "category": "magic",
+      "description": "Ernie relays the Fat Friar’s report that Umbridge could not pass the gargoyle after searching the castle and grounds: the office sealed itself against her.",
+      "evidence": [
+        "B05-C028-P0006"
+      ],
+      "certainty": "reported",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Secondhand report, not Harry’s direct test; no new locking mechanism invented."
+    },
+    {
+      "id": "B05-208",
+      "location": "Entrance Hall House hourglasses",
+      "category": "furnishing",
+      "description": "Giant House-point hourglasses occupy wall niches in an Entrance Hall corner. Gems rise from the lower bulbs as points are deducted; Slytherin’s contains emeralds. The marble staircase reaches the same hall.",
+      "evidence": [
+        "B05-C028-P0007",
+        "B05-C028-P0009",
+        "B05-C028-P0019",
+        "B05-C028-P0021",
+        "B05-C028-P0022",
+        "B05-C028-P0134"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Specific gem only given for Slytherin here; Gryffindor is later nearly empty."
+    },
+    {
+      "id": "B05-209",
+      "location": "First-floor Vanishing Cabinet incident",
+      "category": "magic",
+      "description": "Fred and George say they forced Montague headfirst into a Vanishing Cabinet on the first floor and do not know where he went. Later Malfoy reports him jammed in a fourth-floor toilet, confused.",
+      "evidence": [
+        "B05-C028-P0023",
+        "B05-C028-P0025",
+        "B05-C028-P0028",
+        "B05-C028-P0165",
+        "B05-C028-P0166",
+        "B05-C028-P0167"
+      ],
+      "certainty": "reported",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Both incident accounts are reported. Do not infer an ordinary passage linking those floors."
+    },
+    {
+      "id": "B05-210",
+      "location": "Entrance Hall to Umbridge office",
+      "category": "route",
+      "description": "Filch takes Harry from the Entrance Hall up the marble staircase past its first landing to Umbridge’s office.",
+      "evidence": [
+        "B05-C028-P0049",
+        "B05-C028-P0050",
+        "B05-C028-P0052",
+        "B05-C028-P0054"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Third-floor location established elsewhere; this journey omits intervening details."
+    },
+    {
+      "id": "B05-211",
+      "location": "Umbridge office Headmistress state",
+      "category": "furnishing",
+      "description": "A large wooden HEADMISTRESS block with gold letters lies across the desk front. Harry’s Firebolt and the twins’ Cleansweeps are chained and padlocked to a stout iron wall peg behind the desk; kitten plates animate overhead.",
+      "evidence": [
+        "B05-C028-P0055",
+        "B05-C028-P0056",
+        "B05-C028-P0059",
+        "B05-C028-P0070"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Confiscated storage is now directly observed."
+    },
+    {
+      "id": "B05-212",
+      "location": "Office drinks and vase",
+      "category": "temporary",
+      "description": "Umbridge conjures drinks onto her desk and gives Harry tea in a cup and saucer. During the distraction he empties it into a nearby vase of dried flowers.",
+      "evidence": [
+        "B05-C028-P0063",
+        "B05-C028-P0067",
+        "B05-C028-P0068",
+        "B05-C028-P0073",
+        "B05-C028-P0080",
+        "B05-C028-P0087",
+        "B05-C028-P0089"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Tea contamination not established here; cup does not prove a permanent refreshment station."
+    },
+    {
+      "id": "B05-213",
+      "location": "School communication surveillance claim",
+      "category": "magic",
+      "description": "Umbridge says every Hogwarts fire except her own is watched by a Floo Network Regulator, the Squad reads all owl post and Filch monitors all secret routes into and out of the castle.",
+      "evidence": [
+        "B05-C028-P0082",
+        "B05-C028-P0085"
+      ],
+      "certainty": "reported",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Reported surveillance scope and explicit office-fire exception; does not mean every passage is physically closed."
+    },
+    {
+      "id": "B05-214",
+      "location": "Fireworks outbreak and route to second floor",
+      "category": "temporary",
+      "description": "One floor below Umbridge’s office, fireworks fill corridors with green-and-gold dragons, five-foot pink Catherine wheels, silver-tailed rockets, airborne written words and firecrackers. A wheel exits a stair window across the grounds; dragons and a purple bat use an open corridor-end door toward the second floor.",
+      "evidence": [
+        "B05-C028-P0087",
+        "B05-C028-P0089",
+        "B05-C028-P0090",
+        "B05-C028-P0091",
+        "B05-C028-P0092",
+        "B05-C028-P0093",
+        "B05-C028-P0094"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Narration says one floor down, then movement toward second floor; preserve both without forcing a geometrically consistent floor grid."
+    },
+    {
+      "id": "B05-215",
+      "location": "Fireworks painting damage and cupboard",
+      "category": "temporary",
+      "description": "A Stunned rocket explodes and blasts a hole in a painting of a witch in a meadow; she escapes into the adjacent card-playing wizards’ painting. Filch takes a broom from a nearby cupboard and its head catches fire.",
+      "evidence": [
+        "B05-C028-P0095",
+        "B05-C028-P0096",
+        "B05-C028-P0097"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Specific local damage and neighbouring frames; no restoration shown."
+    },
+    {
+      "id": "B05-216",
+      "location": "Tapestry-hidden corridor door",
+      "category": "route",
+      "description": "Harry ducks through a door concealed behind a tapestry a short way along the fireworks corridor, finding the twins just behind it.",
+      "evidence": [
+        "B05-C028-P0098",
+        "B05-C028-P0099",
+        "B05-C028-P0100"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Unnamed hidden opening; no destination beyond this refuge supplied."
+    },
+    {
+      "id": "B05-217",
+      "location": "Fireworks magical persistence",
+      "category": "magic",
+      "description": "Fireworks continue spreading into classrooms all afternoon; George says Vanishing them multiplies them tenfold. Escaped rockets pass Gryffindor windows at night; a Catherine-wheel/rocket collision produces flying pink-and-silver piglets.",
+      "evidence": [
+        "B05-C028-P0100",
+        "B05-C028-P0101",
+        "B05-C028-P0102",
+        "B05-C028-P0103",
+        "B05-C028-P0104",
+        "B05-C028-P0105",
+        "B05-C028-P0111",
+        "B05-C028-P0114",
+        "B05-C028-P0115",
+        "B05-C028-P0116",
+        "B05-C028-P0126",
+        "B05-C028-P0127",
+        "B05-C028-P0129"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Multiplication is reported; persistence, outdoor flights and hybrid display observed. Lower Gryffindor dormitories are audible beneath Harry’s."
+    },
+    {
+      "id": "B05-218",
+      "location": "Pensieve light in Snape’s office",
+      "category": "temporary",
+      "description": "After the interrupted lesson the Pensieve stands on Snape’s desk, casting rippling silvery light onto the wall and doorframe. Harry views the Hall memory through its transparent contents, then enters it.",
+      "evidence": [
+        "B05-C028-P0149",
+        "B05-C028-P0151",
+        "B05-C028-P0155",
+        "B05-C028-P0157",
+        "B05-C028-P0168",
+        "B05-C028-P0169",
+        "B05-C028-P0171",
+        "B05-C028-P0172",
+        "B05-C028-P0174",
+        "B05-C028-P0176",
+        "B05-C028-P0177",
+        "B05-C028-P0179"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Memory-space access is magical, not a physical opening in the desk or school floor."
+    },
+    {
+      "id": "B05-219",
+      "location": "Historical Great Hall examination layout",
+      "category": "history",
+      "description": "In Snape’s O.W.L. memory the four House tables are absent, replaced by over a hundred small tables facing one direction, with aisles for invigilation. Sunlight enters through high windows.",
+      "evidence": [
+        "B05-C028-P0181",
+        "B05-C028-P0182",
+        "B05-C028-P0183",
+        "B05-C028-P0186",
+        "B05-C028-P0187",
+        "B05-C028-P0190",
+        "B05-C028-P0191",
+        "B05-C028-P0193",
+        "B05-C028-P0194",
+        "B05-C028-P0197"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Narrated Pensieve observation of past layout, not present-day furniture."
+    },
+    {
+      "id": "B05-220",
+      "location": "Historical Hall-to-lakeshore route",
+      "category": "history",
+      "description": "The exam crowd leaves through doors into the Entrance Hall and front doors to sunlit grounds, then walks down the lawn toward the lake.",
+      "evidence": [
+        "B05-C028-P0197",
+        "B05-C028-P0198",
+        "B05-C028-P0199",
+        "B05-C028-P0202",
+        "B05-C028-P0207"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Travel shown in Snape’s memory; no invented date beyond his O.W.L. year."
+    },
+    {
+      "id": "B05-221",
+      "location": "Historical lakeshore beech and bushes",
+      "category": "history",
+      "description": "James’s group sits on grass beneath the same lakeside beech used by Harry’s group in autumn. Nearby dense bushes shade Snape; girls sit on the bank with bare feet in the smooth sunlit water. Open grass between them accommodates the confrontation.",
+      "evidence": [
+        "B05-C028-P0211",
+        "B05-C028-P0212",
+        "B05-C028-P0213",
+        "B05-C028-P0224",
+        "B05-C028-P0227",
+        "B05-C028-P0228",
+        "B05-C028-P0229",
+        "B05-C028-P0230",
+        "B05-C028-P0231",
+        "B05-C028-P0237",
+        "B05-C028-P0242",
+        "B05-C028-P0253",
+        "B05-C028-P0256",
+        "B05-C028-P0269",
+        "B05-C028-P0275"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Explicit cross-time identity of beech. Short wand-flight distances are action positions, not a fixed site plan."
+    },
+    {
+      "id": "B05-222",
+      "location": "Snape study stone floor and jar damage",
+      "category": "temporary",
+      "description": "Harry returns from the Pensieve to the study’s stone floor. Snape throws him down; a jar of dead cockroaches explodes over his head as he exits. Harry flees along the corridor and climbs until three floors separate them.",
+      "evidence": [
+        "B05-C028-P0277",
+        "B05-C028-P0279",
+        "B05-C028-P0285",
+        "B05-C028-P0287",
+        "B05-C028-P0288",
+        "B05-C028-P0289",
+        "B05-C028-P0290"
+      ],
+      "certainty": "explicit",
+      "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
+      "model_notes": "Local breakage and flight; stopping floor is not named and no repair is shown."
+    },
+    {
+      "id": "B05-223",
+      "location": "Easter grounds weather",
+      "category": "temporary",
+      "description": "Easter grows brighter, breezier and warmer while exam years remain inside studying.",
+      "evidence": [
+        "B05-C029-P0031",
+        "B05-C029-P0034",
+        "B05-C029-P0096",
+        "B05-C029-P0270"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Seasonal transition; not a claimed lake temperature."
+    },
+    {
+      "id": "B05-224",
+      "location": "Library loans and food prohibition",
+      "category": "magic",
+      "description": "Pince stamps books several shelves away from the table. Discovering Harry and Ginny eating chocolate, she enchants his books, bag and ink bottle to chase and strike them out of the library.",
+      "evidence": [
+        "B05-C029-P0034",
+        "B05-C029-P0039",
+        "B05-C029-P0041",
+        "B05-C029-P0048",
+        "B05-C029-P0050",
+        "B05-C029-P0055",
+        "B05-C029-P0057",
+        "B05-C029-P0058",
+        "B05-C029-P0059"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Observed enforcement enchantment; no permanent self-attacking furniture."
+    },
+    {
+      "id": "B05-225",
+      "location": "Gryffindor careers displays",
+      "category": "temporary",
+      "description": "Careers pamphlets and leaflets appear on common-room tables, and the noticeboard lists fifth-year appointments with the Head of House.",
+      "evidence": [
+        "B05-C029-P0061",
+        "B05-C029-P0062",
+        "B05-C029-P0063",
+        "B05-C029-P0064",
+        "B05-C029-P0065",
+        "B05-C029-P0066",
+        "B05-C029-P0067",
+        "B05-C029-P0068",
+        "B05-C029-P0069",
+        "B05-C029-P0070",
+        "B05-C029-P0081"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Holiday-to-summer-term information state."
+    },
+    {
+      "id": "B05-226",
+      "location": "East-wing diversion plan",
+      "category": "route",
+      "description": "The twins plan a five-o’clock diversion in the east wing, in Gregory the Smarmy’s corridor, intending to draw Umbridge away from her office.",
+      "evidence": [
+        "B05-C029-P0073",
+        "B05-C029-P0076",
+        "B05-C029-P0078",
+        "B05-C029-P0079",
+        "B05-C029-P0085",
+        "B05-C029-P0087",
+        "B05-C029-P0090",
+        "B05-C029-P0091",
+        "B05-C029-P0092",
+        "B05-C029-P0093"
+      ],
+      "certainty": "reported",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Planned location, later swamp corroborates east-wing area. Do not place Umbridge’s office in a particular opposite wing."
+    },
+    {
+      "id": "B05-227",
+      "location": "Neville bedside window panorama",
+      "category": "exterior",
+      "description": "From the window beside Neville’s bed Harry looks directly toward the towering lakeside beech. He also sees Hagrid emerge limping from the Forest edge, enter his cabin and send smoke from its chimney.",
+      "evidence": [
+        "B05-C029-P0096",
+        "B05-C029-P0097",
+        "B05-C029-P0098"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Critical dormitory-to-beech, Forest and cabin sightlines; no azimuths or exact distances."
+    },
+    {
+      "id": "B05-228",
+      "location": "Potions flask breakage",
+      "category": "temporary",
+      "description": "Harry places an Invigoration Draught sample at Snape’s desk; it is smashed on the floor after he turns away. Hermione has already emptied his remaining cauldron.",
+      "evidence": [
+        "B05-C029-P0103",
+        "B05-C029-P0104",
+        "B05-C029-P0105",
+        "B05-C029-P0106",
+        "B05-C029-P0107",
+        "B05-C029-P0108",
+        "B05-C029-P0109"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Observed broken sample, cause not directly witnessed; no structural damage."
+    },
+    {
+      "id": "B05-229",
+      "location": "McGonagall office above new Divination",
+      "category": "route",
+      "description": "Harry leaves Divination and hurries back upstairs for careers advice in McGonagall’s office. Her desk is covered in pamphlets; Umbridge sits in a corner behind Harry, and their argument remains audible along the corridor as he leaves.",
+      "evidence": [
+        "B05-C029-P0064",
+        "B05-C029-P0110",
+        "B05-C029-P0111",
+        "B05-C029-P0112",
+        "B05-C029-P0113",
+        "B05-C029-P0114",
+        "B05-C029-P0115",
+        "B05-C029-P0121",
+        "B05-C029-P0135",
+        "B05-C029-P0143",
+        "B05-C029-P0161"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Ground-floor Divination now in classroom eleven; no numerical office floor derived."
+    },
+    {
+      "id": "B05-230",
+      "location": "Defence to office diversion route",
+      "category": "route",
+      "description": "After Defence Harry hears uproar above; Umbridge runs in the opposite direction toward the east wing. In the deserted corridor to her office he hides behind a large suit of armour whose helmet turns to watch him.",
+      "evidence": [
+        "B05-C029-P0175",
+        "B05-C029-P0176",
+        "B05-C029-P0177",
+        "B05-C029-P0178",
+        "B05-C029-P0179"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Animated armour and usable hiding space; not an exact distance or floor count."
+    },
+    {
+      "id": "B05-231",
+      "location": "Umbridge office lock and Floo hearth",
+      "category": "magic",
+      "description": "Sirius’s magical knife opens the office door with a click. A small Floo-powder box sits by the empty grate, with stacked logs; powder ignites emerald flames. Harry kneels on a hard stone floor and sends only his head to Grimmauld Place, withdrawing it as the flames die.",
+      "evidence": [
+        "B05-C029-P0179",
+        "B05-C029-P0180",
+        "B05-C029-P0181",
+        "B05-C029-P0182",
+        "B05-C029-P0183",
+        "B05-C029-P0184",
+        "B05-C029-P0185",
+        "B05-C029-P0186",
+        "B05-C029-P0192",
+        "B05-C029-P0237",
+        "B05-C029-P0239",
+        "B05-C029-P0241"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Successful lock bypass observed; immunity to Alohomora was only Harry’s earlier guess."
+    },
+    {
+      "id": "B05-232",
+      "location": "Office desk drawer and stair return",
+      "category": "route",
+      "description": "Filch enters the unlocked office and searches a desk drawer for a form. Harry follows him, removes his Cloak one landing below the office and descends the marble staircase to the Entrance Hall.",
+      "evidence": [
+        "B05-C029-P0242",
+        "B05-C029-P0243",
+        "B05-C029-P0244",
+        "B05-C029-P0245",
+        "B05-C029-P0246",
+        "B05-C029-P0247"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "No assumption the first landing down is the only intermediate floor."
+    },
+    {
+      "id": "B05-233",
+      "location": "Portable Swamp first report",
+      "category": "temporary",
+      "description": "In the Entrance Hall Umbridge accuses the twins of turning a school corridor into a swamp; Fred advertises a Portable Swamp demonstrated upstairs. Some assembled pupils are covered in a Stinksap-like substance.",
+      "evidence": [
+        "B05-C029-P0248",
+        "B05-C029-P0249",
+        "B05-C029-P0250",
+        "B05-C029-P0266"
+      ],
+      "certainty": "reported",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Swamp existence stated by participants; precise extent is described next chapter. Stinksap identity is Harry’s comparison."
+    },
+    {
+      "id": "B05-234",
+      "location": "Broom retrieval and Entrance Hall escape",
+      "category": "temporary",
+      "description": "Summoned brooms rip free with a distant crash and fly along a corridor to Harry’s left, turn left down the stairs and stop by the twins; one trails its heavy chain and iron peg over the flagged floor. They rise fifteen feet in the Hall and fly through open front doors into sunset.",
+      "evidence": [
+        "B05-C029-P0261",
+        "B05-C029-P0262",
+        "B05-C029-P0263",
+        "B05-C029-P0264",
+        "B05-C029-P0268",
+        "B05-C029-P0269",
+        "B05-C029-P0270"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Demonstrates vertical clearance and chained peg removal; Harry’s own broom is not retrieved in this scene."
+    },
+    {
+      "id": "B05-235",
+      "location": "East-wing fifth-floor swamp",
+      "category": "temporary",
+      "description": "The swamp fills a fifth-floor east-wing corridor. After failed removal attempts the area is roped off, and Filch punts pupils across to their classrooms.",
+      "evidence": [
+        "B05-C030-P0002"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Essential temporary route obstruction and boat transport; teachers’ ability to remove it is Harry’s belief, not a demonstrated limitation."
+    },
+    {
+      "id": "B05-236",
+      "location": "Umbridge door replaced and broom moved",
+      "category": "temporary",
+      "description": "Two broom-shaped holes remain in Umbridge’s office door until Filch replaces it. He moves Harry’s Firebolt to the dungeons; an armed security troll guarding it is rumoured.",
+      "evidence": [
+        "B05-C030-P0003"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Door replacement and broom relocation narrated; troll specifically unconfirmed."
+    },
+    {
+      "id": "B05-237",
+      "location": "Office Niffler and corridor air",
+      "category": "temporary",
+      "description": "A Niffler tears Umbridge’s office apart seeking shiny objects and tries biting her rings. Frequent Dungbombs and Stink Pellets prompt pupils to wear Bubble-Head Charms for fresh air in corridors.",
+      "evidence": [
+        "B05-C030-P0004",
+        "B05-C030-P0005",
+        "B05-C030-P0006"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Damage extent unspecified; do not model permanent poisonous corridors."
+    },
+    {
+      "id": "B05-238",
+      "location": "Peeves school damage",
+      "category": "temporary",
+      "description": "Peeves overturns tables, bursts through blackboards, topples statues and vases, smashes lanterns, extinguishes candles, juggles burning torches, throws papers into fires or out of windows, traps Mrs Norris twice inside armour, and drops tarantulas into the Great Hall at breakfast.",
+      "evidence": [
+        "B05-C030-P0007"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Series of narrated local incidents; not evidence every object of these classes is destroyed."
+    },
+    {
+      "id": "B05-239",
+      "location": "Second-floor bathroom flood and chandelier",
+      "category": "temporary",
+      "description": "Peeves pulls all taps from the second-floor bathrooms and floods that floor. A week after the twins leave Harry sees him loosening a crystal chandelier.",
+      "evidence": [
+        "B05-C030-P0007",
+        "B05-C030-P0008"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Bathroom floor explicit; chandelier floor unspecified, and complete fall not narrated."
+    },
+    {
+      "id": "B05-240",
+      "location": "Charms view of front drive",
+      "category": "exterior",
+      "description": "From the Charms classroom window Hermione watches Montague’s parents stride up the front drive and enter the castle.",
+      "evidence": [
+        "B05-C030-P0009",
+        "B05-C030-P0010"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Classroom-to-drive/front-entry sightline, no orientation or floor."
+    },
+    {
+      "id": "B05-241",
+      "location": "Charms animated cups",
+      "category": "temporary",
+      "description": "Pupils animate teacups on desks with legs, including willow-pattern legs; one cup breaks and is repaired, another walks over the desk edge and smashes on the floor.",
+      "evidence": [
+        "B05-C030-P0013",
+        "B05-C030-P0014",
+        "B05-C030-P0015",
+        "B05-C030-P0016",
+        "B05-C030-P0021",
+        "B05-C030-P0022",
+        "B05-C030-P0026"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Lesson props and local breakage, not persistent moving furniture."
+    },
+    {
+      "id": "B05-242",
+      "location": "Stadium tiers and cabin route",
+      "category": "route",
+      "description": "Harry and Hermione sit in the second-highest row; Hagrid reaches them along the row behind, then they edge along their seats to stairs down to the lawn. From the stand edge he checks the lawn to his cabin, and they cross it toward the Forest.",
+      "evidence": [
+        "B05-C030-P0055",
+        "B05-C030-P0059",
+        "B05-C030-P0060",
+        "B05-C030-P0063",
+        "B05-C030-P0067",
+        "B05-C030-P0073",
+        "B05-C030-P0074",
+        "B05-C030-P0075",
+        "B05-C030-P0076",
+        "B05-C030-P0077",
+        "B05-C030-P0081"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Hagrid uses crowded spectator circulation; no width measurement."
+    },
+    {
+      "id": "B05-243",
+      "location": "Cabin-front Forest entry",
+      "category": "route",
+      "description": "At the cabin Hermione turns left toward its front door; Hagrid continues straight to the outermost trees and picks up a crossbow leaning against a tree before entering the Forest.",
+      "evidence": [
+        "B05-C030-P0081",
+        "B05-C030-P0082",
+        "B05-C030-P0083",
+        "B05-C030-P0084",
+        "B05-C030-P0085",
+        "B05-C030-P0088",
+        "B05-C030-P0089"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Left is relative to this stadium approach; weapon is a temporary stored prop."
+    },
+    {
+      "id": "B05-244",
+      "location": "Deep Forest route beyond Thestrals",
+      "category": "route",
+      "description": "They follow an increasingly overgrown path through protruding roots, low branches and dense dusk-like shade, passing far beyond the Thestral clearing. Hagrid then leaves the path toward the Forest heart through knotted brambles and thorn thickets that delay the pupils.",
+      "evidence": [
+        "B05-C030-P0093",
+        "B05-C030-P0096",
+        "B05-C030-P0103",
+        "B05-C030-P0104",
+        "B05-C030-P0105",
+        "B05-C030-P0106",
+        "B05-C030-P0107",
+        "B05-C030-P0108",
+        "B05-C030-P0109",
+        "B05-C030-P0110",
+        "B05-C030-P0112"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "No creatures encountered initially; cause only later inferred by Harry."
+    },
+    {
+      "id": "B05-245",
+      "location": "Approach to Grawp clearing",
+      "category": "route",
+      "description": "After a pause they continue another fifteen minutes past nettles and arrive behind a barricade of uprooted trunks and branches on a bare patch of ground.",
+      "evidence": [
+        "B05-C030-P0124",
+        "B05-C030-P0126",
+        "B05-C030-P0127",
+        "B05-C030-P0128",
+        "B05-C030-P0129",
+        "B05-C030-P0130"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Fifteen minutes starts after the conversation pause, not at the original Forest edge."
+    },
+    {
+      "id": "B05-246",
+      "location": "Grawp’s damaged Forest clearing",
+      "category": "grounds",
+      "description": "Grawp sleeps curled on bare earth amid uprooted trees. His curved back initially resembles a mound nearly Hagrid’s height and his head a mossy boulder to its left. The surrounding trunks and boughs form a fence-like barrier.",
+      "evidence": [
+        "B05-C030-P0130",
+        "B05-C030-P0131",
+        "B05-C030-P0132",
+        "B05-C030-P0137",
+        "B05-C030-P0158",
+        "B05-C030-P0170",
+        "B05-C030-P0179"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Descriptions are initial visual comparisons, not actual earth mound or constructed stone shelter."
+    },
+    {
+      "id": "B05-247",
+      "location": "Grawp size and restraints",
+      "category": "grounds",
+      "description": "Thick ropes like saplings bind Grawp’s wrists and ankles to the largest nearby tree trunks. He is at least sixteen feet tall, with sledge-sized bare feet, a huge round head, animal-skin smock and umbrella-sized hands; the anchor trees creak when he stands.",
+      "evidence": [
+        "B05-C030-P0151",
+        "B05-C030-P0160",
+        "B05-C030-P0161",
+        "B05-C030-P0162",
+        "B05-C030-P0163",
+        "B05-C030-P0170",
+        "B05-C030-P0180",
+        "B05-C030-P0182",
+        "B05-C030-P0184"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Initial height reported by Hagrid and subsequently confirmed by narrator; allow rope tension and reach in the model."
+    },
+    {
+      "id": "B05-248",
+      "location": "Grawp feeding and pine destruction",
+      "category": "temporary",
+      "description": "Hagrid says Grawp feeds himself on birds and deer. Grawp takes a nest from a towering pine, drops its eggs, bends the treetop until the roots crack, and eventually pulls the pine over; pupils hide behind a trunk to avoid his grasp.",
+      "evidence": [
+        "B05-C030-P0169",
+        "B05-C030-P0179",
+        "B05-C030-P0180",
+        "B05-C030-P0184",
+        "B05-C030-P0186",
+        "B05-C030-P0187",
+        "B05-C030-P0188",
+        "B05-C030-P0190",
+        "B05-C030-P0191",
+        "B05-C030-P0197",
+        "B05-C030-P0198",
+        "B05-C030-P0199",
+        "B05-C030-P0201",
+        "B05-C030-P0203",
+        "B05-C030-P0204"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Feeding range reported; nest destruction, tree bending and distant crash narrated. Keep this local damage temporal."
+    },
+    {
+      "id": "B05-249",
+      "location": "Centaur territorial encounter",
+      "category": "grounds",
+      "description": "Returning through thick knotgrass, they encounter Magorian and four or five other armed centaurs. The herd bars Hagrid after his rescue of Firenze, but permits passage because children are present, claiming not to harm foals; it warns about his concealed giant.",
+      "evidence": [
+        "B05-C030-P0205",
+        "B05-C030-P0207",
+        "B05-C030-P0208",
+        "B05-C030-P0209",
+        "B05-C030-P0210",
+        "B05-C030-P0211",
+        "B05-C030-P0213",
+        "B05-C030-P0215",
+        "B05-C030-P0217",
+        "B05-C030-P0219",
+        "B05-C030-P0220",
+        "B05-C030-P0221",
+        "B05-C030-P0222",
+        "B05-C030-P0223",
+        "B05-C030-P0224",
+        "B05-C030-P0225",
+        "B05-C030-P0226",
+        "B05-C030-P0227",
+        "B05-C030-P0229",
+        "B05-C030-P0231",
+        "B05-C030-P0232"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Reported territorial rules alongside observed confrontation; no guaranteed safety for every student encounter."
+    },
+    {
+      "id": "B05-250",
+      "location": "Forest return and stadium sightline",
+      "category": "route",
+      "description": "They skirt the same nettles, rejoin the path and walk another ten minutes until trees thin, sky appears, and the stadium is visible from the Forest shelter. They merge with matchgoers returning uphill to the castle.",
+      "evidence": [
+        "B05-C030-P0231",
+        "B05-C030-P0234",
+        "B05-C030-P0235",
+        "B05-C030-P0236",
+        "B05-C030-P0237",
+        "B05-C030-P0238",
+        "B05-C030-P0242",
+        "B05-C030-P0251",
+        "B05-C030-P0258"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Ten minutes begins after rejoining path; stadium/Forest reciprocal sightline explicit."
+    },
+    {
+      "id": "B05-251",
+      "location": "Front entrance lintel and Forest view",
+      "category": "exterior",
+      "description": "Celebrants carrying Ron bump his head on the castle doorway lintel while squeezing into the Entrance Hall. Harry and Hermione climb the steps and look back from the front doors toward distant Forest treetops, where Harry thinks birds erupt upward.",
+      "evidence": [
+        "B05-C030-P0265",
+        "B05-C030-P0266",
+        "B05-C030-P0269"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1996, post-twins unrest and final Quidditch match",
+      "model_notes": "Lintel impact confirms finite doorway clearance; birds and uprooting explanation remain tentative."
     }
   ],
   "chapter_reviews": [
@@ -69,6 +4175,281 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed. Grimmauld Place interiors and its protective magic are not Hogwarts; the unidentified building plan is not assigned to Hogwarts. School recollections here add no new spatial constraint."
+    },
+    {
+      "chapter": 6,
+      "reviewed_ranges": [
+        [
+          1,
+          226
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Grimmauld Place cleaning, family tapestry and security are outside scope. Imagined weapon storage at Hogwarts and dream cannon-creatures are not validated castle features; the Stone reference adds no physical detail."
+    },
+    {
+      "chapter": 7,
+      "reviewed_ranges": [
+        [
+          1,
+          158
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Ministry rooms and transport are out of scope, but retained the explicit comparison establishing the Snape-approach rough stone walls and torch brackets."
+    },
+    {
+      "chapter": 8,
+      "reviewed_ranges": [
+        [
+          1,
+          156
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Ministry hearing and references to school discipline add no Hogwarts physical or spatial detail; the dungeon here is the Ministry courtroom."
+    },
+    {
+      "chapter": 9,
+      "reviewed_ranges": [
+        [
+          1,
+          320
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph, including Ministry departure, Grimmauld Place, recollections and Boggart scene. Recorded the remembered greenhouse approach; London interiors and photograph are outside the castle model."
+    },
+    {
+      "chapter": 10,
+      "reviewed_ranges": [
+        [
+          1,
+          224
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs, including dream, London departure, train conversation and arrival. Dream corridor is unlocated and not treated as Hogwarts; Neville is uncertain whether the greenhouse has his plant."
+    },
+    {
+      "chapter": 11,
+      "reviewed_ranges": [
+        [
+          1,
+          255
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs, including complete Sorting song, speeches, route and dormitory argument. The song’s four pillars are a metaphor for houses, not four architectural columns."
+    },
+    {
+      "chapter": 12,
+      "reviewed_ranges": [
+        [
+          1,
+          340
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three untruncated chunks, including lessons, full classroom argument and office conversation."
+    },
+    {
+      "chapter": 13,
+      "reviewed_ranges": [
+        [
+          1,
+          290
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph in three chunks, including detentions, conversations, lessons and Keeper trials viewed from the office."
+    },
+    {
+      "chapter": 14,
+      "reviewed_ranges": [
+        [
+          1,
+          291
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three chunks, including full newspaper excerpts, Percy letter and hearth discussion."
+    },
+    {
+      "chapter": 15,
+      "reviewed_ranges": [
+        [
+          1,
+          267
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs including newspaper decree text, inspections and defence-study discussion. Closing corridor dreams remain unlocated; proposed creature syllabus is not an observation of animals present."
+    },
+    {
+      "chapter": 16,
+      "reviewed_ranges": [
+        [
+          1,
+          210
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph, including complete meeting and return to High Street. Remote village shops are used as route landmarks; their unrelated stock displays are not expanded into a separate village model."
+    },
+    {
+      "chapter": 17,
+      "reviewed_ranges": [
+        [
+          1,
+          258
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph, including decree, staircase transformation, owl treatment, inspections and full fireplace discussion."
+    },
+    {
+      "chapter": 18,
+      "reviewed_ranges": [
+        [
+          1,
+          264
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph in three chunks, including dream and Dobby discussion, complete room discovery, lesson and departures. Windowless dream corridor is not assigned to Hogwarts."
+    },
+    {
+      "chapter": 19,
+      "reviewed_ranges": [
+        [
+          1,
+          223
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs, complete game and song, punishment and evening discussion. Captured Snitch and damage states retained; no game dimensions invented."
+    },
+    {
+      "chapter": 20,
+      "reviewed_ranges": [
+        [
+          1,
+          255
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs, including entire giant expedition account. Continental mountain camp and lake are not Hogwarts terrain; retained cabin visit, search, local travel and reported domestic herd."
+    },
+    {
+      "chapter": 21,
+      "reviewed_ranges": [
+        [
+          1,
+          259
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph including full Forest lesson, final preholiday DA lesson, kiss discussion, ordinary dream and snake vision. Dream baubles are not installed room decor; attacked-man corridor is not assigned to school."
+    },
+    {
+      "chapter": 22,
+      "reviewed_ranges": [
+        [
+          1,
+          242
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph in three chunks, including London house, transit, hospital guide and eavesdropping. Remote hospital rooms are not Hogwarts hospital wing; retained its portrait link only."
+    },
+    {
+      "chapter": 23,
+      "reviewed_ranges": [
+        [
+          1,
+          226
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph, including corridor dream, full Christmas house and hospital scenes. Only school Apparition boundary adds Hogwarts constraints; London boiler den, hospital ward and dream passage are not castle rooms."
+    },
+    {
+      "chapter": 24,
+      "reviewed_ranges": [
+        [
+          1,
+          287
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs, including full Grimmauld confrontation, bus ride, lesson and aftermath. Paragraph 227 identifies the repeated dream corridor as the Ministry Department of Mysteries, resolving it outside castle scope."
+    },
+    {
+      "chapter": 25,
+      "reviewed_ranges": [
+        [
+          1,
+          245
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs, both newspaper articles, Valentine date and complete interview setup. Death Eaters in the Shack and future break-in are explicitly rumours, not validated habitation or damage. Village coverage limited to school exit, access/security and meeting route."
+    },
+    {
+      "chapter": 26,
+      "reviewed_ranges": [
+        [
+          1,
+          268
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three chunks, including relationship discussion, both dreams, lesson and complete dismissal scene. Ministry dream rooms and unidentified childhood memories are excluded from castle geometry."
+    },
+    {
+      "chapter": 27,
+      "reviewed_ranges": [
+        [
+          1,
+          267
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph, complete enchanted classroom, warning, evacuation, hearing and office fight. Preserved hostile claims separately from narrated attempted bathroom escape."
+    },
+    {
+      "chapter": 28,
+      "reviewed_ranges": [
+        [
+          1,
+          290
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three chunks, including entire fireworks sequence, Ministry dream, interrupted lesson and complete Pensieve memory. Historical lakeshore and exam layout explicitly dated as past states."
+    },
+    {
+      "chapter": 29,
+      "reviewed_ranges": [
+        [
+          1,
+          270
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph including complete careers advice, Floo conversation and twins departure. Knife bypass distinguished from speculation about anti-Alohomora protection."
+    },
+    {
+      "chapter": 30,
+      "reviewed_ranges": [
+        [
+          1,
+          269
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph in four chunks including complete Forest journey, Grawp reveal and centaur exchange. Folkloric retelling of twins dive-bombing Umbridge is not an observed event; troll guard remains rumour."
     }
   ]
 }
