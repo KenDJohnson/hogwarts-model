@@ -103,11 +103,12 @@
         "B06-C007-P0037",
         "B06-C007-P0038",
         "B06-C007-P0039",
-        "B06-C007-P0040"
+        "B06-C007-P0040",
+        "B06-C013-P0175"
       ],
       "certainty": "explicit",
       "temporal": "1 September 1996",
-      "model_notes": "Off-site approach endpoint; retain the platform access relationship rather than treating King’s Cross as castle geometry."
+      "model_notes": "Off-site approach endpoint; retain the platform access relationship rather than treating King’s Cross as castle geometry. A historical memory also gives young Riddle a train ticket and instructs him to leave King’s Cross on 1 September; it supplies no additional platform geometry."
     },
     {
       "id": "B06-009",
@@ -882,6 +883,47 @@
       "certainty": "explicit",
       "temporal": "Mid-October 1996 Hogsmeade day",
       "model_notes": "Observed password access, swinging portrait, fireplace seating and a dated wet-clothing state; distinguish this entrance from a generic door."
+    },
+    {
+      "id": "B06-062",
+      "location": "Headmaster office Pensieve lighting and display",
+      "category": "magic",
+      "description": "The Pensieve stands on the desk and throws silver flecks of light over the ceiling. Dumbledore can raise a small revolving three-dimensional-looking memory figure above its swirling contents, then shake it back down.",
+      "evidence": [
+        "B06-C013-P0003",
+        "B06-C013-P0025",
+        "B06-C013-P0027"
+      ],
+      "certainty": "explicit",
+      "temporal": "Second private lesson, October 1996",
+      "model_notes": "Magical visual state, distinct from fully entering a memory; figure is memory projection rather than an actual room occupant."
+    },
+    {
+      "id": "B06-063",
+      "location": "Headmaster office Phineas portrait",
+      "category": "furnishing",
+      "description": "Phineas Nigellus Black occupies one of the portraits on the office wall, can speak and rise from an apparent sleeping pose, and walks out of his frame.",
+      "evidence": [
+        "B06-C013-P0008",
+        "B06-C013-P0016"
+      ],
+      "certainty": "explicit",
+      "temporal": "Second private lesson, October 1996",
+      "model_notes": "Narration supposes he is visiting his other portrait at Grimmauld Place; that destination is not visually followed here. Record frame exit as observed and destination as inferred by narration."
+    },
+    {
+      "id": "B06-064",
+      "location": "Headmaster office windows and cleared table",
+      "category": "temporary",
+      "description": "The office has windows through which Dumbledore indicates the dark sky. Marvolo’s ring, displayed on a little table at the previous lesson, is no longer there.",
+      "evidence": [
+        "B06-C013-P0191",
+        "B06-C013-P0198",
+        "B06-C013-P0200"
+      ],
+      "certainty": "explicit",
+      "temporal": "Second private lesson, October 1996",
+      "model_notes": "Dated removal of a loose display object; the table remains. Window size, count and bearing unspecified."
     }
   ],
   "chapter_reviews": [
@@ -1016,6 +1058,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two blocks. Recorded dormitory/weather, outbound and inbound screening, winding village road and limited excursion landmarks, pub/bathroom uncertainty, McGonagall office and vertical routes, and common-room password/fire seating. Necklace is a carried object rather than a permanent installation."
+    },
+    {
+      "chapter": 13,
+      "reviewed_ranges": [
+        [
+          1,
+          203
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph in two blocks, including full orphanage memory and all explanatory dialogue. Recorded office light/projection, named portrait behaviour, windows and removed ring. Historical King’s Cross school travel combined with route evidence; orphanage and seaside cave are not Hogwarts surroundings."
     }
   ]
 }
