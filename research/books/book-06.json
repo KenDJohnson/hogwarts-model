@@ -1747,6 +1747,96 @@
       "certainty": "explicit",
       "temporal": "Night after Hufflepuff match, March 1997",
       "model_notes": "Observed instantaneous elf arrival inside the castle despite human Apparition restrictions. This scene does not explicitly name the travel mechanism or show their origin."
+    },
+    {
+      "id": "B06-118",
+      "location": "Hospital-to-breakfast seventh-floor corridor",
+      "category": "route",
+      "description": "On the route from hospital discharge down to breakfast the group turns into a seventh-floor corridor with a tapestry depicting trolls in tutus. Continuing towards the Great Hall brings them to the foot of the marble staircase.",
+      "evidence": [
+        "B06-C020-P0001",
+        "B06-C020-P0002",
+        "B06-C020-P0024",
+        "B06-C020-P0025",
+        "B06-C020-P0027",
+        "B06-C020-P0028"
+      ],
+      "certainty": "explicit",
+      "temporal": "March 1997",
+      "model_notes": "Route passes seventh floor, but the hospital’s own floor is not explicitly numbered here. Tapestry is a fixed landmark; the girl’s scales are carried, not room furnishings."
+    },
+    {
+      "id": "B06-119",
+      "location": "Headmaster entrance new password and clock",
+      "category": "magic",
+      "description": "Toffee eclairs makes the gargoyle leap aside. Harry climbs the spiral staircase two steps at a time and hears a clock inside the office chime eight. The door is opened from inside; Trelawney descends the same staircase.",
+      "evidence": [
+        "B06-C020-P0030",
+        "B06-C020-P0031",
+        "B06-C020-P0035",
+        "B06-C020-P0036",
+        "B06-C020-P0037"
+      ],
+      "certainty": "explicit",
+      "temporal": "March 1997",
+      "model_notes": "Dated credential and walkable moving-stair route; no measured riser count. Pensieve and memory bottles remain movable desk equipment."
+    },
+    {
+      "id": "B06-120",
+      "location": "Armando Dippet portrait",
+      "category": "furnishing",
+      "description": "Armando Dippet’s portrait hangs above Dumbledore’s head and makes little grunting snores.",
+      "evidence": [
+        "B06-C020-P0051"
+      ],
+      "certainty": "explicit",
+      "temporal": "March 1997",
+      "model_notes": "Named portrait and position above Headmaster, without exact dimensions or wall coordinates."
+    },
+    {
+      "id": "B06-121",
+      "location": "Castle ancient magic",
+      "category": "magic",
+      "description": "Dumbledore describes Hogwarts as a stronghold of ancient magic, suggesting that Voldemort may have wished to uncover further secrets and stores of magic there.",
+      "evidence": [
+        "B06-C020-P0068",
+        "B06-C020-P0070",
+        "B06-C020-P0071"
+      ],
+      "certainty": "reported",
+      "temporal": "March 1997",
+      "model_notes": "Dumbledore’s interpretation of Voldemort’s aims remains speculation; the passage provides no new hidden-room location or visible magical installation."
+    },
+    {
+      "id": "B06-122",
+      "location": "Headmaster office in Voldemort application memory",
+      "category": "history",
+      "description": "The remembered office has Fawkes on his perch, Dumbledore’s desk and a visitor’s seat apparently the same as Harry’s current chair. Snow falls past a window and builds on its outside ledge. The cabinet now used for the Pensieve then holds bottles, from which Dumbledore serves wine.",
+      "evidence": [
+        "B06-C020-P0145",
+        "B06-C020-P0146",
+        "B06-C020-P0147",
+        "B06-C020-P0150",
+        "B06-C020-P0151",
+        "B06-C020-P0154",
+        "B06-C020-P0200"
+      ],
+      "certainty": "explicit",
+      "temporal": "Undated snowy evening after Dumbledore becomes Headmaster, recalled March 1997",
+      "model_notes": "Historical layout continuity with changed cabinet contents and weather. “Same seat” is Harry’s visual judgement, not confirmed furniture provenance; no invented calendar year."
+    },
+    {
+      "id": "B06-123",
+      "location": "Defence teaching post curse",
+      "category": "magic",
+      "description": "Dumbledore says that since refusing Voldemort the Defence teaching post, no subsequent teacher has lasted longer than a year.",
+      "evidence": [
+        "B06-C020-P0206",
+        "B06-C020-P0207"
+      ],
+      "certainty": "reported",
+      "temporal": "Historical effect continuing to 1996–97",
+      "model_notes": "Reported magical constraint on the post; do not locate a curse source in the classroom or invent a visible fixture."
     }
   ],
   "chapter_reviews": [
@@ -1958,6 +2048,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two blocks. Captured ward double doors/furniture/office/light and controls, return route and corner, disguised-wall shortcut, match conditions and resumed podium use, and elf arrival. Falling-tunnel sensation on injury and Harry’s romantic imagination are not literal passages. Forest argument gives no new mapped location."
+    },
+    {
+      "chapter": 20,
+      "reviewed_ranges": [
+        [
+          1,
+          207
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks, including both memories and Dumbledore’s speculations. Captured seventh-floor tapestry route, new gargoyle credential, Dippet portrait, ancient-magic report, historical office window/cabinet/furniture and Defence-post effect. Hepzibah’s home and travelling heirlooms are not Hogwarts architecture; Hog’s Head rendezvous adds only a place mention."
     }
   ]
 }
