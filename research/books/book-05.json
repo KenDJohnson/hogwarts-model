@@ -4118,6 +4118,1126 @@
       "certainty": "explicit",
       "temporal": "May 1996, post-twins unrest and final Quidditch match",
       "model_notes": "Lintel impact confirms finite doorway clearance; birds and uprooting explanation remain tentative."
+    },
+    {
+      "id": "B05-252",
+      "location": "Lakeshore and June grounds",
+      "category": "grounds",
+      "description": "The friends again revise in the lakeside beech’s shade, near other pupils. In June the cloudless sky reflects in a smooth sparkling lake and satin-green lawns ripple in a light breeze.",
+      "evidence": [
+        "B05-C031-P0001",
+        "B05-C031-P0002",
+        "B05-C031-P0003",
+        "B05-C031-P0004",
+        "B05-C031-P0029"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Warm late-May/June state; lake clearly liquid again."
+    },
+    {
+      "id": "B05-253",
+      "location": "Grawp pine height report",
+      "category": "history",
+      "description": "Hermione describes Grawp as sixteen feet tall and the pines he uproots as twenty feet tall.",
+      "evidence": [
+        "B05-C031-P0018"
+      ],
+      "certainty": "reported",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Reported approximate pine height, supplementary to direct Forest observations."
+    },
+    {
+      "id": "B05-254",
+      "location": "Greenhouse three revision class",
+      "category": "interior",
+      "description": "Sprout admits the queued students into greenhouse three for Herbology revision.",
+      "evidence": [
+        "B05-C031-P0032",
+        "B05-C031-P0037"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Specific classroom identity, without additional inferred contents."
+    },
+    {
+      "id": "B05-255",
+      "location": "Entrance Hall and Great Hall sightline",
+      "category": "interior",
+      "description": "From dinner seats pupils can see the examiners through the Great Hall’s double doors into the Entrance Hall; they cross the threshold and linger at the marble stair foot.",
+      "evidence": [
+        "B05-C031-P0068",
+        "B05-C031-P0069",
+        "B05-C031-P0070",
+        "B05-C031-P0072",
+        "B05-C031-P0073",
+        "B05-C031-P0074",
+        "B05-C031-P0076"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Line of sight from dining space to Hall circulation; broom-cupboard emergence is only a simile about Marchbanks’s search."
+    },
+    {
+      "id": "B05-256",
+      "location": "Great Hall written examinations",
+      "category": "temporary",
+      "description": "After breakfast the House tables are replaced with individual tables facing the staff-table end. A desk by the presiding teacher holds an enormous hourglass, spare quills, ink and parchment. House tables return at lunchtime.",
+      "evidence": [
+        "B05-C031-P0079",
+        "B05-C031-P0080",
+        "B05-C031-P0083",
+        "B05-C031-P0085",
+        "B05-C031-P0186",
+        "B05-C031-P0187",
+        "B05-C031-P0188",
+        "B05-C031-P0192",
+        "B05-C031-P0194",
+        "B05-C031-P0200",
+        "B05-C031-P0214"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Daily furniture conversion and stone floor confirmed; sunlight heats desks and reaches Harry’s head."
+    },
+    {
+      "id": "B05-257",
+      "location": "Practical-exam waiting chamber",
+      "category": "route",
+      "description": "Pupils wait in the small chamber beside the Great Hall, entering the Hall in alphabetical groups; tested pupils do not return. Flitwick stands just inside the door and directs Harry to an examiner’s small table in a far corner.",
+      "evidence": [
+        "B05-C031-P0085",
+        "B05-C031-P0086",
+        "B05-C031-P0088",
+        "B05-C031-P0089",
+        "B05-C031-P0090",
+        "B05-C031-P0091"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Waiting room adjacency and one-way exam circulation, without a fixed room name."
+    },
+    {
+      "id": "B05-258",
+      "location": "Hall practical-exam stations",
+      "category": "temporary",
+      "description": "Exam props include a levitated wineglass that smashes, an egg cup, rat, dinner plate and Transfiguration animals; a ferret becomes flamingos requiring temporary evacuation. Defence practice includes Boggart banishing, and Harry’s stag Patronus canters the Hall’s length.",
+      "evidence": [
+        "B05-C031-P0092",
+        "B05-C031-P0093",
+        "B05-C031-P0094",
+        "B05-C031-P0096",
+        "B05-C031-P0097",
+        "B05-C031-P0098",
+        "B05-C031-P0100",
+        "B05-C031-P0101",
+        "B05-C031-P0102",
+        "B05-C031-P0103",
+        "B05-C031-P0104",
+        "B05-C031-P0105"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Transient practical testing materials; no claim all exam subjects use identical station layouts."
+    },
+    {
+      "id": "B05-259",
+      "location": "Common-room view of Forest teaching",
+      "category": "exterior",
+      "description": "At an open common-room window Harry and Ron play chess in warm air while watching Hagrid teach at the Forest edge; Harry guesses unicorns from the boys standing back.",
+      "evidence": [
+        "B05-C031-P0106",
+        "B05-C031-P0110",
+        "B05-C031-P0113",
+        "B05-C031-P0114",
+        "B05-C031-P0115"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Hagrid and class observed; unicorn identification remains a guess. Hermione reports another Niffler attack in Umbridge’s office."
+    },
+    {
+      "id": "B05-260",
+      "location": "Creature examination lawn",
+      "category": "temporary",
+      "description": "The creature practical takes place on the lawn at the Forest edge, with a Knarl among a dozen hedgehogs, milk, Bowtruckle handling, a Fire Crab to feed and clean, and food choices for a sick unicorn. Hagrid watches from his cabin window.",
+      "evidence": [
+        "B05-C031-P0121",
+        "B05-C031-P0122"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Exam materials confirmed; a real sick unicorn is not explicitly present. Cabin-to-exam-lawn sightline."
+    },
+    {
+      "id": "B05-261",
+      "location": "Divination examination furniture",
+      "category": "temporary",
+      "description": "Harry’s practical uses a desktop, blank crystal ball, tea-leaf reading and an examiner’s palm; afterward the friends ascend the marble staircase.",
+      "evidence": [
+        "B05-C031-P0123",
+        "B05-C031-P0124",
+        "B05-C031-P0125",
+        "B05-C031-P0126",
+        "B05-C031-P0129",
+        "B05-C031-P0130",
+        "B05-C031-P0131"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "No specific exam-room identity supplied beyond ascent afterward."
+    },
+    {
+      "id": "B05-262",
+      "location": "Astronomy Tower summit",
+      "category": "interior",
+      "description": "At eleven the pupils set telescopes on stands at the top of the Astronomy Tower beside a parapet, writing star charts while examiners circulate. They later descend a spiral staircase to its foot.",
+      "evidence": [
+        "B05-C031-P0132",
+        "B05-C031-P0133",
+        "B05-C031-P0134",
+        "B05-C031-P0138",
+        "B05-C031-P0142",
+        "B05-C031-P0145",
+        "B05-C031-P0152",
+        "B05-C031-P0165"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Open sky observing area with parapet; telescope holders also used. No roof or dome invented."
+    },
+    {
+      "id": "B05-263",
+      "location": "Astronomy Tower front-door alignment",
+      "category": "exterior",
+      "description": "Harry stands at a parapet directly above the castle front doors. When they open, light spills down the stone steps onto the lawn; he can see people crossing it, castle-window lights reflected on the ground and the cabin’s lit windows and door.",
+      "evidence": [
+        "B05-C031-P0133",
+        "B05-C031-P0134",
+        "B05-C031-P0135",
+        "B05-C031-P0136",
+        "B05-C031-P0137",
+        "B05-C031-P0138",
+        "B05-C031-P0139",
+        "B05-C031-P0152"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Strong vertical alignment and multi-point sightlines; no total tower height stated."
+    },
+    {
+      "id": "B05-264",
+      "location": "Hagrid cabin night battle",
+      "category": "temporary",
+      "description": "Six attackers enter Hagrid’s lit cabin, then its door bursts open into a fight outside. Fang is Stunned, one attacker thrown about ten feet and others knocked down. McGonagall is struck by four Stunners halfway between cabin and castle.",
+      "evidence": [
+        "B05-C031-P0137",
+        "B05-C031-P0138",
+        "B05-C031-P0139",
+        "B05-C031-P0145",
+        "B05-C031-P0146",
+        "B05-C031-P0149",
+        "B05-C031-P0150",
+        "B05-C031-P0151",
+        "B05-C031-P0154",
+        "B05-C031-P0157",
+        "B05-C031-P0158",
+        "B05-C031-P0159",
+        "B05-C031-P0160",
+        "B05-C031-P0162"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Observed from distant tower; thrown distance is Harry’s estimate. Hagrid’s spell resistance is observed, cause later attributed to giant ancestry."
+    },
+    {
+      "id": "B05-265",
+      "location": "Hagrid escape toward gates",
+      "category": "route",
+      "description": "Hagrid lifts unconscious Fang around his shoulders and runs toward the distant gates, vanishing into darkness under a missed final Stunning Spell.",
+      "evidence": [
+        "B05-C031-P0162",
+        "B05-C031-P0163",
+        "B05-C031-P0164",
+        "B05-C031-P0168",
+        "B05-C031-P0169",
+        "B05-C031-P0172",
+        "B05-C031-P0173"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Direction and disappearance observed; destination with Dumbledore only conjectured."
+    },
+    {
+      "id": "B05-266",
+      "location": "Umbridge office window Niffler route",
+      "category": "history",
+      "description": "Lee admits he put the Nifflers in Umbridge’s office by levitating them through her window.",
+      "evidence": [
+        "B05-C031-P0177",
+        "B05-C031-P0178",
+        "B05-C031-P0179"
+      ],
+      "certainty": "reported",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Reported exterior-window access, explaining entry despite the new door."
+    },
+    {
+      "id": "B05-267",
+      "location": "Dormitory rescue view",
+      "category": "exterior",
+      "description": "Colin says pupils watched through a dormitory window as McGonagall was carried back uphill to the castle.",
+      "evidence": [
+        "B05-C031-P0181",
+        "B05-C031-P0182",
+        "B05-C031-P0183",
+        "B05-C031-P0184"
+      ],
+      "certainty": "reported",
+      "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
+      "model_notes": "Reported view from Colin’s dormitory, not necessarily Harry’s window or room."
+    },
+    {
+      "id": "B05-268",
+      "location": "Hall to hospital wing and first floor",
+      "category": "route",
+      "description": "Harry exits the exam to the Entrance Hall, climbs the marble staircase and further flights through portrait-lined corridors, entering the hospital wing through double doors. Returning, he descends two floors to the marble staircase top and follows the first-floor corridor.",
+      "evidence": [
+        "B05-C032-P0002",
+        "B05-C032-P0004",
+        "B05-C032-P0006",
+        "B05-C032-P0008",
+        "B05-C032-P0011",
+        "B05-C032-P0013",
+        "B05-C032-P0017",
+        "B05-C032-P0019",
+        "B05-C032-P0023"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996, immediately after final History of Magic exam",
+      "model_notes": "Text supplies a two-floor descent and first-floor endpoint; retain those constraints without forcing an absolute hospital floor in this entry."
+    },
+    {
+      "id": "B05-269",
+      "location": "Hospital wing bell and ward",
+      "category": "interior",
+      "description": "Pomfrey treats Montague inside the wing; a bell rings immediately outside the dormitory/ward as students move through corridors above and below.",
+      "evidence": [
+        "B05-C032-P0008",
+        "B05-C032-P0011",
+        "B05-C032-P0013",
+        "B05-C032-P0015",
+        "B05-C032-P0017"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996, immediately after final History of Magic exam",
+      "model_notes": "McGonagall has been transferred to St Mungo’s; do not conflate the external hospital with this wing."
+    },
+    {
+      "id": "B05-270",
+      "location": "Unnamed first-floor empty classroom",
+      "category": "interior",
+      "description": "Harry peers into doorways along the first-floor corridor, selects an empty classroom and shuts its door. He sits on a desk; Hermione later paces between desks. His shouts are audible to Ginny and Luna outside.",
+      "evidence": [
+        "B05-C032-P0023",
+        "B05-C032-P0030",
+        "B05-C032-P0042",
+        "B05-C032-P0066",
+        "B05-C032-P0073",
+        "B05-C032-P0074",
+        "B05-C032-P0095"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996, immediately after final History of Magic exam",
+      "model_notes": "Distinct unnamed usable classroom with desks and a door; no furnishings borrowed from other lessons."
+    },
+    {
+      "id": "B05-271",
+      "location": "Diversion routes and swivelling staircase",
+      "category": "route",
+      "description": "Ron proposes sending Umbridge to the Transfiguration department, which he describes as far from her office. Lookouts redirect traffic around the office corridor by the swivelling staircase.",
+      "evidence": [
+        "B05-C032-P0089",
+        "B05-C032-P0095",
+        "B05-C032-P0096",
+        "B05-C032-P0098",
+        "B05-C032-P0099",
+        "B05-C032-P0102",
+        "B05-C032-P0105",
+        "B05-C032-P0109",
+        "B05-C032-P0114",
+        "B05-C032-P0115",
+        "B05-C032-P0119",
+        "B05-C032-P0120",
+        "B05-C032-P0121",
+        "B05-C032-P0122"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996, immediately after final History of Magic exam",
+      "model_notes": "Transfiguration distance is Ron’s qualitative report. Gas is a fabricated cover story, not an actual hazard."
+    },
+    {
+      "id": "B05-272",
+      "location": "Gryffindor retrieval to Umbridge corridor",
+      "category": "route",
+      "description": "From the empty classroom Harry goes up, meets Dean and Seamus two floors higher, then retrieves the Cloak and knife through Gryffindor’s portrait hole; a few minutes later he descends the last stairs to the office corridor.",
+      "evidence": [
+        "B05-C032-P0110",
+        "B05-C032-P0111",
+        "B05-C032-P0112"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996, immediately after final History of Magic exam",
+      "model_notes": "Do not equate the meeting floor with the portrait-hole floor unless independently stated."
+    },
+    {
+      "id": "B05-273",
+      "location": "Office-corridor wizard bust",
+      "category": "furnishing",
+      "description": "A recess contains an ugly stone head of a medieval wizard on a column, muttering in Latin; Harry and Hermione conceal themselves behind it to don the Cloak.",
+      "evidence": [
+        "B05-C032-P0116",
+        "B05-C032-P0117",
+        "B05-C032-P0118",
+        "B05-C032-P0123"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996, immediately after final History of Magic exam",
+      "model_notes": "Stone talking bust and hiding recess, distinct from Paracelsus unless future evidence identifies it."
+    },
+    {
+      "id": "B05-274",
+      "location": "Umbridge office entry and sunlight",
+      "category": "interior",
+      "description": "The magical knife again opens the lock. Late-afternoon sunshine warms the animated kitten plates. Hermione watches the grounds from the window, staying out of sight, while Harry uses Floo powder at the hearth.",
+      "evidence": [
+        "B05-C032-P0125",
+        "B05-C032-P0126",
+        "B05-C032-P0127",
+        "B05-C032-P0128",
+        "B05-C032-P0129",
+        "B05-C032-P0151",
+        "B05-C032-P0158"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996, immediately after final History of Magic exam",
+      "model_notes": "Observed window-to-grounds view; no compass bearing."
+    },
+    {
+      "id": "B05-275",
+      "location": "Stealth detection and guarded Firebolt",
+      "category": "magic",
+      "description": "Umbridge catches Harry at the fireplace and says Stealth Sensoring Spells surround her doorway, installed after the last Niffler. She says the Firebolt is strictly guarded in the dungeons.",
+      "evidence": [
+        "B05-C032-P0151",
+        "B05-C032-P0152",
+        "B05-C032-P0153",
+        "B05-C032-P0154",
+        "B05-C032-P0155",
+        "B05-C032-P0156"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1996, immediately after final History of Magic exam",
+      "model_notes": "Detection implementation and broom guarding reported by Umbridge; confirms neither a specific troll nor impermeability of the door."
+    },
+    {
+      "id": "B05-276",
+      "location": "Umbridge office captivity furnishings",
+      "category": "interior",
+      "description": "The office contains a chintz-covered armchair and a carpet; Ron’s bleeding lip stains it. Malfoy sits or leans on the windowsill while captors pin Hermione against a wall.",
+      "evidence": [
+        "B05-C032-P0158",
+        "B05-C032-P0159",
+        "B05-C032-P0160",
+        "B05-C032-P0162",
+        "B05-C032-P0170",
+        "B05-C032-P0171",
+        "B05-C032-P0188",
+        "B05-C032-P0192",
+        "B05-C032-P0212",
+        "B05-C032-P0234",
+        "B05-C032-P0236",
+        "B05-C032-P0238"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996, immediately after final History of Magic exam",
+      "model_notes": "Temporary crowded custody arrangement; dimensions not inferred from headcount."
+    },
+    {
+      "id": "B05-277",
+      "location": "School telescope sabotage report",
+      "category": "temporary",
+      "description": "Umbridge says Filch has just reported Peeves smearing ink on all school telescope eyepieces.",
+      "evidence": [
+        "B05-C032-P0163"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1996, immediately after final History of Magic exam",
+      "model_notes": "Reported sabotage; not confirmation of destruction or of the proposed Transfiguration rampage."
+    },
+    {
+      "id": "B05-278",
+      "location": "Office to Forest evening route",
+      "category": "route",
+      "description": "Hermione leads from Umbridge’s corridor down stairs to the Entrance Hall, within about twenty feet of dinner through the Hall doors, then through oak front doors and down stone steps across the grass toward the Forest. The setting sun approaches the treetops ahead while shadows stretch behind them.",
+      "evidence": [
+        "B05-C033-P0001",
+        "B05-C033-P0002",
+        "B05-C033-P0003",
+        "B05-C033-P0008",
+        "B05-C033-P0009",
+        "B05-C033-P0013"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 evening following final exam",
+      "model_notes": "Observed sun/view relation; no exact date-based azimuth inferred."
+    },
+    {
+      "id": "B05-279",
+      "location": "Forest path toward Aragog",
+      "category": "route",
+      "description": "Hermione takes a different path from the Grawp visit: Harry recognises the path used three years earlier toward Aragog’s lair. Brambles, a fallen sapling and thick undergrowth obstruct it; eventually the dense canopy blocks all light.",
+      "evidence": [
+        "B05-C033-P0014",
+        "B05-C033-P0015",
+        "B05-C033-P0016",
+        "B05-C033-P0017",
+        "B05-C033-P0018",
+        "B05-C033-P0019",
+        "B05-C033-P0020",
+        "B05-C033-P0021",
+        "B05-C033-P0022",
+        "B05-C033-P0023"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 evening following final exam",
+      "model_notes": "Destination recognition is Harry’s memory; this group does not reach Aragog."
+    },
+    {
+      "id": "B05-280",
+      "location": "Centaur confrontation clearing",
+      "category": "grounds",
+      "description": "They emerge into a dim damp clearing; an arrow strikes a tree above Hermione and roughly fifty armed centaurs encircle them. The group backs to the centre while hooves shake the floor and voices echo.",
+      "evidence": [
+        "B05-C033-P0023",
+        "B05-C033-P0024",
+        "B05-C033-P0025",
+        "B05-C033-P0027",
+        "B05-C033-P0032",
+        "B05-C033-P0035",
+        "B05-C033-P0037",
+        "B05-C033-P0040",
+        "B05-C033-P0041",
+        "B05-C033-P0042",
+        "B05-C033-P0044",
+        "B05-C033-P0045",
+        "B05-C033-P0046"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 evening following final exam",
+      "model_notes": "Distinct clearing from Grawp’s tether site; Umbridge’s broken wand remains on the ground, and she is carried away through trees."
+    },
+    {
+      "id": "B05-281",
+      "location": "Forest territorial claims",
+      "category": "history",
+      "description": "Umbridge claims the Ministry permits centaurs only certain land; centaurs claim the Forest, reject wizard law and debate whether adolescents count as protected foals. They hold Harry and Hermione after she admits hoping to use them against Umbridge.",
+      "evidence": [
+        "B05-C033-P0031",
+        "B05-C033-P0033",
+        "B05-C033-P0034",
+        "B05-C033-P0035",
+        "B05-C033-P0036",
+        "B05-C033-P0038",
+        "B05-C033-P0047",
+        "B05-C033-P0048",
+        "B05-C033-P0049",
+        "B05-C033-P0051",
+        "B05-C033-P0052",
+        "B05-C033-P0055",
+        "B05-C033-P0058",
+        "B05-C033-P0059",
+        "B05-C033-P0060",
+        "B05-C033-P0061"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1996 evening following final exam",
+      "model_notes": "Conflicting character claims, not a verified legal cadastral boundary."
+    },
+    {
+      "id": "B05-282",
+      "location": "Grawp loose and Forest damage",
+      "category": "temporary",
+      "description": "Grawp parts two thick trunks at the clearing edge, appearing under the branch canopy with broken ankle ropes trailing. Arrows strike his face; he scatters centaurs, then pursues them through the opposite trees, smashing trees aside.",
+      "evidence": [
+        "B05-C033-P0062",
+        "B05-C033-P0063",
+        "B05-C033-P0066",
+        "B05-C033-P0069",
+        "B05-C033-P0072",
+        "B05-C033-P0077",
+        "B05-C033-P0078",
+        "B05-C033-P0079",
+        "B05-C033-P0080",
+        "B05-C033-P0082"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 evening following final exam",
+      "model_notes": "He has escaped restraints; no longer model him continuously tethered after this event."
+    },
+    {
+      "id": "B05-283",
+      "location": "Bowtruckle at escape shelter",
+      "category": "grounds",
+      "description": "After sheltering among trees Harry kicks a nearby tree and a Bowtruckle chatters overhead, flexing long fingers. Ron’s group approaches through low branches.",
+      "evidence": [
+        "B05-C033-P0079",
+        "B05-C033-P0085",
+        "B05-C033-P0086",
+        "B05-C033-P0088",
+        "B05-C033-P0089",
+        "B05-C033-P0090",
+        "B05-C033-P0091"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 evening following final exam",
+      "model_notes": "Actual Bowtruckle-in-tree habitat beyond the classroom specimens."
+    },
+    {
+      "id": "B05-284",
+      "location": "Office window to Forest pursuit",
+      "category": "route",
+      "description": "Ron says the rescued pupils saw Harry and Hermione head into the Forest from Umbridge’s office window and followed after escaping their captors.",
+      "evidence": [
+        "B05-C033-P0090",
+        "B05-C033-P0091",
+        "B05-C033-P0092",
+        "B05-C033-P0093",
+        "B05-C033-P0094",
+        "B05-C033-P0106"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1996 evening following final exam",
+      "model_notes": "Reported route and office-to-Forest sightline; exact tracking path unstated."
+    },
+    {
+      "id": "B05-285",
+      "location": "Thestral gathering before departure",
+      "category": "grounds",
+      "description": "Two Thestrals wait between trees; one licks Grawp’s blood from Harry’s sleeve. Another six or seven pick their way through the trees with wings tightly folded, providing mounts for six pupils.",
+      "evidence": [
+        "B05-C033-P0118",
+        "B05-C033-P0119",
+        "B05-C033-P0120",
+        "B05-C033-P0121",
+        "B05-C033-P0124",
+        "B05-C033-P0127",
+        "B05-C033-P0130",
+        "B05-C033-P0131",
+        "B05-C033-P0133",
+        "B05-C033-P0134",
+        "B05-C033-P0135",
+        "B05-C033-P0136",
+        "B05-C033-P0137",
+        "B05-C033-P0138",
+        "B05-C033-P0139"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 evening following final exam",
+      "model_notes": "Blood attraction is Ginny’s inference, supported by licking and arrival; it is not an explicitly demonstrated summoning spell."
+    },
+    {
+      "id": "B05-286",
+      "location": "Thestral mounting in Forest",
+      "category": "route",
+      "description": "Harry mounts from a nearby stump, securing his knees behind the wing joints; riders grip manes. Luna helps the three pupils unable to see the animals mount separate Thestrals.",
+      "evidence": [
+        "B05-C034-P0001",
+        "B05-C034-P0002",
+        "B05-C034-P0004",
+        "B05-C034-P0005",
+        "B05-C034-P0006",
+        "B05-C034-P0007",
+        "B05-C034-P0008",
+        "B05-C034-P0009",
+        "B05-C034-P0011",
+        "B05-C034-P0012"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 sunset and night, Department of Mysteries expedition",
+      "model_notes": "Physical riding arrangement and stump aid, not saddles or bridles."
+    },
+    {
+      "id": "B05-287",
+      "location": "Forest-to-London aerial route",
+      "category": "route",
+      "description": "On a spoken destination command, Thestrals extend their wings, crouch and climb steeply through the topmost branches into sunset. Six riders streak over the castle, grounds and Hogsmeade, then mountains, gullies, villages and winding hillside roads before reaching London after dark.",
+      "evidence": [
+        "B05-C034-P0012",
+        "B05-C034-P0013",
+        "B05-C034-P0014",
+        "B05-C034-P0015",
+        "B05-C034-P0016",
+        "B05-C034-P0017",
+        "B05-C034-P0018",
+        "B05-C034-P0023",
+        "B05-C034-P0024",
+        "B05-C034-P0025",
+        "B05-C034-P0026",
+        "B05-C034-P0027",
+        "B05-C034-P0029",
+        "B05-C034-P0030",
+        "B05-C034-P0039"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 sunset and night, Department of Mysteries expedition",
+      "model_notes": "School boundary aerial egress and surrounding terrain; no speed, duration, exact bearing or continuous mapped road course supplied. London endpoint is Ministry visitors’ entrance."
+    },
+    {
+      "id": "B05-288",
+      "location": "Headmaster office repaired state",
+      "category": "interior",
+      "description": "On returning Harry finds the office apparently repaired: silver instruments again puff and whir on spindle-legged tables, and portraits rest in frames. Dawn shows a pale-green horizon through the window; carpet and polished desk brighten as the sun rises over mountains.",
+      "evidence": [
+        "B05-C037-P0001",
+        "B05-C037-P0002",
+        "B05-C037-P0003",
+        "B05-C037-P0012",
+        "B05-C037-P0015",
+        "B05-C037-P0024",
+        "B05-C037-P0069",
+        "B05-C037-P0086",
+        "B05-C037-P0131",
+        "B05-C037-P0138",
+        "B05-C037-P0176"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 dawn after Ministry battle; historical interview where specified",
+      "model_notes": "Restoration is inferred from observed intact contents; no repair spell or worker witnessed."
+    },
+    {
+      "id": "B05-289",
+      "location": "Headmaster office sealed door",
+      "category": "magic",
+      "description": "Phineas says the office should be barred to all but the rightful Headmaster. Harry twice finds its doorknob immovable and cannot exit; Dumbledore explicitly refuses release until he has spoken.",
+      "evidence": [
+        "B05-C037-P0008",
+        "B05-C037-P0010",
+        "B05-C037-P0011",
+        "B05-C037-P0013",
+        "B05-C037-P0044",
+        "B05-C037-P0045",
+        "B05-C037-P0046",
+        "B05-C037-P0047",
+        "B05-C037-P0048",
+        "B05-C037-P0050",
+        "B05-C037-P0051",
+        "B05-C037-P0055",
+        "B05-C037-P0056"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 dawn after Ministry battle; historical interview where specified",
+      "model_notes": "Reported access rule and observed temporary confinement; Portkey admission separately demonstrated."
+    },
+    {
+      "id": "B05-290",
+      "location": "Headmaster office Floo and phoenix perch",
+      "category": "magic",
+      "description": "Dumbledore arrives bodily through emerald flames in the office fireplace, then places newborn Fawkes on soft ashes in a tray beneath the golden perch beside the door.",
+      "evidence": [
+        "B05-C037-P0018",
+        "B05-C037-P0019",
+        "B05-C037-P0020",
+        "B05-C037-P0021",
+        "B05-C037-P0023",
+        "B05-C037-P0176"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 dawn after Ministry battle; historical interview where specified",
+      "model_notes": "Floo access now observed in this office; perch includes ash tray for phoenix rebirth."
+    },
+    {
+      "id": "B05-291",
+      "location": "Headmaster window Quidditch view",
+      "category": "exterior",
+      "description": "Harry looks from the office window toward the distant Quidditch stadium and recalls Sirius watching there in black-dog form.",
+      "evidence": [
+        "B05-C037-P0029",
+        "B05-C037-P0032"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 dawn after Ministry battle; historical interview where specified",
+      "model_notes": "Direct stadium sightline; recalled spectator presence does not supply a new entrance route."
+    },
+    {
+      "id": "B05-292",
+      "location": "Harry’s office damage",
+      "category": "temporary",
+      "description": "Harry smashes a delicate silver instrument against the wall, throws a lunascope into the fireplace and breaks its spindle-legged table on the floor, scattering legs, wooden fragments and silver cogs before sitting opposite the desk.",
+      "evidence": [
+        "B05-C037-P0037",
+        "B05-C037-P0038",
+        "B05-C037-P0039",
+        "B05-C037-P0040",
+        "B05-C037-P0053",
+        "B05-C037-P0054",
+        "B05-C037-P0063",
+        "B05-C037-P0086",
+        "B05-C037-P0176"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 dawn after Ministry battle; historical interview where specified",
+      "model_notes": "A second damage event after the initial repaired state; no subsequent repair in this chapter."
+    },
+    {
+      "id": "B05-293",
+      "location": "Headmaster desk writing set",
+      "category": "furnishing",
+      "description": "A silver ink pot and handsome scarlet quill stand on Dumbledore’s polished desk.",
+      "evidence": [
+        "B05-C037-P0086"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 dawn after Ministry battle; historical interview where specified",
+      "model_notes": "Specific desk fittings illuminated by morning sunlight."
+    },
+    {
+      "id": "B05-294",
+      "location": "Sword case and Pensieve cabinet",
+      "category": "furnishing",
+      "description": "The glass case containing Gryffindor’s sword gleams in full sunlight. A black cabinet beside Fawkes’s perch has a sliding catch and contains the rune-carved shallow stone Pensieve, which Dumbledore moves to the desk.",
+      "evidence": [
+        "B05-C037-P0176",
+        "B05-C037-P0181",
+        "B05-C037-P0182",
+        "B05-C037-P0184",
+        "B05-C037-P0185"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 dawn after Ministry battle; historical interview where specified",
+      "model_notes": "Pensieve is back in its office storage; no duplicate assumed. It can project a speaking memory figure above the basin."
+    },
+    {
+      "id": "B05-295",
+      "location": "Snape’s Forest search account",
+      "category": "history",
+      "description": "Dumbledore says Snape alerted the Order when pupils failed to return from the Forest and intended to search the Forest himself.",
+      "evidence": [
+        "B05-C037-P0098",
+        "B05-C037-P0099",
+        "B05-C037-P0100",
+        "B05-C037-P0101",
+        "B05-C037-P0119"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1996 dawn after Ministry battle; historical interview where specified",
+      "model_notes": "Reported intended search, without a verified search path or discovery."
+    },
+    {
+      "id": "B05-296",
+      "location": "Hog’s Head upstairs interview room",
+      "category": "history",
+      "description": "Dumbledore says Trelawney’s original interview and prophecy occurred on a cold wet night in a room above the Hog’s Head bar; an eavesdropper was discovered and expelled from the building.",
+      "evidence": [
+        "B05-C037-P0180",
+        "B05-C037-P0201",
+        "B05-C037-P0202",
+        "B05-C037-P0203"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1996 dawn after Ministry battle; historical interview where specified",
+      "model_notes": "Historical school-recruitment venue; establishes an upstairs room over the bar, not a Hogwarts room."
+    },
+    {
+      "id": "B05-297",
+      "location": "Ministry-to-Headmaster office Portkey",
+      "category": "magic",
+      "description": "Dumbledore enchants the fallen golden statue head with Portus and sends Harry from the Ministry Atrium directly into his Hogwarts office, where the head lands on the floor.",
+      "evidence": [
+        "B05-C036-P0102",
+        "B05-C036-P0107",
+        "B05-C036-P0108",
+        "B05-C036-P0114",
+        "B05-C036-P0115",
+        "B05-C036-P0116",
+        "B05-C036-P0117",
+        "B05-C037-P0001"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 end of Ministry battle",
+      "model_notes": "Observed inbound Portkey access despite ordinary Apparition restriction; Fudge protests lack of Ministry authorisation, so do not call it legally authorised."
+    },
+    {
+      "id": "B05-298",
+      "location": "Hospital wing recovery layout",
+      "category": "interior",
+      "description": "Ron and Hermione occupy beds with Neville seated between them; Ron has a bedside cabinet piled with Chocolate Frogs and a water jug. Umbridge lies in a bed opposite; Pomfrey can look out from her office door. Daylight and blue sky show through the ward window.",
+      "evidence": [
+        "B05-C038-P0009",
+        "B05-C038-P0011",
+        "B05-C038-P0013",
+        "B05-C038-P0022",
+        "B05-C038-P0025",
+        "B05-C038-P0027",
+        "B05-C038-P0030",
+        "B05-C038-P0031",
+        "B05-C038-P0032",
+        "B05-C038-P0033",
+        "B05-C038-P0042",
+        "B05-C038-P0043",
+        "B05-C038-P0044",
+        "B05-C038-P0045"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Recovery occupancy is temporal, not a fixed patient allocation."
+    },
+    {
+      "id": "B05-299",
+      "location": "Swamp remnant",
+      "category": "temporary",
+      "description": "Ginny reports Flitwick removing the corridor swamp in about three seconds but preserving a tiny roped-off patch beneath a window, praising its magic.",
+      "evidence": [
+        "B05-C038-P0019",
+        "B05-C038-P0020",
+        "B05-C038-P0021",
+        "B05-C038-P0022",
+        "B05-C038-P0024"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Reported post-restoration state; Ron’s memorial interpretation is an inference."
+    },
+    {
+      "id": "B05-300",
+      "location": "Umbridge Forest rescue",
+      "category": "history",
+      "description": "Dumbledore goes alone into the Forest and returns supporting Umbridge without visible injury; the rescue method is unknown.",
+      "evidence": [
+        "B05-C038-P0027",
+        "B05-C038-P0028",
+        "B05-C038-P0035",
+        "B05-C038-P0036"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Narrated outcome, no invented centaur settlement or rescue route."
+    },
+    {
+      "id": "B05-301",
+      "location": "Upper corridor grounds panorama",
+      "category": "exterior",
+      "description": "After leaving the hospital wing Harry sees from corridor windows people flying over the Quidditch pitch and students swimming in the lake beside the giant squid.",
+      "evidence": [
+        "B05-C038-P0046",
+        "B05-C038-P0047"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Sunny end-of-term use and occupied lake; exact viewing window location not identified."
+    },
+    {
+      "id": "B05-302",
+      "location": "Entrance Hall Slytherin and office routes",
+      "category": "route",
+      "description": "Descending the last marble step into the Entrance Hall, Harry sees Malfoy’s group emerge from a door on his right known to lead down to Slytherin common room. Snape emerges from stairs down to his office; McGonagall arrives up the exterior stone steps and sends luggage upstairs toward her office via the marble staircase.",
+      "evidence": [
+        "B05-C038-P0048",
+        "B05-C038-P0061",
+        "B05-C038-P0069",
+        "B05-C038-P0070",
+        "B05-C038-P0071",
+        "B05-C038-P0072",
+        "B05-C038-P0073",
+        "B05-C038-P0078"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Right is from a descending-marble-stair viewpoint, not from entering the front doors. Slytherin entrance itself is not described."
+    },
+    {
+      "id": "B05-303",
+      "location": "House-point gem materials",
+      "category": "furnishing",
+      "description": "Gryffindor’s empty hourglass receives falling rubies as points are awarded, and Ravenclaw’s receives sapphires. Deducted Gryffindor rubies rise into the upper bulb.",
+      "evidence": [
+        "B05-C038-P0066",
+        "B05-C038-P0067",
+        "B05-C038-P0074",
+        "B05-C038-P0075",
+        "B05-C038-P0076",
+        "B05-C038-P0077"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Adds explicit gem identities to earlier hourglass mechanics."
+    },
+    {
+      "id": "B05-304",
+      "location": "Summer lawns and Hagrid garden",
+      "category": "grounds",
+      "description": "Pupils sunbathe, talk and read on hot lawns. Behind Hagrid’s cabin a fenced back garden grows runner beans which he harvests; Fang can run around the cabin corner. Inside, Hagrid serves iced dandelion juice at his wooden table.",
+      "evidence": [
+        "B05-C038-P0079",
+        "B05-C038-P0080",
+        "B05-C038-P0081",
+        "B05-C038-P0082",
+        "B05-C038-P0093",
+        "B05-C038-P0098",
+        "B05-C038-P0099",
+        "B05-C038-P0101"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Runner beans add a specific garden crop and rear/front circulation."
+    },
+    {
+      "id": "B05-305",
+      "location": "Hagrid hiding place and Grawp report",
+      "category": "history",
+      "description": "Hagrid says he hid in a mountain cave after fleeing and reports Grawp better behaved on his return. A possible female companion is only an idea.",
+      "evidence": [
+        "B05-C038-P0085",
+        "B05-C038-P0086",
+        "B05-C038-P0087",
+        "B05-C038-P0089",
+        "B05-C038-P0090"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Reported refuge not located as Sirius’s exact cave; no second giant installed."
+    },
+    {
+      "id": "B05-306",
+      "location": "Lakeside shrub refuge and opposite bank",
+      "category": "grounds",
+      "description": "A short walk around the lake brings Harry to a bank hidden from passers-by by tangled shrubs. Directly across the water is the opposite-bank spot where Sirius once collapsed defending himself from Dementors; Harry stays until after sunset, then returns to the castle.",
+      "evidence": [
+        "B05-C038-P0103",
+        "B05-C038-P0104",
+        "B05-C038-P0105",
+        "B05-C038-P0106",
+        "B05-C038-P0107"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Explicit cross-lake relation between two event sites; no shoreline distances or orientation."
+    },
+    {
+      "id": "B05-307",
+      "location": "Umbridge departure path",
+      "category": "temporary",
+      "description": "During dinner Umbridge leaves the hospital wing and is chased from school by Peeves with a walking stick and chalk-filled sock. Students watch from the Entrance Hall as she runs down the path.",
+      "evidence": [
+        "B05-C038-P0110"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Departure and implement use narrated; no new attack damage to architecture."
+    },
+    {
+      "id": "B05-308",
+      "location": "Dormitory mirror and ghost-search route",
+      "category": "route",
+      "description": "Harry breaks Sirius’s small square two-way mirror in his trunk, then descends the spiral stairs, crosses the empty common room, passes the portrait hole and runs down further stairs and corridors to a point outside Charms. He enters the nearest classroom to talk to Nick.",
+      "evidence": [
+        "B05-C038-P0111",
+        "B05-C038-P0112",
+        "B05-C038-P0114",
+        "B05-C038-P0115",
+        "B05-C038-P0117",
+        "B05-C038-P0118",
+        "B05-C038-P0119",
+        "B05-C038-P0121",
+        "B05-C038-P0123",
+        "B05-C038-P0127",
+        "B05-C038-P0128",
+        "B05-C038-P0130",
+        "B05-C038-P0133",
+        "B05-C038-P0134",
+        "B05-C038-P0136",
+        "B05-C038-P0137",
+        "B05-C038-P0141",
+        "B05-C038-P0142",
+        "B05-C038-P0144",
+        "B05-C038-P0145",
+        "B05-C038-P0146",
+        "B05-C038-P0148",
+        "B05-C038-P0171",
+        "B05-C038-P0172"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Mirror’s prior detention use is Sirius’s note; no successful new remote connection. Unnamed classroom has a grounds-facing window; Nick traverses solid walls."
+    },
+    {
+      "id": "B05-309",
+      "location": "Ghost movement and persistence",
+      "category": "magic",
+      "description": "Nearly Headless Nick explains that some wizards choose to leave a pale imprint in places they once walked; he can move and speak in Hogwarts and pass through its stone walls, but says Sirius will not return as a ghost.",
+      "evidence": [
+        "B05-C038-P0136",
+        "B05-C038-P0137",
+        "B05-C038-P0144",
+        "B05-C038-P0149",
+        "B05-C038-P0150",
+        "B05-C038-P0152",
+        "B05-C038-P0154",
+        "B05-C038-P0157",
+        "B05-C038-P0159",
+        "B05-C038-P0161",
+        "B05-C038-P0164",
+        "B05-C038-P0168",
+        "B05-C038-P0170",
+        "B05-C038-P0171"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "Choice and afterlife account are Nick’s report; wall traversal directly observed. No newly added Sirius apparition."
+    },
+    {
+      "id": "B05-310",
+      "location": "Board near Fat Lady corridor",
+      "category": "furnishing",
+      "description": "On the return upward from Charms, Harry turns toward the Fat Lady’s corridor and finds Luna pinning a lost-property list on a wall noticeboard; there are no useful nearby hiding places.",
+      "evidence": [
+        "B05-C038-P0172",
+        "B05-C038-P0173",
+        "B05-C038-P0174",
+        "B05-C038-P0175",
+        "B05-C038-P0176",
+        "B05-C038-P0177",
+        "B05-C038-P0182",
+        "B05-C038-P0183",
+        "B05-C038-P0198",
+        "B05-C038-P0200"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "A corridor noticeboard distinct from the board inside Gryffindor common room."
+    },
+    {
+      "id": "B05-311",
+      "location": "Hogwarts Express homeward connection",
+      "category": "route",
+      "description": "The homeward train has a toilet and glass-windowed compartments opening to its corridor, luggage racks holding cages, and a food trolley. After arrival at King’s Cross a ticket inspector regulates when pupils cross the magical barrier between platforms nine and ten.",
+      "evidence": [
+        "B05-C038-P0202",
+        "B05-C038-P0203",
+        "B05-C038-P0204",
+        "B05-C038-P0205",
+        "B05-C038-P0207",
+        "B05-C038-P0208",
+        "B05-C038-P0222",
+        "B05-C038-P0223",
+        "B05-C038-P0224",
+        "B05-C038-P0225",
+        "B05-C038-P0238",
+        "B05-C038-P0264"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996 final school days and homeward journey",
+      "model_notes": "No departure journey from castle to Hogsmeade station is narrated in this closing chapter."
     }
   ],
   "chapter_reviews": [
@@ -4450,6 +5570,94 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read every paragraph in four chunks including complete Forest journey, Grawp reveal and centaur exchange. Folkloric retelling of twins dive-bombing Umbridge is not an observed event; troll guard remains rumour."
+    },
+    {
+      "chapter": 31,
+      "reviewed_ranges": [
+        [
+          1,
+          214
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph in four chunks including entire examination sequence, tower battle and final vision. Ministry torture vision is not a Hogwarts room."
+    },
+    {
+      "chapter": 32,
+      "reviewed_ranges": [
+        [
+          1,
+          238
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs including rescue argument, plan, Floo check and complete interrogation. Hermione’s weapon and pub-search account is a deliberate deception and not modelled as an actual installation or journey."
+    },
+    {
+      "chapter": 33,
+      "reviewed_ranges": [
+        [
+          1,
+          139
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph including complete centaur confrontation, Grawp fight, reunion and mount debate. Fabricated weapon location excluded; actual path distinguished from earlier Grawp route."
+    },
+    {
+      "chapter": 34,
+      "reviewed_ranges": [
+        [
+          1,
+          181
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three chunks, entire flight and Ministry exploration. Recorded Hogwarts aerial departure; Ministry Atrium, rotating room, brains, veil, time and prophecy rooms are not castle rooms."
+    },
+    {
+      "chapter": 35,
+      "reviewed_ranges": [
+        [
+          1,
+          286
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph in three chunks, including whole Death Eater confrontation, room-by-room battle and Sirius loss. All physical rooms and damage are in the Ministry; no additional Hogwarts passage qualifies."
+    },
+    {
+      "chapter": 36,
+      "reviewed_ranges": [
+        [
+          1,
+          117
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph, including complete Atrium duel and restoration orders. Remote Ministry damage excluded. Return Portkey departure is combined with the arrival observed at the start of chapter 37."
+    },
+    {
+      "chapter": 37,
+      "reviewed_ranges": [
+        [
+          1,
+          212
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph in three chunks, including full prophecy and explanation. Privet Drive blood protection and locked Ministry room are not Hogwarts wards. Recorded office repair then fresh damage in correct sequence."
+    },
+    {
+      "chapter": 38,
+      "reviewed_ranges": [
+        [
+          1,
+          264
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph in three untruncated chunks, including newspaper statement, recovery, all final castle visits, ghost discussion, train journey and complete station farewell. No unread paragraphs remain in Book 5."
     }
   ]
 }
