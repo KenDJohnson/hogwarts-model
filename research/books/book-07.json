@@ -368,6 +368,20 @@
       "certainty": "explicit",
       "temporal": "Late December 1997 recollection of the 1996–97 hiding-room state",
       "model_notes": "Supports enormous scale and maze-like accumulated storage. The circular room, hanging creature models and working printing press belong to Lovegood’s house and are not attributes of the Hogwarts room."
+    },
+    {
+      "id": "B07-027",
+      "location": "Hagrid’s house / Hogwarts grounds",
+      "category": "temporary",
+      "description": "Potterwatch reports Hagrid escaping attempted arrest within the grounds after a rumoured pro-Harry gathering in his house. Lee refers to his sixteen-foot-high half-brother as possible help in the escape.",
+      "evidence": [
+        "B07-C022-P0163",
+        "B07-C022-P0164",
+        "B07-C022-P0165"
+      ],
+      "certainty": "reported",
+      "temporal": "March 1998 broadcast about events within the previous hours",
+      "model_notes": "Evidence for an inhabited Hagrid house after the previous book’s fire, without a stated reconstruction or a guarantee it is the same building. The party is explicitly a rumour; Grawp’s assistance is suggested rather than witnessed."
     }
   ],
   "chapter_reviews": [
@@ -601,6 +615,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs, including complete embedded Three Brothers tale. Combined the comparison confirming moving Hogwarts portraits with portrait evidence. Lovegood house and its destruction are outside school scope."
+    },
+    {
+      "chapter": 22,
+      "reviewed_ranges": [
+        [
+          1,
+          190
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Recorded dated report concerning Hagrid’s house, attempted arrest on grounds and giant half-brother. Chamber myth remark adds no geometry; camping and wider war news excluded."
     }
   ]
 }
