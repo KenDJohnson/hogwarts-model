@@ -47,6 +47,551 @@
       "certainty": "reported",
       "temporal": "Before September 1993 term",
       "model_notes": "Proposed/arranged perimeter security, not yet observed posts or a count of gates. General confidence in Dumbledore is not a specified magical ward."
+    },
+    {
+      "id": "B03-004",
+      "location": "Hogsmeade — boundary destinations and reports",
+      "category": "route",
+      "description": "Ron identifies Dervish and Banges as a magical-instrument shop and Honeydukes as a sweetshop. Hermione reports Hogsmeade as Britain’s only entirely non-Muggle settlement, an unnamed inn as a 1612 rebellion headquarters, and the Shrieking Shack as exceptionally haunted.",
+      "evidence": [
+        "B03-C005-P0078",
+        "B03-C005-P0079",
+        "B03-C005-P0080",
+        "B03-C005-P0081",
+        "B03-C005-P0082",
+        "B03-C005-P0083"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1993",
+      "model_notes": "Village context for later journeys; no shop interiors mapped here, inn identity and haunting remain reports."
+    },
+    {
+      "id": "B03-005",
+      "location": "Hogwarts Express — northward journey and Dementor search",
+      "category": "temporary",
+      "description": "The train moves north past wilder countryside and rolling hills into heavy rain and darkness. It stops short of the destination; lights fail and a Dementor enters, bringing intense cold. After it is repelled the train and lantern lighting resume.",
+      "evidence": [
+        "B03-C005-P0103",
+        "B03-C005-P0112",
+        "B03-C005-P0127",
+        "B03-C005-P0129",
+        "B03-C005-P0131",
+        "B03-C005-P0133",
+        "B03-C005-P0135",
+        "B03-C005-P0141",
+        "B03-C005-P0142",
+        "B03-C005-P0161",
+        "B03-C005-P0163",
+        "B03-C005-P0164",
+        "B03-C005-P0166",
+        "B03-C005-P0167",
+        "B03-C005-P0173",
+        "B03-C005-P0184",
+        "B03-C005-P0192",
+        "B03-C005-P0193",
+        "B03-C005-P0200",
+        "B03-C005-P0201"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1993",
+      "model_notes": "Transport security incident before arrival; repulsion is Hermione’s report while Harry is unconscious, not a witnessed school perimeter test."
+    },
+    {
+      "id": "B03-006",
+      "location": "Hogsmeade station — school arrival split",
+      "category": "route",
+      "description": "The train arrives at Hogsmeade’s tiny freezing platform in driving rain. Hagrid gathers first-years for their traditional lake crossing; older pupils leave along the platform to a rough muddy track with at least a hundred stagecoaches.",
+      "evidence": [
+        "B03-C005-P0204",
+        "B03-C005-P0205",
+        "B03-C005-P0206"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1993",
+      "model_notes": "First explicit station name. Distinct first-year boat and older-pupil coach arrangements, without mapping station-to-lake path anew."
+    },
+    {
+      "id": "B03-007",
+      "location": "Arrival coaches",
+      "category": "magic",
+      "description": "A boarded coach sets off apparently by itself; Harry assumes an invisible horse. Its small windows, lumpy seats, mould-and-straw smell and bumping procession are described.",
+      "evidence": [
+        "B03-C005-P0206",
+        "B03-C005-P0207",
+        "B03-C005-P0208",
+        "B03-C005-P0214"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1993",
+      "model_notes": "Observation and Harry’s assumption kept separate; no unseen animal species supplied from later knowledge."
+    },
+    {
+      "id": "B03-008",
+      "location": "Grounds gates and castle drive",
+      "category": "exterior",
+      "description": "Magnificent wrought-iron gates stand between stone columns topped by winged boars, with a Dementor guarding each side. Beyond them a long sloping drive rises to the many-towered castle, ending at its stone entrance steps.",
+      "evidence": [
+        "B03-C005-P0208",
+        "B03-C005-P0209",
+        "B03-C005-P0211",
+        "B03-C005-P0215",
+        "B03-C005-P0216"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1993",
+      "model_notes": "Gateposts and two visible sentries explicit; no total perimeter length or gate compass bearing."
+    },
+    {
+      "id": "B03-009",
+      "location": "Entrance Hall — right-hand Great Hall door",
+      "category": "interior",
+      "description": "The giant oak doors open into a cavernous torchlit hall with a marble stair to upper floors. The Great Hall door is open to the right, showing a black cloudy enchanted ceiling.",
+      "evidence": [
+        "B03-C005-P0216",
+        "B03-C005-P0217"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1993",
+      "model_notes": "Right relative to entering from the front; cloud state differs from previous arrival nights."
+    },
+    {
+      "id": "B03-010",
+      "location": "Entrance Hall to McGonagall’s office",
+      "category": "route",
+      "description": "McGonagall takes Harry and Hermione across the hall, up the marble staircase and along a corridor to her small office, warmed by a large fire, with desk and visitor seats. They later return down the same marble stair to the Great Hall.",
+      "evidence": [
+        "B03-C005-P0219",
+        "B03-C005-P0220",
+        "B03-C005-P0221",
+        "B03-C005-P0222",
+        "B03-C005-P0238",
+        "B03-C005-P0239"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1993",
+      "model_notes": "Adds small office size and route, no fresh absolute floor number."
+    },
+    {
+      "id": "B03-011",
+      "location": "Great Hall — sorting stool and feast",
+      "category": "temporary",
+      "description": "Candles hover over the long house tables; a three-legged stool and Sorting Hat are carried out after sorting. The staff table is opposite the direction Harry takes to Gryffindor; food and drink fill golden tableware and leftovers later melt away.",
+      "evidence": [
+        "B03-C005-P0240",
+        "B03-C005-P0242",
+        "B03-C005-P0243",
+        "B03-C005-P0261",
+        "B03-C005-P0262",
+        "B03-C005-P0263",
+        "B03-C005-P0264"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1993",
+      "model_notes": "Three-legged stool differs from book 1’s four-legged one: retain as separate dated furniture, not a fixed identical object."
+    },
+    {
+      "id": "B03-012",
+      "location": "Grounds entrances — Dementor access constraints",
+      "category": "magic",
+      "description": "Dumbledore announces Dementors at every entrance, forbids leaving without permission and warns that disguises, tricks and Invisibility Cloaks cannot fool them.",
+      "evidence": [
+        "B03-C005-P0248",
+        "B03-C005-P0249",
+        "B03-C005-P0250",
+        "B03-C005-P0251"
+      ],
+      "certainty": "reported",
+      "temporal": "1993–94 Dementor deployment",
+      "model_notes": "Character statement about security capability, not proof of an unbroken physical wall or a specified number of entrances."
+    },
+    {
+      "id": "B03-013",
+      "location": "Great Hall to Gryffindor Tower — new password",
+      "category": "route",
+      "description": "Gryffindors ascend the marble staircase and further corridors/stairs to the Fat Lady, whose password is now Fortuna Major. Beyond the common room the sexes take separate stairs; the boys use a spiral to the familiar round room with five four-posters.",
+      "evidence": [
+        "B03-C005-P0268",
+        "B03-C005-P0269",
+        "B03-C005-P0270",
+        "B03-C005-P0271"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1993",
+      "model_notes": "Reaffirms retained dormitory and separate stair routes; no floor-count reconstruction from the abbreviated journey."
+    },
+    {
+      "id": "B03-014",
+      "location": "Great Hall to North Tower — long stair route",
+      "category": "route",
+      "description": "Divination is at the top of North Tower, a long journey estimated by Ron at ten minutes. After seven long staircases the trio reach an unfamiliar stone-walled landing with a painting; an empty passage branches right and a window gives a partial lake view. Ron identifies that way as south.",
+      "evidence": [
+        "B03-C006-P0031",
+        "B03-C006-P0032",
+        "B03-C006-P0033",
+        "B03-C006-P0034",
+        "B03-C006-P0035",
+        "B03-C006-P0036"
+      ],
+      "certainty": "explicit",
+      "temporal": "2 September 1993",
+      "model_notes": "Seven flights are not seven floors. South is Ron’s orientation claim tied to the lake sightline, not an independently surveyed bearing."
+    },
+    {
+      "id": "B03-015",
+      "location": "Sir Cadogan route — paintings on tower approach",
+      "category": "furnishing",
+      "description": "A large landscape painting shows bare grass, then a dapple-grey pony and a squat armoured knight. The knight runs out left and through successive pictures to guide pupils, including women in crinolines on a narrow spiral stair and sinister monks near its top.",
+      "evidence": [
+        "B03-C006-P0034",
+        "B03-C006-P0037",
+        "B03-C006-P0038",
+        "B03-C006-P0039",
+        "B03-C006-P0042",
+        "B03-C006-P0043",
+        "B03-C006-P0044",
+        "B03-C006-P0045",
+        "B03-C006-P0046",
+        "B03-C006-P0047",
+        "B03-C006-P0048",
+        "B03-C006-P0049",
+        "B03-C006-P0050"
+      ],
+      "certainty": "explicit",
+      "temporal": "2 September 1993",
+      "model_notes": "Portrait subjects and cross-frame travel are observed; grass/pony inside the artwork are not real landing vegetation or a stable."
+    },
+    {
+      "id": "B03-016",
+      "location": "North Tower classroom access",
+      "category": "magic",
+      "description": "A tight narrow spiral climbs to a tiny landing with no doors. A circular ceiling trapdoor bears a brass plaque naming Sybill Trelawney; it opens and lowers a silvery ladder for entry.",
+      "evidence": [
+        "B03-C006-P0048",
+        "B03-C006-P0049",
+        "B03-C006-P0052",
+        "B03-C006-P0053",
+        "B03-C006-P0054",
+        "B03-C006-P0055",
+        "B03-C006-P0056",
+        "B03-C006-P0116"
+      ],
+      "certainty": "explicit",
+      "temporal": "2 September 1993",
+      "model_notes": "Trapdoor and ladder are the observed classroom entrance, not a conventional corridor door; exact staircase floors unknown."
+    },
+    {
+      "id": "B03-017",
+      "location": "Divination classroom — plan, furniture and light",
+      "category": "interior",
+      "description": "Circular walls enclose at least twenty small round tables crowded with chintz armchairs and fat pouffes. Closed window curtains and dark-red scarves over lamps produce dim crimson light. Trelawney sits in a winged chair by the fire.",
+      "evidence": [
+        "B03-C006-P0056",
+        "B03-C006-P0057",
+        "B03-C006-P0059",
+        "B03-C006-P0061",
+        "B03-C006-P0062",
+        "B03-C006-P0063",
+        "B03-C006-P0072",
+        "B03-C006-P0073",
+        "B03-C006-P0076",
+        "B03-C006-P0077",
+        "B03-C006-P0080",
+        "B03-C006-P0081",
+        "B03-C006-P0099",
+        "B03-C006-P0101"
+      ],
+      "certainty": "explicit",
+      "temporal": "2 September 1993",
+      "model_notes": "Attic/teashop comparison describes atmosphere, not an additional attic level. No table dimensions."
+    },
+    {
+      "id": "B03-018",
+      "location": "Divination classroom — hearth and shelving",
+      "category": "furnishing",
+      "description": "A fire beneath a crowded mantel heats a large copper kettle, making the room stifling and heavily perfumed. Wall shelves hold dusty feathers, candle stubs, worn cards, silver crystal balls and many cups; silver teapots include a very large one, and cups have pink or blue patterns.",
+      "evidence": [
+        "B03-C006-P0056",
+        "B03-C006-P0063",
+        "B03-C006-P0072",
+        "B03-C006-P0073",
+        "B03-C006-P0076",
+        "B03-C006-P0077",
+        "B03-C006-P0078",
+        "B03-C006-P0080",
+        "B03-C006-P0099",
+        "B03-C006-P0114",
+        "B03-C006-P0126"
+      ],
+      "certainty": "explicit",
+      "temporal": "2 September 1993",
+      "model_notes": "Detailed teaching props and sensory condition; two cups break during the lesson but no shelf damage is stated."
+    },
+    {
+      "id": "B03-019",
+      "location": "North Tower to Transfiguration",
+      "category": "route",
+      "description": "The pupils descend the ladder and winding stair, then take so long finding McGonagall’s classroom that they barely arrive on time despite leaving early.",
+      "evidence": [
+        "B03-C006-P0113",
+        "B03-C006-P0114",
+        "B03-C006-P0115",
+        "B03-C006-P0116",
+        "B03-C006-P0117",
+        "B03-C006-P0127"
+      ],
+      "certainty": "explicit",
+      "temporal": "2 September 1993",
+      "model_notes": "Search time must not be turned into a direct distance or classroom floor assignment."
+    },
+    {
+      "id": "B03-020",
+      "location": "Hagrid’s hut to creature paddock",
+      "category": "route",
+      "description": "From the castle the class descends springy damp sloping lawns to Hagrid’s forest-edge hut. He leads them around the tree boundary for about five minutes to an initially empty fenced paddock.",
+      "evidence": [
+        "B03-C006-P0150",
+        "B03-C006-P0151",
+        "B03-C006-P0152",
+        "B03-C006-P0153",
+        "B03-C006-P0154",
+        "B03-C006-P0155",
+        "B03-C006-P0167",
+        "B03-C006-P0168"
+      ],
+      "certainty": "explicit",
+      "temporal": "2 September 1993",
+      "model_notes": "The route skirts rather than enters the Forest; paddock distance measured only in narrated walking time."
+    },
+    {
+      "id": "B03-021",
+      "location": "Creature paddock — gate, grass and hippogriff tethers",
+      "category": "grounds",
+      "description": "Hagrid returns from the Forest with twelve hippogriffs on long chains and thick leather collars, brings them from the paddock’s opposite side and tethers them to the fence. Pupils climb over the fence; a gate can be opened for carrying Malfoy out. Ground inside is grass.",
+      "evidence": [
+        "B03-C006-P0168",
+        "B03-C006-P0172",
+        "B03-C006-P0173",
+        "B03-C006-P0174",
+        "B03-C006-P0176",
+        "B03-C006-P0178",
+        "B03-C006-P0183",
+        "B03-C006-P0187",
+        "B03-C006-P0189",
+        "B03-C006-P0208",
+        "B03-C006-P0211",
+        "B03-C006-P0214"
+      ],
+      "certainty": "explicit",
+      "temporal": "2 September 1993",
+      "model_notes": "Observed paddock equipment and circulation. Hippogriff coat colours include grey, bronze, pinkish roan, chestnut and black; no stable described."
+    },
+    {
+      "id": "B03-022",
+      "location": "Paddock — hippogriff flight clearance",
+      "category": "magic",
+      "description": "Harry mounts grey Buckbeak behind the wing joint after reciprocal bows. The animal unfolds wings described as twelve-foot, flies once round the paddock and lands; later Malfoy’s insult prompts a talon strike.",
+      "evidence": [
+        "B03-C006-P0179",
+        "B03-C006-P0181",
+        "B03-C006-P0188",
+        "B03-C006-P0189",
+        "B03-C006-P0190",
+        "B03-C006-P0191",
+        "B03-C006-P0192",
+        "B03-C006-P0193",
+        "B03-C006-P0194",
+        "B03-C006-P0195",
+        "B03-C006-P0196",
+        "B03-C006-P0198",
+        "B03-C006-P0200",
+        "B03-C006-P0202",
+        "B03-C006-P0203",
+        "B03-C006-P0204",
+        "B03-C006-P0205",
+        "B03-C006-P0206",
+        "B03-C006-P0209",
+        "B03-C006-P0210",
+        "B03-C006-P0211",
+        "B03-C006-P0214"
+      ],
+      "certainty": "explicit",
+      "temporal": "2 September 1993",
+      "model_notes": "Flight and approach rules constrain interaction space. Wording does not unambiguously distinguish individual wing length from full span; do not invent a paddock diameter."
+    },
+    {
+      "id": "B03-023",
+      "location": "Paddock to castle — hospital and common-room branches",
+      "category": "route",
+      "description": "Hagrid carries Malfoy uphill towards the castle through the paddock gate. The class follows up stone steps into the Entrance Hall; Pansy climbs the marble stair while Slytherins head towards the dungeon common room and the trio go upstairs to Gryffindor.",
+      "evidence": [
+        "B03-C006-P0214",
+        "B03-C006-P0215",
+        "B03-C006-P0218",
+        "B03-C006-P0219",
+        "B03-C006-P0220",
+        "B03-C006-P0221"
+      ],
+      "certainty": "explicit",
+      "temporal": "2 September 1993",
+      "model_notes": "Supports relative uphill terrain and branching indoor routes, without proving which hospital floor Pansy reaches."
+    },
+    {
+      "id": "B03-024",
+      "location": "Gryffindor Tower to Hagrid’s hut — evening sightline",
+      "category": "route",
+      "description": "From the tower common-room window the pupils see a light in Hagrid’s window. They descend from the portrait entrance to the front doors and cross wet dark grass to his hut, later being escorted back uphill.",
+      "evidence": [
+        "B03-C006-P0228",
+        "B03-C006-P0229",
+        "B03-C006-P0230",
+        "B03-C006-P0231",
+        "B03-C006-P0233",
+        "B03-C006-P0234",
+        "B03-C006-P0235",
+        "B03-C006-P0255",
+        "B03-C006-P0256",
+        "B03-C006-P0257"
+      ],
+      "certainty": "explicit",
+      "temporal": "2 September 1993",
+      "model_notes": "Direct common-room-to-hut window sightline; no compass bearing or distance. After-dark visits are forbidden for Harry in this security state."
+    },
+    {
+      "id": "B03-025",
+      "location": "Hagrid’s hut — tankard and outdoor water barrel",
+      "category": "furnishing",
+      "description": "Hagrid sits at the scrubbed wooden table with a nearly bucket-sized pewter tankard. Outside there is a water barrel into which, Hermione says, he plunges his head; he returns soaked.",
+      "evidence": [
+        "B03-C006-P0236",
+        "B03-C006-P0240",
+        "B03-C006-P0248",
+        "B03-C006-P0249",
+        "B03-C006-P0250",
+        "B03-C006-P0251",
+        "B03-C006-P0252",
+        "B03-C006-P0253"
+      ],
+      "certainty": "explicit",
+      "temporal": "2 September 1993",
+      "model_notes": "Table/tankard observed; barrel action is reported and supported by splash/wet return. No yard layout supplied."
+    },
+    {
+      "id": "B03-026",
+      "location": "Potions dungeon — shared worktable and gargoyle basin",
+      "category": "furnishing",
+      "description": "Cauldrons can be placed side by side around a shared ingredient-preparation table. A stone basin in a corner receives an icy jet from a gargoyle’s mouth and is used to wash hands and ladles; brass scales are used at desks.",
+      "evidence": [
+        "B03-C007-P0006",
+        "B03-C007-P0011",
+        "B03-C007-P0013",
+        "B03-C007-P0015",
+        "B03-C007-P0020",
+        "B03-C007-P0023",
+        "B03-C007-P0031",
+        "B03-C007-P0038",
+        "B03-C007-P0039",
+        "B03-C007-P0053",
+        "B03-C007-P0054"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1993",
+      "model_notes": "Explicit washing fixture and communal work surface; no identification with any entrance gargoyle."
+    },
+    {
+      "id": "B03-027",
+      "location": "Potions dungeon to Entrance Hall",
+      "category": "route",
+      "description": "Pupils climb steps from Potions to the Entrance Hall, then head to the Great Hall for lunch.",
+      "evidence": [
+        "B03-C007-P0061",
+        "B03-C007-P0062",
+        "B03-C007-P0066",
+        "B03-C007-P0070",
+        "B03-C007-P0073",
+        "B03-C007-P0079"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1993",
+      "model_notes": "Reaffirms direct vertical route. Hermione’s unexplained stair reappearance does not by itself imply a hidden architectural shortcut."
+    },
+    {
+      "id": "B03-028",
+      "location": "Defence classroom to staff room — broom cupboard",
+      "category": "route",
+      "description": "Lupin leaves his classroom’s teacher desk, leads pupils along a corridor, round a corner past a broom-storage door with a gum-blocked keyhole, then down a second corridor to the staff-room door.",
+      "evidence": [
+        "B03-C007-P0082",
+        "B03-C007-P0083",
+        "B03-C007-P0085",
+        "B03-C007-P0086",
+        "B03-C007-P0087",
+        "B03-C007-P0090",
+        "B03-C007-P0094",
+        "B03-C007-P0095",
+        "B03-C007-P0098",
+        "B03-C007-P0099"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1993",
+      "model_notes": "Two-corridor sequence and lockable broom storage; no floor number or exact distance."
+    },
+    {
+      "id": "B03-029",
+      "location": "Staff room — chairs and wardrobe at end",
+      "category": "interior",
+      "description": "The long panelled room contains old mismatched chairs, including a low armchair, and an old spare-robe wardrobe at the far end. The wardrobe stands close enough to bang against the wall when shaken.",
+      "evidence": [
+        "B03-C007-P0100",
+        "B03-C007-P0104",
+        "B03-C007-P0105",
+        "B03-C007-P0107",
+        "B03-C007-P0121",
+        "B03-C007-P0136",
+        "B03-C007-P0144",
+        "B03-C007-P0145",
+        "B03-C007-P0146",
+        "B03-C007-P0147"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1993",
+      "model_notes": "Adds long plan, chair variety, wardrobe end-position and closable door. No portrait or window inventory supplied."
+    },
+    {
+      "id": "B03-030",
+      "location": "Staff-room wardrobe — Boggart lesson",
+      "category": "temporary",
+      "description": "Lupin says a Boggart moved into the dark wardrobe the previous afternoon. It rattles the knob and shakes the wardrobe, then emerges as pupils back to the walls, taking successive frightening forms. After laughter and Riddikulus it bursts into smoke and vanishes.",
+      "evidence": [
+        "B03-C007-P0105",
+        "B03-C007-P0106",
+        "B03-C007-P0107",
+        "B03-C007-P0108",
+        "B03-C007-P0111",
+        "B03-C007-P0112",
+        "B03-C007-P0116",
+        "B03-C007-P0117",
+        "B03-C007-P0136",
+        "B03-C007-P0144",
+        "B03-C007-P0145",
+        "B03-C007-P0146",
+        "B03-C007-P0147",
+        "B03-C007-P0150",
+        "B03-C007-P0152",
+        "B03-C007-P0157",
+        "B03-C007-P0160",
+        "B03-C007-P0163",
+        "B03-C007-P0169",
+        "B03-C007-P0170",
+        "B03-C007-P0173",
+        "B03-C007-P0175",
+        "B03-C007-P0176",
+        "B03-C007-P0179",
+        "B03-C007-P0180",
+        "B03-C007-P0187"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1993",
+      "model_notes": "Temporary shape-shifter, not real staff-room banshee, giant spider or mummy residency. The silvery orb’s identity is not established by Lavender’s guess."
     }
   ],
   "chapter_reviews": [
@@ -93,6 +638,39 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter read. London shops and lodgings excluded; overheard arrangements for guards at grounds entrances retained as report."
+    },
+    {
+      "chapter": 5,
+      "reviewed_ranges": [
+        [
+          1,
+          271
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Coach horses remain unseen/assumed; school-gate geometry and distinct boat/coach routes retained. Sorting stool’s three legs preserved as dated evidence."
+    },
+    {
+      "chapter": 6,
+      "reviewed_ranges": [
+        [
+          1,
+          257
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. South/lake claim retained as Ron’s orientation, stair flights not floors. No film-derived hippogriff lake voyage: this flight circles only the paddock."
+    },
+    {
+      "chapter": 7,
+      "reviewed_ranges": [
+        [
+          1,
+          189
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Boggart forms retained as temporary lesson behaviour rather than actual castle fauna. Hermione’s anomalous stair position not used to invent architecture."
     }
   ]
 }
