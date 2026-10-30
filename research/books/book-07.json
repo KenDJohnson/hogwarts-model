@@ -1,6 +1,624 @@
 {
   "book": 7,
-  "entries": [],
+  "entries": [
+    {
+      "id": "B07-001",
+      "location": "Lupin’s Hogwarts office",
+      "category": "furnishing",
+      "description": "Harry and Lupin recall that a Grindylow in a tank stood in a corner of Lupin’s office on Harry’s first visit.",
+      "evidence": [
+        "B07-C005-P0066",
+        "B07-C005-P0067",
+        "B07-C005-P0068",
+        "B07-C005-P0070"
+      ],
+      "certainty": "reported",
+      "temporal": "Lupin’s teaching year, recalled July 1997",
+      "model_notes": "Recollection used for an identity check and accepted by Lupin; establishes tank-to-corner relationship but no size, window, floor or later survival of the fixture."
+    },
+    {
+      "id": "B07-002",
+      "location": "Secluded corners of Hogwarts grounds",
+      "category": "grounds",
+      "description": "Harry recalls private hours with Ginny in secluded corners of the school grounds. At the wedding he again remembers afternoons with her in lonely parts of the grounds.",
+      "evidence": [
+        "B07-C006-P0037",
+        "B07-C008-P0062"
+      ],
+      "certainty": "explicit",
+      "temporal": "July 1997 recollection",
+      "model_notes": "Narrated memory of outdoor privacy/concealment opportunities; no named corner, wall, planting type or exact spot is described."
+    },
+    {
+      "id": "B07-003",
+      "location": "Hagrid front garden burial recollection",
+      "category": "history",
+      "description": "Harry recalls Barty Crouch being Transfigured into a bone and buried in Hagrid’s front garden.",
+      "evidence": [
+        "B07-C006-P0078",
+        "B07-C006-P0079",
+        "B07-C006-P0080"
+      ],
+      "certainty": "reported",
+      "temporal": "July 1997 recollection",
+      "model_notes": "Reported recollection, not a visible grave or current inspection. Parent should reconcile this wording with the original event’s evidence; no marker, exact position or remaining bone is described."
+    },
+    {
+      "id": "B07-004",
+      "location": "Library Horcrux books removed to Headmaster study",
+      "category": "furnishing",
+      "description": "Hermione says Dumbledore removed all Horcrux books from the library shelves without destroying them, keeping them in his study. One recovered volume, Secrets of the Darkest Art, is large and bound in faded black leather.",
+      "evidence": [
+        "B07-C006-P0155",
+        "B07-C006-P0156",
+        "B07-C006-P0159",
+        "B07-C006-P0161",
+        "B07-C006-P0166",
+        "B07-C006-P0167"
+      ],
+      "certainty": "reported",
+      "temporal": "July 1997 recollection",
+      "model_notes": "Collection/storage state before funeral and subsequent removal; exact office shelf/cabinet is not identified and the time of original removal is explicitly uncertain."
+    },
+    {
+      "id": "B07-005",
+      "location": "Headmaster study window–Gryffindor girls’ dormitory",
+      "category": "route",
+      "description": "Hermione reports Summoning the removed books after Dumbledore’s funeral: they flew out of his study window and into the girls’ dormitory through its open window, where she packed them.",
+      "evidence": [
+        "B07-C006-P0161",
+        "B07-C006-P0162",
+        "B07-C006-P0163",
+        "B07-C006-P0164"
+      ],
+      "certainty": "reported",
+      "temporal": "Immediately after June 1997 funeral, reported July 1997",
+      "model_notes": "Exterior aerial connection and opening dormitory window. No window-to-window distance, compass bearing or full flight path specified; do not assume adjacent rooms."
+    },
+    {
+      "id": "B07-006",
+      "location": "Hogwarts unicorn herd",
+      "category": "grounds",
+      "description": "Hagrid reports that there are newborn unicorns and offers to show the students when they return.",
+      "evidence": [
+        "B07-C007-P0094",
+        "B07-C007-P0095"
+      ],
+      "certainty": "reported",
+      "temporal": "31 July 1997",
+      "model_notes": "Dated animal-population state associated with Hagrid’s Hogwarts work; exact enclosure or Forest clearing unspecified."
+    },
+    {
+      "id": "B07-007",
+      "location": "Dumbledore’s library and instruments bequeathed to school",
+      "category": "history",
+      "description": "Scrimgeour says Dumbledore’s private library, magical instruments and most other personal effects were left to Hogwarts.",
+      "evidence": [
+        "B07-C007-P0148"
+      ],
+      "certainty": "reported",
+      "temporal": "31 July 1997",
+      "model_notes": "Disposition supports continued school ownership of the collection; no physical relocation or exact posthumous room arrangement is shown here."
+    },
+    {
+      "id": "B07-008",
+      "location": "Gryffindor sword and Sorting Hat presentation",
+      "category": "magic",
+      "description": "Hermione recalls the sword coming to Harry out of the Sorting Hat. Scrimgeour says historical sources allow it to present itself to any worthy Gryffindor and refuses to transfer it under Dumbledore’s will. Harry recalls it hanging on the office wall during the previous year’s lessons.",
+      "evidence": [
+        "B07-C007-P0194",
+        "B07-C007-P0195",
+        "B07-C007-P0196",
+        "B07-C007-P0197",
+        "B07-C007-P0198",
+        "B07-C007-P0199",
+        "B07-C007-P0200",
+        "B07-C007-P0249",
+        "B07-C007-P0250"
+      ],
+      "certainty": "reported",
+      "temporal": "31 July 1997",
+      "model_notes": "Reported access behaviour and former display position, not proof of a current item’s authenticity or a visible sword-to-hat passage. No sword is produced at this meeting."
+    },
+    {
+      "id": "B07-009",
+      "location": "Headmaster’s study / Phineas Nigellus portrait",
+      "category": "magic",
+      "description": "Seeing Phineas Nigellus’s empty portrait at Grimmauld Place, Harry concludes that its subject is spending the night in the Headmaster’s study at Hogwarts.",
+      "evidence": [
+        "B07-C010-P0006"
+      ],
+      "certainty": "inference",
+      "temporal": "August 1997",
+      "model_notes": "Establishes Harry’s understanding of linked portrait destinations; his conclusion is not a direct observation of the school frame that night."
+    },
+    {
+      "id": "B07-010",
+      "location": "Hogwarts Apparition protections",
+      "category": "magic",
+      "description": "Ron explains that house-elves can Apparate and Disapparate into and out of Hogwarts although wizards cannot.",
+      "evidence": [
+        "B07-C010-P0155",
+        "B07-C010-P0156",
+        "B07-C010-P0157"
+      ],
+      "certainty": "reported",
+      "temporal": "August 1997 explanation of continuing constraint",
+      "model_notes": "Species-specific access rule; do not apply the wizard prohibition to house-elves. The sea cave discussed alongside it is a separate remote site."
+    },
+    {
+      "id": "B07-011",
+      "location": "Hogwarts Express approach context",
+      "category": "route",
+      "description": "Harry remembers following the scarlet steam engine by air as it passed between fields and hills.",
+      "evidence": [
+        "B07-C012-P0025"
+      ],
+      "certainty": "explicit",
+      "temporal": "Recollection on 1 September 1997 of an earlier school journey",
+      "model_notes": "Rural railway landscape, not a surveyed immediate castle approach; no distances or exact segment identified."
+    },
+    {
+      "id": "B07-012",
+      "location": "Headmaster’s office",
+      "category": "interior",
+      "description": "The Headmaster’s office is a circular room at the top of a tower. Harry associates it with Dumbledore’s delicate silver instruments, stone Pensieve, Sorting Hat and the sword of Gryffindor, whose continued presence he is unsure of.",
+      "evidence": [
+        "B07-C012-P0031"
+      ],
+      "certainty": "explicit",
+      "temporal": "Remembered office on 1 September 1997; Snape’s occupation anticipated",
+      "model_notes": "Room form and remembered contents are narrated; Harry is imagining Snape there and explicitly allows that the sword may have moved. Do not treat this as a witnessed inventory under Snape."
+    },
+    {
+      "id": "B07-013",
+      "location": "Headmaster’s office / Phineas Nigellus portrait",
+      "category": "magic",
+      "description": "Phineas Nigellus can move between his framed portrait at Grimmauld Place and the one hanging in the Headmaster’s office. Hermione puts the portable frame in her enlarged handbag to prevent its subject seeing the house for Snape.",
+      "evidence": [
+        "B07-C012-P0029",
+        "B07-C012-P0030",
+        "B07-C012-P0031",
+        "B07-C012-P0032"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1997",
+      "model_notes": "Linked portrait travel and visual access depend on frame placement; no physical tunnel implied."
+    },
+    {
+      "id": "B07-014",
+      "location": "Umbridge’s former Hogwarts office",
+      "category": "furnishing",
+      "description": "Harry recognises the Ministry office as matching Umbridge’s Hogwarts office: lace draperies, doilies and dried flowers covering surfaces, ornamental wall plates with brightly coloured beribboned moving kittens, and a flouncy flowered desk cloth.",
+      "evidence": [
+        "B07-C013-P0032"
+      ],
+      "certainty": "explicit",
+      "temporal": "Recollection in September 1997 of Umbridge’s 1995–96 Hogwarts office",
+      "model_notes": "The explicit comparison supports these shared decorations; the Ministry door’s transplanted magical eye and telescope are not stated to have been at Hogwarts."
+    },
+    {
+      "id": "B07-015",
+      "location": "Filch’s filing cabinets",
+      "category": "furnishing",
+      "description": "A Ministry filing cabinet reminds Harry of Filch’s filing cabinets at Hogwarts, full of folders labelled with individual names.",
+      "evidence": [
+        "B07-C013-P0034"
+      ],
+      "certainty": "explicit",
+      "temporal": "Recollection in September 1997 of Umbridge’s 1995–96 Hogwarts office",
+      "model_notes": "Confirms cabinets and folder organisation, without assigning their room position or number."
+    },
+    {
+      "id": "B07-016",
+      "location": "Forbidden Forest / Hagrid’s hut",
+      "category": "grounds",
+      "description": "Harry initially mistakes another wood for the Forbidden Forest and imagines slipping through its trees to Hagrid’s hut. He distinguishes the other wood by its younger, more widely spaced trees and clearer ground.",
+      "evidence": [
+        "B07-C014-P0001",
+        "B07-C014-P0002",
+        "B07-C014-P0034"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1997 recollection",
+      "model_notes": "Relative comparison supports older, denser trees and more obstructed ground in the Forbidden Forest, not uniform tree ages or measured spacing. The observed canopy and clearing belong to the World Cup woods, not Hogwarts."
+    },
+    {
+      "id": "B07-017",
+      "location": "Headmaster’s office / sword display",
+      "category": "temporary",
+      "description": "Dirk reports that Ginny and two friends entered Snape’s office, smashed the sword’s glass case and were caught carrying the sword down the staircase. He says Snape sent the displayed sword to Gringotts a couple of days later; Griphook identifies that deposited blade as a copy.",
+      "evidence": [
+        "B07-C015-P0122",
+        "B07-C015-P0125",
+        "B07-C015-P0127",
+        "B07-C015-P0129",
+        "B07-C015-P0132",
+        "B07-C015-P0134"
+      ],
+      "certainty": "reported",
+      "temporal": "Autumn 1997",
+      "model_notes": "Reported chain is Bill to Griphook to Dirk; preserve broken case and removed display as dated states. This does not establish who made the substitution or when."
+    },
+    {
+      "id": "B07-018",
+      "location": "Headmaster’s office / Phineas Nigellus portrait",
+      "category": "furnishing",
+      "description": "Hermione says Phineas Nigellus’s portrait hangs immediately beside the sword’s display case.",
+      "evidence": [
+        "B07-C015-P0159",
+        "B07-C015-P0160"
+      ],
+      "certainty": "reported",
+      "temporal": "Autumn 1997",
+      "model_notes": "Relative adjacency, without compass direction or height."
+    },
+    {
+      "id": "B07-019",
+      "location": "Hogwarts portraits",
+      "category": "magic",
+      "description": "Phineas Nigellus explains that Hogwarts portraits can communicate with one another, but may leave the castle only to visit another painting of themselves. Dumbledore therefore cannot accompany him into his frame outside Hogwarts.",
+      "evidence": [
+        "B07-C015-P0188",
+        "B07-C015-P0189",
+        "B07-C015-P0190",
+        "B07-C015-P0192",
+        "B07-C015-P0194",
+        "B07-C015-P0199",
+        "B07-C015-P0200",
+        "B07-C015-P0202",
+        "B07-C015-P0204",
+        "B07-C021-P0125"
+      ],
+      "certainty": "reported",
+      "temporal": "Autumn 1997",
+      "model_notes": "Castle boundary limits portrait travel; the painted subject can move to a linked self-portrait and remains able to hear while blindfolded. Do not permit unrestricted travel through arbitrary off-site portraits. A later explicit comparison with Luna’s painted ceiling confirms that Hogwarts portraits move."
+    },
+    {
+      "id": "B07-020",
+      "location": "Forbidden Forest",
+      "category": "temporary",
+      "description": "Phineas reports that Snape sent Ginny, Neville and Luna into the Forbidden Forest to work for Hagrid. Ron subsequently protests that the forest contains giant spiders.",
+      "evidence": [
+        "B07-C015-P0174",
+        "B07-C015-P0176",
+        "B07-C015-P0179",
+        "B07-C015-P0180",
+        "B07-C015-P0254",
+        "B07-C015-P0255"
+      ],
+      "certainty": "reported",
+      "temporal": "Autumn 1997",
+      "model_notes": "Dated use as detention/work area and character report of dangerous fauna; no work site or route within the forest is specified."
+    },
+    {
+      "id": "B07-021",
+      "location": "Shrieking Shack / Hogsmeade",
+      "category": "magic",
+      "description": "In speculating where the sword might be hidden, Harry says nobody goes into the Shrieking Shack; Hermione points out that Snape knows how to enter it.",
+      "evidence": [
+        "B07-C015-P0216",
+        "B07-C015-P0217",
+        "B07-C015-P0218",
+        "B07-C015-P0219",
+        "B07-C015-P0220"
+      ],
+      "certainty": "reported",
+      "temporal": "Autumn 1997",
+      "model_notes": "Statements concern secluded access and a known entrant, not proof the sword was stored there or a description of its entrance."
+    },
+    {
+      "id": "B07-022",
+      "location": "Hogwarts / Marauder’s Map",
+      "category": "magic",
+      "description": "From remote camps Harry uses the Marauder’s Map to watch for Ron in Hogwarts corridors and to see Ginny’s name in the girls’ dormitory.",
+      "evidence": [
+        "B07-C016-P0006"
+      ],
+      "certainty": "explicit",
+      "temporal": "Autumn 1997",
+      "model_notes": "Remote live tracking includes corridors and a girls’ dormitory; no room shape or absolute position supplied."
+    },
+    {
+      "id": "B07-023",
+      "location": "Hogwarts–Hogsmeade student access",
+      "category": "temporary",
+      "description": "Phineas Nigellus reports that Ginny is banned from visiting Hogsmeade under Snape. Harry also remembers needing a guardian-signed permission slip and asking McGonagall for permission when he lacked one.",
+      "evidence": [
+        "B07-C016-P0009",
+        "B07-C016-P0010",
+        "B07-C016-P0016"
+      ],
+      "certainty": "reported",
+      "temporal": "Autumn 1997 restriction and recollection of earlier visits",
+      "model_notes": "Social access constraints for the village route, without a newly described physical barrier."
+    },
+    {
+      "id": "B07-024",
+      "location": "Great Hall / castle Christmas decorations",
+      "category": "temporary",
+      "description": "Carols recall Hogwarts Christmases to Harry: twelve Christmas trees in the Great Hall and Peeves singing rude carols from inside suits of armour.",
+      "evidence": [
+        "B07-C016-P0089"
+      ],
+      "certainty": "explicit",
+      "temporal": "Christmas Eve 1997 recollection of earlier school Christmases",
+      "model_notes": "Seasonal count and use of hollow armour; no assertion that the same decorations are present under Snape that year."
+    },
+    {
+      "id": "B07-025",
+      "location": "Dumbledore’s tomb",
+      "category": "grounds",
+      "description": "Harry identifies his parents’ white-marble headstone as the same material as Dumbledore’s tomb.",
+      "evidence": [
+        "B07-C016-P0124"
+      ],
+      "certainty": "explicit",
+      "temporal": "Christmas Eve 1997 recollection",
+      "model_notes": "Corroborates the Hogwarts tomb’s white marble only; graveyard row positions and visibility belong to Godric’s Hollow, not the school tomb."
+    },
+    {
+      "id": "B07-026",
+      "location": "Room of Requirement / hidden objects state",
+      "category": "interior",
+      "description": "The clutter of Xenophilius’s living room recalls the Room of Requirement transformed into a gigantic labyrinth made of objects hidden over centuries.",
+      "evidence": [
+        "B07-C020-P0111"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late December 1997 recollection of the 1996–97 hiding-room state",
+      "model_notes": "Supports enormous scale and maze-like accumulated storage. The circular room, hanging creature models and working printing press belong to Lovegood’s house and are not attributes of the Hogwarts room."
+    },
+    {
+      "id": "B07-027",
+      "location": "Hagrid’s house / Hogwarts grounds",
+      "category": "temporary",
+      "description": "Potterwatch reports Hagrid escaping attempted arrest within the grounds after a rumoured pro-Harry gathering in his house. Lee refers to his sixteen-foot-high half-brother as possible help in the escape.",
+      "evidence": [
+        "B07-C022-P0163",
+        "B07-C022-P0164",
+        "B07-C022-P0165"
+      ],
+      "certainty": "reported",
+      "temporal": "March 1998 broadcast about events within the previous hours",
+      "model_notes": "Evidence for an inhabited Hagrid house after the previous book’s fire, without a stated reconstruction or a guarantee it is the same building. The party is explicitly a rumour; Grawp’s assistance is suggested rather than witnessed."
+    },
+    {
+      "id": "B07-028",
+      "location": "Slytherin common room",
+      "category": "interior",
+      "description": "Harry tells the Snatchers that the Slytherin common room is in the dungeons, entered through a wall, full of skulls and other things, and under the lake, which gives its light a green colour.",
+      "evidence": [
+        "B07-C023-P0050",
+        "B07-C023-P0051",
+        "B07-C023-P0052",
+        "B07-C023-P0053",
+        "B07-C023-P0054",
+        "B07-C023-P0055"
+      ],
+      "certainty": "reported",
+      "temporal": "March 1998 account of remembered school space",
+      "model_notes": "Harry is falsely claiming Slytherin membership; Scabior accepts the architectural answer as convincing. Retain the account as reported rather than a witnessed current state. No window form, lake depth or entrance password supplied."
+    },
+    {
+      "id": "B07-029",
+      "location": "Tallest tower / lawn at its foot",
+      "category": "exterior",
+      "description": "Dobby’s death recalls Harry kneeling beside Dumbledore’s body on the grass at the foot of Hogwarts’ tallest tower.",
+      "evidence": [
+        "B07-C024-P0001"
+      ],
+      "certainty": "explicit",
+      "temporal": "March 1998 recollection of June 1997",
+      "model_notes": "Confirms highest-tower base on lawn; no new tower plan or height."
+    },
+    {
+      "id": "B07-030",
+      "location": "Lakeside funeral site / Dumbledore’s tomb",
+      "category": "temporary",
+      "description": "Harry remembers rows and rows of golden chairs at Dumbledore’s funeral, the Minister for Magic in the front row, and a stately white marble tomb.",
+      "evidence": [
+        "B07-C024-P0022"
+      ],
+      "certainty": "explicit",
+      "temporal": "March 1998 recollection of June 1997 funeral",
+      "model_notes": "Adds chair colour and seating arrangement. The rough earth grave and bushes described in the present scene belong to Dobby’s remote Shell Cottage burial."
+    },
+    {
+      "id": "B07-031",
+      "location": "Hogsmeade / regional position",
+      "category": "route",
+      "description": "In the dawn vision, Hogsmeade’s main street remains dark while the sun has already risen at Shell Cottage; the narration attributes the difference to its position much farther north.",
+      "evidence": [
+        "B07-C024-P0046",
+        "B07-C024-P0054",
+        "B07-C024-P0111",
+        "B07-C024-P0225"
+      ],
+      "certainty": "explicit",
+      "temporal": "March 1998 early-morning journey",
+      "model_notes": "Narrated relative geography, not a usable numerical latitude, travel distance or astronomical measurement."
+    },
+    {
+      "id": "B07-032",
+      "location": "Hogwarts gates → grounds → lakeshore → castle path",
+      "category": "route",
+      "description": "Harry sees Voldemort at the school gates as a lamp approaches through the pre-dawn. He then experiences travel alongside Snape up through the grounds towards the lake. Snape returns up the path towards the castle; Voldemort continues around the lake edge, with the castle in view and no lights in its windows.",
+      "evidence": [
+        "B07-C024-P0238",
+        "B07-C024-P0248",
+        "B07-C024-P0249",
+        "B07-C024-P0250",
+        "B07-C024-P0251"
+      ],
+      "certainty": "explicit",
+      "temporal": "March 1998 pre-dawn",
+      "model_notes": "Narrated through Harry’s connection to Voldemort. Preserve the sequence and uphill wording without assuming the exact junction of the lake path and entrance drive."
+    },
+    {
+      "id": "B07-033",
+      "location": "Dumbledore’s lakeside tomb",
+      "category": "temporary",
+      "description": "The white marble tomb stands beside the lake and is reflected in its dark water. Voldemort splits it open lengthwise from head to foot, revealing a shrouded, long thin body; the wrappings open and the wand is removed from beneath the folded hands on its chest.",
+      "evidence": [
+        "B07-C024-P0252",
+        "B07-C024-P0253",
+        "B07-C024-P0254",
+        "B07-C024-P0255"
+      ],
+      "certainty": "explicit",
+      "temporal": "March 1998 tomb desecration",
+      "model_notes": "Dated open/broken state, not the intact funeral model. No lid thickness, cavity dimensions or repair yet established."
+    },
+    {
+      "id": "B07-034",
+      "location": "Hogsmeade / Hogwarts perimeter",
+      "category": "magic",
+      "description": "In Harry’s vision Voldemort believes Harry cannot enter Hogsmeade undetected, still less the school, and plans to alert Snape that he may try to re-enter the castle. Harry chooses Hogsmeade as the approach from which to assess the school’s protections.",
+      "evidence": [
+        "B07-C027-P0053",
+        "B07-C027-P0060",
+        "B07-C027-P0062",
+        "B07-C027-P0065",
+        "B07-C027-P0066"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998, immediately before the return to Hogwarts",
+      "model_notes": "The impossibility is Voldemort’s confidence, not an established absolute barrier. Protection mechanisms are not described here; preserve subsequent observations separately."
+    },
+    {
+      "id": "B07-035",
+      "location": "Hogsmeade High Street / Hogwarts approach",
+      "category": "route",
+      "description": "On arrival Harry sees dark shop fronts, black mountains beyond the village, the curve in the road ahead leading towards Hogwarts, and light from the Three Broomsticks. They retreat from the High Street into the nearest narrow side street.",
+      "evidence": [
+        "B07-C028-P0001",
+        "B07-C028-P0002",
+        "B07-C028-P0007"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Local street curve and mountain backdrop without compass bearing. Three Broomsticks functions as a Death Eater base that night."
+    },
+    {
+      "id": "B07-036",
+      "location": "Hogsmeade curfew / Caterwauling Charm",
+      "category": "magic",
+      "description": "Their night arrival causes a piercing scream, which a Death Eater silences with his wand. The Death Eaters call it a Caterwauling Charm enforcing curfew; Aberforth says moving outdoors in darkness triggers it and that curfew lifts at daybreak.",
+      "evidence": [
+        "B07-C028-P0002",
+        "B07-C028-P0003",
+        "B07-C028-P0031",
+        "B07-C028-P0032",
+        "B07-C028-P0033",
+        "B07-C028-P0034",
+        "B07-C028-P0035",
+        "B07-C028-P0041",
+        "B07-C028-P0067"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Observed alarm plus attributed explanation. The alarm detects an outdoor presence despite the Invisibility Cloak; it does not itself identify the trio’s exact position."
+    },
+    {
+      "id": "B07-037",
+      "location": "Hogsmeade anti-Apparition protections / Dementors",
+      "category": "magic",
+      "description": "The trio cannot Disapparate: the air feels solid. Dementors draw light from the surroundings and stars, bring intense cold, and approach around a corner of the side street, ten or more appearing darker than the darkness. A Patronus drives them away and the stars return.",
+      "evidence": [
+        "B07-C028-P0010",
+        "B07-C028-P0011",
+        "B07-C028-P0014",
+        "B07-C028-P0015",
+        "B07-C028-P0016",
+        "B07-C028-P0017",
+        "B07-C028-P0018",
+        "B07-C028-P0019",
+        "B07-C028-P0020",
+        "B07-C028-P0021"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Dated town restriction and environmental effect, not proof of permanent year-round town anti-Apparition rules."
+    },
+    {
+      "id": "B07-038",
+      "location": "Hog’s Head side entrance → upstairs sitting room",
+      "category": "route",
+      "description": "A bolted door opens on the left side of the narrow street into the Hog’s Head’s grubby, sawdust-strewn bar, lit by one flickering candle. Behind the counter a second doorway leads to a rickety wooden staircase opening into the upstairs sitting room.",
+      "evidence": [
+        "B07-C028-P0021",
+        "B07-C028-P0022",
+        "B07-C028-P0023",
+        "B07-C028-P0024",
+        "B07-C028-P0025",
+        "B07-C028-P0042"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Tunnel access approach; relative left is from the trio’s retreat, not a compass direction. The upstairs grimy window overlooks the street."
+    },
+    {
+      "id": "B07-039",
+      "location": "Hog’s Head upstairs sitting room / tunnel anteroom",
+      "category": "furnishing",
+      "description": "The sitting room has a threadbare carpet, small fireplace, wobble-legged chair and a small table before the fire. One large oil painting of a blonde girl hangs above the fireplace; it is the room’s only picture. A small rectangular mirror stands on the mantelpiece directly below it. Harry closes the window curtains; Aberforth lights lamps and the fire.",
+      "evidence": [
+        "B07-C028-P0024",
+        "B07-C028-P0025",
+        "B07-C028-P0042",
+        "B07-C028-P0043",
+        "B07-C028-P0055",
+        "B07-C028-P0057",
+        "B07-C028-P0066",
+        "B07-C028-P0092",
+        "B07-C028-P0093",
+        "B07-C028-P0094"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Necessary model context for tunnel mouth. Mirror is a communication object, separate from the passage portrait; no Albus photograph is present."
+    },
+    {
+      "id": "B07-040",
+      "location": "Hogsmeade → mountain refuge / Apparition boundary",
+      "category": "route",
+      "description": "Aberforth advises waiting until daylight, leaving Hogsmeade on foot and climbing into the mountains, where Apparition becomes possible. He reports Hagrid hiding in a cave there with Grawp after the attempted arrest.",
+      "evidence": [
+        "B07-C028-P0067"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "No surveyed town boundary, cave coordinates or identity with the earlier mountain cave supplied."
+    },
+    {
+      "id": "B07-041",
+      "location": "Hogwarts boundary walls / old passages / patrols",
+      "category": "temporary",
+      "description": "Aberforth reports all old secret passages watched at both ends, Dementors around the boundary walls, and regular patrols within the school; he says his alternative is now the only way in.",
+      "evidence": [
+        "B07-C028-P0149"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "His sources support a very heavily guarded wartime state; “only” is his assessment, not a guarantee against every magical exception."
+    },
+    {
+      "id": "B07-042",
+      "location": "Hog’s Head Ariana portrait / real tunnel entrance",
+      "category": "route",
+      "description": "Ariana’s painted figure walks away into a long dark tunnel depicted behind her, then returns with Neville. The whole picture swings forwards like a little door, revealing a real tunnel. Neville climbs out and jumps down from the mantelpiece.",
+      "evidence": [
+        "B07-C028-P0145",
+        "B07-C028-P0146",
+        "B07-C028-P0147",
+        "B07-C028-P0151"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Portrait aperture is above the fireplace/mantelpiece; the painted approach depicts the real tunnel’s traveller. Far endpoint and dimensions await the next chapter."
+    }
+  ],
   "chapter_reviews": [
     {
       "chapter": 1,
@@ -12,6 +630,303 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter. Malfoy Manor and its security are not Hogwarts grounds; Charity Burbage’s employment, departure plans and Ministry transport discussions add no school-specific physical or spatial description. No manor feature is transferred to Hogwarts."
+    },
+    {
+      "chapter": 2,
+      "reviewed_ranges": [
+        [
+          1,
+          63
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two non-truncated blocks, including entire Doge obituary and Skeeter interview. School biography, Mirror dialogue and disputed account of Dumbledore’s fall add no new Hogwarts physical or spatial details. Privet Drive and purported Lake Windermere scene are outside scope."
+    },
+    {
+      "chapter": 3,
+      "reviewed_ranges": [
+        [
+          1,
+          120
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter. Privet Drive departure, blood protection, safe-house logistics and family dialogue contain no Hogwarts architectural or grounds description. Hagrid’s remembered door-smashing and general Dementor discussion belong elsewhere."
+    },
+    {
+      "chapter": 4,
+      "reviewed_ranges": [
+        [
+          1,
+          167
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks. Seven-Potter departure, aerial chase, vehicle defences and safe-house crash occur away from Hogwarts. No school grounds, lake or boundary is described; the muddy pond is the safe-house crash site, not the Hogwarts lake."
+    },
+    {
+      "chapter": 5,
+      "reviewed_ranges": [
+        [
+          1,
+          259
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks. Recorded remembered corner tank in Lupin’s school office. Tonks safe-house, Burrow, aerial route, wounds and Ollivander vision are outside Hogwarts site; protected hundred-yard safe-house boundary must not be assigned to Hogwarts."
+    },
+    {
+      "chapter": 6,
+      "reviewed_ranges": [
+        [
+          1,
+          226
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks, including full planning/Horcrux discussion. Captured secluded school grounds recollection, reported Crouch front-garden burial, removed library collection and study-to-girls-dormitory window flight. Burrow ghoul/attic/security and garden preparations are off site and excluded."
+    },
+    {
+      "chapter": 7,
+      "reviewed_ranges": [
+        [
+          1,
+          269
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks, including full will conversation and late-night object examination. Recorded Hagrid’s newborn unicorn report, school legacy collection and sword display/presentation account. Burrow furnishings, birthday decorations and distant mountain dream are off site; carried gifts are not Hogwarts fixtures."
+    },
+    {
+      "chapter": 8,
+      "reviewed_ranges": [
+        [
+          1,
+          211
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks, including full Doge/Muriel history and Krum dialogue. Combined repeated secluded-grounds recollection. Burrow wedding tent, Durmstrang wall carving and Godric’s Hollow family/cellar accounts do not describe Hogwarts; officiant’s previous funeral attendance adds no new funeral layout."
+    },
+    {
+      "chapter": 9,
+      "reviewed_ranges": [
+        [
+          1,
+          145
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all narrative paragraphs. London cafe, Grimmauld Place and Malfoy Manor scenes add no Hogwarts spatial constraints."
+    },
+    {
+      "chapter": 10,
+      "reviewed_ranges": [
+        [
+          1,
+          195
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Recorded linked portrait destination and house-elf exception to Hogwarts Apparition protections. Grimmauld Place and the sea cave are outside school/grounds scope."
+    },
+    {
+      "chapter": 11,
+      "reviewed_ranges": [
+        [
+          1,
+          207
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Grimmauld Place action and Dumbledore family history add no school geometry. Reported compulsory attendance and blood-status admissions are administrative policy without physical/spatial detail."
+    },
+    {
+      "chapter": 12,
+      "reviewed_ranges": [
+        [
+          1,
+          215
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Recorded railway recollection, tower-top circular study and portrait surveillance mechanism. Ministry architecture and London entrance routes excluded."
+    },
+    {
+      "chapter": 13,
+      "reviewed_ranges": [
+        [
+          1,
+          190
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Recorded explicit comparisons with Hogwarts office decorations and Filch’s files. Remaining Ministry architecture, courtroom and escape route are outside scope."
+    },
+    {
+      "chapter": 14,
+      "reviewed_ranges": [
+        [
+          1,
+          137
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Recorded explicit Forbidden Forest comparison and imagined wooded approach to Hagrid. World Cup woods, tent and Gregorovitch workshop are not school sites."
+    },
+    {
+      "chapter": 15,
+      "reviewed_ranges": [
+        [
+          1,
+          278
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three complete chunks. Recorded sword case damage/removal, portrait adjacency and travel limits, Forest work/giant spiders, and Shack access remarks. Off-site camping geography excluded; Horcrux-location speculation not treated as a confirmed hiding place."
+    },
+    {
+      "chapter": 16,
+      "reviewed_ranges": [
+        [
+          1,
+          133
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Recorded remote map view, village access restrictions, school Christmas recollections and tomb material comparison. Godric’s Hollow streets, church and graves are geographically separate and excluded."
+    },
+    {
+      "chapter": 17,
+      "reviewed_ranges": [
+        [
+          1,
+          207
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Godric’s Hollow cottage, Bathilda’s house, Voldemort’s recollection of the Potters’ deaths and subsequent campsite are outside Hogwarts scope; no added school spatial descriptions."
+    },
+    {
+      "chapter": 18,
+      "reviewed_ranges": [
+        [
+          1,
+          78
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs, including the full embedded biography extract. Dumbledore/Grindelwald family history, Durmstrang, Nurmengard and snowy campsite do not add Hogwarts physical or spatial constraints."
+    },
+    {
+      "chapter": 19,
+      "reviewed_ranges": [
+        [
+          1,
+          230
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three complete chunks. Forest of Dean pool, oaks, sycamore, snow and campsite are explicitly remote from Hogwarts and excluded. Sword retrieval and portable Deluminator do not establish additional school geometry."
+    },
+    {
+      "chapter": 20,
+      "reviewed_ranges": [
+        [
+          1,
+          153
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Recorded direct comparison with Room of Requirement’s hiding state. Ottery St Catchpole, Lovegood tower, its garden and inventions are outside school boundary/tunnel context."
+    },
+    {
+      "chapter": 21,
+      "reviewed_ranges": [
+        [
+          1,
+          181
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs, including complete embedded Three Brothers tale. Combined the comparison confirming moving Hogwarts portraits with portrait evidence. Lovegood house and its destruction are outside school scope."
+    },
+    {
+      "chapter": 22,
+      "reviewed_ranges": [
+        [
+          1,
+          190
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Recorded dated report concerning Hagrid’s house, attempted arrest on grounds and giant half-brother. Chamber myth remark adds no geometry; camping and wider war news excluded."
+    },
+    {
+      "chapter": 23,
+      "reviewed_ranges": [
+        [
+          1,
+          343
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three complete chunks. Recorded Harry’s Slytherin common-room account. Malfoy Manor, its escape-proof cellar, the distant black fortress and Shell Cottage are separate sites; no architectural details from them transferred to Hogwarts."
+    },
+    {
+      "chapter": 24,
+      "reviewed_ranges": [
+        [
+          1,
+          255
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three complete chunks. Recorded tower-base and funeral recollections, northern Hogsmeade position, gate/grounds/lake journey and tomb damage through Voldemort vision. Shell Cottage architecture excluded."
+    },
+    {
+      "chapter": 25,
+      "reviewed_ranges": [
+        [
+          1,
+          164
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Shell Cottage, sword ownership debate and diadem replica add no school geometry. Luna reports being taken from Hogwarts Express before Christmas, without describing a railway/station location or physical change."
+    },
+    {
+      "chapter": 26,
+      "reviewed_ranges": [
+        [
+          1,
+          187
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three complete chunks. Gringotts bank, underground lake, vaults, tunnels and dragon escape are London sites, not Hogwarts; no added school spatial descriptions."
+    },
+    {
+      "chapter": 27,
+      "reviewed_ranges": [
+        [
+          1,
+          69
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Recorded Hogsmeade/school surveillance expectation and proposed approach. The dragon’s landing lake is an unnamed remote mountain lake, not the Hogwarts lake; Voldemort’s other lake is the sea-cave Horcrux site."
+    },
+    {
+      "chapter": 28,
+      "reviewed_ranges": [
+        [
+          1,
+          151
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in two complete chunks, including Aberforth’s entire family narrative. Recorded town approach, curfew/alarm, failed Apparition, Dementors, Hog’s Head access rooms, mountain escape option and portrait tunnel; family home history adds no Hogwarts geometry."
     }
   ]
 }
