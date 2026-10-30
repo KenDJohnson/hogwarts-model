@@ -1,6 +1,22 @@
 {
   "book": 7,
-  "entries": [],
+  "entries": [
+    {
+      "id": "B07-001",
+      "location": "Lupin’s Hogwarts office",
+      "category": "furnishing",
+      "description": "Harry and Lupin recall that a Grindylow in a tank stood in a corner of Lupin’s office on Harry’s first visit.",
+      "evidence": [
+        "B07-C005-P0066",
+        "B07-C005-P0067",
+        "B07-C005-P0068",
+        "B07-C005-P0070"
+      ],
+      "certainty": "reported",
+      "temporal": "Lupin’s teaching year, recalled July 1997",
+      "model_notes": "Recollection used for an identity check and accepted by Lupin; establishes tank-to-corner relationship but no size, window, floor or later survival of the fixture."
+    }
+  ],
   "chapter_reviews": [
     {
       "chapter": 1,
@@ -34,6 +50,28 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter. Privet Drive departure, blood protection, safe-house logistics and family dialogue contain no Hogwarts architectural or grounds description. Hagrid’s remembered door-smashing and general Dementor discussion belong elsewhere."
+    },
+    {
+      "chapter": 4,
+      "reviewed_ranges": [
+        [
+          1,
+          167
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks. Seven-Potter departure, aerial chase, vehicle defences and safe-house crash occur away from Hogwarts. No school grounds, lake or boundary is described; the muddy pond is the safe-house crash site, not the Hogwarts lake."
+    },
+    {
+      "chapter": 5,
+      "reviewed_ranges": [
+        [
+          1,
+          259
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks. Recorded remembered corner tank in Lupin’s school office. Tonks safe-house, Burrow, aerial route, wounds and Ollivander vision are outside Hogwarts site; protected hundred-yard safe-house boundary must not be assigned to Hogwarts."
     }
   ]
 }
