@@ -2628,6 +2628,137 @@
       "certainty": "explicit",
       "temporal": "Late January–24 February 1995; second-task preparation and event",
       "model_notes": "The ten-foot figure is the final surface clearance, not total lake depth. The lethal deadline was Harry’s misunderstanding; Ron says safeguards prevented drowning."
+    },
+    {
+      "id": "B04-171",
+      "location": "McGonagall’s office hostage preparation",
+      "category": "magic",
+      "description": "Ron and Hermione report being placed in a safe bewitched sleep in McGonagall’s office before the second task, with waking linked to returning above water.",
+      "evidence": [
+        "B04-C027-P0001",
+        "B04-C027-P0003",
+        "B04-C027-P0004"
+      ],
+      "certainty": "reported",
+      "temporal": "Late February–March 1995",
+      "model_notes": "Ron’s later story of a violent kidnapping is explicitly unreliable and adds no valid merpeople battle state."
+    },
+    {
+      "id": "B04-172",
+      "location": "Grounds in March wind",
+      "category": "temporary",
+      "description": "March is drier but harsh winds strike exposed faces and hands in the grounds and blow postal owls off course. The subsequent Hogsmeade Saturday is mild enough for pupils to remove cloaks.",
+      "evidence": [
+        "B04-C027-P0005",
+        "B04-C027-P0080"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late February–March 1995",
+      "model_notes": "Changing weather over the chapter, not a permanent prevailing-wind bearing."
+    },
+    {
+      "id": "B04-173",
+      "location": "Potions classroom workstation",
+      "category": "furnishing",
+      "description": "Snape writes potion ingredients on a blackboard. Pupils use bowls, pestles, measuring cups and cauldrons at tables; Harry is moved from the back to an empty table directly before Snape’s desk. Ron dents a desktop with his pestle.",
+      "evidence": [
+        "B04-C027-P0016",
+        "B04-C027-P0026",
+        "B04-C027-P0027",
+        "B04-C027-P0028",
+        "B04-C027-P0032",
+        "B04-C027-P0034",
+        "B04-C027-P0036",
+        "B04-C027-P0044",
+        "B04-C027-P0045",
+        "B04-C027-P0069",
+        "B04-C027-P0070"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late February–March 1995",
+      "model_notes": "Includes a small dated furniture-damage state and near-desk conversation audible only nearby."
+    },
+    {
+      "id": "B04-174",
+      "location": "Snape’s private ingredient stores",
+      "category": "furnishing",
+      "description": "Snape identifies Boomslang skin and Gillyweed as stolen from his private stores; narration confirms Hermione took the former earlier and Dobby took the latter.",
+      "evidence": [
+        "B04-C027-P0050",
+        "B04-C027-P0051",
+        "B04-C027-P0052",
+        "B04-C027-P0053",
+        "B04-C027-P0055"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late February–March 1995",
+      "model_notes": "Reported storage inventory with narratorial corroboration; no extra cupboard dimensions or entrance are given."
+    },
+    {
+      "id": "B04-175",
+      "location": "Hogsmeade High Street to boundary stile",
+      "category": "route",
+      "description": "Beyond Dervish and Banges the High Street leads into a winding lane towards the foot of the mountain overshadowing Hogsmeade. Cottages become sparser and gardens larger. A corner reveals a stile at the lane’s end.",
+      "evidence": [
+        "B04-C027-P0007",
+        "B04-C027-P0081",
+        "B04-C027-P0082",
+        "B04-C027-P0083"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late February–March 1995",
+      "model_notes": "Local settlement edge and mountain approach context; no compass bearing is supplied."
+    },
+    {
+      "id": "B04-176",
+      "location": "Mountain path beyond Hogsmeade stile",
+      "category": "route",
+      "description": "Beyond the stile scrubby ground rises to a rocky mountain foot covered with boulders. A steep winding stony path climbs the mountain; the party follows it for nearly half an hour until a narrow fissure admits them to Sirius’s cave.",
+      "evidence": [
+        "B04-C027-P0084",
+        "B04-C027-P0085",
+        "B04-C027-P0086"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late February–March 1995",
+      "model_notes": "The duration depends on the climbers and does not determine path length. No secret connection to Hogwarts is claimed."
+    },
+    {
+      "id": "B04-177",
+      "location": "Sirius’s mountain cave",
+      "category": "interior",
+      "description": "A narrow rock fissure must be squeezed through to reach a cool dim cave with a rocky floor, room to pace, and Buckbeak tethered at the far end by a rope around a large rock. Sirius’s discarded newspapers and food remains lie on the floor.",
+      "evidence": [
+        "B04-C027-P0086",
+        "B04-C027-P0088",
+        "B04-C027-P0090",
+        "B04-C027-P0095",
+        "B04-C027-P0107",
+        "B04-C027-P0111",
+        "B04-C027-P0117",
+        "B04-C027-P0150",
+        "B04-C027-P0186",
+        "B04-C027-P0189"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late February–March 1995",
+      "model_notes": "Temporary refuge connected to the Hogsmeade boundary context. Cave dimensions and other exits are unstated."
+    },
+    {
+      "id": "B04-178",
+      "location": "Mountain refuge return to Hogwarts",
+      "category": "route",
+      "description": "The party descends the mountain path and boulder ground to the stile, returns through Hogsmeade and uphill towards Hogwarts, then climbs the castle drive and front stone steps. Dinner smells travel from the Great Hall into the Entrance Hall.",
+      "evidence": [
+        "B04-C027-P0201",
+        "B04-C027-P0202",
+        "B04-C027-P0203",
+        "B04-C027-P0204",
+        "B04-C027-P0207"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late February–March 1995",
+      "model_notes": "Confirms the return’s upward village-to-castle direction and the Hall’s sensory connection to the entrance."
     }
   ],
   "chapter_reviews": [
@@ -2916,6 +3047,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed in three untruncated ranges. Included all underwater approach terrain, village structures, gardens, statue square, water/sound/spell behaviour, ascent, temporary stands and shore care. Bathroom dream at paragraphs 77–80 is not actual geometry; no aqualung or submarine route was performed."
+    },
+    {
+      "chapter": 27,
+      "reviewed_ranges": [
+        [
+          1,
+          208
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included credible hostage preparation, weather, potion furniture/storage, village-boundary mountain route, cave and return. Azkaban recollections are outside Hogwarts scope; Ron’s embellished merpeople fight is not an observed event."
     }
   ]
 }
