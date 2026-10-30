@@ -1285,6 +1285,250 @@
       "certainty": "explicit",
       "temporal": "November–December 1993",
       "model_notes": "Temporary tree changes sightlines. Rosmerta reports two disruptive Dementor searches; teachers later head uphill to the castle. Village scope limited to school journey/meeting context."
+    },
+    {
+      "id": "B03-069",
+      "location": "Honeydukes tunnel — return traversal",
+      "category": "route",
+      "description": "Harry returns through Honeydukes’ cellar and the same tunnel into the castle, though he remembers little of the journey.",
+      "evidence": [
+        "B03-C011-P0001"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1993 holidays",
+      "model_notes": "Confirms the route is usable in reverse; subjective quickness supplies no return-time measurement."
+    },
+    {
+      "id": "B03-070",
+      "location": "Gryffindor common room — end-of-term use",
+      "category": "temporary",
+      "description": "The twins release six Dungbombs in the crowded common room; once most pupils leave, Hermione spreads work over three tables while friends sit beside the fire and snow continues outside.",
+      "evidence": [
+        "B03-C011-P0003",
+        "B03-C011-P0014",
+        "B03-C011-P0016",
+        "B03-C011-P0017",
+        "B03-C011-P0104"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1993 holidays",
+      "model_notes": "Dated crowding/smell and furniture use, not an alteration to room plan."
+    },
+    {
+      "id": "B03-071",
+      "location": "Castle to Hagrid’s cabin — snow state",
+      "category": "route",
+      "description": "The trio leave by the oak doors and descend the lawn, cutting a shallow trench in powdery snow. Forest trees are silvered with snow and the cabin resembles an iced cake.",
+      "evidence": [
+        "B03-C011-P0048",
+        "B03-C011-P0049",
+        "B03-C011-P0050",
+        "B03-C011-P0052",
+        "B03-C011-P0054",
+        "B03-C011-P0057"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1993 holidays",
+      "model_notes": "Winter route surface and appearance; no actual icing or added cabin roof shape."
+    },
+    {
+      "id": "B03-072",
+      "location": "Hagrid’s cabin — sheltered Buckbeak",
+      "category": "temporary",
+      "description": "Buckbeak lies in a cabin corner eating bloody food that leaks over the floor, moved inside rather than left tethered in snow. Fang shelters under the table. The governors’ letter requires the hippogriff kept isolated and tethered pending a hearing.",
+      "evidence": [
+        "B03-C011-P0059",
+        "B03-C011-P0061",
+        "B03-C011-P0065",
+        "B03-C011-P0067",
+        "B03-C011-P0072",
+        "B03-C011-P0073",
+        "B03-C011-P0075",
+        "B03-C011-P0077",
+        "B03-C011-P0084",
+        "B03-C011-P0087",
+        "B03-C011-P0088",
+        "B03-C011-P0089",
+        "B03-C011-P0091",
+        "B03-C011-P0092",
+        "B03-C011-P0094"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1993 holidays",
+      "model_notes": "Observed indoor occupancy versus reported official restraint condition. Hagrid says the Flobberworms have died from too much lettuce and that he passes Dementors on trips to the Three Broomsticks."
+    },
+    {
+      "id": "B03-073",
+      "location": "Castle and Great Hall — Christmas 1993 decorations",
+      "category": "temporary",
+      "description": "Thick holly and mistletoe streamers run along corridors, lights glow inside every suit of armour, and twelve Great Hall Christmas trees glitter with gold stars. Strong cooking smells spread through the corridors.",
+      "evidence": [
+        "B03-C011-P0107"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1993 holidays",
+      "model_notes": "Distinct seasonal decorative state. Source of armour lights unspecified."
+    },
+    {
+      "id": "B03-074",
+      "location": "Great Hall — small Christmas table",
+      "category": "temporary",
+      "description": "House tables stand against walls and one central table is set for twelve. A conjured extra chair lands between Snape and McGonagall for Trelawney; silver crackers produce novelty hats. The table is used for a two-hour Christmas meal.",
+      "evidence": [
+        "B03-C011-P0162",
+        "B03-C011-P0163",
+        "B03-C011-P0164",
+        "B03-C011-P0165",
+        "B03-C011-P0166",
+        "B03-C011-P0168",
+        "B03-C011-P0169",
+        "B03-C011-P0171",
+        "B03-C011-P0172",
+        "B03-C011-P0173",
+        "B03-C011-P0174",
+        "B03-C011-P0175",
+        "B03-C011-P0188",
+        "B03-C011-P0189",
+        "B03-C011-P0190",
+        "B03-C011-P0193",
+        "B03-C011-P0197"
+      ],
+      "certainty": "explicit",
+      "temporal": "25 December 1993",
+      "model_notes": "Dated central-table configuration; superstition about thirteen is not an environmental hazard."
+    },
+    {
+      "id": "B03-075",
+      "location": "Sir Cadogan portrait — Christmas party and password",
+      "category": "magic",
+      "description": "The entrance picture hosts Sir Cadogan, his pony, monks and several previous headmasters. Scurvy cur is accepted as the password and the painting swings open.",
+      "evidence": [
+        "B03-C011-P0198",
+        "B03-C011-P0199",
+        "B03-C011-P0200",
+        "B03-C011-P0201",
+        "B03-C011-P0202",
+        "B03-C011-P0215"
+      ],
+      "certainty": "explicit",
+      "temporal": "25 December 1993",
+      "model_notes": "Cross-picture visiting and seasonal entrance state; party guests occupy artwork, not the physical corridor."
+    },
+    {
+      "id": "B03-076",
+      "location": "Grounds — salamander bonfire lesson",
+      "category": "temporary",
+      "description": "On a raw January morning Hagrid provides an outdoor bonfire containing salamanders; pupils collect dry leaves and wood as the lizards run on crumbling white-hot logs.",
+      "evidence": [
+        "B03-C012-P0020"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–February 1994",
+      "model_notes": "Dated lesson installation somewhere in the grounds; no permanent firepit or paddock position supplied."
+    },
+    {
+      "id": "B03-077",
+      "location": "History of Magic classroom — training space",
+      "category": "interior",
+      "description": "The dark empty room has wand-lightable lamps, Binns’s desk, pupil desks and chairs, and a dusty floor. Lupin selects it as large enough for Patronus practice and places a large packing case on the teacher’s desk.",
+      "evidence": [
+        "B03-C012-P0022",
+        "B03-C012-P0033",
+        "B03-C012-P0035",
+        "B03-C012-P0054",
+        "B03-C012-P0055",
+        "B03-C012-P0061",
+        "B03-C012-P0064",
+        "B03-C012-P0071",
+        "B03-C012-P0072",
+        "B03-C012-P0080",
+        "B03-C012-P0094",
+        "B03-C012-P0100",
+        "B03-C012-P0147"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–February 1994",
+      "model_notes": "No new classroom floor number; substantial central clear space is used without a measured width."
+    },
+    {
+      "id": "B03-078",
+      "location": "Boggart storage — cabinet and office cupboard report",
+      "category": "furnishing",
+      "description": "Lupin says he found a Boggart in Filch’s filing cabinet and proposes keeping it in a cupboard under his own office desk between lessons.",
+      "evidence": [
+        "B03-C012-P0035"
+      ],
+      "certainty": "reported",
+      "temporal": "January–February 1994",
+      "model_notes": "Reported source and planned storage, not direct observation of the under-desk cupboard interior."
+    },
+    {
+      "id": "B03-079",
+      "location": "History classroom — imitation Dementor effects",
+      "category": "magic",
+      "description": "The case’s Boggart takes Dementor form, extinguishing lamps and making the room cold; lamps rekindle once that form disappears. Harry produces silver mist/shadows as a shield, and Lupin forces the Boggart, again a silver orb, back into the case.",
+      "evidence": [
+        "B03-C012-P0037",
+        "B03-C012-P0039",
+        "B03-C012-P0040",
+        "B03-C012-P0042",
+        "B03-C012-P0044",
+        "B03-C012-P0047",
+        "B03-C012-P0051",
+        "B03-C012-P0055",
+        "B03-C012-P0056",
+        "B03-C012-P0057",
+        "B03-C012-P0058",
+        "B03-C012-P0061",
+        "B03-C012-P0074",
+        "B03-C012-P0090",
+        "B03-C012-P0091",
+        "B03-C012-P0092",
+        "B03-C012-P0093",
+        "B03-C012-P0094",
+        "B03-C012-P0100",
+        "B03-C012-P0122",
+        "B03-C012-P0123",
+        "B03-C012-P0124",
+        "B03-C012-P0125"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–February 1994",
+      "model_notes": "Contained simulation and developing defensive spell, not a real Dementor admitted to the castle. Dimensions of the shield are unspecified."
+    },
+    {
+      "id": "B03-080",
+      "location": "History classroom return — armour plinth",
+      "category": "route",
+      "description": "Harry exits, follows a corridor round a corner, then detours behind a suit of armour to sit on its plinth before returning to Gryffindor Tower. On another return he meets McGonagall halfway upstairs.",
+      "evidence": [
+        "B03-C012-P0106",
+        "B03-C012-P0107",
+        "B03-C012-P0110",
+        "B03-C012-P0147",
+        "B03-C012-P0148",
+        "B03-C012-P0151",
+        "B03-C012-P0155"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–February 1994",
+      "model_notes": "Plinth and local route relationships; no identification with any other previously described suit."
+    },
+    {
+      "id": "B03-081",
+      "location": "Gryffindor entrance — lost password list",
+      "category": "magic",
+      "description": "Neville is refused entry after losing the written week’s passwords that Cadogan supplied him. Harry gives Oddsbodikins and the portrait admits the group.",
+      "evidence": [
+        "B03-C012-P0159",
+        "B03-C012-P0160",
+        "B03-C012-P0161",
+        "B03-C012-P0163",
+        "B03-C012-P0164"
+      ],
+      "certainty": "explicit",
+      "temporal": "January–February 1994",
+      "model_notes": "Access depends on password knowledge; the list is a security weakness, not proof of a permanently programmed door."
     }
   ],
   "chapter_reviews": [
@@ -1397,6 +1641,28 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter read, including full overheard historical conversation. Off-site Potter-house and London explosion details excluded. Map/tunnel assumptions separated from directly traversed Honeydukes route."
+    },
+    {
+      "chapter": 11,
+      "reviewed_ranges": [
+        [
+          1,
+          218
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Carried Firebolt details excluded except where safety discussion affects access; no architectural location for its inspection is invented. Buckbeak’s indoor occupancy and changed feast tables retained."
+    },
+    {
+      "chapter": 12,
+      "reviewed_ranges": [
+        [
+          1,
+          193
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Real Dementor ban distinguished from Boggart simulation. Patronus memory scenes concern the off-site Potter home and add no Hogwarts geometry."
     }
   ]
 }
