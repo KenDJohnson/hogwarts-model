@@ -58,6 +58,39 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Reviewed complete chapter. Non-Hogwarts locations and plot-only references excluded."
+    },
+    {
+      "chapter": 5,
+      "reviewed_ranges": [
+        [
+          1,
+          112
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. Burrow and World Cup locations are outside the Hogwarts boundary/tunnel scope; no additional spatial evidence."
+    },
+    {
+      "chapter": 6,
+      "reviewed_ranges": [
+        [
+          1,
+          87
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. Burrow and World Cup locations are outside the Hogwarts boundary/tunnel scope; no additional spatial evidence."
+    },
+    {
+      "chapter": 7,
+      "reviewed_ranges": [
+        [
+          1,
+          164
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. Burrow and World Cup locations are outside the Hogwarts boundary/tunnel scope; no additional spatial evidence."
     }
   ]
 }
