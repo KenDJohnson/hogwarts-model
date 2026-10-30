@@ -12,6 +12,18 @@
       "certainty": "explicit",
       "temporal": "Recollection in August 1995 of third-year Quidditch storm",
       "model_notes": "Narrated weather memory, without a new pitch layout or numerical temperature. The present broom flight ends in London and is not a Hogwarts access route."
+    },
+    {
+      "id": "B05-002",
+      "location": "Corridor to Snape’s dungeon",
+      "category": "interior",
+      "description": "A Ministry basement corridor with rough stone walls and bracket-mounted torches is said to resemble the corridor leading to Snape’s dungeon at Hogwarts.",
+      "evidence": [
+        "B05-C007-P0152"
+      ],
+      "certainty": "explicit",
+      "temporal": "August 1995 comparison with existing Hogwarts dungeon approach",
+      "model_notes": "Record the rough stone and torch-bracket comparison. The heavy bolted doors described as here belong to the Ministry corridor and are not imported as Hogwarts door specifications."
     }
   ],
   "chapter_reviews": [
@@ -69,6 +81,28 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed. Grimmauld Place interiors and its protective magic are not Hogwarts; the unidentified building plan is not assigned to Hogwarts. School recollections here add no new spatial constraint."
+    },
+    {
+      "chapter": 6,
+      "reviewed_ranges": [
+        [
+          1,
+          226
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Grimmauld Place cleaning, family tapestry and security are outside scope. Imagined weapon storage at Hogwarts and dream cannon-creatures are not validated castle features; the Stone reference adds no physical detail."
+    },
+    {
+      "chapter": 7,
+      "reviewed_ranges": [
+        [
+          1,
+          158
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Ministry rooms and transport are out of scope, but retained the explicit comparison establishing the Snape-approach rough stone walls and torch brackets."
     }
   ]
 }
