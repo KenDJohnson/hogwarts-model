@@ -1293,6 +1293,151 @@
       "certainty": "explicit",
       "temporal": "Before Christmas holidays, December 1996",
       "model_notes": "Narration supplies the office’s dungeon location as background; the proposed journey there does not occur, so it establishes no travelled connection from the party."
+    },
+    {
+      "id": "B06-089",
+      "location": "Temporary Floo arrival at McGonagall office",
+      "category": "magic",
+      "description": "A Ministry-arranged one-off Floo Network connection returns pupils to Hogwarts after New Year. Saying Hogwarts in the Burrow kitchen fire brings Harry into McGonagall’s office fireplace; he climbs over its grate, and she warns him about ash on the carpet.",
+      "evidence": [
+        "B06-C017-P0001",
+        "B06-C017-P0009",
+        "B06-C017-P0010",
+        "B06-C017-P0012"
+      ],
+      "certainty": "explicit",
+      "temporal": "Return after New Year 1997",
+      "model_notes": "Temporary network permission, destination fireplace, grate and carpet. Do not assume unrestricted public Floo access in other periods."
+    },
+    {
+      "id": "B06-090",
+      "location": "Corridor view towards Hagrid cabin",
+      "category": "route",
+      "description": "On leaving McGonagall’s office towards Gryffindor Tower, Harry looks through corridor windows over deeply snow-covered grounds. In the distance he sees Hagrid feeding Buckbeak in front of the cabin as the sun sinks.",
+      "evidence": [
+        "B06-C017-P0012"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late afternoon return, January 1997",
+      "model_notes": "Line of sight from an unspecified corridor on this route to cabin frontage; window and sun compass bearings unspecified."
+    },
+    {
+      "id": "B06-091",
+      "location": "Fat Lady January password",
+      "category": "magic",
+      "description": "The Fat Lady rejects Baubles because the password has changed, then accepts Abstinence and swings forwards to reveal the portrait hole.",
+      "evidence": [
+        "B06-C017-P0013",
+        "B06-C017-P0014",
+        "B06-C017-P0015",
+        "B06-C017-P0016",
+        "B06-C017-P0017",
+        "B06-C017-P0022",
+        "B06-C017-P0023"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1997",
+      "model_notes": "Dated access state; refusal concerns obsolete password, not a physical malfunction."
+    },
+    {
+      "id": "B06-092",
+      "location": "Portrait of drunken monks by Charms corridor",
+      "category": "furnishing",
+      "description": "Hermione reports that the Fat Lady and Violet drank wine inside a picture of drunken monks down by the Charms corridor.",
+      "evidence": [
+        "B06-C017-P0025",
+        "B06-C017-P0035"
+      ],
+      "certainty": "reported",
+      "temporal": "January 1997",
+      "model_notes": "Portrait subject and approximate corridor relationship; wine and apparent intoxication are portrait-world behaviour, not physical wine on the corridor floor."
+    },
+    {
+      "id": "B06-093",
+      "location": "Gryffindor common-room noticeboards",
+      "category": "furnishing",
+      "description": "Common-room noticeboards carry a newly pinned Apparition-lesson sign, beneath which eligible students can sign their names.",
+      "evidence": [
+        "B06-C017-P0058",
+        "B06-C017-P0059",
+        "B06-C017-P0060",
+        "B06-C017-P0061",
+        "B06-C017-P0062",
+        "B06-C017-P0063"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1997",
+      "model_notes": "Fixed communication fixture and dated paper notice; no board count or exact mounting position."
+    },
+    {
+      "id": "B06-094",
+      "location": "Charms classroom water impact",
+      "category": "temporary",
+      "description": "During a water-conjuring lesson, Seamus produces a hose-like jet that strikes the classroom ceiling and rebounds onto Flitwick.",
+      "evidence": [
+        "B06-C017-P0075",
+        "B06-C017-P0076"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1997",
+      "model_notes": "Dated demonstration effect confirms an overhead surface; supplies no ceiling height or permanent water feature."
+    },
+    {
+      "id": "B06-095",
+      "location": "Headmaster office January light, sounds and rug",
+      "category": "interior",
+      "description": "Lamps provide soft golden light; former-headmaster portraits snore in their frames and Fawkes makes low musical cries behind Harry. A rug lies in front of the desk where returning Pensieve visitors land.",
+      "evidence": [
+        "B06-C017-P0078",
+        "B06-C017-P0093",
+        "B06-C017-P0157",
+        "B06-C017-P0195",
+        "B06-C017-P0210",
+        "B06-C017-P0211"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1997",
+      "model_notes": "Repeated furnishing evidence with rug-to-desk relationship and phoenix sound; no new frame positions."
+    },
+    {
+      "id": "B06-096",
+      "location": "Sorting Hat office shelf",
+      "category": "furnishing",
+      "description": "The ancient Sorting Hat sits unmoving on a shelf above Dumbledore’s head.",
+      "evidence": [
+        "B06-C017-P0116"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1997",
+      "model_notes": "Shelf position relative to seated Headmaster; do not infer a specific wall or shelf height."
+    },
+    {
+      "id": "B06-097",
+      "location": "Trophy room shields and school records",
+      "category": "furnishing",
+      "description": "Dumbledore reports that Riddle searched shields in the trophy room and prefect lists in old school records for evidence of his father.",
+      "evidence": [
+        "B06-C017-P0126"
+      ],
+      "certainty": "reported",
+      "temporal": "Riddle’s school years, recalled January 1997",
+      "model_notes": "Trophy-room shield display and existence of old records; storage site of those records is not specified."
+    },
+    {
+      "id": "B06-098",
+      "location": "Slughorn office in student-Riddle memory",
+      "category": "history",
+      "description": "In the recollection, Slughorn sits in a comfortable winged armchair with his feet on a velvet pouffe, holding wine and crystallised pineapple. Half a dozen teenage boys sit around him on harder or lower seats. A small golden clock on the desk chimes eleven; Slughorn carries his glass to the desk as the boys leave.",
+      "evidence": [
+        "B06-C017-P0178",
+        "B06-C017-P0179",
+        "B06-C017-P0185",
+        "B06-C017-P0186",
+        "B06-C017-P0187"
+      ],
+      "certainty": "explicit",
+      "temporal": "Riddle’s teenage school years, memory viewed January 1997",
+      "model_notes": "The supplied memory is explicitly tampered with (P0198–P0202). Preserve this historical view as provisional; white fog and abrupt sound changes are memory alteration artefacts, not actual office fixtures or weather."
     }
   ],
   "chapter_reviews": [
@@ -1471,6 +1616,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two non-truncated blocks. Burrow Christmas setting, discussions of Snape, werewolves and school history, and Minister conversation add no Hogwarts geometry or site-specific environmental constraint. Off-site werewolf living conditions are not attributed to the Forbidden Forest."
+    },
+    {
+      "chapter": 17,
+      "reviewed_ranges": [
+        [
+          1,
+          211
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks, including both memories and all school-history dialogue. Recorded temporary Floo endpoint/carpet, snowy corridor view, changed password/portrait report, noticeboards, Charms ceiling, office rug/shelf and historical trophy/Slughorn furniture. Tampered memory fog is not castle atmosphere; Gaunt house and Riddle estate excluded."
     }
   ]
 }
