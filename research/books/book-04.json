@@ -3224,6 +3224,318 @@
       "certainty": "reported",
       "temporal": "Late May–June 1995 office visit; earlier school memory where specified",
       "model_notes": "Reported historical use of space behind the greenhouses; the memory does not show its planting, geometry or exact year."
+    },
+    {
+      "id": "B04-205",
+      "location": "Transfiguration classroom practice and view",
+      "category": "interior",
+      "description": "McGonagall permits lunchtime use of the empty Transfiguration classroom. Its window looks down onto a tree under which Malfoy, Crabbe and Goyle stand, and there is an open central practice area.",
+      "evidence": [
+        "B04-C031-P0023",
+        "B04-C031-P0025",
+        "B04-C031-P0027",
+        "B04-C031-P0028",
+        "B04-C031-P0029",
+        "B04-C031-P0030"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1995 preparation and 24 June third task; history where stated",
+      "model_notes": "Specific window sightline; no bearing or whole-ground panorama is stated."
+    },
+    {
+      "id": "B04-206",
+      "location": "Sir Cadogan and Violet portraits",
+      "category": "furnishing",
+      "description": "Violet occupies a frame in the chamber off the Great Hall and winks at Bill. Bill asks after the portrait of the mad knight Sir Cadogan, and Harry confirms it remains in the school.",
+      "evidence": [
+        "B04-C031-P0082",
+        "B04-C031-P0088",
+        "B04-C031-P0089"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1995 preparation and 24 June third task; history where stated",
+      "model_notes": "Violet’s chamber location is observed. Cadogan’s present existence is reported without a frame location."
+    },
+    {
+      "id": "B04-207",
+      "location": "Fat Lady in earlier school years",
+      "category": "history",
+      "description": "Mrs Weasley remembers the Fat Lady guarding the dormitory entrance during her school years, including a reprimand after a four-a.m. return from a walk.",
+      "evidence": [
+        "B04-C031-P0090",
+        "B04-C031-P0091",
+        "B04-C031-P0092",
+        "B04-C031-P0093",
+        "B04-C031-P0094"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1995 preparation and 24 June third task; history where stated",
+      "model_notes": "Reported earlier use of the same guardian; no exact year is given."
+    },
+    {
+      "id": "B04-208",
+      "location": "Whomping Willow planting history",
+      "category": "history",
+      "description": "During a sunny tour of the carriage, ship and grounds, Mrs Weasley is intrigued by the Whomping Willow, which was planted after her school years. The group can also walk around the greenhouses.",
+      "evidence": [
+        "B04-C031-P0103",
+        "B04-C031-P0104",
+        "B04-C031-P0107"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1995 preparation and 24 June third task; history where stated",
+      "model_notes": "Relative planting date only; no date or tree position should be invented."
+    },
+    {
+      "id": "B04-209",
+      "location": "Great Hall third-task evening state",
+      "category": "temporary",
+      "description": "Bagman and Fudge join the staff table, Fudge next to Maxime, as the enchanted ceiling shifts from blue to dusky purple before departure for the task.",
+      "evidence": [
+        "B04-C031-P0119",
+        "B04-C031-P0120",
+        "B04-C031-P0121",
+        "B04-C031-P0122"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1995 preparation and 24 June third task; history where stated",
+      "model_notes": "Dated seating and light transition."
+    },
+    {
+      "id": "B04-210",
+      "location": "Third-task maze exterior and safety patrol",
+      "category": "temporary",
+      "description": "The Quidditch pitch is enclosed by a twenty-foot hedge with an entrance gap facing the arriving champions and a dark path beyond. Spectators occupy the stands. Four staff patrol outside the maze in separate directions, marked by luminous red stars, and explain that red sparks signal a rescue.",
+      "evidence": [
+        "B04-C031-P0123",
+        "B04-C031-P0125",
+        "B04-C031-P0126",
+        "B04-C031-P0127",
+        "B04-C031-P0128",
+        "B04-C031-P0129",
+        "B04-C031-P0130",
+        "B04-C031-P0131",
+        "B04-C031-P0132",
+        "B04-C031-P0133",
+        "B04-C031-P0134"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1995 preparation and 24 June third task; history where stated",
+      "model_notes": "The previously planned twenty-foot height is now observed. Rescue by sparks is an announced rule; the stands’ exact view into the maze is not established."
+    },
+    {
+      "id": "B04-211",
+      "location": "Maze entry acoustics and first fork",
+      "category": "route",
+      "description": "High thick hedges shadow the path and silence the outside crowd immediately on entry, though subsequent starting whistles can be heard. Harry and Cedric reach a fork about fifty yards in; Harry takes left, Cedric right, and Harry then turns right. The maze darkens as the sky becomes navy.",
+      "evidence": [
+        "B04-C031-P0135",
+        "B04-C031-P0136",
+        "B04-C031-P0137",
+        "B04-C031-P0138",
+        "B04-C031-P0139",
+        "B04-C031-P0140"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1995 preparation and 24 June third task; history where stated",
+      "model_notes": "The cause of crowd suppression may be hedge density or enchantment; narrator leaves it uncertain. Fifty yards measures entry to first fork only."
+    },
+    {
+      "id": "B04-212",
+      "location": "Maze north-west course and rejoining paths",
+      "category": "route",
+      "description": "At a second fork Harry’s Four-Point Spell indicates north through the hedge to his right. He needs north-west for the centre, takes left and then an available right. Cedric emerges from a path on the right and departs down another path. Later Harry encounters left/right turns and dead ends, checks that he has strayed east, and backtracks.",
+      "evidence": [
+        "B04-C031-P0140",
+        "B04-C031-P0141",
+        "B04-C031-P0142",
+        "B04-C031-P0143",
+        "B04-C031-P0144",
+        "B04-C031-P0145",
+        "B04-C031-P0151"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1995 preparation and 24 June third task; history where stated",
+      "model_notes": "A compass constraint and ordered local route, not enough for a unique full maze plan. Cedric reports enormous Skrewts on his route."
+    },
+    {
+      "id": "B04-213",
+      "location": "Maze Boggart encounter",
+      "category": "temporary",
+      "description": "Around a corner a twelve-foot Dementor shape approaches Harry, producing cold and rattling breathing. A Patronus drives it back and it stumbles, exposing a Boggart; Riddikulus dispels it as smoke.",
+      "evidence": [
+        "B04-C031-P0145",
+        "B04-C031-P0146",
+        "B04-C031-P0147",
+        "B04-C031-P0148",
+        "B04-C031-P0149",
+        "B04-C031-P0150"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1995 preparation and 24 June third task; history where stated",
+      "model_notes": "A tournament obstacle with transformed appearance, not a real Dementor permanently stationed in the grounds."
+    },
+    {
+      "id": "B04-214",
+      "location": "Maze golden mist",
+      "category": "magic",
+      "description": "Golden mist blocks a path, unaffected by Reducto. Running through it makes Harry experience ground overhead and starry sky beneath him while his feet seem stuck to the grass. Pulling one foot free restores normal orientation and he emerges from the mist to a junction, taking right.",
+      "evidence": [
+        "B04-C031-P0151",
+        "B04-C031-P0152",
+        "B04-C031-P0153",
+        "B04-C031-P0154",
+        "B04-C031-P0155",
+        "B04-C031-P0156",
+        "B04-C031-P0157",
+        "B04-C031-P0158",
+        "B04-C031-P0159",
+        "B04-C031-P0160",
+        "B04-C031-P0161",
+        "B04-C031-P0162",
+        "B04-C031-P0163"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1995 preparation and 24 June third task; history where stated",
+      "model_notes": "Observed disorientation enchantment; the text does not prove the whole world literally inverted. A scream from ahead is audible through the maze."
+    },
+    {
+      "id": "B04-215",
+      "location": "Maze Skrewt route",
+      "category": "temporary",
+      "description": "After ten minutes of dead ends and a repeated wrong turn, Harry rounds a corner into a ten-foot armoured Skrewt. Spells rebound from its armour until Impedimenta hits its soft underside. Harry escapes, finds more left/right dead ends, backtracks and selects a north-westward path.",
+      "evidence": [
+        "B04-C031-P0165",
+        "B04-C031-P0166",
+        "B04-C031-P0167",
+        "B04-C031-P0168",
+        "B04-C031-P0169",
+        "B04-C031-P0170",
+        "B04-C031-P0171"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1995 preparation and 24 June third task; history where stated",
+      "model_notes": "Creature size and spell interaction govern local clearance and hazard design; its frozen state is temporary."
+    },
+    {
+      "id": "B04-216",
+      "location": "Maze parallel path breach",
+      "category": "temporary",
+      "description": "Harry hears Cedric and Krum in a parallel path but cannot find a connecting route. Reducto burns a small hole in the hedge; he kicks through thick brambles and branches, tears his robes passing through, and sees them to his right. After Krum is Stunned face-down in the grass, Cedric shoots red rescue sparks above him; the two continue and split left/right.",
+      "evidence": [
+        "B04-C031-P0172",
+        "B04-C031-P0173",
+        "B04-C031-P0174",
+        "B04-C031-P0175",
+        "B04-C031-P0176",
+        "B04-C031-P0177",
+        "B04-C031-P0178",
+        "B04-C031-P0179",
+        "B04-C031-P0180",
+        "B04-C031-P0181",
+        "B04-C031-P0189",
+        "B04-C031-P0190",
+        "B04-C031-P0191",
+        "B04-C031-P0193"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1995 preparation and 24 June third task; history where stated",
+      "model_notes": "A damaged local hedge connection, with audible voices across the barrier. Do not model all hedges as indestructible or all adjacent paths as connected."
+    },
+    {
+      "id": "B04-217",
+      "location": "Maze sphinx checkpoint",
+      "category": "temporary",
+      "description": "Past further dead ends a sphinx blocks a long straight path near the goal. It paces side to side, then sits in the middle and states that the quickest route passes it; a correct first riddle answer permits passage, a wrong answer provokes attack, and silence permits retreat. It moves aside when Harry answers spider.",
+      "evidence": [
+        "B04-C031-P0194",
+        "B04-C031-P0195",
+        "B04-C031-P0196",
+        "B04-C031-P0197",
+        "B04-C031-P0198",
+        "B04-C031-P0199",
+        "B04-C031-P0200",
+        "B04-C031-P0201",
+        "B04-C031-P0202",
+        "B04-C031-P0203",
+        "B04-C031-P0204",
+        "B04-C031-P0205",
+        "B04-C031-P0206",
+        "B04-C031-P0207",
+        "B04-C031-P0208",
+        "B04-C031-P0209",
+        "B04-C031-P0210",
+        "B04-C031-P0211",
+        "B04-C031-P0212",
+        "B04-C031-P0213",
+        "B04-C031-P0214",
+        "B04-C031-P0215",
+        "B04-C031-P0216",
+        "B04-C031-P0217",
+        "B04-C031-P0218",
+        "B04-C031-P0219",
+        "B04-C031-P0220",
+        "B04-C031-P0221",
+        "B04-C031-P0222",
+        "B04-C031-P0223",
+        "B04-C031-P0224",
+        "B04-C031-P0225"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1995 preparation and 24 June third task; history where stated",
+      "model_notes": "Creature checkpoint and conditional access; no permanent stone gateway is described."
+    },
+    {
+      "id": "B04-218",
+      "location": "Maze Cup approach and spider damage",
+      "category": "temporary",
+      "description": "At a later fork Harry follows the wand-guided right-hand path and sees the gleaming Cup on a plinth a hundred yards ahead. Cedric joins from another route. A gigantic spider visible over the left hedge advances along an intersecting path; it lifts and drops Harry twelve feet, then combined Stunning Spells topple it sideways, flattening a hedge and filling the path with tangled legs. The Cup is only feet from Cedric after the fight.",
+      "evidence": [
+        "B04-C031-P0226",
+        "B04-C031-P0227",
+        "B04-C031-P0228",
+        "B04-C031-P0229",
+        "B04-C031-P0230",
+        "B04-C031-P0231",
+        "B04-C031-P0232",
+        "B04-C031-P0233",
+        "B04-C031-P0234",
+        "B04-C031-P0235",
+        "B04-C031-P0236",
+        "B04-C031-P0237",
+        "B04-C031-P0239",
+        "B04-C031-P0240",
+        "B04-C031-P0242",
+        "B04-C031-P0245",
+        "B04-C031-P0248",
+        "B04-C031-P0256",
+        "B04-C031-P0266"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1995 preparation and 24 June third task; history where stated",
+      "model_notes": "Preserve local crossing, final straight view, plinth and temporary hedge damage. The twelve-foot fall is not a measured spider height."
+    },
+    {
+      "id": "B04-219",
+      "location": "Triwizard Cup departure from maze",
+      "category": "magic",
+      "description": "When Harry and Cedric grasp the Cup’s handles together at its plinth, both are pulled off the ground and transported while unable to release it.",
+      "evidence": [
+        "B04-C031-P0259",
+        "B04-C031-P0260",
+        "B04-C031-P0261",
+        "B04-C031-P0262",
+        "B04-C031-P0263",
+        "B04-C031-P0264",
+        "B04-C031-P0265",
+        "B04-C031-P0266",
+        "B04-C031-P0267",
+        "B04-C031-P0268",
+        "B04-C031-P0269"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1995 preparation and 24 June third task; history where stated",
+      "model_notes": "Observed Portkey effect inside Hogwarts grounds. This is distinct from Apparition restrictions and does not establish that all Portkeys are blocked or enabled."
     }
   ],
   "chapter_reviews": [
@@ -3556,6 +3868,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed. Included office plan and displays, Pensieve cabinet behaviour, explicit Hogwarts torch comparison and Bertha’s greenhouse report. All trial-room descriptions and remote disappearances remain outside the Hogwarts catalogue."
+    },
+    {
+      "chapter": 31,
+      "reviewed_ranges": [
+        [
+          1,
+          269
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed in three untruncated ranges. Included practice-window view, portrait/tree history, final maze height, every described route segment/obstacle, compass constraints, hedge breaches and spider damage, and Cup transport. No full maze map is inferred from insufficient local turns."
     }
   ]
 }
