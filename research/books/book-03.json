@@ -2432,6 +2432,531 @@
       "certainty": "explicit",
       "temporal": "Same evening as the Shack confrontation",
       "model_notes": "The scene does not establish a self-opening enchanted door or a haunting; preserve the concealed-person explanation."
+    },
+    {
+      "id": "B03-129",
+      "location": "Lupin’s office and Willow passage: map visibility",
+      "category": "magic",
+      "description": "Snape reports finding the Marauder’s Map on Lupin’s desk and seeing Lupin running along the passage until he went out of sight. He subsequently found the abandoned Invisibility Cloak at the base of the Willow.",
+      "evidence": [
+        "B03-C019-P0002",
+        "B03-C019-P0003"
+      ],
+      "certainty": "reported",
+      "temporal": "End of third year; Shack confrontation",
+      "model_notes": "Supports the map’s finite displayed extent and the office desk; it does not locate the office relative to the Willow."
+    },
+    {
+      "id": "B03-130",
+      "location": "Gryffindor boys’ dormitory: bedside table and password theft",
+      "category": "history",
+      "description": "Sirius reports that Crookshanks stole the Gryffindor Tower passwords for him from a boy’s bedside table.",
+      "evidence": [
+        "B03-C019-P0058",
+        "B03-C019-P0060"
+      ],
+      "certainty": "reported",
+      "temporal": "Third year, preceding the dormitory intrusion",
+      "model_notes": "Explains access with passwords rather than a physical bypass of the portrait; bedside table is reported furniture."
+    },
+    {
+      "id": "B03-131",
+      "location": "Shrieking Shack: upstairs bedroom enclosure and confrontation",
+      "category": "interior",
+      "description": "The upstairs bedroom’s windows are boarded and it has only one door. The simultaneous disarming spells blast Snape against a wall and rattle the door on its hinges; his wand lands on the bed. Crookshanks later leads the party out of this room.",
+      "evidence": [
+        "B03-C019-P0023",
+        "B03-C019-P0030",
+        "B03-C019-P0031",
+        "B03-C019-P0094",
+        "B03-C019-P0111",
+        "B03-C019-P0193"
+      ],
+      "certainty": "explicit",
+      "temporal": "End of third year; Shack confrontation",
+      "model_notes": "The blast is observed, but no permanent breakage of the door or wall is stated. “Three strides” is Harry’s movement from his then position, not a room dimension."
+    },
+    {
+      "id": "B03-132",
+      "location": "Forbidden Forest: Sirius’s refuge",
+      "category": "history",
+      "description": "Sirius says he entered the Hogwarts grounds as a dog and has lived in the Forest since, apart from coming to watch Quidditch.",
+      "evidence": [
+        "B03-C019-P0123",
+        "B03-C019-P0129"
+      ],
+      "certainty": "reported",
+      "temporal": "Third year, after Sirius’s escape and before the Shack confrontation",
+      "model_notes": "No den, constructed shelter, border crossing point or path to the pitch is described. His northward journey is regional travel, not a local castle orientation."
+    },
+    {
+      "id": "B03-133",
+      "location": "Shrieking Shack to Willow: return passage",
+      "category": "route",
+      "description": "The group descends the Shack stairs and re-enters the tunnel. The three chained people must turn sideways to enter and proceed in single file. The low ceiling includes protruding rock: Harry strikes his head, and the levitated Snape’s head repeatedly bumps or scrapes it. At the far end the party climbs upward out through the hole beneath the Willow.",
+      "evidence": [
+        "B03-C020-P0001",
+        "B03-C020-P0002",
+        "B03-C020-P0011",
+        "B03-C020-P0014",
+        "B03-C020-P0018",
+        "B03-C020-P0019"
+      ],
+      "certainty": "explicit",
+      "temporal": "End of third year; moonlit night after the Shack confrontation",
+      "model_notes": "Adds rock protrusions and traversal clearance to the outward route. Crookshanks’s repeat knot press is Harry’s inference from the tree’s silence, not a directly seen action."
+    },
+    {
+      "id": "B03-134",
+      "location": "Whomping Willow to castle: moonlit grounds",
+      "category": "route",
+      "description": "After leaving the Willow, the party walks toward the distant castle windows, which initially provide the only light. The lights gradually grow larger; a shifting cloud then exposes moonlight and casts dim shadows across the ground. The transformed Lupin later gallops into the Forest while Sirius runs across the grounds.",
+      "evidence": [
+        "B03-C020-P0020",
+        "B03-C020-P0022",
+        "B03-C020-P0023",
+        "B03-C020-P0024",
+        "B03-C020-P0036",
+        "B03-C020-P0038",
+        "B03-C020-P0043"
+      ],
+      "certainty": "explicit",
+      "temporal": "End of third year; moonlit night after the Shack confrontation",
+      "model_notes": "The attempted castle journey is interrupted before arrival. Preserve the grass and open travel connections without assigning exact bearings or distances."
+    },
+    {
+      "id": "B03-135",
+      "location": "Grounds to lake shore: Dementor attack",
+      "category": "temporary",
+      "description": "Harry and Hermione run toward Sirius’s cries near the lake and find him at the shore. At least a hundred Dementors glide around the lake and appear on every side, surrounding the group on grass; the nearest approach within roughly ten feet. Cold and apparent fog accompany the attack.",
+      "evidence": [
+        "B03-C020-P0044",
+        "B03-C020-P0047",
+        "B03-C020-P0048",
+        "B03-C020-P0050",
+        "B03-C020-P0058",
+        "B03-C020-P0060",
+        "B03-C020-P0062",
+        "B03-C020-P0064",
+        "B03-C020-P0068",
+        "B03-C020-P0069"
+      ],
+      "certainty": "explicit",
+      "temporal": "End of third year; moonlit night after the Shack confrontation",
+      "model_notes": "Fog is described through Harry’s failing vision and should not be assumed to be ordinary lake weather. The Dementors’ presence is a dated security failure, not permanent lakeside occupation."
+    },
+    {
+      "id": "B03-136",
+      "location": "Lake: Patronus crossing and opposite shore",
+      "category": "magic",
+      "description": "A brilliant silvery animal circles the stranded group, drives away the Dementors and restores warmth. Harry sees it gallop across the lake and halt on the opposite shore, where a person receives it.",
+      "evidence": [
+        "B03-C020-P0071",
+        "B03-C020-P0072",
+        "B03-C020-P0073",
+        "B03-C020-P0074",
+        "B03-C020-P0075"
+      ],
+      "certainty": "explicit",
+      "temporal": "End of third year; moonlit night after the Shack confrontation",
+      "model_notes": "Harry’s view is blurred and his identification incomplete at this stage. This establishes an opposite shore visible by magical light, not a bridge, shallows, solid lake surface or measurable lake width."
+    },
+    {
+      "id": "B03-137",
+      "location": "Castle entrances: Dementor posts",
+      "category": "temporary",
+      "description": "Snape reports that when he regained consciousness the Dementors were returning to their positions at the entrances. Later Macnair is seen crossing the grounds from the castle toward one of the entrances to fetch them.",
+      "evidence": [
+        "B03-C021-P0013",
+        "B03-C021-P0014",
+        "B03-C021-P0016",
+        "B03-C021-P0316",
+        "B03-C021-P0317",
+        "B03-C021-P0318"
+      ],
+      "certainty": "reported",
+      "temporal": "6 June, third year; time-shifted evening and midnight rescue",
+      "model_notes": "The first observation is Snape’s account; the later journey is narrated. Neither locates the individual entrances or gives their total number."
+    },
+    {
+      "id": "B03-138",
+      "location": "Hospital wing: beds, corridor door and matron’s office",
+      "category": "interior",
+      "description": "Harry wakes in the dark ward. Ron’s bed is at the far end, while Hermione occupies the bed to Harry’s right with moonlight falling across it. Harry has a bedside table. The ward door stands ajar onto a corridor, carrying voices inside; Pomfrey’s separate office and its door are at the end of the ward.",
+      "evidence": [
+        "B03-C021-P0019",
+        "B03-C021-P0020",
+        "B03-C021-P0021",
+        "B03-C021-P0022",
+        "B03-C021-P0029",
+        "B03-C021-P0042",
+        "B03-C021-P0055",
+        "B03-C021-P0057",
+        "B03-C021-P0063"
+      ],
+      "certainty": "explicit",
+      "temporal": "6 June, third year; time-shifted evening and midnight rescue",
+      "model_notes": "Relative bed positions describe this occupancy, not fixed numbered beds. Moonlight implies a light path, but no window position is explicitly supplied."
+    },
+    {
+      "id": "B03-139",
+      "location": "Flitwick’s office: reported seventh-floor prison location",
+      "category": "interior",
+      "description": "Dumbledore identifies Sirius’s locked room as Flitwick’s office on the seventh floor, locating its window by a count of thirteen relative to the right of the West Tower.",
+      "evidence": [
+        "B03-C021-P0027",
+        "B03-C021-P0082",
+        "B03-C021-P0083",
+        "B03-C021-P0084"
+      ],
+      "certainty": "reported",
+      "temporal": "Near midnight, third-year rescue",
+      "model_notes": "His wording “Thirteenth window from the right of the West Tower” is later acted on by counting windows to the tower’s right (paragraph 315). Preserve both locators; do not assume the office is inside the West Tower or invent a facade grid."
+    },
+    {
+      "id": "B03-140",
+      "location": "Hospital wing to Entrance Hall: time reversal",
+      "category": "magic",
+      "description": "Dumbledore leaves to lock the children into the ward at five minutes to midnight. Hermione turns the Time-Turner three times; the dark ward dissolves and they find themselves three hours earlier in the deserted Entrance Hall, with sunlight entering through the open front doors onto the paved floor.",
+      "evidence": [
+        "B03-C021-P0082",
+        "B03-C021-P0084",
+        "B03-C021-P0085",
+        "B03-C021-P0086",
+        "B03-C021-P0088",
+        "B03-C021-P0090",
+        "B03-C021-P0093",
+        "B03-C021-P0094",
+        "B03-C021-P0095",
+        "B03-C021-P0096",
+        "B03-C021-P0100",
+        "B03-C021-P0112"
+      ],
+      "certainty": "explicit",
+      "temporal": "6 June, third year; time-shifted evening and midnight rescue",
+      "model_notes": "This scene changes both time and apparent position. It does not establish a physical passage or a general teleportation rule; Hermione explains that she has used the device for overlapping lessons."
+    },
+    {
+      "id": "B03-141",
+      "location": "Entrance Hall: broom cupboard",
+      "category": "interior",
+      "description": "A broom cupboard opens directly from the Entrance Hall and contains buckets and mops, including an upturned bucket used as a seat. From inside the closed dark cupboard Hermione can hear people cross the hall and go down the front steps.",
+      "evidence": [
+        "B03-C021-P0098",
+        "B03-C021-P0103",
+        "B03-C021-P0104",
+        "B03-C021-P0105",
+        "B03-C021-P0107",
+        "B03-C021-P0109",
+        "B03-C021-P0110",
+        "B03-C021-P0123",
+        "B03-C021-P0124",
+        "B03-C021-P0125"
+      ],
+      "certainty": "explicit",
+      "temporal": "6 June, third year; time-shifted evening and midnight rescue",
+      "model_notes": "No wall side, cupboard dimensions, or relation to the separate waiting chamber is specified."
+    },
+    {
+      "id": "B03-142",
+      "location": "Entrance Hall to Forest via gardens, greenhouses and Willow",
+      "category": "route",
+      "description": "The pair leave the hall down the stone steps, with long shadows and gilded Forest treetops. To avoid sight from Hagrid’s front door they cross vegetable gardens to the greenhouses, pause behind them, then skirt the Willow and reach the shelter of Forest trees.",
+      "evidence": [
+        "B03-C021-P0125",
+        "B03-C021-P0126",
+        "B03-C021-P0127",
+        "B03-C021-P0128",
+        "B03-C021-P0129",
+        "B03-C021-P0130"
+      ],
+      "certainty": "explicit",
+      "temporal": "6 June, third year; time-shifted evening and midnight rescue",
+      "model_notes": "This is an observed alternative approach to Hagrid, chosen for concealment; do not replace the direct lawn route with it or infer exact garden boundaries."
+    },
+    {
+      "id": "B03-143",
+      "location": "Forest edge: oak lookout onto Hagrid’s cabin and castle",
+      "category": "grounds",
+      "description": "Moving along the very edge of the Forest, the pair see Hagrid’s front doorway and hide behind a wide oak trunk, looking from either side. A small head movement also gives Harry a view of the distant castle front doors and descending officials. They can hear activity in the cabin.",
+      "evidence": [
+        "B03-C021-P0131",
+        "B03-C021-P0132",
+        "B03-C021-P0133",
+        "B03-C021-P0134",
+        "B03-C021-P0136",
+        "B03-C021-P0141",
+        "B03-C021-P0142",
+        "B03-C021-P0143",
+        "B03-C021-P0151",
+        "B03-C021-P0153",
+        "B03-C021-P0161",
+        "B03-C021-P0164"
+      ],
+      "certainty": "explicit",
+      "temporal": "6 June, third year; time-shifted evening and midnight rescue",
+      "model_notes": "Establish sight lines from the wooded edge to both buildings and sound through the ajar rear door. No precise angular relationship is given."
+    },
+    {
+      "id": "B03-144",
+      "location": "Hagrid’s pumpkin patch: fence tether and cabin window",
+      "category": "grounds",
+      "description": "From the trees the pair see Buckbeak tethered to the fence around the pumpkin patch. Hagrid’s rear door opens into the garden, and a cabin window gives Macnair a view of Buckbeak. Harry vaults the fence and unties the rope from it.",
+      "evidence": [
+        "B03-C021-P0137",
+        "B03-C021-P0153",
+        "B03-C021-P0161",
+        "B03-C021-P0164",
+        "B03-C021-P0166",
+        "B03-C021-P0168",
+        "B03-C021-P0170"
+      ],
+      "certainty": "explicit",
+      "temporal": "6 June, third year; time-shifted evening and midnight rescue",
+      "model_notes": "Chapter 16 paragraph 158 instead describes Buckbeak tethered to a tree behind the patch. Keep the tree and fence accounts visible as an unresolved local placement discrepancy, rather than silently merging them."
+    },
+    {
+      "id": "B03-145",
+      "location": "Pumpkin patch to Forest: rescue clearance and screening",
+      "category": "route",
+      "description": "Harry leads Buckbeak from the patch toward the Forest. At one point they remain ten feet from the trees and plainly visible from Hagrid’s back door. After reaching the trees and moving farther, they are screened so completely that they cannot see the garden, though the rear door and voices remain audible.",
+      "evidence": [
+        "B03-C021-P0174",
+        "B03-C021-P0177",
+        "B03-C021-P0179",
+        "B03-C021-P0180",
+        "B03-C021-P0181",
+        "B03-C021-P0183",
+        "B03-C021-P0184",
+        "B03-C021-P0186",
+        "B03-C021-P0194",
+        "B03-C021-P0198"
+      ],
+      "certainty": "explicit",
+      "temporal": "6 June, third year; time-shifted evening and midnight rescue",
+      "model_notes": "The ten-foot figure is one moment in the journey, not the patch’s full distance from the Forest. Trees supply visual screening; the door is still within earshot."
+    },
+    {
+      "id": "B03-146",
+      "location": "Hagrid’s garden: explanation of axe sound",
+      "category": "temporary",
+      "description": "After discovering Buckbeak gone, the executioner apparently swings his axe into the fence in anger, producing the previously heard swish and thud. Hagrid’s cries are relief at the escape; the officials then re-enter the cabin.",
+      "evidence": [
+        "B03-C021-P0186",
+        "B03-C021-P0187",
+        "B03-C021-P0188",
+        "B03-C021-P0189",
+        "B03-C021-P0190",
+        "B03-C021-P0191",
+        "B03-C021-P0192",
+        "B03-C021-P0193",
+        "B03-C021-P0195",
+        "B03-C021-P0196",
+        "B03-C021-P0197",
+        "B03-C021-P0198"
+      ],
+      "certainty": "inference",
+      "temporal": "6 June, third year; time-shifted evening and midnight rescue",
+      "model_notes": "The strike into the fence is inferred in the narration from sound, not directly seen. No specific cut, split or destroyed fence section is described."
+    },
+    {
+      "id": "B03-147",
+      "location": "Forest edge: Willow observation position",
+      "category": "grounds",
+      "description": "The pair move around the Forest edge until a clump of trees hides them while allowing a view of the Willow. From there they watch the lawn pursuit, the tree entrance, and officials returning up the castle steps. They also see Lupin and later Snape run from the castle to the Willow, with Hagrid returning between them.",
+      "evidence": [
+        "B03-C021-P0200",
+        "B03-C021-P0201",
+        "B03-C021-P0202",
+        "B03-C021-P0203",
+        "B03-C021-P0204",
+        "B03-C021-P0205",
+        "B03-C021-P0206",
+        "B03-C021-P0208",
+        "B03-C021-P0210",
+        "B03-C021-P0211",
+        "B03-C021-P0215",
+        "B03-C021-P0218",
+        "B03-C021-P0219",
+        "B03-C021-P0227",
+        "B03-C021-P0229",
+        "B03-C021-P0230",
+        "B03-C021-P0231",
+        "B03-C021-P0234",
+        "B03-C021-P0236",
+        "B03-C021-P0260",
+        "B03-C021-P0261",
+        "B03-C021-P0263",
+        "B03-C021-P0269"
+      ],
+      "certainty": "explicit",
+      "temporal": "6 June, third year; time-shifted evening and midnight rescue",
+      "model_notes": "The same clump is within earshot of the passing officials. Ground there is dry, leaves rustle in a breeze and the moon passes behind clouds. Buckbeak is tied to a nearby tree during the wait."
+    },
+    {
+      "id": "B03-148",
+      "location": "Whomping Willow: observed reset and stick activation",
+      "category": "magic",
+      "description": "From the Forest edge they see the Willow stop when Crookshanks reaches its knot, then resume moving as soon as the children disappear into the roots. Lupin freezes it by prodding the knot with a broken branch from the ground; Snape later uses that same branch.",
+      "evidence": [
+        "B03-C021-P0212",
+        "B03-C021-P0213",
+        "B03-C021-P0214",
+        "B03-C021-P0215",
+        "B03-C021-P0219",
+        "B03-C021-P0220",
+        "B03-C021-P0230",
+        "B03-C021-P0231",
+        "B03-C021-P0234"
+      ],
+      "certainty": "explicit",
+      "temporal": "6 June, third year; time-shifted evening and midnight rescue",
+      "model_notes": "This supplies direct observation of the stick method previously reported in chapter 18 and a reset in this instance. Do not assume a timed duration for every activation."
+    },
+    {
+      "id": "B03-149",
+      "location": "Forest to Hagrid’s cabin: refuge and sight limitation",
+      "category": "route",
+      "description": "When Lupin transforms, Harry and Hermione leave their Forest lookout and run back to Hagrid’s cabin with Buckbeak. They enter and bolt the door; Fang is inside. Buckbeak lies before the fire. Harry finds the window view too restricted to follow events outside and leaves to look around the cabin.",
+      "evidence": [
+        "B03-C021-P0269",
+        "B03-C021-P0270",
+        "B03-C021-P0273",
+        "B03-C021-P0275",
+        "B03-C021-P0276",
+        "B03-C021-P0277",
+        "B03-C021-P0278",
+        "B03-C021-P0279",
+        "B03-C021-P0281",
+        "B03-C021-P0282",
+        "B03-C021-P0284",
+        "B03-C021-P0285",
+        "B03-C021-P0286",
+        "B03-C021-P0287",
+        "B03-C021-P0288"
+      ],
+      "certainty": "explicit",
+      "temporal": "6 June, third year; time-shifted evening and midnight rescue",
+      "model_notes": "Adds a working door bolt and refuge capacity for a Hippogriff. The specific door used is not named; do not equate its restricted view with every cabin window."
+    },
+    {
+      "id": "B03-150",
+      "location": "Hagrid’s cabin to opposite lake bank: bush lookout",
+      "category": "route",
+      "description": "From outside the cabin Harry sees Dementors moving around the lake edges away from him toward the opposite bank. He runs to the water and hides behind a bush growing at its very edge, looking through its leaves at silver Patronus glimmers and the surrounding Dementors across the lake.",
+      "evidence": [
+        "B03-C021-P0286",
+        "B03-C021-P0287",
+        "B03-C021-P0288",
+        "B03-C021-P0289",
+        "B03-C021-P0290",
+        "B03-C021-P0291",
+        "B03-C021-P0292",
+        "B03-C021-P0293",
+        "B03-C021-P0294",
+        "B03-C021-P0296",
+        "B03-C021-P0303",
+        "B03-C021-P0305",
+        "B03-C021-P0311",
+        "B03-C021-P0312"
+      ],
+      "certainty": "explicit",
+      "temporal": "6 June, third year; time-shifted evening and midnight rescue",
+      "model_notes": "Links the cabin-side approach with the shore opposite the original attack. The distant figures are small and partially illuminated; no exact shore distance or compass bearing is supplied."
+    },
+    {
+      "id": "B03-151",
+      "location": "Lake: night surface, soft bank and Patronus passage",
+      "category": "grounds",
+      "description": "The lake surface is black and still and reflects moving clouds. The returning silver stag Patronus crosses the water and stops on soft shore ground without hoofprints, before vanishing. The nearby bush rustles in the breeze.",
+      "evidence": [
+        "B03-C021-P0298",
+        "B03-C021-P0299",
+        "B03-C021-P0300",
+        "B03-C021-P0302",
+        "B03-C021-P0314"
+      ],
+      "certainty": "explicit",
+      "temporal": "6 June, third year; time-shifted evening and midnight rescue",
+      "model_notes": "The stag’s weightless magical crossing does not imply that people or animals can stand on the water, or that there is a hidden causeway. Conditions belong to this night."
+    },
+    {
+      "id": "B03-152",
+      "location": "Lake bank to castle: rescue stretchers and facade view",
+      "category": "route",
+      "description": "From behind the waterside bush the pair watch Snape place Harry, Hermione and Sirius on conjured stretchers, with a fourth already floating beside him, and move them toward the castle. Harry can look up at the castle and count windows to the right of the West Tower.",
+      "evidence": [
+        "B03-C021-P0311",
+        "B03-C021-P0312",
+        "B03-C021-P0313",
+        "B03-C021-P0315",
+        "B03-C021-P0316",
+        "B03-C021-P0317"
+      ],
+      "certainty": "explicit",
+      "temporal": "6 June, third year; time-shifted evening and midnight rescue",
+      "model_notes": "The fourth stretcher’s occupant is inferred to be Ron in the narration. The view establishes a visible facade sector from this shore, not a complete plan."
+    },
+    {
+      "id": "B03-153",
+      "location": "Lake-side takeoff to Flitwick’s office window",
+      "category": "route",
+      "description": "Using a lower branch of the waterside bush as a step, Harry mounts Buckbeak in front of Hermione. They rise from the shore, glide toward the upper castle floors and turn while counting windows, then hover by Sirius’s window, bobbing several feet with the wingbeats.",
+      "evidence": [
+        "B03-C021-P0319",
+        "B03-C021-P0320",
+        "B03-C021-P0321",
+        "B03-C021-P0322",
+        "B03-C021-P0323",
+        "B03-C021-P0324",
+        "B03-C021-P0325",
+        "B03-C021-P0326"
+      ],
+      "certainty": "explicit",
+      "temporal": "6 June, third year; time-shifted evening and midnight rescue",
+      "model_notes": "The left rein turn is relative to their approach, not a cardinal orientation. Allow clear airspace in front of the window; no landing ledge is mentioned."
+    },
+    {
+      "id": "B03-154",
+      "location": "Flitwick’s office: locked window and chair",
+      "category": "furnishing",
+      "description": "Sirius sits on a chair in the office. He cannot open its locked glazed window until Hermione uses Alohomora from outside. He braces both hands on the frame and squeezes his head, shoulders and leg through to mount Buckbeak; his thinness makes this possible.",
+      "evidence": [
+        "B03-C021-P0326",
+        "B03-C021-P0327",
+        "B03-C021-P0328",
+        "B03-C021-P0329",
+        "B03-C021-P0330",
+        "B03-C021-P0331",
+        "B03-C021-P0332",
+        "B03-C021-P0333"
+      ],
+      "certainty": "explicit",
+      "temporal": "6 June, third year; time-shifted evening and midnight rescue",
+      "model_notes": "This opening is usable by a thin adult, not evidence of a full-height exit. No bars or additional opening mechanism are described."
+    },
+    {
+      "id": "B03-155",
+      "location": "West Tower: aerial arrival and battlements",
+      "category": "exterior",
+      "description": "Buckbeak carries all three upward from the office window to the top of the West Tower and lands on the battlements. Harry and Hermione dismount; Sirius departs into open sky, fading into the moonlit distance as a cloud crosses the moon.",
+      "evidence": [
+        "B03-C021-P0334",
+        "B03-C021-P0335",
+        "B03-C021-P0336",
+        "B03-C021-P0337",
+        "B03-C021-P0338",
+        "B03-C021-P0339",
+        "B03-C021-P0340",
+        "B03-C021-P0341",
+        "B03-C021-P0342",
+        "B03-C021-P0343",
+        "B03-C021-P0344",
+        "B03-C021-P0345"
+      ],
+      "certainty": "explicit",
+      "temporal": "6 June, third year; time-shifted evening and midnight rescue",
+      "model_notes": "The tower top can support the landing and passengers. Do not infer its footprint, crenellation dimensions or relative height among other towers."
     }
   ],
   "chapter_reviews": [
@@ -2632,6 +3157,39 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read every paragraph; recorded historical construction, access method, map origins and office use, separating Lupin’s explanations from observed concealed entry."
+    },
+    {
+      "chapter": 19,
+      "reviewed_ranges": [
+        [
+          1,
+          193
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph, including all retrospective accounts. Recorded room enclosure, door impact, password origin, map limit and Forest refuge; omitted unrelated off-site architecture."
+    },
+    {
+      "chapter": 20,
+      "reviewed_ranges": [
+        [
+          1,
+          75
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph; recorded return clearances, interrupted castle route, moonlit grounds, lake-shore attack and opposite-shore view."
+    },
+    {
+      "chapter": 21,
+      "reviewed_ranges": [
+        [
+          1,
+          345
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in four complete chunks. Recorded ward, cupboard, alternative grounds routes, multiple lookout sight lines, tether discrepancy, Willow controls, lakeside surface and aerial office/West Tower rescue."
     }
   ]
 }
