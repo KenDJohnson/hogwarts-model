@@ -4396,6 +4396,184 @@
       "certainty": "reported",
       "temporal": "Late May–June 1996 O.W.L. examinations and night raid",
       "model_notes": "Reported view from Colin’s dormitory, not necessarily Harry’s window or room."
+    },
+    {
+      "id": "B05-268",
+      "location": "Hall to hospital wing and first floor",
+      "category": "route",
+      "description": "Harry exits the exam to the Entrance Hall, climbs the marble staircase and further flights through portrait-lined corridors, entering the hospital wing through double doors. Returning, he descends two floors to the marble staircase top and follows the first-floor corridor.",
+      "evidence": [
+        "B05-C032-P0002",
+        "B05-C032-P0004",
+        "B05-C032-P0006",
+        "B05-C032-P0008",
+        "B05-C032-P0011",
+        "B05-C032-P0013",
+        "B05-C032-P0017",
+        "B05-C032-P0019",
+        "B05-C032-P0023"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996, immediately after final History of Magic exam",
+      "model_notes": "Text supplies a two-floor descent and first-floor endpoint; retain those constraints without forcing an absolute hospital floor in this entry."
+    },
+    {
+      "id": "B05-269",
+      "location": "Hospital wing bell and ward",
+      "category": "interior",
+      "description": "Pomfrey treats Montague inside the wing; a bell rings immediately outside the dormitory/ward as students move through corridors above and below.",
+      "evidence": [
+        "B05-C032-P0008",
+        "B05-C032-P0011",
+        "B05-C032-P0013",
+        "B05-C032-P0015",
+        "B05-C032-P0017"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996, immediately after final History of Magic exam",
+      "model_notes": "McGonagall has been transferred to St Mungo’s; do not conflate the external hospital with this wing."
+    },
+    {
+      "id": "B05-270",
+      "location": "Unnamed first-floor empty classroom",
+      "category": "interior",
+      "description": "Harry peers into doorways along the first-floor corridor, selects an empty classroom and shuts its door. He sits on a desk; Hermione later paces between desks. His shouts are audible to Ginny and Luna outside.",
+      "evidence": [
+        "B05-C032-P0023",
+        "B05-C032-P0030",
+        "B05-C032-P0042",
+        "B05-C032-P0066",
+        "B05-C032-P0073",
+        "B05-C032-P0074",
+        "B05-C032-P0095"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996, immediately after final History of Magic exam",
+      "model_notes": "Distinct unnamed usable classroom with desks and a door; no furnishings borrowed from other lessons."
+    },
+    {
+      "id": "B05-271",
+      "location": "Diversion routes and swivelling staircase",
+      "category": "route",
+      "description": "Ron proposes sending Umbridge to the Transfiguration department, which he describes as far from her office. Lookouts redirect traffic around the office corridor by the swivelling staircase.",
+      "evidence": [
+        "B05-C032-P0089",
+        "B05-C032-P0095",
+        "B05-C032-P0096",
+        "B05-C032-P0098",
+        "B05-C032-P0099",
+        "B05-C032-P0102",
+        "B05-C032-P0105",
+        "B05-C032-P0109",
+        "B05-C032-P0114",
+        "B05-C032-P0115",
+        "B05-C032-P0119",
+        "B05-C032-P0120",
+        "B05-C032-P0121",
+        "B05-C032-P0122"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996, immediately after final History of Magic exam",
+      "model_notes": "Transfiguration distance is Ron’s qualitative report. Gas is a fabricated cover story, not an actual hazard."
+    },
+    {
+      "id": "B05-272",
+      "location": "Gryffindor retrieval to Umbridge corridor",
+      "category": "route",
+      "description": "From the empty classroom Harry goes up, meets Dean and Seamus two floors higher, then retrieves the Cloak and knife through Gryffindor’s portrait hole; a few minutes later he descends the last stairs to the office corridor.",
+      "evidence": [
+        "B05-C032-P0110",
+        "B05-C032-P0111",
+        "B05-C032-P0112"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996, immediately after final History of Magic exam",
+      "model_notes": "Do not equate the meeting floor with the portrait-hole floor unless independently stated."
+    },
+    {
+      "id": "B05-273",
+      "location": "Office-corridor wizard bust",
+      "category": "furnishing",
+      "description": "A recess contains an ugly stone head of a medieval wizard on a column, muttering in Latin; Harry and Hermione conceal themselves behind it to don the Cloak.",
+      "evidence": [
+        "B05-C032-P0116",
+        "B05-C032-P0117",
+        "B05-C032-P0118",
+        "B05-C032-P0123"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996, immediately after final History of Magic exam",
+      "model_notes": "Stone talking bust and hiding recess, distinct from Paracelsus unless future evidence identifies it."
+    },
+    {
+      "id": "B05-274",
+      "location": "Umbridge office entry and sunlight",
+      "category": "interior",
+      "description": "The magical knife again opens the lock. Late-afternoon sunshine warms the animated kitten plates. Hermione watches the grounds from the window, staying out of sight, while Harry uses Floo powder at the hearth.",
+      "evidence": [
+        "B05-C032-P0125",
+        "B05-C032-P0126",
+        "B05-C032-P0127",
+        "B05-C032-P0128",
+        "B05-C032-P0129",
+        "B05-C032-P0151",
+        "B05-C032-P0158"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996, immediately after final History of Magic exam",
+      "model_notes": "Observed window-to-grounds view; no compass bearing."
+    },
+    {
+      "id": "B05-275",
+      "location": "Stealth detection and guarded Firebolt",
+      "category": "magic",
+      "description": "Umbridge catches Harry at the fireplace and says Stealth Sensoring Spells surround her doorway, installed after the last Niffler. She says the Firebolt is strictly guarded in the dungeons.",
+      "evidence": [
+        "B05-C032-P0151",
+        "B05-C032-P0152",
+        "B05-C032-P0153",
+        "B05-C032-P0154",
+        "B05-C032-P0155",
+        "B05-C032-P0156"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1996, immediately after final History of Magic exam",
+      "model_notes": "Detection implementation and broom guarding reported by Umbridge; confirms neither a specific troll nor impermeability of the door."
+    },
+    {
+      "id": "B05-276",
+      "location": "Umbridge office captivity furnishings",
+      "category": "interior",
+      "description": "The office contains a chintz-covered armchair and a carpet; Ron’s bleeding lip stains it. Malfoy sits or leans on the windowsill while captors pin Hermione against a wall.",
+      "evidence": [
+        "B05-C032-P0158",
+        "B05-C032-P0159",
+        "B05-C032-P0160",
+        "B05-C032-P0162",
+        "B05-C032-P0170",
+        "B05-C032-P0171",
+        "B05-C032-P0188",
+        "B05-C032-P0192",
+        "B05-C032-P0212",
+        "B05-C032-P0234",
+        "B05-C032-P0236",
+        "B05-C032-P0238"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1996, immediately after final History of Magic exam",
+      "model_notes": "Temporary crowded custody arrangement; dimensions not inferred from headcount."
+    },
+    {
+      "id": "B05-277",
+      "location": "School telescope sabotage report",
+      "category": "temporary",
+      "description": "Umbridge says Filch has just reported Peeves smearing ink on all school telescope eyepieces.",
+      "evidence": [
+        "B05-C032-P0163"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1996, immediately after final History of Magic exam",
+      "model_notes": "Reported sabotage; not confirmation of destruction or of the proposed Transfiguration rampage."
     }
   ],
   "chapter_reviews": [
@@ -4739,6 +4917,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read every paragraph in four chunks including entire examination sequence, tower battle and final vision. Ministry torture vision is not a Hogwarts room."
+    },
+    {
+      "chapter": 32,
+      "reviewed_ranges": [
+        [
+          1,
+          238
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs including rescue argument, plan, Floo check and complete interrogation. Hermione’s weapon and pub-search account is a deliberate deception and not modelled as an actual installation or journey."
     }
   ]
 }
