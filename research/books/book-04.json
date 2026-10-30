@@ -3580,6 +3580,186 @@
       "certainty": "explicit",
       "temporal": "24 June 1995, after third-task departure",
       "model_notes": "Observed reuse and transport of a person/body in contact with the holder. Arrival location is supplied by the next chapter; the remote graveyard itself is outside the model scope."
+    },
+    {
+      "id": "B04-223",
+      "location": "Portkey landing at maze edge",
+      "category": "route",
+      "description": "The returning Cup deposits Harry and Cedric’s body on grass at the edge of the maze, below the spectator stands and open starry sky, where the crowd can close in around them.",
+      "evidence": [
+        "B04-C035-P0001",
+        "B04-C035-P0002",
+        "B04-C035-P0003",
+        "B04-C035-P0005",
+        "B04-C035-P0006",
+        "B04-C035-P0007",
+        "B04-C035-P0008",
+        "B04-C035-P0018",
+        "B04-C035-P0019"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 June 1995 return and interrogation; prior-year events where reported",
+      "model_notes": "The return target is the maze edge, rather than necessarily the central plinth from which they departed."
+    },
+    {
+      "id": "B04-224",
+      "location": "Maze to Moody’s office",
+      "category": "route",
+      "description": "The impostor takes Harry across the lawn past the lake and ship, up the castle stone steps, through the Entrance Hall, up the marble staircase and along a corridor into Moody’s office.",
+      "evidence": [
+        "B04-C035-P0028",
+        "B04-C035-P0029",
+        "B04-C035-P0030",
+        "B04-C035-P0031",
+        "B04-C035-P0035",
+        "B04-C035-P0041",
+        "B04-C035-P0042",
+        "B04-C035-P0044"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 June 1995 return and interrogation; prior-year events where reported",
+      "model_notes": "A contiguous sequence without an exact floor number. The destination is concealed from Harry under the claim of hospital care."
+    },
+    {
+      "id": "B04-225",
+      "location": "Moody’s office confinement and damaged door",
+      "category": "temporary",
+      "description": "The dark office has a keyed lock and a barred door; screams from the distant Quidditch pitch remain audible. Dumbledore blasts the door apart with a Stunning Spell, splintering it and leaving a breached doorway.",
+      "evidence": [
+        "B04-C035-P0042",
+        "B04-C035-P0044",
+        "B04-C035-P0046",
+        "B04-C035-P0061",
+        "B04-C035-P0079",
+        "B04-C035-P0083",
+        "B04-C035-P0084",
+        "B04-C035-P0085",
+        "B04-C035-P0087"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 June 1995 return and interrogation; prior-year events where reported",
+      "model_notes": "Dated damage. The magical eye is used to check the space outside the closed door; ordinary Harry has no equivalent sightline."
+    },
+    {
+      "id": "B04-226",
+      "location": "Foe-Glass approaching figures",
+      "category": "magic",
+      "description": "Three indistinct figures in the wall-mounted Foe-Glass sharpen as Dumbledore, Snape and McGonagall approach; their faces remain visible in it after they stand in the doorway and enter. Crouch is later seated against the wall beneath it.",
+      "evidence": [
+        "B04-C035-P0074",
+        "B04-C035-P0077",
+        "B04-C035-P0084",
+        "B04-C035-P0085",
+        "B04-C035-P0087",
+        "B04-C035-P0112"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 June 1995 return and interrogation; prior-year events where reported",
+      "model_notes": "Observed display behaviour corroborates its warning function; it is not an ordinary mirror of the room."
+    },
+    {
+      "id": "B04-227",
+      "location": "Moody’s seven-lock trunk",
+      "category": "magic",
+      "description": "Each keyhole opens a different interior of the same trunk: first spellbooks, then broken Sneakoscopes, parchment, quills and a silvery Invisibility Cloak, with other unspecified contents in compartments three to six. The seventh reveals a pit-like room ten feet below containing the real Moody. Dumbledore climbs down, covers him against the cold and climbs back out.",
+      "evidence": [
+        "B04-C035-P0095",
+        "B04-C035-P0097",
+        "B04-C035-P0098",
+        "B04-C035-P0099",
+        "B04-C035-P0100",
+        "B04-C035-P0101",
+        "B04-C035-P0102",
+        "B04-C035-P0103",
+        "B04-C035-P0104"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 June 1995 return and interrogation; prior-year events where reported",
+      "model_notes": "Nested magical interior, not proof of a cellar excavated beneath the office. No ladder is described; the ten-foot drop is explicit."
+    },
+    {
+      "id": "B04-228",
+      "location": "Staff-room staged cleaning summons",
+      "category": "history",
+      "description": "Crouch reports summoning Dobby to the staff room to collect robes for cleaning, then staging a loud conversation about Gillyweed and the hostages to direct him towards Snape’s store cupboard.",
+      "evidence": [
+        "B04-C035-P0072",
+        "B04-C035-P0073"
+      ],
+      "certainty": "reported",
+      "temporal": "24 June 1995 return and interrogation; prior-year events where reported",
+      "model_notes": "Reported manipulation under the Moody disguise. This resolves the overheard-conversation provenance without changing staff-room geometry."
+    },
+    {
+      "id": "B04-229",
+      "location": "Maze sabotage from patrol perimeter",
+      "category": "history",
+      "description": "Crouch says his borrowed magical eye let him see through the outer maze hedges while patrolling and remove obstacles with curses. He says he Stunned Fleur and placed Krum under Imperius to attack Cedric.",
+      "evidence": [
+        "B04-C035-P0069",
+        "B04-C035-P0070",
+        "B04-C035-P0074",
+        "B04-C035-P0075"
+      ],
+      "certainty": "reported",
+      "temporal": "24 June 1995 return and interrogation; prior-year events where reported",
+      "model_notes": "Reported hostile intervention explains an unusually clear route; do not generalise Harry’s low obstacle count to the intended maze population."
+    },
+    {
+      "id": "B04-230",
+      "location": "Real Moody’s confinement and ingredient theft",
+      "category": "history",
+      "description": "Crouch reports bringing the captured real Moody, clothes and detectors to Hogwarts in Moody’s own magical trunk, keeping him alive under Imperius for hair and interrogation, and stealing Polyjuice ingredients from Snape’s dungeon stores. The map’s Bartemius Crouch label referred to the son with the same name.",
+      "evidence": [
+        "B04-C035-P0094",
+        "B04-C035-P0097",
+        "B04-C035-P0098",
+        "B04-C035-P0100",
+        "B04-C035-P0102",
+        "B04-C035-P0104",
+        "B04-C035-P0105",
+        "B04-C035-P0107",
+        "B04-C035-P0146",
+        "B04-C035-P0148",
+        "B04-C035-P0153",
+        "B04-C035-P0154",
+        "B04-C035-P0155"
+      ],
+      "certainty": "reported",
+      "temporal": "24 June 1995 return and interrogation; prior-year events where reported",
+      "model_notes": "Narrated discovery confirms the prisoner; the yearlong treatment and thefts are a confession. Earlier references to Moody as teacher concern this impostor."
+    },
+    {
+      "id": "B04-231",
+      "location": "Forest ambush and Hagrid excavation burial",
+      "category": "history",
+      "description": "Crouch says he entered the grounds under an Invisibility Cloak, ambushed Krum and killed his father at the Forest edge, carried the body deeper among the trees, doubled behind Harry and Dumbledore, and later Transfigured the body into a bone and buried it in the fresh earth in front of Hagrid’s cabin.",
+      "evidence": [
+        "B04-C035-P0152",
+        "B04-C035-P0153",
+        "B04-C035-P0155",
+        "B04-C035-P0156",
+        "B04-C035-P0158",
+        "B04-C035-P0159",
+        "B04-C035-P0160"
+      ],
+      "certainty": "reported",
+      "temporal": "24 June 1995 return and interrogation; prior-year events where reported",
+      "model_notes": "Reported hidden sequence and temporary burial state, correcting the earlier unexplained disappearance. The confession gives no grave depth or exact point within the excavation."
+    },
+    {
+      "id": "B04-232",
+      "location": "Cup alteration before third task",
+      "category": "history",
+      "description": "Crouch reports volunteering to carry the Cup into the maze before dinner and converting it into the Portkey.",
+      "evidence": [
+        "B04-C035-P0146",
+        "B04-C035-P0162",
+        "B04-C035-P0163"
+      ],
+      "certainty": "reported",
+      "temporal": "24 June 1995 return and interrogation; prior-year events where reported",
+      "model_notes": "Reported timing and means of illicit route creation; supports the observed transport and Voldemort’s account."
     }
   ],
   "chapter_reviews": [
@@ -3956,6 +4136,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed. Remote graveyard, Riddle House, Albanian history and duel scenery excluded; retained Hogwarts mountain-setting contrast and Cup transport constraints where present."
+    },
+    {
+      "chapter": 35,
+      "reviewed_ranges": [
+        [
+          1,
+          164
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included maze-edge arrival, office route/barred door destruction, Foe-Glass, nested trunk interior, sabotage, corrected Crouch identity and hidden Forest/body-burial sequence. Azkaban and Crouch-home details remain outside scope."
     }
   ]
 }
