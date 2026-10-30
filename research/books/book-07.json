@@ -1436,6 +1436,215 @@
       "certainty": "explicit",
       "temporal": "May 1998, Battle of Hogwarts before and just after midnight",
       "model_notes": "No named floor or explicit source of this particular explosion. Keep this damage distinct from the Room’s fire."
+    },
+    {
+      "id": "B07-089",
+      "location": "Blasted outer corridor / armour niche",
+      "category": "temporary",
+      "description": "Curses and a falling body pass the large outer-wall breach. Car-sized giant spiders climb the castle side and try to enter through it. Fred is hidden in a niche formerly occupied by armour; farther along, dust and falling masonry fill a corridor whose windows have lost their glass.",
+      "evidence": [
+        "B07-C032-P0002",
+        "B07-C032-P0003",
+        "B07-C032-P0005",
+        "B07-C032-P0006",
+        "B07-C032-P0007",
+        "B07-C032-P0009",
+        "B07-C032-P0010"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Aragog’s descendants are identified in narration. Death Eater penetration of their Forest is Harry’s inference; exact exterior wall orientation remains unknown."
+    },
+    {
+      "id": "B07-090",
+      "location": "Concealed stair / two tapestries / lower corridor",
+      "category": "route",
+      "description": "Behind the tapestry where Hermione restrains Ron is a staircase with concealing tapestries at top and bottom. Glisseo flattens it into a chute and the trio slide through the lower tapestry to the opposite wall. Hermione turns that tapestry to stone with Duro, stopping the pursuing Death Eaters; a nearby door shelters the trio as McGonagall drives animated desks past.",
+      "evidence": [
+        "B07-C032-P0011",
+        "B07-C032-P0012",
+        "B07-C032-P0047",
+        "B07-C032-P0048",
+        "B07-C032-P0049",
+        "B07-C032-P0050",
+        "B07-C032-P0051",
+        "B07-C032-P0052"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Specific temporary slide and stone obstruction, not permanent stair design. No named floor or identified relationship to earlier tapestry shortcuts."
+    },
+    {
+      "id": "B07-091",
+      "location": "Lower corridor → marble staircase / active plant weapons",
+      "category": "route",
+      "description": "After another descending staircase they reach a corridor full of duellers and portraits crowded with advisers. Peeves flies overhead dropping Snargaluff pods, whose green wormlike roots engulf heads and spill slippery juice. The trio run through it to the upper landing of the marble staircase leading into the Entrance Hall.",
+      "evidence": [
+        "B07-C032-P0054",
+        "B07-C032-P0055",
+        "B07-C032-P0057",
+        "B07-C032-P0058",
+        "B07-C032-P0059",
+        "B07-C032-P0060",
+        "B07-C032-P0061",
+        "B07-C032-P0062",
+        "B07-C032-P0064"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Concrete travel sequence and battle surface hazard. Neville carries Venomous Tentacula into the Hall, where it coils around and reels in an enemy."
+    },
+    {
+      "id": "B07-092",
+      "location": "Entrance Hall / hourglass, balcony, marble banisters and doors",
+      "category": "temporary",
+      "description": "As the trio descend the marble stairs, the Slytherin points hourglass shatters on their left and spills emeralds underfoot. Two bodies fall from a balcony overhead. Greyback is thrown into marble banisters; Trelawney attacks from above them with crystal balls, one smashing a window across the Hall. Heavy wooden front doors burst open for giant spiders.",
+      "evidence": [
+        "B07-C032-P0064",
+        "B07-C032-P0065",
+        "B07-C032-P0066",
+        "B07-C032-P0067",
+        "B07-C032-P0068",
+        "B07-C032-P0069",
+        "B07-C032-P0070",
+        "B07-C032-P0073",
+        "B07-C032-P0075"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Slytherin hourglass, not the previously broken Gryffindor one. “Left” is relative to descent, with no compass direction or complete arrangement of house clocks."
+    },
+    {
+      "id": "B07-093",
+      "location": "Castle front steps / giant attack / upper window",
+      "category": "temporary",
+      "description": "Outside the front steps a twenty-foot giant is illuminated at its shins by light from the castle doors; it smashes an upper window and reaches through for people. Harry shelters in the doorway from falling glass. Grawp rounds a castle corner, fights it beside trembling stone steps, and the trio run down into the grounds towards the Forest.",
+      "evidence": [
+        "B07-C032-P0077",
+        "B07-C032-P0079",
+        "B07-C032-P0080",
+        "B07-C032-P0081",
+        "B07-C032-P0083",
+        "B07-C032-P0084"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Visible scale and reach, without assigning a numbered floor to the broken window. Grawp is smaller than this enemy giant."
+    },
+    {
+      "id": "B07-094",
+      "location": "Grounds between castle and Forest / Dementor wave and giant",
+      "category": "temporary",
+      "description": "Halfway towards the Forest the trio meet about a hundred Dementors advancing towards the castle. Their cold freezes breath and muffles battle sounds; Patronuses scatter them and warmth and normal volume return. Another giant emerges from the Forest direction carrying a club taller than the students, forcing them to run towards the Whomping Willow.",
+      "evidence": [
+        "B07-C032-P0084",
+        "B07-C032-P0085",
+        "B07-C032-P0086",
+        "B07-C032-P0090",
+        "B07-C032-P0091",
+        "B07-C032-P0092",
+        "B07-C032-P0096",
+        "B07-C032-P0098",
+        "B07-C032-P0099",
+        "B07-C032-P0100",
+        "B07-C032-P0101"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Approximate encounter midpoint and directional origin, no measured separation between Forest and Willow."
+    },
+    {
+      "id": "B07-095",
+      "location": "Lake / Forbidden Forest during battle",
+      "category": "temporary",
+      "description": "While running to the Willow, Harry hears the lake crashing like the sea and the Forbidden Forest creaking despite a windless night, as though the grounds themselves are in rebellion.",
+      "evidence": [
+        "B07-C032-P0103"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Dated magical or battle disturbance; no ordinary-weather explanation or permanent rough-lake condition implied."
+    },
+    {
+      "id": "B07-096",
+      "location": "Whomping Willow / root entrance and disabling knot",
+      "category": "magic",
+      "description": "Whip-like branches defend the secret at the old Willow’s roots. A single knot in the bark near the roots paralyses the tree when jabbed. Ron levitates a fallen twig through its branches to touch that spot, making it still.",
+      "evidence": [
+        "B07-C032-P0103",
+        "B07-C032-P0104",
+        "B07-C032-P0105",
+        "B07-C032-P0106",
+        "B07-C032-P0107",
+        "B07-C032-P0108",
+        "B07-C032-P0109",
+        "B07-C032-P0114"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Remote physical pressure works; no need for a person or animal to touch the knot directly. Keep knot low near roots, without inventing its exact side."
+    },
+    {
+      "id": "B07-097",
+      "location": "Whomping Willow → Shrieking Shack tunnel",
+      "category": "route",
+      "description": "The earthy passage hidden among the roots has a low ceiling: where they once had to stoop four years earlier, the older trio must now crawl. It runs without any encountered barriers, then slopes upwards towards light. A crate blocks its final opening into the Shack room, leaving a small viewing gap against the wall; Harry levitates it an inch up and sideways to enter.",
+      "evidence": [
+        "B07-C032-P0114",
+        "B07-C032-P0115",
+        "B07-C032-P0116",
+        "B07-C032-P0117",
+        "B07-C032-P0118",
+        "B07-C032-P0119",
+        "B07-C032-P0170",
+        "B07-C032-P0171"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Observed navigability differs from the earlier general claim that old passages were all sealed; preserve rather than silently resolve that discrepancy. No exact length, bearing or numbered Shack floor supplied."
+    },
+    {
+      "id": "B07-098",
+      "location": "Shrieking Shack / occupied room and castle view",
+      "category": "interior",
+      "description": "The desolate room has peeling wallpaper, boarded windows except one, and a solitary oil lamp. Its open window shows distant battle flashes at the castle, whose sounds are muffled. Lucius sits in its darkest corner. At the tunnel end Harry can see the edge of a table with Voldemort beside it; Snape passes within inches of the concealed opening.",
+      "evidence": [
+        "B07-C032-P0022",
+        "B07-C032-P0024",
+        "B07-C032-P0034",
+        "B07-C032-P0037",
+        "B07-C032-P0118",
+        "B07-C032-P0119",
+        "B07-C032-P0123",
+        "B07-C032-P0124",
+        "B07-C032-P0129",
+        "B07-C032-P0134",
+        "B07-C032-P0135"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Room identified by Harry after the vision and then reached physically. Visibility from a tunnel gap is restricted, so do not infer a complete furnishing inventory."
+    },
+    {
+      "id": "B07-099",
+      "location": "Shrieking Shack / Nagini’s protective sphere",
+      "category": "magic",
+      "description": "Nagini floats and coils in a transparent starry sphere, described as between a cage and tank. Voldemort moves it through the air to enclose Snape’s head and shoulders so the snake can attack; Snape cannot push it off. The sphere then lifts free and follows Voldemort out, leaving Snape on the floor.",
+      "evidence": [
+        "B07-C032-P0035",
+        "B07-C032-P0037",
+        "B07-C032-P0119",
+        "B07-C032-P0123",
+        "B07-C032-P0137",
+        "B07-C032-P0154",
+        "B07-C032-P0165",
+        "B07-C032-P0166",
+        "B07-C032-P0167",
+        "B07-C032-P0169"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, Battle of Hogwarts",
+      "model_notes": "Temporary movable magical containment, not a built feature of the Shack. Physical force does not remove it in the observed attack; other counters are not tested."
     }
   ],
   "chapter_reviews": [
@@ -1779,6 +1988,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs in three complete chunks. Recorded assembly/evacuation, tower strategy, ghost/corridor constraints, forest breach, staff-room guardians, wall defences, portrait travel, hidden statue passage, Chamber visit, refuge closure/transform rules, North Battlements, hiding-room scale/contents/markers, Fiendfyre and separate outer-wall explosion. Albanian tree and remote cave/lake excluded."
+    },
+    {
+      "chapter": 32,
+      "reviewed_ranges": [
+        [
+          1,
+          178
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in two complete chunks. Recorded breach/spiders, armour niche, tapestry stair/slide, route to Hall, plant attacks, shattered points clock/balcony/banisters/doors, giant and Dementor grounds encounters, windless lake/forest sounds, Willow mechanism, crawl tunnel, Shack room/window/table/crate and protective sphere. Flagged open Willow tunnel against earlier blanket closure report."
     }
   ]
 }
