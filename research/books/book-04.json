@@ -2268,6 +2268,366 @@
       "certainty": "explicit",
       "temporal": "January 1995, night bathroom visit",
       "model_notes": "Ordered return relation only. Ten minutes to Harry being in bed includes an unmeasured walking route and changing, not a metric distance."
+    },
+    {
+      "id": "B04-151",
+      "location": "Charms classroom Banishing setup",
+      "category": "temporary",
+      "description": "Pupils sit at tables, with Harry’s group at the back. Each pupil has a cushion stack to Banish into a box across the room. The room contains a large cabinet, a chandelier, windows and Flitwick’s desk; misdirected objects strike them or land atop the cabinet.",
+      "evidence": [
+        "B04-C026-P0003",
+        "B04-C026-P0004",
+        "B04-C026-P0006",
+        "B04-C026-P0007",
+        "B04-C026-P0008",
+        "B04-C026-P0010",
+        "B04-C026-P0014",
+        "B04-C026-P0015",
+        "B04-C026-P0016"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late January–24 February 1995; second-task preparation and event",
+      "model_notes": "Specific lesson state; no permanent aerial obstacle course."
+    },
+    {
+      "id": "B04-152",
+      "location": "Library access and closing",
+      "category": "interior",
+      "description": "Harry obtains McGonagall’s permission to search the Restricted Section. The library has desks amid bookshelves, movable candles and lamps which Pince extinguishes at the eight-o’clock closing. Harry later re-enters through its door under his Cloak and reads by wandlight until falling asleep.",
+      "evidence": [
+        "B04-C026-P0023",
+        "B04-C026-P0046",
+        "B04-C026-P0048",
+        "B04-C026-P0059",
+        "B04-C026-P0068",
+        "B04-C026-P0072",
+        "B04-C026-P0073",
+        "B04-C026-P0074",
+        "B04-C026-P0075",
+        "B04-C026-P0085"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late January–24 February 1995; second-task preparation and event",
+      "model_notes": "Permission is required for the Restricted Section. After-hours entry does not establish a lock-picking mechanism."
+    },
+    {
+      "id": "B04-153",
+      "location": "Classroom views of lake",
+      "category": "exterior",
+      "description": "The iron-grey lake is visible from classroom windows, drawing Harry’s attention repeatedly as the second task approaches.",
+      "evidence": [
+        "B04-C026-P0024"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late January–24 February 1995; second-task preparation and event",
+      "model_notes": "The classrooms are unnamed; do not infer that every classroom has this view."
+    },
+    {
+      "id": "B04-154",
+      "location": "Unicorn-foal lesson ground",
+      "category": "temporary",
+      "description": "Hagrid presents two pure-gold unicorn foals for pupils to approach and feed sugar. The lesson ground is muddy enough for Harry to sink slightly under Hagrid’s heavy pat on his shoulder.",
+      "evidence": [
+        "B04-C026-P0033",
+        "B04-C026-P0034",
+        "B04-C026-P0035",
+        "B04-C026-P0036",
+        "B04-C026-P0042",
+        "B04-C026-P0043"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late January–24 February 1995; second-task preparation and event",
+      "model_notes": "Dated lesson population; two Skrewts remain at this point, but their enclosure is not described here."
+    },
+    {
+      "id": "B04-155",
+      "location": "Library to McGonagall’s office",
+      "category": "route",
+      "description": "The twins collect Ron and Hermione from the library, saying they must take them down to McGonagall’s office.",
+      "evidence": [
+        "B04-C026-P0059",
+        "B04-C026-P0061",
+        "B04-C026-P0064",
+        "B04-C026-P0066"
+      ],
+      "certainty": "reported",
+      "temporal": "Late January–24 February 1995; second-task preparation and event",
+      "model_notes": "Reported downward route, not a traced staircase or floor number."
+    },
+    {
+      "id": "B04-156",
+      "location": "Gryffindor common room movable study table",
+      "category": "temporary",
+      "description": "Harry pulls a common-room table into a corner to continue searching his borrowed books late into the night.",
+      "evidence": [
+        "B04-C026-P0068",
+        "B04-C026-P0069"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late January–24 February 1995; second-task preparation and event",
+      "model_notes": "Establishes movable study furniture and a temporary corner layout."
+    },
+    {
+      "id": "B04-157",
+      "location": "Staff room maintenance access",
+      "category": "interior",
+      "description": "Dobby says he travels through the castle lighting fires and mopping floors, and overheard McGonagall and Moody in the staff room.",
+      "evidence": [
+        "B04-C026-P0107",
+        "B04-C026-P0109"
+      ],
+      "certainty": "reported",
+      "temporal": "Late January–24 February 1995; second-task preparation and event",
+      "model_notes": "Dobby’s report establishes maintenance access and the staff-room location of a claimed conversation, not its precise floor or furnishings."
+    },
+    {
+      "id": "B04-158",
+      "location": "Second-task lake approach and stands",
+      "category": "temporary",
+      "description": "Harry descends from the library through corridors and stairs into the Entrance Hall, exits the double oak doors and front stone steps, then runs down the lawn and around the lake. The former dragon-arena spectator seats are now ranged along the opposite bank in full stands reflected in the water; voices echo across it. A gold-draped judges’ table stands at the muddy water’s edge.",
+      "evidence": [
+        "B04-C026-P0108",
+        "B04-C026-P0109",
+        "B04-C026-P0110",
+        "B04-C026-P0111",
+        "B04-C026-P0112",
+        "B04-C026-P0113",
+        "B04-C026-P0115",
+        "B04-C026-P0118",
+        "B04-C026-P0121"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late January–24 February 1995; second-task preparation and event",
+      "model_notes": "Preserve the lake circuit approach and relocated stands; opposite bank is relative to Harry’s initial approach."
+    },
+    {
+      "id": "B04-159",
+      "location": "Second-task starting bank",
+      "category": "temporary",
+      "description": "The four champions are spaced ten feet apart along the shore, Harry at an end next to Krum. They enter the water from this bank as Bagman’s magnified announcement carries over the lake.",
+      "evidence": [
+        "B04-C026-P0118",
+        "B04-C026-P0119",
+        "B04-C026-P0121",
+        "B04-C026-P0122",
+        "B04-C026-P0123"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late January–24 February 1995; second-task preparation and event",
+      "model_notes": "Ten feet is starting separation, not a shore-length measurement."
+    },
+    {
+      "id": "B04-160",
+      "location": "Lake shallows",
+      "category": "grounds",
+      "description": "The freezing entry water deepens from knee to waist level. Underfoot are silt and flat slimy stones, slippery as Harry wades in; a cold breeze passes over the surface.",
+      "evidence": [
+        "B04-C026-P0123",
+        "B04-C026-P0124",
+        "B04-C026-P0125",
+        "B04-C026-P0126",
+        "B04-C026-P0127"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late January–24 February 1995; second-task preparation and event",
+      "model_notes": "Shallow substrate and gradual entry are observed without a measured slope or complete shoreline profile."
+    },
+    {
+      "id": "B04-161",
+      "location": "Gillyweed underwater movement",
+      "category": "magic",
+      "description": "Gillyweed gives Harry gills, webbed hands and elongated webbed feet, lets him breathe in the water, swim rapidly and see without blinking, and changes his sensation of cold. The effect later ends during his ascent, leaving him unable to breathe until he surfaces.",
+      "evidence": [
+        "B04-C026-P0127",
+        "B04-C026-P0128",
+        "B04-C026-P0129",
+        "B04-C026-P0177",
+        "B04-C026-P0178",
+        "B04-C026-P0179",
+        "B04-C026-P0180",
+        "B04-C026-P0181",
+        "B04-C026-P0182"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late January–24 February 1995; second-task preparation and event",
+      "model_notes": "A time-limited traversal aid, not the natural condition of the lake or a permanent player ability."
+    },
+    {
+      "id": "B04-162",
+      "location": "Lake deep terrain and visibility",
+      "category": "grounds",
+      "description": "Beyond the visible shallows Harry dives towards the middle into a dark grey-lit, foggy landscape. Visibility is about ten feet; tangled black weed forests and broad muddy plains strewn with glimmering stones emerge suddenly from the gloom. He passes small silver fish, blackened logs and dense weed clumps.",
+      "evidence": [
+        "B04-C026-P0129",
+        "B04-C026-P0130",
+        "B04-C026-P0131"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late January–24 February 1995; second-task preparation and event",
+      "model_notes": "The ten-foot view radius belongs to this underwater visit and transformed observer; it is not a measured lake dimension."
+    },
+    {
+      "id": "B04-163",
+      "location": "Lake light-green weed bed and Grindylows",
+      "category": "grounds",
+      "description": "An extensive light-green weed bed is two feet deep. Grindylows conceal themselves in it and grab Harry’s ankle and robes, trying to pull him down; after escaping he swims higher above the weed.",
+      "evidence": [
+        "B04-C026-P0132",
+        "B04-C026-P0133",
+        "B04-C026-P0134",
+        "B04-C026-P0135",
+        "B04-C026-P0140"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late January–24 February 1995; second-task preparation and event",
+      "model_notes": "Two feet describes weed height/depth, not total water depth. Preserve a hazard zone without inventing its mapped area."
+    },
+    {
+      "id": "B04-164",
+      "location": "Underwater spell and voice behaviour",
+      "category": "magic",
+      "description": "Harry cannot form audible spoken words underwater, producing bubbles instead. His Relashio spell produces hot water jets rather than sparks. Myrtle’s ghostly speech and the merpeople’s voices remain audible; above water the merpeople’s songs sound like screeches.",
+      "evidence": [
+        "B04-C026-P0134",
+        "B04-C026-P0136",
+        "B04-C026-P0137",
+        "B04-C026-P0138",
+        "B04-C026-P0139",
+        "B04-C026-P0153",
+        "B04-C026-P0154",
+        "B04-C026-P0155",
+        "B04-C026-P0161",
+        "B04-C026-P0163",
+        "B04-C026-P0173",
+        "B04-C026-P0174",
+        "B04-C026-P0175",
+        "B04-C026-P0190",
+        "B04-C026-P0203"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late January–24 February 1995; second-task preparation and event",
+      "model_notes": "Observed medium-dependent sound and spell effects. Harry’s belief that merpeople know no magic is his inference, not an established universal rule."
+    },
+    {
+      "id": "B04-165",
+      "location": "Route towards merpeople settlement",
+      "category": "route",
+      "description": "Following Myrtle’s indicated direction, Harry swims above weed and then broad black mud which clouds when disturbed. He hears song, passes a large rock painted with spear-carrying merpeople hunting what looks like the giant squid, and continues towards the voices.",
+      "evidence": [
+        "B04-C026-P0139",
+        "B04-C026-P0140",
+        "B04-C026-P0141",
+        "B04-C026-P0142",
+        "B04-C026-P0143",
+        "B04-C026-P0144",
+        "B04-C026-P0145",
+        "B04-C026-P0146",
+        "B04-C026-P0147"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late January–24 February 1995; second-task preparation and event",
+      "model_notes": "The roughly twenty-minute swim is Harry’s subjective duration, not a reliable distance or bearing."
+    },
+    {
+      "id": "B04-166",
+      "location": "Merpeople dwellings",
+      "category": "interior",
+      "description": "Crude stone dwellings stained with algae cluster in the gloom, with dark windows and openings from which residents emerge. Houses become more numerous farther in; some have weed gardens, and one doorway has a pet Grindylow tethered to a stake outside.",
+      "evidence": [
+        "B04-C026-P0147",
+        "B04-C026-P0148",
+        "B04-C026-P0149"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late January–24 February 1995; second-task preparation and event",
+      "model_notes": "They are also called caves in the narration, but construction method and interiors are not shown. Retain windows, thresholds and gardens."
+    },
+    {
+      "id": "B04-167",
+      "location": "Merpeople village square",
+      "category": "grounds",
+      "description": "Around a corner Harry reaches a square-like space lined with houses. A merpeople choir floats in its middle, in front of a gigantic merperson statue roughly carved from a boulder. Four sleeping hostages are bound to its tail with thick strong slimy weed ropes; Ron lies between Hermione and Cho, with Gabrielle also attached.",
+      "evidence": [
+        "B04-C026-P0149",
+        "B04-C026-P0150",
+        "B04-C026-P0151",
+        "B04-C026-P0152",
+        "B04-C026-P0164"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late January–24 February 1995; second-task preparation and event",
+      "model_notes": "A temporary hostage installation on an existing stone monument; the statue’s height and all four exact positions are not specified."
+    },
+    {
+      "id": "B04-168",
+      "location": "Merpeople square lakebed and scale",
+      "category": "grounds",
+      "description": "Loose rocks, including jagged cutting stones, litter the lake bottom near the statue. A spear-bearing merman is described as seven feet tall. Harry thinks of his knife locked in his castle trunk a quarter of a mile away.",
+      "evidence": [
+        "B04-C026-P0152",
+        "B04-C026-P0153",
+        "B04-C026-P0156",
+        "B04-C026-P0157",
+        "B04-C026-P0158"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late January–24 February 1995; second-task preparation and event",
+      "model_notes": "The quarter-mile is a narrated approximate distance from this location to the castle trunk, not a survey of lake width or depth."
+    },
+    {
+      "id": "B04-169",
+      "location": "Second-task hostage release and ascent",
+      "category": "temporary",
+      "description": "Harry cuts Ron’s bindings with a jagged stone and Ron floats just above the bottom. Merpeople block him from taking other champions’ hostages until threatened with his wand. Cedric frees Cho with a knife, Krum uses the rock to free Hermione, and Harry finally frees Gabrielle and hauls her and Ron upwards, accompanied by merpeople.",
+      "evidence": [
+        "B04-C026-P0157",
+        "B04-C026-P0158",
+        "B04-C026-P0159",
+        "B04-C026-P0160",
+        "B04-C026-P0162",
+        "B04-C026-P0164",
+        "B04-C026-P0165",
+        "B04-C026-P0166",
+        "B04-C026-P0167",
+        "B04-C026-P0169",
+        "B04-C026-P0170",
+        "B04-C026-P0171",
+        "B04-C026-P0172",
+        "B04-C026-P0173",
+        "B04-C026-P0174",
+        "B04-C026-P0175",
+        "B04-C026-P0176",
+        "B04-C026-P0177",
+        "B04-C026-P0178"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late January–24 February 1995; second-task preparation and event",
+      "model_notes": "Dated task behaviour, not an intrinsic ban on entering the square. Bubble-Head and partial shark Transfiguration are observed alternative underwater traversal methods."
+    },
+    {
+      "id": "B04-170",
+      "location": "Lake ascent and landing after second task",
+      "category": "route",
+      "description": "Harry ascends through darkness which lightens near the surface, noticing daylight about ten feet above as Gillyweed expires. On surfacing the hostages awaken; they swim back to the judges’ bank escorted by about twenty merpeople. Pomfrey treats the rescued competitors on shore with blankets and Pepper-Up, and later leads them uphill back to the castle steps.",
+      "evidence": [
+        "B04-C026-P0179",
+        "B04-C026-P0180",
+        "B04-C026-P0181",
+        "B04-C026-P0182",
+        "B04-C026-P0183",
+        "B04-C026-P0189",
+        "B04-C026-P0190",
+        "B04-C026-P0191",
+        "B04-C026-P0194",
+        "B04-C026-P0196",
+        "B04-C026-P0203",
+        "B04-C026-P0204",
+        "B04-C026-P0225",
+        "B04-C026-P0226"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late January–24 February 1995; second-task preparation and event",
+      "model_notes": "The ten-foot figure is the final surface clearance, not total lake depth. The lethal deadline was Harry’s misunderstanding; Ron says safeguards prevented drowning."
     }
   ],
   "chapter_reviews": [
@@ -2545,6 +2905,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed. Included bathroom fixtures and water behaviour, Myrtle’s plumbing report, map-only evidence, two-floor shortcut and trap mechanics, office security report and return route. Character guesses about identity, vision and conspiracies preserved as uncertain."
+    },
+    {
+      "chapter": 26,
+      "reviewed_ranges": [
+        [
+          1,
+          226
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed in three untruncated ranges. Included all underwater approach terrain, village structures, gardens, statue square, water/sound/spell behaviour, ascent, temporary stands and shore care. Bathroom dream at paragraphs 77–80 is not actual geometry; no aqualung or submarine route was performed."
     }
   ]
 }
