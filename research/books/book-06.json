@@ -2011,6 +2011,189 @@
       "certainty": "explicit",
       "temporal": "March–early April 1997",
       "model_notes": "Confirms elf Disapparition inside castle independently of human anti-Apparition rules. Arrival position is near the group/fire, not an invented fixed teleport point."
+    },
+    {
+      "id": "B06-134",
+      "location": "Castle turrets, courtyard and bell",
+      "category": "exterior",
+      "description": "Blue sky appears over castle turrets. The courtyard has a sunny corner where pupils sit; a bell sounds overhead in the castle and pupils head from there towards the Entrance Hall.",
+      "evidence": [
+        "B06-C022-P0001",
+        "B06-C022-P0003",
+        "B06-C022-P0038",
+        "B06-C022-P0050",
+        "B06-C022-P0051",
+        "B06-C022-P0052"
+      ],
+      "certainty": "explicit",
+      "temporal": "Apparition-test day, spring 1997",
+      "model_notes": "Turreted silhouette, courtyard corner and audible school bell; do not infer an explicitly visible bell tower."
+    },
+    {
+      "id": "B06-135",
+      "location": "Gryffindor common-room sunset view",
+      "category": "route",
+      "description": "While waiting in the common room, the group judges the time as the sun sinks to the Forbidden Forest treetops, then goes up to the boys’ dormitory; Harry returns down the stairs and through the open doorway into the common room.",
+      "evidence": [
+        "B06-C022-P0085",
+        "B06-C022-P0086",
+        "B06-C022-P0102",
+        "B06-C022-P0103"
+      ],
+      "certainty": "explicit",
+      "temporal": "Apparition-test day, spring 1997",
+      "model_notes": "Narrative sunset sight context from the common-room scene; no window position is specified, so bearing remains unresolved."
+    },
+    {
+      "id": "B06-136",
+      "location": "Front-door evening security lapse",
+      "category": "temporary",
+      "description": "Harry reaches the Entrance Hall and finds the front door unlocked, opens it, smells fresh air and grass, and walks down the front steps into dusk.",
+      "evidence": [
+        "B06-C022-P0107",
+        "B06-C022-P0115",
+        "B06-C022-P0116",
+        "B06-C022-P0117"
+      ],
+      "certainty": "explicit",
+      "temporal": "Apparition-test day, spring 1997",
+      "model_notes": "A lapse in the intended evening lock, not permanent unrestricted exit. Slughorn confirms concern about security."
+    },
+    {
+      "id": "B06-137",
+      "location": "Front steps–vegetable patch–Hagrid route",
+      "category": "route",
+      "description": "At the bottom of the castle steps Harry chooses to go past the vegetable patch, which is not strictly on the route to Hagrid’s. He hides behind a low stone wall there. Sprout later walks towards her greenhouses, while Slughorn can look towards the black Forest and distant cabin lights.",
+      "evidence": [
+        "B06-C022-P0108",
+        "B06-C022-P0111",
+        "B06-C022-P0112",
+        "B06-C022-P0122",
+        "B06-C022-P0124",
+        "B06-C022-P0129",
+        "B06-C022-P0130"
+      ],
+      "certainty": "explicit",
+      "temporal": "Apparition-test day, spring 1997",
+      "model_notes": "Patch is a detour, with a low stone concealment wall and views towards Forest/cabin; no exact plot boundary or compass orientation supplied."
+    },
+    {
+      "id": "B06-138",
+      "location": "Forest spider colony after Aragog’s death",
+      "category": "grounds",
+      "description": "Hagrid reports that after Aragog dies the other spiders no longer let him near their webs and would eat him; extracting the body is difficult because the colony normally eats its dead.",
+      "evidence": [
+        "B06-C022-P0121",
+        "B06-C022-P0123",
+        "B06-C022-P0135",
+        "B06-C022-P0136",
+        "B06-C022-P0137",
+        "B06-C022-P0138"
+      ],
+      "certainty": "reported",
+      "temporal": "Apparition-test day, spring 1997",
+      "model_notes": "Changed access danger and web habitat; no magical barrier or precise colony location added."
+    },
+    {
+      "id": "B06-139",
+      "location": "Hagrid rear window and back garden",
+      "category": "interior",
+      "description": "A rear window of the hut looks onto the garden behind it, where Aragog’s enormous body lies on its back with legs curled. The burial site is beyond the pumpkin patch.",
+      "evidence": [
+        "B06-C022-P0143",
+        "B06-C022-P0144",
+        "B06-C022-P0145",
+        "B06-C022-P0150",
+        "B06-C022-P0151"
+      ],
+      "certainty": "explicit",
+      "temporal": "Apparition-test day, spring 1997",
+      "model_notes": "Front/rear distinction, window view and patch-to-grave relationship. No extra rear door is explicitly described despite the group stepping out into the back garden."
+    },
+    {
+      "id": "B06-140",
+      "location": "Aragog grave and earth mound",
+      "category": "temporary",
+      "description": "A massive pit in the back garden lies beside a ten-foot-high heap of excavated earth. Moonlight through trees mingles with light from the hut window to illuminate the body at the pit edge. Hagrid rolls Aragog in; Slughorn levitates the earth over it, leaving a smooth mound.",
+      "evidence": [
+        "B06-C022-P0145",
+        "B06-C022-P0151",
+        "B06-C022-P0152",
+        "B06-C022-P0155",
+        "B06-C022-P0157",
+        "B06-C022-P0159"
+      ],
+      "certainty": "explicit",
+      "temporal": "Apparition-test day, spring 1997",
+      "model_notes": "Ten feet describes spoil-heap height, not grave depth. Record the filled grave as the resulting terrain feature and the open pit as the funeral state."
+    },
+    {
+      "id": "B06-141",
+      "location": "Hagrid garden compost heap",
+      "category": "grounds",
+      "description": "A compost heap stands near enough to the open grave for Hagrid to collapse onto it during the funeral.",
+      "evidence": [
+        "B06-C022-P0157",
+        "B06-C022-P0158",
+        "B06-C022-P0159"
+      ],
+      "certainty": "explicit",
+      "temporal": "Apparition-test day, spring 1997",
+      "model_notes": "Garden feature adjacent to burial activity without precise spacing."
+    },
+    {
+      "id": "B06-142",
+      "location": "Hagrid cabin dog basket and candle",
+      "category": "furnishing",
+      "description": "Fang has a basket inside the cabin. People sit at the table with bucket-sized mugs; a candle between Harry and Slughorn flickers in Hagrid’s snores and later gutters.",
+      "evidence": [
+        "B06-C022-P0160",
+        "B06-C022-P0161",
+        "B06-C022-P0163",
+        "B06-C022-P0165",
+        "B06-C022-P0175",
+        "B06-C022-P0180",
+        "B06-C022-P0189",
+        "B06-C022-P0195",
+        "B06-C022-P0206",
+        "B06-C022-P0223"
+      ],
+      "certainty": "explicit",
+      "temporal": "Apparition-test day, spring 1997",
+      "model_notes": "Additional dog furniture, table arrangement and candle lighting; wine bottles are movable funeral gathering supplies."
+    },
+    {
+      "id": "B06-143",
+      "location": "Hagrid ceiling-hung equipment",
+      "category": "furnishing",
+      "description": "Several brass pots and a long silky skein of bright white unicorn hair hang from the ceiling. Hagrid says Forest branches catch the hair from unicorn tails and he uses it to bind bandages; later he gives the whole tail to Slughorn.",
+      "evidence": [
+        "B06-C022-P0168",
+        "B06-C022-P0169",
+        "B06-C022-P0170",
+        "B06-C022-P0171",
+        "B06-C022-P0172",
+        "B06-C022-P0173",
+        "B06-C022-P0174",
+        "B06-C022-P0179"
+      ],
+      "certainty": "explicit",
+      "temporal": "Apparition-test day, spring 1997",
+      "model_notes": "Observed overhead storage with material/colour; unicorn occurrence and collection method are reported. Hair is removed during this scene, so do not retain it as a permanent post-funeral fixture."
+    },
+    {
+      "id": "B06-144",
+      "location": "Hagrid’s school cupboard for young Aragog",
+      "category": "history",
+      "description": "Hagrid recalls keeping Aragog in a cupboard up at the school when the spider was young.",
+      "evidence": [
+        "B06-C022-P0166",
+        "B06-C022-P0168",
+        "B06-C022-P0169"
+      ],
+      "certainty": "reported",
+      "temporal": "Hagrid’s student years, recalled spring 1997",
+      "model_notes": "Historical animal-hiding cupboard only; exact room, floor, size and survival are unspecified."
     }
   ],
   "chapter_reviews": [
@@ -2244,6 +2427,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two blocks. Captured reported Slytherin dungeon dorm, seventh-floor Room/tapestry/corner, observed failed access versus speculative rule explanations, opposite-side headmaster relationship, Map common-room zones, boys’ bathroom plumbing/mirror/acoustics, office sound, supervised village practice and elf Disapparition. Harry’s dream and Polyjuice theory are not treated as new geometry."
+    },
+    {
+      "chapter": 22,
+      "reviewed_ranges": [
+        [
+          1,
+          227
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks, including funeral, Forest reports and all cabin dialogue. Captured courtyard/turrets/bell, sunset and dorm stair, unlocked exit, vegetable-patch detour/wall/views, colony change, rear-window garden/pumpkins, grave and measured spoil heap, compost, cabin basket/candle/ceiling storage and historical cupboard. Song’s imaginary burial is not a Hogwarts site."
     }
   ]
 }
