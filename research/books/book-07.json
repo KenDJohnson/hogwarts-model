@@ -555,6 +555,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs, including the full embedded biography extract. Dumbledore/Grindelwald family history, Durmstrang, Nurmengard and snowy campsite do not add Hogwarts physical or spatial constraints."
+    },
+    {
+      "chapter": 19,
+      "reviewed_ranges": [
+        [
+          1,
+          230
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three complete chunks. Forest of Dean pool, oaks, sycamore, snow and campsite are explicitly remote from Hogwarts and excluded. Sword retrieval and portable Deluminator do not establish additional school geometry."
     }
   ]
 }
