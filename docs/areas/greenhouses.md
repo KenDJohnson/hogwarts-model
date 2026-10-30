@@ -65,6 +65,122 @@ Model: Audible castle bell and route from Herbology; no bell tower is specified.
 - [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 238, ¶64 (B01-C014-P0064)](../../build/reader/book-01.html#B01-C014-P0064)
 - [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 238, ¶65 (B01-C014-P0065)](../../build/reader/book-01.html#B01-C014-P0065)
 
+## B02-018: Castle, vegetable patch, greenhouses and Willow
+
+The pupils leave the castle and cross the vegetable patch to the greenhouses. From outside the greenhouses, the Willow is visible in the distance with several branches in slings; Sprout approaches across the lawn carrying bandages.
+
+Evidence: explicit; state: 2 September 1992.
+
+Model: Adds ground route and sightline; sling damage state dated after the car crash.
+
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 89, ¶28 (B02-C006-P0028)](../../build/reader/book-02.html#B02-C006-P0028)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 89, ¶29 (B02-C006-P0029)](../../build/reader/book-02.html#B02-C006-P0029)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 90, ¶31 (B02-C006-P0031)](../../build/reader/book-02.html#B02-C006-P0031)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 90, ¶32 (B02-C006-P0032)](../../build/reader/book-02.html#B02-C006-P0032)
+
+## B02-019: Greenhouse Three — access and hanging flowers
+
+Sprout unlocks Greenhouse Three with a large belt key; pupils have previously worked only in Greenhouse One. Three contains more dangerous plants, damp earth and fertiliser smells, and strongly perfumed umbrella-sized flowers hanging from the ceiling.
+
+Evidence: explicit; state: 2 September 1992.
+
+Model: At least separately numbered One and Three exist; numbering alone does not describe greenhouse Two. Door is lockable.
+
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 90, ¶32 (B02-C006-P0032)](../../build/reader/book-02.html#B02-C006-P0032)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 90, ¶33 (B02-C006-P0033)](../../build/reader/book-02.html#B02-C006-P0033)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 90, ¶35 (B02-C006-P0035)](../../build/reader/book-02.html#B02-C006-P0035)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 92, ¶44 (B02-C006-P0044)](../../build/reader/book-02.html#B02-C006-P0044)
+
+## B02-020: Greenhouse Three — teaching bench and Mandrakes
+
+A trestle bench stands centrally with about twenty pairs of coloured earmuffs. Deep trays hold roughly a hundred purple-green seedling Mandrakes in rows; pots are stored under the table, with more pots and sacks of compost available. Four pupils work to each tray.
+
+Evidence: explicit; state: 2 September 1992.
+
+Model: Layout and safety equipment for the repotting lesson; quantities are approximate.
+
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 92, ¶45 (B02-C006-P0045)](../../build/reader/book-02.html#B02-C006-P0045)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 92, ¶51 (B02-C006-P0051)](../../build/reader/book-02.html#B02-C006-P0051)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 92–93, ¶52 (B02-C006-P0052)](../../build/reader/book-02.html#B02-C006-P0052)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 93, ¶53 (B02-C006-P0053)](../../build/reader/book-02.html#B02-C006-P0053)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 93, ¶54 (B02-C006-P0054)](../../build/reader/book-02.html#B02-C006-P0054)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 93, ¶55 (B02-C006-P0055)](../../build/reader/book-02.html#B02-C006-P0055)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 93, ¶56 (B02-C006-P0056)](../../build/reader/book-02.html#B02-C006-P0056)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 93, ¶58 (B02-C006-P0058)](../../build/reader/book-02.html#B02-C006-P0058)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 93–94, ¶59 (B02-C006-P0059)](../../build/reader/book-02.html#B02-C006-P0059)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 94, ¶60 (B02-C006-P0060)](../../build/reader/book-02.html#B02-C006-P0060)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 94, ¶61 (B02-C006-P0061)](../../build/reader/book-02.html#B02-C006-P0061)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 94, ¶63 (B02-C006-P0063)](../../build/reader/book-02.html#B02-C006-P0063)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 94–95, ¶66 (B02-C006-P0066)](../../build/reader/book-02.html#B02-C006-P0066)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 95, ¶68 (B02-C006-P0068)](../../build/reader/book-02.html#B02-C006-P0068)
+
+## B02-021: Greenhouse Three — hazardous plants
+
+The Mandrake earmuffs block all sound; Sprout says seedling cries cause hours of unconsciousness while mature cries are fatal. A spiky dark-red Venomous Tentacula extends long feelers towards her and withdraws after a slap.
+
+Evidence: explicit; state: 2 September 1992.
+
+Model: Sound blocking and Tentacula response are observed; cry hazards are taught by Hermione/Sprout, not tested on pupils.
+
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 92, ¶50 (B02-C006-P0050)](../../build/reader/book-02.html#B02-C006-P0050)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 92, ¶51 (B02-C006-P0051)](../../build/reader/book-02.html#B02-C006-P0051)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 93, ¶55 (B02-C006-P0055)](../../build/reader/book-02.html#B02-C006-P0055)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 93, ¶56 (B02-C006-P0056)](../../build/reader/book-02.html#B02-C006-P0056)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 93, ¶58 (B02-C006-P0058)](../../build/reader/book-02.html#B02-C006-P0058)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 94, ¶60 (B02-C006-P0060)](../../build/reader/book-02.html#B02-C006-P0060)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 94, ¶61 (B02-C006-P0061)](../../build/reader/book-02.html#B02-C006-P0061)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 94, ¶62 (B02-C006-P0062)](../../build/reader/book-02.html#B02-C006-P0062)
+
+## B02-030: Hagrid’s rear vegetable patch
+
+A small vegetable patch behind the cabin contains about a dozen boulder-sized pumpkins being grown for the Hallowe’en feast. Hagrid’s pink umbrella leans against the cabin’s back wall.
+
+Evidence: explicit; state: September 1992, first Saturday.
+
+Model: Pumpkins receive admitted magical help; Hermione proposes an Engorgement Charm. This patch is not automatically identical to the castle-to-greenhouse vegetable patch.
+
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 118, ¶125 (B02-C007-P0125)](../../build/reader/book-02.html#B02-C007-P0125)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 118, ¶126 (B02-C007-P0126)](../../build/reader/book-02.html#B02-C007-P0126)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 118, ¶127 (B02-C007-P0127)](../../build/reader/book-02.html#B02-C007-P0127)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 118, ¶129 (B02-C007-P0129)](../../build/reader/book-02.html#B02-C007-P0129)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 118, ¶130 (B02-C007-P0130)](../../build/reader/book-02.html#B02-C007-P0130)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 118–119, ¶131 (B02-C007-P0131)](../../build/reader/book-02.html#B02-C007-P0131)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 119, ¶132 (B02-C007-P0132)](../../build/reader/book-02.html#B02-C007-P0132)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 119, ¶135 (B02-C007-P0135)](../../build/reader/book-02.html#B02-C007-P0135)
+
+## B02-107: Greenhouse Three — Mandrake maturation
+
+In March several Mandrakes hold a noisy party in greenhouse three. Sprout says attempts to move into one another’s pots will signal full maturity.
+
+Evidence: explicit; state: March 1993.
+
+Model: Confirms continued greenhouse-three cultivation and reported maturity criterion.
+
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 252–253, ¶14 (B02-C014-P0014)](../../build/reader/book-02.html#B02-C014-P0014)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 253, ¶15 (B02-C014-P0015)](../../build/reader/book-02.html#B02-C014-P0015)
+
+## B02-118: Castle to Herbology — escorted route and compost heap
+
+Snape leads pupils from the Potions dungeon, out of the castle and across the vegetable patch to the greenhouses. They prune Abyssinian Shrivelfigs and carry cut stalks to a compost heap. Large spiders cross nearby earth towards the Forest.
+
+Evidence: explicit; state: Late spring 1993.
+
+Model: Observed outdoor storage/waste feature and vegetation; spider heading is Harry’s interpretation.
+
+- [Book 2, ch. 15, “Aragog”, ref p. 269, ¶9 (B02-C015-P0009)](../../build/reader/book-02.html#B02-C015-P0009)
+- [Book 2, ch. 15, “Aragog”, ref p. 269, ¶13 (B02-C015-P0013)](../../build/reader/book-02.html#B02-C015-P0013)
+- [Book 2, ch. 15, “Aragog”, ref p. 269, ¶15 (B02-C015-P0015)](../../build/reader/book-02.html#B02-C015-P0015)
+- [Book 2, ch. 15, “Aragog”, ref p. 269–270, ¶17 (B02-C015-P0017)](../../build/reader/book-02.html#B02-C015-P0017)
+- [Book 2, ch. 15, “Aragog”, ref p. 270, ¶18 (B02-C015-P0018)](../../build/reader/book-02.html#B02-C015-P0018)
+- [Book 2, ch. 15, “Aragog”, ref p. 270, ¶19 (B02-C015-P0019)](../../build/reader/book-02.html#B02-C015-P0019)
+- [Book 2, ch. 15, “Aragog”, ref p. 270, ¶21 (B02-C015-P0021)](../../build/reader/book-02.html#B02-C015-P0021)
+- [Book 2, ch. 15, “Aragog”, ref p. 270–271, ¶26 (B02-C015-P0026)](../../build/reader/book-02.html#B02-C015-P0026)
+- [Book 2, ch. 15, “Aragog”, ref p. 271, ¶28 (B02-C015-P0028)](../../build/reader/book-02.html#B02-C015-P0028)
+- [Book 2, ch. 15, “Aragog”, ref p. 271, ¶29 (B02-C015-P0029)](../../build/reader/book-02.html#B02-C015-P0029)
+- [Book 2, ch. 15, “Aragog”, ref p. 271, ¶31 (B02-C015-P0031)](../../build/reader/book-02.html#B02-C015-P0031)
+- [Book 2, ch. 15, “Aragog”, ref p. 271, ¶32 (B02-C015-P0032)](../../build/reader/book-02.html#B02-C015-P0032)
+- [Book 2, ch. 15, “Aragog”, ref p. 271, ¶34 (B02-C015-P0034)](../../build/reader/book-02.html#B02-C015-P0034)
+
 ## B04-023: Vegetable path and greenhouse three
 
 The pupils cross a sodden vegetable path to greenhouse three, where black slug-like Bubotubers protrude upright from soil and produce a petrol-smelling yellow-green liquid when squeezed.
@@ -186,4 +302,73 @@ Evidence: explicit; state: January 1995.
 Model: A seasonal loss of visibility, not opaque glazing or a permanent greenhouse alteration.
 
 - [Book 4, ch. 24, “Rita Skeeter’s Scoop”, ref p. 458, ¶8 (B04-C024-P0008)](../../build/reader/book-04.html#B04-C024-P0008)
+
+## B04-204: Space behind greenhouses in school memory
+
+A projected memory of school-age Bertha Jorkins reports that she saw a pupil kissing Florence behind the greenhouses.
+
+Evidence: reported; state: Late May–June 1995 office visit; earlier school memory where specified.
+
+Model: Reported historical use of space behind the greenhouses; the memory does not show its planting, geometry or exact year.
+
+- [Book 4, ch. 30, “The Pensieve”, ref p. 633, ¶142 (B04-C030-P0142)](../../build/reader/book-04.html#B04-C030-P0142)
+- [Book 4, ch. 30, “The Pensieve”, ref p. 633, ¶143 (B04-C030-P0143)](../../build/reader/book-04.html#B04-C030-P0143)
+- [Book 4, ch. 30, “The Pensieve”, ref p. 633, ¶144 (B04-C030-P0144)](../../build/reader/book-04.html#B04-C030-P0144)
+- [Book 4, ch. 30, “The Pensieve”, ref p. 633, ¶145 (B04-C030-P0145)](../../build/reader/book-04.html#B04-C030-P0145)
+
+## B06-040: Herbology greenhouses
+
+The sixth-years go outside to greenhouses for Herbology; dangerous plants include Venomous Tentacula capable of seizing a student unexpectedly from behind.
+
+Evidence: explicit; state: September 1996.
+
+Model: Exterior teaching structures and hazardous vegetation interaction; this passage supplies no greenhouse number or plan.
+
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 225, ¶2 (B06-C011-P0002)](../../build/reader/book-06.html#B06-C011-P0002)
+
+## B06-065: Vegetable patch–greenhouses route
+
+The route to Herbology crosses a vegetable patch before the greenhouses. Returning mist makes finding the correct greenhouse slower than usual.
+
+Evidence: explicit; state: Late October–autumn 1996.
+
+Model: Grounds waypoint and limited visibility; greenhouse count, numbering and patch position relative to castle unspecified.
+
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 289, ¶1 (B06-C014-P0001)](../../build/reader/book-06.html#B06-C014-P0001)
+
+## B06-066: Greenhouse Snargaluff project
+
+Students work in groups around gnarled Snargaluff stumps. A stump sends long thorny bramble-like vines out of its top; a central opening contracts around an inserted arm. Removing a pulsating green grapefruit-sized pod makes the vines retract, leaving a dead-looking stump.
+
+Evidence: explicit; state: Late October–autumn 1996.
+
+Model: Term-specific plant installation and animation states. Do not model the apparently dead stump without its active volume.
+
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 289, ¶2 (B06-C014-P0002)](../../build/reader/book-06.html#B06-C014-P0002)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 290, ¶10 (B06-C014-P0010)](../../build/reader/book-06.html#B06-C014-P0010)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 290, ¶13 (B06-C014-P0013)](../../build/reader/book-06.html#B06-C014-P0013)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 290–291, ¶14 (B06-C014-P0014)](../../build/reader/book-06.html#B06-C014-P0014)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 293, ¶32 (B06-C014-P0032)](../../build/reader/book-06.html#B06-C014-P0032)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 294, ¶34 (B06-C014-P0034)](../../build/reader/book-06.html#B06-C014-P0034)
+
+## B06-067: Greenhouse glass and work equipment
+
+The greenhouse has glass sides against which a thrown pod rebounds. Work equipment includes protective gloves/goggles, gum shields, secateurs, bowls and a trowel used to process pods.
+
+Evidence: explicit; state: Late October–autumn 1996.
+
+Model: Glass envelope and movable class equipment, not a precise greenhouse plan or proof of workbench geometry.
+
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 289, ¶2 (B06-C014-P0002)](../../build/reader/book-06.html#B06-C014-P0002)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 289, ¶3 (B06-C014-P0003)](../../build/reader/book-06.html#B06-C014-P0003)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 289–290, ¶6 (B06-C014-P0006)](../../build/reader/book-06.html#B06-C014-P0006)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 290, ¶7 (B06-C014-P0007)](../../build/reader/book-06.html#B06-C014-P0007)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 290–291, ¶14 (B06-C014-P0014)](../../build/reader/book-06.html#B06-C014-P0014)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 291, ¶16 (B06-C014-P0016)](../../build/reader/book-06.html#B06-C014-P0016)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 291–292, ¶19 (B06-C014-P0019)](../../build/reader/book-06.html#B06-C014-P0019)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 292, ¶21 (B06-C014-P0021)](../../build/reader/book-06.html#B06-C014-P0021)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 292–293, ¶27 (B06-C014-P0027)](../../build/reader/book-06.html#B06-C014-P0027)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 293, ¶29 (B06-C014-P0029)](../../build/reader/book-06.html#B06-C014-P0029)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 293, ¶30 (B06-C014-P0030)](../../build/reader/book-06.html#B06-C014-P0030)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 293, ¶31 (B06-C014-P0031)](../../build/reader/book-06.html#B06-C014-P0031)
 

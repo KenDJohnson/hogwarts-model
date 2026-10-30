@@ -209,6 +209,134 @@ Model: Confirms wardrobes as dormitory storage. Unspecified toilets are not auto
 
 - [Book 1, ch. 17, “The Man with Two Faces”, ref p. 313, ¶208 (B01-C017-P0208)](../../build/reader/book-01.html#B01-C017-P0208)
 
+## B02-014: Snape’s office to Gryffindor Tower
+
+The return route passes murmuring portraits and creaking suits of armour, climbs narrow stone stair flights and reaches the passage containing the Fat Lady’s oil painting in a pink silk dress.
+
+Evidence: explicit; state: 1 September 1992 arrival.
+
+Model: Adds stair materials, sounds and portrait medium; no complete turn-by-turn map.
+
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 83–84, ¶175 (B02-C005-P0175)](../../build/reader/book-02.html#B02-C005-P0175)
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 84, ¶176 (B02-C005-P0176)](../../build/reader/book-02.html#B02-C005-P0176)
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 84, ¶178 (B02-C005-P0178)](../../build/reader/book-02.html#B02-C005-P0178)
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 84, ¶183 (B02-C005-P0183)](../../build/reader/book-02.html#B02-C005-P0183)
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 84–85, ¶184 (B02-C005-P0184)](../../build/reader/book-02.html#B02-C005-P0184)
+
+## B02-015: Gryffindor common room — password and tables
+
+The new password Wattlebird opens the portrait onto the crowded circular common room, whose furniture includes lop-sided tables and squashy armchairs.
+
+Evidence: explicit; state: 1 September 1992 arrival.
+
+Model: Furniture shapes are observed during a temporary welcome crowd; password dated to this arrival.
+
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 84, ¶178 (B02-C005-P0178)](../../build/reader/book-02.html#B02-C005-P0178)
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 84, ¶182 (B02-C005-P0182)](../../build/reader/book-02.html#B02-C005-P0182)
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 84, ¶183 (B02-C005-P0183)](../../build/reader/book-02.html#B02-C005-P0183)
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 84–85, ¶184 (B02-C005-P0184)](../../build/reader/book-02.html#B02-C005-P0184)
+
+## B02-016: Gryffindor second-year dormitory
+
+A door across the common room leads to a spiral stair. Climbing right to its top reaches the same circular dormitory as last year, now signed second-years, with five red-velvet-hung four-posters and high narrow windows. Trunks stand at bed ends.
+
+Evidence: explicit; state: 1 September 1992 arrival.
+
+Model: Same cohort retains the room while its sign changes. Right to the top describes this route at this time; tower-storey count remains unspecified.
+
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 85, ¶187 (B02-C005-P0187)](../../build/reader/book-02.html#B02-C005-P0187)
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 85–86, ¶189 (B02-C005-P0189)](../../build/reader/book-02.html#B02-C005-P0189)
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 86, ¶192 (B02-C005-P0192)](../../build/reader/book-02.html#B02-C005-P0192)
+
+## B02-040: Gryffindor common room — salamander fireworks
+
+A fire-dwelling orange salamander smoulders on a table among armchairs before the twins’ firework makes it whirl about the common room shedding sparks and orange stars; it escapes into the hearth with explosions.
+
+Evidence: explicit; state: October 1992.
+
+Model: Temporary magical disturbance; no lasting furniture damage is stated.
+
+- [Book 2, ch. 8, “The Deathday Party”, ref p. 131, ¶79 (B02-C008-P0079)](../../build/reader/book-02.html#B02-C008-P0079)
+- [Book 2, ch. 8, “The Deathday Party”, ref p. 131–132, ¶80 (B02-C008-P0080)](../../build/reader/book-02.html#B02-C008-P0080)
+
+## B02-086: Gryffindor dormitory — window curtains and owl access
+
+Hermione pulls back window curtains on a bright snowy Christmas morning, and Hedwig flies into the dormitory and lands on Harry’s bed.
+
+Evidence: explicit; state: 25 December 1992.
+
+Model: Adds window curtains distinct from bed curtains. The owl’s precise entry opening is not stated.
+
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 213, ¶52 (B02-C012-P0052)](../../build/reader/book-02.html#B02-C012-P0052)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 213, ¶53 (B02-C012-P0053)](../../build/reader/book-02.html#B02-C012-P0053)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 213, ¶54 (B02-C012-P0054)](../../build/reader/book-02.html#B02-C012-P0054)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 214, ¶59 (B02-C012-P0059)](../../build/reader/book-02.html#B02-C012-P0059)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 214, ¶60 (B02-C012-P0060)](../../build/reader/book-02.html#B02-C012-P0060)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 214, ¶61 (B02-C012-P0061)](../../build/reader/book-02.html#B02-C012-P0061)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 214, ¶62 (B02-C012-P0062)](../../build/reader/book-02.html#B02-C012-P0062)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 214–215, ¶63 (B02-C012-P0063)](../../build/reader/book-02.html#B02-C012-P0063)
+
+## B02-102: Gryffindor dormitory — bedside cabinet
+
+Harry retrieves a fresh ink bottle from a cabinet beside his four-poster.
+
+Evidence: explicit; state: January–February 1993.
+
+Model: Confirms personal bedside cabinet; no material or drawer count.
+
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 242, ¶125 (B02-C013-P0125)](../../build/reader/book-02.html#B02-C013-P0125)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 242–243, ¶126 (B02-C013-P0126)](../../build/reader/book-02.html#B02-C013-P0126)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 243, ¶127 (B02-C013-P0127)](../../build/reader/book-02.html#B02-C013-P0127)
+
+## B02-108: Gryffindor dormitory — searched belongings
+
+Harry’s trunk is emptied across the room, his cloak ripped on the floor, bedding stripped and a bedside-cabinet drawer pulled out with its contents over the mattress. The diary is missing.
+
+Evidence: explicit; state: Spring 1993.
+
+Model: Observed damage and drawer storage; the culprit’s house membership is the pupils’ deduction from the password, not verified access control.
+
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 255, ¶28 (B02-C014-P0028)](../../build/reader/book-02.html#B02-C014-P0028)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 255, ¶29 (B02-C014-P0029)](../../build/reader/book-02.html#B02-C014-P0029)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 255, ¶30 (B02-C014-P0030)](../../build/reader/book-02.html#B02-C014-P0030)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 255, ¶31 (B02-C014-P0031)](../../build/reader/book-02.html#B02-C014-P0031)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 255, ¶32 (B02-C014-P0032)](../../build/reader/book-02.html#B02-C014-P0032)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 255, ¶33 (B02-C014-P0033)](../../build/reader/book-02.html#B02-C014-P0033)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 255, ¶34 (B02-C014-P0034)](../../build/reader/book-02.html#B02-C014-P0034)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 255, ¶36 (B02-C014-P0036)](../../build/reader/book-02.html#B02-C014-P0036)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 255–256, ¶38 (B02-C014-P0038)](../../build/reader/book-02.html#B02-C014-P0038)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 256, ¶39 (B02-C014-P0039)](../../build/reader/book-02.html#B02-C014-P0039)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 256, ¶41 (B02-C014-P0041)](../../build/reader/book-02.html#B02-C014-P0041)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 256, ¶43 (B02-C014-P0043)](../../build/reader/book-02.html#B02-C014-P0043)
+
+## B02-119: Gryffindor common room — curfew crowding
+
+The common room remains crowded from six until after midnight because pupils have nowhere else to go. After two distant dormitory doors close, Harry and Ron leave under the Cloak.
+
+Evidence: explicit; state: Late spring 1993.
+
+Model: Two audible dormitory closures, not a complete count or proof of their positions.
+
+- [Book 2, ch. 15, “Aragog”, ref p. 272–273, ¶52 (B02-C015-P0052)](../../build/reader/book-02.html#B02-C015-P0052)
+- [Book 2, ch. 15, “Aragog”, ref p. 273, ¶53 (B02-C015-P0053)](../../build/reader/book-02.html#B02-C015-P0053)
+- [Book 2, ch. 15, “Aragog”, ref p. 273, ¶54 (B02-C015-P0054)](../../build/reader/book-02.html#B02-C015-P0054)
+
+## B02-129: Forest edge via cabin to Gryffindor Tower
+
+Fang runs from the exit through trees to Hagrid’s house. Harry retrieves the Cloak and finds Ron in the pumpkin patch; they return to the creaking front doors, cross the Entrance Hall, climb the marble staircase past patrolled corridors, enter the common room and ascend the winding dormitory stair.
+
+Evidence: explicit; state: Late spring 1993.
+
+Model: Confirms patrols and return sequence. Common-room fire is reduced to glowing ash after the long excursion.
+
+- [Book 2, ch. 15, “Aragog”, ref p. 283, ¶144 (B02-C015-P0144)](../../build/reader/book-02.html#B02-C015-P0144)
+- [Book 2, ch. 15, “Aragog”, ref p. 283, ¶145 (B02-C015-P0145)](../../build/reader/book-02.html#B02-C015-P0145)
+- [Book 2, ch. 15, “Aragog”, ref p. 284, ¶148 (B02-C015-P0148)](../../build/reader/book-02.html#B02-C015-P0148)
+- [Book 2, ch. 15, “Aragog”, ref p. 284, ¶149 (B02-C015-P0149)](../../build/reader/book-02.html#B02-C015-P0149)
+- [Book 2, ch. 15, “Aragog”, ref p. 284, ¶151 (B02-C015-P0151)](../../build/reader/book-02.html#B02-C015-P0151)
+- [Book 2, ch. 15, “Aragog”, ref p. 284, ¶152 (B02-C015-P0152)](../../build/reader/book-02.html#B02-C015-P0152)
+- [Book 2, ch. 15, “Aragog”, ref p. 285, ¶154 (B02-C015-P0154)](../../build/reader/book-02.html#B02-C015-P0154)
+
 ## B04-019: Route to Gryffindor Tower: concealed staircase
 
 On the route from the Entrance Hall towards Gryffindor Tower the group passes through a door hidden behind a tapestry and climbs a narrower staircase. A step halfway up lets Neville’s foot sink through; a suit of armour at the top laughs, and Ron closes its visor.
@@ -237,7 +365,7 @@ Model: Password at this visit is Balderdash. Retain a climb-through wall opening
 
 ## B04-021: Gryffindor boys’ fourth-year dormitory
 
-A final spiral staircase reaches the boys’ dormitory at the top of the Tower. Five four-poster beds with deep crimson hangings stand against the walls, trunks at their feet. Bedside tables and headboards support Dean’s Krum and West Ham posters and Seamus’s Ireland rosette; warming pans have been placed in the sheets.
+A final spiral staircase reaches the boys’ dormitory at the top of the Tower. Five four-poster beds with deep crimson hangings stand against the walls, trunks at their feet. Bedside tables and headboards support Dean’s Krum and West Ham posters and Seamus’s Ireland rosette; warming pans have been placed in the sheets. Harry also has a table immediately beside his own bed.
 
 Evidence: explicit; state: 1 September 1994.
 
@@ -245,6 +373,7 @@ Model: Specific to this dormitory and date. Harry attributes the warming pans to
 
 - [Book 4, ch. 12, “The Triwizard Tournament”, ref p. 200–201, ¶191 (B04-C012-P0191)](../../build/reader/book-04.html#B04-C012-P0191)
 - [Book 4, ch. 12, “The Triwizard Tournament”, ref p. 201, ¶193 (B04-C012-P0193)](../../build/reader/book-04.html#B04-C012-P0193)
+- [Book 4, ch. 21, “The House-Elf Liberation Front”, ref p. 386–387, ¶40 (B04-C021-P0040)](../../build/reader/book-04.html#B04-C021-P0040)
 
 ## B04-032: Gryffindor common room window
 
@@ -389,4 +518,289 @@ Evidence: explicit; state: Christmas 1994.
 Model: An explicit corner furnishing, not a portable mirror held by a character.
 
 - [Book 4, ch. 23, “The Yule Ball”, ref p. 432, ¶64 (B04-C023-P0064)](../../build/reader/book-04.html#B04-C023-P0064)
+
+## B04-140: Gryffindor entrance night credential
+
+Ron opens the Fat Lady from outside using Banana fritters, letting the cloaked Harry slip out as Ron climbs in.
+
+Evidence: explicit; state: January 1995, night bathroom visit.
+
+Model: Dated password and bidirectional use of the opening, not a permanent credential.
+
+- [Book 4, ch. 25, “The Egg and the Eye”, ref p. 482, ¶3 (B04-C025-P0003)](../../build/reader/book-04.html#B04-C025-P0003)
+
+## B04-156: Gryffindor common room movable study table
+
+Harry pulls a common-room table into a corner to continue searching his borrowed books late into the night.
+
+Evidence: explicit; state: Late January–24 February 1995; second-task preparation and event.
+
+Model: Establishes movable study furniture and a temporary corner layout.
+
+- [Book 4, ch. 26, “The Second Task”, ref p. 514, ¶68 (B04-C026-P0068)](../../build/reader/book-04.html#B04-C026-P0068)
+- [Book 4, ch. 26, “The Second Task”, ref p. 514–515, ¶69 (B04-C026-P0069)](../../build/reader/book-04.html#B04-C026-P0069)
+
+## B04-207: Fat Lady in earlier school years
+
+Mrs Weasley remembers the Fat Lady guarding the dormitory entrance during her school years, including a reprimand after a four-a.m. return from a walk.
+
+Evidence: reported; state: June 1995 preparation and 24 June third task; history where stated.
+
+Model: Reported earlier use of the same guardian; no exact year is given.
+
+- [Book 4, ch. 31, “The Third Task”, ref p. 651, ¶90 (B04-C031-P0090)](../../build/reader/book-04.html#B04-C031-P0090)
+- [Book 4, ch. 31, “The Third Task”, ref p. 651, ¶91 (B04-C031-P0091)](../../build/reader/book-04.html#B04-C031-P0091)
+- [Book 4, ch. 31, “The Third Task”, ref p. 651, ¶92 (B04-C031-P0092)](../../build/reader/book-04.html#B04-C031-P0092)
+- [Book 4, ch. 31, “The Third Task”, ref p. 651, ¶93 (B04-C031-P0093)](../../build/reader/book-04.html#B04-C031-P0093)
+- [Book 4, ch. 31, “The Third Task”, ref p. 651, ¶94 (B04-C031-P0094)](../../build/reader/book-04.html#B04-C031-P0094)
+
+## B06-024: Gryffindor common-room exit
+
+Students climb through a portrait hole to leave the common room for the corridor; a queue forms at this opening.
+
+Evidence: explicit; state: First school day, September 1996.
+
+Model: An aperture requiring a climb, not merely a conventional full-height doorway; no size specified.
+
+- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 177, ¶5 (B06-C009-P0005)](../../build/reader/book-06.html#B06-C009-P0005)
+- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 177, ¶7 (B06-C009-P0007)](../../build/reader/book-06.html#B06-C009-P0007)
+
+## B06-026: Gryffindor common-room tapestry and light
+
+The common room contains a tapestry, which a flying Fanged Frisbee tries to bite, and is sunlit when Harry and Ron leave.
+
+Evidence: explicit; state: First school day, September 1996.
+
+Model: Tapestry subject and exact hanging position unspecified; daytime natural light reaches the room.
+
+- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 182, ¶40 (B06-C009-P0040)](../../build/reader/book-06.html#B06-C009-P0040)
+- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 182, ¶41 (B06-C009-P0041)](../../build/reader/book-06.html#B06-C009-P0041)
+
+## B06-031: Gryffindor common room–Potions dungeon
+
+After the common-room study period the students follow a familiar path down to the dungeon classroom formerly taught in by Snape; a corridor lies outside its door.
+
+Evidence: explicit; state: First school day, September 1996.
+
+Model: Downward route and dungeon function; no exact stair sequence or total descent supplied.
+
+- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 188, ¶96 (B06-C009-P0096)](../../build/reader/book-06.html#B06-C009-P0096)
+- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 188–189, ¶97 (B06-C009-P0097)](../../build/reader/book-06.html#B06-C009-P0097)
+- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 189, ¶99 (B06-C009-P0099)](../../build/reader/book-06.html#B06-C009-P0099)
+
+## B06-034: Corridors between Gryffindor and headmaster entrance
+
+An unnamed statue along Harry’s route is large enough to hide him crouching behind it while Trelawney passes and pauses on its other side.
+
+Evidence: explicit; state: First private lesson, September 1996.
+
+Model: Local concealment and circulation constraint only; statue subject, material and exact corridor unspecified.
+
+- [Book 6, ch. 10, “The House of Gaunt”, ref p. 202, ¶9 (B06-C010-P0009)](../../build/reader/book-06.html#B06-C010-P0009)
+- [Book 6, ch. 10, “The House of Gaunt”, ref p. 202, ¶10 (B06-C010-P0010)](../../build/reader/book-06.html#B06-C010-P0010)
+- [Book 6, ch. 10, “The House of Gaunt”, ref p. 202, ¶11 (B06-C010-P0011)](../../build/reader/book-06.html#B06-C010-P0011)
+- [Book 6, ch. 10, “The House of Gaunt”, ref p. 202, ¶12 (B06-C010-P0012)](../../build/reader/book-06.html#B06-C010-P0012)
+- [Book 6, ch. 10, “The House of Gaunt”, ref p. 202, ¶13 (B06-C010-P0013)](../../build/reader/book-06.html#B06-C010-P0013)
+
+## B06-051: Gryffindor common room and dormitory access
+
+The crowded common room has tables and chairs; a door leads towards the boys’ dormitories.
+
+Evidence: explicit; state: September 1996.
+
+Model: Door connection and study furniture. This passage does not specify stairs beyond that door.
+
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 243, ¶147 (B06-C011-P0147)](../../build/reader/book-06.html#B06-C011-P0147)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 244, ¶161 (B06-C011-P0161)](../../build/reader/book-06.html#B06-C011-P0161)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 244, ¶162 (B06-C011-P0162)](../../build/reader/book-06.html#B06-C011-P0162)
+
+## B06-052: Gryffindor boys’ dormitory
+
+Storm-driven wind and sleet strike the dormitory windows. Harry reads in bed; Ron can be magically suspended above his own mattress and fall back onto it. Neville, Dean and Seamus are also present when the room wakes.
+
+Evidence: explicit; state: Mid-October 1996 Hogsmeade day.
+
+Model: Shared sleeping room with windows and headroom above a bed. The suspension supplies no reliable ceiling height.
+
+- [Book 6, ch. 12, “Silver and Opals”, ref p. 245–246, ¶3 (B06-C012-P0003)](../../build/reader/book-06.html#B06-C012-P0003)
+- [Book 6, ch. 12, “Silver and Opals”, ref p. 247, ¶7 (B06-C012-P0007)](../../build/reader/book-06.html#B06-C012-P0007)
+- [Book 6, ch. 12, “Silver and Opals”, ref p. 247, ¶10 (B06-C012-P0010)](../../build/reader/book-06.html#B06-C012-P0010)
+- [Book 6, ch. 12, “Silver and Opals”, ref p. 247, ¶11 (B06-C012-P0011)](../../build/reader/book-06.html#B06-C012-P0011)
+- [Book 6, ch. 12, “Silver and Opals”, ref p. 248, ¶13 (B06-C012-P0013)](../../build/reader/book-06.html#B06-C012-P0013)
+
+## B06-061: Gryffindor portrait entrance and common-room fire
+
+Hermione gives the Fat Lady the password Dilligrout and the portrait swings open into the common room. The crowded room smells of damp clothing after students return from the storm; desirable armchairs stand by the fire.
+
+Evidence: explicit; state: Mid-October 1996 Hogsmeade day.
+
+Model: Observed password access, swinging portrait, fireplace seating and a dated wet-clothing state; distinguish this entrance from a generic door.
+
+- [Book 6, ch. 12, “Silver and Opals”, ref p. 266, ¶193 (B06-C012-P0193)](../../build/reader/book-06.html#B06-C012-P0193)
+- [Book 6, ch. 12, “Silver and Opals”, ref p. 266, ¶194 (B06-C012-P0194)](../../build/reader/book-06.html#B06-C012-P0194)
+- [Book 6, ch. 12, “Silver and Opals”, ref p. 266, ¶195 (B06-C012-P0195)](../../build/reader/book-06.html#B06-C012-P0195)
+- [Book 6, ch. 12, “Silver and Opals”, ref p. 266–267, ¶196 (B06-C012-P0196)](../../build/reader/book-06.html#B06-C012-P0196)
+
+## B06-070: Second-floor tapestry shortcut to Gryffindor
+
+Returning from Quidditch to the castle, Harry and Ron reach the second floor and push aside a tapestry to use their usual shortcut up to Gryffindor Tower. Behind it is a corridor. They later hurry up stairs and along a seventh-floor corridor to the Fat Lady, then climb into the common room.
+
+Evidence: explicit; state: Late October–autumn 1996.
+
+Model: Connect second-floor tapestry to a route ending at seventh-floor portrait entrance. The shortcut’s internal stair/floor sequence is not completely narrated; P0086 is Harry’s fantasy and adds no geometry.
+
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 297, ¶56 (B06-C014-P0056)](../../build/reader/book-06.html#B06-C014-P0056)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 298, ¶62 (B06-C014-P0062)](../../build/reader/book-06.html#B06-C014-P0062)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 299, ¶79 (B06-C014-P0079)](../../build/reader/book-06.html#B06-C014-P0079)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 299, ¶82 (B06-C014-P0082)](../../build/reader/book-06.html#B06-C014-P0082)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 299, ¶83 (B06-C014-P0083)](../../build/reader/book-06.html#B06-C014-P0083)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 299–300, ¶84 (B06-C014-P0084)](../../build/reader/book-06.html#B06-C014-P0084)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 300, ¶87 (B06-C014-P0087)](../../build/reader/book-06.html#B06-C014-P0087)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 300, ¶90 (B06-C014-P0090)](../../build/reader/book-06.html#B06-C014-P0090)
+
+## B06-071: Harry’s dormitory four-poster
+
+Harry lies in a four-poster bed with a canopy overhead and a pillow he can rearrange.
+
+Evidence: explicit; state: Late October–autumn 1996.
+
+Model: Bed type and canopy, without fabric colour or dimensions in this passage.
+
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 300–301, ¶92 (B06-C014-P0092)](../../build/reader/book-06.html#B06-C014-P0092)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 301, ¶94 (B06-C014-P0094)](../../build/reader/book-06.html#B06-C014-P0094)
+
+## B06-075: Gryffindor victory party
+
+A crowded common-room celebration includes a drinks table and Butterbeer. People in a corner are in full view of the room.
+
+Evidence: explicit; state: After first Gryffindor–Slytherin match, autumn 1996.
+
+Model: Temporary party furnishing and visibility within room, not a complete room-wide isovist or permanent bar.
+
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 312–313, ¶190 (B06-C014-P0190)](../../build/reader/book-06.html#B06-C014-P0190)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 313, ¶191 (B06-C014-P0191)](../../build/reader/book-06.html#B06-C014-P0191)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 313, ¶192 (B06-C014-P0192)](../../build/reader/book-06.html#B06-C014-P0192)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 313, ¶194 (B06-C014-P0194)](../../build/reader/book-06.html#B06-C014-P0194)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 313, ¶195 (B06-C014-P0195)](../../build/reader/book-06.html#B06-C014-P0195)
+
+## B06-076: Unnamed classroom near Gryffindor route
+
+After leaving the Fat Lady’s portrait into a deserted corridor, Harry finds Hermione in the first unlocked classroom he tries. It has a teacher’s desk and a swinging door; a small conjured flock circles her head and later attacks Ron.
+
+Evidence: explicit; state: After first Gryffindor–Slytherin match, autumn 1996.
+
+Model: An accessible unnamed classroom along Harry’s search route. “First unlocked” does not establish that it is the first door or immediately adjacent to the portrait; floor number not explicitly repeated.
+
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 313, ¶196 (B06-C014-P0196)](../../build/reader/book-06.html#B06-C014-P0196)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 313–314, ¶198 (B06-C014-P0198)](../../build/reader/book-06.html#B06-C014-P0198)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 314, ¶204 (B06-C014-P0204)](../../build/reader/book-06.html#B06-C014-P0204)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 314, ¶206 (B06-C014-P0206)](../../build/reader/book-06.html#B06-C014-P0206)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 314, ¶208 (B06-C014-P0208)](../../build/reader/book-06.html#B06-C014-P0208)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 315, ¶210 (B06-C014-P0210)](../../build/reader/book-06.html#B06-C014-P0210)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 315, ¶211 (B06-C014-P0211)](../../build/reader/book-06.html#B06-C014-P0211)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 315, ¶212 (B06-C014-P0212)](../../build/reader/book-06.html#B06-C014-P0212)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 315, ¶213 (B06-C014-P0213)](../../build/reader/book-06.html#B06-C014-P0213)
+
+## B06-081: Library–Gryffindor return route
+
+After library closing Harry and Hermione return along deserted lamp-lit corridors to the Fat Lady. The current festive password is Baubles; the portrait swings forwards and they climb through its hole.
+
+Evidence: explicit; state: Before Christmas holidays, December 1996.
+
+Model: Artificial corridor lighting and dated access credential; no exact floors or stair sequence in this route.
+
+- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 321, ¶41 (B06-C015-P0041)](../../build/reader/book-06.html#B06-C015-P0041)
+- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 321, ¶42 (B06-C015-P0042)](../../build/reader/book-06.html#B06-C015-P0042)
+- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 321, ¶43 (B06-C015-P0043)](../../build/reader/book-06.html#B06-C015-P0043)
+- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 321, ¶44 (B06-C015-P0044)](../../build/reader/book-06.html#B06-C015-P0044)
+
+## B06-091: Fat Lady January password
+
+The Fat Lady rejects Baubles because the password has changed, then accepts Abstinence and swings forwards to reveal the portrait hole.
+
+Evidence: explicit; state: January 1997.
+
+Model: Dated access state; refusal concerns obsolete password, not a physical malfunction.
+
+- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 365, ¶13 (B06-C017-P0013)](../../build/reader/book-06.html#B06-C017-P0013)
+- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 365, ¶14 (B06-C017-P0014)](../../build/reader/book-06.html#B06-C017-P0014)
+- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 365, ¶15 (B06-C017-P0015)](../../build/reader/book-06.html#B06-C017-P0015)
+- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 365, ¶16 (B06-C017-P0016)](../../build/reader/book-06.html#B06-C017-P0016)
+- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 365, ¶17 (B06-C017-P0017)](../../build/reader/book-06.html#B06-C017-P0017)
+- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 366, ¶22 (B06-C017-P0022)](../../build/reader/book-06.html#B06-C017-P0022)
+- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 366, ¶23 (B06-C017-P0023)](../../build/reader/book-06.html#B06-C017-P0023)
+
+## B06-093: Gryffindor common-room noticeboards
+
+Common-room noticeboards carry a newly pinned Apparition-lesson sign, beneath which eligible students can sign their names.
+
+Evidence: explicit; state: January 1997.
+
+Model: Fixed communication fixture and dated paper notice; no board count or exact mounting position.
+
+- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 368, ¶58 (B06-C017-P0058)](../../build/reader/book-06.html#B06-C017-P0058)
+- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 368, ¶59 (B06-C017-P0059)](../../build/reader/book-06.html#B06-C017-P0059)
+- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 369, ¶60 (B06-C017-P0060)](../../build/reader/book-06.html#B06-C017-P0060)
+- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 369, ¶61 (B06-C017-P0061)](../../build/reader/book-06.html#B06-C017-P0061)
+- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 369, ¶62 (B06-C017-P0062)](../../build/reader/book-06.html#B06-C017-P0062)
+- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 369, ¶63 (B06-C017-P0063)](../../build/reader/book-06.html#B06-C017-P0063)
+
+## B06-105: Entrance Hall–Gryffindor fourth-floor detour
+
+Returning to Gryffindor Tower, Harry and Ron meet a fourth-floor door jammed shut by Peeves. They turn back and use a familiar shortcut, reaching the portrait hole within five minutes.
+
+Evidence: explicit; state: First Apparition lesson day, February 1997.
+
+Model: Local blocked-door event and alternate route; time is narrative travel time at a run, not a scale ruler or complete shortcut map.
+
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 404, ¶112 (B06-C018-P0112)](../../build/reader/book-06.html#B06-C018-P0112)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 404, ¶113 (B06-C018-P0113)](../../build/reader/book-06.html#B06-C018-P0113)
+
+## B06-106: Gryffindor boys’ stair and dormitory
+
+A door off the common room leads to the boys’ staircase and up to the dormitory, which contains pupils’ beds and trunks. Ron’s bed has a post, and the dormitory has a rain-washed window.
+
+Evidence: explicit; state: January–1 March 1997.
+
+Model: Explicit door → stair → dormitory relationship. No spiral form or exact number of beds added by this passage.
+
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 404, ¶115 (B06-C018-P0115)](../../build/reader/book-06.html#B06-C018-P0115)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 405, ¶116 (B06-C018-P0116)](../../build/reader/book-06.html#B06-C018-P0116)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 405, ¶123 (B06-C018-P0123)](../../build/reader/book-06.html#B06-C018-P0123)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 407, ¶135 (B06-C018-P0135)](../../build/reader/book-06.html#B06-C018-P0135)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 407, ¶136 (B06-C018-P0136)](../../build/reader/book-06.html#B06-C018-P0136)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 407, ¶137 (B06-C018-P0137)](../../build/reader/book-06.html#B06-C018-P0137)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 409, ¶150 (B06-C018-P0150)](../../build/reader/book-06.html#B06-C018-P0150)
+
+## B06-112: Hospital wing–marble staircase–Gryffindor route
+
+Leaving the ward, Harry, Hermione and Hagrid walk along a corridor towards the marble staircase. Further along the return route a corner lets Filch’s shadow appear on the wall before he turns into view; a turning leads towards Gryffindor Tower.
+
+Evidence: explicit; state: Late evening of 1 March 1997.
+
+Model: Route sequence only; does not prove each described segment is adjacent or fix staircase landing level.
+
+- [Book 6, ch. 19, “Elf Tails”, ref p. 421, ¶54 (B06-C019-P0054)](../../build/reader/book-06.html#B06-C019-P0054)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 424, ¶74 (B06-C019-P0074)](../../build/reader/book-06.html#B06-C019-P0074)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 424, ¶80 (B06-C019-P0080)](../../build/reader/book-06.html#B06-C019-P0080)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 424, ¶81 (B06-C019-P0081)](../../build/reader/book-06.html#B06-C019-P0081)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 424–425, ¶84 (B06-C019-P0084)](../../build/reader/book-06.html#B06-C019-P0084)
+
+## B06-133: House-elf Disapparition in Gryffindor common room
+
+Kreacher and Dobby appear with cracks by the common-room fire, then Kreacher explicitly Disapparates and Dobby vanishes after giving their reports.
+
+Evidence: explicit; state: March–early April 1997.
+
+Model: Confirms elf Disapparition inside castle independently of human anti-Apparition rules. Arrival position is near the group/fire, not an invented fixed teleport point.
+
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 471–472, ¶29 (B06-C021-P0029)](../../build/reader/book-06.html#B06-C021-P0029)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 472, ¶30 (B06-C021-P0030)](../../build/reader/book-06.html#B06-C021-P0030)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 472, ¶31 (B06-C021-P0031)](../../build/reader/book-06.html#B06-C021-P0031)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 472, ¶34 (B06-C021-P0034)](../../build/reader/book-06.html#B06-C021-P0034)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 472, ¶35 (B06-C021-P0035)](../../build/reader/book-06.html#B06-C021-P0035)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 473, ¶47 (B06-C021-P0047)](../../build/reader/book-06.html#B06-C021-P0047)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 475, ¶63 (B06-C021-P0063)](../../build/reader/book-06.html#B06-C021-P0063)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 475, ¶64 (B06-C021-P0064)](../../build/reader/book-06.html#B06-C021-P0064)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 477, ¶82 (B06-C021-P0082)](../../build/reader/book-06.html#B06-C021-P0082)
 

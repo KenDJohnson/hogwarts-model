@@ -2,7 +2,7 @@
 
 This reports the reviewers' declared reading ranges. Structural validation checks that those ranges cover the corpus; it cannot prove semantic completeness or that every description has been captured.
 
-Reviewed: **7,528/38,426 paragraphs**. Records: **285**.
+Reviewed: **17,730/38,426 paragraphs**. Records: **685**.
 
 ## Book 1: Harry Potter and the Philosopher's Stone
 
@@ -28,26 +28,26 @@ Reviewed: **7,528/38,426 paragraphs**. Records: **285**.
 
 ## Book 2: Harry Potter and the Chamber of Secrets
 
-609/3,217 paragraphs; 2 records.
+3,217/3,217 paragraphs; 163 records.
 
 - Chapter 1, The Worst Birthday: Reviewed (95/95).
 - Chapter 2, Dobby’s Warning: Reviewed (128/128).
 - Chapter 3, The Burrow: Reviewed (183/183).
 - Chapter 4, At Flourish and Blotts: Reviewed (203/203).
-- Chapter 5, The Whomping Willow: Unread: ¶1–196 (0/196).
-- Chapter 6, Gilderoy Lockhart: Unread: ¶1–144 (0/144).
-- Chapter 7, Mudbloods and Murmurs: Unread: ¶1–170 (0/170).
-- Chapter 8, The Deathday Party: Unread: ¶1–184 (0/184).
-- Chapter 9, The Writing on the Wall: Unread: ¶1–214 (0/214).
-- Chapter 10, The Rogue Bludger: Unread: ¶1–183 (0/183).
-- Chapter 11, The Duelling Club: Unread: ¶1–197 (0/197).
-- Chapter 12, The Polyjuice Potion: Unread: ¶1–215 (0/215).
-- Chapter 13, The Very Secret Diary: Unread: ¶1–216 (0/216).
-- Chapter 14, Cornelius Fudge: Unread: ¶1–151 (0/151).
-- Chapter 15, Aragog: Unread: ¶1–161 (0/161).
-- Chapter 16, The Chamber of Secrets: Unread: ¶1–240 (0/240).
-- Chapter 17, The Heir of Slytherin: Unread: ¶1–190 (0/190).
-- Chapter 18, Dobby’s Reward: Unread: ¶1–147 (0/147).
+- Chapter 5, The Whomping Willow: Reviewed (196/196).
+- Chapter 6, Gilderoy Lockhart: Reviewed (144/144).
+- Chapter 7, Mudbloods and Murmurs: Reviewed (170/170).
+- Chapter 8, The Deathday Party: Reviewed (184/184).
+- Chapter 9, The Writing on the Wall: Reviewed (214/214).
+- Chapter 10, The Rogue Bludger: Reviewed (183/183).
+- Chapter 11, The Duelling Club: Reviewed (197/197).
+- Chapter 12, The Polyjuice Potion: Reviewed (215/215).
+- Chapter 13, The Very Secret Diary: Reviewed (216/216).
+- Chapter 14, Cornelius Fudge: Reviewed (151/151).
+- Chapter 15, Aragog: Reviewed (161/161).
+- Chapter 16, The Chamber of Secrets: Reviewed (240/240).
+- Chapter 17, The Heir of Slytherin: Reviewed (190/190).
+- Chapter 18, Dobby’s Reward: Reviewed (147/147).
 
 ## Book 3: Harry Potter and the Prisoner of Azkaban
 
@@ -78,7 +78,7 @@ Reviewed: **7,528/38,426 paragraphs**. Records: **285**.
 
 ## Book 4: Harry Potter and the Goblet of Fire
 
-3,825/6,131 paragraphs; 138 records.
+6,131/6,131 paragraphs; 243 records.
 
 - Chapter 1, The Riddle House: Reviewed (108/108).
 - Chapter 2, The Scar: Reviewed (43/43).
@@ -104,29 +104,29 @@ Reviewed: **7,528/38,426 paragraphs**. Records: **285**.
 - Chapter 22, The Unexpected Task: Reviewed (188/188).
 - Chapter 23, The Yule Ball: Reviewed (250/250).
 - Chapter 24, Rita Skeeter’s Scoop: Reviewed (197/197).
-- Chapter 25, The Egg and the Eye: Unread: ¶1–183 (0/183).
-- Chapter 26, The Second Task: Unread: ¶1–226 (0/226).
-- Chapter 27, Padfoot Returns: Unread: ¶1–208 (0/208).
-- Chapter 28, The Madness of Mr Crouch: Unread: ¶1–279 (0/279).
-- Chapter 29, The Dream: Unread: ¶1–164 (0/164).
-- Chapter 30, The Pensieve: Unread: ¶1–205 (0/205).
-- Chapter 31, The Third Task: Unread: ¶1–269 (0/269).
-- Chapter 32, Flesh, Blood and Bone: Unread: ¶1–53 (0/53).
-- Chapter 33, The Death Eaters: Unread: ¶1–101 (0/101).
-- Chapter 34, Priori Incantatem: Unread: ¶1–69 (0/69).
-- Chapter 35, Veritaserum: Unread: ¶1–164 (0/164).
-- Chapter 36, The Parting of the Ways: Unread: ¶1–207 (0/207).
-- Chapter 37, The Beginning: Unread: ¶1–178 (0/178).
+- Chapter 25, The Egg and the Eye: Reviewed (183/183).
+- Chapter 26, The Second Task: Reviewed (226/226).
+- Chapter 27, Padfoot Returns: Reviewed (208/208).
+- Chapter 28, The Madness of Mr Crouch: Reviewed (279/279).
+- Chapter 29, The Dream: Reviewed (164/164).
+- Chapter 30, The Pensieve: Reviewed (205/205).
+- Chapter 31, The Third Task: Reviewed (269/269).
+- Chapter 32, Flesh, Blood and Bone: Reviewed (53/53).
+- Chapter 33, The Death Eaters: Reviewed (101/101).
+- Chapter 34, Priori Incantatem: Reviewed (69/69).
+- Chapter 35, Veritaserum: Reviewed (164/164).
+- Chapter 36, The Parting of the Ways: Reviewed (207/207).
+- Chapter 37, The Beginning: Reviewed (178/178).
 
 ## Book 5: Harry Potter and the Order of the Phoenix
 
-0/9,069 paragraphs; 0 records.
+1,058/9,069 paragraphs; 1 records.
 
-- Chapter 1, Dudley Demented: Unread: ¶1–184 (0/184).
-- Chapter 2, A Peck of Owls: Unread: ¶1–253 (0/253).
-- Chapter 3, The Advance Guard: Unread: ¶1–182 (0/182).
-- Chapter 4, Number Twelve, Grimmauld Place: Unread: ¶1–230 (0/230).
-- Chapter 5, The Order of the Phoenix: Unread: ¶1–209 (0/209).
+- Chapter 1, Dudley Demented: Reviewed (184/184).
+- Chapter 2, A Peck of Owls: Reviewed (253/253).
+- Chapter 3, The Advance Guard: Reviewed (182/182).
+- Chapter 4, Number Twelve, Grimmauld Place: Reviewed (230/230).
+- Chapter 5, The Order of the Phoenix: Reviewed (209/209).
 - Chapter 6, The Noble and Most Ancient House of Black: Unread: ¶1–226 (0/226).
 - Chapter 7, The Ministry of Magic: Unread: ¶1–158 (0/158).
 - Chapter 8, The Hearing: Unread: ¶1–156 (0/156).
@@ -163,29 +163,29 @@ Reviewed: **7,528/38,426 paragraphs**. Records: **285**.
 
 ## Book 6: Harry Potter and the Half-Blood Prince
 
-0/5,809 paragraphs; 0 records.
+4,230/5,809 paragraphs; 133 records.
 
-- Chapter 1, The Other Minister: Unread: ¶1–135 (0/135).
-- Chapter 2, Spinner’s End: Unread: ¶1–175 (0/175).
-- Chapter 3, Will and Won’t: Unread: ¶1–138 (0/138).
-- Chapter 4, Horace Slughorn: Unread: ¶1–237 (0/237).
-- Chapter 5, An Excess of Phlegm: Unread: ¶1–253 (0/253).
-- Chapter 6, Draco’s Detour: Unread: ¶1–228 (0/228).
-- Chapter 7, The Slug Club: Unread: ¶1–240 (0/240).
-- Chapter 8, Snape Victorious: Unread: ¶1–139 (0/139).
-- Chapter 9, The Half-Blood Prince: Unread: ¶1–193 (0/193).
-- Chapter 10, The House of Gaunt: Unread: ¶1–213 (0/213).
-- Chapter 11, Hermione’s Helping Hand: Unread: ¶1–166 (0/166).
-- Chapter 12, Silver and Opals: Unread: ¶1–198 (0/198).
-- Chapter 13, The Secret Riddle: Unread: ¶1–203 (0/203).
-- Chapter 14, Felix Felicis: Unread: ¶1–213 (0/213).
-- Chapter 15, The Unbreakable Vow: Unread: ¶1–206 (0/206).
-- Chapter 16, A Very Frosty Christmas: Unread: ¶1–241 (0/241).
-- Chapter 17, A Sluggish Memory: Unread: ¶1–211 (0/211).
-- Chapter 18, Birthday Surprises: Unread: ¶1–233 (0/233).
-- Chapter 19, Elf Tails: Unread: ¶1–210 (0/210).
-- Chapter 20, Lord Voldemort’s Request: Unread: ¶1–207 (0/207).
-- Chapter 21, The Unknowable Room: Unread: ¶1–191 (0/191).
+- Chapter 1, The Other Minister: Reviewed (135/135).
+- Chapter 2, Spinner’s End: Reviewed (175/175).
+- Chapter 3, Will and Won’t: Reviewed (138/138).
+- Chapter 4, Horace Slughorn: Reviewed (237/237).
+- Chapter 5, An Excess of Phlegm: Reviewed (253/253).
+- Chapter 6, Draco’s Detour: Reviewed (228/228).
+- Chapter 7, The Slug Club: Reviewed (240/240).
+- Chapter 8, Snape Victorious: Reviewed (139/139).
+- Chapter 9, The Half-Blood Prince: Reviewed (193/193).
+- Chapter 10, The House of Gaunt: Reviewed (213/213).
+- Chapter 11, Hermione’s Helping Hand: Reviewed (166/166).
+- Chapter 12, Silver and Opals: Reviewed (198/198).
+- Chapter 13, The Secret Riddle: Reviewed (203/203).
+- Chapter 14, Felix Felicis: Reviewed (213/213).
+- Chapter 15, The Unbreakable Vow: Reviewed (206/206).
+- Chapter 16, A Very Frosty Christmas: Reviewed (241/241).
+- Chapter 17, A Sluggish Memory: Reviewed (211/211).
+- Chapter 18, Birthday Surprises: Reviewed (233/233).
+- Chapter 19, Elf Tails: Reviewed (210/210).
+- Chapter 20, Lord Voldemort’s Request: Reviewed (207/207).
+- Chapter 21, The Unknowable Room: Reviewed (191/191).
 - Chapter 22, After the Burial: Unread: ¶1–227 (0/227).
 - Chapter 23, Horcruxes: Unread: ¶1–160 (0/160).
 - Chapter 24, Sectumsempra: Unread: ¶1–164 (0/164).

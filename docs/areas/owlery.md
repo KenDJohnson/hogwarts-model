@@ -73,3 +73,31 @@ Model: Establishes at least twelve feet of unobstructed descent outside that ope
 - [Book 4, ch. 21, “The House-Elf Liberation Front”, ref p. 383, ¶4 (B04-C021-P0004)](../../build/reader/book-04.html#B04-C021-P0004)
 - [Book 4, ch. 21, “The House-Elf Liberation Front”, ref p. 383, ¶8 (B04-C021-P0008)](../../build/reader/book-04.html#B04-C021-P0008)
 
+## B04-180: Owlery views across grounds
+
+From the Owlery sill Harry looks over the Forest canopy, rippling sails of the moored ship, smoke from Hagrid’s chimney, and down at Hagrid digging before his cabin. He sees Maxime leave the carriage, speak to Hagrid, and return. At dusk the owls wake and fly past him into the night.
+
+Evidence: explicit; state: March–late May 1995; maze briefing and Crouch encounter in late May.
+
+Model: One observed elevated panorama; it does not establish a compass bearing or visibility from every Owlery window.
+
+- [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 570, ¶43 (B04-C028-P0043)](../../build/reader/book-04.html#B04-C028-P0043)
+- [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 570–571, ¶44 (B04-C028-P0044)](../../build/reader/book-04.html#B04-C028-P0044)
+- [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 571, ¶45 (B04-C028-P0045)](../../build/reader/book-04.html#B04-C028-P0045)
+
+## B04-192: Owlery dawn state and entrance
+
+The misty grounds are visible from the Owlery at dawn. Half the perches are empty as owls return through the windows carrying hunted mice. Steps lead up to a hinged entrance door, and the departure stair is spiral.
+
+Evidence: explicit; state: Late May–early June 1995, after Crouch disappearance.
+
+Model: Adds entrance construction and morning occupancy to the earlier tower description.
+
+- [Book 4, ch. 29, “The Dream”, ref p. 596, ¶8 (B04-C029-P0008)](../../build/reader/book-04.html#B04-C029-P0008)
+- [Book 4, ch. 29, “The Dream”, ref p. 597, ¶18 (B04-C029-P0018)](../../build/reader/book-04.html#B04-C029-P0018)
+- [Book 4, ch. 29, “The Dream”, ref p. 598, ¶27 (B04-C029-P0027)](../../build/reader/book-04.html#B04-C029-P0027)
+- [Book 4, ch. 29, “The Dream”, ref p. 598, ¶32 (B04-C029-P0032)](../../build/reader/book-04.html#B04-C029-P0032)
+- [Book 4, ch. 29, “The Dream”, ref p. 598, ¶38 (B04-C029-P0038)](../../build/reader/book-04.html#B04-C029-P0038)
+- [Book 4, ch. 29, “The Dream”, ref p. 599, ¶48 (B04-C029-P0048)](../../build/reader/book-04.html#B04-C029-P0048)
+- [Book 4, ch. 29, “The Dream”, ref p. 600, ¶62 (B04-C029-P0062)](../../build/reader/book-04.html#B04-C029-P0062)
+

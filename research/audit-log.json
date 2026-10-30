@@ -110,6 +110,312 @@
           "reason": "Train trolley visit, no new school-site spatial description."
         }
       ]
+    },
+    {
+      "book": 4,
+      "catalogue_entries_at_audit": 243,
+      "candidates_inspected": [
+        {
+          "id": "B04-C008-P0004",
+          "score": 14,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Quidditch World Cup grounds, stadium or encampment, not the Hogwarts pitch."
+        },
+        {
+          "id": "B04-C008-P0005",
+          "score": 14,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Quidditch World Cup grounds, stadium or encampment, not the Hogwarts pitch."
+        },
+        {
+          "id": "B04-C028-P0001",
+          "score": 12,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Existing Owlery-to-kitchen visits; no new intermediate route constraint."
+        },
+        {
+          "id": "B04-C028-P0066",
+          "score": 12,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Existing castle-to-greenhouse/creatures-class route; stone steps already represented."
+        },
+        {
+          "id": "B04-C030-P0084",
+          "score": 12,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Ministry trial memory, not a Hogwarts dungeon."
+        },
+        {
+          "id": "B04-C004-P0001",
+          "score": 11,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Off-site Riddle House, Privet Drive, Burrow or character recollection; no new Hogwarts spatial fact."
+        },
+        {
+          "id": "B04-C002-P0011",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Off-site Riddle House, Privet Drive, Burrow or character recollection; no new Hogwarts spatial fact."
+        },
+        {
+          "id": "B04-C012-P0078",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Sorting seating action; existing tables and ceremony already described."
+        },
+        {
+          "id": "B04-C023-P0230",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Existing Entrance Hall and marble-stair route; character encounter adds no fixture."
+        },
+        {
+          "id": "B04-C031-P0079",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Existing Great Hall side-chamber door and connection, already catalogued."
+        },
+        {
+          "id": "B04-C001-P0031",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Off-site Riddle House, Privet Drive, Burrow or character recollection; no new Hogwarts spatial fact."
+        },
+        {
+          "id": "B04-C001-P0084",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Off-site Riddle House, Privet Drive, Burrow or character recollection; no new Hogwarts spatial fact."
+        },
+        {
+          "id": "B04-C002-P0022",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Off-site Riddle House, Privet Drive, Burrow or character recollection; no new Hogwarts spatial fact."
+        },
+        {
+          "id": "B04-C001-P0032",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Off-site Riddle House, Privet Drive, Burrow or character recollection; no new Hogwarts spatial fact."
+        },
+        {
+          "id": "B04-C005-P0050",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Off-site Riddle House, Privet Drive, Burrow or character recollection; no new Hogwarts spatial fact."
+        },
+        {
+          "id": "B04-C007-P0005",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Quidditch World Cup grounds, stadium or encampment, not the Hogwarts pitch."
+        },
+        {
+          "id": "B04-C012-P0025",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Attendance and temporarily empty chairs, with no new fixture or placement beyond staff-table records."
+        },
+        {
+          "id": "B04-C017-P0004",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Existing long house table; pupils watching adds no spatial detail."
+        },
+        {
+          "id": "B04-C029-P0119",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Dream of the Riddle House, outside the Hogwarts site."
+        },
+        {
+          "id": "B04-C005-P0023",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Off-site Riddle House, Privet Drive, Burrow or character recollection; no new Hogwarts spatial fact."
+        },
+        {
+          "id": "B04-C008-P0083",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Quidditch World Cup grounds, stadium or encampment, not the Hogwarts pitch."
+        },
+        {
+          "id": "B04-C023-P0105",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Fleur compares Beauxbatons to Hogwarts; Hogwarts frost and armour are already represented. Other school details excluded."
+        },
+        {
+          "id": "B04-C003-P0001",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Off-site Riddle House, Privet Drive, Burrow or character recollection; no new Hogwarts spatial fact."
+        },
+        {
+          "id": "B04-C003-P0006",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Off-site Riddle House, Privet Drive, Burrow or character recollection; no new Hogwarts spatial fact."
+        },
+        {
+          "id": "B04-C007-P0163",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Quidditch World Cup grounds, stadium or encampment, not the Hogwarts pitch."
+        },
+        {
+          "id": "B04-C009-P0232",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Quidditch World Cup grounds, stadium or encampment, not the Hogwarts pitch."
+        },
+        {
+          "id": "B04-C012-P0164",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Tournament history and hosting cycle, no additional physical facility."
+        },
+        {
+          "id": "B04-C012-P0168",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Pupils reacting at existing house tables, no additional environmental fact."
+        },
+        {
+          "id": "B04-C014-P0183",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Existing four-poster canopy and a transient quiet dormitory; no new spatial fact."
+        },
+        {
+          "id": "B04-C015-P0067",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "People conversing at an existing house table, no new fixture."
+        },
+        {
+          "id": "B04-C015-P0138",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Existing front steps traversed by visitors, no new dimensions or route."
+        },
+        {
+          "id": "B04-C017-P0123",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "A pupil on an existing bed and a door being shut, no new fixture."
+        },
+        {
+          "id": "B04-C019-P0177",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Existing common-room-to-dormitory stair route, no new geometry."
+        },
+        {
+          "id": "B04-C023-P0229",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Existing Great Hall-to-Entrance Hall exit, no new connection."
+        },
+        {
+          "id": "B04-C030-P0035",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Ministry trial memory, not a Hogwarts dungeon."
+        },
+        {
+          "id": "B04-C021-P0040",
+          "score": 5,
+          "disposition": "supplemented",
+          "reason": "Added evidence to B04-021 explicitly locating a table at Harry’s own bed."
+        },
+        {
+          "id": "B04-C034-P0040",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Graveyard spell effect described as a tunnel, not an architectural passage."
+        },
+        {
+          "id": "B04-C001-P0027",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Off-site Riddle House, Privet Drive, Burrow or character recollection; no new Hogwarts spatial fact."
+        },
+        {
+          "id": "B04-C001-P0029",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Off-site Riddle House, Privet Drive, Burrow or character recollection; no new Hogwarts spatial fact."
+        },
+        {
+          "id": "B04-C005-P0005",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Off-site Riddle House, Privet Drive, Burrow or character recollection; no new Hogwarts spatial fact."
+        },
+        {
+          "id": "B04-C005-P0068",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Off-site Riddle House, Privet Drive, Burrow or character recollection; no new Hogwarts spatial fact."
+        },
+        {
+          "id": "B04-C008-P0001",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Quidditch World Cup grounds, stadium or encampment, not the Hogwarts pitch."
+        },
+        {
+          "id": "B04-C008-P0068",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Quidditch World Cup grounds, stadium or encampment, not the Hogwarts pitch."
+        },
+        {
+          "id": "B04-C008-P0081",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Quidditch World Cup grounds, stadium or encampment, not the Hogwarts pitch."
+        },
+        {
+          "id": "B04-C014-P0112",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Existing common-room table used for homework, no new spatial detail."
+        },
+        {
+          "id": "B04-C014-P0130",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Existing portrait-hole entrance, no new mechanism."
+        },
+        {
+          "id": "B04-C016-P0014",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Hypothetical camp bed, not an installed dormitory fixture."
+        },
+        {
+          "id": "B04-C021-P0081",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Divination omen metaphor, not a described physical bird or castle feature."
+        },
+        {
+          "id": "B04-C025-P0001",
+          "score": 4,
+          "disposition": "supplemented",
+          "reason": "Added the explicit reduced-access observation to B04-131."
+        },
+        {
+          "id": "B04-C031-P0018",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Existing bed and dormitory with character reflection, no new spatial fact."
+        }
+      ]
     }
   ]
 }

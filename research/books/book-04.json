@@ -283,10 +283,11 @@
       "id": "B04-021",
       "location": "Gryffindor boys’ fourth-year dormitory",
       "category": "interior",
-      "description": "A final spiral staircase reaches the boys’ dormitory at the top of the Tower. Five four-poster beds with deep crimson hangings stand against the walls, trunks at their feet. Bedside tables and headboards support Dean’s Krum and West Ham posters and Seamus’s Ireland rosette; warming pans have been placed in the sheets.",
+      "description": "A final spiral staircase reaches the boys’ dormitory at the top of the Tower. Five four-poster beds with deep crimson hangings stand against the walls, trunks at their feet. Bedside tables and headboards support Dean’s Krum and West Ham posters and Seamus’s Ireland rosette; warming pans have been placed in the sheets. Harry also has a table immediately beside his own bed.",
       "evidence": [
         "B04-C012-P0191",
-        "B04-C012-P0193"
+        "B04-C012-P0193",
+        "B04-C021-P0040"
       ],
       "certainty": "explicit",
       "temporal": "1 September 1994",
@@ -1934,16 +1935,17 @@
       "id": "B04-131",
       "location": "Prefects’ bathroom directions",
       "category": "route",
-      "description": "Cedric tells Harry the Prefects’ bathroom is the fourth door to the left of Boris the Bewildered’s statue on the fifth floor, with password Pine-fresh.",
+      "description": "Cedric tells Harry the Prefects’ bathroom is the fourth door to the left of Boris the Bewildered’s statue on the fifth floor, with password Pine-fresh. Harry later chooses it because fewer people are allowed to use it and he expects less disturbance.",
       "evidence": [
         "B04-C023-P0235",
         "B04-C023-P0237",
         "B04-C023-P0239",
-        "B04-C023-P0241"
+        "B04-C023-P0241",
+        "B04-C025-P0001"
       ],
       "certainty": "reported",
       "temporal": "After Yule Ball, Christmas night 1994",
-      "model_notes": "Reported precise landmark and door-count directions. Left depends on the statue-viewpoint context; do not invent a compass orientation or statue pose until directly described."
+      "model_notes": "Reported precise landmark and door-count directions. Left depends on the statue-viewpoint context; do not invent a compass orientation or statue pose until directly described. The later access observation is narrated; this passage does not enumerate every eligible role."
     },
     {
       "id": "B04-132",

@@ -29,6 +29,21 @@ Model: Confirms use as food source, but no entrance, layout or location is suppl
 
 - [Book 1, ch. 13, “Nicolas Flamel”, ref p. 231, ¶121 (B01-C013-P0121)](../../build/reader/book-01.html#B01-C013-P0121)
 
+## B02-067: Hospital wing — Dobby’s disappearance
+
+Dobby appears at Harry’s bedside during the dark night and, hearing approaching footsteps, vanishes with a loud crack while Harry is holding his wrist.
+
+Evidence: explicit; state: November 1992.
+
+Model: Observed departure inside Hogwarts. Arrival itself is not witnessed and the mechanism is not named here.
+
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 177, ¶130 (B02-C010-P0130)](../../build/reader/book-02.html#B02-C010-P0130)
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 177, ¶131 (B02-C010-P0131)](../../build/reader/book-02.html#B02-C010-P0131)
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 177, ¶132 (B02-C010-P0132)](../../build/reader/book-02.html#B02-C010-P0132)
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 178, ¶134 (B02-C010-P0134)](../../build/reader/book-02.html#B02-C010-P0134)
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 181, ¶161 (B02-C010-P0161)](../../build/reader/book-02.html#B02-C010-P0161)
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 181, ¶162 (B02-C010-P0162)](../../build/reader/book-02.html#B02-C010-P0162)
+
 ## B04-015: Hogwarts kitchens
 
 Nearly Headless Nick reports that Peeves threw pots and pans around and left the kitchens flooded with soup before the feast.
@@ -131,4 +146,65 @@ Evidence: inference; state: Late November–early December 1994.
 Model: Explicitly Harry’s deduction from the observed alignment and timing; the actual transfer is not witnessed in this scene.
 
 - [Book 4, ch. 21, “The House-Elf Liberation Front”, ref p. 396, ¶118 (B04-C021-P0118)](../../build/reader/book-04.html#B04-C021-P0118)
+
+## B04-179: Kitchen hearth condition
+
+The brick behind Winky’s stool is smoke-blackened. She falls asleep on the hearth and elves cover her with a large checked tablecloth, while a Butterbeer bottle rolls across the flagged floor.
+
+Evidence: explicit; state: March–late May 1995; maze briefing and Crouch encounter in late May.
+
+Model: Adds soot and a temporary hearth obstruction to the earlier kitchen description.
+
+- [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 566, ¶10 (B04-C028-P0010)](../../build/reader/book-04.html#B04-C028-P0010)
+- [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 566–567, ¶12 (B04-C028-P0012)](../../build/reader/book-04.html#B04-C028-P0012)
+- [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 568, ¶31 (B04-C028-P0031)](../../build/reader/book-04.html#B04-C028-P0031)
+- [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 568, ¶32 (B04-C028-P0032)](../../build/reader/book-04.html#B04-C028-P0032)
+- [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 569, ¶40 (B04-C028-P0040)](../../build/reader/book-04.html#B04-C028-P0040)
+
+## B06-002: Hogwarts kitchens
+
+Dumbledore identifies the Hogwarts kitchen as a workplace for the resident house-elves; Harry sends Kreacher to join them.
+
+Evidence: reported; state: Summer 1996.
+
+Model: Functional and occupancy information only; this passage gives no kitchen position or dimensions.
+
+- [Book 6, ch. 3, “Will and Won’t”, ref p. 56–57, ¶109 (B06-C003-P0109)](../../build/reader/book-06.html#B06-C003-P0109)
+- [Book 6, ch. 3, “Will and Won’t”, ref p. 57, ¶110 (B06-C003-P0110)](../../build/reader/book-06.html#B06-C003-P0110)
+
+## B06-117: House-elf arrival in hospital wing
+
+Calling Kreacher’s name produces a loud crack followed by Kreacher and Dobby wrestling on the ward floor. Peeves appears in midair above them and swoops around a lamp.
+
+Evidence: explicit; state: Night after Hufflepuff match, March 1997.
+
+Model: Observed instantaneous elf arrival inside the castle despite human Apparition restrictions. This scene does not explicitly name the travel mechanism or show their origin.
+
+- [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶183 (B06-C019-P0183)](../../build/reader/book-06.html#B06-C019-P0183)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶184 (B06-C019-P0184)](../../build/reader/book-06.html#B06-C019-P0184)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶185 (B06-C019-P0185)](../../build/reader/book-06.html#B06-C019-P0185)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶187 (B06-C019-P0187)](../../build/reader/book-06.html#B06-C019-P0187)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶188 (B06-C019-P0188)](../../build/reader/book-06.html#B06-C019-P0188)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶189 (B06-C019-P0189)](../../build/reader/book-06.html#B06-C019-P0189)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 439, ¶193 (B06-C019-P0193)](../../build/reader/book-06.html#B06-C019-P0193)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 439, ¶194 (B06-C019-P0194)](../../build/reader/book-06.html#B06-C019-P0194)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 440, ¶199 (B06-C019-P0199)](../../build/reader/book-06.html#B06-C019-P0199)
+
+## B06-133: House-elf Disapparition in Gryffindor common room
+
+Kreacher and Dobby appear with cracks by the common-room fire, then Kreacher explicitly Disapparates and Dobby vanishes after giving their reports.
+
+Evidence: explicit; state: March–early April 1997.
+
+Model: Confirms elf Disapparition inside castle independently of human anti-Apparition rules. Arrival position is near the group/fire, not an invented fixed teleport point.
+
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 471–472, ¶29 (B06-C021-P0029)](../../build/reader/book-06.html#B06-C021-P0029)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 472, ¶30 (B06-C021-P0030)](../../build/reader/book-06.html#B06-C021-P0030)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 472, ¶31 (B06-C021-P0031)](../../build/reader/book-06.html#B06-C021-P0031)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 472, ¶34 (B06-C021-P0034)](../../build/reader/book-06.html#B06-C021-P0034)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 472, ¶35 (B06-C021-P0035)](../../build/reader/book-06.html#B06-C021-P0035)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 473, ¶47 (B06-C021-P0047)](../../build/reader/book-06.html#B06-C021-P0047)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 475, ¶63 (B06-C021-P0063)](../../build/reader/book-06.html#B06-C021-P0063)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 475, ¶64 (B06-C021-P0064)](../../build/reader/book-06.html#B06-C021-P0064)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 477, ¶82 (B06-C021-P0082)](../../build/reader/book-06.html#B06-C021-P0082)
 

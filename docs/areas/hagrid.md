@@ -153,6 +153,136 @@ Model: Slope and route sequence, plus outdoor chair use; no direct adjacency of 
 - [Book 1, ch. 16, “Through the Trapdoor”, ref p. 270, ¶23 (B01-C016-P0023)](../../build/reader/book-01.html#B01-C016-P0023)
 - [Book 1, ch. 16, “Through the Trapdoor”, ref p. 270, ¶24 (B01-C016-P0024)](../../build/reader/book-01.html#B01-C016-P0024)
 
+## B02-018: Castle, vegetable patch, greenhouses and Willow
+
+The pupils leave the castle and cross the vegetable patch to the greenhouses. From outside the greenhouses, the Willow is visible in the distance with several branches in slings; Sprout approaches across the lawn carrying bandages.
+
+Evidence: explicit; state: 2 September 1992.
+
+Model: Adds ground route and sightline; sling damage state dated after the car crash.
+
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 89, ¶28 (B02-C006-P0028)](../../build/reader/book-02.html#B02-C006-P0028)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 89, ¶29 (B02-C006-P0029)](../../build/reader/book-02.html#B02-C006-P0029)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 90, ¶31 (B02-C006-P0031)](../../build/reader/book-02.html#B02-C006-P0031)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 90, ¶32 (B02-C006-P0032)](../../build/reader/book-02.html#B02-C006-P0032)
+
+## B02-028: Stadium to Hagrid’s hut — nearby refuge
+
+Harry calls Hagrid’s the nearest place to take Ron. They leave the stadium, cross the grounds towards the Forest’s edge, and hide behind a nearby bush within twenty feet of the cabin when Lockhart emerges.
+
+Evidence: explicit; state: September 1992, first Saturday.
+
+Model: Observed route and bush proximity; nearest is Harry’s judgment, not a measured comparison with hospital distance.
+
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 113, ¶87 (B02-C007-P0087)](../../build/reader/book-02.html#B02-C007-P0087)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 113–114, ¶88 (B02-C007-P0088)](../../build/reader/book-02.html#B02-C007-P0088)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶90 (B02-C007-P0090)](../../build/reader/book-02.html#B02-C007-P0090)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶91 (B02-C007-P0091)](../../build/reader/book-02.html#B02-C007-P0091)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶92 (B02-C007-P0092)](../../build/reader/book-02.html#B02-C007-P0092)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶93 (B02-C007-P0093)](../../build/reader/book-02.html#B02-C007-P0093)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶94 (B02-C007-P0094)](../../build/reader/book-02.html#B02-C007-P0094)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114, ¶95 (B02-C007-P0095)](../../build/reader/book-02.html#B02-C007-P0095)
+
+## B02-029: Hagrid’s cabin — corners, table and basin
+
+The one-room cabin has an enormous bed in one corner and a crackling fire in another. Chairs surround a scrubbed table used for tea; Hagrid brings a large copper basin for Ron.
+
+Evidence: explicit; state: September 1992, first Saturday.
+
+Model: Adds separate bed/fire corners and table finish; rooster and basin are temporary objects.
+
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 115, ¶98 (B02-C007-P0098)](../../build/reader/book-02.html#B02-C007-P0098)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 115, ¶99 (B02-C007-P0099)](../../build/reader/book-02.html#B02-C007-P0099)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 115, ¶101 (B02-C007-P0101)](../../build/reader/book-02.html#B02-C007-P0101)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 115, ¶103 (B02-C007-P0103)](../../build/reader/book-02.html#B02-C007-P0103)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 116, ¶107 (B02-C007-P0107)](../../build/reader/book-02.html#B02-C007-P0107)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 117–118, ¶121 (B02-C007-P0121)](../../build/reader/book-02.html#B02-C007-P0121)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 118, ¶125 (B02-C007-P0125)](../../build/reader/book-02.html#B02-C007-P0125)
+
+## B02-030: Hagrid’s rear vegetable patch
+
+A small vegetable patch behind the cabin contains about a dozen boulder-sized pumpkins being grown for the Hallowe’en feast. Hagrid’s pink umbrella leans against the cabin’s back wall.
+
+Evidence: explicit; state: September 1992, first Saturday.
+
+Model: Pumpkins receive admitted magical help; Hermione proposes an Engorgement Charm. This patch is not automatically identical to the castle-to-greenhouse vegetable patch.
+
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 118, ¶125 (B02-C007-P0125)](../../build/reader/book-02.html#B02-C007-P0125)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 118, ¶126 (B02-C007-P0126)](../../build/reader/book-02.html#B02-C007-P0126)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 118, ¶127 (B02-C007-P0127)](../../build/reader/book-02.html#B02-C007-P0127)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 118, ¶129 (B02-C007-P0129)](../../build/reader/book-02.html#B02-C007-P0129)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 118, ¶130 (B02-C007-P0130)](../../build/reader/book-02.html#B02-C007-P0130)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 118–119, ¶131 (B02-C007-P0131)](../../build/reader/book-02.html#B02-C007-P0131)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 119, ¶132 (B02-C007-P0132)](../../build/reader/book-02.html#B02-C007-P0132)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 119, ¶135 (B02-C007-P0135)](../../build/reader/book-02.html#B02-C007-P0135)
+
+## B02-031: Hagrid’s cabin to Entrance Hall
+
+The pupils walk back uphill to the castle and enter the cool Entrance Hall before proceeding into the Great Hall for lunch.
+
+Evidence: explicit; state: September 1992, first Saturday.
+
+Model: Confirms castle above hut approach; no path material or precise distance.
+
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 119, ¶136 (B02-C007-P0136)](../../build/reader/book-02.html#B02-C007-P0136)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 119, ¶137 (B02-C007-P0137)](../../build/reader/book-02.html#B02-C007-P0137)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 120, ¶144 (B02-C007-P0144)](../../build/reader/book-02.html#B02-C007-P0144)
+
+## B02-114: Hagrid’s cabin — defensive state and height clearance
+
+Hagrid answers the door with a crossbow. Inside, the kettle can spill onto the hearth, a teapot is smashed, the boys hide in a corner and Fang occupies a basket. When Hagrid stands abruptly his head grazes the ceiling.
+
+Evidence: explicit; state: Spring 1993.
+
+Model: Ceiling height is relative to Hagrid, not a numeric measurement; basket and hiding corner add furniture/usable space.
+
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 262, ¶98 (B02-C014-P0098)](../../build/reader/book-02.html#B02-C014-P0098)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 262, ¶99 (B02-C014-P0099)](../../build/reader/book-02.html#B02-C014-P0099)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 262, ¶100 (B02-C014-P0100)](../../build/reader/book-02.html#B02-C014-P0100)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 262, ¶101 (B02-C014-P0101)](../../build/reader/book-02.html#B02-C014-P0101)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 262, ¶102 (B02-C014-P0102)](../../build/reader/book-02.html#B02-C014-P0102)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 262, ¶105 (B02-C014-P0105)](../../build/reader/book-02.html#B02-C014-P0105)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 262–263, ¶106 (B02-C014-P0106)](../../build/reader/book-02.html#B02-C014-P0106)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 263, ¶112 (B02-C014-P0112)](../../build/reader/book-02.html#B02-C014-P0112)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 264, ¶124 (B02-C014-P0124)](../../build/reader/book-02.html#B02-C014-P0124)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 264, ¶127 (B02-C014-P0127)](../../build/reader/book-02.html#B02-C014-P0127)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 265, ¶134 (B02-C014-P0134)](../../build/reader/book-02.html#B02-C014-P0134)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 265–266, ¶137 (B02-C014-P0137)](../../build/reader/book-02.html#B02-C014-P0137)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 266, ¶144 (B02-C014-P0144)](../../build/reader/book-02.html#B02-C014-P0144)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 266, ¶146 (B02-C014-P0146)](../../build/reader/book-02.html#B02-C014-P0146)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 266–267, ¶148 (B02-C014-P0148)](../../build/reader/book-02.html#B02-C014-P0148)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 267, ¶149 (B02-C014-P0149)](../../build/reader/book-02.html#B02-C014-P0149)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 267, ¶151 (B02-C014-P0151)](../../build/reader/book-02.html#B02-C014-P0151)
+
+## B02-121: Hagrid’s empty cabin — mantel and route to Forest
+
+They push open Hagrid’s door beneath dark windows, feed Fang fudge from a mantelpiece tin and leave the Cloak on the table. Fang leads to the Forest’s edge and a large sycamore.
+
+Evidence: explicit; state: Late spring 1993.
+
+Model: Adds mantel storage and specific forest-edge tree; exact distance from cabin to sycamore unknown.
+
+- [Book 2, ch. 15, “Aragog”, ref p. 273–274, ¶58 (B02-C015-P0058)](../../build/reader/book-02.html#B02-C015-P0058)
+- [Book 2, ch. 15, “Aragog”, ref p. 274, ¶59 (B02-C015-P0059)](../../build/reader/book-02.html#B02-C015-P0059)
+- [Book 2, ch. 15, “Aragog”, ref p. 274, ¶60 (B02-C015-P0060)](../../build/reader/book-02.html#B02-C015-P0060)
+- [Book 2, ch. 15, “Aragog”, ref p. 274, ¶61 (B02-C015-P0061)](../../build/reader/book-02.html#B02-C015-P0061)
+- [Book 2, ch. 15, “Aragog”, ref p. 274, ¶63 (B02-C015-P0063)](../../build/reader/book-02.html#B02-C015-P0063)
+- [Book 2, ch. 15, “Aragog”, ref p. 274–275, ¶65 (B02-C015-P0065)](../../build/reader/book-02.html#B02-C015-P0065)
+
+## B02-149: Chamber history — discovery and hostile Hagrid allegations
+
+Riddle says he spent five years learning the Chamber’s secrets and finding its entrance, then framed Hagrid and avoided reopening it under Dumbledore’s watch. He alleges Hagrid raised werewolf cubs beneath his bed and went into the Forest to wrestle trolls.
+
+Evidence: reported; state: Riddle’s account of his schooldays.
+
+Model: Hostile retrospective report; alleged cubs and trolls must not become confirmed permanent residents or a mapped enclosure.
+
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 314, ¶53 (B02-C017-P0053)](../../build/reader/book-02.html#B02-C017-P0053)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 314, ¶54 (B02-C017-P0054)](../../build/reader/book-02.html#B02-C017-P0054)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 314–315, ¶56 (B02-C017-P0056)](../../build/reader/book-02.html#B02-C017-P0056)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 315, ¶57 (B02-C017-P0057)](../../build/reader/book-02.html#B02-C017-P0057)
+- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 315, ¶59 (B02-C017-P0059)](../../build/reader/book-02.html#B02-C017-P0059)
+
 ## B04-023: Vegetable path and greenhouse three
 
 The pupils cross a sodden vegetable path to greenhouse three, where black slug-like Bubotubers protrude upright from soil and produce a petrol-smelling yellow-green liquid when squeezed.
@@ -355,4 +485,141 @@ Model: The dresser is an observed fixture; the tea setup is temporary. The apple
 - [Book 4, ch. 24, “Rita Skeeter’s Scoop”, ref p. 477, ¶171 (B04-C024-P0171)](../../build/reader/book-04.html#B04-C024-P0171)
 - [Book 4, ch. 24, “Rita Skeeter’s Scoop”, ref p. 479, ¶188 (B04-C024-P0188)](../../build/reader/book-04.html#B04-C024-P0188)
 - [Book 4, ch. 24, “Rita Skeeter’s Scoop”, ref p. 479, ¶189 (B04-C024-P0189)](../../build/reader/book-04.html#B04-C024-P0189)
+
+## B04-182: Beauxbatons carriage window view
+
+Maxime watches the group putting away Nifflers from a window of the carriage.
+
+Evidence: explicit; state: March–late May 1995; maze briefing and Crouch encounter in late May.
+
+Model: A direct carriage-to-cabin lesson-area sightline, without a numeric angle.
+
+- [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 575, ¶81 (B04-C028-P0081)](../../build/reader/book-04.html#B04-C028-P0081)
+
+## B04-231: Forest ambush and Hagrid excavation burial
+
+Crouch says he entered the grounds under an Invisibility Cloak, ambushed Krum and killed his father at the Forest edge, carried the body deeper among the trees, doubled behind Harry and Dumbledore, and later Transfigured the body into a bone and buried it in the fresh earth in front of Hagrid’s cabin.
+
+Evidence: reported; state: 24 June 1995 return and interrogation; prior-year events where reported.
+
+Model: Reported hidden sequence and temporary burial state, correcting the earlier unexplained disappearance. The confession gives no grave depth or exact point within the excavation.
+
+- [Book 4, ch. 35, “Veritaserum”, ref p. 730–731, ¶152 (B04-C035-P0152)](../../build/reader/book-04.html#B04-C035-P0152)
+- [Book 4, ch. 35, “Veritaserum”, ref p. 731, ¶153 (B04-C035-P0153)](../../build/reader/book-04.html#B04-C035-P0153)
+- [Book 4, ch. 35, “Veritaserum”, ref p. 731, ¶155 (B04-C035-P0155)](../../build/reader/book-04.html#B04-C035-P0155)
+- [Book 4, ch. 35, “Veritaserum”, ref p. 731–732, ¶156 (B04-C035-P0156)](../../build/reader/book-04.html#B04-C035-P0156)
+- [Book 4, ch. 35, “Veritaserum”, ref p. 732, ¶158 (B04-C035-P0158)](../../build/reader/book-04.html#B04-C035-P0158)
+- [Book 4, ch. 35, “Veritaserum”, ref p. 732, ¶159 (B04-C035-P0159)](../../build/reader/book-04.html#B04-C035-P0159)
+- [Book 4, ch. 35, “Veritaserum”, ref p. 732, ¶160 (B04-C035-P0160)](../../build/reader/book-04.html#B04-C035-P0160)
+
+## B04-237: Hagrid’s cabin tableware storage
+
+Two bucket-sized cups and saucers stand on the table before the fireplace, and Hagrid takes additional cups from the dresser for visitors.
+
+Evidence: explicit; state: Late June–end of school year 1995.
+
+Model: Adds oversized household ware and dresser storage, without changing the single-room plan.
+
+- [Book 4, ch. 37, “The Beginning”, ref p. 759–760, ¶13 (B04-C037-P0013)](../../build/reader/book-04.html#B04-C037-P0013)
+- [Book 4, ch. 37, “The Beginning”, ref p. 760, ¶16 (B04-C037-P0016)](../../build/reader/book-04.html#B04-C037-P0016)
+- [Book 4, ch. 37, “The Beginning”, ref p. 760, ¶17 (B04-C037-P0017)](../../build/reader/book-04.html#B04-C037-P0017)
+- [Book 4, ch. 37, “The Beginning”, ref p. 760, ¶21 (B04-C037-P0021)](../../build/reader/book-04.html#B04-C037-P0021)
+
+## B04-240: Beauxbatons departure sightline
+
+From the castle entrance Harry sees Hagrid harnessing the giant horses far across the grounds as the carriage prepares to take off; Fleur walks back across the lawns to it.
+
+Evidence: explicit; state: Late June–end of school year 1995.
+
+Model: A long entrance-to-carriage sightline and departure state. Do not infer that the carriage has already flown away in this paragraph.
+
+- [Book 4, ch. 37, “The Beginning”, ref p. 767, ¶67 (B04-C037-P0067)](../../build/reader/book-04.html#B04-C037-P0067)
+- [Book 4, ch. 37, “The Beginning”, ref p. 767, ¶68 (B04-C037-P0068)](../../build/reader/book-04.html#B04-C037-P0068)
+- [Book 4, ch. 37, “The Beginning”, ref p. 767, ¶70 (B04-C037-P0070)](../../build/reader/book-04.html#B04-C037-P0070)
+- [Book 4, ch. 37, “The Beginning”, ref p. 767, ¶71 (B04-C037-P0071)](../../build/reader/book-04.html#B04-C037-P0071)
+
+## B06-003: Hagrid’s care of Buckbeak
+
+Buckbeak is staying with Hagrid, under the protective replacement name Witherwings. Hagrid subsequently reports that the Hippogriff is back in the open air.
+
+Evidence: reported; state: Summer 1996 onward.
+
+Model: Grounds creature state; no exact enclosure or position is specified here.
+
+- [Book 6, ch. 3, “Will and Won’t”, ref p. 57, ¶112 (B06-C003-P0112)](../../build/reader/book-06.html#B06-C003-P0112)
+- [Book 6, ch. 3, “Will and Won’t”, ref p. 57, ¶113 (B06-C003-P0113)](../../build/reader/book-06.html#B06-C003-P0113)
+- [Book 6, ch. 3, “Will and Won’t”, ref p. 57, ¶114 (B06-C003-P0114)](../../build/reader/book-06.html#B06-C003-P0114)
+- [Book 6, ch. 6, “Draco’s Detour”, ref p. 113–114, ¶37 (B06-C006-P0037)](../../build/reader/book-06.html#B06-C006-P0037)
+
+## B06-045: Quidditch pitch–Hagrid cabin
+
+After the trials the group leaves towards Hagrid’s cabin; later they hurry back through dark, deserted grounds to the castle and Great Hall entrance.
+
+Evidence: explicit; state: Trials day, September 1996.
+
+Model: Grounds route connecting pitch, cabin and castle; no direct-distance or bearing claims. Weather clears to watery sunshine before dusk.
+
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 235, ¶73 (B06-C011-P0073)](../../build/reader/book-06.html#B06-C011-P0073)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 240, ¶128 (B06-C011-P0128)](../../build/reader/book-06.html#B06-C011-P0128)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 240–241, ¶129 (B06-C011-P0129)](../../build/reader/book-06.html#B06-C011-P0129)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 241, ¶130 (B06-C011-P0130)](../../build/reader/book-06.html#B06-C011-P0130)
+
+## B06-046: Hagrid cabin front
+
+The large grey Hippogriff Buckbeak is tethered in front of Hagrid’s cabin. Hagrid can come around the corner of the building with Fang behind him.
+
+Evidence: explicit; state: September 1996.
+
+Model: Directly observed tethering location supplements earlier reports. Animal approach involves reciprocal bows; no fence or enclosure is described.
+
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 236, ¶78 (B06-C011-P0078)](../../build/reader/book-06.html#B06-C011-P0078)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 236, ¶81 (B06-C011-P0081)](../../build/reader/book-06.html#B06-C011-P0081)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 236, ¶82 (B06-C011-P0082)](../../build/reader/book-06.html#B06-C011-P0082)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 236, ¶84 (B06-C011-P0084)](../../build/reader/book-06.html#B06-C011-P0084)
+
+## B06-047: Hagrid cabin table and tea equipment
+
+Visitors sit around an enormous wooden table. Hagrid brews tea in an enormous copper kettle and serves bucket-sized mugs; the cabin has room to circulate around the table.
+
+Evidence: explicit; state: September 1996.
+
+Model: Relative giant-scale furnishings, material and circulation; avoid inventing exact scale ratios from metaphors.
+
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 237, ¶102 (B06-C011-P0102)](../../build/reader/book-06.html#B06-C011-P0102)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 237–238, ¶106 (B06-C011-P0106)](../../build/reader/book-06.html#B06-C011-P0106)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 238, ¶107 (B06-C011-P0107)](../../build/reader/book-06.html#B06-C011-P0107)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 238, ¶117 (B06-C011-P0117)](../../build/reader/book-06.html#B06-C011-P0117)
+
+## B06-048: Hagrid cabin grub barrel
+
+A large barrel in a corner contains slimy white writhing grubs roughly a foot long, making a squelching sound. People take the longer way round the table to avoid it.
+
+Evidence: explicit; state: September 1996.
+
+Model: Dated animal-food storage; the barrel’s relationship to a corner and circulation route is explicit.
+
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 238, ¶111 (B06-C011-P0111)](../../build/reader/book-06.html#B06-C011-P0111)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 238, ¶113 (B06-C011-P0113)](../../build/reader/book-06.html#B06-C011-P0113)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 238, ¶115 (B06-C011-P0115)](../../build/reader/book-06.html#B06-C011-P0115)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 238, ¶117 (B06-C011-P0117)](../../build/reader/book-06.html#B06-C011-P0117)
+
+## B06-065: Vegetable patch–greenhouses route
+
+The route to Herbology crosses a vegetable patch before the greenhouses. Returning mist makes finding the correct greenhouse slower than usual.
+
+Evidence: explicit; state: Late October–autumn 1996.
+
+Model: Grounds waypoint and limited visibility; greenhouse count, numbering and patch position relative to castle unspecified.
+
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 289, ¶1 (B06-C014-P0001)](../../build/reader/book-06.html#B06-C014-P0001)
+
+## B06-090: Corridor view towards Hagrid cabin
+
+On leaving McGonagall’s office towards Gryffindor Tower, Harry looks through corridor windows over deeply snow-covered grounds. In the distance he sees Hagrid feeding Buckbeak in front of the cabin as the sun sinks.
+
+Evidence: explicit; state: Late afternoon return, January 1997.
+
+Model: Line of sight from an unspecified corridor on this route to cabin frontage; window and sun compass bearings unspecified.
+
+- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 365, ¶12 (B06-C017-P0012)](../../build/reader/book-06.html#B06-C017-P0012)
 

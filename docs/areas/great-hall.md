@@ -204,6 +204,171 @@ Model: Two successive end-of-year decoration states, with an identified banner w
 - [Book 1, ch. 17, “The Man with Two Faces”, ref p. 312, ¶203 (B01-C017-P0203)](../../build/reader/book-01.html#B01-C017-P0203)
 - [Book 1, ch. 17, “The Man with Two Faces”, ref p. 312, ¶204 (B01-C017-P0204)](../../build/reader/book-01.html#B01-C017-P0204)
 
+## B02-010: Great Hall — exterior window sightline and sorting
+
+From a brightly lit window near the front steps the boys watch sorting inside the Great Hall: hovering candles above four long tables, golden plates and goblets, the starry ceiling, and a stool for the Sorting Hat before the first-years.
+
+Evidence: explicit; state: 1 September 1992 arrival.
+
+Model: Exterior visibility of Hall interior is a significant constraint. No window side, sill height or exact angle is given.
+
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 76, ¶111 (B02-C005-P0111)](../../build/reader/book-02.html#B02-C005-P0111)
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 76, ¶112 (B02-C005-P0112)](../../build/reader/book-02.html#B02-C005-P0112)
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 76, ¶113 (B02-C005-P0113)](../../build/reader/book-02.html#B02-C005-P0113)
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 76, ¶114 (B02-C005-P0114)](../../build/reader/book-02.html#B02-C005-P0114)
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 76–77, ¶115 (B02-C005-P0115)](../../build/reader/book-02.html#B02-C005-P0115)
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 77, ¶116 (B02-C005-P0116)](../../build/reader/book-02.html#B02-C005-P0116)
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 77, ¶117 (B02-C005-P0117)](../../build/reader/book-02.html#B02-C005-P0117)
+
+## B02-017: Great Hall — cloudy ceiling and Howler acoustics
+
+The ceiling mirrors a dull grey cloudy sky over the four breakfast tables. Ron’s Howler fills the Hall with amplified sound, rattling tableware, echoing from stone walls and shaking dust from the ceiling.
+
+Evidence: explicit; state: 2 September 1992.
+
+Model: Observed acoustic and ceiling behaviour; no sound-pressure level or ceiling construction inferred.
+
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 86, ¶1 (B02-C006-P0001)](../../build/reader/book-02.html#B02-C006-P0001)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 86–87, ¶3 (B02-C006-P0003)](../../build/reader/book-02.html#B02-C006-P0003)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 87–88, ¶16 (B02-C006-P0016)](../../build/reader/book-02.html#B02-C006-P0016)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 88, ¶17 (B02-C006-P0017)](../../build/reader/book-02.html#B02-C006-P0017)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 88, ¶18 (B02-C006-P0018)](../../build/reader/book-02.html#B02-C006-P0018)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 88, ¶21 (B02-C006-P0021)](../../build/reader/book-02.html#B02-C006-P0021)
+- [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 88, ¶22 (B02-C006-P0022)](../../build/reader/book-02.html#B02-C006-P0022)
+
+## B02-042: Great Hall approach to Deathday dungeon
+
+At seven the trio pass the Great Hall doorway and head down towards the dungeons. The party passage is lined with thin black candles burning blue; temperature drops along it. A corner leads to a doorway draped in black velvet.
+
+Evidence: explicit; state: 31 October 1992 Deathday party.
+
+Model: A roomier dungeon is the reported venue. No dungeon number or relation to Snape’s office is supplied.
+
+- [Book 2, ch. 8, “The Deathday Party”, ref p. 130–131, ¶71 (B02-C008-P0071)](../../build/reader/book-02.html#B02-C008-P0071)
+- [Book 2, ch. 8, “The Deathday Party”, ref p. 132, ¶84 (B02-C008-P0084)](../../build/reader/book-02.html#B02-C008-P0084)
+- [Book 2, ch. 8, “The Deathday Party”, ref p. 132–133, ¶85 (B02-C008-P0085)](../../build/reader/book-02.html#B02-C008-P0085)
+- [Book 2, ch. 8, “The Deathday Party”, ref p. 133, ¶86 (B02-C008-P0086)](../../build/reader/book-02.html#B02-C008-P0086)
+- [Book 2, ch. 8, “The Deathday Party”, ref p. 133, ¶87 (B02-C008-P0087)](../../build/reader/book-02.html#B02-C008-P0087)
+- [Book 2, ch. 8, “The Deathday Party”, ref p. 133, ¶88 (B02-C008-P0088)](../../build/reader/book-02.html#B02-C008-P0088)
+
+## B02-041: Great Hall — Hallowe’en 1992
+
+The Hall is decorated with live bats and huge pumpkin lanterns, large enough for three men to sit inside. Golden plates and candles glitter at the packed feast; dancing skeleton entertainment is only rumoured.
+
+Evidence: explicit; state: 31 October 1992.
+
+Model: Pumpkin scale is explicit but not numeric; keep the skeleton troupe unconfirmed.
+
+- [Book 2, ch. 8, “The Deathday Party”, ref p. 132, ¶82 (B02-C008-P0082)](../../build/reader/book-02.html#B02-C008-P0082)
+- [Book 2, ch. 8, “The Deathday Party”, ref p. 132, ¶84 (B02-C008-P0084)](../../build/reader/book-02.html#B02-C008-P0084)
+
+## B02-076: Great Hall — Duelling Club configuration
+
+Dining tables vanish and a golden stage appears along one wall, illuminated by thousands of hovering candles beneath a velvety-black ceiling. Pupils gather standing, then pair up throughout the Hall; Harry and Malfoy’s demonstration uses its middle.
+
+Evidence: explicit; state: Duelling Club, second week of December 1992.
+
+Model: Large clear-floor use and wall-side stage. Lockhart reaches a wall when blasted backwards off the stage; no permanent platform assumed.
+
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 190, ¶53 (B02-C011-P0053)](../../build/reader/book-02.html#B02-C011-P0053)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 190, ¶55 (B02-C011-P0055)](../../build/reader/book-02.html#B02-C011-P0055)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 190, ¶56 (B02-C011-P0056)](../../build/reader/book-02.html#B02-C011-P0056)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 191, ¶61 (B02-C011-P0061)](../../build/reader/book-02.html#B02-C011-P0061)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 191, ¶65 (B02-C011-P0065)](../../build/reader/book-02.html#B02-C011-P0065)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 192, ¶69 (B02-C011-P0069)](../../build/reader/book-02.html#B02-C011-P0069)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 192, ¶70 (B02-C011-P0070)](../../build/reader/book-02.html#B02-C011-P0070)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 192, ¶71 (B02-C011-P0071)](../../build/reader/book-02.html#B02-C011-P0071)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 193, ¶76 (B02-C011-P0076)](../../build/reader/book-02.html#B02-C011-P0076)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 194, ¶84 (B02-C011-P0084)](../../build/reader/book-02.html#B02-C011-P0084)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 194, ¶85 (B02-C011-P0085)](../../build/reader/book-02.html#B02-C011-P0085)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 194, ¶86 (B02-C011-P0086)](../../build/reader/book-02.html#B02-C011-P0086)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 194–195, ¶88 (B02-C011-P0088)](../../build/reader/book-02.html#B02-C011-P0088)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 195, ¶98 (B02-C011-P0098)](../../build/reader/book-02.html#B02-C011-P0098)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 195, ¶99 (B02-C011-P0099)](../../build/reader/book-02.html#B02-C011-P0099)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 195–196, ¶101 (B02-C011-P0101)](../../build/reader/book-02.html#B02-C011-P0101)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 196, ¶105 (B02-C011-P0105)](../../build/reader/book-02.html#B02-C011-P0105)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 196–197, ¶107 (B02-C011-P0107)](../../build/reader/book-02.html#B02-C011-P0107)
+
+## B02-077: Great Hall — conjured snake event
+
+Malfoy’s spell puts a long black snake on the floor. Lockhart sends it ten feet into the air before it lands and approaches Justin; Harry calms it with Parseltongue and Snape vanishes it in black smoke.
+
+Evidence: explicit; state: Duelling Club, December 1992.
+
+Model: Dated mobile hazard; no permanent serpent enclosure or Hall access rule implied.
+
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 195, ¶98 (B02-C011-P0098)](../../build/reader/book-02.html#B02-C011-P0098)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 195, ¶99 (B02-C011-P0099)](../../build/reader/book-02.html#B02-C011-P0099)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 195, ¶100 (B02-C011-P0100)](../../build/reader/book-02.html#B02-C011-P0100)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 195–196, ¶101 (B02-C011-P0101)](../../build/reader/book-02.html#B02-C011-P0101)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 196, ¶102 (B02-C011-P0102)](../../build/reader/book-02.html#B02-C011-P0102)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 196, ¶104 (B02-C011-P0104)](../../build/reader/book-02.html#B02-C011-P0104)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 196, ¶105 (B02-C011-P0105)](../../build/reader/book-02.html#B02-C011-P0105)
+
+## B02-087: Great Hall — enchanted Christmas snowfall
+
+Twelve frost-covered Christmas trees decorate the Hall. Thick holly and mistletoe streamers cross the ceiling, which releases enchanted warm dry snow during dinner.
+
+Evidence: explicit; state: 25 December 1992.
+
+Model: 1992 decoration differs from the previous Christmas; do not model the falling snow as wet indoor weather.
+
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 215, ¶65 (B02-C012-P0065)](../../build/reader/book-02.html#B02-C012-P0065)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 215, ¶66 (B02-C012-P0066)](../../build/reader/book-02.html#B02-C012-P0066)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 215, ¶67 (B02-C012-P0067)](../../build/reader/book-02.html#B02-C012-P0067)
+
+## B02-101: Great Hall — Valentine decorations and roving dwarfs
+
+Large vivid pink flowers cover all the walls; heart-shaped confetti falls from a pale-blue ceiling. Twelve dwarfs wearing gold wings and carrying harps march in through the Entrance Hall doors and spend the day entering classes to deliver Valentines.
+
+Evidence: explicit; state: 14 February 1993.
+
+Model: Dated decorative/event configuration, not permanent wall flowers.
+
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 238, ¶86 (B02-C013-P0086)](../../build/reader/book-02.html#B02-C013-P0086)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 238, ¶87 (B02-C013-P0087)](../../build/reader/book-02.html#B02-C013-P0087)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 238, ¶88 (B02-C013-P0088)](../../build/reader/book-02.html#B02-C013-P0088)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 238, ¶89 (B02-C013-P0089)](../../build/reader/book-02.html#B02-C013-P0089)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 238–239, ¶90 (B02-C013-P0090)](../../build/reader/book-02.html#B02-C013-P0090)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 239, ¶91 (B02-C013-P0091)](../../build/reader/book-02.html#B02-C013-P0091)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 239, ¶92 (B02-C013-P0092)](../../build/reader/book-02.html#B02-C013-P0092)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 239, ¶94 (B02-C013-P0094)](../../build/reader/book-02.html#B02-C013-P0094)
+- [Book 2, ch. 13, “The Very Secret Diary”, ref p. 239, ¶95 (B02-C013-P0095)](../../build/reader/book-02.html#B02-C013-P0095)
+
+## B02-109: Great Hall to library and pitch
+
+At the marble staircase after breakfast Harry hears the voice again. Hermione runs upstairs towards the library while other pupils leave the Great Hall through the front doors for the pitch. Harry collects his broom in Gryffindor Tower before crossing the grounds to the changing room.
+
+Evidence: explicit; state: Spring 1993.
+
+Model: Upstairs library route, front-door stadium route; voice location/mechanism still unresolved.
+
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 256–257, ¶49 (B02-C014-P0049)](../../build/reader/book-02.html#B02-C014-P0049)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶50 (B02-C014-P0050)](../../build/reader/book-02.html#B02-C014-P0050)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶51 (B02-C014-P0051)](../../build/reader/book-02.html#B02-C014-P0051)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶52 (B02-C014-P0052)](../../build/reader/book-02.html#B02-C014-P0052)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶53 (B02-C014-P0053)](../../build/reader/book-02.html#B02-C014-P0053)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶54 (B02-C014-P0054)](../../build/reader/book-02.html#B02-C014-P0054)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶55 (B02-C014-P0055)](../../build/reader/book-02.html#B02-C014-P0055)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶59 (B02-C014-P0059)](../../build/reader/book-02.html#B02-C014-P0059)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶60 (B02-C014-P0060)](../../build/reader/book-02.html#B02-C014-P0060)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257, ¶61 (B02-C014-P0061)](../../build/reader/book-02.html#B02-C014-P0061)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 257–258, ¶62 (B02-C014-P0062)](../../build/reader/book-02.html#B02-C014-P0062)
+
+## B02-161: Great Hall — recovery feast and restored school state
+
+An all-night feast is attended in pyjamas after the petrified victims recover; Hagrid returns at half past three. Exams are cancelled and normal summer school life resumes, except for cancelled Defence classes.
+
+Evidence: explicit; state: Late May–June 1993.
+
+Model: Closes emergency occupancy/access state; normal school life does not explicitly repair the underground rockfall or remove the basilisk corpse.
+
+- [Book 2, ch. 18, “Dobby’s Reward”, ref p. 333–334, ¶23 (B02-C018-P0023)](../../build/reader/book-02.html#B02-C018-P0023)
+- [Book 2, ch. 18, “Dobby’s Reward”, ref p. 334, ¶25 (B02-C018-P0025)](../../build/reader/book-02.html#B02-C018-P0025)
+- [Book 2, ch. 18, “Dobby’s Reward”, ref p. 334, ¶27 (B02-C018-P0027)](../../build/reader/book-02.html#B02-C018-P0027)
+- [Book 2, ch. 18, “Dobby’s Reward”, ref p. 343–344, ¶129 (B02-C018-P0129)](../../build/reader/book-02.html#B02-C018-P0129)
+- [Book 2, ch. 18, “Dobby’s Reward”, ref p. 344, ¶132 (B02-C018-P0132)](../../build/reader/book-02.html#B02-C018-P0132)
+
 ## B04-007: Entrance Hall to Great Hall
 
 Double doors on the right of the Entrance Hall lead into the Great Hall.
@@ -497,4 +662,144 @@ Model: Record local temporary damage and a path from the garden into the wider g
 - [Book 4, ch. 23, “The Yule Ball”, ref p. 449–450, ¶193 (B04-C023-P0193)](../../build/reader/book-04.html#B04-C023-P0193)
 - [Book 4, ch. 23, “The Yule Ball”, ref p. 451–452, ¶208 (B04-C023-P0208)](../../build/reader/book-04.html#B04-C023-P0208)
 - [Book 4, ch. 23, “The Yule Ball”, ref p. 452, ¶209 (B04-C023-P0209)](../../build/reader/book-04.html#B04-C023-P0209)
+
+## B04-209: Great Hall third-task evening state
+
+Bagman and Fudge join the staff table, Fudge next to Maxime, as the enchanted ceiling shifts from blue to dusky purple before departure for the task.
+
+Evidence: explicit; state: June 1995 preparation and 24 June third task; history where stated.
+
+Model: Dated seating and light transition.
+
+- [Book 4, ch. 31, “The Third Task”, ref p. 653–654, ¶119 (B04-C031-P0119)](../../build/reader/book-04.html#B04-C031-P0119)
+- [Book 4, ch. 31, “The Third Task”, ref p. 654, ¶120 (B04-C031-P0120)](../../build/reader/book-04.html#B04-C031-P0120)
+- [Book 4, ch. 31, “The Third Task”, ref p. 654, ¶121 (B04-C031-P0121)](../../build/reader/book-04.html#B04-C031-P0121)
+- [Book 4, ch. 31, “The Third Task”, ref p. 654, ¶122 (B04-C031-P0122)](../../build/reader/book-04.html#B04-C031-P0122)
+
+## B04-238: Great Hall memorial feast
+
+For the Leaving Feast the usual winning-house decorations are absent. Black mourning drapes hang behind the staff table. Maxime sits beside Hagrid, Snape beside McGonagall, and Karkaroff’s chair is empty. Pupils rise from benches to toast Cedric.
+
+Evidence: explicit; state: Late June–end of school year 1995.
+
+Model: Dated mourning layout and seating; confirms benches at the house tables.
+
+- [Book 4, ch. 37, “The Beginning”, ref p. 761–762, ¶37 (B04-C037-P0037)](../../build/reader/book-04.html#B04-C037-P0037)
+- [Book 4, ch. 37, “The Beginning”, ref p. 762, ¶38 (B04-C037-P0038)](../../build/reader/book-04.html#B04-C037-P0038)
+- [Book 4, ch. 37, “The Beginning”, ref p. 762, ¶39 (B04-C037-P0039)](../../build/reader/book-04.html#B04-C037-P0039)
+- [Book 4, ch. 37, “The Beginning”, ref p. 762–763, ¶40 (B04-C037-P0040)](../../build/reader/book-04.html#B04-C037-P0040)
+- [Book 4, ch. 37, “The Beginning”, ref p. 763, ¶42 (B04-C037-P0042)](../../build/reader/book-04.html#B04-C037-P0042)
+- [Book 4, ch. 37, “The Beginning”, ref p. 763, ¶44 (B04-C037-P0044)](../../build/reader/book-04.html#B04-C037-P0044)
+- [Book 4, ch. 37, “The Beginning”, ref p. 763–764, ¶45 (B04-C037-P0045)](../../build/reader/book-04.html#B04-C037-P0045)
+- [Book 4, ch. 37, “The Beginning”, ref p. 764, ¶46 (B04-C037-P0046)](../../build/reader/book-04.html#B04-C037-P0046)
+- [Book 4, ch. 37, “The Beginning”, ref p. 764, ¶47 (B04-C037-P0047)](../../build/reader/book-04.html#B04-C037-P0047)
+- [Book 4, ch. 37, “The Beginning”, ref p. 766, ¶59 (B04-C037-P0059)](../../build/reader/book-04.html#B04-C037-P0059)
+
+## B06-018: Great Hall table arrangement
+
+The Great Hall contains four long house tables with benches and a staff table at the top. Gryffindor’s table is furthest from the Entrance Hall; Harry passes the Hufflepuff table on his way there.
+
+Evidence: explicit; state: Evening arrival, 1 September 1996.
+
+Model: Relative ordering only: do not assign all four tables left-to-right or a compass direction from this walk alone.
+
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 167, ¶56 (B06-C008-P0056)](../../build/reader/book-06.html#B06-C008-P0056)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 167, ¶58 (B06-C008-P0058)](../../build/reader/book-06.html#B06-C008-P0058)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 174–175, ¶115 (B06-C008-P0115)](../../build/reader/book-06.html#B06-C008-P0115)
+
+## B06-019: Great Hall candlelight and acoustics
+
+Floating candles illuminate the feast and make the plates glitter. Talk and laughter echo around the Hall.
+
+Evidence: explicit; state: Evening arrival, 1 September 1996.
+
+Model: Suspended magical lighting and reverberant acoustic character; no ceiling geometry added here.
+
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 167, ¶58 (B06-C008-P0058)](../../build/reader/book-06.html#B06-C008-P0058)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 170–171, ¶85 (B06-C008-P0085)](../../build/reader/book-06.html#B06-C008-P0085)
+
+## B06-020: Great Hall meal service
+
+Chicken and chips vanish from the table and are replaced by puddings.
+
+Evidence: explicit; state: Evening arrival, 1 September 1996.
+
+Model: Temporary meal transition, not fixed table-top clutter; source mechanism not explained here.
+
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 168, ¶68 (B06-C008-P0068)](../../build/reader/book-06.html#B06-C008-P0068)
+
+## B06-025: Great Hall ceiling and windows
+
+The ceiling shows blue sky and thin wispy clouds matching the real sky visible through high mullioned windows.
+
+Evidence: explicit; state: First school day, September 1996.
+
+Model: Matching magical sky appearance and high subdivided windows; no statement of structural openness to weather.
+
+- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 178, ¶12 (B06-C009-P0012)](../../build/reader/book-06.html#B06-C009-P0012)
+
+## B06-041: Great Hall staff furniture
+
+Hagrid has a huge chair at the staff table; the Headmaster also has an identifiable chair there.
+
+Evidence: explicit; state: September 1996.
+
+Model: Differing chair scale/occupancy positions, without measured sizes or exact seating coordinates.
+
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 225–226, ¶4 (B06-C011-P0004)](../../build/reader/book-06.html#B06-C011-P0004)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 230, ¶39 (B06-C011-P0039)](../../build/reader/book-06.html#B06-C011-P0039)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 230, ¶40 (B06-C011-P0040)](../../build/reader/book-06.html#B06-C011-P0040)
+
+## B06-042: Great Hall owl access
+
+Post owls swoop through the rain-flecked windows, scatter water droplets over diners and land at the tables.
+
+Evidence: explicit; state: September 1996.
+
+Model: Windows function as bird-entry openings. Rainy ceiling at P0013 is a sky appearance; Harry’s feeling of heat is embarrassment, not objective room temperature.
+
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 227–228, ¶18 (B06-C011-P0018)](../../build/reader/book-06.html#B06-C011-P0018)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 228, ¶25 (B06-C011-P0025)](../../build/reader/book-06.html#B06-C011-P0025)
+
+## B06-096: Sorting Hat office shelf
+
+The ancient Sorting Hat sits unmoving on a shelf above Dumbledore’s head.
+
+Evidence: explicit; state: January 1997.
+
+Model: Shelf position relative to seated Headmaster; do not infer a specific wall or shelf height.
+
+- [Book 6, ch. 17, “A Sluggish Memory”, ref p. 375, ¶116 (B06-C017-P0116)](../../build/reader/book-06.html#B06-C017-P0116)
+
+## B06-103: Great Hall cleared for Apparition
+
+The Hall’s tables disappear for the lesson, leaving floor space for pupils. Rain strikes the high windows and the enchanted ceiling swirls darkly above. Students are instructed to leave five feet clear in front of each person, and wooden hoops appear on the dusty floor at their destinations.
+
+Evidence: explicit; state: First Apparition lesson, February 1997.
+
+Model: Temporary teaching layout with explicit five-foot displacement exemplified by Susan’s Splinching. No hoop diameter or Hall dimension supplied; tables are absent, not destroyed.
+
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 399, ¶72 (B06-C018-P0072)](../../build/reader/book-06.html#B06-C018-P0072)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 400, ¶78 (B06-C018-P0078)](../../build/reader/book-06.html#B06-C018-P0078)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 400, ¶79 (B06-C018-P0079)](../../build/reader/book-06.html#B06-C018-P0079)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 401, ¶88 (B06-C018-P0088)](../../build/reader/book-06.html#B06-C018-P0088)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 401, ¶90 (B06-C018-P0090)](../../build/reader/book-06.html#B06-C018-P0090)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 401–402, ¶91 (B06-C018-P0091)](../../build/reader/book-06.html#B06-C018-P0091)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 403, ¶101 (B06-C018-P0101)](../../build/reader/book-06.html#B06-C018-P0101)
+
+## B06-104: Great Hall Apparition exception
+
+Twycross explains that Dumbledore has lifted Hogwarts’s anti-Apparition enchantment only inside the Great Hall and only for one hour. He warns that nobody can Apparate beyond the Hall’s walls. Students attempt local moves; Twycross vanishes and reappears at the back of the Hall. The hoops vanish after the lesson.
+
+Evidence: reported; state: First Apparition lesson, February 1997.
+
+Model: Rule and duration are reported; local Apparition is witnessed. Maintain a bounded temporary exception, not unrestricted Apparition on the grounds.
+
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 400, ¶77 (B06-C018-P0077)](../../build/reader/book-06.html#B06-C018-P0077)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 403, ¶101 (B06-C018-P0101)](../../build/reader/book-06.html#B06-C018-P0101)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 403, ¶102 (B06-C018-P0102)](../../build/reader/book-06.html#B06-C018-P0102)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 403, ¶103 (B06-C018-P0103)](../../build/reader/book-06.html#B06-C018-P0103)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 403, ¶104 (B06-C018-P0104)](../../build/reader/book-06.html#B06-C018-P0104)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 403, ¶106 (B06-C018-P0106)](../../build/reader/book-06.html#B06-C018-P0106)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 403–404, ¶107 (B06-C018-P0107)](../../build/reader/book-06.html#B06-C018-P0107)
 

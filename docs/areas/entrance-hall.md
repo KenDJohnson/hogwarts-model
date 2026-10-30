@@ -81,6 +81,58 @@ Model: Reported actual return, but no explicit confirmation of the proposed broo
 - [Book 1, ch. 17, “The Man with Two Faces”, ref p. 307, ¶157 (B01-C017-P0157)](../../build/reader/book-01.html#B01-C017-P0157)
 - [Book 1, ch. 17, “The Man with Two Faces”, ref p. 307, ¶158 (B01-C017-P0158)](../../build/reader/book-01.html#B01-C017-P0158)
 
+## B02-011: Entrance Hall to Snape’s office
+
+Snape takes them up the steps into the vast torchlit echoing Entrance Hall, then down a narrow stone staircase into the dungeons, opening a door halfway along a cold passage to his office.
+
+Evidence: explicit; state: 1 September 1992 arrival.
+
+Model: Office door is halfway along this passage; passage length and dungeon level are not specified.
+
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 78, ¶124 (B02-C005-P0124)](../../build/reader/book-02.html#B02-C005-P0124)
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 78, ¶125 (B02-C005-P0125)](../../build/reader/book-02.html#B02-C005-P0125)
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 78, ¶126 (B02-C005-P0126)](../../build/reader/book-02.html#B02-C005-P0126)
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 78, ¶127 (B02-C005-P0127)](../../build/reader/book-02.html#B02-C005-P0127)
+
+## B02-031: Hagrid’s cabin to Entrance Hall
+
+The pupils walk back uphill to the castle and enter the cool Entrance Hall before proceeding into the Great Hall for lunch.
+
+Evidence: explicit; state: September 1992, first Saturday.
+
+Model: Confirms castle above hut approach; no path material or precise distance.
+
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 119, ¶136 (B02-C007-P0136)](../../build/reader/book-02.html#B02-C007-P0136)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 119, ¶137 (B02-C007-P0137)](../../build/reader/book-02.html#B02-C007-P0137)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 120, ¶144 (B02-C007-P0144)](../../build/reader/book-02.html#B02-C007-P0144)
+
+## B02-075: Entrance Hall noticeboard
+
+A noticeboard in the Entrance Hall holds the newly pinned Duelling Club announcement.
+
+Evidence: explicit; state: November–December 1992.
+
+Model: A fixed noticeboard location, without side of hall or mounting height.
+
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 189, ¶49 (B02-C011-P0049)](../../build/reader/book-02.html#B02-C011-P0049)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 189, ¶50 (B02-C011-P0050)](../../build/reader/book-02.html#B02-C011-P0050)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 189–190, ¶51 (B02-C011-P0051)](../../build/reader/book-02.html#B02-C011-P0051)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 190, ¶52 (B02-C011-P0052)](../../build/reader/book-02.html#B02-C011-P0052)
+
+## B02-088: Entrance Hall — banisters, armour and cleaning cupboard
+
+Cakes are set on the end of the banisters. Harry and Ron hide behind a suit of armour next to the front door, then move Crabbe and Goyle into a cupboard across the Hall among buckets and mops.
+
+Evidence: explicit; state: December 1992.
+
+Model: Specific entrance furnishings and cupboard relation. Banisters are not given an explicit height; cupboard is initially proposed as a broom cupboard.
+
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 216, ¶69 (B02-C012-P0069)](../../build/reader/book-02.html#B02-C012-P0069)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 216–217, ¶80 (B02-C012-P0080)](../../build/reader/book-02.html#B02-C012-P0080)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 217, ¶81 (B02-C012-P0081)](../../build/reader/book-02.html#B02-C012-P0081)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 217, ¶82 (B02-C012-P0082)](../../build/reader/book-02.html#B02-C012-P0082)
+- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 227–228, ¶197 (B02-C012-P0197)](../../build/reader/book-02.html#B02-C012-P0197)
+
 ## B04-006: Entrance Hall
 
 The Entrance Hall is cavernous and torch-lit and contains a magnificent marble staircase. Peeves hovers twenty feet above arriving pupils; water balloons leave the floor wet and slippery.
@@ -209,4 +261,83 @@ Model: Preserve the upper route and local classroom proximity; the office’s ex
 - [Book 4, ch. 20, “The First Task”, ref p. 358, ¶39 (B04-C020-P0039)](../../build/reader/book-04.html#B04-C020-P0039)
 - [Book 4, ch. 20, “The First Task”, ref p. 358, ¶41 (B04-C020-P0041)](../../build/reader/book-04.html#B04-C020-P0041)
 - [Book 4, ch. 20, “The First Task”, ref p. 358, ¶43 (B04-C020-P0043)](../../build/reader/book-04.html#B04-C020-P0043)
+
+## B06-017: Front entrance and Entrance Hall
+
+Castle steps lead to great oaken front doors opening into a vast flagstone-floored Entrance Hall. Open doors from the Entrance Hall transmit Great Hall talk, laughter and clinking crockery.
+
+Evidence: explicit; state: Evening arrival, 1 September 1996.
+
+Model: Direct front-door → Entrance Hall → Great Hall connection. Flagstone size, hall height and door dimensions unspecified.
+
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 167, ¶56 (B06-C008-P0056)](../../build/reader/book-06.html#B06-C008-P0056)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 176, ¶130 (B06-C008-P0130)](../../build/reader/book-06.html#B06-C008-P0130)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 176, ¶132 (B06-C008-P0132)](../../build/reader/book-06.html#B06-C008-P0132)
+
+## B06-050: Entrance Hall security screening
+
+Hermione reports that Filch screened arriving students with Secrecy Sensors in the Entrance Hall and confiscated Crabbe’s shrunken head. She also relays Filch’s statement that incoming owls are checked.
+
+Evidence: reported; state: September 1996.
+
+Model: Operational 1996 security state; Harry himself missed screening due to late arrival, so it is not a universal impenetrable check.
+
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 243, ¶151 (B06-C011-P0151)](../../build/reader/book-06.html#B06-C011-P0151)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 243–244, ¶152 (B06-C011-P0152)](../../build/reader/book-06.html#B06-C011-P0152)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 244, ¶153 (B06-C011-P0153)](../../build/reader/book-06.html#B06-C011-P0153)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 244, ¶155 (B06-C011-P0155)](../../build/reader/book-06.html#B06-C011-P0155)
+- [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 244, ¶156 (B06-C011-P0156)](../../build/reader/book-06.html#B06-C011-P0156)
+
+## B06-058: Entrance Hall–McGonagall office
+
+McGonagall meets the group on the castle’s stone steps, takes them through the Entrance Hall and upstairs to her office. Afterward the students climb further stairs to the Gryffindor common room.
+
+Evidence: explicit; state: Mid-October 1996 Hogsmeade day.
+
+Model: Office lies above Entrance Hall and below at least some of the route to Gryffindor; exact floor not stated.
+
+- [Book 6, ch. 12, “Silver and Opals”, ref p. 261, ¶145 (B06-C012-P0145)](../../build/reader/book-06.html#B06-C012-P0145)
+- [Book 6, ch. 12, “Silver and Opals”, ref p. 261, ¶146 (B06-C012-P0146)](../../build/reader/book-06.html#B06-C012-P0146)
+- [Book 6, ch. 12, “Silver and Opals”, ref p. 261, ¶148 (B06-C012-P0148)](../../build/reader/book-06.html#B06-C012-P0148)
+- [Book 6, ch. 12, “Silver and Opals”, ref p. 261–262, ¶149 (B06-C012-P0149)](../../build/reader/book-06.html#B06-C012-P0149)
+- [Book 6, ch. 12, “Silver and Opals”, ref p. 265, ¶183 (B06-C012-P0183)](../../build/reader/book-06.html#B06-C012-P0183)
+- [Book 6, ch. 12, “Silver and Opals”, ref p. 265, ¶185 (B06-C012-P0185)](../../build/reader/book-06.html#B06-C012-P0185)
+
+## B06-084: Entrance Hall–Slughorn office
+
+Harry meets Luna in the Entrance Hall, then leads her up the marble staircase to Slughorn’s office. Party music, laughter and conversation become louder as they approach.
+
+Evidence: explicit; state: Before Christmas holidays, December 1996.
+
+Model: Upward route from Entrance Hall; no total floors traversed or claim that office directly opens onto the staircase.
+
+- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 327, ¶103 (B06-C015-P0103)](../../build/reader/book-06.html#B06-C015-P0103)
+- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 327, ¶105 (B06-C015-P0105)](../../build/reader/book-06.html#B06-C015-P0105)
+- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 327, ¶106 (B06-C015-P0106)](../../build/reader/book-06.html#B06-C015-P0106)
+- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 327, ¶110 (B06-C015-P0110)](../../build/reader/book-06.html#B06-C015-P0110)
+
+## B06-105: Entrance Hall–Gryffindor fourth-floor detour
+
+Returning to Gryffindor Tower, Harry and Ron meet a fourth-floor door jammed shut by Peeves. They turn back and use a familiar shortcut, reaching the portrait hole within five minutes.
+
+Evidence: explicit; state: First Apparition lesson day, February 1997.
+
+Model: Local blocked-door event and alternate route; time is narrative travel time at a run, not a scale ruler or complete shortcut map.
+
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 404, ¶112 (B06-C018-P0112)](../../build/reader/book-06.html#B06-C018-P0112)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 404, ¶113 (B06-C018-P0113)](../../build/reader/book-06.html#B06-C018-P0113)
+
+## B06-112: Hospital wing–marble staircase–Gryffindor route
+
+Leaving the ward, Harry, Hermione and Hagrid walk along a corridor towards the marble staircase. Further along the return route a corner lets Filch’s shadow appear on the wall before he turns into view; a turning leads towards Gryffindor Tower.
+
+Evidence: explicit; state: Late evening of 1 March 1997.
+
+Model: Route sequence only; does not prove each described segment is adjacent or fix staircase landing level.
+
+- [Book 6, ch. 19, “Elf Tails”, ref p. 421, ¶54 (B06-C019-P0054)](../../build/reader/book-06.html#B06-C019-P0054)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 424, ¶74 (B06-C019-P0074)](../../build/reader/book-06.html#B06-C019-P0074)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 424, ¶80 (B06-C019-P0080)](../../build/reader/book-06.html#B06-C019-P0080)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 424, ¶81 (B06-C019-P0081)](../../build/reader/book-06.html#B06-C019-P0081)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 424–425, ¶84 (B06-C019-P0084)](../../build/reader/book-06.html#B06-C019-P0084)
 
