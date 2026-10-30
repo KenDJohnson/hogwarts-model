@@ -824,6 +824,416 @@
       "certainty": "explicit",
       "temporal": "31 October 1992 first Chamber attack",
       "model_notes": "Dated attack state with two-ended circulation, windows and bracket; no ink material, window spacing or exact stair count."
+    },
+    {
+      "id": "B02-048",
+      "location": "Attack corridor to Lockhart’s office",
+      "category": "route",
+      "description": "Lockhart offers his office as nearest and just upstairs from the attack scene. The party enters its darkened interior, where desk candles are lit and the petrified cat is laid on a polished desk while others sit in chairs.",
+      "evidence": [
+        "B02-C009-P0007",
+        "B02-C009-P0008",
+        "B02-C009-P0009",
+        "B02-C009-P0010",
+        "B02-C009-P0011",
+        "B02-C009-P0012",
+        "B02-C009-P0013",
+        "B02-C009-P0014",
+        "B02-C009-P0016",
+        "B02-C009-P0019"
+      ],
+      "certainty": "reported",
+      "temporal": "31 October 1992, immediately after attack",
+      "model_notes": "Just upstairs conflicts with chapter 7’s second-floor office and chapter 8’s second-floor attack route. Preserve source statements independently."
+    },
+    {
+      "id": "B02-049",
+      "location": "Empty classroom above Lockhart’s office",
+      "category": "route",
+      "description": "Leaving the office, the trio go one floor up, enter an empty classroom and close the door to confer. A distant clock chimes midnight.",
+      "evidence": [
+        "B02-C009-P0049",
+        "B02-C009-P0050",
+        "B02-C009-P0060",
+        "B02-C009-P0061"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night of 31 October 1992",
+      "model_notes": "Relative office-plus-one floor, with no absolute floor assigned because of office-placement conflict."
+    },
+    {
+      "id": "B02-050",
+      "location": "Attack corridor — resistant writing and guard chair",
+      "category": "temporary",
+      "description": "Filch’s magical cleaning fluid fails to remove the shining words from the stone wall. Later the cat is gone and an empty guard chair stands against the message wall.",
+      "evidence": [
+        "B02-C009-P0063",
+        "B02-C009-P0135",
+        "B02-C009-P0136",
+        "B02-C009-P0137"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1992, after first attack",
+      "model_notes": "Dated persistent inscription and movable chair. Material of the writing remains unknown."
+    },
+    {
+      "id": "B02-051",
+      "location": "Potions classroom — tubeworm cleanup",
+      "category": "temporary",
+      "description": "Harry is kept after Potions to scrape tubeworms from the desks.",
+      "evidence": [
+        "B02-C009-P0067"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1992, after first attack",
+      "model_notes": "Adds desk cleanup state; no permanent infestation implied."
+    },
+    {
+      "id": "B02-052",
+      "location": "History of Magic classroom and staff-room memory",
+      "category": "interior",
+      "description": "Binns enters his classroom through the blackboard; the room has pupil desks and a window through which Dean looks. His death story places an armchair in front of the staff-room fire.",
+      "evidence": [
+        "B02-C009-P0084",
+        "B02-C009-P0085",
+        "B02-C009-P0089"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1992, after first attack",
+      "model_notes": "Classroom fixtures directly narrated; death anecdote reports historical armchair/hearth arrangement without date."
+    },
+    {
+      "id": "B02-053",
+      "location": "Hogwarts foundation — secluded castle",
+      "category": "history",
+      "description": "Binns says the four founders built the castle together more than a thousand years earlier, at an uncertain date, far from Muggle observation during an age of persecution.",
+      "evidence": [
+        "B02-C009-P0099",
+        "B02-C009-P0100",
+        "B02-C009-P0102"
+      ],
+      "certainty": "reported",
+      "temporal": "November 1992, after first attack",
+      "model_notes": "Historical report of age and seclusion; no foundation plan or location coordinates."
+    },
+    {
+      "id": "B02-054",
+      "location": "Chamber of Secrets — founder legend",
+      "category": "history",
+      "description": "Binns recounts the legend that Slytherin secretly built and sealed a chamber in the castle, unknown to the other founders, which only his true heir could unseal to release a controllable monster against supposedly unworthy pupils.",
+      "evidence": [
+        "B02-C009-P0102",
+        "B02-C009-P0103",
+        "B02-C009-P0107",
+        "B02-C009-P0108"
+      ],
+      "certainty": "reported",
+      "temporal": "November 1992, after first attack",
+      "model_notes": "A contested legend at this point; not observed chamber geometry or a verified biological access rule."
+    },
+    {
+      "id": "B02-055",
+      "location": "Chamber of Secrets — unsuccessful searches",
+      "category": "history",
+      "description": "Binns says learned witches and wizards, including successive heads, have searched the school repeatedly without finding a chamber, and denies that it or its monster exists.",
+      "evidence": [
+        "B02-C009-P0105",
+        "B02-C009-P0110",
+        "B02-C009-P0111",
+        "B02-C009-P0112",
+        "B02-C009-P0113",
+        "B02-C009-P0114",
+        "B02-C009-P0115",
+        "B02-C009-P0116"
+      ],
+      "certainty": "reported",
+      "temporal": "November 1992, after first attack",
+      "model_notes": "Reported negative search history and interpretation. Lack of discovery must not erase later positive observations."
+    },
+    {
+      "id": "B02-056",
+      "location": "Attack corridor — scorch marks and spider window",
+      "category": "interior",
+      "description": "Harry finds scorch marks on the corridor floor. At the window next to the writing, about twenty spiders climb a long silvery thread and crowd a small crack in the topmost glass pane, apparently trying to escape outdoors.",
+      "evidence": [
+        "B02-C009-P0138",
+        "B02-C009-P0139",
+        "B02-C009-P0140",
+        "B02-C009-P0141",
+        "B02-C009-P0142"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1992, after first attack",
+      "model_notes": "Physical marks, cracked high pane and external opening; reason for spider flight not yet demonstrated."
+    },
+    {
+      "id": "B02-057",
+      "location": "Attack corridor to Myrtle’s bathroom",
+      "category": "route",
+      "description": "A few paces beyond Filch’s chair, at the former puddle’s level, a brass-knobbed door marked Out of Order leads into Myrtle’s girls’ toilet. Hermione calls the cat’s attack site immediately outside its front door. Percy later appears at the head of nearby stairs.",
+      "evidence": [
+        "B02-C009-P0151",
+        "B02-C009-P0152",
+        "B02-C009-P0153",
+        "B02-C009-P0155",
+        "B02-C009-P0156",
+        "B02-C009-P0157",
+        "B02-C009-P0170",
+        "B02-C009-P0176",
+        "B02-C009-P0178",
+        "B02-C009-P0179",
+        "B02-C009-P0182"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1992, after first attack",
+      "model_notes": "Observed adjacency ties bathroom to the previously narrated second-floor corridor; conflicts with Hermione’s first-floor report in chapter 8."
+    },
+    {
+      "id": "B02-058",
+      "location": "Myrtle’s bathroom — finishes and fixtures",
+      "category": "interior",
+      "description": "A large cracked spotted dirty mirror hangs above a row of chipped stone sinks. Damp flooring reflects dim light from low candle stubs in holders. Wooden cubicle doors are scratched and flaking, with one hanging from its hinges.",
+      "evidence": [
+        "B02-C009-P0158",
+        "B02-C009-P0159",
+        "B02-C009-P0160",
+        "B02-C009-P0163"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1992, after first attack",
+      "model_notes": "Detailed neglected state; no sink or cubicle count. The end cubicle contains a toilet with a cistern."
+    },
+    {
+      "id": "B02-059",
+      "location": "Myrtle’s bathroom — ghost and toilet water",
+      "category": "magic",
+      "description": "Myrtle floats on the end-cubicle cistern, then dives headfirst into the toilet, splashing the visitors; muffled sobbing comes from the U-bend.",
+      "evidence": [
+        "B02-C009-P0159",
+        "B02-C009-P0160",
+        "B02-C009-P0161",
+        "B02-C009-P0167",
+        "B02-C009-P0169",
+        "B02-C009-P0172",
+        "B02-C009-P0173",
+        "B02-C009-P0174",
+        "B02-C009-P0175",
+        "B02-C009-P0176"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1992, after first attack",
+      "model_notes": "Ghost interaction with water and plumbing is observed; no human-accessible tunnel is established here."
+    },
+    {
+      "id": "B02-060",
+      "location": "Restricted library books — borrowing rule",
+      "category": "interior",
+      "description": "Borrowing a book from the Restricted Section requires a teacher’s signed permission note.",
+      "evidence": [
+        "B02-C009-P0210",
+        "B02-C009-P0211",
+        "B02-C009-P0212",
+        "B02-C009-P0213",
+        "B02-C009-P0214"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1992, after first attack",
+      "model_notes": "Repeated rule now explicitly concerns checking out a book; not a magical ward description."
+    },
+    {
+      "id": "B02-061",
+      "location": "Library — permission and lofty shelves",
+      "category": "interior",
+      "description": "Pince inspects the teacher’s note against the light, then retrieves the restricted potion book from among lofty shelves. The library is markedly quiet.",
+      "evidence": [
+        "B02-C010-P0010",
+        "B02-C010-P0013",
+        "B02-C010-P0014",
+        "B02-C010-P0019",
+        "B02-C010-P0021",
+        "B02-C010-P0023",
+        "B02-C010-P0025",
+        "B02-C010-P0026"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1992",
+      "model_notes": "Observed administrative access, no automatic magical authentication or measured shelf height."
+    },
+    {
+      "id": "B02-062",
+      "location": "Library to Myrtle’s bathroom — private worksite",
+      "category": "route",
+      "description": "Within five minutes of leaving the library the trio barricade themselves in the out-of-order bathroom. Myrtle occupies her own cubicle; Hermione chooses the room because other pupils avoid it.",
+      "evidence": [
+        "B02-C010-P0026",
+        "B02-C010-P0027",
+        "B02-C010-P0028",
+        "B02-C010-P0042"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1992",
+      "model_notes": "Five minutes is this narrated transition, not a measured distance or direct adjacency."
+    },
+    {
+      "id": "B02-063",
+      "location": "Potion ingredients — student cupboard and private stores",
+      "category": "furnishing",
+      "description": "Hermione says common ingredients can be taken from the student store-cupboard. Harry distinguishes rarer materials unavailable there and proposes breaking into Snape’s private stores.",
+      "evidence": [
+        "B02-C010-P0030",
+        "B02-C010-P0035",
+        "B02-C010-P0039",
+        "B02-C010-P0040"
+      ],
+      "certainty": "reported",
+      "temporal": "November 1992",
+      "model_notes": "Reported separate storage provisions; lock status and locations are not yet observed."
+    },
+    {
+      "id": "B02-064",
+      "location": "Madam Hooch’s office — Bludger storage",
+      "category": "furnishing",
+      "description": "Wood says the Bludgers have been kept locked in Madam Hooch’s office since the last practice.",
+      "evidence": [
+        "B02-C010-P0062",
+        "B02-C010-P0063",
+        "B02-C010-P0065",
+        "B02-C010-P0066",
+        "B02-C010-P0067"
+      ],
+      "certainty": "reported",
+      "temporal": "November 1992",
+      "model_notes": "Reported office storage and locked access; no office floor or link to the changing room."
+    },
+    {
+      "id": "B02-065",
+      "location": "Quidditch pitch — rain, mud and rogue Bludger",
+      "category": "temporary",
+      "description": "Heavy rain reduces visibility during the match and turns the landing surface muddy. One Bludger repeatedly pursues Harry despite being struck away; after the match the twins restrain it in a box.",
+      "evidence": [
+        "B02-C010-P0052",
+        "B02-C010-P0054",
+        "B02-C010-P0055",
+        "B02-C010-P0056",
+        "B02-C010-P0057",
+        "B02-C010-P0059",
+        "B02-C010-P0060",
+        "B02-C010-P0061",
+        "B02-C010-P0064",
+        "B02-C010-P0079",
+        "B02-C010-P0080",
+        "B02-C010-P0081",
+        "B02-C010-P0084",
+        "B02-C010-P0087",
+        "B02-C010-P0088",
+        "B02-C010-P0091",
+        "B02-C010-P0100"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1992",
+      "model_notes": "A temporary altered ball behaviour, not a change to the pitch’s normal boundaries or rules."
+    },
+    {
+      "id": "B02-066",
+      "location": "Hospital wing — privacy curtains and bedside supplies",
+      "category": "interior",
+      "description": "A curtain can be drawn around Harry’s bed for changing. A bedside table holds a water jug; bed pillows and supplies for water and medicine are available. Visitors enter through the ward door.",
+      "evidence": [
+        "B02-C010-P0112",
+        "B02-C010-P0113",
+        "B02-C010-P0114",
+        "B02-C010-P0117",
+        "B02-C010-P0118",
+        "B02-C010-P0119",
+        "B02-C010-P0120",
+        "B02-C010-P0123",
+        "B02-C010-P0125",
+        "B02-C010-P0127",
+        "B02-C010-P0130",
+        "B02-C010-P0134",
+        "B02-C010-P0153",
+        "B02-C010-P0155",
+        "B02-C010-P0161",
+        "B02-C010-P0162"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1992",
+      "model_notes": "Adds curtained bedside privacy and water vessel; no unsupported curtain track geometry."
+    },
+    {
+      "id": "B02-067",
+      "location": "Hospital wing — Dobby’s disappearance",
+      "category": "magic",
+      "description": "Dobby appears at Harry’s bedside during the dark night and, hearing approaching footsteps, vanishes with a loud crack while Harry is holding his wrist.",
+      "evidence": [
+        "B02-C010-P0130",
+        "B02-C010-P0131",
+        "B02-C010-P0132",
+        "B02-C010-P0134",
+        "B02-C010-P0161",
+        "B02-C010-P0162"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1992",
+      "model_notes": "Observed departure inside Hogwarts. Arrival itself is not witnessed and the mechanism is not named here."
+    },
+    {
+      "id": "B02-068",
+      "location": "Sealed school gateway — Dobby’s admission",
+      "category": "magic",
+      "description": "Dobby admits hiding at King’s Cross and sealing the gateway to prevent Harry reaching the school train.",
+      "evidence": [
+        "B02-C010-P0133",
+        "B02-C010-P0135",
+        "B02-C010-P0136",
+        "B02-C010-P0137",
+        "B02-C010-P0138",
+        "B02-C010-P0139",
+        "B02-C010-P0140"
+      ],
+      "certainty": "reported",
+      "temporal": "November 1992",
+      "model_notes": "Resolves the temporary transport obstruction’s cause by character admission; no claim that the normal gateway closes at eleven."
+    },
+    {
+      "id": "B02-069",
+      "location": "Hospital wing — beds, passage and matron access",
+      "category": "interior",
+      "description": "Dumbledore and McGonagall carry Colin in from the outside passage and lay him on a bed three beds from Harry. McGonagall passes Harry’s bed to fetch Pomfrey and returns with her; moonlight illuminates Colin.",
+      "evidence": [
+        "B02-C010-P0161",
+        "B02-C010-P0162",
+        "B02-C010-P0163",
+        "B02-C010-P0164",
+        "B02-C010-P0165",
+        "B02-C010-P0168",
+        "B02-C010-P0169",
+        "B02-C010-P0176"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1992",
+      "model_notes": "At least the observed relative bed spacing; do not invent a precise total bed count or an adjoining matron bedroom."
+    },
+    {
+      "id": "B02-070",
+      "location": "Staircase attack on Colin",
+      "category": "temporary",
+      "description": "McGonagall says she found the petrified Colin on the stairs beside grapes, apparently trying to visit Harry; Dumbledore had been heading downstairs for hot chocolate.",
+      "evidence": [
+        "B02-C010-P0166",
+        "B02-C010-P0167",
+        "B02-C010-P0169",
+        "B02-C010-P0170",
+        "B02-C010-P0171",
+        "B02-C010-P0172",
+        "B02-C010-P0174",
+        "B02-C010-P0176",
+        "B02-C010-P0177",
+        "B02-C010-P0179"
+      ],
+      "certainty": "reported",
+      "temporal": "November 1992",
+      "model_notes": "Reported find location and guessed destination; no floor, particular staircase or kitchen route established."
     }
   ],
   "chapter_reviews": [
@@ -914,6 +1324,28 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter read. Recorded first-floor Myrtle report and explicit second-floor attack route separately; no silent floor reconciliation. Vanishing cabinet identity and overhead cause labelled as reports."
+    },
+    {
+      "chapter": 9,
+      "reviewed_ranges": [
+        [
+          1,
+          214
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Recorded office-floor conflict and toilet adjacency explicitly. Founders’ account, chamber legend and unsuccessful searches remain reported history rather than observed geometry."
+    },
+    {
+      "chapter": 10,
+      "reviewed_ranges": [
+        [
+          1,
+          183
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Dobby’s disappearance observed without naming its mechanism; Colin’s staircase location remains a teacher report and intended visit an inference."
     }
   ]
 }
