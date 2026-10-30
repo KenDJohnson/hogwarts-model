@@ -3854,6 +3854,131 @@
       "certainty": "reported",
       "temporal": "Night of 24–25 June 1995",
       "model_notes": "Reported incident proves the policy was not an automatically impassable physical or magical boundary. It adds no reported building damage."
+    },
+    {
+      "id": "B04-237",
+      "location": "Hagrid’s cabin tableware storage",
+      "category": "furnishing",
+      "description": "Two bucket-sized cups and saucers stand on the table before the fireplace, and Hagrid takes additional cups from the dresser for visitors.",
+      "evidence": [
+        "B04-C037-P0013",
+        "B04-C037-P0016",
+        "B04-C037-P0017",
+        "B04-C037-P0021"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late June–end of school year 1995",
+      "model_notes": "Adds oversized household ware and dresser storage, without changing the single-room plan."
+    },
+    {
+      "id": "B04-238",
+      "location": "Great Hall memorial feast",
+      "category": "temporary",
+      "description": "For the Leaving Feast the usual winning-house decorations are absent. Black mourning drapes hang behind the staff table. Maxime sits beside Hagrid, Snape beside McGonagall, and Karkaroff’s chair is empty. Pupils rise from benches to toast Cedric.",
+      "evidence": [
+        "B04-C037-P0037",
+        "B04-C037-P0038",
+        "B04-C037-P0039",
+        "B04-C037-P0040",
+        "B04-C037-P0042",
+        "B04-C037-P0044",
+        "B04-C037-P0045",
+        "B04-C037-P0046",
+        "B04-C037-P0047",
+        "B04-C037-P0059"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late June–end of school year 1995",
+      "model_notes": "Dated mourning layout and seating; confirms benches at the house tables."
+    },
+    {
+      "id": "B04-239",
+      "location": "Hogwarts departure carriages",
+      "category": "route",
+      "description": "Pupils wait with luggage in the Entrance Hall for carriages to Hogsmeade station. The apparently horseless vehicles trundle up the drive to collect them.",
+      "evidence": [
+        "B04-C037-P0065",
+        "B04-C037-P0075",
+        "B04-C037-P0076",
+        "B04-C037-P0081"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late June–end of school year 1995",
+      "model_notes": "Return leg of the ordinary station route. The station journey itself is not narrated in detail."
+    },
+    {
+      "id": "B04-240",
+      "location": "Beauxbatons departure sightline",
+      "category": "temporary",
+      "description": "From the castle entrance Harry sees Hagrid harnessing the giant horses far across the grounds as the carriage prepares to take off; Fleur walks back across the lawns to it.",
+      "evidence": [
+        "B04-C037-P0067",
+        "B04-C037-P0068",
+        "B04-C037-P0070",
+        "B04-C037-P0071"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late June–end of school year 1995",
+      "model_notes": "A long entrance-to-carriage sightline and departure state. Do not infer that the carriage has already flown away in this paragraph."
+    },
+    {
+      "id": "B04-241",
+      "location": "Durmstrang ship staffing",
+      "category": "temporary",
+      "description": "Krum says Karkaroff stayed in his cabin while the students operated the ship.",
+      "evidence": [
+        "B04-C037-P0072",
+        "B04-C037-P0073"
+      ],
+      "certainty": "reported",
+      "temporal": "Late June–end of school year 1995",
+      "model_notes": "Reported cabin existence and ship operation; the departing voyage is not shown."
+    },
+    {
+      "id": "B04-242",
+      "location": "Skeeter’s beetle access points",
+      "category": "magic",
+      "description": "Hermione says she caught Rita’s beetle form on a hospital-wing sill and identifies her as an unregistered Animagus. Harry recalls the beetle on the stone reindeer; Hermione links it to the lakeside conversation, Malfoy’s hand beneath the tree and probably the Divination window-sill.",
+      "evidence": [
+        "B04-C037-P0089",
+        "B04-C037-P0095",
+        "B04-C037-P0096",
+        "B04-C037-P0097",
+        "B04-C037-P0098",
+        "B04-C037-P0099",
+        "B04-C037-P0100",
+        "B04-C037-P0101",
+        "B04-C037-P0102",
+        "B04-C037-P0103",
+        "B04-C037-P0104",
+        "B04-C037-P0105",
+        "B04-C037-P0106",
+        "B04-C037-P0107",
+        "B04-C037-P0108",
+        "B04-C037-P0109",
+        "B04-C037-P0110"
+      ],
+      "certainty": "reported",
+      "temporal": "Late June–end of school year 1995",
+      "model_notes": "The captive beetle and markings are observed, but its earlier spying locations are recollections or deductions. The Divination perch remains explicitly tentative. A human visitor ban does not prevent a beetle reaching these points."
+    },
+    {
+      "id": "B04-243",
+      "location": "Hogsmeade to London return rail route",
+      "category": "route",
+      "description": "The Hogwarts Express carries pupils south in clear summer weather and arrives at King’s Cross platform nine and three-quarters, where Harry leaves through the barrier to meet his uncle.",
+      "evidence": [
+        "B04-C037-P0083",
+        "B04-C037-P0112",
+        "B04-C037-P0127",
+        "B04-C037-P0156",
+        "B04-C037-P0172",
+        "B04-C037-P0173",
+        "B04-C037-P0177"
+      ],
+      "certainty": "explicit",
+      "temporal": "Late June–end of school year 1995",
+      "model_notes": "Completes regional school-access context. Train compartments have sliding doors; their later confrontation causes no stated permanent carriage damage."
     }
   ],
   "chapter_reviews": [
@@ -4252,6 +4377,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed. Included office-to-office and hospital descent, ward furnishings/office/door operation and reported Dementor policy breach. Remote resurrection retelling, political plans and personal protective magic add no new Hogwarts geometry."
+    },
+    {
+      "chapter": 37,
+      "reviewed_ranges": [
+        [
+          1,
+          178
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included cabin ware/storage, memorial Hall state and benches, guest transport departures, station/London return and beetle access explanation. No maze restoration is claimed: Bagman’s earlier promise is not a directly observed completed restoration."
     }
   ]
 }
