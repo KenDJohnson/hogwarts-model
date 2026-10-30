@@ -2969,6 +2969,179 @@
       "certainty": "explicit",
       "temporal": "Night of tower attack, June 1997",
       "model_notes": "Tower base–front lawn relationship and temporary light sources. Harry’s distant imagined body at P0083 is superseded by close observation; no exact tower-to-door spacing."
+    },
+    {
+      "id": "B06-191",
+      "location": "Front lawn–hospital route and ward bed positions",
+      "category": "route",
+      "description": "Ginny leads Harry up the front steps, across the ruby-strewn Entrance Hall towards the marble staircase, then to the hospital wing. Neville lies in a bed near the ward doors and Bill in another near the far end, with chairs around it.",
+      "evidence": [
+        "B06-C029-P0006",
+        "B06-C029-P0007",
+        "B06-C029-P0009",
+        "B06-C029-P0020",
+        "B06-C029-P0023",
+        "B06-C029-P0031",
+        "B06-C029-P0038",
+        "B06-C029-P0041",
+        "B06-C029-P0085",
+        "B06-C029-P0088"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night after tower attack, June 1997",
+      "model_notes": "Ward longitudinal relationship from entrance to far bed; no exact bed count or absolute floor. Pomfrey conjures an extra chair, so visitor furniture can change."
+    },
+    {
+      "id": "B06-192",
+      "location": "Fawkes lament across grounds",
+      "category": "temporary",
+      "description": "Fawkes sings outside in the darkness; his lament echoes across the grounds and through castle windows and remains audible in the hospital wing and deserted corridors.",
+      "evidence": [
+        "B06-C029-P0037",
+        "B06-C029-P0038",
+        "B06-C029-P0084",
+        "B06-C029-P0124",
+        "B06-C029-P0125"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night after tower attack, June 1997",
+      "model_notes": "Magical mourning soundscape; subjective emotional effect is not a measured acoustic property or evidence of a precise outdoor perch."
+    },
+    {
+      "id": "B06-193",
+      "location": "Battle-night covered routes and entrances",
+      "category": "magic",
+      "description": "McGonagall reports corridor patrols, guards covering every secret passage out of school, powerful enchantments on every castle entrance and an expectation that nobody could fly in.",
+      "evidence": [
+        "B06-C029-P0054",
+        "B06-C029-P0055"
+      ],
+      "certainty": "reported",
+      "temporal": "Night after tower attack, June 1997",
+      "model_notes": "Defenders’ report of intended security state, not an omniscient guarantee; Cabinet bypass defeated it. Earlier aerial entry required Dumbledore’s intervention."
+    },
+    {
+      "id": "B06-194",
+      "location": "Darkness Powder at Room corridor",
+      "category": "magic",
+      "description": "Ron and Ginny report Draco emerging with a Hand of Glory, which illuminates only its holder. He throws Darkness Powder into the corridor; neither Lumos nor Incendio penetrates it, and guards must feel their way to a lit corridor while people run past.",
+      "evidence": [
+        "B06-C029-P0057",
+        "B06-C029-P0058",
+        "B06-C029-P0059",
+        "B06-C029-P0060",
+        "B06-C029-P0061",
+        "B06-C029-P0062",
+        "B06-C029-P0063"
+      ],
+      "certainty": "reported",
+      "temporal": "Night after tower attack, June 1997",
+      "model_notes": "Temporary visually opaque zone and selective light source. Exact cloud extent and persistence unspecified; companions’ identities and guiding method are partly their reconstruction."
+    },
+    {
+      "id": "B06-195",
+      "location": "Astronomy stair cursed barrier and collapse",
+      "category": "temporary",
+      "description": "Tonks reports a curse blocking the stair behind the Death Eaters; Neville is thrown upward trying to enter. Lupin sees Snape pass through and is himself repelled. A later hex drops half the corridor ceiling and breaks the stair-blocking curse.",
+      "evidence": [
+        "B06-C029-P0074",
+        "B06-C029-P0075",
+        "B06-C029-P0076",
+        "B06-C029-P0077",
+        "B06-C029-P0078",
+        "B06-C029-P0079",
+        "B06-C029-P0080",
+        "B06-C029-P0081",
+        "B06-C029-P0082"
+      ],
+      "certainty": "reported",
+      "temporal": "Night after tower attack, June 1997",
+      "model_notes": "Selectively passable barrier and explicit destruction sequence. Dark-Mark eligibility is Harry’s guess at P0080, not established; do not implement that as confirmed authentication."
+    },
+    {
+      "id": "B06-196",
+      "location": "Snape office battle-night approach",
+      "category": "route",
+      "description": "Hermione and Luna wait outside the dungeon office. Flitwick runs down from the fighting and enters it; Snape emerges, tells them to attend to Flitwick, and they find him unconscious on the office floor.",
+      "evidence": [
+        "B06-C029-P0067",
+        "B06-C029-P0069",
+        "B06-C029-P0071"
+      ],
+      "certainty": "reported",
+      "temporal": "Night after tower attack, June 1997",
+      "model_notes": "Observed by reporting witnesses. Snape stunning Flitwick is their inference; Harry’s imagined marble-stair ascent at P0073 is not a witnessed route."
+    },
+    {
+      "id": "B06-197",
+      "location": "Headmaster office after succession",
+      "category": "temporary",
+      "description": "The circular office remains much as before: silver instruments whir and smoke on spindle-legged tables, the sword in its case gleams in moonlight, and the Sorting Hat is on a shelf behind the desk. Fawkes’s perch is empty. A new sleeping portrait of Dumbledore in a golden frame hangs over the desk.",
+      "evidence": [
+        "B06-C029-P0124",
+        "B06-C029-P0125",
+        "B06-C029-P0126"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night after tower attack, June 1997",
+      "model_notes": "Office is now used by McGonagall; no black drapery or body is actually present—those are Harry’s expectations, explicitly contradicted by observation."
+    },
+    {
+      "id": "B06-198",
+      "location": "Everard portrait high on office wall",
+      "category": "furnishing",
+      "description": "A sallow-faced wizard with a short black fringe returns to his canvas high on the wall and speaks; McGonagall addresses him as Everard.",
+      "evidence": [
+        "B06-C029-P0138",
+        "B06-C029-P0139",
+        "B06-C029-P0140"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night after tower attack, June 1997",
+      "model_notes": "Portrait identity, appearance and height relationship; no precise frame dimensions. His Minister-arrival news does not show an actual physical route from the Ministry."
+    },
+    {
+      "id": "B06-199",
+      "location": "Headmaster office grounds approach view",
+      "category": "route",
+      "description": "From the office window McGonagall looks down over the grounds to watch for the Minister and later sees him arriving with a delegation.",
+      "evidence": [
+        "B06-C029-P0151",
+        "B06-C029-P0166"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night after tower attack, June 1997",
+      "model_notes": "Confirmed downward exterior approach view; exact gates/path visible and viewing bearing unspecified."
+    },
+    {
+      "id": "B06-200",
+      "location": "Fat Lady admission without password",
+      "category": "magic",
+      "description": "On the return to Gryffindor, the Fat Lady admits Harry without waiting for a password. The crowded common room connects across to the boys’ dormitory door; Ron waits on his bed and Harry sits on his own four-poster.",
+      "evidence": [
+        "B06-C029-P0170",
+        "B06-C029-P0171",
+        "B06-C029-P0172",
+        "B06-C029-P0173",
+        "B06-C029-P0174",
+        "B06-C029-P0175"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night after tower attack, June 1997",
+      "model_notes": "Discretionary access exception and repeated room-to-dorm relationship; no new room dimensions."
+    },
+    {
+      "id": "B06-201",
+      "location": "Fawkes departure after lament",
+      "category": "temporary",
+      "description": "The grounds fall silent when Fawkes stops singing, and Harry understands that the phoenix has left Hogwarts for good.",
+      "evidence": [
+        "B06-C029-P0186",
+        "B06-C029-P0187"
+      ],
+      "certainty": "inference",
+      "temporal": "Night after tower attack, June 1997",
+      "model_notes": "Cessation is observed; permanent departure is Harry’s unverified conviction here, not a followed flight. Empty office perch is independently seen at P0125."
     }
   ],
   "chapter_reviews": [
@@ -3279,6 +3452,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in a single non-truncated block. Captured spiral descent and corridor damage, marble landing artwork/armour, concealed stair/vanishing step/tapestry shortcut, blasted front/score hourglass, lawn/gates escape, cabin fire/extinguishing and tower-foot/body/lighting relationship. Harry’s guesses about a blocked Room retreat are not confirmed physical changes."
+    },
+    {
+      "chapter": 29,
+      "reviewed_ranges": [
+        [
+          1,
+          187
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks, including all battle reconstruction and staff discussions. Captured ward arrangement/approach, lament, reported patrols and darkness/cursed-stair mechanics, office route/succession/portraits/views, password exception and inferred phoenix departure. Marked witnessed report versus causal guesses; no false death assigned to Bill or Neville."
     }
   ]
 }
