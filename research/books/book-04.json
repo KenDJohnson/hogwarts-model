@@ -1,0 +1,63 @@
+{
+  "book": 4,
+  "entries": [
+    {
+      "id": "B04-001",
+      "location": "Forbidden Forest",
+      "category": "grounds",
+      "description": "The Weasleys’ former Ford Anglia is described as running wild in the Forbidden Forest.",
+      "evidence": [
+        "B04-C004-P0009"
+      ],
+      "certainty": "explicit",
+      "temporal": "Summer before the 1994–95 school year",
+      "model_notes": "A mobile inhabitant of the Forest at this date, not a fixed parked vehicle or a constraint on the Forest’s dimensions."
+    }
+  ],
+  "chapter_reviews": [
+    {
+      "chapter": 1,
+      "reviewed_ranges": [
+        [
+          1,
+          108
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. Non-Hogwarts locations and plot-only references excluded."
+    },
+    {
+      "chapter": 2,
+      "reviewed_ranges": [
+        [
+          1,
+          43
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. Non-Hogwarts locations and plot-only references excluded."
+    },
+    {
+      "chapter": 3,
+      "reviewed_ranges": [
+        [
+          1,
+          91
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. Non-Hogwarts locations and plot-only references excluded."
+    },
+    {
+      "chapter": 4,
+      "reviewed_ranges": [
+        [
+          1,
+          100
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Reviewed complete chapter. Non-Hogwarts locations and plot-only references excluded."
+    }
+  ]
+}
