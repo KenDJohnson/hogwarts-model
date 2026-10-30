@@ -1,0 +1,98 @@
+{
+  "book": 3,
+  "entries": [
+    {
+      "id": "B03-001",
+      "location": "Hogwarts Express — term-start connection",
+      "category": "route",
+      "description": "The school letter specifies departure from King’s Cross platform nine and three-quarters at eleven on 1 September.",
+      "evidence": [
+        "B03-C001-P0091",
+        "B03-C001-P0092"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1993 arrangements",
+      "model_notes": "Transport context; this does not locate Hogwarts geographically."
+    },
+    {
+      "id": "B03-002",
+      "location": "Hogsmeade — pupil access boundary",
+      "category": "route",
+      "description": "Third-years may visit Hogsmeade on specified weekends with a parent or guardian’s signed permission. Harry knows it as an entirely wizarding village he has not yet visited. Fudge refuses to sign because he is neither parent nor guardian.",
+      "evidence": [
+        "B03-C001-P0093",
+        "B03-C001-P0098",
+        "B03-C003-P0155",
+        "B03-C003-P0157",
+        "B03-C003-P0159"
+      ],
+      "certainty": "reported",
+      "temporal": "1993–94 school rules",
+      "model_notes": "A permission-controlled connection to the nearby village; no distance or path geometry yet."
+    },
+    {
+      "id": "B03-003",
+      "location": "Entrances to Hogwarts grounds — planned Azkaban guard posts",
+      "category": "temporary",
+      "description": "Mr Weasley says Dumbledore has reluctantly agreed to Azkaban guards stationed around entrances to the school grounds to intercept Black. The Weasleys debate whether Hogwarts can be entered by an escaped prisoner.",
+      "evidence": [
+        "B03-C004-P0159",
+        "B03-C004-P0160",
+        "B03-C004-P0165",
+        "B03-C004-P0166",
+        "B03-C004-P0167",
+        "B03-C004-P0168",
+        "B03-C004-P0179"
+      ],
+      "certainty": "reported",
+      "temporal": "Before September 1993 term",
+      "model_notes": "Proposed/arranged perimeter security, not yet observed posts or a count of gates. General confidence in Dumbledore is not a specified magical ward."
+    }
+  ],
+  "chapter_reviews": [
+    {
+      "chapter": 1,
+      "reviewed_ranges": [
+        [
+          1,
+          101
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read, including letters and recollections. Retained school transport and Hogsmeade access rules; off-site rooms, foreign tombs and carried gift descriptions excluded."
+    },
+    {
+      "chapter": 2,
+      "reviewed_ranges": [
+        [
+          1,
+          134
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Hogsmeade permission reiterates the rule already recorded; all actual geometry and damage are at Privet Drive, outside scope."
+    },
+    {
+      "chapter": 3,
+      "reviewed_ranges": [
+        [
+          1,
+          170
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. London, Knight Bus and Azkaban details excluded from Hogwarts-boundary model; Hogsmeade permission refusal combined with the existing access rule."
+    },
+    {
+      "chapter": 4,
+      "reviewed_ranges": [
+        [
+          1,
+          184
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. London shops and lodgings excluded; overheard arrangements for guards at grounds entrances retained as report."
+    }
+  ]
+}
