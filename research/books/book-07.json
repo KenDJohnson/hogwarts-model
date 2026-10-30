@@ -209,6 +209,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two blocks, including full Doge/Muriel history and Krum dialogue. Combined repeated secluded-grounds recollection. Burrow wedding tent, Durmstrang wall carving and Godric’s Hollow family/cellar accounts do not describe Hogwarts; officiant’s previous funeral attendance adds no new funeral layout."
+    },
+    {
+      "chapter": 9,
+      "reviewed_ranges": [
+        [
+          1,
+          145
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all narrative paragraphs. London cafe, Grimmauld Place and Malfoy Manor scenes add no Hogwarts spatial constraints."
     }
   ]
 }
