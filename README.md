@@ -17,6 +17,34 @@ paragraph-labelled text file per chapter. Only the seven books' own chapters
 are included; next-book preview chapters are excluded. Book 7's last file is
 the epilogue, labelled as such in metadata.
 
+Compile the reviewed records, readable Markdown, CSV export, coverage report,
+and local HTML reader:
+
+```sh
+python scripts/catalogue.py validate --require-complete
+python scripts/catalogue.py build
+open build/reader/index.html
+```
+
+The HTML reader works directly from disk, with no server or external assets.
+It searches the selected descriptions and source passages and links to the
+complete books split into actual 250-word project reference pages. Full text
+and the reader remain under ignored `build/`; committed catalogue exports
+contain paraphrases and locators.
+
+Find and inspect evidence from the command line:
+
+```sh
+python scripts/catalogue.py search 'Great Hall'
+python scripts/catalogue.py search 'marble staircase' --source
+python scripts/catalogue.py show B01-C007-P0001 --context 2
+```
+
+`search` is a literal case-insensitive substring query. `--source` searches the
+entire extracted corpus. `show` reports the book/chapter/reference page and can
+include neighbouring paragraphs. These tools assist the review; searching
+alone does not count as reading a chapter.
+
 ## Citation policy
 
 The EPUB has no print-page map. The user selected stable EPUB references plus
