@@ -1234,6 +1234,462 @@
       "certainty": "reported",
       "temporal": "November 1992",
       "model_notes": "Reported find location and guessed destination; no floor, particular staircase or kitchen route established."
+    },
+    {
+      "id": "B02-071",
+      "location": "Hospital wing — high privacy curtains",
+      "category": "interior",
+      "description": "Winter sunlight fills the ward in the morning, while high bed curtains conceal Colin’s bed from Harry’s view. Pomfrey brings breakfast on a tray.",
+      "evidence": [
+        "B02-C011-P0001",
+        "B02-C011-P0002"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1992",
+      "model_notes": "Confirms curtains can block cross-ward sightlines, not merely screen changing."
+    },
+    {
+      "id": "B02-072",
+      "location": "Myrtle’s bathroom — potion cubicle",
+      "category": "temporary",
+      "description": "Ron and Hermione lock a cubicle to hide potion-making. An old cauldron sits on the toilet with a crackling waterproof magical fire underneath its rim. The keyhole permits Hermione to look out, and three pupils fit inside with difficulty.",
+      "evidence": [
+        "B02-C011-P0008",
+        "B02-C011-P0009",
+        "B02-C011-P0010",
+        "B02-C011-P0011",
+        "B02-C011-P0012",
+        "B02-C011-P0015",
+        "B02-C011-P0019",
+        "B02-C011-P0020",
+        "B02-C011-P0043",
+        "B02-C011-P0044",
+        "B02-C011-P0045",
+        "B02-C011-P0047"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1992",
+      "model_notes": "Working cubicle lock/keyhole and cramped temporary lab; no dimensions or ventilation duct invented."
+    },
+    {
+      "id": "B02-073",
+      "location": "Potions dungeon — desks and cauldrons",
+      "category": "interior",
+      "description": "The large dungeon holds twenty steaming cauldrons between wooden desks carrying brass scales and ingredient jars. Snape has his own desk at the front where pupils collect antidote.",
+      "evidence": [
+        "B02-C011-P0034",
+        "B02-C011-P0035",
+        "B02-C011-P0036",
+        "B02-C011-P0037",
+        "B02-C011-P0038",
+        "B02-C011-P0039",
+        "B02-C011-P0040"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1992",
+      "model_notes": "Observed lesson layout and cauldron count; desk count remains unspecified."
+    },
+    {
+      "id": "B02-074",
+      "location": "Potions dungeon to private stores — diversion",
+      "category": "temporary",
+      "description": "Harry’s firework explodes Goyle’s Swelling Solution across the class. Hermione slips out during the confusion and returns with stolen ingredients beneath her robes; the firework’s blackened remains stay in the cauldron until Snape retrieves them.",
+      "evidence": [
+        "B02-C011-P0029",
+        "B02-C011-P0030",
+        "B02-C011-P0032",
+        "B02-C011-P0036",
+        "B02-C011-P0037",
+        "B02-C011-P0038",
+        "B02-C011-P0039",
+        "B02-C011-P0040",
+        "B02-C011-P0043",
+        "B02-C011-P0044"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1992",
+      "model_notes": "The intended destination is Snape’s office, but actual intermediate route and unlocking are not witnessed."
+    },
+    {
+      "id": "B02-075",
+      "location": "Entrance Hall noticeboard",
+      "category": "furnishing",
+      "description": "A noticeboard in the Entrance Hall holds the newly pinned Duelling Club announcement.",
+      "evidence": [
+        "B02-C011-P0049",
+        "B02-C011-P0050",
+        "B02-C011-P0051",
+        "B02-C011-P0052"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1992",
+      "model_notes": "A fixed noticeboard location, without side of hall or mounting height."
+    },
+    {
+      "id": "B02-076",
+      "location": "Great Hall — Duelling Club configuration",
+      "category": "temporary",
+      "description": "Dining tables vanish and a golden stage appears along one wall, illuminated by thousands of hovering candles beneath a velvety-black ceiling. Pupils gather standing, then pair up throughout the Hall; Harry and Malfoy’s demonstration uses its middle.",
+      "evidence": [
+        "B02-C011-P0053",
+        "B02-C011-P0055",
+        "B02-C011-P0056",
+        "B02-C011-P0061",
+        "B02-C011-P0065",
+        "B02-C011-P0069",
+        "B02-C011-P0070",
+        "B02-C011-P0071",
+        "B02-C011-P0076",
+        "B02-C011-P0084",
+        "B02-C011-P0085",
+        "B02-C011-P0086",
+        "B02-C011-P0088",
+        "B02-C011-P0098",
+        "B02-C011-P0099",
+        "B02-C011-P0101",
+        "B02-C011-P0105",
+        "B02-C011-P0107"
+      ],
+      "certainty": "explicit",
+      "temporal": "Duelling Club, second week of December 1992",
+      "model_notes": "Large clear-floor use and wall-side stage. Lockhart reaches a wall when blasted backwards off the stage; no permanent platform assumed."
+    },
+    {
+      "id": "B02-077",
+      "location": "Great Hall — conjured snake event",
+      "category": "temporary",
+      "description": "Malfoy’s spell puts a long black snake on the floor. Lockhart sends it ten feet into the air before it lands and approaches Justin; Harry calms it with Parseltongue and Snape vanishes it in black smoke.",
+      "evidence": [
+        "B02-C011-P0098",
+        "B02-C011-P0099",
+        "B02-C011-P0100",
+        "B02-C011-P0101",
+        "B02-C011-P0102",
+        "B02-C011-P0104",
+        "B02-C011-P0105"
+      ],
+      "certainty": "explicit",
+      "temporal": "Duelling Club, December 1992",
+      "model_notes": "Dated mobile hazard; no permanent serpent enclosure or Hall access rule implied."
+    },
+    {
+      "id": "B02-078",
+      "location": "Castle — blizzard daylight and Mandrake protection",
+      "category": "temporary",
+      "description": "Snow visible from the tower dormitory becomes a blizzard by morning. Swirling grey snow at every window darkens the daytime castle. Herbology is cancelled so Sprout can fit socks and scarves to the Mandrakes.",
+      "evidence": [
+        "B02-C011-P0128",
+        "B02-C011-P0133",
+        "B02-C011-P0135",
+        "B02-C011-P0136",
+        "B02-C011-P0138",
+        "B02-C011-P0139"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1992",
+      "model_notes": "Seasonal weather and plant care, not a closure of every classroom or greenhouse."
+    },
+    {
+      "id": "B02-079",
+      "location": "Library — Invisibility section",
+      "category": "interior",
+      "description": "Hufflepuffs sit at the back of the library between long lines of high shelves. Harry listens from concealment in the Invisibility section.",
+      "evidence": [
+        "B02-C011-P0140",
+        "B02-C011-P0141",
+        "B02-C011-P0146",
+        "B02-C011-P0148",
+        "B02-C011-P0161"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1992",
+      "model_notes": "A subject shelving section, not a literal invisibility spell or separate hidden room."
+    },
+    {
+      "id": "B02-080",
+      "location": "Hen-coop — rooster deaths and proposed ward",
+      "category": "grounds",
+      "description": "Hagrid carries a dead rooster, says it is the second killed that term, and seeks permission to put a protective charm around the hen-coop.",
+      "evidence": [
+        "B02-C011-P0164",
+        "B02-C011-P0165",
+        "B02-C011-P0166",
+        "B02-C011-P0167",
+        "B02-C011-P0168"
+      ],
+      "certainty": "reported",
+      "temporal": "November–December 1992",
+      "model_notes": "The coop exists in Hagrid’s report but location is unstated. Fox or bugbear is his speculation, not confirmed fauna."
+    },
+    {
+      "id": "B02-081",
+      "location": "Dark attack corridor — draught, classrooms and victims",
+      "category": "temporary",
+      "description": "After passing Hagrid, Harry goes upstairs into a corridor where an icy draught through a loose windowpane has blown out the torches. Justin lies rigid halfway along, beside Nick floating black and smoky six inches above the floor. Spiders flee; classrooms on both sides are audible, with a door immediately beside Harry.",
+      "evidence": [
+        "B02-C011-P0173",
+        "B02-C011-P0175",
+        "B02-C011-P0176",
+        "B02-C011-P0177",
+        "B02-C011-P0178",
+        "B02-C011-P0179",
+        "B02-C011-P0181",
+        "B02-C011-P0183",
+        "B02-C011-P0184",
+        "B02-C011-P0187"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1992 Justin/Nick attack",
+      "model_notes": "No floor number is supplied; keep distinct from the window-and-writing corridor unless identified later."
+    },
+    {
+      "id": "B02-082",
+      "location": "Attack corridor to hospital wing",
+      "category": "route",
+      "description": "Flitwick and Sinistra carry Justin up to the hospital wing; Ernie uses a conjured fan to waft the immobilised ghost Nick up the stairs.",
+      "evidence": [
+        "B02-C011-P0191"
+      ],
+      "certainty": "explicit",
+      "temporal": "November–December 1992",
+      "model_notes": "Hospital wing is above the attack corridor. Ghost transport differs from carrying a solid patient."
+    },
+    {
+      "id": "B02-083",
+      "location": "Gargoyle entrance to Dumbledore’s office",
+      "category": "magic",
+      "description": "McGonagall takes Harry round a corner to a large ugly stone gargoyle. At Sherbet lemon it animates and hops aside; the wall behind splits, revealing a smoothly rising spiral stair like an escalator. The wall closes behind the riders as they circle upward to a gleaming oak door with a brass griffon knocker.",
+      "evidence": [
+        "B02-C011-P0192",
+        "B02-C011-P0194",
+        "B02-C011-P0195",
+        "B02-C011-P0196",
+        "B02-C011-P0197"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1992; password Sherbet lemon",
+      "model_notes": "Explicit entrance mechanics, moving vertical circulation and materials; no entrance floor or compass side provided."
+    },
+    {
+      "id": "B02-084",
+      "location": "Dumbledore’s office — circular room and furniture",
+      "category": "interior",
+      "description": "At the top of the stone stair a door opens silently into a large beautiful circular office. Silver instruments whirr and emit smoke on spindle-legged tables; portraits of sleeping former heads cover the walls. An enormous claw-footed desk has a high-backed chair behind it and the Sorting Hat rests on a shelf behind the desk.",
+      "evidence": [
+        "B02-C012-P0001",
+        "B02-C012-P0002",
+        "B02-C012-P0003",
+        "B02-C012-P0004",
+        "B02-C012-P0005",
+        "B02-C012-P0008",
+        "B02-C012-P0020",
+        "B02-C012-P0021",
+        "B02-C012-P0022",
+        "B02-C012-P0031"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1992",
+      "model_notes": "Materials, plan and furniture relations explicit; instrument functions and room diameter unstated."
+    },
+    {
+      "id": "B02-085",
+      "location": "Dumbledore’s office — phoenix perch and Burning Day",
+      "category": "magic",
+      "description": "A golden perch stands behind the door. Fawkes burns there into a smouldering ash pile on the floor, from which a chick emerges. Dumbledore says phoenixes normally have red-and-gold plumage, carry very heavy loads and heal through tears.",
+      "evidence": [
+        "B02-C012-P0009",
+        "B02-C012-P0010",
+        "B02-C012-P0011",
+        "B02-C012-P0012",
+        "B02-C012-P0013",
+        "B02-C012-P0016",
+        "B02-C012-P0018",
+        "B02-C012-P0019",
+        "B02-C012-P0020"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1992",
+      "model_notes": "Observed office pet/perch event; carrying/healing claims are Dumbledore’s explanation and later usable transport constraints."
+    },
+    {
+      "id": "B02-086",
+      "location": "Gryffindor dormitory — window curtains and owl access",
+      "category": "furnishing",
+      "description": "Hermione pulls back window curtains on a bright snowy Christmas morning, and Hedwig flies into the dormitory and lands on Harry’s bed.",
+      "evidence": [
+        "B02-C012-P0052",
+        "B02-C012-P0053",
+        "B02-C012-P0054",
+        "B02-C012-P0059",
+        "B02-C012-P0060",
+        "B02-C012-P0061",
+        "B02-C012-P0062",
+        "B02-C012-P0063"
+      ],
+      "certainty": "explicit",
+      "temporal": "25 December 1992",
+      "model_notes": "Adds window curtains distinct from bed curtains. The owl’s precise entry opening is not stated."
+    },
+    {
+      "id": "B02-087",
+      "location": "Great Hall — enchanted Christmas snowfall",
+      "category": "temporary",
+      "description": "Twelve frost-covered Christmas trees decorate the Hall. Thick holly and mistletoe streamers cross the ceiling, which releases enchanted warm dry snow during dinner.",
+      "evidence": [
+        "B02-C012-P0065",
+        "B02-C012-P0066",
+        "B02-C012-P0067"
+      ],
+      "certainty": "explicit",
+      "temporal": "25 December 1992",
+      "model_notes": "1992 decoration differs from the previous Christmas; do not model the falling snow as wet indoor weather."
+    },
+    {
+      "id": "B02-088",
+      "location": "Entrance Hall — banisters, armour and cleaning cupboard",
+      "category": "interior",
+      "description": "Cakes are set on the end of the banisters. Harry and Ron hide behind a suit of armour next to the front door, then move Crabbe and Goyle into a cupboard across the Hall among buckets and mops.",
+      "evidence": [
+        "B02-C012-P0069",
+        "B02-C012-P0080",
+        "B02-C012-P0081",
+        "B02-C012-P0082",
+        "B02-C012-P0197"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1992",
+      "model_notes": "Specific entrance furnishings and cupboard relation. Banisters are not given an explicit height; cupboard is initially proposed as a broom cupboard."
+    },
+    {
+      "id": "B02-089",
+      "location": "Myrtle’s bathroom — potion smoke, stone floor and cubicle limits",
+      "category": "temporary",
+      "description": "Black smoke pours from the locked brewing cubicle, with three glasses on the toilet seat and a bubbling cauldron inside. The pupils choose separate cubicles because their transformed bodies would not fit together; Harry uses the middle one, with Ron to his right. The floor is cold stone.",
+      "evidence": [
+        "B02-C012-P0083",
+        "B02-C012-P0085",
+        "B02-C012-P0089",
+        "B02-C012-P0090",
+        "B02-C012-P0092",
+        "B02-C012-P0093",
+        "B02-C012-P0097",
+        "B02-C012-P0098",
+        "B02-C012-P0099",
+        "B02-C012-P0100",
+        "B02-C012-P0104",
+        "B02-C012-P0105",
+        "B02-C012-P0106",
+        "B02-C012-P0107",
+        "B02-C012-P0108",
+        "B02-C012-P0109",
+        "B02-C012-P0110"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1992",
+      "model_notes": "Observed cramped space, fixtures and relative cubicle positions during Christmas brewing; do not infer total cubicle count from middle alone."
+    },
+    {
+      "id": "B02-090",
+      "location": "School laundry — spare robes report",
+      "category": "interior",
+      "description": "Hermione says she took spare larger robes from the laundry for the transformations.",
+      "evidence": [
+        "B02-C012-P0088"
+      ],
+      "certainty": "reported",
+      "temporal": "25 December 1992",
+      "model_notes": "Establishes a laundry/storage function, without locating a laundry room or describing machinery."
+    },
+    {
+      "id": "B02-091",
+      "location": "Myrtle’s bathroom to Slytherin dungeon passages",
+      "category": "route",
+      "description": "Leaving the bathroom, Harry and Ron descend the marble staircase, then stone steps from the dungeon entrance. They wander deeper through deserted labyrinthine passages under the school for about fifteen minutes; Percy emerges from a side room before Malfoy leads them into the next passage.",
+      "evidence": [
+        "B02-C012-P0122",
+        "B02-C012-P0128",
+        "B02-C012-P0130",
+        "B02-C012-P0134",
+        "B02-C012-P0135",
+        "B02-C012-P0137",
+        "B02-C012-P0145",
+        "B02-C012-P0151",
+        "B02-C012-P0153",
+        "B02-C012-P0155"
+      ],
+      "certainty": "explicit",
+      "temporal": "25 December 1992 infiltration",
+      "model_notes": "Observed dungeon circulation and side room; elapsed time includes searching and does not set corridor lengths."
+    },
+    {
+      "id": "B02-092",
+      "location": "Slytherin common-room concealed stone door",
+      "category": "magic",
+      "description": "Malfoy stops at bare damp stone wall. The password Pure-blood makes a concealed stone door slide open, allowing entry into Slytherin’s common room.",
+      "evidence": [
+        "B02-C012-P0155",
+        "B02-C012-P0156",
+        "B02-C012-P0157",
+        "B02-C012-P0158",
+        "B02-C012-P0159"
+      ],
+      "certainty": "explicit",
+      "temporal": "25 December 1992",
+      "model_notes": "Password dated to Christmas 1992; no portrait, stair or visible handle is mentioned."
+    },
+    {
+      "id": "B02-093",
+      "location": "Slytherin common room",
+      "category": "interior",
+      "description": "A long low underground room has rough stone walls and ceiling, with round greenish lamps suspended on chains. A fire burns under an elaborately carved mantelpiece ahead of the entry; pupils use carved chairs by it and a pair of chairs farther back.",
+      "evidence": [
+        "B02-C012-P0159",
+        "B02-C012-P0160",
+        "B02-C012-P0161",
+        "B02-C012-P0162",
+        "B02-C012-P0191",
+        "B02-C012-P0197"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1992",
+      "model_notes": "Explicit underground height impression and finishes. Lake windows or underwater position are not described in this passage."
+    },
+    {
+      "id": "B02-094",
+      "location": "Chamber opening fifty years earlier — report",
+      "category": "history",
+      "description": "Malfoy says the Chamber was opened fifty years earlier, before his father’s schooldays; a Muggle-born pupil died and someone was expelled. He says information about it was kept quiet.",
+      "evidence": [
+        "B02-C012-P0184",
+        "B02-C012-P0185",
+        "B02-C012-P0186",
+        "B02-C012-P0187",
+        "B02-C012-P0188"
+      ],
+      "certainty": "reported",
+      "temporal": "December 1992",
+      "model_notes": "Second-hand family story. Imprisonment is Malfoy’s guess, not confirmed."
+    },
+    {
+      "id": "B02-095",
+      "location": "Slytherin common room escape to bathroom and hospital",
+      "category": "route",
+      "description": "The boys run the length of the common room, pass out through the stone-wall entrance, go up the passage and steps to the dark Entrance Hall, then climb the marble staircase towards Myrtle’s bathroom. After finding Hermione transformed there, they propose taking her up to the hospital wing.",
+      "evidence": [
+        "B02-C012-P0195",
+        "B02-C012-P0196",
+        "B02-C012-P0197",
+        "B02-C012-P0198",
+        "B02-C012-P0199",
+        "B02-C012-P0204",
+        "B02-C012-P0206",
+        "B02-C012-P0208",
+        "B02-C012-P0213",
+        "B02-C012-P0214"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1992",
+      "model_notes": "Observed return resolves no bathroom floor number. Hospital leg is proposed here and confirmed by later recovery scenes."
     }
   ],
   "chapter_reviews": [
@@ -1346,6 +1802,39 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter read. Dobby’s disappearance observed without naming its mechanism; Colin’s staircase location remains a teacher report and intended visit an inference."
+    },
+    {
+      "chapter": 11,
+      "reviewed_ranges": [
+        [
+          1,
+          197
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Dumbledore’s moving staircase has no narrated floor number. The attack corridor’s classroom adjacency and hospital ascent kept distinct from the earlier attack location."
+    },
+    {
+      "chapter": 12,
+      "reviewed_ranges": [
+        [
+          1,
+          110
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Review in progress."
+    },
+    {
+      "chapter": 12,
+      "reviewed_ranges": [
+        [
+          1,
+          215
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Detailed Slytherin route and room recorded without importing lake windows. Malfoy Manor’s unrelated secret chamber excluded."
     }
   ]
 }
