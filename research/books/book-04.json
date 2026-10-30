@@ -3536,6 +3536,50 @@
       "certainty": "explicit",
       "temporal": "June 1995 preparation and 24 June third task; history where stated",
       "model_notes": "Observed Portkey effect inside Hogwarts grounds. This is distinct from Apparition restrictions and does not establish that all Portkeys are blocked or enabled."
+    },
+    {
+      "id": "B04-220",
+      "location": "Mountains surrounding Hogwarts",
+      "category": "exterior",
+      "description": "After the Cup transports them away, Harry notes that even the mountains surrounding Hogwarts are no longer present.",
+      "evidence": [
+        "B04-C032-P0004"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 June 1995, after third-task departure",
+      "model_notes": "Establishes a mountainous castle setting through a narrated contrast. The guessed tens or hundreds of miles travelled are not a measured separation."
+    },
+    {
+      "id": "B04-221",
+      "location": "Triwizard Cup illicit Portkey alteration",
+      "category": "magic",
+      "description": "Voldemort says his agent at Hogwarts converted the Cup into a Portkey so that the first champion touching it would be transported beyond Dumbledore’s protection.",
+      "evidence": [
+        "B04-C033-P0070",
+        "B04-C033-P0095",
+        "B04-C033-P0096"
+      ],
+      "certainty": "reported",
+      "temporal": "24 June 1995, after third-task departure",
+      "model_notes": "A reported hostile modification, distinct from an ordinary route to the school. Other protective statements here are general and do not establish new castle walls or wards."
+    },
+    {
+      "id": "B04-222",
+      "location": "Triwizard Cup return route",
+      "category": "magic",
+      "description": "James’s echo tells Harry the Cup will return him to Hogwarts. Harry summons it while holding Cedric’s body, grasps its handle, and the Portkey transports both away together.",
+      "evidence": [
+        "B04-C034-P0053",
+        "B04-C034-P0055",
+        "B04-C034-P0063",
+        "B04-C034-P0065",
+        "B04-C034-P0067",
+        "B04-C034-P0068",
+        "B04-C034-P0069"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 June 1995, after third-task departure",
+      "model_notes": "Observed reuse and transport of a person/body in contact with the holder. Arrival location is supplied by the next chapter; the remote graveyard itself is outside the model scope."
     }
   ],
   "chapter_reviews": [
@@ -3879,6 +3923,39 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed in three untruncated ranges. Included practice-window view, portrait/tree history, final maze height, every described route segment/obstacle, compass constraints, hedge breaches and spider damage, and Cup transport. No full maze map is inferred from insufficient local turns."
+    },
+    {
+      "chapter": 32,
+      "reviewed_ranges": [
+        [
+          1,
+          53
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Remote graveyard, Riddle House, Albanian history and duel scenery excluded; retained Hogwarts mountain-setting contrast and Cup transport constraints where present."
+    },
+    {
+      "chapter": 33,
+      "reviewed_ranges": [
+        [
+          1,
+          101
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Remote graveyard, Riddle House, Albanian history and duel scenery excluded; retained Hogwarts mountain-setting contrast and Cup transport constraints where present."
+    },
+    {
+      "chapter": 34,
+      "reviewed_ranges": [
+        [
+          1,
+          69
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Remote graveyard, Riddle House, Albanian history and duel scenery excluded; retained Hogwarts mountain-setting contrast and Cup transport constraints where present."
     }
   ]
 }
