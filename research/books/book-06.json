@@ -1433,11 +1433,15 @@
         "B06-C017-P0179",
         "B06-C017-P0185",
         "B06-C017-P0186",
-        "B06-C017-P0187"
+        "B06-C017-P0187",
+        "B06-C023-P0026",
+        "B06-C023-P0027",
+        "B06-C023-P0038",
+        "B06-C023-P0040"
       ],
       "certainty": "explicit",
       "temporal": "Riddle’s teenage school years, memory viewed January 1997",
-      "model_notes": "The supplied memory is explicitly tampered with (P0198–P0202). Preserve this historical view as provisional; white fog and abrupt sound changes are memory alteration artefacts, not actual office fixtures or weather."
+      "model_notes": "The first view in chapter 17 is tampered with; the later genuine memory repeats and supports these furnishings. White fog in the earlier version is a memory-edit artefact, not physical office atmosphere. The clock stands on the desk behind Slughorn’s chair."
     },
     {
       "id": "B06-099",
@@ -2194,6 +2198,77 @@
       "certainty": "reported",
       "temporal": "Hagrid’s student years, recalled spring 1997",
       "model_notes": "Historical animal-hiding cupboard only; exact room, floor, size and survival are unspecified."
+    },
+    {
+      "id": "B06-145",
+      "location": "Front door–third-floor shortcut–Gryffindor",
+      "category": "route",
+      "description": "The front door remains unlocked on Harry’s return after the burial. On the third floor he dodges Peeves through a sideways shortcut, then climbs higher to the Fat Lady’s portrait and the hard corridor floor outside it.",
+      "evidence": [
+        "B06-C023-P0001",
+        "B06-C023-P0007"
+      ],
+      "certainty": "explicit",
+      "temporal": "After Aragog burial, spring 1997",
+      "model_notes": "Third-floor shortcut on upward route; no complete internal shortcut shape or exact travel time."
+    },
+    {
+      "id": "B06-146",
+      "location": "Fat Lady false password-change claim",
+      "category": "magic",
+      "description": "The Fat Lady initially refuses entry claiming a midnight password change, then admits she lied because Harry woke her. The password is still Tapeworm.",
+      "evidence": [
+        "B06-C023-P0004",
+        "B06-C023-P0005",
+        "B06-C023-P0006",
+        "B06-C023-P0015",
+        "B06-C023-P0016"
+      ],
+      "certainty": "explicit",
+      "temporal": "After Aragog burial, spring 1997",
+      "model_notes": "Do not implement a midnight reset from the retracted claim; this scene demonstrates discretionary refusal by the portrait occupant."
+    },
+    {
+      "id": "B06-147",
+      "location": "Astronomy Tower ghost sounds",
+      "category": "interior",
+      "description": "Nearly Headless Nick says the Bloody Baron is groaning and clanking up on the Astronomy Tower, a favourite activity.",
+      "evidence": [
+        "B06-C023-P0010",
+        "B06-C023-P0011",
+        "B06-C023-P0012",
+        "B06-C023-P0013"
+      ],
+      "certainty": "reported",
+      "temporal": "After Aragog burial, spring 1997",
+      "model_notes": "Tower occupancy/sound report, without layout or certainty that sounds are heard at the portrait corridor."
+    },
+    {
+      "id": "B06-148",
+      "location": "Headmaster office listening portraits",
+      "category": "furnishing",
+      "description": "Every portrait around the office walls is awake and listening; one depicts a fat red-nosed wizard who uses an ear trumpet.",
+      "evidence": [
+        "B06-C023-P0078",
+        "B06-C023-P0096",
+        "B06-C023-P0130"
+      ],
+      "certainty": "explicit",
+      "temporal": "After Aragog burial, spring 1997",
+      "model_notes": "Additional portrait subject/prop and animated reaction, not a real ear trumpet lying in the room."
+    },
+    {
+      "id": "B06-149",
+      "location": "Gryffindor sword display behind Headmaster",
+      "category": "furnishing",
+      "description": "A ruby-encrusted sword rests in a glass case on the wall behind Dumbledore; he identifies it as the surviving known Gryffindor relic.",
+      "evidence": [
+        "B06-C023-P0112",
+        "B06-C023-P0113"
+      ],
+      "certainty": "explicit",
+      "temporal": "After Aragog burial, spring 1997",
+      "model_notes": "Observed wall position, glass enclosure and jewelled sword. Provenance is Dumbledore’s statement; no case dimensions supplied."
     }
   ],
   "chapter_reviews": [
@@ -2438,6 +2513,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter in two blocks, including funeral, Forest reports and all cabin dialogue. Captured courtyard/turrets/bell, sunset and dorm stair, unlocked exit, vegetable-patch detour/wall/views, colony change, rear-window garden/pumpkins, grave and measured spoil heap, compost, cabin basket/candle/ceiling storage and historical cupboard. Song’s imaginary burial is not a Hogwarts site."
+    },
+    {
+      "chapter": 23,
+      "reviewed_ranges": [
+        [
+          1,
+          160
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks, including full genuine memory and long Horcrux/prophesy discussion. Captured third-floor shortcut, Fat Lady’s explicitly retracted security claim, Astronomy Tower ghost report, portrait subject and sword case. Reconciled historical Slughorn furniture against genuine memory. Figurative arena at end is not Hogwarts architecture."
     }
   ]
 }
