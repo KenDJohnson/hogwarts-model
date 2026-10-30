@@ -544,6 +544,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs. Godric’s Hollow cottage, Bathilda’s house, Voldemort’s recollection of the Potters’ deaths and subsequent campsite are outside Hogwarts scope; no added school spatial descriptions."
+    },
+    {
+      "chapter": 18,
+      "reviewed_ranges": [
+        [
+          1,
+          78
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs, including the full embedded biography extract. Dumbledore/Grindelwald family history, Durmstrang, Nurmengard and snowy campsite do not add Hogwarts physical or spatial constraints."
     }
   ]
 }
