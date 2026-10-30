@@ -3760,6 +3760,100 @@
       "certainty": "reported",
       "temporal": "24 June 1995 return and interrogation; prior-year events where reported",
       "model_notes": "Reported timing and means of illicit route creation; supports the observed transport and Voldemort’s account."
+    },
+    {
+      "id": "B04-233",
+      "location": "Moody’s office to Headmaster’s office",
+      "category": "route",
+      "description": "Dumbledore takes Harry from Moody’s office along a dark passage to the gargoyle, then up the moving spiral stair and through the oak door into his office.",
+      "evidence": [
+        "B04-C036-P0002",
+        "B04-C036-P0004",
+        "B04-C036-P0007",
+        "B04-C036-P0008",
+        "B04-C036-P0012",
+        "B04-C036-P0013",
+        "B04-C036-P0014",
+        "B04-C036-P0017",
+        "B04-C036-P0019"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night of 24–25 June 1995",
+      "model_notes": "The destination is described as up; no intervening floor count is given."
+    },
+    {
+      "id": "B04-234",
+      "location": "Headmaster’s office to hospital wing",
+      "category": "route",
+      "description": "Harry, Dumbledore and Sirius leave the office and descend a flight of stairs to the hospital-wing entrance.",
+      "evidence": [
+        "B04-C036-P0059",
+        "B04-C036-P0060",
+        "B04-C036-P0061",
+        "B04-C036-P0062",
+        "B04-C036-P0063"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night of 24–25 June 1995",
+      "model_notes": "Preserve the stated descent; do not assume this single mentioned flight accounts for every intermediate threshold."
+    },
+    {
+      "id": "B04-235",
+      "location": "Hospital ward furnishings and layout",
+      "category": "interior",
+      "description": "The hospital wing has a long ward with beds extending to a far end, bedside tables or cabinets, visitor chairs on either side of a bed, portable privacy screens, lamps, windows, pillows and feather mattresses. Pomfrey has her own office from which she brings potions. Harry’s bed is nearer the entrance than the real Moody’s bed at the far end.",
+      "evidence": [
+        "B04-C036-P0062",
+        "B04-C036-P0069",
+        "B04-C036-P0072",
+        "B04-C036-P0074",
+        "B04-C036-P0076",
+        "B04-C036-P0077",
+        "B04-C036-P0078",
+        "B04-C036-P0079",
+        "B04-C036-P0081",
+        "B04-C036-P0085",
+        "B04-C036-P0087",
+        "B04-C036-P0090",
+        "B04-C036-P0091",
+        "B04-C036-P0094",
+        "B04-C036-P0148",
+        "B04-C036-P0158",
+        "B04-C036-P0159",
+        "B04-C036-P0170",
+        "B04-C036-P0172",
+        "B04-C036-P0189",
+        "B04-C036-P0197",
+        "B04-C036-P0199",
+        "B04-C036-P0203",
+        "B04-C036-P0204"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night of 24–25 June 1995",
+      "model_notes": "Dated patients and bedside medical objects need not remain permanently. The ward door has a handle Sirius can operate with a paw, but no height measurement is given."
+    },
+    {
+      "id": "B04-236",
+      "location": "Dementor admitted to Moody’s office",
+      "category": "temporary",
+      "description": "Snape and McGonagall report that Fudge brought a Dementor into the castle and up to the office despite Dumbledore’s policy against them; it immediately attacked the bound Crouch there.",
+      "evidence": [
+        "B04-C036-P0089",
+        "B04-C036-P0095",
+        "B04-C036-P0096",
+        "B04-C036-P0098",
+        "B04-C036-P0099",
+        "B04-C036-P0100",
+        "B04-C036-P0102",
+        "B04-C036-P0103",
+        "B04-C036-P0104",
+        "B04-C036-P0105",
+        "B04-C036-P0106",
+        "B04-C036-P0110"
+      ],
+      "certainty": "reported",
+      "temporal": "Night of 24–25 June 1995",
+      "model_notes": "Reported incident proves the policy was not an automatically impassable physical or magical boundary. It adds no reported building damage."
     }
   ],
   "chapter_reviews": [
@@ -4147,6 +4241,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed. Included maze-edge arrival, office route/barred door destruction, Foe-Glass, nested trunk interior, sabotage, corrected Crouch identity and hidden Forest/body-burial sequence. Azkaban and Crouch-home details remain outside scope."
+    },
+    {
+      "chapter": 36,
+      "reviewed_ranges": [
+        [
+          1,
+          207
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included office-to-office and hospital descent, ward furnishings/office/door operation and reported Dementor policy breach. Remote resurrection retelling, political plans and personal protective magic add no new Hogwarts geometry."
     }
   ]
 }
