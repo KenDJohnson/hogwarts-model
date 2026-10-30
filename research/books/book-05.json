@@ -3594,6 +3594,227 @@
       "certainty": "explicit",
       "temporal": "Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified",
       "model_notes": "Local breakage and flight; stopping floor is not named and no repair is shown."
+    },
+    {
+      "id": "B05-223",
+      "location": "Easter grounds weather",
+      "category": "temporary",
+      "description": "Easter grows brighter, breezier and warmer while exam years remain inside studying.",
+      "evidence": [
+        "B05-C029-P0031",
+        "B05-C029-P0034",
+        "B05-C029-P0096",
+        "B05-C029-P0270"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Seasonal transition; not a claimed lake temperature."
+    },
+    {
+      "id": "B05-224",
+      "location": "Library loans and food prohibition",
+      "category": "magic",
+      "description": "Pince stamps books several shelves away from the table. Discovering Harry and Ginny eating chocolate, she enchants his books, bag and ink bottle to chase and strike them out of the library.",
+      "evidence": [
+        "B05-C029-P0034",
+        "B05-C029-P0039",
+        "B05-C029-P0041",
+        "B05-C029-P0048",
+        "B05-C029-P0050",
+        "B05-C029-P0055",
+        "B05-C029-P0057",
+        "B05-C029-P0058",
+        "B05-C029-P0059"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Observed enforcement enchantment; no permanent self-attacking furniture."
+    },
+    {
+      "id": "B05-225",
+      "location": "Gryffindor careers displays",
+      "category": "temporary",
+      "description": "Careers pamphlets and leaflets appear on common-room tables, and the noticeboard lists fifth-year appointments with the Head of House.",
+      "evidence": [
+        "B05-C029-P0061",
+        "B05-C029-P0062",
+        "B05-C029-P0063",
+        "B05-C029-P0064",
+        "B05-C029-P0065",
+        "B05-C029-P0066",
+        "B05-C029-P0067",
+        "B05-C029-P0068",
+        "B05-C029-P0069",
+        "B05-C029-P0070",
+        "B05-C029-P0081"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Holiday-to-summer-term information state."
+    },
+    {
+      "id": "B05-226",
+      "location": "East-wing diversion plan",
+      "category": "route",
+      "description": "The twins plan a five-o’clock diversion in the east wing, in Gregory the Smarmy’s corridor, intending to draw Umbridge away from her office.",
+      "evidence": [
+        "B05-C029-P0073",
+        "B05-C029-P0076",
+        "B05-C029-P0078",
+        "B05-C029-P0079",
+        "B05-C029-P0085",
+        "B05-C029-P0087",
+        "B05-C029-P0090",
+        "B05-C029-P0091",
+        "B05-C029-P0092",
+        "B05-C029-P0093"
+      ],
+      "certainty": "reported",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Planned location, later swamp corroborates east-wing area. Do not place Umbridge’s office in a particular opposite wing."
+    },
+    {
+      "id": "B05-227",
+      "location": "Neville bedside window panorama",
+      "category": "exterior",
+      "description": "From the window beside Neville’s bed Harry looks directly toward the towering lakeside beech. He also sees Hagrid emerge limping from the Forest edge, enter his cabin and send smoke from its chimney.",
+      "evidence": [
+        "B05-C029-P0096",
+        "B05-C029-P0097",
+        "B05-C029-P0098"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Critical dormitory-to-beech, Forest and cabin sightlines; no azimuths or exact distances."
+    },
+    {
+      "id": "B05-228",
+      "location": "Potions flask breakage",
+      "category": "temporary",
+      "description": "Harry places an Invigoration Draught sample at Snape’s desk; it is smashed on the floor after he turns away. Hermione has already emptied his remaining cauldron.",
+      "evidence": [
+        "B05-C029-P0103",
+        "B05-C029-P0104",
+        "B05-C029-P0105",
+        "B05-C029-P0106",
+        "B05-C029-P0107",
+        "B05-C029-P0108",
+        "B05-C029-P0109"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Observed broken sample, cause not directly witnessed; no structural damage."
+    },
+    {
+      "id": "B05-229",
+      "location": "McGonagall office above new Divination",
+      "category": "route",
+      "description": "Harry leaves Divination and hurries back upstairs for careers advice in McGonagall’s office. Her desk is covered in pamphlets; Umbridge sits in a corner behind Harry, and their argument remains audible along the corridor as he leaves.",
+      "evidence": [
+        "B05-C029-P0064",
+        "B05-C029-P0110",
+        "B05-C029-P0111",
+        "B05-C029-P0112",
+        "B05-C029-P0113",
+        "B05-C029-P0114",
+        "B05-C029-P0115",
+        "B05-C029-P0121",
+        "B05-C029-P0135",
+        "B05-C029-P0143",
+        "B05-C029-P0161"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Ground-floor Divination now in classroom eleven; no numerical office floor derived."
+    },
+    {
+      "id": "B05-230",
+      "location": "Defence to office diversion route",
+      "category": "route",
+      "description": "After Defence Harry hears uproar above; Umbridge runs in the opposite direction toward the east wing. In the deserted corridor to her office he hides behind a large suit of armour whose helmet turns to watch him.",
+      "evidence": [
+        "B05-C029-P0175",
+        "B05-C029-P0176",
+        "B05-C029-P0177",
+        "B05-C029-P0178",
+        "B05-C029-P0179"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Animated armour and usable hiding space; not an exact distance or floor count."
+    },
+    {
+      "id": "B05-231",
+      "location": "Umbridge office lock and Floo hearth",
+      "category": "magic",
+      "description": "Sirius’s magical knife opens the office door with a click. A small Floo-powder box sits by the empty grate, with stacked logs; powder ignites emerald flames. Harry kneels on a hard stone floor and sends only his head to Grimmauld Place, withdrawing it as the flames die.",
+      "evidence": [
+        "B05-C029-P0179",
+        "B05-C029-P0180",
+        "B05-C029-P0181",
+        "B05-C029-P0182",
+        "B05-C029-P0183",
+        "B05-C029-P0184",
+        "B05-C029-P0185",
+        "B05-C029-P0186",
+        "B05-C029-P0192",
+        "B05-C029-P0237",
+        "B05-C029-P0239",
+        "B05-C029-P0241"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Successful lock bypass observed; immunity to Alohomora was only Harry’s earlier guess."
+    },
+    {
+      "id": "B05-232",
+      "location": "Office desk drawer and stair return",
+      "category": "route",
+      "description": "Filch enters the unlocked office and searches a desk drawer for a form. Harry follows him, removes his Cloak one landing below the office and descends the marble staircase to the Entrance Hall.",
+      "evidence": [
+        "B05-C029-P0242",
+        "B05-C029-P0243",
+        "B05-C029-P0244",
+        "B05-C029-P0245",
+        "B05-C029-P0246",
+        "B05-C029-P0247"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "No assumption the first landing down is the only intermediate floor."
+    },
+    {
+      "id": "B05-233",
+      "location": "Portable Swamp first report",
+      "category": "temporary",
+      "description": "In the Entrance Hall Umbridge accuses the twins of turning a school corridor into a swamp; Fred advertises a Portable Swamp demonstrated upstairs. Some assembled pupils are covered in a Stinksap-like substance.",
+      "evidence": [
+        "B05-C029-P0248",
+        "B05-C029-P0249",
+        "B05-C029-P0250",
+        "B05-C029-P0266"
+      ],
+      "certainty": "reported",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Swamp existence stated by participants; precise extent is described next chapter. Stinksap identity is Harry’s comparison."
+    },
+    {
+      "id": "B05-234",
+      "location": "Broom retrieval and Entrance Hall escape",
+      "category": "temporary",
+      "description": "Summoned brooms rip free with a distant crash and fly along a corridor to Harry’s left, turn left down the stairs and stop by the twins; one trails its heavy chain and iron peg over the flagged floor. They rise fifteen feet in the Hall and fly through open front doors into sunset.",
+      "evidence": [
+        "B05-C029-P0261",
+        "B05-C029-P0262",
+        "B05-C029-P0263",
+        "B05-C029-P0264",
+        "B05-C029-P0268",
+        "B05-C029-P0269",
+        "B05-C029-P0270"
+      ],
+      "certainty": "explicit",
+      "temporal": "Easter and start of summer term, April 1996",
+      "model_notes": "Demonstrates vertical clearance and chained peg removal; Harry’s own broom is not retrieved in this scene."
     }
   ],
   "chapter_reviews": [
@@ -3904,6 +4125,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs in three chunks, including entire fireworks sequence, Ministry dream, interrupted lesson and complete Pensieve memory. Historical lakeshore and exam layout explicitly dated as past states."
+    },
+    {
+      "chapter": 29,
+      "reviewed_ranges": [
+        [
+          1,
+          270
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph including complete careers advice, Floo conversation and twins departure. Knife bypass distinguished from speculation about anti-Alohomora protection."
     }
   ]
 }
