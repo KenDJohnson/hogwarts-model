@@ -2759,6 +2759,222 @@
       "certainty": "explicit",
       "temporal": "Late February–March 1995",
       "model_notes": "Confirms the return’s upward village-to-castle direction and the Hall’s sensory connection to the entrance."
+    },
+    {
+      "id": "B04-179",
+      "location": "Kitchen hearth condition",
+      "category": "furnishing",
+      "description": "The brick behind Winky’s stool is smoke-blackened. She falls asleep on the hearth and elves cover her with a large checked tablecloth, while a Butterbeer bottle rolls across the flagged floor.",
+      "evidence": [
+        "B04-C028-P0010",
+        "B04-C028-P0012",
+        "B04-C028-P0031",
+        "B04-C028-P0032",
+        "B04-C028-P0040"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–late May 1995; maze briefing and Crouch encounter in late May",
+      "model_notes": "Adds soot and a temporary hearth obstruction to the earlier kitchen description."
+    },
+    {
+      "id": "B04-180",
+      "location": "Owlery views across grounds",
+      "category": "exterior",
+      "description": "From the Owlery sill Harry looks over the Forest canopy, rippling sails of the moored ship, smoke from Hagrid’s chimney, and down at Hagrid digging before his cabin. He sees Maxime leave the carriage, speak to Hagrid, and return. At dusk the owls wake and fly past him into the night.",
+      "evidence": [
+        "B04-C028-P0043",
+        "B04-C028-P0044",
+        "B04-C028-P0045"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–late May 1995; maze briefing and Crouch encounter in late May",
+      "model_notes": "One observed elevated panorama; it does not establish a compass bearing or visibility from every Owlery window."
+    },
+    {
+      "id": "B04-181",
+      "location": "Niffler lesson excavation",
+      "category": "temporary",
+      "description": "A large patch of fresh earth in front of Hagrid’s cabin is prepared with a hundred buried leprechaun coins. Open Niffler crates stand by the cabin; released Nifflers dive through the soil to retrieve coins, then are boxed again and the crates stacked by the cabin wall.",
+      "evidence": [
+        "B04-C028-P0044",
+        "B04-C028-P0068",
+        "B04-C028-P0069",
+        "B04-C028-P0071",
+        "B04-C028-P0073",
+        "B04-C028-P0076",
+        "B04-C028-P0077",
+        "B04-C028-P0078",
+        "B04-C028-P0080",
+        "B04-C028-P0081",
+        "B04-C028-P0086"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–late May 1995; maze briefing and Crouch encounter in late May",
+      "model_notes": "The earlier apparent vegetable patch is now identified as a teaching excavation. Coins vanish after a few hours according to Hagrid."
+    },
+    {
+      "id": "B04-182",
+      "location": "Beauxbatons carriage window view",
+      "category": "exterior",
+      "description": "Maxime watches the group putting away Nifflers from a window of the carriage.",
+      "evidence": [
+        "B04-C028-P0081"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–late May 1995; maze briefing and Crouch encounter in late May",
+      "model_notes": "A direct carriage-to-cabin lesson-area sightline, without a numeric angle."
+    },
+    {
+      "id": "B04-183",
+      "location": "Hogwarts interference with Muggle equipment",
+      "category": "magic",
+      "description": "Hermione explains that electricity, computers, radar and similar Muggle technology malfunction around Hogwarts because of the amount of magic present.",
+      "evidence": [
+        "B04-C028-P0112",
+        "B04-C028-P0113",
+        "B04-C028-P0114",
+        "B04-C028-P0115",
+        "B04-C028-P0116",
+        "B04-C028-P0117"
+      ],
+      "certainty": "reported",
+      "temporal": "March–late May 1995; maze briefing and Crouch encounter in late May",
+      "model_notes": "Reported environmental constraint. No precise radius or exception for specific devices is supplied."
+    },
+    {
+      "id": "B04-184",
+      "location": "Hufflepuff common-room approach",
+      "category": "route",
+      "description": "Cedric comes up from the Hufflepuff common room into the Entrance Hall before he and Harry go down the front stone steps.",
+      "evidence": [
+        "B04-C028-P0132",
+        "B04-C028-P0133",
+        "B04-C028-P0134"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–late May 1995; maze briefing and Crouch encounter in late May",
+      "model_notes": "Confirms the lower-level Hufflepuff approach previously seen when Cedric used the door beside the staircase."
+    },
+    {
+      "id": "B04-185",
+      "location": "Castle to Quidditch pitch",
+      "category": "route",
+      "description": "Harry and Cedric walk down the dark lawn to the Quidditch stadium and enter the pitch through a gap in the stands.",
+      "evidence": [
+        "B04-C028-P0134",
+        "B04-C028-P0136"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–late May 1995; maze briefing and Crouch encounter in late May",
+      "model_notes": "Preserve the descending approach and stand gap without inventing a separate tunnel."
+    },
+    {
+      "id": "B04-186",
+      "location": "Quidditch pitch growing maze",
+      "category": "temporary",
+      "description": "The normally smooth flat pitch now carries long low hedges twisting and crossing all over it. The champions climb over them to reach Bagman in the middle. Bagman says Hagrid will have them twenty feet high in a month, the Cup will be at the centre, and creatures and spells will obstruct the routes; he promises restoration of the pitch afterwards.",
+      "evidence": [
+        "B04-C028-P0137",
+        "B04-C028-P0138",
+        "B04-C028-P0139",
+        "B04-C028-P0141",
+        "B04-C028-P0142",
+        "B04-C028-P0144",
+        "B04-C028-P0145",
+        "B04-C028-P0146",
+        "B04-C028-P0147",
+        "B04-C028-P0149",
+        "B04-C028-P0150"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–late May 1995; maze briefing and Crouch encounter in late May",
+      "model_notes": "Distinguish observed low hedges from reported planned final height, obstacles and restoration. No finished maze plan is visible yet."
+    },
+    {
+      "id": "B04-187",
+      "location": "Stadium to Forest-edge meeting place",
+      "category": "route",
+      "description": "Krum and Harry leave the stadium towards the Forest rather than the ship, pass Hagrid’s cabin and lit carriage, and stop in tree shade a short way beyond the horse paddock. Crouch emerges from behind a tall oak there.",
+      "evidence": [
+        "B04-C028-P0157",
+        "B04-C028-P0158",
+        "B04-C028-P0159",
+        "B04-C028-P0160",
+        "B04-C028-P0171",
+        "B04-C028-P0174",
+        "B04-C028-P0177",
+        "B04-C028-P0179",
+        "B04-C028-P0181"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–late May 1995; maze briefing and Crouch encounter in late May",
+      "model_notes": "A continuous route with a named tree species and local screening, not an established secret passage."
+    },
+    {
+      "id": "B04-188",
+      "location": "Forest to Headmaster’s entrance",
+      "category": "route",
+      "description": "Harry runs uphill from the Forest through the grounds, climbs the front steps, enters the oak doors and ascends the marble staircase towards the second floor. Five minutes later he reaches a stone gargoyle halfway along an empty corridor.",
+      "evidence": [
+        "B04-C028-P0199",
+        "B04-C028-P0205",
+        "B04-C028-P0206",
+        "B04-C028-P0207",
+        "B04-C028-P0208",
+        "B04-C028-P0209",
+        "B04-C028-P0211"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–late May 1995; maze briefing and Crouch encounter in late May",
+      "model_notes": "The route says towards the second floor before the later gargoyle arrival; it does not explicitly enumerate intervening movement or locate the office itself on that floor."
+    },
+    {
+      "id": "B04-189",
+      "location": "Headmaster’s gargoyle and moving wall",
+      "category": "magic",
+      "description": "The stone gargoyle guards a hidden stair up to Dumbledore’s office. The old password Sherbet lemon fails to make it jump aside. Snape emerges from the hidden stairs as a wall slides closed behind him; that stone wall opens again when Dumbledore appears.",
+      "evidence": [
+        "B04-C028-P0207",
+        "B04-C028-P0208",
+        "B04-C028-P0209",
+        "B04-C028-P0210",
+        "B04-C028-P0214",
+        "B04-C028-P0217",
+        "B04-C028-P0223",
+        "B04-C028-P0224",
+        "B04-C028-P0226"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–late May 1995; maze briefing and Crouch encounter in late May",
+      "model_notes": "Observed mechanism with a known obsolete password. The valid current password is not supplied in this scene."
+    },
+    {
+      "id": "B04-190",
+      "location": "Forest search and return to castle",
+      "category": "route",
+      "description": "Harry leads Dumbledore back down past the carriage and through trees to Krum on the Forest floor. Dumbledore sends a silvery birdlike message through the trees towards Hagrid’s cabin. Later Hagrid escorts Harry past the carriage and lake, uphill to the front steps, through the Entrance Hall and stairs to the Gryffindor portrait.",
+      "evidence": [
+        "B04-C028-P0227",
+        "B04-C028-P0229",
+        "B04-C028-P0233",
+        "B04-C028-P0234",
+        "B04-C028-P0238",
+        "B04-C028-P0239",
+        "B04-C028-P0240",
+        "B04-C028-P0244",
+        "B04-C028-P0248",
+        "B04-C028-P0264",
+        "B04-C028-P0267",
+        "B04-C028-P0272",
+        "B04-C028-P0273",
+        "B04-C028-P0274",
+        "B04-C028-P0275",
+        "B04-C028-P0276",
+        "B04-C028-P0279"
+      ],
+      "certainty": "explicit",
+      "temporal": "March–late May 1995; maze briefing and Crouch encounter in late May",
+      "model_notes": "Tree roots, leaves and twigs are present at the meeting place. Karkaroff’s collision with a tree sheds twigs and leaves but no lasting trunk damage is described."
     }
   ],
   "chapter_reviews": [
@@ -3058,6 +3274,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed. Included credible hostage preparation, weather, potion furniture/storage, village-boundary mountain route, cave and return. Azkaban recollections are outside Hogwarts scope; Ron’s embellished merpeople fight is not an observed event."
+    },
+    {
+      "chapter": 28,
+      "reviewed_ranges": [
+        [
+          1,
+          279
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed in three untruncated ranges. Included Owlery panorama, confirmed excavation purpose, electrical interference report, growing maze, Forest/castle route and moving Headmaster entrance. Fleur’s treasure-tunnel theory is a conjecture, not an actual tunnel."
     }
   ]
 }
