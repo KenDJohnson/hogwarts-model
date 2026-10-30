@@ -1978,6 +1978,123 @@
       "certainty": "explicit",
       "temporal": "Late October to first November Quidditch match, 1995",
       "model_notes": "Return signal is not specified here; do not invent a lamp sighting until described."
+    },
+    {
+      "id": "B05-129",
+      "location": "Gryffindor to cabin at night",
+      "category": "route",
+      "description": "The friends descend many staircases from the portrait hole, cross the Entrance Hall and enter snowy grounds. Hagrid’s windows show little golden squares and smoke rises from his chimney as they approach his wooden front door.",
+      "evidence": [
+        "B05-C020-P0001",
+        "B05-C020-P0003",
+        "B05-C020-P0004",
+        "B05-C020-P0007"
+      ],
+      "certainty": "explicit",
+      "temporal": "Snowy November night of Hagrid’s return, 1995",
+      "model_notes": "Front door has a keyhole and bolt; snow tracks reveal travel despite the Invisibility Cloak."
+    },
+    {
+      "id": "B05-130",
+      "location": "Hagrid cabin return-night furnishings",
+      "category": "interior",
+      "description": "Hagrid closes curtains after admitting them. A travelling cloak lies over a chair and a large haversack against the wall just inside the door. He heats a copper kettle over the fire and serves tea in bucket-shaped mugs.",
+      "evidence": [
+        "B05-C020-P0010",
+        "B05-C020-P0011",
+        "B05-C020-P0012",
+        "B05-C020-P0035",
+        "B05-C020-P0036",
+        "B05-C020-P0038",
+        "B05-C020-P0039"
+      ],
+      "certainty": "explicit",
+      "temporal": "Snowy November night of Hagrid’s return, 1995",
+      "model_notes": "Travel equipment marks recent return; curtains and fire are fittings."
+    },
+    {
+      "id": "B05-131",
+      "location": "Hagrid cabin central table",
+      "category": "furnishing",
+      "description": "An enormous wooden table stands in the cabin centre. A tea towel initially covers a raw dragon steak slightly larger than a car tyre; Hagrid uses it as a cold dressing and it later falls to the floor.",
+      "evidence": [
+        "B05-C020-P0022",
+        "B05-C020-P0023",
+        "B05-C020-P0024",
+        "B05-C020-P0025",
+        "B05-C020-P0030",
+        "B05-C020-P0035",
+        "B05-C020-P0049",
+        "B05-C020-P0060"
+      ],
+      "certainty": "explicit",
+      "temporal": "Snowy November night of Hagrid’s return, 1995",
+      "model_notes": "Temporary medical/food prop and mess on central work surface."
+    },
+    {
+      "id": "B05-132",
+      "location": "Cabin door window and dog basket",
+      "category": "interior",
+      "description": "A thin-curtained window beside the doorway shows Umbridge’s shadow before entry. The friends hide in a corner, while Hagrid conceals two mugs beneath the cushion in Fang’s basket; Hermione’s broken mug remains on the floor.",
+      "evidence": [
+        "B05-C020-P0170",
+        "B05-C020-P0184",
+        "B05-C020-P0186",
+        "B05-C020-P0187",
+        "B05-C020-P0188",
+        "B05-C020-P0195",
+        "B05-C020-P0197",
+        "B05-C020-P0201",
+        "B05-C020-P0202",
+        "B05-C020-P0203"
+      ],
+      "certainty": "explicit",
+      "temporal": "Snowy November night of Hagrid’s return, 1995",
+      "model_notes": "Preserve door-adjacent window, dog basket and temporary china fragments."
+    },
+    {
+      "id": "B05-133",
+      "location": "Cabin search and bed location",
+      "category": "interior",
+      "description": "Umbridge walks the length of the cabin, looks beneath the bed and inside cupboards and Hagrid’s enormous cooking cauldron, passing within two inches of the hidden pupils against a wall. The vast bed occupies a corner.",
+      "evidence": [
+        "B05-C020-P0213",
+        "B05-C020-P0252"
+      ],
+      "certainty": "explicit",
+      "temporal": "Snowy November night of Hagrid’s return, 1995",
+      "model_notes": "Under-bed clearance and walkable perimeter observed; no numeric cabin dimensions."
+    },
+    {
+      "id": "B05-134",
+      "location": "Cabin-to-castle sightline and snow tracks",
+      "category": "route",
+      "description": "Hagrid parts a curtain about an inch to watch Umbridge returning to the castle. She has reported three sets of footprints from the castle doors with none returning; the friends later go uphill through thicker snow, erasing their tracks with Hermione’s Obliteration Charm.",
+      "evidence": [
+        "B05-C020-P0208",
+        "B05-C020-P0211",
+        "B05-C020-P0240",
+        "B05-C020-P0241",
+        "B05-C020-P0253",
+        "B05-C020-P0254"
+      ],
+      "certainty": "explicit",
+      "temporal": "Snowy November night of Hagrid’s return, 1995",
+      "model_notes": "Initial footprint count is Umbridge’s report; later physical erasure is observed. No cloak-based footprint immunity."
+    },
+    {
+      "id": "B05-135",
+      "location": "Domestic herd report",
+      "category": "grounds",
+      "description": "Hagrid says he has raised special lesson creatures for years and believes his is Britain’s only domestic herd.",
+      "evidence": [
+        "B05-C020-P0244",
+        "B05-C020-P0248",
+        "B05-C020-P0250"
+      ],
+      "certainty": "reported",
+      "temporal": "Snowy November night of Hagrid’s return, 1995",
+      "model_notes": "Reported still-unnamed herd; location and species await the next lesson."
     }
   ],
   "chapter_reviews": [
@@ -2189,6 +2306,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs, complete game and song, punishment and evening discussion. Captured Snitch and damage states retained; no game dimensions invented."
+    },
+    {
+      "chapter": 20,
+      "reviewed_ranges": [
+        [
+          1,
+          255
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs, including entire giant expedition account. Continental mountain camp and lake are not Hogwarts terrain; retained cabin visit, search, local travel and reported domestic herd."
     }
   ]
 }
