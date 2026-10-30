@@ -1944,6 +1944,119 @@
       "certainty": "reported",
       "temporal": "After Yule Ball, Christmas night 1994",
       "model_notes": "Reported precise landmark and door-count directions. Left depends on the statue-viewpoint context; do not invent a compass orientation or statue pose until directly described."
+    },
+    {
+      "id": "B04-132",
+      "location": "Greenhouses in snow",
+      "category": "temporary",
+      "description": "Snow remains thick on the grounds and condensation on the greenhouse windows prevents pupils seeing out during Herbology.",
+      "evidence": [
+        "B04-C024-P0008"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1995",
+      "model_notes": "A seasonal loss of visibility, not opaque glazing or a permanent greenhouse alteration."
+    },
+    {
+      "id": "B04-133",
+      "location": "Unicorn lesson at Forest edge",
+      "category": "route",
+      "description": "Grubbly-Plank leads the class from Hagrid’s front door around and past the horse paddock to a tree at the Forest edge, where a white, golden-hoofed unicorn is tethered. Boys remain by the paddock fence while girls approach the unicorn; the teacher’s voice carries back to them.",
+      "evidence": [
+        "B04-C024-P0009",
+        "B04-C024-P0016",
+        "B04-C024-P0020",
+        "B04-C024-P0023",
+        "B04-C024-P0024",
+        "B04-C024-P0025",
+        "B04-C024-P0051"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1995",
+      "model_notes": "The horse paddock, forest-edge tree and cabin are close enough for this continuous lesson route. No tether length or tree species is given."
+    },
+    {
+      "id": "B04-134",
+      "location": "Hagrid’s closed cabin state",
+      "category": "temporary",
+      "description": "During Hagrid’s withdrawal all cabin curtains are closed. Visitors hear Fang barking, scratching and whining behind the unopened door; knocking at a window also produces no response.",
+      "evidence": [
+        "B04-C024-P0016",
+        "B04-C024-P0067",
+        "B04-C024-P0068",
+        "B04-C024-P0069",
+        "B04-C024-P0071",
+        "B04-C024-P0159"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1995",
+      "model_notes": "A temporary occupied-but-closed state. Failure to answer is not proof of an architectural lock or spell."
+    },
+    {
+      "id": "B04-135",
+      "location": "Castle to Hogsmeade via gates",
+      "category": "route",
+      "description": "The pupils leave the castle through cold wet grounds towards the gates, pass the moored Durmstrang ship, and continue down the slushy High Street to the pub. On return they run uphill along the road through the winged-boar gates and across the grounds to Hagrid’s cabin.",
+      "evidence": [
+        "B04-C024-P0073",
+        "B04-C024-P0078",
+        "B04-C024-P0084",
+        "B04-C024-P0085",
+        "B04-C024-P0154",
+        "B04-C024-P0157",
+        "B04-C024-P0158"
+      ],
+      "certainty": "explicit",
+      "temporal": "Mid-January 1995 Hogsmeade visit",
+      "model_notes": "Confirms the gate road as the ordinary village connection and an ascending return. Passing the lake does not fix the road to a compass side of it."
+    },
+    {
+      "id": "B04-136",
+      "location": "Durmstrang ship winter swimming access",
+      "category": "grounds",
+      "description": "Krum emerges on the ship’s deck in swimming trunks, climbs onto its side and dives into the lake, then swims towards its middle.",
+      "evidence": [
+        "B04-C024-P0078",
+        "B04-C024-P0079",
+        "B04-C024-P0080",
+        "B04-C024-P0081"
+      ],
+      "certainty": "explicit",
+      "temporal": "Mid-January 1995",
+      "model_notes": "The lake is open enough to dive and swim at this date despite cold weather; do not impose a continuous winter ice lid."
+    },
+    {
+      "id": "B04-137",
+      "location": "Three Broomsticks bar and mirror",
+      "category": "interior",
+      "description": "A mirror behind the bar reflects the pub’s shadowy corner tables. Bagman and Harry converse at the end of the bar farthest from Rosmerta while watching the goblins in the mirror.",
+      "evidence": [
+        "B04-C024-P0085",
+        "B04-C024-P0086",
+        "B04-C024-P0087",
+        "B04-C024-P0088",
+        "B04-C024-P0094",
+        "B04-C024-P0096",
+        "B04-C024-P0147"
+      ],
+      "certainty": "explicit",
+      "temporal": "Mid-January 1995",
+      "model_notes": "Local sightline and bar arrangement for a castle-linked village destination, without a full pub plan."
+    },
+    {
+      "id": "B04-138",
+      "location": "Hagrid’s cabin dresser and tea visit",
+      "category": "furnishing",
+      "description": "Hagrid keeps a family photograph in a dresser drawer. During the visit Dumbledore conjures a revolving tea tray and cakes into mid-air, then places them on the table around which the visitors sit.",
+      "evidence": [
+        "B04-C024-P0167",
+        "B04-C024-P0171",
+        "B04-C024-P0188",
+        "B04-C024-P0189"
+      ],
+      "certainty": "explicit",
+      "temporal": "January 1995",
+      "model_notes": "The dresser is an observed fixture; the tea setup is temporary. The apple tree in the photograph is unlocated and cannot be assigned to Hogwarts grounds."
     }
   ],
   "chapter_reviews": [
@@ -2199,6 +2312,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed in three untruncated ranges. Included winter surfaces, mirrors, Slytherin stairs, all ball layout/lighting conversions, conjured garden and damage, vanishing-room report and fifth-floor bathroom directions. Foreign-school scenery not imported into Hogwarts."
+    },
+    {
+      "chapter": 24,
+      "reviewed_ranges": [
+        [
+          1,
+          197
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included snow/condensation, unicorn lesson route, cabin closure, ship dive and open water, village gate-road connection, bar mirror, and dresser. Rita’s allegations and unlocated photograph scenery not treated as observed Hogwarts structure."
     }
   ]
 }
