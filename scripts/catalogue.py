@@ -430,11 +430,12 @@ def main() -> None:
     write_model_guide(corpus, model, args.docs / "model-foundation.md")
     write_reader(corpus, catalogue, args.reader)
     with (args.output.parent / "catalogue.csv").open("w", newline="") as stream:
-        writer = csv.DictWriter(stream, fieldnames=["id", "location", "category", "description", "certainty", "temporal", "model_notes", "references"])
+        writer = csv.DictWriter(stream, fieldnames=["id", "book", "book_title", "location", "category", "description", "certainty", "temporal", "model_notes", "references"])
         writer.writeheader()
         for entry in catalogue["entries"]:
-            writer.writerow({k:entry[k] for k in writer.fieldnames if k != "references"} |
-                            {"references": " | ".join(c["label"] for c in entry["citations"])})
+            writer.writerow({k:entry[k] for k in writer.fieldnames if k not in {"references", "book", "book_title"}} |
+                            {"book": entry["citations"][0]["book"], "book_title": entry["citations"][0]["book_title"],
+                             "references": " | ".join(c["label"] for c in entry["citations"])})
     print(f"Built {len(catalogue['entries'])} records; reviewed {coverage['reviewed']}/{coverage['paragraphs']} paragraphs. Reader: {args.reader / 'index.html'}")
 
 

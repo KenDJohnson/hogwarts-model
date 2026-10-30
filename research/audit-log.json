@@ -416,6 +416,138 @@
           "reason": "Existing bed and dormitory with character reflection, no new spatial fact."
         }
       ]
+    },
+    {
+      "book": 2,
+      "catalogue_entries_at_audit": 163,
+      "candidates_inspected": [
+        {
+          "id": "B02-C016-P0134",
+          "score": 12,
+          "disposition": "supplemented",
+          "reason": "Added the explicitly crowded and quiet Tower state to B02-135."
+        },
+        {
+          "id": "B02-C010-P0044",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Existing long Gryffindor table and a breakfast gathering, no new spatial fixture."
+        },
+        {
+          "id": "B02-C014-P0001",
+          "score": 10,
+          "disposition": "supplemented",
+          "reason": "Added the retrospective small wooden cabin description to B02-029."
+        },
+        {
+          "id": "B02-C004-P0004",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C003-P0173",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C004-P0067",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C001-P0067",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Recollection of Voldemort and injuries, no new environmental description."
+        },
+        {
+          "id": "B02-C001-P0085",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C001-P0092",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C002-P0116",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C004-P0150",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C011-P0025",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Carried/personal protective items traded by pupils, not an architectural fixture."
+        },
+        {
+          "id": "B02-C003-P0029",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C003-P0111",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C003-P0120",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C004-P0001",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C005-P0002",
+          "score": 5,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Burrow meal and fireworks, outside the Hogwarts grounds."
+        },
+        {
+          "id": "B02-C002-P0006",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C002-P0084",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C003-P0037",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Privet Drive, Burrow or Diagon/Knockturn Alley setting, outside Hogwarts site."
+        },
+        {
+          "id": "B02-C011-P0162",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Collision with Hagrid, not a fixture or structural obstacle."
+        }
+      ]
     }
   ]
 }

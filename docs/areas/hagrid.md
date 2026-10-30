@@ -185,11 +185,11 @@ Model: Observed route and bush proximity; nearest is Harry’s judgment, not a m
 
 ## B02-029: Hagrid’s cabin — corners, table and basin
 
-The one-room cabin has an enormous bed in one corner and a crackling fire in another. Chairs surround a scrubbed table used for tea; Hagrid brings a large copper basin for Ron.
+The one-room cabin has an enormous bed in one corner and a crackling fire in another. Chairs surround a scrubbed table used for tea; Hagrid brings a large copper basin for Ron. Harry later recalls the dragon being raised in Hagrid’s little wooden house during the previous school year.
 
 Evidence: explicit; state: September 1992, first Saturday.
 
-Model: Adds separate bed/fire corners and table finish; rooster and basin are temporary objects.
+Model: Adds separate bed/fire corners and table finish; rooster and basin are temporary objects. The wooden-house reference is a retrospective description of the previous year.
 
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 115, ¶98 (B02-C007-P0098)](../../build/reader/book-02.html#B02-C007-P0098)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 115, ¶99 (B02-C007-P0099)](../../build/reader/book-02.html#B02-C007-P0099)
@@ -198,6 +198,7 @@ Model: Adds separate bed/fire corners and table finish; rooster and basin are te
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 116, ¶107 (B02-C007-P0107)](../../build/reader/book-02.html#B02-C007-P0107)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 117–118, ¶121 (B02-C007-P0121)](../../build/reader/book-02.html#B02-C007-P0121)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 118, ¶125 (B02-C007-P0125)](../../build/reader/book-02.html#B02-C007-P0125)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 251, ¶1 (B02-C014-P0001)](../../build/reader/book-02.html#B02-C014-P0001)
 
 ## B02-030: Hagrid’s rear vegetable patch
 
@@ -282,6 +283,126 @@ Model: Hostile retrospective report; alleged cubs and trolls must not become con
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 314–315, ¶56 (B02-C017-P0056)](../../build/reader/book-02.html#B02-C017-P0056)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 315, ¶57 (B02-C017-P0057)](../../build/reader/book-02.html#B02-C017-P0057)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 315, ¶59 (B02-C017-P0059)](../../build/reader/book-02.html#B02-C017-P0059)
+
+## B03-020: Hagrid’s hut to creature paddock
+
+From the castle the class descends springy damp sloping lawns to Hagrid’s forest-edge hut. He leads them around the tree boundary for about five minutes to an initially empty fenced paddock.
+
+Evidence: explicit; state: 2 September 1993.
+
+Model: The route skirts rather than enters the Forest; paddock distance measured only in narrated walking time.
+
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 112, ¶150 (B03-C006-P0150)](../../build/reader/book-03.html#B03-C006-P0150)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 112, ¶151 (B03-C006-P0151)](../../build/reader/book-03.html#B03-C006-P0151)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 112, ¶152 (B03-C006-P0152)](../../build/reader/book-03.html#B03-C006-P0152)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 112–113, ¶153 (B03-C006-P0153)](../../build/reader/book-03.html#B03-C006-P0153)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 113, ¶154 (B03-C006-P0154)](../../build/reader/book-03.html#B03-C006-P0154)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 113, ¶155 (B03-C006-P0155)](../../build/reader/book-03.html#B03-C006-P0155)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 114, ¶167 (B03-C006-P0167)](../../build/reader/book-03.html#B03-C006-P0167)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 114, ¶168 (B03-C006-P0168)](../../build/reader/book-03.html#B03-C006-P0168)
+
+## B03-021: Creature paddock — gate, grass and hippogriff tethers
+
+Hagrid returns from the Forest with twelve hippogriffs on long chains and thick leather collars, brings them from the paddock’s opposite side and tethers them to the fence. Pupils climb over the fence; a gate can be opened for carrying Malfoy out. Ground inside is grass.
+
+Evidence: explicit; state: 2 September 1993.
+
+Model: Observed paddock equipment and circulation. Hippogriff coat colours include grey, bronze, pinkish roan, chestnut and black; no stable described.
+
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 114, ¶168 (B03-C006-P0168)](../../build/reader/book-03.html#B03-C006-P0168)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 114, ¶172 (B03-C006-P0172)](../../build/reader/book-03.html#B03-C006-P0172)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 114–115, ¶173 (B03-C006-P0173)](../../build/reader/book-03.html#B03-C006-P0173)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 115, ¶174 (B03-C006-P0174)](../../build/reader/book-03.html#B03-C006-P0174)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 115, ¶176 (B03-C006-P0176)](../../build/reader/book-03.html#B03-C006-P0176)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 115, ¶178 (B03-C006-P0178)](../../build/reader/book-03.html#B03-C006-P0178)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶183 (B03-C006-P0183)](../../build/reader/book-03.html#B03-C006-P0183)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶187 (B03-C006-P0187)](../../build/reader/book-03.html#B03-C006-P0187)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶189 (B03-C006-P0189)](../../build/reader/book-03.html#B03-C006-P0189)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 118, ¶208 (B03-C006-P0208)](../../build/reader/book-03.html#B03-C006-P0208)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶211 (B03-C006-P0211)](../../build/reader/book-03.html#B03-C006-P0211)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶214 (B03-C006-P0214)](../../build/reader/book-03.html#B03-C006-P0214)
+
+## B03-022: Paddock — hippogriff flight clearance
+
+Harry mounts grey Buckbeak behind the wing joint after reciprocal bows. The animal unfolds wings described as twelve-foot, flies once round the paddock and lands; later Malfoy’s insult prompts a talon strike.
+
+Evidence: explicit; state: 2 September 1993.
+
+Model: Flight and approach rules constrain interaction space. Wording does not unambiguously distinguish individual wing length from full span; do not invent a paddock diameter.
+
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 115, ¶179 (B03-C006-P0179)](../../build/reader/book-03.html#B03-C006-P0179)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 115, ¶181 (B03-C006-P0181)](../../build/reader/book-03.html#B03-C006-P0181)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶188 (B03-C006-P0188)](../../build/reader/book-03.html#B03-C006-P0188)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶189 (B03-C006-P0189)](../../build/reader/book-03.html#B03-C006-P0189)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶190 (B03-C006-P0190)](../../build/reader/book-03.html#B03-C006-P0190)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶191 (B03-C006-P0191)](../../build/reader/book-03.html#B03-C006-P0191)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶192 (B03-C006-P0192)](../../build/reader/book-03.html#B03-C006-P0192)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶193 (B03-C006-P0193)](../../build/reader/book-03.html#B03-C006-P0193)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶194 (B03-C006-P0194)](../../build/reader/book-03.html#B03-C006-P0194)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116–117, ¶195 (B03-C006-P0195)](../../build/reader/book-03.html#B03-C006-P0195)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 117, ¶196 (B03-C006-P0196)](../../build/reader/book-03.html#B03-C006-P0196)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 117, ¶198 (B03-C006-P0198)](../../build/reader/book-03.html#B03-C006-P0198)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 117, ¶200 (B03-C006-P0200)](../../build/reader/book-03.html#B03-C006-P0200)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 117, ¶202 (B03-C006-P0202)](../../build/reader/book-03.html#B03-C006-P0202)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 117, ¶203 (B03-C006-P0203)](../../build/reader/book-03.html#B03-C006-P0203)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 117, ¶204 (B03-C006-P0204)](../../build/reader/book-03.html#B03-C006-P0204)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 117–118, ¶205 (B03-C006-P0205)](../../build/reader/book-03.html#B03-C006-P0205)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 118, ¶206 (B03-C006-P0206)](../../build/reader/book-03.html#B03-C006-P0206)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 118, ¶209 (B03-C006-P0209)](../../build/reader/book-03.html#B03-C006-P0209)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 118–119, ¶210 (B03-C006-P0210)](../../build/reader/book-03.html#B03-C006-P0210)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶211 (B03-C006-P0211)](../../build/reader/book-03.html#B03-C006-P0211)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶214 (B03-C006-P0214)](../../build/reader/book-03.html#B03-C006-P0214)
+
+## B03-023: Paddock to castle — hospital and common-room branches
+
+Hagrid carries Malfoy uphill towards the castle through the paddock gate. The class follows up stone steps into the Entrance Hall; Pansy climbs the marble stair while Slytherins head towards the dungeon common room and the trio go upstairs to Gryffindor.
+
+Evidence: explicit; state: 2 September 1993.
+
+Model: Supports relative uphill terrain and branching indoor routes, without proving which hospital floor Pansy reaches.
+
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶214 (B03-C006-P0214)](../../build/reader/book-03.html#B03-C006-P0214)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶215 (B03-C006-P0215)](../../build/reader/book-03.html#B03-C006-P0215)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶218 (B03-C006-P0218)](../../build/reader/book-03.html#B03-C006-P0218)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119–120, ¶219 (B03-C006-P0219)](../../build/reader/book-03.html#B03-C006-P0219)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶220 (B03-C006-P0220)](../../build/reader/book-03.html#B03-C006-P0220)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶221 (B03-C006-P0221)](../../build/reader/book-03.html#B03-C006-P0221)
+
+## B03-024: Gryffindor Tower to Hagrid’s hut — evening sightline
+
+From the tower common-room window the pupils see a light in Hagrid’s window. They descend from the portrait entrance to the front doors and cross wet dark grass to his hut, later being escorted back uphill.
+
+Evidence: explicit; state: 2 September 1993.
+
+Model: Direct common-room-to-hut window sightline; no compass bearing or distance. After-dark visits are forbidden for Harry in this security state.
+
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶228 (B03-C006-P0228)](../../build/reader/book-03.html#B03-C006-P0228)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶229 (B03-C006-P0229)](../../build/reader/book-03.html#B03-C006-P0229)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶230 (B03-C006-P0230)](../../build/reader/book-03.html#B03-C006-P0230)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶231 (B03-C006-P0231)](../../build/reader/book-03.html#B03-C006-P0231)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120–121, ¶233 (B03-C006-P0233)](../../build/reader/book-03.html#B03-C006-P0233)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 121, ¶234 (B03-C006-P0234)](../../build/reader/book-03.html#B03-C006-P0234)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 121, ¶235 (B03-C006-P0235)](../../build/reader/book-03.html#B03-C006-P0235)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 123, ¶255 (B03-C006-P0255)](../../build/reader/book-03.html#B03-C006-P0255)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 123, ¶256 (B03-C006-P0256)](../../build/reader/book-03.html#B03-C006-P0256)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 123, ¶257 (B03-C006-P0257)](../../build/reader/book-03.html#B03-C006-P0257)
+
+## B03-025: Hagrid’s hut — tankard and outdoor water barrel
+
+Hagrid sits at the scrubbed wooden table with a nearly bucket-sized pewter tankard. Outside there is a water barrel into which, Hermione says, he plunges his head; he returns soaked.
+
+Evidence: explicit; state: 2 September 1993.
+
+Model: Table/tankard observed; barrel action is reported and supported by splash/wet return. No yard layout supplied.
+
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 121, ¶236 (B03-C006-P0236)](../../build/reader/book-03.html#B03-C006-P0236)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 121, ¶240 (B03-C006-P0240)](../../build/reader/book-03.html#B03-C006-P0240)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 122, ¶248 (B03-C006-P0248)](../../build/reader/book-03.html#B03-C006-P0248)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 122, ¶249 (B03-C006-P0249)](../../build/reader/book-03.html#B03-C006-P0249)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 122, ¶250 (B03-C006-P0250)](../../build/reader/book-03.html#B03-C006-P0250)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 122, ¶251 (B03-C006-P0251)](../../build/reader/book-03.html#B03-C006-P0251)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 122, ¶252 (B03-C006-P0252)](../../build/reader/book-03.html#B03-C006-P0252)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 122, ¶253 (B03-C006-P0253)](../../build/reader/book-03.html#B03-C006-P0253)
 
 ## B04-023: Vegetable path and greenhouse three
 

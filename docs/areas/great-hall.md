@@ -369,6 +369,61 @@ Model: Closes emergency occupancy/access state; normal school life does not expl
 - [Book 2, ch. 18, “Dobby’s Reward”, ref p. 343–344, ¶129 (B02-C018-P0129)](../../build/reader/book-02.html#B02-C018-P0129)
 - [Book 2, ch. 18, “Dobby’s Reward”, ref p. 344, ¶132 (B02-C018-P0132)](../../build/reader/book-02.html#B02-C018-P0132)
 
+## B03-009: Entrance Hall — right-hand Great Hall door
+
+The giant oak doors open into a cavernous torchlit hall with a marble stair to upper floors. The Great Hall door is open to the right, showing a black cloudy enchanted ceiling.
+
+Evidence: explicit; state: 1 September 1993.
+
+Model: Right relative to entering from the front; cloud state differs from previous arrival nights.
+
+- [Book 3, ch. 5, “The Dementor”, ref p. 88, ¶216 (B03-C005-P0216)](../../build/reader/book-03.html#B03-C005-P0216)
+- [Book 3, ch. 5, “The Dementor”, ref p. 88–89, ¶217 (B03-C005-P0217)](../../build/reader/book-03.html#B03-C005-P0217)
+
+## B03-011: Great Hall — sorting stool and feast
+
+Candles hover over the long house tables; a three-legged stool and Sorting Hat are carried out after sorting. The staff table is opposite the direction Harry takes to Gryffindor; food and drink fill golden tableware and leftovers later melt away.
+
+Evidence: explicit; state: 1 September 1993.
+
+Model: Three-legged stool differs from book 1’s four-legged one: retain as separate dated furniture, not a fixed identical object.
+
+- [Book 3, ch. 5, “The Dementor”, ref p. 91, ¶240 (B03-C005-P0240)](../../build/reader/book-03.html#B03-C005-P0240)
+- [Book 3, ch. 5, “The Dementor”, ref p. 91, ¶242 (B03-C005-P0242)](../../build/reader/book-03.html#B03-C005-P0242)
+- [Book 3, ch. 5, “The Dementor”, ref p. 91, ¶243 (B03-C005-P0243)](../../build/reader/book-03.html#B03-C005-P0243)
+- [Book 3, ch. 5, “The Dementor”, ref p. 94, ¶261 (B03-C005-P0261)](../../build/reader/book-03.html#B03-C005-P0261)
+- [Book 3, ch. 5, “The Dementor”, ref p. 94, ¶262 (B03-C005-P0262)](../../build/reader/book-03.html#B03-C005-P0262)
+- [Book 3, ch. 5, “The Dementor”, ref p. 94–95, ¶263 (B03-C005-P0263)](../../build/reader/book-03.html#B03-C005-P0263)
+- [Book 3, ch. 5, “The Dementor”, ref p. 95, ¶264 (B03-C005-P0264)](../../build/reader/book-03.html#B03-C005-P0264)
+
+## B03-013: Great Hall to Gryffindor Tower — new password
+
+Gryffindors ascend the marble staircase and further corridors/stairs to the Fat Lady, whose password is now Fortuna Major. Beyond the common room the sexes take separate stairs; the boys use a spiral to the familiar round room with five four-posters.
+
+Evidence: explicit; state: 1 September 1993.
+
+Model: Reaffirms retained dormitory and separate stair routes; no floor-count reconstruction from the abbreviated journey.
+
+- [Book 3, ch. 5, “The Dementor”, ref p. 95, ¶268 (B03-C005-P0268)](../../build/reader/book-03.html#B03-C005-P0268)
+- [Book 3, ch. 5, “The Dementor”, ref p. 95, ¶269 (B03-C005-P0269)](../../build/reader/book-03.html#B03-C005-P0269)
+- [Book 3, ch. 5, “The Dementor”, ref p. 95, ¶270 (B03-C005-P0270)](../../build/reader/book-03.html#B03-C005-P0270)
+- [Book 3, ch. 5, “The Dementor”, ref p. 95–96, ¶271 (B03-C005-P0271)](../../build/reader/book-03.html#B03-C005-P0271)
+
+## B03-014: Great Hall to North Tower — long stair route
+
+Divination is at the top of North Tower, a long journey estimated by Ron at ten minutes. After seven long staircases the trio reach an unfamiliar stone-walled landing with a painting; an empty passage branches right and a window gives a partial lake view. Ron identifies that way as south.
+
+Evidence: explicit; state: 2 September 1993.
+
+Model: Seven flights are not seven floors. South is Ron’s orientation claim tied to the lake sightline, not an independently surveyed bearing.
+
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 98, ¶31 (B03-C006-P0031)](../../build/reader/book-03.html#B03-C006-P0031)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 98, ¶32 (B03-C006-P0032)](../../build/reader/book-03.html#B03-C006-P0032)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 98–99, ¶33 (B03-C006-P0033)](../../build/reader/book-03.html#B03-C006-P0033)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶34 (B03-C006-P0034)](../../build/reader/book-03.html#B03-C006-P0034)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶35 (B03-C006-P0035)](../../build/reader/book-03.html#B03-C006-P0035)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶36 (B03-C006-P0036)](../../build/reader/book-03.html#B03-C006-P0036)
+
 ## B04-007: Entrance Hall to Great Hall
 
 Double doors on the right of the Entrance Hall lead into the Great Hall.

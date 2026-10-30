@@ -337,6 +337,38 @@ Model: Confirms patrols and return sequence. Common-room fire is reduced to glow
 - [Book 2, ch. 15, “Aragog”, ref p. 284, ¶152 (B02-C015-P0152)](../../build/reader/book-02.html#B02-C015-P0152)
 - [Book 2, ch. 15, “Aragog”, ref p. 285, ¶154 (B02-C015-P0154)](../../build/reader/book-02.html#B02-C015-P0154)
 
+## B03-013: Great Hall to Gryffindor Tower — new password
+
+Gryffindors ascend the marble staircase and further corridors/stairs to the Fat Lady, whose password is now Fortuna Major. Beyond the common room the sexes take separate stairs; the boys use a spiral to the familiar round room with five four-posters.
+
+Evidence: explicit; state: 1 September 1993.
+
+Model: Reaffirms retained dormitory and separate stair routes; no floor-count reconstruction from the abbreviated journey.
+
+- [Book 3, ch. 5, “The Dementor”, ref p. 95, ¶268 (B03-C005-P0268)](../../build/reader/book-03.html#B03-C005-P0268)
+- [Book 3, ch. 5, “The Dementor”, ref p. 95, ¶269 (B03-C005-P0269)](../../build/reader/book-03.html#B03-C005-P0269)
+- [Book 3, ch. 5, “The Dementor”, ref p. 95, ¶270 (B03-C005-P0270)](../../build/reader/book-03.html#B03-C005-P0270)
+- [Book 3, ch. 5, “The Dementor”, ref p. 95–96, ¶271 (B03-C005-P0271)](../../build/reader/book-03.html#B03-C005-P0271)
+
+## B03-024: Gryffindor Tower to Hagrid’s hut — evening sightline
+
+From the tower common-room window the pupils see a light in Hagrid’s window. They descend from the portrait entrance to the front doors and cross wet dark grass to his hut, later being escorted back uphill.
+
+Evidence: explicit; state: 2 September 1993.
+
+Model: Direct common-room-to-hut window sightline; no compass bearing or distance. After-dark visits are forbidden for Harry in this security state.
+
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶228 (B03-C006-P0228)](../../build/reader/book-03.html#B03-C006-P0228)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶229 (B03-C006-P0229)](../../build/reader/book-03.html#B03-C006-P0229)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶230 (B03-C006-P0230)](../../build/reader/book-03.html#B03-C006-P0230)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶231 (B03-C006-P0231)](../../build/reader/book-03.html#B03-C006-P0231)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120–121, ¶233 (B03-C006-P0233)](../../build/reader/book-03.html#B03-C006-P0233)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 121, ¶234 (B03-C006-P0234)](../../build/reader/book-03.html#B03-C006-P0234)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 121, ¶235 (B03-C006-P0235)](../../build/reader/book-03.html#B03-C006-P0235)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 123, ¶255 (B03-C006-P0255)](../../build/reader/book-03.html#B03-C006-P0255)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 123, ¶256 (B03-C006-P0256)](../../build/reader/book-03.html#B03-C006-P0256)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 123, ¶257 (B03-C006-P0257)](../../build/reader/book-03.html#B03-C006-P0257)
+
 ## B04-019: Route to Gryffindor Tower: concealed staircase
 
 On the route from the Entrance Hall towards Gryffindor Tower the group passes through a door hidden behind a tapestry and climbs a narrower staircase. A step halfway up lets Neville’s foot sink through; a suit of armour at the top laughs, and Ron closes its visor.

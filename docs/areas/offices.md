@@ -382,11 +382,11 @@ Model: Adds lower staff-room relation and seating/wardrobe. Left is Harry’s vi
 
 ## B02-135: Staff room — overhead circulation and emergency announcement
 
-Hidden in the cloak wardrobe, the boys hear hundreds of people moving overhead as teachers enter. McGonagall’s amplified announcement has ordered pupils to dormitories and teachers to this room.
+Hidden in the cloak wardrobe, the boys hear hundreds of people moving overhead as teachers enter. McGonagall’s amplified announcement has ordered pupils to dormitories and teachers to this room. That afternoon Gryffindor Tower is unusually crowded and quiet.
 
 Evidence: explicit; state: Late May 1993, Chamber rescue.
 
-Model: Acoustic relation to overhead circulation, no ceiling height or exact upper room identified.
+Model: Acoustic relation to overhead circulation, no ceiling height or exact upper room identified. The crowded, quiet atmosphere is a dated occupancy state, not a measurement of room capacity.
 
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 295, ¶98 (B02-C016-P0098)](../../build/reader/book-02.html#B02-C016-P0098)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 295, ¶99 (B02-C016-P0099)](../../build/reader/book-02.html#B02-C016-P0099)
@@ -396,6 +396,7 @@ Model: Acoustic relation to overhead circulation, no ceiling height or exact upp
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 295–296, ¶106 (B02-C016-P0106)](../../build/reader/book-02.html#B02-C016-P0106)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 297, ¶130 (B02-C016-P0130)](../../build/reader/book-02.html#B02-C016-P0130)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 297–298, ¶131 (B02-C016-P0131)](../../build/reader/book-02.html#B02-C016-P0131)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 298, ¶134 (B02-C016-P0134)](../../build/reader/book-02.html#B02-C016-P0134)
 
 ## B02-137: Lockhart’s office — stripped departure state
 
@@ -501,6 +502,94 @@ Model: Confirms a corridor corner, stair flight and lower landing near office. D
 - [Book 2, ch. 18, “Dobby’s Reward”, ref p. 342, ¶118 (B02-C018-P0118)](../../build/reader/book-02.html#B02-C018-P0118)
 - [Book 2, ch. 18, “Dobby’s Reward”, ref p. 342, ¶119 (B02-C018-P0119)](../../build/reader/book-02.html#B02-C018-P0119)
 - [Book 2, ch. 18, “Dobby’s Reward”, ref p. 343, ¶127 (B02-C018-P0127)](../../build/reader/book-02.html#B02-C018-P0127)
+
+## B03-010: Entrance Hall to McGonagall’s office
+
+McGonagall takes Harry and Hermione across the hall, up the marble staircase and along a corridor to her small office, warmed by a large fire, with desk and visitor seats. They later return down the same marble stair to the Great Hall.
+
+Evidence: explicit; state: 1 September 1993.
+
+Model: Adds small office size and route, no fresh absolute floor number.
+
+- [Book 3, ch. 5, “The Dementor”, ref p. 89, ¶219 (B03-C005-P0219)](../../build/reader/book-03.html#B03-C005-P0219)
+- [Book 3, ch. 5, “The Dementor”, ref p. 89, ¶220 (B03-C005-P0220)](../../build/reader/book-03.html#B03-C005-P0220)
+- [Book 3, ch. 5, “The Dementor”, ref p. 89, ¶221 (B03-C005-P0221)](../../build/reader/book-03.html#B03-C005-P0221)
+- [Book 3, ch. 5, “The Dementor”, ref p. 89, ¶222 (B03-C005-P0222)](../../build/reader/book-03.html#B03-C005-P0222)
+- [Book 3, ch. 5, “The Dementor”, ref p. 90, ¶238 (B03-C005-P0238)](../../build/reader/book-03.html#B03-C005-P0238)
+- [Book 3, ch. 5, “The Dementor”, ref p. 90–91, ¶239 (B03-C005-P0239)](../../build/reader/book-03.html#B03-C005-P0239)
+
+## B03-028: Defence classroom to staff room — broom cupboard
+
+Lupin leaves his classroom’s teacher desk, leads pupils along a corridor, round a corner past a broom-storage door with a gum-blocked keyhole, then down a second corridor to the staff-room door.
+
+Evidence: explicit; state: September 1993.
+
+Model: Two-corridor sequence and lockable broom storage; no floor number or exact distance.
+
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 130, ¶82 (B03-C007-P0082)](../../build/reader/book-03.html#B03-C007-P0082)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 130, ¶83 (B03-C007-P0083)](../../build/reader/book-03.html#B03-C007-P0083)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 130, ¶85 (B03-C007-P0085)](../../build/reader/book-03.html#B03-C007-P0085)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 130, ¶86 (B03-C007-P0086)](../../build/reader/book-03.html#B03-C007-P0086)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 131, ¶87 (B03-C007-P0087)](../../build/reader/book-03.html#B03-C007-P0087)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 131, ¶90 (B03-C007-P0090)](../../build/reader/book-03.html#B03-C007-P0090)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 131, ¶94 (B03-C007-P0094)](../../build/reader/book-03.html#B03-C007-P0094)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 131, ¶95 (B03-C007-P0095)](../../build/reader/book-03.html#B03-C007-P0095)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 131–132, ¶98 (B03-C007-P0098)](../../build/reader/book-03.html#B03-C007-P0098)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 132, ¶99 (B03-C007-P0099)](../../build/reader/book-03.html#B03-C007-P0099)
+
+## B03-029: Staff room — chairs and wardrobe at end
+
+The long panelled room contains old mismatched chairs, including a low armchair, and an old spare-robe wardrobe at the far end. The wardrobe stands close enough to bang against the wall when shaken.
+
+Evidence: explicit; state: September 1993.
+
+Model: Adds long plan, chair variety, wardrobe end-position and closable door. No portrait or window inventory supplied.
+
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 132, ¶100 (B03-C007-P0100)](../../build/reader/book-03.html#B03-C007-P0100)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 132, ¶104 (B03-C007-P0104)](../../build/reader/book-03.html#B03-C007-P0104)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 132–133, ¶105 (B03-C007-P0105)](../../build/reader/book-03.html#B03-C007-P0105)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 133, ¶107 (B03-C007-P0107)](../../build/reader/book-03.html#B03-C007-P0107)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 134, ¶121 (B03-C007-P0121)](../../build/reader/book-03.html#B03-C007-P0121)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 136, ¶136 (B03-C007-P0136)](../../build/reader/book-03.html#B03-C007-P0136)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 136–137, ¶144 (B03-C007-P0144)](../../build/reader/book-03.html#B03-C007-P0144)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 137, ¶145 (B03-C007-P0145)](../../build/reader/book-03.html#B03-C007-P0145)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 137, ¶146 (B03-C007-P0146)](../../build/reader/book-03.html#B03-C007-P0146)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 137, ¶147 (B03-C007-P0147)](../../build/reader/book-03.html#B03-C007-P0147)
+
+## B03-030: Staff-room wardrobe — Boggart lesson
+
+Lupin says a Boggart moved into the dark wardrobe the previous afternoon. It rattles the knob and shakes the wardrobe, then emerges as pupils back to the walls, taking successive frightening forms. After laughter and Riddikulus it bursts into smoke and vanishes.
+
+Evidence: explicit; state: September 1993.
+
+Model: Temporary shape-shifter, not real staff-room banshee, giant spider or mummy residency. The silvery orb’s identity is not established by Lavender’s guess.
+
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 132–133, ¶105 (B03-C007-P0105)](../../build/reader/book-03.html#B03-C007-P0105)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 133, ¶106 (B03-C007-P0106)](../../build/reader/book-03.html#B03-C007-P0106)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 133, ¶107 (B03-C007-P0107)](../../build/reader/book-03.html#B03-C007-P0107)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 133, ¶108 (B03-C007-P0108)](../../build/reader/book-03.html#B03-C007-P0108)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 133, ¶111 (B03-C007-P0111)](../../build/reader/book-03.html#B03-C007-P0111)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 133, ¶112 (B03-C007-P0112)](../../build/reader/book-03.html#B03-C007-P0112)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 134, ¶116 (B03-C007-P0116)](../../build/reader/book-03.html#B03-C007-P0116)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 134, ¶117 (B03-C007-P0117)](../../build/reader/book-03.html#B03-C007-P0117)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 136, ¶136 (B03-C007-P0136)](../../build/reader/book-03.html#B03-C007-P0136)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 136–137, ¶144 (B03-C007-P0144)](../../build/reader/book-03.html#B03-C007-P0144)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 137, ¶145 (B03-C007-P0145)](../../build/reader/book-03.html#B03-C007-P0145)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 137, ¶146 (B03-C007-P0146)](../../build/reader/book-03.html#B03-C007-P0146)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 137, ¶147 (B03-C007-P0147)](../../build/reader/book-03.html#B03-C007-P0147)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 137, ¶150 (B03-C007-P0150)](../../build/reader/book-03.html#B03-C007-P0150)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 137, ¶152 (B03-C007-P0152)](../../build/reader/book-03.html#B03-C007-P0152)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 138, ¶157 (B03-C007-P0157)](../../build/reader/book-03.html#B03-C007-P0157)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 138, ¶160 (B03-C007-P0160)](../../build/reader/book-03.html#B03-C007-P0160)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 138, ¶163 (B03-C007-P0163)](../../build/reader/book-03.html#B03-C007-P0163)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 138, ¶169 (B03-C007-P0169)](../../build/reader/book-03.html#B03-C007-P0169)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 138, ¶170 (B03-C007-P0170)](../../build/reader/book-03.html#B03-C007-P0170)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 138–139, ¶173 (B03-C007-P0173)](../../build/reader/book-03.html#B03-C007-P0173)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 139, ¶175 (B03-C007-P0175)](../../build/reader/book-03.html#B03-C007-P0175)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 139, ¶176 (B03-C007-P0176)](../../build/reader/book-03.html#B03-C007-P0176)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 139, ¶179 (B03-C007-P0179)](../../build/reader/book-03.html#B03-C007-P0179)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 139, ¶180 (B03-C007-P0180)](../../build/reader/book-03.html#B03-C007-P0180)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 140, ¶187 (B03-C007-P0187)](../../build/reader/book-03.html#B03-C007-P0187)
 
 ## B04-017: Filch’s office
 

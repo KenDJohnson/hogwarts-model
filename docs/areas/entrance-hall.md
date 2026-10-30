@@ -133,6 +133,47 @@ Model: Specific entrance furnishings and cupboard relation. Banisters are not gi
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 217, ¶82 (B02-C012-P0082)](../../build/reader/book-02.html#B02-C012-P0082)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 227–228, ¶197 (B02-C012-P0197)](../../build/reader/book-02.html#B02-C012-P0197)
 
+## B03-009: Entrance Hall — right-hand Great Hall door
+
+The giant oak doors open into a cavernous torchlit hall with a marble stair to upper floors. The Great Hall door is open to the right, showing a black cloudy enchanted ceiling.
+
+Evidence: explicit; state: 1 September 1993.
+
+Model: Right relative to entering from the front; cloud state differs from previous arrival nights.
+
+- [Book 3, ch. 5, “The Dementor”, ref p. 88, ¶216 (B03-C005-P0216)](../../build/reader/book-03.html#B03-C005-P0216)
+- [Book 3, ch. 5, “The Dementor”, ref p. 88–89, ¶217 (B03-C005-P0217)](../../build/reader/book-03.html#B03-C005-P0217)
+
+## B03-010: Entrance Hall to McGonagall’s office
+
+McGonagall takes Harry and Hermione across the hall, up the marble staircase and along a corridor to her small office, warmed by a large fire, with desk and visitor seats. They later return down the same marble stair to the Great Hall.
+
+Evidence: explicit; state: 1 September 1993.
+
+Model: Adds small office size and route, no fresh absolute floor number.
+
+- [Book 3, ch. 5, “The Dementor”, ref p. 89, ¶219 (B03-C005-P0219)](../../build/reader/book-03.html#B03-C005-P0219)
+- [Book 3, ch. 5, “The Dementor”, ref p. 89, ¶220 (B03-C005-P0220)](../../build/reader/book-03.html#B03-C005-P0220)
+- [Book 3, ch. 5, “The Dementor”, ref p. 89, ¶221 (B03-C005-P0221)](../../build/reader/book-03.html#B03-C005-P0221)
+- [Book 3, ch. 5, “The Dementor”, ref p. 89, ¶222 (B03-C005-P0222)](../../build/reader/book-03.html#B03-C005-P0222)
+- [Book 3, ch. 5, “The Dementor”, ref p. 90, ¶238 (B03-C005-P0238)](../../build/reader/book-03.html#B03-C005-P0238)
+- [Book 3, ch. 5, “The Dementor”, ref p. 90–91, ¶239 (B03-C005-P0239)](../../build/reader/book-03.html#B03-C005-P0239)
+
+## B03-027: Potions dungeon to Entrance Hall
+
+Pupils climb steps from Potions to the Entrance Hall, then head to the Great Hall for lunch.
+
+Evidence: explicit; state: September 1993.
+
+Model: Reaffirms direct vertical route. Hermione’s unexplained stair reappearance does not by itself imply a hidden architectural shortcut.
+
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 128, ¶61 (B03-C007-P0061)](../../build/reader/book-03.html#B03-C007-P0061)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 128, ¶62 (B03-C007-P0062)](../../build/reader/book-03.html#B03-C007-P0062)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 129, ¶66 (B03-C007-P0066)](../../build/reader/book-03.html#B03-C007-P0066)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 129, ¶70 (B03-C007-P0070)](../../build/reader/book-03.html#B03-C007-P0070)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 129, ¶73 (B03-C007-P0073)](../../build/reader/book-03.html#B03-C007-P0073)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 129–130, ¶79 (B03-C007-P0079)](../../build/reader/book-03.html#B03-C007-P0079)
+
 ## B04-006: Entrance Hall
 
 The Entrance Hall is cavernous and torch-lit and contains a magnificent marble staircase. Peeves hovers twenty feet above arriving pupils; water balloons leave the floor wet and slippery.

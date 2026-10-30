@@ -30,6 +30,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B06-120](catalogue.md#b06-120)
 
+## Arrival coaches
+
+[B03-007](catalogue.md#b03-007)
+
 ## Arrival station to lake
 
 [B01-005](catalogue.md#b01-005)
@@ -362,6 +366,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B02-022](catalogue.md#b02-022)
 
+## Creature paddock — gate, grass and hippogriff tethers
+
+[B03-021](catalogue.md#b03-021)
+
 ## Cup alteration before third task
 
 [B04-232](catalogue.md#b04-232)
@@ -393,6 +401,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Defence classroom lake sightline
 
 [B04-194](catalogue.md#b04-194)
+
+## Defence classroom to staff room — broom cupboard
+
+[B03-028](catalogue.md#b03-028)
 
 ## Defence classroom under Snape
 
@@ -433,6 +445,14 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Divination classroom
 
 [B04-027](catalogue.md#b04-027)
+
+## Divination classroom — hearth and shelving
+
+[B03-018](catalogue.md#b03-018)
+
+## Divination classroom — plan, furniture and light
+
+[B03-017](catalogue.md#b03-017)
 
 ## Divination stair ventilation
 
@@ -534,6 +554,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B04-050](catalogue.md#b04-050)
 
+## Entrance Hall to McGonagall’s office
+
+[B03-010](catalogue.md#b03-010)
+
 ## Entrance Hall to Snape’s office
 
 [B02-011](catalogue.md#b02-011)
@@ -550,6 +574,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B02-088](catalogue.md#b02-088)
 
+## Entrance Hall — right-hand Great Hall door
+
+[B03-009](catalogue.md#b03-009)
+
 ## Entrance Hall — summer contrast and staff-room direction
 
 [B01-121](catalogue.md#b01-121)
@@ -565,6 +593,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Entrance Hall–Slughorn office
 
 [B06-084](catalogue.md#b06-084)
+
+## Entrances to Hogwarts grounds — planned Azkaban guard posts
+
+[B03-003](catalogue.md#b03-003)
 
 ## Exam classroom
 
@@ -898,9 +930,17 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B01-021](catalogue.md#b01-021)
 
+## Great Hall to Gryffindor Tower — new password
+
+[B03-013](catalogue.md#b03-013)
+
 ## Great Hall to library and pitch
 
 [B02-109](catalogue.md#b02-109)
+
+## Great Hall to North Tower — long stair route
+
+[B03-014](catalogue.md#b03-014)
 
 ## Great Hall tournament banners
 
@@ -974,6 +1014,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B01-016](catalogue.md#b01-016)
 
+## Great Hall — sorting stool and feast
+
+[B03-011](catalogue.md#b03-011)
+
 ## Great Hall — tables and lighting
 
 [B01-013](catalogue.md#b01-013)
@@ -1025,6 +1069,14 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Grounds and castle — prolonged autumn rain
 
 [B02-035](catalogue.md#b02-035)
+
+## Grounds entrances — Dementor access constraints
+
+[B03-012](catalogue.md#b03-012)
+
+## Grounds gates and castle drive
+
+[B03-008](catalogue.md#b03-008)
 
 ## Grounds in March wind
 
@@ -1194,6 +1246,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B04-020](catalogue.md#b04-020)
 
+## Gryffindor Tower to Hagrid’s hut — evening sightline
+
+[B03-024](catalogue.md#b03-024)
+
 ## Gryffindor Tower to kitchen corridor
 
 [B04-106](catalogue.md#b04-106)
@@ -1282,6 +1338,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B01-002](catalogue.md#b01-002)
 
+## Hagrid’s hut to creature paddock
+
+[B03-020](catalogue.md#b03-020)
+
 ## Hagrid’s hut to tallest tower
 
 [B01-100](catalogue.md#b01-100)
@@ -1297,6 +1357,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Hagrid’s hut — hatching table and outside sightline
 
 [B01-097](catalogue.md#b01-097)
+
+## Hagrid’s hut — tankard and outdoor water barrel
+
+[B03-025](catalogue.md#b03-025)
 
 ## Hagrid’s hut — view of Quidditch
 
@@ -1446,6 +1510,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B04-004](catalogue.md#b04-004)
 
+## Hogsmeade station — school arrival split
+
+[B03-006](catalogue.md#b03-006)
+
 ## Hogsmeade to London return rail route
 
 [B04-243](catalogue.md#b04-243)
@@ -1453,6 +1521,14 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Hogsmeade visit and High Street
 
 [B04-074](catalogue.md#b04-074)
+
+## Hogsmeade — boundary destinations and reports
+
+[B03-004](catalogue.md#b03-004)
+
+## Hogsmeade — pupil access boundary
+
+[B03-002](catalogue.md#b03-002)
 
 ## Hogwarts buildings and grounds
 
@@ -1489,6 +1565,14 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Hogwarts Express — London connection
 
 [B01-003](catalogue.md#b01-003)
+
+## Hogwarts Express — northward journey and Dementor search
+
+[B03-005](catalogue.md#b03-005)
+
+## Hogwarts Express — term-start connection
+
+[B03-001](catalogue.md#b03-001)
 
 ## Hogwarts foundation — secluded castle
 
@@ -2018,6 +2102,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B01-123](catalogue.md#b01-123)
 
+## North Tower classroom access
+
+[B03-016](catalogue.md#b03-016)
+
 ## North Tower Divination access
 
 [B04-026](catalogue.md#b04-026)
@@ -2029,6 +2117,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## North Tower to Headmaster’s entrance
 
 [B04-198](catalogue.md#b04-198)
+
+## North Tower to Transfiguration
+
+[B03-019](catalogue.md#b03-019)
 
 ## October grounds weather
 
@@ -2065,6 +2157,14 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Owlery, West Tower
 
 [B04-035](catalogue.md#b04-035)
+
+## Paddock to castle — hospital and common-room branches
+
+[B03-023](catalogue.md#b03-023)
+
+## Paddock — hippogriff flight clearance
+
+[B03-022](catalogue.md#b03-022)
 
 ## Pensieve memory access
 
@@ -2122,6 +2222,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B06-033](catalogue.md#b06-033)
 
+## Potions dungeon to Entrance Hall
+
+[B03-027](catalogue.md#b03-027)
+
 ## Potions dungeon to hospital wing and castle
 
 [B01-036](catalogue.md#b01-036)
@@ -2145,6 +2249,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Potions dungeon — desks and cauldrons
 
 [B02-073](catalogue.md#b02-073)
+
+## Potions dungeon — shared worktable and gargoyle basin
+
+[B03-026](catalogue.md#b03-026)
 
 ## Potions work stations and store contents
 
@@ -2334,6 +2442,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B04-206](catalogue.md#b04-206)
 
+## Sir Cadogan route — paintings on tower approach
+
+[B03-015](catalogue.md#b03-015)
+
 ## Sirius’s mountain cave
 
 [B04-177](catalogue.md#b04-177)
@@ -2438,6 +2550,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 
 [B04-157](catalogue.md#b04-157)
 
+## Staff room — chairs and wardrobe at end
+
+[B03-029](catalogue.md#b03-029)
+
 ## Staff room — fireplace
 
 [B01-030](catalogue.md#b01-030)
@@ -2449,6 +2565,10 @@ Labels preserve the reviewers' distinctions; unnamed rooms are not silently merg
 ## Staff-room staged cleaning summons
 
 [B04-228](catalogue.md#b04-228)
+
+## Staff-room wardrobe — Boggart lesson
+
+[B03-030](catalogue.md#b03-030)
 
 ## Staff-table seating
 

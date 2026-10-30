@@ -1,9 +1,9 @@
 {
   "source_sha256": "fc554e217f5ec7edc995b24de3d62f50cee929c524fa6ec5e0a7ae23a7ca2732",
   "paragraphs": 38426,
-  "reviewed": 17730,
+  "reviewed": 19036,
   "complete": false,
-  "entries": 685,
+  "entries": 715,
   "books": [
     {
       "book": 1,
@@ -271,93 +271,58 @@
     {
       "book": 3,
       "title": "Harry Potter and the Prisoner of Azkaban",
-      "entries": 0,
+      "entries": 30,
       "paragraphs": 4227,
-      "reviewed": 0,
+      "reviewed": 1306,
       "chapters": [
         {
           "chapter": 1,
           "title": "Owl Post",
           "paragraphs": 101,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              101
-            ]
-          ]
+          "reviewed": 101,
+          "unread_ranges": []
         },
         {
           "chapter": 2,
           "title": "Aunt Marge’s Big Mistake",
           "paragraphs": 134,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              134
-            ]
-          ]
+          "reviewed": 134,
+          "unread_ranges": []
         },
         {
           "chapter": 3,
           "title": "The Knight Bus",
           "paragraphs": 170,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              170
-            ]
-          ]
+          "reviewed": 170,
+          "unread_ranges": []
         },
         {
           "chapter": 4,
           "title": "The Leaky Cauldron",
           "paragraphs": 184,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              184
-            ]
-          ]
+          "reviewed": 184,
+          "unread_ranges": []
         },
         {
           "chapter": 5,
           "title": "The Dementor",
           "paragraphs": 271,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              271
-            ]
-          ]
+          "reviewed": 271,
+          "unread_ranges": []
         },
         {
           "chapter": 6,
           "title": "Talons and Tea Leaves",
           "paragraphs": 257,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              257
-            ]
-          ]
+          "reviewed": 257,
+          "unread_ranges": []
         },
         {
           "chapter": 7,
           "title": "The Boggart in the Wardrobe",
           "paragraphs": 189,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              189
-            ]
-          ]
+          "reviewed": 189,
+          "unread_ranges": []
         },
         {
           "chapter": 8,

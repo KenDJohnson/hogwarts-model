@@ -1,6 +1,6 @@
 # Hogwarts description catalogue
 
-685 reviewed description records. Reading ledger: 17,730/38,426 paragraphs.
+715 reviewed description records. Reading ledger: 19,036/38,426 paragraphs.
 
 All pages below are **project reference pages (ref250-v1, 250 words)**, not print pages. Book titles and exact source paths are in the machine-readable catalogue. Rebuild the local reader to open source-text links.
 
@@ -2226,10 +2226,10 @@ Harry calls Hagrid’s the nearest place to take Ron. They leave the stadium, cr
 <a id="b02-029"></a>
 ### B02-029 · Hagrid’s cabin — corners, table and basin
 
-The one-room cabin has an enormous bed in one corner and a crackling fire in another. Chairs surround a scrubbed table used for tea; Hagrid brings a large copper basin for Ron.
+The one-room cabin has an enormous bed in one corner and a crackling fire in another. Chairs surround a scrubbed table used for tea; Hagrid brings a large copper basin for Ron. Harry later recalls the dragon being raised in Hagrid’s little wooden house during the previous school year.
 
 - Category: interior; evidence: explicit; state: September 1992, first Saturday.
-- Model: Adds separate bed/fire corners and table finish; rooster and basin are temporary objects.
+- Model: Adds separate bed/fire corners and table finish; rooster and basin are temporary objects. The wooden-house reference is a retrospective description of the previous year.
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 115, ¶98 (B02-C007-P0098)](../build/reader/book-02.html#B02-C007-P0098)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 115, ¶99 (B02-C007-P0099)](../build/reader/book-02.html#B02-C007-P0099)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 115, ¶101 (B02-C007-P0101)](../build/reader/book-02.html#B02-C007-P0101)
@@ -2237,6 +2237,7 @@ The one-room cabin has an enormous bed in one corner and a crackling fire in ano
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 116, ¶107 (B02-C007-P0107)](../build/reader/book-02.html#B02-C007-P0107)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 117–118, ¶121 (B02-C007-P0121)](../build/reader/book-02.html#B02-C007-P0121)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 118, ¶125 (B02-C007-P0125)](../build/reader/book-02.html#B02-C007-P0125)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 251, ¶1 (B02-C014-P0001)](../build/reader/book-02.html#B02-C014-P0001)
 
 <a id="b02-030"></a>
 ### B02-030 · Hagrid’s rear vegetable patch
@@ -3837,10 +3838,10 @@ A library page describes a huge long-lived basilisk with lethal eyes, venomous f
 <a id="b02-135"></a>
 ### B02-135 · Staff room — overhead circulation and emergency announcement
 
-Hidden in the cloak wardrobe, the boys hear hundreds of people moving overhead as teachers enter. McGonagall’s amplified announcement has ordered pupils to dormitories and teachers to this room.
+Hidden in the cloak wardrobe, the boys hear hundreds of people moving overhead as teachers enter. McGonagall’s amplified announcement has ordered pupils to dormitories and teachers to this room. That afternoon Gryffindor Tower is unusually crowded and quiet.
 
 - Category: temporary; evidence: explicit; state: Late May 1993, Chamber rescue.
-- Model: Acoustic relation to overhead circulation, no ceiling height or exact upper room identified.
+- Model: Acoustic relation to overhead circulation, no ceiling height or exact upper room identified. The crowded, quiet atmosphere is a dated occupancy state, not a measurement of room capacity.
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 295, ¶98 (B02-C016-P0098)](../build/reader/book-02.html#B02-C016-P0098)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 295, ¶99 (B02-C016-P0099)](../build/reader/book-02.html#B02-C016-P0099)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 295, ¶100 (B02-C016-P0100)](../build/reader/book-02.html#B02-C016-P0100)
@@ -3849,6 +3850,7 @@ Hidden in the cloak wardrobe, the boys hear hundreds of people moving overhead a
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 295–296, ¶106 (B02-C016-P0106)](../build/reader/book-02.html#B02-C016-P0106)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 297, ¶130 (B02-C016-P0130)](../build/reader/book-02.html#B02-C016-P0130)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 297–298, ¶131 (B02-C016-P0131)](../build/reader/book-02.html#B02-C016-P0131)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 298, ¶134 (B02-C016-P0134)](../build/reader/book-02.html#B02-C016-P0134)
 
 <a id="b02-136"></a>
 ### B02-136 · Writing corridor — second message and planned evacuation
@@ -4327,6 +4329,508 @@ Ginny reports finding Percy and Penelope kissing in an otherwise empty classroom
 - [Book 2, ch. 18, “Dobby’s Reward”, ref p. 345, ¶139 (B02-C018-P0139)](../build/reader/book-02.html#B02-C018-P0139)
 
 ## Book 3: Harry Potter and the Prisoner of Azkaban
+
+<a id="b03-001"></a>
+### B03-001 · Hogwarts Express — term-start connection
+
+The school letter specifies departure from King’s Cross platform nine and three-quarters at eleven on 1 September.
+
+- Category: route; evidence: reported; state: 1 September 1993 arrangements.
+- Model: Transport context; this does not locate Hogwarts geographically.
+- [Book 3, ch. 1, “Owl Post”, ref p. 14, ¶91 (B03-C001-P0091)](../build/reader/book-03.html#B03-C001-P0091)
+- [Book 3, ch. 1, “Owl Post”, ref p. 14–15, ¶92 (B03-C001-P0092)](../build/reader/book-03.html#B03-C001-P0092)
+
+<a id="b03-002"></a>
+### B03-002 · Hogsmeade — pupil access boundary
+
+Third-years may visit Hogsmeade on specified weekends with a parent or guardian’s signed permission. Harry knows it as an entirely wizarding village he has not yet visited. Fudge refuses to sign because he is neither parent nor guardian.
+
+- Category: route; evidence: reported; state: 1993–94 school rules.
+- Model: A permission-controlled connection to the nearby village; no distance or path geometry yet.
+- [Book 3, ch. 1, “Owl Post”, ref p. 15, ¶93 (B03-C001-P0093)](../build/reader/book-03.html#B03-C001-P0093)
+- [Book 3, ch. 1, “Owl Post”, ref p. 15, ¶98 (B03-C001-P0098)](../build/reader/book-03.html#B03-C001-P0098)
+- [Book 3, ch. 3, “The Knight Bus”, ref p. 47, ¶155 (B03-C003-P0155)](../build/reader/book-03.html#B03-C003-P0155)
+- [Book 3, ch. 3, “The Knight Bus”, ref p. 47, ¶157 (B03-C003-P0157)](../build/reader/book-03.html#B03-C003-P0157)
+- [Book 3, ch. 3, “The Knight Bus”, ref p. 47–48, ¶159 (B03-C003-P0159)](../build/reader/book-03.html#B03-C003-P0159)
+
+<a id="b03-003"></a>
+### B03-003 · Entrances to Hogwarts grounds — planned Azkaban guard posts
+
+Mr Weasley says Dumbledore has reluctantly agreed to Azkaban guards stationed around entrances to the school grounds to intercept Black. The Weasleys debate whether Hogwarts can be entered by an escaped prisoner.
+
+- Category: temporary; evidence: reported; state: Before September 1993 term.
+- Model: Proposed/arranged perimeter security, not yet observed posts or a count of gates. General confidence in Dumbledore is not a specified magical ward.
+- [Book 3, ch. 4, “The Leaky Cauldron”, ref p. 66, ¶159 (B03-C004-P0159)](../build/reader/book-03.html#B03-C004-P0159)
+- [Book 3, ch. 4, “The Leaky Cauldron”, ref p. 66, ¶160 (B03-C004-P0160)](../build/reader/book-03.html#B03-C004-P0160)
+- [Book 3, ch. 4, “The Leaky Cauldron”, ref p. 67, ¶165 (B03-C004-P0165)](../build/reader/book-03.html#B03-C004-P0165)
+- [Book 3, ch. 4, “The Leaky Cauldron”, ref p. 67, ¶166 (B03-C004-P0166)](../build/reader/book-03.html#B03-C004-P0166)
+- [Book 3, ch. 4, “The Leaky Cauldron”, ref p. 67, ¶167 (B03-C004-P0167)](../build/reader/book-03.html#B03-C004-P0167)
+- [Book 3, ch. 4, “The Leaky Cauldron”, ref p. 67, ¶168 (B03-C004-P0168)](../build/reader/book-03.html#B03-C004-P0168)
+- [Book 3, ch. 4, “The Leaky Cauldron”, ref p. 68–69, ¶179 (B03-C004-P0179)](../build/reader/book-03.html#B03-C004-P0179)
+
+<a id="b03-004"></a>
+### B03-004 · Hogsmeade — boundary destinations and reports
+
+Ron identifies Dervish and Banges as a magical-instrument shop and Honeydukes as a sweetshop. Hermione reports Hogsmeade as Britain’s only entirely non-Muggle settlement, an unnamed inn as a 1612 rebellion headquarters, and the Shrieking Shack as exceptionally haunted.
+
+- Category: route; evidence: reported; state: 1 September 1993.
+- Model: Village context for later journeys; no shop interiors mapped here, inn identity and haunting remain reports.
+- [Book 3, ch. 5, “The Dementor”, ref p. 77, ¶78 (B03-C005-P0078)](../build/reader/book-03.html#B03-C005-P0078)
+- [Book 3, ch. 5, “The Dementor”, ref p. 77, ¶79 (B03-C005-P0079)](../build/reader/book-03.html#B03-C005-P0079)
+- [Book 3, ch. 5, “The Dementor”, ref p. 77, ¶80 (B03-C005-P0080)](../build/reader/book-03.html#B03-C005-P0080)
+- [Book 3, ch. 5, “The Dementor”, ref p. 77, ¶81 (B03-C005-P0081)](../build/reader/book-03.html#B03-C005-P0081)
+- [Book 3, ch. 5, “The Dementor”, ref p. 77, ¶82 (B03-C005-P0082)](../build/reader/book-03.html#B03-C005-P0082)
+- [Book 3, ch. 5, “The Dementor”, ref p. 77, ¶83 (B03-C005-P0083)](../build/reader/book-03.html#B03-C005-P0083)
+
+<a id="b03-005"></a>
+### B03-005 · Hogwarts Express — northward journey and Dementor search
+
+The train moves north past wilder countryside and rolling hills into heavy rain and darkness. It stops short of the destination; lights fail and a Dementor enters, bringing intense cold. After it is repelled the train and lantern lighting resume.
+
+- Category: temporary; evidence: explicit; state: 1 September 1993.
+- Model: Transport security incident before arrival; repulsion is Hermione’s report while Harry is unconscious, not a witnessed school perimeter test.
+- [Book 3, ch. 5, “The Dementor”, ref p. 79, ¶103 (B03-C005-P0103)](../build/reader/book-03.html#B03-C005-P0103)
+- [Book 3, ch. 5, “The Dementor”, ref p. 79–80, ¶112 (B03-C005-P0112)](../build/reader/book-03.html#B03-C005-P0112)
+- [Book 3, ch. 5, “The Dementor”, ref p. 81, ¶127 (B03-C005-P0127)](../build/reader/book-03.html#B03-C005-P0127)
+- [Book 3, ch. 5, “The Dementor”, ref p. 81, ¶129 (B03-C005-P0129)](../build/reader/book-03.html#B03-C005-P0129)
+- [Book 3, ch. 5, “The Dementor”, ref p. 81, ¶131 (B03-C005-P0131)](../build/reader/book-03.html#B03-C005-P0131)
+- [Book 3, ch. 5, “The Dementor”, ref p. 81, ¶133 (B03-C005-P0133)](../build/reader/book-03.html#B03-C005-P0133)
+- [Book 3, ch. 5, “The Dementor”, ref p. 81–82, ¶135 (B03-C005-P0135)](../build/reader/book-03.html#B03-C005-P0135)
+- [Book 3, ch. 5, “The Dementor”, ref p. 82, ¶141 (B03-C005-P0141)](../build/reader/book-03.html#B03-C005-P0141)
+- [Book 3, ch. 5, “The Dementor”, ref p. 82, ¶142 (B03-C005-P0142)](../build/reader/book-03.html#B03-C005-P0142)
+- [Book 3, ch. 5, “The Dementor”, ref p. 83, ¶161 (B03-C005-P0161)](../build/reader/book-03.html#B03-C005-P0161)
+- [Book 3, ch. 5, “The Dementor”, ref p. 83, ¶163 (B03-C005-P0163)](../build/reader/book-03.html#B03-C005-P0163)
+- [Book 3, ch. 5, “The Dementor”, ref p. 83, ¶164 (B03-C005-P0164)](../build/reader/book-03.html#B03-C005-P0164)
+- [Book 3, ch. 5, “The Dementor”, ref p. 83, ¶166 (B03-C005-P0166)](../build/reader/book-03.html#B03-C005-P0166)
+- [Book 3, ch. 5, “The Dementor”, ref p. 83, ¶167 (B03-C005-P0167)](../build/reader/book-03.html#B03-C005-P0167)
+- [Book 3, ch. 5, “The Dementor”, ref p. 84, ¶173 (B03-C005-P0173)](../build/reader/book-03.html#B03-C005-P0173)
+- [Book 3, ch. 5, “The Dementor”, ref p. 85, ¶184 (B03-C005-P0184)](../build/reader/book-03.html#B03-C005-P0184)
+- [Book 3, ch. 5, “The Dementor”, ref p. 85, ¶192 (B03-C005-P0192)](../build/reader/book-03.html#B03-C005-P0192)
+- [Book 3, ch. 5, “The Dementor”, ref p. 85–86, ¶193 (B03-C005-P0193)](../build/reader/book-03.html#B03-C005-P0193)
+- [Book 3, ch. 5, “The Dementor”, ref p. 86, ¶200 (B03-C005-P0200)](../build/reader/book-03.html#B03-C005-P0200)
+- [Book 3, ch. 5, “The Dementor”, ref p. 86, ¶201 (B03-C005-P0201)](../build/reader/book-03.html#B03-C005-P0201)
+
+<a id="b03-006"></a>
+### B03-006 · Hogsmeade station — school arrival split
+
+The train arrives at Hogsmeade’s tiny freezing platform in driving rain. Hagrid gathers first-years for their traditional lake crossing; older pupils leave along the platform to a rough muddy track with at least a hundred stagecoaches.
+
+- Category: route; evidence: explicit; state: 1 September 1993.
+- Model: First explicit station name. Distinct first-year boat and older-pupil coach arrangements, without mapping station-to-lake path anew.
+- [Book 3, ch. 5, “The Dementor”, ref p. 86–87, ¶204 (B03-C005-P0204)](../build/reader/book-03.html#B03-C005-P0204)
+- [Book 3, ch. 5, “The Dementor”, ref p. 87, ¶205 (B03-C005-P0205)](../build/reader/book-03.html#B03-C005-P0205)
+- [Book 3, ch. 5, “The Dementor”, ref p. 87, ¶206 (B03-C005-P0206)](../build/reader/book-03.html#B03-C005-P0206)
+
+<a id="b03-007"></a>
+### B03-007 · Arrival coaches
+
+A boarded coach sets off apparently by itself; Harry assumes an invisible horse. Its small windows, lumpy seats, mould-and-straw smell and bumping procession are described.
+
+- Category: magic; evidence: explicit; state: 1 September 1993.
+- Model: Observation and Harry’s assumption kept separate; no unseen animal species supplied from later knowledge.
+- [Book 3, ch. 5, “The Dementor”, ref p. 87, ¶206 (B03-C005-P0206)](../build/reader/book-03.html#B03-C005-P0206)
+- [Book 3, ch. 5, “The Dementor”, ref p. 87, ¶207 (B03-C005-P0207)](../build/reader/book-03.html#B03-C005-P0207)
+- [Book 3, ch. 5, “The Dementor”, ref p. 87–88, ¶208 (B03-C005-P0208)](../build/reader/book-03.html#B03-C005-P0208)
+- [Book 3, ch. 5, “The Dementor”, ref p. 88, ¶214 (B03-C005-P0214)](../build/reader/book-03.html#B03-C005-P0214)
+
+<a id="b03-008"></a>
+### B03-008 · Grounds gates and castle drive
+
+Magnificent wrought-iron gates stand between stone columns topped by winged boars, with a Dementor guarding each side. Beyond them a long sloping drive rises to the many-towered castle, ending at its stone entrance steps.
+
+- Category: exterior; evidence: explicit; state: 1 September 1993.
+- Model: Gateposts and two visible sentries explicit; no total perimeter length or gate compass bearing.
+- [Book 3, ch. 5, “The Dementor”, ref p. 87–88, ¶208 (B03-C005-P0208)](../build/reader/book-03.html#B03-C005-P0208)
+- [Book 3, ch. 5, “The Dementor”, ref p. 88, ¶209 (B03-C005-P0209)](../build/reader/book-03.html#B03-C005-P0209)
+- [Book 3, ch. 5, “The Dementor”, ref p. 88, ¶211 (B03-C005-P0211)](../build/reader/book-03.html#B03-C005-P0211)
+- [Book 3, ch. 5, “The Dementor”, ref p. 88, ¶215 (B03-C005-P0215)](../build/reader/book-03.html#B03-C005-P0215)
+- [Book 3, ch. 5, “The Dementor”, ref p. 88, ¶216 (B03-C005-P0216)](../build/reader/book-03.html#B03-C005-P0216)
+
+<a id="b03-009"></a>
+### B03-009 · Entrance Hall — right-hand Great Hall door
+
+The giant oak doors open into a cavernous torchlit hall with a marble stair to upper floors. The Great Hall door is open to the right, showing a black cloudy enchanted ceiling.
+
+- Category: interior; evidence: explicit; state: 1 September 1993.
+- Model: Right relative to entering from the front; cloud state differs from previous arrival nights.
+- [Book 3, ch. 5, “The Dementor”, ref p. 88, ¶216 (B03-C005-P0216)](../build/reader/book-03.html#B03-C005-P0216)
+- [Book 3, ch. 5, “The Dementor”, ref p. 88–89, ¶217 (B03-C005-P0217)](../build/reader/book-03.html#B03-C005-P0217)
+
+<a id="b03-010"></a>
+### B03-010 · Entrance Hall to McGonagall’s office
+
+McGonagall takes Harry and Hermione across the hall, up the marble staircase and along a corridor to her small office, warmed by a large fire, with desk and visitor seats. They later return down the same marble stair to the Great Hall.
+
+- Category: route; evidence: explicit; state: 1 September 1993.
+- Model: Adds small office size and route, no fresh absolute floor number.
+- [Book 3, ch. 5, “The Dementor”, ref p. 89, ¶219 (B03-C005-P0219)](../build/reader/book-03.html#B03-C005-P0219)
+- [Book 3, ch. 5, “The Dementor”, ref p. 89, ¶220 (B03-C005-P0220)](../build/reader/book-03.html#B03-C005-P0220)
+- [Book 3, ch. 5, “The Dementor”, ref p. 89, ¶221 (B03-C005-P0221)](../build/reader/book-03.html#B03-C005-P0221)
+- [Book 3, ch. 5, “The Dementor”, ref p. 89, ¶222 (B03-C005-P0222)](../build/reader/book-03.html#B03-C005-P0222)
+- [Book 3, ch. 5, “The Dementor”, ref p. 90, ¶238 (B03-C005-P0238)](../build/reader/book-03.html#B03-C005-P0238)
+- [Book 3, ch. 5, “The Dementor”, ref p. 90–91, ¶239 (B03-C005-P0239)](../build/reader/book-03.html#B03-C005-P0239)
+
+<a id="b03-011"></a>
+### B03-011 · Great Hall — sorting stool and feast
+
+Candles hover over the long house tables; a three-legged stool and Sorting Hat are carried out after sorting. The staff table is opposite the direction Harry takes to Gryffindor; food and drink fill golden tableware and leftovers later melt away.
+
+- Category: temporary; evidence: explicit; state: 1 September 1993.
+- Model: Three-legged stool differs from book 1’s four-legged one: retain as separate dated furniture, not a fixed identical object.
+- [Book 3, ch. 5, “The Dementor”, ref p. 91, ¶240 (B03-C005-P0240)](../build/reader/book-03.html#B03-C005-P0240)
+- [Book 3, ch. 5, “The Dementor”, ref p. 91, ¶242 (B03-C005-P0242)](../build/reader/book-03.html#B03-C005-P0242)
+- [Book 3, ch. 5, “The Dementor”, ref p. 91, ¶243 (B03-C005-P0243)](../build/reader/book-03.html#B03-C005-P0243)
+- [Book 3, ch. 5, “The Dementor”, ref p. 94, ¶261 (B03-C005-P0261)](../build/reader/book-03.html#B03-C005-P0261)
+- [Book 3, ch. 5, “The Dementor”, ref p. 94, ¶262 (B03-C005-P0262)](../build/reader/book-03.html#B03-C005-P0262)
+- [Book 3, ch. 5, “The Dementor”, ref p. 94–95, ¶263 (B03-C005-P0263)](../build/reader/book-03.html#B03-C005-P0263)
+- [Book 3, ch. 5, “The Dementor”, ref p. 95, ¶264 (B03-C005-P0264)](../build/reader/book-03.html#B03-C005-P0264)
+
+<a id="b03-012"></a>
+### B03-012 · Grounds entrances — Dementor access constraints
+
+Dumbledore announces Dementors at every entrance, forbids leaving without permission and warns that disguises, tricks and Invisibility Cloaks cannot fool them.
+
+- Category: magic; evidence: reported; state: 1993–94 Dementor deployment.
+- Model: Character statement about security capability, not proof of an unbroken physical wall or a specified number of entrances.
+- [Book 3, ch. 5, “The Dementor”, ref p. 92, ¶248 (B03-C005-P0248)](../build/reader/book-03.html#B03-C005-P0248)
+- [Book 3, ch. 5, “The Dementor”, ref p. 92, ¶249 (B03-C005-P0249)](../build/reader/book-03.html#B03-C005-P0249)
+- [Book 3, ch. 5, “The Dementor”, ref p. 92–93, ¶250 (B03-C005-P0250)](../build/reader/book-03.html#B03-C005-P0250)
+- [Book 3, ch. 5, “The Dementor”, ref p. 93, ¶251 (B03-C005-P0251)](../build/reader/book-03.html#B03-C005-P0251)
+
+<a id="b03-013"></a>
+### B03-013 · Great Hall to Gryffindor Tower — new password
+
+Gryffindors ascend the marble staircase and further corridors/stairs to the Fat Lady, whose password is now Fortuna Major. Beyond the common room the sexes take separate stairs; the boys use a spiral to the familiar round room with five four-posters.
+
+- Category: route; evidence: explicit; state: 1 September 1993.
+- Model: Reaffirms retained dormitory and separate stair routes; no floor-count reconstruction from the abbreviated journey.
+- [Book 3, ch. 5, “The Dementor”, ref p. 95, ¶268 (B03-C005-P0268)](../build/reader/book-03.html#B03-C005-P0268)
+- [Book 3, ch. 5, “The Dementor”, ref p. 95, ¶269 (B03-C005-P0269)](../build/reader/book-03.html#B03-C005-P0269)
+- [Book 3, ch. 5, “The Dementor”, ref p. 95, ¶270 (B03-C005-P0270)](../build/reader/book-03.html#B03-C005-P0270)
+- [Book 3, ch. 5, “The Dementor”, ref p. 95–96, ¶271 (B03-C005-P0271)](../build/reader/book-03.html#B03-C005-P0271)
+
+<a id="b03-014"></a>
+### B03-014 · Great Hall to North Tower — long stair route
+
+Divination is at the top of North Tower, a long journey estimated by Ron at ten minutes. After seven long staircases the trio reach an unfamiliar stone-walled landing with a painting; an empty passage branches right and a window gives a partial lake view. Ron identifies that way as south.
+
+- Category: route; evidence: explicit; state: 2 September 1993.
+- Model: Seven flights are not seven floors. South is Ron’s orientation claim tied to the lake sightline, not an independently surveyed bearing.
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 98, ¶31 (B03-C006-P0031)](../build/reader/book-03.html#B03-C006-P0031)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 98, ¶32 (B03-C006-P0032)](../build/reader/book-03.html#B03-C006-P0032)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 98–99, ¶33 (B03-C006-P0033)](../build/reader/book-03.html#B03-C006-P0033)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶34 (B03-C006-P0034)](../build/reader/book-03.html#B03-C006-P0034)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶35 (B03-C006-P0035)](../build/reader/book-03.html#B03-C006-P0035)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶36 (B03-C006-P0036)](../build/reader/book-03.html#B03-C006-P0036)
+
+<a id="b03-015"></a>
+### B03-015 · Sir Cadogan route — paintings on tower approach
+
+A large landscape painting shows bare grass, then a dapple-grey pony and a squat armoured knight. The knight runs out left and through successive pictures to guide pupils, including women in crinolines on a narrow spiral stair and sinister monks near its top.
+
+- Category: furnishing; evidence: explicit; state: 2 September 1993.
+- Model: Portrait subjects and cross-frame travel are observed; grass/pony inside the artwork are not real landing vegetation or a stable.
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶34 (B03-C006-P0034)](../build/reader/book-03.html#B03-C006-P0034)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶37 (B03-C006-P0037)](../build/reader/book-03.html#B03-C006-P0037)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶38 (B03-C006-P0038)](../build/reader/book-03.html#B03-C006-P0038)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶39 (B03-C006-P0039)](../build/reader/book-03.html#B03-C006-P0039)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100, ¶42 (B03-C006-P0042)](../build/reader/book-03.html#B03-C006-P0042)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100, ¶43 (B03-C006-P0043)](../build/reader/book-03.html#B03-C006-P0043)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100, ¶44 (B03-C006-P0044)](../build/reader/book-03.html#B03-C006-P0044)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100, ¶45 (B03-C006-P0045)](../build/reader/book-03.html#B03-C006-P0045)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100, ¶46 (B03-C006-P0046)](../build/reader/book-03.html#B03-C006-P0046)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100, ¶47 (B03-C006-P0047)](../build/reader/book-03.html#B03-C006-P0047)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100, ¶48 (B03-C006-P0048)](../build/reader/book-03.html#B03-C006-P0048)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100–101, ¶49 (B03-C006-P0049)](../build/reader/book-03.html#B03-C006-P0049)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 101, ¶50 (B03-C006-P0050)](../build/reader/book-03.html#B03-C006-P0050)
+
+<a id="b03-016"></a>
+### B03-016 · North Tower classroom access
+
+A tight narrow spiral climbs to a tiny landing with no doors. A circular ceiling trapdoor bears a brass plaque naming Sybill Trelawney; it opens and lowers a silvery ladder for entry.
+
+- Category: magic; evidence: explicit; state: 2 September 1993.
+- Model: Trapdoor and ladder are the observed classroom entrance, not a conventional corridor door; exact staircase floors unknown.
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100, ¶48 (B03-C006-P0048)](../build/reader/book-03.html#B03-C006-P0048)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100–101, ¶49 (B03-C006-P0049)](../build/reader/book-03.html#B03-C006-P0049)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 101, ¶52 (B03-C006-P0052)](../build/reader/book-03.html#B03-C006-P0052)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 101, ¶53 (B03-C006-P0053)](../build/reader/book-03.html#B03-C006-P0053)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 101, ¶54 (B03-C006-P0054)](../build/reader/book-03.html#B03-C006-P0054)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 101, ¶55 (B03-C006-P0055)](../build/reader/book-03.html#B03-C006-P0055)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 101–102, ¶56 (B03-C006-P0056)](../build/reader/book-03.html#B03-C006-P0056)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 108–109, ¶116 (B03-C006-P0116)](../build/reader/book-03.html#B03-C006-P0116)
+
+<a id="b03-017"></a>
+### B03-017 · Divination classroom — plan, furniture and light
+
+Circular walls enclose at least twenty small round tables crowded with chintz armchairs and fat pouffes. Closed window curtains and dark-red scarves over lamps produce dim crimson light. Trelawney sits in a winged chair by the fire.
+
+- Category: interior; evidence: explicit; state: 2 September 1993.
+- Model: Attic/teashop comparison describes atmosphere, not an additional attic level. No table dimensions.
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 101–102, ¶56 (B03-C006-P0056)](../build/reader/book-03.html#B03-C006-P0056)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 102, ¶57 (B03-C006-P0057)](../build/reader/book-03.html#B03-C006-P0057)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 102, ¶59 (B03-C006-P0059)](../build/reader/book-03.html#B03-C006-P0059)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 102, ¶61 (B03-C006-P0061)](../build/reader/book-03.html#B03-C006-P0061)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 102, ¶62 (B03-C006-P0062)](../build/reader/book-03.html#B03-C006-P0062)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 102, ¶63 (B03-C006-P0063)](../build/reader/book-03.html#B03-C006-P0063)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 104, ¶72 (B03-C006-P0072)](../build/reader/book-03.html#B03-C006-P0072)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 104, ¶73 (B03-C006-P0073)](../build/reader/book-03.html#B03-C006-P0073)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 104–105, ¶76 (B03-C006-P0076)](../build/reader/book-03.html#B03-C006-P0076)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 105, ¶77 (B03-C006-P0077)](../build/reader/book-03.html#B03-C006-P0077)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 105, ¶80 (B03-C006-P0080)](../build/reader/book-03.html#B03-C006-P0080)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 105, ¶81 (B03-C006-P0081)](../build/reader/book-03.html#B03-C006-P0081)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 107, ¶99 (B03-C006-P0099)](../build/reader/book-03.html#B03-C006-P0099)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 107, ¶101 (B03-C006-P0101)](../build/reader/book-03.html#B03-C006-P0101)
+
+<a id="b03-018"></a>
+### B03-018 · Divination classroom — hearth and shelving
+
+A fire beneath a crowded mantel heats a large copper kettle, making the room stifling and heavily perfumed. Wall shelves hold dusty feathers, candle stubs, worn cards, silver crystal balls and many cups; silver teapots include a very large one, and cups have pink or blue patterns.
+
+- Category: furnishing; evidence: explicit; state: 2 September 1993.
+- Model: Detailed teaching props and sensory condition; two cups break during the lesson but no shelf damage is stated.
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 101–102, ¶56 (B03-C006-P0056)](../build/reader/book-03.html#B03-C006-P0056)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 102, ¶63 (B03-C006-P0063)](../build/reader/book-03.html#B03-C006-P0063)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 104, ¶72 (B03-C006-P0072)](../build/reader/book-03.html#B03-C006-P0072)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 104, ¶73 (B03-C006-P0073)](../build/reader/book-03.html#B03-C006-P0073)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 104–105, ¶76 (B03-C006-P0076)](../build/reader/book-03.html#B03-C006-P0076)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 105, ¶77 (B03-C006-P0077)](../build/reader/book-03.html#B03-C006-P0077)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 105, ¶78 (B03-C006-P0078)](../build/reader/book-03.html#B03-C006-P0078)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 105, ¶80 (B03-C006-P0080)](../build/reader/book-03.html#B03-C006-P0080)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 107, ¶99 (B03-C006-P0099)](../build/reader/book-03.html#B03-C006-P0099)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 108, ¶114 (B03-C006-P0114)](../build/reader/book-03.html#B03-C006-P0114)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 110, ¶126 (B03-C006-P0126)](../build/reader/book-03.html#B03-C006-P0126)
+
+<a id="b03-019"></a>
+### B03-019 · North Tower to Transfiguration
+
+The pupils descend the ladder and winding stair, then take so long finding McGonagall’s classroom that they barely arrive on time despite leaving early.
+
+- Category: route; evidence: explicit; state: 2 September 1993.
+- Model: Search time must not be turned into a direct distance or classroom floor assignment.
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 108, ¶113 (B03-C006-P0113)](../build/reader/book-03.html#B03-C006-P0113)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 108, ¶114 (B03-C006-P0114)](../build/reader/book-03.html#B03-C006-P0114)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 108, ¶115 (B03-C006-P0115)](../build/reader/book-03.html#B03-C006-P0115)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 108–109, ¶116 (B03-C006-P0116)](../build/reader/book-03.html#B03-C006-P0116)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 109, ¶117 (B03-C006-P0117)](../build/reader/book-03.html#B03-C006-P0117)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 110, ¶127 (B03-C006-P0127)](../build/reader/book-03.html#B03-C006-P0127)
+
+<a id="b03-020"></a>
+### B03-020 · Hagrid’s hut to creature paddock
+
+From the castle the class descends springy damp sloping lawns to Hagrid’s forest-edge hut. He leads them around the tree boundary for about five minutes to an initially empty fenced paddock.
+
+- Category: route; evidence: explicit; state: 2 September 1993.
+- Model: The route skirts rather than enters the Forest; paddock distance measured only in narrated walking time.
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 112, ¶150 (B03-C006-P0150)](../build/reader/book-03.html#B03-C006-P0150)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 112, ¶151 (B03-C006-P0151)](../build/reader/book-03.html#B03-C006-P0151)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 112, ¶152 (B03-C006-P0152)](../build/reader/book-03.html#B03-C006-P0152)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 112–113, ¶153 (B03-C006-P0153)](../build/reader/book-03.html#B03-C006-P0153)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 113, ¶154 (B03-C006-P0154)](../build/reader/book-03.html#B03-C006-P0154)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 113, ¶155 (B03-C006-P0155)](../build/reader/book-03.html#B03-C006-P0155)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 114, ¶167 (B03-C006-P0167)](../build/reader/book-03.html#B03-C006-P0167)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 114, ¶168 (B03-C006-P0168)](../build/reader/book-03.html#B03-C006-P0168)
+
+<a id="b03-021"></a>
+### B03-021 · Creature paddock — gate, grass and hippogriff tethers
+
+Hagrid returns from the Forest with twelve hippogriffs on long chains and thick leather collars, brings them from the paddock’s opposite side and tethers them to the fence. Pupils climb over the fence; a gate can be opened for carrying Malfoy out. Ground inside is grass.
+
+- Category: grounds; evidence: explicit; state: 2 September 1993.
+- Model: Observed paddock equipment and circulation. Hippogriff coat colours include grey, bronze, pinkish roan, chestnut and black; no stable described.
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 114, ¶168 (B03-C006-P0168)](../build/reader/book-03.html#B03-C006-P0168)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 114, ¶172 (B03-C006-P0172)](../build/reader/book-03.html#B03-C006-P0172)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 114–115, ¶173 (B03-C006-P0173)](../build/reader/book-03.html#B03-C006-P0173)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 115, ¶174 (B03-C006-P0174)](../build/reader/book-03.html#B03-C006-P0174)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 115, ¶176 (B03-C006-P0176)](../build/reader/book-03.html#B03-C006-P0176)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 115, ¶178 (B03-C006-P0178)](../build/reader/book-03.html#B03-C006-P0178)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶183 (B03-C006-P0183)](../build/reader/book-03.html#B03-C006-P0183)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶187 (B03-C006-P0187)](../build/reader/book-03.html#B03-C006-P0187)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶189 (B03-C006-P0189)](../build/reader/book-03.html#B03-C006-P0189)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 118, ¶208 (B03-C006-P0208)](../build/reader/book-03.html#B03-C006-P0208)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶211 (B03-C006-P0211)](../build/reader/book-03.html#B03-C006-P0211)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶214 (B03-C006-P0214)](../build/reader/book-03.html#B03-C006-P0214)
+
+<a id="b03-022"></a>
+### B03-022 · Paddock — hippogriff flight clearance
+
+Harry mounts grey Buckbeak behind the wing joint after reciprocal bows. The animal unfolds wings described as twelve-foot, flies once round the paddock and lands; later Malfoy’s insult prompts a talon strike.
+
+- Category: magic; evidence: explicit; state: 2 September 1993.
+- Model: Flight and approach rules constrain interaction space. Wording does not unambiguously distinguish individual wing length from full span; do not invent a paddock diameter.
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 115, ¶179 (B03-C006-P0179)](../build/reader/book-03.html#B03-C006-P0179)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 115, ¶181 (B03-C006-P0181)](../build/reader/book-03.html#B03-C006-P0181)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶188 (B03-C006-P0188)](../build/reader/book-03.html#B03-C006-P0188)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶189 (B03-C006-P0189)](../build/reader/book-03.html#B03-C006-P0189)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶190 (B03-C006-P0190)](../build/reader/book-03.html#B03-C006-P0190)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶191 (B03-C006-P0191)](../build/reader/book-03.html#B03-C006-P0191)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶192 (B03-C006-P0192)](../build/reader/book-03.html#B03-C006-P0192)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶193 (B03-C006-P0193)](../build/reader/book-03.html#B03-C006-P0193)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶194 (B03-C006-P0194)](../build/reader/book-03.html#B03-C006-P0194)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116–117, ¶195 (B03-C006-P0195)](../build/reader/book-03.html#B03-C006-P0195)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 117, ¶196 (B03-C006-P0196)](../build/reader/book-03.html#B03-C006-P0196)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 117, ¶198 (B03-C006-P0198)](../build/reader/book-03.html#B03-C006-P0198)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 117, ¶200 (B03-C006-P0200)](../build/reader/book-03.html#B03-C006-P0200)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 117, ¶202 (B03-C006-P0202)](../build/reader/book-03.html#B03-C006-P0202)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 117, ¶203 (B03-C006-P0203)](../build/reader/book-03.html#B03-C006-P0203)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 117, ¶204 (B03-C006-P0204)](../build/reader/book-03.html#B03-C006-P0204)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 117–118, ¶205 (B03-C006-P0205)](../build/reader/book-03.html#B03-C006-P0205)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 118, ¶206 (B03-C006-P0206)](../build/reader/book-03.html#B03-C006-P0206)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 118, ¶209 (B03-C006-P0209)](../build/reader/book-03.html#B03-C006-P0209)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 118–119, ¶210 (B03-C006-P0210)](../build/reader/book-03.html#B03-C006-P0210)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶211 (B03-C006-P0211)](../build/reader/book-03.html#B03-C006-P0211)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶214 (B03-C006-P0214)](../build/reader/book-03.html#B03-C006-P0214)
+
+<a id="b03-023"></a>
+### B03-023 · Paddock to castle — hospital and common-room branches
+
+Hagrid carries Malfoy uphill towards the castle through the paddock gate. The class follows up stone steps into the Entrance Hall; Pansy climbs the marble stair while Slytherins head towards the dungeon common room and the trio go upstairs to Gryffindor.
+
+- Category: route; evidence: explicit; state: 2 September 1993.
+- Model: Supports relative uphill terrain and branching indoor routes, without proving which hospital floor Pansy reaches.
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶214 (B03-C006-P0214)](../build/reader/book-03.html#B03-C006-P0214)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶215 (B03-C006-P0215)](../build/reader/book-03.html#B03-C006-P0215)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶218 (B03-C006-P0218)](../build/reader/book-03.html#B03-C006-P0218)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119–120, ¶219 (B03-C006-P0219)](../build/reader/book-03.html#B03-C006-P0219)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶220 (B03-C006-P0220)](../build/reader/book-03.html#B03-C006-P0220)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶221 (B03-C006-P0221)](../build/reader/book-03.html#B03-C006-P0221)
+
+<a id="b03-024"></a>
+### B03-024 · Gryffindor Tower to Hagrid’s hut — evening sightline
+
+From the tower common-room window the pupils see a light in Hagrid’s window. They descend from the portrait entrance to the front doors and cross wet dark grass to his hut, later being escorted back uphill.
+
+- Category: route; evidence: explicit; state: 2 September 1993.
+- Model: Direct common-room-to-hut window sightline; no compass bearing or distance. After-dark visits are forbidden for Harry in this security state.
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶228 (B03-C006-P0228)](../build/reader/book-03.html#B03-C006-P0228)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶229 (B03-C006-P0229)](../build/reader/book-03.html#B03-C006-P0229)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶230 (B03-C006-P0230)](../build/reader/book-03.html#B03-C006-P0230)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶231 (B03-C006-P0231)](../build/reader/book-03.html#B03-C006-P0231)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120–121, ¶233 (B03-C006-P0233)](../build/reader/book-03.html#B03-C006-P0233)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 121, ¶234 (B03-C006-P0234)](../build/reader/book-03.html#B03-C006-P0234)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 121, ¶235 (B03-C006-P0235)](../build/reader/book-03.html#B03-C006-P0235)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 123, ¶255 (B03-C006-P0255)](../build/reader/book-03.html#B03-C006-P0255)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 123, ¶256 (B03-C006-P0256)](../build/reader/book-03.html#B03-C006-P0256)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 123, ¶257 (B03-C006-P0257)](../build/reader/book-03.html#B03-C006-P0257)
+
+<a id="b03-025"></a>
+### B03-025 · Hagrid’s hut — tankard and outdoor water barrel
+
+Hagrid sits at the scrubbed wooden table with a nearly bucket-sized pewter tankard. Outside there is a water barrel into which, Hermione says, he plunges his head; he returns soaked.
+
+- Category: furnishing; evidence: explicit; state: 2 September 1993.
+- Model: Table/tankard observed; barrel action is reported and supported by splash/wet return. No yard layout supplied.
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 121, ¶236 (B03-C006-P0236)](../build/reader/book-03.html#B03-C006-P0236)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 121, ¶240 (B03-C006-P0240)](../build/reader/book-03.html#B03-C006-P0240)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 122, ¶248 (B03-C006-P0248)](../build/reader/book-03.html#B03-C006-P0248)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 122, ¶249 (B03-C006-P0249)](../build/reader/book-03.html#B03-C006-P0249)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 122, ¶250 (B03-C006-P0250)](../build/reader/book-03.html#B03-C006-P0250)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 122, ¶251 (B03-C006-P0251)](../build/reader/book-03.html#B03-C006-P0251)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 122, ¶252 (B03-C006-P0252)](../build/reader/book-03.html#B03-C006-P0252)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 122, ¶253 (B03-C006-P0253)](../build/reader/book-03.html#B03-C006-P0253)
+
+<a id="b03-026"></a>
+### B03-026 · Potions dungeon — shared worktable and gargoyle basin
+
+Cauldrons can be placed side by side around a shared ingredient-preparation table. A stone basin in a corner receives an icy jet from a gargoyle’s mouth and is used to wash hands and ladles; brass scales are used at desks.
+
+- Category: furnishing; evidence: explicit; state: September 1993.
+- Model: Explicit washing fixture and communal work surface; no identification with any entrance gargoyle.
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 123–124, ¶6 (B03-C007-P0006)](../build/reader/book-03.html#B03-C007-P0006)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 124, ¶11 (B03-C007-P0011)](../build/reader/book-03.html#B03-C007-P0011)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 124, ¶13 (B03-C007-P0013)](../build/reader/book-03.html#B03-C007-P0013)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 124, ¶15 (B03-C007-P0015)](../build/reader/book-03.html#B03-C007-P0015)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 124, ¶20 (B03-C007-P0020)](../build/reader/book-03.html#B03-C007-P0020)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 124–125, ¶23 (B03-C007-P0023)](../build/reader/book-03.html#B03-C007-P0023)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 125, ¶31 (B03-C007-P0031)](../build/reader/book-03.html#B03-C007-P0031)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 126, ¶38 (B03-C007-P0038)](../build/reader/book-03.html#B03-C007-P0038)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 126, ¶39 (B03-C007-P0039)](../build/reader/book-03.html#B03-C007-P0039)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 127, ¶53 (B03-C007-P0053)](../build/reader/book-03.html#B03-C007-P0053)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 127–128, ¶54 (B03-C007-P0054)](../build/reader/book-03.html#B03-C007-P0054)
+
+<a id="b03-027"></a>
+### B03-027 · Potions dungeon to Entrance Hall
+
+Pupils climb steps from Potions to the Entrance Hall, then head to the Great Hall for lunch.
+
+- Category: route; evidence: explicit; state: September 1993.
+- Model: Reaffirms direct vertical route. Hermione’s unexplained stair reappearance does not by itself imply a hidden architectural shortcut.
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 128, ¶61 (B03-C007-P0061)](../build/reader/book-03.html#B03-C007-P0061)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 128, ¶62 (B03-C007-P0062)](../build/reader/book-03.html#B03-C007-P0062)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 129, ¶66 (B03-C007-P0066)](../build/reader/book-03.html#B03-C007-P0066)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 129, ¶70 (B03-C007-P0070)](../build/reader/book-03.html#B03-C007-P0070)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 129, ¶73 (B03-C007-P0073)](../build/reader/book-03.html#B03-C007-P0073)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 129–130, ¶79 (B03-C007-P0079)](../build/reader/book-03.html#B03-C007-P0079)
+
+<a id="b03-028"></a>
+### B03-028 · Defence classroom to staff room — broom cupboard
+
+Lupin leaves his classroom’s teacher desk, leads pupils along a corridor, round a corner past a broom-storage door with a gum-blocked keyhole, then down a second corridor to the staff-room door.
+
+- Category: route; evidence: explicit; state: September 1993.
+- Model: Two-corridor sequence and lockable broom storage; no floor number or exact distance.
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 130, ¶82 (B03-C007-P0082)](../build/reader/book-03.html#B03-C007-P0082)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 130, ¶83 (B03-C007-P0083)](../build/reader/book-03.html#B03-C007-P0083)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 130, ¶85 (B03-C007-P0085)](../build/reader/book-03.html#B03-C007-P0085)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 130, ¶86 (B03-C007-P0086)](../build/reader/book-03.html#B03-C007-P0086)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 131, ¶87 (B03-C007-P0087)](../build/reader/book-03.html#B03-C007-P0087)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 131, ¶90 (B03-C007-P0090)](../build/reader/book-03.html#B03-C007-P0090)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 131, ¶94 (B03-C007-P0094)](../build/reader/book-03.html#B03-C007-P0094)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 131, ¶95 (B03-C007-P0095)](../build/reader/book-03.html#B03-C007-P0095)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 131–132, ¶98 (B03-C007-P0098)](../build/reader/book-03.html#B03-C007-P0098)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 132, ¶99 (B03-C007-P0099)](../build/reader/book-03.html#B03-C007-P0099)
+
+<a id="b03-029"></a>
+### B03-029 · Staff room — chairs and wardrobe at end
+
+The long panelled room contains old mismatched chairs, including a low armchair, and an old spare-robe wardrobe at the far end. The wardrobe stands close enough to bang against the wall when shaken.
+
+- Category: interior; evidence: explicit; state: September 1993.
+- Model: Adds long plan, chair variety, wardrobe end-position and closable door. No portrait or window inventory supplied.
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 132, ¶100 (B03-C007-P0100)](../build/reader/book-03.html#B03-C007-P0100)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 132, ¶104 (B03-C007-P0104)](../build/reader/book-03.html#B03-C007-P0104)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 132–133, ¶105 (B03-C007-P0105)](../build/reader/book-03.html#B03-C007-P0105)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 133, ¶107 (B03-C007-P0107)](../build/reader/book-03.html#B03-C007-P0107)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 134, ¶121 (B03-C007-P0121)](../build/reader/book-03.html#B03-C007-P0121)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 136, ¶136 (B03-C007-P0136)](../build/reader/book-03.html#B03-C007-P0136)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 136–137, ¶144 (B03-C007-P0144)](../build/reader/book-03.html#B03-C007-P0144)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 137, ¶145 (B03-C007-P0145)](../build/reader/book-03.html#B03-C007-P0145)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 137, ¶146 (B03-C007-P0146)](../build/reader/book-03.html#B03-C007-P0146)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 137, ¶147 (B03-C007-P0147)](../build/reader/book-03.html#B03-C007-P0147)
+
+<a id="b03-030"></a>
+### B03-030 · Staff-room wardrobe — Boggart lesson
+
+Lupin says a Boggart moved into the dark wardrobe the previous afternoon. It rattles the knob and shakes the wardrobe, then emerges as pupils back to the walls, taking successive frightening forms. After laughter and Riddikulus it bursts into smoke and vanishes.
+
+- Category: temporary; evidence: explicit; state: September 1993.
+- Model: Temporary shape-shifter, not real staff-room banshee, giant spider or mummy residency. The silvery orb’s identity is not established by Lavender’s guess.
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 132–133, ¶105 (B03-C007-P0105)](../build/reader/book-03.html#B03-C007-P0105)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 133, ¶106 (B03-C007-P0106)](../build/reader/book-03.html#B03-C007-P0106)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 133, ¶107 (B03-C007-P0107)](../build/reader/book-03.html#B03-C007-P0107)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 133, ¶108 (B03-C007-P0108)](../build/reader/book-03.html#B03-C007-P0108)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 133, ¶111 (B03-C007-P0111)](../build/reader/book-03.html#B03-C007-P0111)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 133, ¶112 (B03-C007-P0112)](../build/reader/book-03.html#B03-C007-P0112)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 134, ¶116 (B03-C007-P0116)](../build/reader/book-03.html#B03-C007-P0116)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 134, ¶117 (B03-C007-P0117)](../build/reader/book-03.html#B03-C007-P0117)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 136, ¶136 (B03-C007-P0136)](../build/reader/book-03.html#B03-C007-P0136)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 136–137, ¶144 (B03-C007-P0144)](../build/reader/book-03.html#B03-C007-P0144)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 137, ¶145 (B03-C007-P0145)](../build/reader/book-03.html#B03-C007-P0145)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 137, ¶146 (B03-C007-P0146)](../build/reader/book-03.html#B03-C007-P0146)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 137, ¶147 (B03-C007-P0147)](../build/reader/book-03.html#B03-C007-P0147)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 137, ¶150 (B03-C007-P0150)](../build/reader/book-03.html#B03-C007-P0150)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 137, ¶152 (B03-C007-P0152)](../build/reader/book-03.html#B03-C007-P0152)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 138, ¶157 (B03-C007-P0157)](../build/reader/book-03.html#B03-C007-P0157)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 138, ¶160 (B03-C007-P0160)](../build/reader/book-03.html#B03-C007-P0160)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 138, ¶163 (B03-C007-P0163)](../build/reader/book-03.html#B03-C007-P0163)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 138, ¶169 (B03-C007-P0169)](../build/reader/book-03.html#B03-C007-P0169)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 138, ¶170 (B03-C007-P0170)](../build/reader/book-03.html#B03-C007-P0170)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 138–139, ¶173 (B03-C007-P0173)](../build/reader/book-03.html#B03-C007-P0173)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 139, ¶175 (B03-C007-P0175)](../build/reader/book-03.html#B03-C007-P0175)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 139, ¶176 (B03-C007-P0176)](../build/reader/book-03.html#B03-C007-P0176)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 139, ¶179 (B03-C007-P0179)](../build/reader/book-03.html#B03-C007-P0179)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 139, ¶180 (B03-C007-P0180)](../build/reader/book-03.html#B03-C007-P0180)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 140, ¶187 (B03-C007-P0187)](../build/reader/book-03.html#B03-C007-P0187)
 
 ## Book 4: Harry Potter and the Goblet of Fire
 

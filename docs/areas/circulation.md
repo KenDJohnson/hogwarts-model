@@ -606,11 +606,11 @@ Model: Flooded extent and acoustic state; no drain capacity or quantified water 
 
 ## B02-135: Staff room — overhead circulation and emergency announcement
 
-Hidden in the cloak wardrobe, the boys hear hundreds of people moving overhead as teachers enter. McGonagall’s amplified announcement has ordered pupils to dormitories and teachers to this room.
+Hidden in the cloak wardrobe, the boys hear hundreds of people moving overhead as teachers enter. McGonagall’s amplified announcement has ordered pupils to dormitories and teachers to this room. That afternoon Gryffindor Tower is unusually crowded and quiet.
 
 Evidence: explicit; state: Late May 1993, Chamber rescue.
 
-Model: Acoustic relation to overhead circulation, no ceiling height or exact upper room identified.
+Model: Acoustic relation to overhead circulation, no ceiling height or exact upper room identified. The crowded, quiet atmosphere is a dated occupancy state, not a measurement of room capacity.
 
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 295, ¶98 (B02-C016-P0098)](../../build/reader/book-02.html#B02-C016-P0098)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 295, ¶99 (B02-C016-P0099)](../../build/reader/book-02.html#B02-C016-P0099)
@@ -620,6 +620,7 @@ Model: Acoustic relation to overhead circulation, no ceiling height or exact upp
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 295–296, ¶106 (B02-C016-P0106)](../../build/reader/book-02.html#B02-C016-P0106)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 297, ¶130 (B02-C016-P0130)](../../build/reader/book-02.html#B02-C016-P0130)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 297–298, ¶131 (B02-C016-P0131)](../../build/reader/book-02.html#B02-C016-P0131)
+- [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 298, ¶134 (B02-C016-P0134)](../../build/reader/book-02.html#B02-C016-P0134)
 
 ## B02-136: Writing corridor — second message and planned evacuation
 
@@ -693,6 +694,21 @@ Model: Confirms a corridor corner, stair flight and lower landing near office. D
 - [Book 2, ch. 18, “Dobby’s Reward”, ref p. 342, ¶118 (B02-C018-P0118)](../../build/reader/book-02.html#B02-C018-P0118)
 - [Book 2, ch. 18, “Dobby’s Reward”, ref p. 342, ¶119 (B02-C018-P0119)](../../build/reader/book-02.html#B02-C018-P0119)
 - [Book 2, ch. 18, “Dobby’s Reward”, ref p. 343, ¶127 (B02-C018-P0127)](../../build/reader/book-02.html#B02-C018-P0127)
+
+## B03-014: Great Hall to North Tower — long stair route
+
+Divination is at the top of North Tower, a long journey estimated by Ron at ten minutes. After seven long staircases the trio reach an unfamiliar stone-walled landing with a painting; an empty passage branches right and a window gives a partial lake view. Ron identifies that way as south.
+
+Evidence: explicit; state: 2 September 1993.
+
+Model: Seven flights are not seven floors. South is Ron’s orientation claim tied to the lake sightline, not an independently surveyed bearing.
+
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 98, ¶31 (B03-C006-P0031)](../../build/reader/book-03.html#B03-C006-P0031)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 98, ¶32 (B03-C006-P0032)](../../build/reader/book-03.html#B03-C006-P0032)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 98–99, ¶33 (B03-C006-P0033)](../../build/reader/book-03.html#B03-C006-P0033)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶34 (B03-C006-P0034)](../../build/reader/book-03.html#B03-C006-P0034)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶35 (B03-C006-P0035)](../../build/reader/book-03.html#B03-C006-P0035)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶36 (B03-C006-P0036)](../../build/reader/book-03.html#B03-C006-P0036)
 
 ## B04-019: Route to Gryffindor Tower: concealed staircase
 

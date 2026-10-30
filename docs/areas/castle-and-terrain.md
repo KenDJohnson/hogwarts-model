@@ -335,6 +335,35 @@ Model: Fourth floor is the patrol location, not a stated location of this lesson
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 291, ¶66 (B02-C016-P0066)](../../build/reader/book-02.html#B02-C016-P0066)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 291, ¶67 (B02-C016-P0067)](../../build/reader/book-02.html#B02-C016-P0067)
 
+## B03-008: Grounds gates and castle drive
+
+Magnificent wrought-iron gates stand between stone columns topped by winged boars, with a Dementor guarding each side. Beyond them a long sloping drive rises to the many-towered castle, ending at its stone entrance steps.
+
+Evidence: explicit; state: 1 September 1993.
+
+Model: Gateposts and two visible sentries explicit; no total perimeter length or gate compass bearing.
+
+- [Book 3, ch. 5, “The Dementor”, ref p. 87–88, ¶208 (B03-C005-P0208)](../../build/reader/book-03.html#B03-C005-P0208)
+- [Book 3, ch. 5, “The Dementor”, ref p. 88, ¶209 (B03-C005-P0209)](../../build/reader/book-03.html#B03-C005-P0209)
+- [Book 3, ch. 5, “The Dementor”, ref p. 88, ¶211 (B03-C005-P0211)](../../build/reader/book-03.html#B03-C005-P0211)
+- [Book 3, ch. 5, “The Dementor”, ref p. 88, ¶215 (B03-C005-P0215)](../../build/reader/book-03.html#B03-C005-P0215)
+- [Book 3, ch. 5, “The Dementor”, ref p. 88, ¶216 (B03-C005-P0216)](../../build/reader/book-03.html#B03-C005-P0216)
+
+## B03-023: Paddock to castle — hospital and common-room branches
+
+Hagrid carries Malfoy uphill towards the castle through the paddock gate. The class follows up stone steps into the Entrance Hall; Pansy climbs the marble stair while Slytherins head towards the dungeon common room and the trio go upstairs to Gryffindor.
+
+Evidence: explicit; state: 2 September 1993.
+
+Model: Supports relative uphill terrain and branching indoor routes, without proving which hospital floor Pansy reaches.
+
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶214 (B03-C006-P0214)](../../build/reader/book-03.html#B03-C006-P0214)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶215 (B03-C006-P0215)](../../build/reader/book-03.html#B03-C006-P0215)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶218 (B03-C006-P0218)](../../build/reader/book-03.html#B03-C006-P0218)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119–120, ¶219 (B03-C006-P0219)](../../build/reader/book-03.html#B03-C006-P0219)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶220 (B03-C006-P0220)](../../build/reader/book-03.html#B03-C006-P0220)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶221 (B03-C006-P0221)](../../build/reader/book-03.html#B03-C006-P0221)
+
 ## B04-002: Hogwarts concealment
 
 Hermione explains that Muggles see Hogwarts as a deteriorating ruin with an entrance warning declaring it dangerous and unsafe to enter.

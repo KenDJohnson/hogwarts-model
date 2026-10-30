@@ -171,6 +171,135 @@ Model: School-to-station transfer mode is omitted this year; do not reuse book 1
 - [Book 2, ch. 18, “Dobby’s Reward”, ref p. 345, ¶145 (B02-C018-P0145)](../../build/reader/book-02.html#B02-C018-P0145)
 - [Book 2, ch. 18, “Dobby’s Reward”, ref p. 345, ¶147 (B02-C018-P0147)](../../build/reader/book-02.html#B02-C018-P0147)
 
+## B03-001: Hogwarts Express — term-start connection
+
+The school letter specifies departure from King’s Cross platform nine and three-quarters at eleven on 1 September.
+
+Evidence: reported; state: 1 September 1993 arrangements.
+
+Model: Transport context; this does not locate Hogwarts geographically.
+
+- [Book 3, ch. 1, “Owl Post”, ref p. 14, ¶91 (B03-C001-P0091)](../../build/reader/book-03.html#B03-C001-P0091)
+- [Book 3, ch. 1, “Owl Post”, ref p. 14–15, ¶92 (B03-C001-P0092)](../../build/reader/book-03.html#B03-C001-P0092)
+
+## B03-002: Hogsmeade — pupil access boundary
+
+Third-years may visit Hogsmeade on specified weekends with a parent or guardian’s signed permission. Harry knows it as an entirely wizarding village he has not yet visited. Fudge refuses to sign because he is neither parent nor guardian.
+
+Evidence: reported; state: 1993–94 school rules.
+
+Model: A permission-controlled connection to the nearby village; no distance or path geometry yet.
+
+- [Book 3, ch. 1, “Owl Post”, ref p. 15, ¶93 (B03-C001-P0093)](../../build/reader/book-03.html#B03-C001-P0093)
+- [Book 3, ch. 1, “Owl Post”, ref p. 15, ¶98 (B03-C001-P0098)](../../build/reader/book-03.html#B03-C001-P0098)
+- [Book 3, ch. 3, “The Knight Bus”, ref p. 47, ¶155 (B03-C003-P0155)](../../build/reader/book-03.html#B03-C003-P0155)
+- [Book 3, ch. 3, “The Knight Bus”, ref p. 47, ¶157 (B03-C003-P0157)](../../build/reader/book-03.html#B03-C003-P0157)
+- [Book 3, ch. 3, “The Knight Bus”, ref p. 47–48, ¶159 (B03-C003-P0159)](../../build/reader/book-03.html#B03-C003-P0159)
+
+## B03-004: Hogsmeade — boundary destinations and reports
+
+Ron identifies Dervish and Banges as a magical-instrument shop and Honeydukes as a sweetshop. Hermione reports Hogsmeade as Britain’s only entirely non-Muggle settlement, an unnamed inn as a 1612 rebellion headquarters, and the Shrieking Shack as exceptionally haunted.
+
+Evidence: reported; state: 1 September 1993.
+
+Model: Village context for later journeys; no shop interiors mapped here, inn identity and haunting remain reports.
+
+- [Book 3, ch. 5, “The Dementor”, ref p. 77, ¶78 (B03-C005-P0078)](../../build/reader/book-03.html#B03-C005-P0078)
+- [Book 3, ch. 5, “The Dementor”, ref p. 77, ¶79 (B03-C005-P0079)](../../build/reader/book-03.html#B03-C005-P0079)
+- [Book 3, ch. 5, “The Dementor”, ref p. 77, ¶80 (B03-C005-P0080)](../../build/reader/book-03.html#B03-C005-P0080)
+- [Book 3, ch. 5, “The Dementor”, ref p. 77, ¶81 (B03-C005-P0081)](../../build/reader/book-03.html#B03-C005-P0081)
+- [Book 3, ch. 5, “The Dementor”, ref p. 77, ¶82 (B03-C005-P0082)](../../build/reader/book-03.html#B03-C005-P0082)
+- [Book 3, ch. 5, “The Dementor”, ref p. 77, ¶83 (B03-C005-P0083)](../../build/reader/book-03.html#B03-C005-P0083)
+
+## B03-005: Hogwarts Express — northward journey and Dementor search
+
+The train moves north past wilder countryside and rolling hills into heavy rain and darkness. It stops short of the destination; lights fail and a Dementor enters, bringing intense cold. After it is repelled the train and lantern lighting resume.
+
+Evidence: explicit; state: 1 September 1993.
+
+Model: Transport security incident before arrival; repulsion is Hermione’s report while Harry is unconscious, not a witnessed school perimeter test.
+
+- [Book 3, ch. 5, “The Dementor”, ref p. 79, ¶103 (B03-C005-P0103)](../../build/reader/book-03.html#B03-C005-P0103)
+- [Book 3, ch. 5, “The Dementor”, ref p. 79–80, ¶112 (B03-C005-P0112)](../../build/reader/book-03.html#B03-C005-P0112)
+- [Book 3, ch. 5, “The Dementor”, ref p. 81, ¶127 (B03-C005-P0127)](../../build/reader/book-03.html#B03-C005-P0127)
+- [Book 3, ch. 5, “The Dementor”, ref p. 81, ¶129 (B03-C005-P0129)](../../build/reader/book-03.html#B03-C005-P0129)
+- [Book 3, ch. 5, “The Dementor”, ref p. 81, ¶131 (B03-C005-P0131)](../../build/reader/book-03.html#B03-C005-P0131)
+- [Book 3, ch. 5, “The Dementor”, ref p. 81, ¶133 (B03-C005-P0133)](../../build/reader/book-03.html#B03-C005-P0133)
+- [Book 3, ch. 5, “The Dementor”, ref p. 81–82, ¶135 (B03-C005-P0135)](../../build/reader/book-03.html#B03-C005-P0135)
+- [Book 3, ch. 5, “The Dementor”, ref p. 82, ¶141 (B03-C005-P0141)](../../build/reader/book-03.html#B03-C005-P0141)
+- [Book 3, ch. 5, “The Dementor”, ref p. 82, ¶142 (B03-C005-P0142)](../../build/reader/book-03.html#B03-C005-P0142)
+- [Book 3, ch. 5, “The Dementor”, ref p. 83, ¶161 (B03-C005-P0161)](../../build/reader/book-03.html#B03-C005-P0161)
+- [Book 3, ch. 5, “The Dementor”, ref p. 83, ¶163 (B03-C005-P0163)](../../build/reader/book-03.html#B03-C005-P0163)
+- [Book 3, ch. 5, “The Dementor”, ref p. 83, ¶164 (B03-C005-P0164)](../../build/reader/book-03.html#B03-C005-P0164)
+- [Book 3, ch. 5, “The Dementor”, ref p. 83, ¶166 (B03-C005-P0166)](../../build/reader/book-03.html#B03-C005-P0166)
+- [Book 3, ch. 5, “The Dementor”, ref p. 83, ¶167 (B03-C005-P0167)](../../build/reader/book-03.html#B03-C005-P0167)
+- [Book 3, ch. 5, “The Dementor”, ref p. 84, ¶173 (B03-C005-P0173)](../../build/reader/book-03.html#B03-C005-P0173)
+- [Book 3, ch. 5, “The Dementor”, ref p. 85, ¶184 (B03-C005-P0184)](../../build/reader/book-03.html#B03-C005-P0184)
+- [Book 3, ch. 5, “The Dementor”, ref p. 85, ¶192 (B03-C005-P0192)](../../build/reader/book-03.html#B03-C005-P0192)
+- [Book 3, ch. 5, “The Dementor”, ref p. 85–86, ¶193 (B03-C005-P0193)](../../build/reader/book-03.html#B03-C005-P0193)
+- [Book 3, ch. 5, “The Dementor”, ref p. 86, ¶200 (B03-C005-P0200)](../../build/reader/book-03.html#B03-C005-P0200)
+- [Book 3, ch. 5, “The Dementor”, ref p. 86, ¶201 (B03-C005-P0201)](../../build/reader/book-03.html#B03-C005-P0201)
+
+## B03-006: Hogsmeade station — school arrival split
+
+The train arrives at Hogsmeade’s tiny freezing platform in driving rain. Hagrid gathers first-years for their traditional lake crossing; older pupils leave along the platform to a rough muddy track with at least a hundred stagecoaches.
+
+Evidence: explicit; state: 1 September 1993.
+
+Model: First explicit station name. Distinct first-year boat and older-pupil coach arrangements, without mapping station-to-lake path anew.
+
+- [Book 3, ch. 5, “The Dementor”, ref p. 86–87, ¶204 (B03-C005-P0204)](../../build/reader/book-03.html#B03-C005-P0204)
+- [Book 3, ch. 5, “The Dementor”, ref p. 87, ¶205 (B03-C005-P0205)](../../build/reader/book-03.html#B03-C005-P0205)
+- [Book 3, ch. 5, “The Dementor”, ref p. 87, ¶206 (B03-C005-P0206)](../../build/reader/book-03.html#B03-C005-P0206)
+
+## B03-007: Arrival coaches
+
+A boarded coach sets off apparently by itself; Harry assumes an invisible horse. Its small windows, lumpy seats, mould-and-straw smell and bumping procession are described.
+
+Evidence: explicit; state: 1 September 1993.
+
+Model: Observation and Harry’s assumption kept separate; no unseen animal species supplied from later knowledge.
+
+- [Book 3, ch. 5, “The Dementor”, ref p. 87, ¶206 (B03-C005-P0206)](../../build/reader/book-03.html#B03-C005-P0206)
+- [Book 3, ch. 5, “The Dementor”, ref p. 87, ¶207 (B03-C005-P0207)](../../build/reader/book-03.html#B03-C005-P0207)
+- [Book 3, ch. 5, “The Dementor”, ref p. 87–88, ¶208 (B03-C005-P0208)](../../build/reader/book-03.html#B03-C005-P0208)
+- [Book 3, ch. 5, “The Dementor”, ref p. 88, ¶214 (B03-C005-P0214)](../../build/reader/book-03.html#B03-C005-P0214)
+
+## B03-008: Grounds gates and castle drive
+
+Magnificent wrought-iron gates stand between stone columns topped by winged boars, with a Dementor guarding each side. Beyond them a long sloping drive rises to the many-towered castle, ending at its stone entrance steps.
+
+Evidence: explicit; state: 1 September 1993.
+
+Model: Gateposts and two visible sentries explicit; no total perimeter length or gate compass bearing.
+
+- [Book 3, ch. 5, “The Dementor”, ref p. 87–88, ¶208 (B03-C005-P0208)](../../build/reader/book-03.html#B03-C005-P0208)
+- [Book 3, ch. 5, “The Dementor”, ref p. 88, ¶209 (B03-C005-P0209)](../../build/reader/book-03.html#B03-C005-P0209)
+- [Book 3, ch. 5, “The Dementor”, ref p. 88, ¶211 (B03-C005-P0211)](../../build/reader/book-03.html#B03-C005-P0211)
+- [Book 3, ch. 5, “The Dementor”, ref p. 88, ¶215 (B03-C005-P0215)](../../build/reader/book-03.html#B03-C005-P0215)
+- [Book 3, ch. 5, “The Dementor”, ref p. 88, ¶216 (B03-C005-P0216)](../../build/reader/book-03.html#B03-C005-P0216)
+
+## B03-021: Creature paddock — gate, grass and hippogriff tethers
+
+Hagrid returns from the Forest with twelve hippogriffs on long chains and thick leather collars, brings them from the paddock’s opposite side and tethers them to the fence. Pupils climb over the fence; a gate can be opened for carrying Malfoy out. Ground inside is grass.
+
+Evidence: explicit; state: 2 September 1993.
+
+Model: Observed paddock equipment and circulation. Hippogriff coat colours include grey, bronze, pinkish roan, chestnut and black; no stable described.
+
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 114, ¶168 (B03-C006-P0168)](../../build/reader/book-03.html#B03-C006-P0168)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 114, ¶172 (B03-C006-P0172)](../../build/reader/book-03.html#B03-C006-P0172)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 114–115, ¶173 (B03-C006-P0173)](../../build/reader/book-03.html#B03-C006-P0173)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 115, ¶174 (B03-C006-P0174)](../../build/reader/book-03.html#B03-C006-P0174)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 115, ¶176 (B03-C006-P0176)](../../build/reader/book-03.html#B03-C006-P0176)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 115, ¶178 (B03-C006-P0178)](../../build/reader/book-03.html#B03-C006-P0178)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶183 (B03-C006-P0183)](../../build/reader/book-03.html#B03-C006-P0183)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶187 (B03-C006-P0187)](../../build/reader/book-03.html#B03-C006-P0187)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 116, ¶189 (B03-C006-P0189)](../../build/reader/book-03.html#B03-C006-P0189)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 118, ¶208 (B03-C006-P0208)](../../build/reader/book-03.html#B03-C006-P0208)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶211 (B03-C006-P0211)](../../build/reader/book-03.html#B03-C006-P0211)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶214 (B03-C006-P0214)](../../build/reader/book-03.html#B03-C006-P0214)
+
 ## B04-003: London to Hogsmeade station
 
 The Hogwarts Express departs the concealed platform nine and three-quarters at King’s Cross, travels north, and arrives at Hogsmeade station after dark. The London platform is accessed through the apparently solid barrier between platforms nine and ten.

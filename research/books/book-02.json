@@ -494,7 +494,7 @@
       "id": "B02-029",
       "location": "Hagrid’s cabin — corners, table and basin",
       "category": "interior",
-      "description": "The one-room cabin has an enormous bed in one corner and a crackling fire in another. Chairs surround a scrubbed table used for tea; Hagrid brings a large copper basin for Ron.",
+      "description": "The one-room cabin has an enormous bed in one corner and a crackling fire in another. Chairs surround a scrubbed table used for tea; Hagrid brings a large copper basin for Ron. Harry later recalls the dragon being raised in Hagrid’s little wooden house during the previous school year.",
       "evidence": [
         "B02-C007-P0098",
         "B02-C007-P0099",
@@ -502,11 +502,12 @@
         "B02-C007-P0103",
         "B02-C007-P0107",
         "B02-C007-P0121",
-        "B02-C007-P0125"
+        "B02-C007-P0125",
+        "B02-C014-P0001"
       ],
       "certainty": "explicit",
       "temporal": "September 1992, first Saturday",
-      "model_notes": "Adds separate bed/fire corners and table finish; rooster and basin are temporary objects."
+      "model_notes": "Adds separate bed/fire corners and table finish; rooster and basin are temporary objects. The wooden-house reference is a retrospective description of the previous year."
     },
     {
       "id": "B02-030",
@@ -2423,7 +2424,7 @@
       "id": "B02-135",
       "location": "Staff room — overhead circulation and emergency announcement",
       "category": "temporary",
-      "description": "Hidden in the cloak wardrobe, the boys hear hundreds of people moving overhead as teachers enter. McGonagall’s amplified announcement has ordered pupils to dormitories and teachers to this room.",
+      "description": "Hidden in the cloak wardrobe, the boys hear hundreds of people moving overhead as teachers enter. McGonagall’s amplified announcement has ordered pupils to dormitories and teachers to this room. That afternoon Gryffindor Tower is unusually crowded and quiet.",
       "evidence": [
         "B02-C016-P0098",
         "B02-C016-P0099",
@@ -2432,11 +2433,12 @@
         "B02-C016-P0105",
         "B02-C016-P0106",
         "B02-C016-P0130",
-        "B02-C016-P0131"
+        "B02-C016-P0131",
+        "B02-C016-P0134"
       ],
       "certainty": "explicit",
       "temporal": "Late May 1993, Chamber rescue",
-      "model_notes": "Acoustic relation to overhead circulation, no ceiling height or exact upper room identified."
+      "model_notes": "Acoustic relation to overhead circulation, no ceiling height or exact upper room identified. The crowded, quiet atmosphere is a dated occupancy state, not a measurement of room capacity."
     },
     {
       "id": "B02-136",

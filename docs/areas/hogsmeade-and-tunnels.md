@@ -123,6 +123,47 @@ Model: Adds ground route and sightline; sling damage state dated after the car c
 - [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 90, ¶31 (B02-C006-P0031)](../../build/reader/book-02.html#B02-C006-P0031)
 - [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 90, ¶32 (B02-C006-P0032)](../../build/reader/book-02.html#B02-C006-P0032)
 
+## B03-002: Hogsmeade — pupil access boundary
+
+Third-years may visit Hogsmeade on specified weekends with a parent or guardian’s signed permission. Harry knows it as an entirely wizarding village he has not yet visited. Fudge refuses to sign because he is neither parent nor guardian.
+
+Evidence: reported; state: 1993–94 school rules.
+
+Model: A permission-controlled connection to the nearby village; no distance or path geometry yet.
+
+- [Book 3, ch. 1, “Owl Post”, ref p. 15, ¶93 (B03-C001-P0093)](../../build/reader/book-03.html#B03-C001-P0093)
+- [Book 3, ch. 1, “Owl Post”, ref p. 15, ¶98 (B03-C001-P0098)](../../build/reader/book-03.html#B03-C001-P0098)
+- [Book 3, ch. 3, “The Knight Bus”, ref p. 47, ¶155 (B03-C003-P0155)](../../build/reader/book-03.html#B03-C003-P0155)
+- [Book 3, ch. 3, “The Knight Bus”, ref p. 47, ¶157 (B03-C003-P0157)](../../build/reader/book-03.html#B03-C003-P0157)
+- [Book 3, ch. 3, “The Knight Bus”, ref p. 47–48, ¶159 (B03-C003-P0159)](../../build/reader/book-03.html#B03-C003-P0159)
+
+## B03-004: Hogsmeade — boundary destinations and reports
+
+Ron identifies Dervish and Banges as a magical-instrument shop and Honeydukes as a sweetshop. Hermione reports Hogsmeade as Britain’s only entirely non-Muggle settlement, an unnamed inn as a 1612 rebellion headquarters, and the Shrieking Shack as exceptionally haunted.
+
+Evidence: reported; state: 1 September 1993.
+
+Model: Village context for later journeys; no shop interiors mapped here, inn identity and haunting remain reports.
+
+- [Book 3, ch. 5, “The Dementor”, ref p. 77, ¶78 (B03-C005-P0078)](../../build/reader/book-03.html#B03-C005-P0078)
+- [Book 3, ch. 5, “The Dementor”, ref p. 77, ¶79 (B03-C005-P0079)](../../build/reader/book-03.html#B03-C005-P0079)
+- [Book 3, ch. 5, “The Dementor”, ref p. 77, ¶80 (B03-C005-P0080)](../../build/reader/book-03.html#B03-C005-P0080)
+- [Book 3, ch. 5, “The Dementor”, ref p. 77, ¶81 (B03-C005-P0081)](../../build/reader/book-03.html#B03-C005-P0081)
+- [Book 3, ch. 5, “The Dementor”, ref p. 77, ¶82 (B03-C005-P0082)](../../build/reader/book-03.html#B03-C005-P0082)
+- [Book 3, ch. 5, “The Dementor”, ref p. 77, ¶83 (B03-C005-P0083)](../../build/reader/book-03.html#B03-C005-P0083)
+
+## B03-006: Hogsmeade station — school arrival split
+
+The train arrives at Hogsmeade’s tiny freezing platform in driving rain. Hagrid gathers first-years for their traditional lake crossing; older pupils leave along the platform to a rough muddy track with at least a hundred stagecoaches.
+
+Evidence: explicit; state: 1 September 1993.
+
+Model: First explicit station name. Distinct first-year boat and older-pupil coach arrangements, without mapping station-to-lake path anew.
+
+- [Book 3, ch. 5, “The Dementor”, ref p. 86–87, ¶204 (B03-C005-P0204)](../../build/reader/book-03.html#B03-C005-P0204)
+- [Book 3, ch. 5, “The Dementor”, ref p. 87, ¶205 (B03-C005-P0205)](../../build/reader/book-03.html#B03-C005-P0205)
+- [Book 3, ch. 5, “The Dementor”, ref p. 87, ¶206 (B03-C005-P0206)](../../build/reader/book-03.html#B03-C005-P0206)
+
 ## B04-003: London to Hogsmeade station
 
 The Hogwarts Express departs the concealed platform nine and three-quarters at King’s Cross, travels north, and arrives at Hogsmeade station after dark. The London platform is accessed through the apparently solid barrier between platforms nine and ten.

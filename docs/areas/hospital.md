@@ -247,6 +247,21 @@ Model: Adds lower staff-room relation and seating/wardrobe. Left is Harry’s vi
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 296, ¶110 (B02-C016-P0110)](../../build/reader/book-02.html#B02-C016-P0110)
 - [Book 2, ch. 16, “The Chamber of Secrets”, ref p. 296, ¶112 (B02-C016-P0112)](../../build/reader/book-02.html#B02-C016-P0112)
 
+## B03-023: Paddock to castle — hospital and common-room branches
+
+Hagrid carries Malfoy uphill towards the castle through the paddock gate. The class follows up stone steps into the Entrance Hall; Pansy climbs the marble stair while Slytherins head towards the dungeon common room and the trio go upstairs to Gryffindor.
+
+Evidence: explicit; state: 2 September 1993.
+
+Model: Supports relative uphill terrain and branching indoor routes, without proving which hospital floor Pansy reaches.
+
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶214 (B03-C006-P0214)](../../build/reader/book-03.html#B03-C006-P0214)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶215 (B03-C006-P0215)](../../build/reader/book-03.html#B03-C006-P0215)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119, ¶218 (B03-C006-P0218)](../../build/reader/book-03.html#B03-C006-P0218)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 119–120, ¶219 (B03-C006-P0219)](../../build/reader/book-03.html#B03-C006-P0219)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶220 (B03-C006-P0220)](../../build/reader/book-03.html#B03-C006-P0220)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 120, ¶221 (B03-C006-P0221)](../../build/reader/book-03.html#B03-C006-P0221)
+
 ## B04-050: Entrance Hall to hospital wing
 
 Dumbledore tells the bearded twins to go up to Madam Pomfrey, and they depart for the hospital wing.

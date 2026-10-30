@@ -398,6 +398,150 @@ Model: Reported unnamed classroom use; no floor, furnishings or identity with pr
 - [Book 2, ch. 18, “Dobby’s Reward”, ref p. 344–345, ¶136 (B02-C018-P0136)](../../build/reader/book-02.html#B02-C018-P0136)
 - [Book 2, ch. 18, “Dobby’s Reward”, ref p. 345, ¶139 (B02-C018-P0139)](../../build/reader/book-02.html#B02-C018-P0139)
 
+## B03-014: Great Hall to North Tower — long stair route
+
+Divination is at the top of North Tower, a long journey estimated by Ron at ten minutes. After seven long staircases the trio reach an unfamiliar stone-walled landing with a painting; an empty passage branches right and a window gives a partial lake view. Ron identifies that way as south.
+
+Evidence: explicit; state: 2 September 1993.
+
+Model: Seven flights are not seven floors. South is Ron’s orientation claim tied to the lake sightline, not an independently surveyed bearing.
+
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 98, ¶31 (B03-C006-P0031)](../../build/reader/book-03.html#B03-C006-P0031)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 98, ¶32 (B03-C006-P0032)](../../build/reader/book-03.html#B03-C006-P0032)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 98–99, ¶33 (B03-C006-P0033)](../../build/reader/book-03.html#B03-C006-P0033)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶34 (B03-C006-P0034)](../../build/reader/book-03.html#B03-C006-P0034)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶35 (B03-C006-P0035)](../../build/reader/book-03.html#B03-C006-P0035)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶36 (B03-C006-P0036)](../../build/reader/book-03.html#B03-C006-P0036)
+
+## B03-016: North Tower classroom access
+
+A tight narrow spiral climbs to a tiny landing with no doors. A circular ceiling trapdoor bears a brass plaque naming Sybill Trelawney; it opens and lowers a silvery ladder for entry.
+
+Evidence: explicit; state: 2 September 1993.
+
+Model: Trapdoor and ladder are the observed classroom entrance, not a conventional corridor door; exact staircase floors unknown.
+
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100, ¶48 (B03-C006-P0048)](../../build/reader/book-03.html#B03-C006-P0048)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100–101, ¶49 (B03-C006-P0049)](../../build/reader/book-03.html#B03-C006-P0049)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 101, ¶52 (B03-C006-P0052)](../../build/reader/book-03.html#B03-C006-P0052)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 101, ¶53 (B03-C006-P0053)](../../build/reader/book-03.html#B03-C006-P0053)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 101, ¶54 (B03-C006-P0054)](../../build/reader/book-03.html#B03-C006-P0054)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 101, ¶55 (B03-C006-P0055)](../../build/reader/book-03.html#B03-C006-P0055)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 101–102, ¶56 (B03-C006-P0056)](../../build/reader/book-03.html#B03-C006-P0056)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 108–109, ¶116 (B03-C006-P0116)](../../build/reader/book-03.html#B03-C006-P0116)
+
+## B03-017: Divination classroom — plan, furniture and light
+
+Circular walls enclose at least twenty small round tables crowded with chintz armchairs and fat pouffes. Closed window curtains and dark-red scarves over lamps produce dim crimson light. Trelawney sits in a winged chair by the fire.
+
+Evidence: explicit; state: 2 September 1993.
+
+Model: Attic/teashop comparison describes atmosphere, not an additional attic level. No table dimensions.
+
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 101–102, ¶56 (B03-C006-P0056)](../../build/reader/book-03.html#B03-C006-P0056)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 102, ¶57 (B03-C006-P0057)](../../build/reader/book-03.html#B03-C006-P0057)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 102, ¶59 (B03-C006-P0059)](../../build/reader/book-03.html#B03-C006-P0059)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 102, ¶61 (B03-C006-P0061)](../../build/reader/book-03.html#B03-C006-P0061)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 102, ¶62 (B03-C006-P0062)](../../build/reader/book-03.html#B03-C006-P0062)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 102, ¶63 (B03-C006-P0063)](../../build/reader/book-03.html#B03-C006-P0063)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 104, ¶72 (B03-C006-P0072)](../../build/reader/book-03.html#B03-C006-P0072)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 104, ¶73 (B03-C006-P0073)](../../build/reader/book-03.html#B03-C006-P0073)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 104–105, ¶76 (B03-C006-P0076)](../../build/reader/book-03.html#B03-C006-P0076)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 105, ¶77 (B03-C006-P0077)](../../build/reader/book-03.html#B03-C006-P0077)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 105, ¶80 (B03-C006-P0080)](../../build/reader/book-03.html#B03-C006-P0080)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 105, ¶81 (B03-C006-P0081)](../../build/reader/book-03.html#B03-C006-P0081)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 107, ¶99 (B03-C006-P0099)](../../build/reader/book-03.html#B03-C006-P0099)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 107, ¶101 (B03-C006-P0101)](../../build/reader/book-03.html#B03-C006-P0101)
+
+## B03-018: Divination classroom — hearth and shelving
+
+A fire beneath a crowded mantel heats a large copper kettle, making the room stifling and heavily perfumed. Wall shelves hold dusty feathers, candle stubs, worn cards, silver crystal balls and many cups; silver teapots include a very large one, and cups have pink or blue patterns.
+
+Evidence: explicit; state: 2 September 1993.
+
+Model: Detailed teaching props and sensory condition; two cups break during the lesson but no shelf damage is stated.
+
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 101–102, ¶56 (B03-C006-P0056)](../../build/reader/book-03.html#B03-C006-P0056)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 102, ¶63 (B03-C006-P0063)](../../build/reader/book-03.html#B03-C006-P0063)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 104, ¶72 (B03-C006-P0072)](../../build/reader/book-03.html#B03-C006-P0072)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 104, ¶73 (B03-C006-P0073)](../../build/reader/book-03.html#B03-C006-P0073)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 104–105, ¶76 (B03-C006-P0076)](../../build/reader/book-03.html#B03-C006-P0076)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 105, ¶77 (B03-C006-P0077)](../../build/reader/book-03.html#B03-C006-P0077)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 105, ¶78 (B03-C006-P0078)](../../build/reader/book-03.html#B03-C006-P0078)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 105, ¶80 (B03-C006-P0080)](../../build/reader/book-03.html#B03-C006-P0080)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 107, ¶99 (B03-C006-P0099)](../../build/reader/book-03.html#B03-C006-P0099)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 108, ¶114 (B03-C006-P0114)](../../build/reader/book-03.html#B03-C006-P0114)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 110, ¶126 (B03-C006-P0126)](../../build/reader/book-03.html#B03-C006-P0126)
+
+## B03-019: North Tower to Transfiguration
+
+The pupils descend the ladder and winding stair, then take so long finding McGonagall’s classroom that they barely arrive on time despite leaving early.
+
+Evidence: explicit; state: 2 September 1993.
+
+Model: Search time must not be turned into a direct distance or classroom floor assignment.
+
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 108, ¶113 (B03-C006-P0113)](../../build/reader/book-03.html#B03-C006-P0113)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 108, ¶114 (B03-C006-P0114)](../../build/reader/book-03.html#B03-C006-P0114)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 108, ¶115 (B03-C006-P0115)](../../build/reader/book-03.html#B03-C006-P0115)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 108–109, ¶116 (B03-C006-P0116)](../../build/reader/book-03.html#B03-C006-P0116)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 109, ¶117 (B03-C006-P0117)](../../build/reader/book-03.html#B03-C006-P0117)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 110, ¶127 (B03-C006-P0127)](../../build/reader/book-03.html#B03-C006-P0127)
+
+## B03-026: Potions dungeon — shared worktable and gargoyle basin
+
+Cauldrons can be placed side by side around a shared ingredient-preparation table. A stone basin in a corner receives an icy jet from a gargoyle’s mouth and is used to wash hands and ladles; brass scales are used at desks.
+
+Evidence: explicit; state: September 1993.
+
+Model: Explicit washing fixture and communal work surface; no identification with any entrance gargoyle.
+
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 123–124, ¶6 (B03-C007-P0006)](../../build/reader/book-03.html#B03-C007-P0006)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 124, ¶11 (B03-C007-P0011)](../../build/reader/book-03.html#B03-C007-P0011)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 124, ¶13 (B03-C007-P0013)](../../build/reader/book-03.html#B03-C007-P0013)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 124, ¶15 (B03-C007-P0015)](../../build/reader/book-03.html#B03-C007-P0015)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 124, ¶20 (B03-C007-P0020)](../../build/reader/book-03.html#B03-C007-P0020)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 124–125, ¶23 (B03-C007-P0023)](../../build/reader/book-03.html#B03-C007-P0023)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 125, ¶31 (B03-C007-P0031)](../../build/reader/book-03.html#B03-C007-P0031)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 126, ¶38 (B03-C007-P0038)](../../build/reader/book-03.html#B03-C007-P0038)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 126, ¶39 (B03-C007-P0039)](../../build/reader/book-03.html#B03-C007-P0039)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 127, ¶53 (B03-C007-P0053)](../../build/reader/book-03.html#B03-C007-P0053)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 127–128, ¶54 (B03-C007-P0054)](../../build/reader/book-03.html#B03-C007-P0054)
+
+## B03-027: Potions dungeon to Entrance Hall
+
+Pupils climb steps from Potions to the Entrance Hall, then head to the Great Hall for lunch.
+
+Evidence: explicit; state: September 1993.
+
+Model: Reaffirms direct vertical route. Hermione’s unexplained stair reappearance does not by itself imply a hidden architectural shortcut.
+
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 128, ¶61 (B03-C007-P0061)](../../build/reader/book-03.html#B03-C007-P0061)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 128, ¶62 (B03-C007-P0062)](../../build/reader/book-03.html#B03-C007-P0062)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 129, ¶66 (B03-C007-P0066)](../../build/reader/book-03.html#B03-C007-P0066)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 129, ¶70 (B03-C007-P0070)](../../build/reader/book-03.html#B03-C007-P0070)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 129, ¶73 (B03-C007-P0073)](../../build/reader/book-03.html#B03-C007-P0073)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 129–130, ¶79 (B03-C007-P0079)](../../build/reader/book-03.html#B03-C007-P0079)
+
+## B03-028: Defence classroom to staff room — broom cupboard
+
+Lupin leaves his classroom’s teacher desk, leads pupils along a corridor, round a corner past a broom-storage door with a gum-blocked keyhole, then down a second corridor to the staff-room door.
+
+Evidence: explicit; state: September 1993.
+
+Model: Two-corridor sequence and lockable broom storage; no floor number or exact distance.
+
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 130, ¶82 (B03-C007-P0082)](../../build/reader/book-03.html#B03-C007-P0082)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 130, ¶83 (B03-C007-P0083)](../../build/reader/book-03.html#B03-C007-P0083)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 130, ¶85 (B03-C007-P0085)](../../build/reader/book-03.html#B03-C007-P0085)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 130, ¶86 (B03-C007-P0086)](../../build/reader/book-03.html#B03-C007-P0086)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 131, ¶87 (B03-C007-P0087)](../../build/reader/book-03.html#B03-C007-P0087)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 131, ¶90 (B03-C007-P0090)](../../build/reader/book-03.html#B03-C007-P0090)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 131, ¶94 (B03-C007-P0094)](../../build/reader/book-03.html#B03-C007-P0094)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 131, ¶95 (B03-C007-P0095)](../../build/reader/book-03.html#B03-C007-P0095)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 131–132, ¶98 (B03-C007-P0098)](../../build/reader/book-03.html#B03-C007-P0098)
+- [Book 3, ch. 7, “The Boggart in the Wardrobe”, ref p. 132, ¶99 (B03-C007-P0099)](../../build/reader/book-03.html#B03-C007-P0099)
+
 ## B04-026: North Tower Divination access
 
 At the top of a tightly spiralling staircase in North Tower a silver stepladder leads through a circular ceiling trapdoor into Trelawney’s room.

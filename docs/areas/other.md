@@ -562,6 +562,57 @@ Model: Observed tunnel endpoint and lighting; inability to climb is implicit con
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 329, ¶175 (B02-C017-P0175)](../../build/reader/book-02.html#B02-C017-P0175)
 - [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 329, ¶176 (B02-C017-P0176)](../../build/reader/book-02.html#B02-C017-P0176)
 
+## B03-003: Entrances to Hogwarts grounds — planned Azkaban guard posts
+
+Mr Weasley says Dumbledore has reluctantly agreed to Azkaban guards stationed around entrances to the school grounds to intercept Black. The Weasleys debate whether Hogwarts can be entered by an escaped prisoner.
+
+Evidence: reported; state: Before September 1993 term.
+
+Model: Proposed/arranged perimeter security, not yet observed posts or a count of gates. General confidence in Dumbledore is not a specified magical ward.
+
+- [Book 3, ch. 4, “The Leaky Cauldron”, ref p. 66, ¶159 (B03-C004-P0159)](../../build/reader/book-03.html#B03-C004-P0159)
+- [Book 3, ch. 4, “The Leaky Cauldron”, ref p. 66, ¶160 (B03-C004-P0160)](../../build/reader/book-03.html#B03-C004-P0160)
+- [Book 3, ch. 4, “The Leaky Cauldron”, ref p. 67, ¶165 (B03-C004-P0165)](../../build/reader/book-03.html#B03-C004-P0165)
+- [Book 3, ch. 4, “The Leaky Cauldron”, ref p. 67, ¶166 (B03-C004-P0166)](../../build/reader/book-03.html#B03-C004-P0166)
+- [Book 3, ch. 4, “The Leaky Cauldron”, ref p. 67, ¶167 (B03-C004-P0167)](../../build/reader/book-03.html#B03-C004-P0167)
+- [Book 3, ch. 4, “The Leaky Cauldron”, ref p. 67, ¶168 (B03-C004-P0168)](../../build/reader/book-03.html#B03-C004-P0168)
+- [Book 3, ch. 4, “The Leaky Cauldron”, ref p. 68–69, ¶179 (B03-C004-P0179)](../../build/reader/book-03.html#B03-C004-P0179)
+
+## B03-012: Grounds entrances — Dementor access constraints
+
+Dumbledore announces Dementors at every entrance, forbids leaving without permission and warns that disguises, tricks and Invisibility Cloaks cannot fool them.
+
+Evidence: reported; state: 1993–94 Dementor deployment.
+
+Model: Character statement about security capability, not proof of an unbroken physical wall or a specified number of entrances.
+
+- [Book 3, ch. 5, “The Dementor”, ref p. 92, ¶248 (B03-C005-P0248)](../../build/reader/book-03.html#B03-C005-P0248)
+- [Book 3, ch. 5, “The Dementor”, ref p. 92, ¶249 (B03-C005-P0249)](../../build/reader/book-03.html#B03-C005-P0249)
+- [Book 3, ch. 5, “The Dementor”, ref p. 92–93, ¶250 (B03-C005-P0250)](../../build/reader/book-03.html#B03-C005-P0250)
+- [Book 3, ch. 5, “The Dementor”, ref p. 93, ¶251 (B03-C005-P0251)](../../build/reader/book-03.html#B03-C005-P0251)
+
+## B03-015: Sir Cadogan route — paintings on tower approach
+
+A large landscape painting shows bare grass, then a dapple-grey pony and a squat armoured knight. The knight runs out left and through successive pictures to guide pupils, including women in crinolines on a narrow spiral stair and sinister monks near its top.
+
+Evidence: explicit; state: 2 September 1993.
+
+Model: Portrait subjects and cross-frame travel are observed; grass/pony inside the artwork are not real landing vegetation or a stable.
+
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶34 (B03-C006-P0034)](../../build/reader/book-03.html#B03-C006-P0034)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶37 (B03-C006-P0037)](../../build/reader/book-03.html#B03-C006-P0037)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶38 (B03-C006-P0038)](../../build/reader/book-03.html#B03-C006-P0038)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 99, ¶39 (B03-C006-P0039)](../../build/reader/book-03.html#B03-C006-P0039)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100, ¶42 (B03-C006-P0042)](../../build/reader/book-03.html#B03-C006-P0042)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100, ¶43 (B03-C006-P0043)](../../build/reader/book-03.html#B03-C006-P0043)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100, ¶44 (B03-C006-P0044)](../../build/reader/book-03.html#B03-C006-P0044)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100, ¶45 (B03-C006-P0045)](../../build/reader/book-03.html#B03-C006-P0045)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100, ¶46 (B03-C006-P0046)](../../build/reader/book-03.html#B03-C006-P0046)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100, ¶47 (B03-C006-P0047)](../../build/reader/book-03.html#B03-C006-P0047)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100, ¶48 (B03-C006-P0048)](../../build/reader/book-03.html#B03-C006-P0048)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 100–101, ¶49 (B03-C006-P0049)](../../build/reader/book-03.html#B03-C006-P0049)
+- [Book 3, ch. 6, “Talons and Tea Leaves”, ref p. 101, ¶50 (B03-C006-P0050)](../../build/reader/book-03.html#B03-C006-P0050)
+
 ## B04-042: Hogwarts grounds Apparition restriction
 
 Hermione states that Apparition cannot be performed inside the Hogwarts grounds.

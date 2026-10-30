@@ -2,7 +2,7 @@
 
 This reports the reviewers' declared reading ranges. Structural validation checks that those ranges cover the corpus; it cannot prove semantic completeness or that every description has been captured.
 
-Reviewed: **17,730/38,426 paragraphs**. Records: **685**.
+Reviewed: **19,036/38,426 paragraphs**. Records: **715**.
 
 ## Book 1: Harry Potter and the Philosopher's Stone
 
@@ -51,15 +51,15 @@ Reviewed: **17,730/38,426 paragraphs**. Records: **685**.
 
 ## Book 3: Harry Potter and the Prisoner of Azkaban
 
-0/4,227 paragraphs; 0 records.
+1,306/4,227 paragraphs; 30 records.
 
-- Chapter 1, Owl Post: Unread: ¶1–101 (0/101).
-- Chapter 2, Aunt Marge’s Big Mistake: Unread: ¶1–134 (0/134).
-- Chapter 3, The Knight Bus: Unread: ¶1–170 (0/170).
-- Chapter 4, The Leaky Cauldron: Unread: ¶1–184 (0/184).
-- Chapter 5, The Dementor: Unread: ¶1–271 (0/271).
-- Chapter 6, Talons and Tea Leaves: Unread: ¶1–257 (0/257).
-- Chapter 7, The Boggart in the Wardrobe: Unread: ¶1–189 (0/189).
+- Chapter 1, Owl Post: Reviewed (101/101).
+- Chapter 2, Aunt Marge’s Big Mistake: Reviewed (134/134).
+- Chapter 3, The Knight Bus: Reviewed (170/170).
+- Chapter 4, The Leaky Cauldron: Reviewed (184/184).
+- Chapter 5, The Dementor: Reviewed (271/271).
+- Chapter 6, Talons and Tea Leaves: Reviewed (257/257).
+- Chapter 7, The Boggart in the Wardrobe: Reviewed (189/189).
 - Chapter 8, Flight of the Fat Lady: Unread: ¶1–221 (0/221).
 - Chapter 9, Grim Defeat: Unread: ¶1–218 (0/218).
 - Chapter 10, The Marauder’s Map: Unread: ¶1–244 (0/244).
