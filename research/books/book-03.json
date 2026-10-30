@@ -1529,6 +1529,337 @@
       "certainty": "explicit",
       "temporal": "January–February 1994",
       "model_notes": "Access depends on password knowledge; the list is a security weakness, not proof of a permanently programmed door."
+    },
+    {
+      "id": "B03-082",
+      "location": "Quidditch stadium — barrier and seating",
+      "category": "grounds",
+      "description": "Madam Hooch and Ron sit in the stands during practice; Ron vaults the barrier from seating to meet Harry on the pitch. A Snitch later flies low beside one of the barriers.",
+      "evidence": [
+        "B03-C013-P0013",
+        "B03-C013-P0016",
+        "B03-C013-P0017",
+        "B03-C013-P0020",
+        "B03-C013-P0028",
+        "B03-C013-P0029",
+        "B03-C013-P0031",
+        "B03-C013-P0068"
+      ],
+      "certainty": "explicit",
+      "temporal": "February 1994",
+      "model_notes": "Explicit separation between spectator area and pitch; barrier material and height unstated."
+    },
+    {
+      "id": "B03-083",
+      "location": "Pitch-to-castle route — budding tree",
+      "category": "grounds",
+      "description": "Halfway from the stadium to the castle, a tree stands to Harry’s left with budding leaves and Crookshanks in its branches. Stones lie on the grass beneath; the route ends at the lit Entrance Hall.",
+      "evidence": [
+        "B03-C013-P0031",
+        "B03-C013-P0032",
+        "B03-C013-P0035",
+        "B03-C013-P0036",
+        "B03-C013-P0037",
+        "B03-C013-P0039"
+      ],
+      "certainty": "explicit",
+      "temporal": "February 1994",
+      "model_notes": "Side relative to inward travel; tree is not identified as the Willow or given a species."
+    },
+    {
+      "id": "B03-084",
+      "location": "Quidditch match — false Dementors at pitch edge",
+      "category": "temporary",
+      "description": "During a clear cool match with little breeze, Harry casts a large silver-white Patronus towards three apparent Dementors below him. They prove to be four Slytherins in hooded robes, one apparently on another’s shoulders, at the pitch edge.",
+      "evidence": [
+        "B03-C013-P0055",
+        "B03-C013-P0057",
+        "B03-C013-P0060",
+        "B03-C013-P0068",
+        "B03-C013-P0071",
+        "B03-C013-P0074",
+        "B03-C013-P0078",
+        "B03-C013-P0080",
+        "B03-C013-P0081",
+        "B03-C013-P0082",
+        "B03-C013-P0083",
+        "B03-C013-P0084",
+        "B03-C013-P0094",
+        "B03-C013-P0095",
+        "B03-C013-P0096",
+        "B03-C013-P0097",
+        "B03-C013-P0098",
+        "B03-C013-P0101"
+      ],
+      "certainty": "explicit",
+      "temporal": "February 1994",
+      "model_notes": "No actual Dementor incursion this time. Team-supporter ends and clear-weather visibility observed without a precise stand allocation."
+    },
+    {
+      "id": "B03-085",
+      "location": "Gryffindor common room — victory party and stair division",
+      "category": "temporary",
+      "description": "Celebrations run all day until one in the morning, with tables used for bottle juggling and supplies obtained from Hogsmeade. Hermione runs up the girls’ stair; boys ascend their own. Later the room is deserted, littered with party debris and lit only by dying hearth glow.",
+      "evidence": [
+        "B03-C013-P0100",
+        "B03-C013-P0103",
+        "B03-C013-P0104",
+        "B03-C013-P0105",
+        "B03-C013-P0106",
+        "B03-C013-P0112",
+        "B03-C013-P0115",
+        "B03-C013-P0127",
+        "B03-C013-P0130",
+        "B03-C013-P0135",
+        "B03-C013-P0136",
+        "B03-C013-P0137"
+      ],
+      "certainty": "explicit",
+      "temporal": "February 1994",
+      "model_notes": "Distinct stair routes reaffirmed; supplies’ exact tunnel method implied by the map reference rather than witnessed."
+    },
+    {
+      "id": "B03-086",
+      "location": "Boys’ dormitory — torn curtains and lamp",
+      "category": "temporary",
+      "description": "Dean lights a lamp after a scream. One side of Ron’s bed hangings is torn away; Ron says Black stood over him with a knife and slashed them. The boys rush down their stair and other dormitory doors open behind them.",
+      "evidence": [
+        "B03-C013-P0118",
+        "B03-C013-P0120",
+        "B03-C013-P0121",
+        "B03-C013-P0122",
+        "B03-C013-P0124",
+        "B03-C013-P0125",
+        "B03-C013-P0126",
+        "B03-C013-P0127",
+        "B03-C013-P0128",
+        "B03-C013-P0129",
+        "B03-C013-P0130",
+        "B03-C013-P0135",
+        "B03-C013-P0138",
+        "B03-C013-P0146"
+      ],
+      "certainty": "explicit",
+      "temporal": "February 1994",
+      "model_notes": "Damage observed, intruder actions reported by Ron; do not equate Harry’s preceding dream forest with surveyed Hogwarts terrain."
+    },
+    {
+      "id": "B03-087",
+      "location": "Gryffindor portrait — password-list breach",
+      "category": "magic",
+      "description": "Sir Cadogan confirms letting the intruder through because he read the week’s passwords from paper. McGonagall questions him by opening the portrait from inside and stepping into the corridor, then returns through the hole.",
+      "evidence": [
+        "B03-C013-P0143",
+        "B03-C013-P0148",
+        "B03-C013-P0149",
+        "B03-C013-P0150",
+        "B03-C013-P0151",
+        "B03-C013-P0152",
+        "B03-C013-P0154",
+        "B03-C013-P0155",
+        "B03-C013-P0156",
+        "B03-C013-P0157",
+        "B03-C013-P0158"
+      ],
+      "certainty": "explicit",
+      "temporal": "February 1994",
+      "model_notes": "Demonstrates knowledge-based access without identity authentication and operable outward portrait; keep separate from physical entry force."
+    },
+    {
+      "id": "B03-088",
+      "location": "Castle security — taught doors and sealed cracks",
+      "category": "temporary",
+      "description": "After another all-night search Flitwick teaches the front doors to recognise Black’s large photograph. Filch boards tiny wall cracks and mouseholes.",
+      "evidence": [
+        "B03-C014-P0001",
+        "B03-C014-P0002"
+      ],
+      "certainty": "explicit",
+      "temporal": "After the February 1994 dormitory intrusion",
+      "model_notes": "Observed proposed recognition training and physical blocking; no demonstrated door response to Black or complete rat-proofing proved."
+    },
+    {
+      "id": "B03-089",
+      "location": "Gryffindor entrance — restored Fat Lady and trolls",
+      "category": "temporary",
+      "description": "Sir Cadogan returns to a seventh-floor landing; the restored Fat Lady resumes guarding her hole with hired security trolls pacing the corridor carrying clubs. Neville must wait for someone else to admit him because others are forbidden to share the password.",
+      "evidence": [
+        "B03-C014-P0002",
+        "B03-C014-P0012",
+        "B03-C014-P0024",
+        "B03-C014-P0048",
+        "B03-C014-P0056",
+        "B03-C014-P0080",
+        "B03-C014-P0226"
+      ],
+      "certainty": "explicit",
+      "temporal": "After the February 1994 dormitory intrusion",
+      "model_notes": "Restoration and guard deployment observed. Cadogan’s landing is seventh-floor, not necessarily a new entrance location."
+    },
+    {
+      "id": "B03-090",
+      "location": "Third-floor witch — remaining unguarded passage",
+      "category": "route",
+      "description": "The one-eyed statue remains unblocked and unguarded despite security work. Doorways stand to either side nearby; Snape inspects the statue but later returns to his office as shown on the map.",
+      "evidence": [
+        "B03-C014-P0003",
+        "B03-C014-P0005",
+        "B03-C014-P0006",
+        "B03-C014-P0050",
+        "B03-C014-P0064",
+        "B03-C014-P0065",
+        "B03-C014-P0074",
+        "B03-C014-P0075",
+        "B03-C014-P0076",
+        "B03-C014-P0078",
+        "B03-C014-P0079",
+        "B03-C014-P0081",
+        "B03-C014-P0082"
+      ],
+      "certainty": "explicit",
+      "temporal": "After the February 1994 dormitory intrusion",
+      "model_notes": "Observed availability, not proof nobody else knows it. Both-side doorways add to the previously described left classroom."
+    },
+    {
+      "id": "B03-091",
+      "location": "Castle front doors to Hagrid’s cabin — escorted visit",
+      "category": "route",
+      "description": "Hagrid requires the boys to wait in the Entrance Hall, collects them at six, opens the front doors and escorts them to his hut, later returning them uphill at nine.",
+      "evidence": [
+        "B03-C014-P0019",
+        "B03-C014-P0020",
+        "B03-C014-P0024",
+        "B03-C014-P0025",
+        "B03-C014-P0027",
+        "B03-C014-P0029",
+        "B03-C014-P0047"
+      ],
+      "certainty": "explicit",
+      "temporal": "After the February 1994 dormitory intrusion",
+      "model_notes": "Dated escort rule and evening access; no general permission to leave unaccompanied."
+    },
+    {
+      "id": "B03-092",
+      "location": "Hagrid’s cabin — wardrobe and bed-sharing hippogriff",
+      "category": "temporary",
+      "description": "Buckbeak lies on the patchwork quilt with folded wings, eating dead ferrets and spitting bones onto the pillow. A huge brown suit and yellow/orange tie hang from the top of the wardrobe door.",
+      "evidence": [
+        "B03-C014-P0029",
+        "B03-C014-P0030",
+        "B03-C014-P0031",
+        "B03-C014-P0033",
+        "B03-C014-P0034",
+        "B03-C014-P0046"
+      ],
+      "certainty": "explicit",
+      "temporal": "After the February 1994 dormitory intrusion",
+      "model_notes": "Confirms wardrobe and hippogriff use of Hagrid’s bed. London trip is planned; hearing date relative to earlier April-20 letter remains unreconciled."
+    },
+    {
+      "id": "B03-093",
+      "location": "Hogsmeade — High Street and post-office owls",
+      "category": "route",
+      "description": "From Honeydukes Harry and Ron go up the High Street; inside the post office Harry sees at least three hundred owls of different sizes, including tiny Scops birds for local deliveries. They visit crowded Zonko’s before passing the Three Broomsticks towards the Shack.",
+      "evidence": [
+        "B03-C014-P0084",
+        "B03-C014-P0088",
+        "B03-C014-P0090",
+        "B03-C014-P0091",
+        "B03-C014-P0092"
+      ],
+      "certainty": "explicit",
+      "temporal": "After the February 1994 dormitory intrusion",
+      "model_notes": "Village route context and directly observed count differs from earlier rough report of two hundred; no unrelated shop inventory."
+    },
+    {
+      "id": "B03-094",
+      "location": "Shrieking Shack — hill, fence and closed exterior",
+      "category": "exterior",
+      "description": "A slope past the Three Broomsticks rises to a crumbling Shack a little above the village, with boarded windows and a dank overgrown fenced garden. Another approach climbs from the hill’s opposite side; its path has mud and foul green puddles.",
+      "evidence": [
+        "B03-C014-P0092",
+        "B03-C014-P0093",
+        "B03-C014-P0094",
+        "B03-C014-P0100",
+        "B03-C014-P0104",
+        "B03-C014-P0109",
+        "B03-C014-P0112",
+        "B03-C014-P0113",
+        "B03-C014-P0116",
+        "B03-C014-P0119",
+        "B03-C014-P0122"
+      ],
+      "certainty": "explicit",
+      "temporal": "After the February 1994 dormitory intrusion",
+      "model_notes": "Observed hilltop exterior and access routes; no compass orientation or fixed distance."
+    },
+    {
+      "id": "B03-095",
+      "location": "Shrieking Shack — supposed haunting and sealed access",
+      "category": "history",
+      "description": "Ron reports Nick saying the ghosts avoid the Shack because of its rough spectral residents, and says the twins tried but could not get in because every entrance was sealed.",
+      "evidence": [
+        "B03-C014-P0093"
+      ],
+      "certainty": "reported",
+      "temporal": "After the February 1994 dormitory intrusion",
+      "model_notes": "Second-hand haunting and failed-entry account, not verified ghost population or proof against the later tunnel."
+    },
+    {
+      "id": "B03-096",
+      "location": "Honeydukes return — stone cellar floor and witch exit",
+      "category": "route",
+      "description": "Harry runs down the cellar steps across a stone floor to the trapdoor and back along the tunnel. He hides his Cloak in a shadowy corner at the chute, climbs its slippery sides, taps the hump from within and emerges; it closes behind him.",
+      "evidence": [
+        "B03-C014-P0122",
+        "B03-C014-P0124",
+        "B03-C014-P0125",
+        "B03-C014-P0224"
+      ],
+      "certainty": "explicit",
+      "temporal": "After the February 1994 dormitory intrusion",
+      "model_notes": "Adds cellar material, upward chute traversal and interior opening/closure. Dust in earlier description is a surface layer, not contradictory flooring."
+    },
+    {
+      "id": "B03-097",
+      "location": "Snape’s office — specimen additions and hearth transport",
+      "category": "magic",
+      "description": "After descending dungeon stairs Harry sees more slimy specimens on shelves behind Snape’s desk in firelight. Snape throws powder from a fireplace jar into the fire and calls Lupin; Lupin spins into view and climbs out of the hearth covered in ash.",
+      "evidence": [
+        "B03-C014-P0129",
+        "B03-C014-P0130",
+        "B03-C014-P0131",
+        "B03-C014-P0148",
+        "B03-C014-P0177",
+        "B03-C014-P0181",
+        "B03-C014-P0196",
+        "B03-C014-P0197",
+        "B03-C014-P0198",
+        "B03-C014-P0199",
+        "B03-C014-P0200",
+        "B03-C014-P0212",
+        "B03-C014-P0214",
+        "B03-C014-P0215"
+      ],
+      "certainty": "explicit",
+      "temporal": "After the February 1994 dormitory intrusion",
+      "model_notes": "Demonstrated fire-based transit to the office, with no identified origin hearth or full network rules."
+    },
+    {
+      "id": "B03-098",
+      "location": "Snape’s office return to Gryffindor",
+      "category": "route",
+      "description": "Lupin leads the boys back to the Entrance Hall. They climb the marble stair, pass the one-eyed witch on the way and reach the corridor patrolled by security trolls.",
+      "evidence": [
+        "B03-C014-P0214",
+        "B03-C014-P0215",
+        "B03-C014-P0217",
+        "B03-C014-P0224",
+        "B03-C014-P0226"
+      ],
+      "certainty": "explicit",
+      "temporal": "After the February 1994 dormitory intrusion",
+      "model_notes": "Abridged upward sequence, no inferred uninterrupted single flight from Hall to seventh-floor Tower."
     }
   ],
   "chapter_reviews": [
@@ -1663,6 +1994,28 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter read. Real Dementor ban distinguished from Boggart simulation. Patronus memory scenes concern the off-site Potter home and add no Hogwarts geometry."
+    },
+    {
+      "chapter": 13,
+      "reviewed_ranges": [
+        [
+          1,
+          158
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Dream forest is generic dream imagery rather than identified grounds; actual torn curtains, password-list breach and false Dementors recorded with source distinctions."
+    },
+    {
+      "chapter": 14,
+      "reviewed_ranges": [
+        [
+          1,
+          228
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Guard changes, doorway recognition training and transit hearth distinguished from proven prevention. Shack haunting is a report; direct interior reviewed later."
     }
   ]
 }
