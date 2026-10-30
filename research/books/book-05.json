@@ -633,6 +633,238 @@
       "certainty": "explicit",
       "temporal": "First Monday of September term, 1995",
       "model_notes": "Do not infer a precise floor from overhead footfalls; automatic closing is observed without its mechanism."
+    },
+    {
+      "id": "B05-045",
+      "location": "Feast-to-tower corridor and cabin view",
+      "category": "route",
+      "description": "Leaving dinner the friends reach a first-floor landing, then traverse windowed corridors toward Gryffindor Tower. A rain-washed window at the turn into the Fat Lady’s corridor gives Harry a view toward Hagrid’s still-unlit cabin.",
+      "evidence": [
+        "B05-C013-P0009",
+        "B05-C013-P0010",
+        "B05-C013-P0014",
+        "B05-C013-P0015"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Do not assign the Fat Lady corridor to the first floor; further travel intervenes."
+    },
+    {
+      "id": "B05-046",
+      "location": "Triwizard return lawn",
+      "category": "history",
+      "description": "Hermione recalls Harry arriving in the middle of the lawn carrying Cedric’s body after the maze task.",
+      "evidence": [
+        "B05-C013-P0011"
+      ],
+      "certainty": "reported",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Reported retrospective placement complements the earlier return account; no lawn coordinates."
+    },
+    {
+      "id": "B05-047",
+      "location": "Gryffindor fireside furnishings",
+      "category": "furnishing",
+      "description": "The friends occupy three favourite armchairs by the fire; Hermione’s chair has holes leaking stuffing. Bags are stored in a corner, and a small table stands by the fireplace.",
+      "evidence": [
+        "B05-C013-P0016",
+        "B05-C013-P0017",
+        "B05-C013-P0023",
+        "B05-C013-P0060"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Worn upholstered furniture, not immaculate replacements."
+    },
+    {
+      "id": "B05-048",
+      "location": "Gryffindor dormitory approaches",
+      "category": "route",
+      "description": "A door leads to the girls’ dormitories. Harry passes the boys’ dormitory door to a stone spiral staircase; later he climbs up from late common-room study to bed.",
+      "evidence": [
+        "B05-C013-P0067",
+        "B05-C013-P0071",
+        "B05-C013-P0197",
+        "B05-C013-P0290"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Doors and separate approaches confirmed; no new floor count."
+    },
+    {
+      "id": "B05-049",
+      "location": "Common-room concealed hats",
+      "category": "temporary",
+      "description": "Hermione places woollen hats under rubbish on the table by the fireplace; Ron uncovers the first pair. By Friday more hats are hidden throughout the room, and a Butterbeer celebration occupies it.",
+      "evidence": [
+        "B05-C013-P0060",
+        "B05-C013-P0062",
+        "B05-C013-P0067",
+        "B05-C013-P0068",
+        "B05-C013-P0258",
+        "B05-C013-P0261",
+        "B05-C013-P0262",
+        "B05-C013-P0270",
+        "B05-C013-P0271",
+        "B05-C013-P0276"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Temporary props; disappearance alone does not prove elves were freed."
+    },
+    {
+      "id": "B05-050",
+      "location": "Charms teacher’s desk",
+      "category": "furnishing",
+      "description": "Flitwick perches on a pile of books to see over his desk during Charms.",
+      "evidence": [
+        "B05-C013-P0079"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Scale aid for the teacher; pile height unspecified."
+    },
+    {
+      "id": "B05-051",
+      "location": "Sloping lawn and outdoor creature classroom",
+      "category": "grounds",
+      "description": "The class walks down the sloping lawn to Hagrid’s cabin at the Forest edge. Grubbly-Plank waits about ten yards from the front door behind a long trestle table of Bowtruckles and woodlice; students work sitting or crouching on the grass.",
+      "evidence": [
+        "B05-C013-P0085",
+        "B05-C013-P0087",
+        "B05-C013-P0089",
+        "B05-C013-P0094",
+        "B05-C013-P0100"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Temporary lesson station at a stated distance from the front door."
+    },
+    {
+      "id": "B05-052",
+      "location": "Forest-edge creature movement and bell",
+      "category": "grounds",
+      "description": "An escaped Bowtruckle runs from the lesson into the Forest and disappears among the tree roots. The school bell is audible distantly across the grounds.",
+      "evidence": [
+        "B05-C013-P0104"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Small-scale roots and traversable lawn-to-Forest interface; not a mapped permanent Bowtruckle colony."
+    },
+    {
+      "id": "B05-053",
+      "location": "Creature lesson to greenhouses and castle",
+      "category": "route",
+      "description": "From Hagrid’s lesson the friends cross the vegetable patch to the greenhouses. The nearest greenhouse has a door used by the departing fourth-year class; after a lesson using dragon-dung fertiliser, pupils go back uphill to the castle.",
+      "evidence": [
+        "B05-C013-P0104",
+        "B05-C013-P0107",
+        "B05-C013-P0108",
+        "B05-C013-P0111",
+        "B05-C013-P0112",
+        "B05-C013-P0117",
+        "B05-C013-P0122"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Connects cabin lesson, vegetable patch, greenhouses and uphill castle return."
+    },
+    {
+      "id": "B05-054",
+      "location": "Quidditch pitch bookings",
+      "category": "temporary",
+      "description": "Angelina says she has booked the pitch for Friday’s Keeper trials.",
+      "evidence": [
+        "B05-C013-P0127"
+      ],
+      "certainty": "reported",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Reported scheduled use, not permanent physical exclusivity."
+    },
+    {
+      "id": "B05-055",
+      "location": "Defence teacher’s office location and former states",
+      "category": "history",
+      "description": "Umbridge’s office is on the third floor and is the office formerly occupied by Lockhart, Lupin and the impostor Moody: respectively self-portraits, dark creatures in cages or tanks, and detection instruments and artefacts.",
+      "evidence": [
+        "B05-C013-P0138",
+        "B05-C013-P0139"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Identifies continuity of one room despite changing decor; retain historical occupant states."
+    },
+    {
+      "id": "B05-056",
+      "location": "Umbridge’s office decor and detention furniture",
+      "category": "interior",
+      "description": "Lace covers and cloths drape the surfaces. Dried-flower vases stand on doilies, and wall plates depict brightly coloured kittens with different neck bows. A cloth covers her desk; a small lace-covered table and straight-backed chair hold Harry’s detention parchment. Her desk has drawers.",
+      "evidence": [
+        "B05-C013-P0140",
+        "B05-C013-P0142",
+        "B05-C013-P0144",
+        "B05-C013-P0152",
+        "B05-C013-P0158",
+        "B05-C013-P0237",
+        "B05-C013-P0245"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "September occupation state; do not retain predecessors’ equipment without evidence."
+    },
+    {
+      "id": "B05-057",
+      "location": "Umbridge’s detention quill",
+      "category": "magic",
+      "description": "A long thin black quill with an unusually sharp point writes with Harry’s blood without an ink supply and cuts matching words into his hand; repeated use eventually leaves lasting cuts.",
+      "evidence": [
+        "B05-C013-P0153",
+        "B05-C013-P0154",
+        "B05-C013-P0160",
+        "B05-C013-P0161",
+        "B05-C013-P0162",
+        "B05-C013-P0166",
+        "B05-C013-P0167",
+        "B05-C013-P0199"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Interactive office prop; effects belong to this quill, not the room’s architecture."
+    },
+    {
+      "id": "B05-058",
+      "location": "Umbridge window and Quidditch sightline",
+      "category": "interior",
+      "description": "Her office has a window through which darkness falls. Moving his chair about an inch to the right gives Harry a distant view of Keeper trials and three high goalposts; individual identities remain too distant to resolve. The pitch disappears from view after nightfall.",
+      "evidence": [
+        "B05-C013-P0168",
+        "B05-C013-P0236",
+        "B05-C013-P0238",
+        "B05-C013-P0242",
+        "B05-C013-P0245",
+        "B05-C013-P0248"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Explicit third-floor office-to-pitch sightline; no compass direction or distance in yards."
+    },
+    {
+      "id": "B05-059",
+      "location": "Seventh-floor Lachlan statue route",
+      "category": "route",
+      "description": "Returning from Umbridge, Harry climbs a staircase to the seventh floor, turns right at its top and encounters Ron hiding behind a statue of Lachlan the Lanky. They continue to the Fat Lady.",
+      "evidence": [
+        "B05-C013-P0203",
+        "B05-C013-P0205",
+        "B05-C013-P0210",
+        "B05-C013-P0218",
+        "B05-C013-P0225",
+        "B05-C013-P0233"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school week, September 1995",
+      "model_notes": "Precise local floor and turn; does not fix total travel from the third floor or statue-to-portrait distance."
     }
   ],
   "chapter_reviews": [
@@ -767,6 +999,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs in three untruncated chunks, including lessons, full classroom argument and office conversation."
+    },
+    {
+      "chapter": 13,
+      "reviewed_ranges": [
+        [
+          1,
+          290
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read every paragraph in three chunks, including detentions, conversations, lessons and Keeper trials viewed from the office."
     }
   ]
 }
