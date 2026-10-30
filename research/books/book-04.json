@@ -1223,6 +1223,249 @@
       "certainty": "explicit",
       "temporal": "November 1994, before first task",
       "model_notes": "Observed magical fire communication; Sirius reports using a fireplace in another wizard’s house. Preserve the hearth-to-stair acoustic and visual relation without inventing network topology."
+    },
+    {
+      "id": "B04-083",
+      "location": "Lake circuit",
+      "category": "route",
+      "description": "Harry and Hermione walk three times around the lake before returning to the library.",
+      "evidence": [
+        "B04-C020-P0001",
+        "B04-C020-P0004"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, first-task preparation",
+      "model_notes": "Establishes that a complete walking circuit is possible in this state, not that it is a surfaced path of uniform width or known length."
+    },
+    {
+      "id": "B04-084",
+      "location": "Entrance Hall to Charms corridor",
+      "category": "route",
+      "description": "Harry follows Cedric up the marble staircase from the Entrance Hall towards the Charms corridor, where Cedric’s friends enter Flitwick’s classroom. Moody emerges from a nearby classroom and takes Harry to his office.",
+      "evidence": [
+        "B04-C020-P0020",
+        "B04-C020-P0023",
+        "B04-C020-P0024",
+        "B04-C020-P0038",
+        "B04-C020-P0039",
+        "B04-C020-P0041",
+        "B04-C020-P0043"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, first-task preparation",
+      "model_notes": "Preserve the upper route and local classroom proximity; the office’s exact floor or direct adjacency to Flitwick’s room is not stated."
+    },
+    {
+      "id": "B04-085",
+      "location": "Defence teacher’s office, previous occupants",
+      "category": "history",
+      "description": "Harry recalls the same office under Lockhart, with walls covered in smiling self-portraits, and under Lupin, who kept specimens of Dark creatures for lessons.",
+      "evidence": [
+        "B04-C020-P0047"
+      ],
+      "certainty": "explicit",
+      "temporal": "Lockhart and Lupin tenures before 1994–95",
+      "model_notes": "Narrated recollection of changing office contents, not additional rooms or permanent portrait subjects."
+    },
+    {
+      "id": "B04-086",
+      "location": "Moody’s office furnishings",
+      "category": "furnishing",
+      "description": "A large cracked glass Sneakoscope stands on the desk. A humming squiggly golden Secrecy Sensor sits on a small table in a corner. On the wall opposite Harry hangs a Foe-Glass showing indistinct moving figures instead of the room. A large trunk under the window has seven keyholes in a row.",
+      "evidence": [
+        "B04-C020-P0046",
+        "B04-C020-P0048",
+        "B04-C020-P0049",
+        "B04-C020-P0050",
+        "B04-C020-P0052",
+        "B04-C020-P0053",
+        "B04-C020-P0054"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, first-task preparation",
+      "model_notes": "Preserve the desk, corner table, wall display and under-window trunk as this occupant’s arrangement; a single view does not fix all their relative distances."
+    },
+    {
+      "id": "B04-087",
+      "location": "Moody’s office detectors",
+      "category": "magic",
+      "description": "Moody says the Secrecy Sensor vibrates at concealment or lies and constantly hums amid school activity. His extra-sensitive Sneakoscope can detect trouble roughly a mile away and has been disabled because it would not stop whistling. He says the Foe-Glass sharpens its hostile figures as danger becomes near.",
+      "evidence": [
+        "B04-C020-P0051",
+        "B04-C020-P0053"
+      ],
+      "certainty": "reported",
+      "temporal": "November 1994, first-task preparation",
+      "model_notes": "Reported operating rules, not a guarantee that the objects discriminate threats correctly or that every hum is caused by homework lies."
+    },
+    {
+      "id": "B04-088",
+      "location": "Greenhouse three Flutterby Bush",
+      "category": "temporary",
+      "description": "Hermione prunes a quivering Flutterby Bush in greenhouse three.",
+      "evidence": [
+        "B04-C020-P0074",
+        "B04-C020-P0075"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, first-task preparation",
+      "model_notes": "A dated plant and lesson placement; no permanent bed arrangement is described."
+    },
+    {
+      "id": "B04-089",
+      "location": "Unused classroom for Summoning practice",
+      "category": "interior",
+      "description": "Harry and Hermione use a free classroom for room-crossing Summoning practice. It contains chairs, which Peeves later throws across the room, driving them out after midnight.",
+      "evidence": [
+        "B04-C020-P0078",
+        "B04-C020-P0084"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, first-task preparation",
+      "model_notes": "Unnamed room; do not automatically identify it with another unused classroom in later chapters."
+    },
+    {
+      "id": "B04-090",
+      "location": "Gryffindor common room practice state",
+      "category": "temporary",
+      "description": "At two in the morning Harry practises near the fireplace amid books, quills, upturned chairs, an old Gobstones set and Neville’s toad.",
+      "evidence": [
+        "B04-C020-P0085",
+        "B04-C020-P0087",
+        "B04-C020-P0088"
+      ],
+      "certainty": "explicit",
+      "temporal": "Night immediately before first task",
+      "model_notes": "Temporary clutter after practice, not the normal furniture layout."
+    },
+    {
+      "id": "B04-091",
+      "location": "First-task approach and champions’ tent",
+      "category": "temporary",
+      "description": "McGonagall leads Harry down the front stone steps and around the Forest edge towards the dragon enclosure. A tent erected before the screening trees faces the approach and blocks the dragons from view. Inside are low wooden stools and space for pacing; the audience passes outside, and crowd noise and amplified commentary are audible inside. A short walk from the tent enters the trees.",
+      "evidence": [
+        "B04-C020-P0093",
+        "B04-C020-P0100",
+        "B04-C020-P0103",
+        "B04-C020-P0104",
+        "B04-C020-P0105",
+        "B04-C020-P0106",
+        "B04-C020-P0110",
+        "B04-C020-P0111",
+        "B04-C020-P0116",
+        "B04-C020-P0117",
+        "B04-C020-P0126",
+        "B04-C020-P0127",
+        "B04-C020-P0128",
+        "B04-C020-P0133",
+        "B04-C020-P0140"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 November 1994, first task",
+      "model_notes": "The competition uses the place of the previously visited enclosure; no unexplained relocation is needed. Preserve the approach-facing tent and auditory connection."
+    },
+    {
+      "id": "B04-092",
+      "location": "First-task arena and stands",
+      "category": "temporary",
+      "description": "From the tent Harry passes trees and a gap in the fence into the enclosure. Newly conjured spectator stands rise above him with hundreds of faces looking down. The Horntail crouches at the far end over her eggs on hard ground, cutting yard-long gouges with her tail.",
+      "evidence": [
+        "B04-C020-P0140",
+        "B04-C020-P0141",
+        "B04-C020-P0149"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 November 1994, first task",
+      "model_notes": "Explicitly adds stands to the earlier holding site. The yard measurement is gouge length, not arena size or depth."
+    },
+    {
+      "id": "B04-093",
+      "location": "First-task aerial clearance and Summoning route",
+      "category": "magic",
+      "description": "The summoned Firebolt approaches behind Harry around the edge of the woods and enters the enclosure. Harry flies high above the dragon, circles and dives, then flies over and back across the stands to land near the enclosure entrance.",
+      "evidence": [
+        "B04-C020-P0143",
+        "B04-C020-P0144",
+        "B04-C020-P0145",
+        "B04-C020-P0146",
+        "B04-C020-P0147",
+        "B04-C020-P0150",
+        "B04-C020-P0152",
+        "B04-C020-P0153",
+        "B04-C020-P0154",
+        "B04-C020-P0157",
+        "B04-C020-P0158",
+        "B04-C020-P0160",
+        "B04-C020-P0161",
+        "B04-C020-P0163"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 November 1994, first task",
+      "model_notes": "Observed open aerial route and magical object delivery from the castle. The text does not show the Firebolt’s entire path out of its storage place. The shimmering view before arrival is Harry’s stressed perception, not a confirmed magical barrier."
+    },
+    {
+      "id": "B04-094",
+      "location": "First-aid tent at first task",
+      "category": "temporary",
+      "description": "A second tent outside the enclosure serves as first aid. It is divided into cubicles by canvas; Cedric’s sitting silhouette is visible through a partition. Pomfrey moves from Harry’s area to the adjacent treatment space.",
+      "evidence": [
+        "B04-C020-P0164",
+        "B04-C020-P0169",
+        "B04-C020-P0170",
+        "B04-C020-P0171",
+        "B04-C020-P0173",
+        "B04-C020-P0174",
+        "B04-C020-P0175",
+        "B04-C020-P0190"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 November 1994, first task",
+      "model_notes": "Separate from the champions’ waiting tent. Preserve translucent canvas partitions without inventing their number or furniture type."
+    },
+    {
+      "id": "B04-095",
+      "location": "First-task terrain changes in other trials",
+      "category": "temporary",
+      "description": "Ron reports that Cedric Transfigured a rock in the arena into a dog, while Krum’s eye spell caused his dragon to trample and crush about half the real eggs.",
+      "evidence": [
+        "B04-C020-P0191"
+      ],
+      "certainty": "reported",
+      "temporal": "24 November 1994, earlier competitors",
+      "model_notes": "Reported earlier rounds; the rock supplies a terrain object and the eggs record temporary damage. Harry did not directly see those rounds."
+    },
+    {
+      "id": "B04-096",
+      "location": "First-task judges’ position",
+      "category": "temporary",
+      "description": "After the Horntail is removed, five judges are visible at the opposite end of the enclosure in raised seats draped in gold. They display scores as large magical numerals in the air.",
+      "evidence": [
+        "B04-C020-P0192",
+        "B04-C020-P0193",
+        "B04-C020-P0195",
+        "B04-C020-P0197",
+        "B04-C020-P0198",
+        "B04-C020-P0201"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 November 1994, judging",
+      "model_notes": "Visibility is obstructed by the dragon until removal. The seats are raised but their supporting structure and height are unstated."
+    },
+    {
+      "id": "B04-097",
+      "location": "First-task return route",
+      "category": "route",
+      "description": "After revisiting the champions’ tent Harry and Ron return around the Forest edge and pass the clump of trees which screened the first dragon sighting before continuing to the castle.",
+      "evidence": [
+        "B04-C020-P0204",
+        "B04-C020-P0205",
+        "B04-C020-P0210",
+        "B04-C020-P0211",
+        "B04-C020-P0214"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 November 1994, after first task",
+      "model_notes": "Confirms the same screening clump on the return route; Rita’s hiding place is temporary."
     }
   ],
   "chapter_reviews": [
@@ -1434,6 +1677,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter reviewed. Included library screening, village visit context, the full nighttime perimeter route, holding-enclosure fixtures, dragon clearances, and fireplace communication."
+    },
+    {
+      "chapter": 20,
+      "reviewed_ranges": [
+        [
+          1,
+          214
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed. Included lake circuits, office history and detectors, unused practice classroom, all first-task installations and travel, reported terrain changes, and temporary damage. Stress-induced shimmering not treated as a barrier."
     }
   ]
 }
