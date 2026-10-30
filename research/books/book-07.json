@@ -382,6 +382,23 @@
       "certainty": "reported",
       "temporal": "March 1998 broadcast about events within the previous hours",
       "model_notes": "Evidence for an inhabited Hagrid house after the previous book’s fire, without a stated reconstruction or a guarantee it is the same building. The party is explicitly a rumour; Grawp’s assistance is suggested rather than witnessed."
+    },
+    {
+      "id": "B07-028",
+      "location": "Slytherin common room",
+      "category": "interior",
+      "description": "Harry tells the Snatchers that the Slytherin common room is in the dungeons, entered through a wall, full of skulls and other things, and under the lake, which gives its light a green colour.",
+      "evidence": [
+        "B07-C023-P0050",
+        "B07-C023-P0051",
+        "B07-C023-P0052",
+        "B07-C023-P0053",
+        "B07-C023-P0054",
+        "B07-C023-P0055"
+      ],
+      "certainty": "reported",
+      "temporal": "March 1998 account of remembered school space",
+      "model_notes": "Harry is falsely claiming Slytherin membership; Scabior accepts the architectural answer as convincing. Retain the account as reported rather than a witnessed current state. No window form, lake depth or entrance password supplied."
     }
   ],
   "chapter_reviews": [
@@ -626,6 +643,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs. Recorded dated report concerning Hagrid’s house, attempted arrest on grounds and giant half-brother. Chamber myth remark adds no geometry; camping and wider war news excluded."
+    },
+    {
+      "chapter": 23,
+      "reviewed_ranges": [
+        [
+          1,
+          343
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three complete chunks. Recorded Harry’s Slytherin common-room account. Malfoy Manor, its escape-proof cellar, the distant black fortress and Shell Cottage are separate sites; no architectural details from them transferred to Hogwarts."
     }
   ]
 }
