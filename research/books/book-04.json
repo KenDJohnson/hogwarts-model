@@ -57,6 +57,240 @@
       "certainty": "explicit",
       "temporal": "1 September 1994 arrival",
       "model_notes": "Retain Harry’s perception of horseless carriages. The paragraph gives the upward route and approximate vehicle count, not the track’s measured length or the lake landing geometry."
+    },
+    {
+      "id": "B04-005",
+      "location": "Main gates and castle approach",
+      "category": "route",
+      "description": "Carriages pass through gates flanked by winged-boar statues and climb a sweeping drive to the great oak front doors above a flight of stone steps. Many illuminated castle windows are visible through the rain.",
+      "evidence": [
+        "B04-C012-P0001"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "Preserve the ordered station–gates–drive–steps–front-doors approach. No count of steps, gate material, or precise drive curvature is supplied."
+    },
+    {
+      "id": "B04-006",
+      "location": "Entrance Hall",
+      "category": "interior",
+      "description": "The Entrance Hall is cavernous and torch-lit and contains a magnificent marble staircase. Peeves hovers twenty feet above arriving pupils; water balloons leave the floor wet and slippery.",
+      "evidence": [
+        "B04-C012-P0001",
+        "B04-C012-P0003",
+        "B04-C012-P0005",
+        "B04-C012-P0010",
+        "B04-C012-P0012"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "The hovering height supplies at least that much clearance at his position, not a measured ceiling height. Wetness belongs to this incident."
+    },
+    {
+      "id": "B04-007",
+      "location": "Entrance Hall to Great Hall",
+      "category": "route",
+      "description": "Double doors on the right of the Entrance Hall lead into the Great Hall.",
+      "evidence": [
+        "B04-C012-P0012",
+        "B04-C012-P0171"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "The right-hand relation is given on entering via the front doors; preserve that viewpoint."
+    },
+    {
+      "id": "B04-008",
+      "location": "Great Hall",
+      "category": "interior",
+      "description": "Hundreds of candles float above four long student house tables. Golden plates and goblets stand on the tables; at the top of the Hall the staff sit along one side of a fifth table facing the pupils. Harry’s route passes Slytherin, Ravenclaw and Hufflepuff before reaching Gryffindor at the far side, with Slytherin subsequently described across the Hall.",
+      "evidence": [
+        "B04-C012-P0013",
+        "B04-C012-P0081",
+        "B04-C012-P0118"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "Record the observed traversal and opposite-side relation without assuming equal table spacing. The tablecloth is white linen; spilled pumpkin juice stains it during this meal."
+    },
+    {
+      "id": "B04-009",
+      "location": "Great Hall staff table",
+      "category": "furnishing",
+      "description": "Flitwick sits on a large pile of cushions beside Sprout, who is beside Sinistra; Snape is on Sinistra’s other side. A vacant seat separates Snape from Dumbledore at the centre. The arriving Moody is given the seat on Dumbledore’s right, while Hagrid sits at an end of the table.",
+      "evidence": [
+        "B04-C012-P0029",
+        "B04-C012-P0030",
+        "B04-C012-P0087",
+        "B04-C012-P0147"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "A dated seating arrangement. Harry guesses that the vacant seat is McGonagall’s; do not treat that identification as directly observed or fix all seating permanently."
+    },
+    {
+      "id": "B04-010",
+      "location": "Great Hall ceiling and windows",
+      "category": "magic",
+      "description": "The enchanted ceiling shows the outdoor sky: swirling black and purple storm clouds and flashes of lightning. High dark windows admit the sound of heavy rain and shake with thunder.",
+      "evidence": [
+        "B04-C012-P0030",
+        "B04-C012-P0131",
+        "B04-C012-P0134",
+        "B04-C012-P0143"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "Separate the magical visible sky from the actual roof structure, whose construction and height are not specified."
+    },
+    {
+      "id": "B04-011",
+      "location": "Great Hall Sorting position",
+      "category": "temporary",
+      "description": "The first-years line up along the staff table facing the rest of the school. McGonagall places the ancient patched Sorting Hat on a three-legged stool in front of them and removes both when the Sorting ends.",
+      "evidence": [
+        "B04-C012-P0032",
+        "B04-C012-P0033",
+        "B04-C012-P0074",
+        "B04-C012-P0105"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "A removable start-of-term installation, not a permanent obstruction."
+    },
+    {
+      "id": "B04-012",
+      "location": "Great Hall rear door",
+      "category": "route",
+      "description": "Hagrid enters through a door behind the teachers’ table.",
+      "evidence": [
+        "B04-C012-P0087"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "The door’s destination and dimensions are unstated; keep a usable connection without inventing its route."
+    },
+    {
+      "id": "B04-013",
+      "location": "Lake first-year crossing",
+      "category": "grounds",
+      "description": "Dennis reports falling into the lake and being pushed back into the boat by something underwater. Colin suggests the giant squid; the narration describes the lake as fathoms deep.",
+      "evidence": [
+        "B04-C012-P0090",
+        "B04-C012-P0091",
+        "B04-C012-P0092"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1994",
+      "model_notes": "The rescue is a character report; the squid identification is speculation. Fathoms deep is qualitative, not a mapped bathymetric measurement."
+    },
+    {
+      "id": "B04-014",
+      "location": "Great Hall meal service",
+      "category": "magic",
+      "description": "Empty dishes fill with food without visible delivery. The first course vanishes and is instantly replaced by puddings, and remaining crumbs later disappear leaving clean plates.",
+      "evidence": [
+        "B04-C012-P0109",
+        "B04-C012-P0131",
+        "B04-C012-P0134"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "Allow magical food-state changes at the tables. These paragraphs do not establish the mechanism or the kitchen’s position."
+    },
+    {
+      "id": "B04-015",
+      "location": "Hogwarts kitchens",
+      "category": "temporary",
+      "description": "Nearly Headless Nick reports that Peeves threw pots and pans around and left the kitchens flooded with soup before the feast.",
+      "evidence": [
+        "B04-C012-P0112",
+        "B04-C012-P0114",
+        "B04-C012-P0117"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1994",
+      "model_notes": "A reported disruption earlier the same evening, not the normal kitchen state."
+    },
+    {
+      "id": "B04-016",
+      "location": "Hogwarts kitchens and servicing",
+      "category": "interior",
+      "description": "Nearly Headless Nick says Hogwarts has over a hundred house-elves, normally in the kitchens by day, emerging at night to clean and attend to fires.",
+      "evidence": [
+        "B04-C012-P0120",
+        "B04-C012-P0122"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1994",
+      "model_notes": "The stated count and work pattern are reported. They imply staffing and nighttime activity, not a proven kitchen capacity or plan."
+    },
+    {
+      "id": "B04-017",
+      "location": "Filch’s office",
+      "category": "furnishing",
+      "description": "Dumbledore says the castle’s list of about 437 prohibited objects can be consulted in Filch’s office.",
+      "evidence": [
+        "B04-C012-P0136"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1994",
+      "model_notes": "Provides a displayed or consultable office list; its mounting and format are unstated."
+    },
+    {
+      "id": "B04-018",
+      "location": "Forest and Hogsmeade access",
+      "category": "route",
+      "description": "Dumbledore reminds pupils that the Forest within the grounds is out of bounds and Hogsmeade is barred to pupils below third year.",
+      "evidence": [
+        "B04-C012-P0138"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1994",
+      "model_notes": "Institutional access rules at this date, not an impassable physical barrier."
+    },
+    {
+      "id": "B04-019",
+      "location": "Route to Gryffindor Tower: concealed staircase",
+      "category": "route",
+      "description": "On the route from the Entrance Hall towards Gryffindor Tower the group passes through a door hidden behind a tapestry and climbs a narrower staircase. A step halfway up lets Neville’s foot sink through; a suit of armour at the top laughs, and Ron closes its visor.",
+      "evidence": [
+        "B04-C012-P0176",
+        "B04-C012-P0181",
+        "B04-C012-P0185",
+        "B04-C012-P0186"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "No intervening route or floor number is given. The narration calls this one of many Hogwarts trick stairs; model this local trap without making every staircase identical."
+    },
+    {
+      "id": "B04-020",
+      "location": "Gryffindor Tower entrance and common room",
+      "category": "interior",
+      "description": "A large portrait of the Fat Lady in pink silk hides the entrance. After the password she swings forward to expose a hole in the wall. The circular common room has a crackling fire, squashy armchairs, tables, and a doorway to the girls’ dormitories.",
+      "evidence": [
+        "B04-C012-P0187",
+        "B04-C012-P0188",
+        "B04-C012-P0189",
+        "B04-C012-P0190"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "Password at this visit is Balderdash. Retain a climb-through wall opening and a separate girls’ dormitory doorway; the opening’s exact height is unspecified."
+    },
+    {
+      "id": "B04-021",
+      "location": "Gryffindor boys’ fourth-year dormitory",
+      "category": "interior",
+      "description": "A final spiral staircase reaches the boys’ dormitory at the top of the Tower. Five four-poster beds with deep crimson hangings stand against the walls, trunks at their feet. Bedside tables and headboards support Dean’s Krum and West Ham posters and Seamus’s Ireland rosette; warming pans have been placed in the sheets.",
+      "evidence": [
+        "B04-C012-P0191",
+        "B04-C012-P0193"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1994",
+      "model_notes": "Specific to this dormitory and date. Harry attributes the warming pans to house-elves without witnessing placement; do not infer other dormitories’ bed counts."
     }
   ],
   "chapter_reviews": [
@@ -180,6 +414,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Reviewed complete chapter. World Cup, Burrow, and unrelated Ministry descriptions excluded; Hogwarts access and concealment recorded where present."
+    },
+    {
+      "chapter": 12,
+      "reviewed_ranges": [
+        [
+          1,
+          196
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter reviewed, including Sorting song, kitchen reports, lake rescue report, approach, Hall, and dormitory route. Founders’ places of origin do not establish Hogwarts terrain."
     }
   ]
 }
