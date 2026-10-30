@@ -222,6 +222,89 @@
       "certainty": "explicit",
       "temporal": "September 1997 recollection",
       "model_notes": "Relative comparison supports older, denser trees and more obstructed ground in the Forbidden Forest, not uniform tree ages or measured spacing. The observed canopy and clearing belong to the World Cup woods, not Hogwarts."
+    },
+    {
+      "id": "B07-017",
+      "location": "Headmaster’s office / sword display",
+      "category": "temporary",
+      "description": "Dirk reports that Ginny and two friends entered Snape’s office, smashed the sword’s glass case and were caught carrying the sword down the staircase. He says Snape sent the displayed sword to Gringotts a couple of days later; Griphook identifies that deposited blade as a copy.",
+      "evidence": [
+        "B07-C015-P0122",
+        "B07-C015-P0125",
+        "B07-C015-P0127",
+        "B07-C015-P0129",
+        "B07-C015-P0132",
+        "B07-C015-P0134"
+      ],
+      "certainty": "reported",
+      "temporal": "Autumn 1997",
+      "model_notes": "Reported chain is Bill to Griphook to Dirk; preserve broken case and removed display as dated states. This does not establish who made the substitution or when."
+    },
+    {
+      "id": "B07-018",
+      "location": "Headmaster’s office / Phineas Nigellus portrait",
+      "category": "furnishing",
+      "description": "Hermione says Phineas Nigellus’s portrait hangs immediately beside the sword’s display case.",
+      "evidence": [
+        "B07-C015-P0159",
+        "B07-C015-P0160"
+      ],
+      "certainty": "reported",
+      "temporal": "Autumn 1997",
+      "model_notes": "Relative adjacency, without compass direction or height."
+    },
+    {
+      "id": "B07-019",
+      "location": "Hogwarts portraits",
+      "category": "magic",
+      "description": "Phineas Nigellus explains that Hogwarts portraits can communicate with one another, but may leave the castle only to visit another painting of themselves. Dumbledore therefore cannot accompany him into his frame outside Hogwarts.",
+      "evidence": [
+        "B07-C015-P0188",
+        "B07-C015-P0189",
+        "B07-C015-P0190",
+        "B07-C015-P0192",
+        "B07-C015-P0194",
+        "B07-C015-P0199",
+        "B07-C015-P0200",
+        "B07-C015-P0202",
+        "B07-C015-P0204"
+      ],
+      "certainty": "reported",
+      "temporal": "Autumn 1997",
+      "model_notes": "Castle boundary limits portrait travel; the painted subject can move to a linked self-portrait and remains able to hear while blindfolded. Do not permit unrestricted travel through arbitrary off-site portraits."
+    },
+    {
+      "id": "B07-020",
+      "location": "Forbidden Forest",
+      "category": "temporary",
+      "description": "Phineas reports that Snape sent Ginny, Neville and Luna into the Forbidden Forest to work for Hagrid. Ron subsequently protests that the forest contains giant spiders.",
+      "evidence": [
+        "B07-C015-P0174",
+        "B07-C015-P0176",
+        "B07-C015-P0179",
+        "B07-C015-P0180",
+        "B07-C015-P0254",
+        "B07-C015-P0255"
+      ],
+      "certainty": "reported",
+      "temporal": "Autumn 1997",
+      "model_notes": "Dated use as detention/work area and character report of dangerous fauna; no work site or route within the forest is specified."
+    },
+    {
+      "id": "B07-021",
+      "location": "Shrieking Shack / Hogsmeade",
+      "category": "magic",
+      "description": "In speculating where the sword might be hidden, Harry says nobody goes into the Shrieking Shack; Hermione points out that Snape knows how to enter it.",
+      "evidence": [
+        "B07-C015-P0216",
+        "B07-C015-P0217",
+        "B07-C015-P0218",
+        "B07-C015-P0219",
+        "B07-C015-P0220"
+      ],
+      "certainty": "reported",
+      "temporal": "Autumn 1997",
+      "model_notes": "Statements concern secluded access and a known entrant, not proof the sword was stored there or a description of its entrance."
     }
   ],
   "chapter_reviews": [
@@ -378,6 +461,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs. Recorded explicit Forbidden Forest comparison and imagined wooded approach to Hagrid. World Cup woods, tent and Gregorovitch workshop are not school sites."
+    },
+    {
+      "chapter": 15,
+      "reviewed_ranges": [
+        [
+          1,
+          278
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in three complete chunks. Recorded sword case damage/removal, portrait adjacency and travel limits, Forest work/giant spiders, and Shack access remarks. Off-site camping geography excluded; Horcrux-location speculation not treated as a confirmed hiding place."
     }
   ]
 }
