@@ -257,6 +257,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs. Recorded linked portrait destination and house-elf exception to Hogwarts Apparition protections. Grimmauld Place and the sea cave are outside school/grounds scope."
+    },
+    {
+      "chapter": 11,
+      "reviewed_ranges": [
+        [
+          1,
+          207
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs. Grimmauld Place action and Dumbledore family history add no school geometry. Reported compulsory attendance and blood-status admissions are administrative policy without physical/spatial detail."
     }
   ]
 }
