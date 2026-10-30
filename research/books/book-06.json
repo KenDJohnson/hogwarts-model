@@ -1,6 +1,86 @@
 {
   "book": 6,
-  "entries": [],
+  "entries": [
+    {
+      "id": "B06-001",
+      "location": "Hogwarts protective perimeter",
+      "category": "magic",
+      "description": "A newspaper reports new defensive spells and charms, a complex array of counter-curses, and a small Auror task force specifically protecting Hogwarts.",
+      "evidence": [
+        "B06-C003-P0015",
+        "B06-C003-P0016"
+      ],
+      "certainty": "reported",
+      "temporal": "Preparations for autumn 1996",
+      "model_notes": "Security state; the report withholds precise spell placement and perimeter geometry."
+    },
+    {
+      "id": "B06-002",
+      "location": "Hogwarts kitchens",
+      "category": "interior",
+      "description": "Dumbledore identifies the Hogwarts kitchen as a workplace for the resident house-elves; Harry sends Kreacher to join them.",
+      "evidence": [
+        "B06-C003-P0109",
+        "B06-C003-P0110"
+      ],
+      "certainty": "reported",
+      "temporal": "Summer 1996",
+      "model_notes": "Functional and occupancy information only; this passage gives no kitchen position or dimensions."
+    },
+    {
+      "id": "B06-003",
+      "location": "Hagrid’s care of Buckbeak",
+      "category": "grounds",
+      "description": "Buckbeak is staying with Hagrid, under the protective replacement name Witherwings.",
+      "evidence": [
+        "B06-C003-P0112",
+        "B06-C003-P0113",
+        "B06-C003-P0114"
+      ],
+      "certainty": "reported",
+      "temporal": "Summer 1996 onward",
+      "model_notes": "Grounds creature state; no exact enclosure or position is specified here."
+    },
+    {
+      "id": "B06-004",
+      "location": "Hogwarts buildings and grounds",
+      "category": "magic",
+      "description": "Apparition is prohibited throughout Hogwarts buildings and grounds, a rule Harry states and Dumbledore confirms.",
+      "evidence": [
+        "B06-C004-P0037",
+        "B06-C004-P0038",
+        "B06-C004-P0039"
+      ],
+      "certainty": "reported",
+      "temporal": "General rule stated summer 1996",
+      "model_notes": "Apply to the whole grounds as well as the castle; exact boundary line is not supplied."
+    },
+    {
+      "id": "B06-005",
+      "location": "Forbidden Forest",
+      "category": "grounds",
+      "description": "Dumbledore describes a resident centaur herd in the Forest, recalling Umbridge’s encounter there.",
+      "evidence": [
+        "B06-C004-P0122",
+        "B06-C004-P0123"
+      ],
+      "certainty": "reported",
+      "temporal": "Summer 1996 account of previous school year",
+      "model_notes": "Establishes Forest inhabitants, without siting a settlement or clearing."
+    },
+    {
+      "id": "B06-006",
+      "location": "Headmaster’s office",
+      "category": "furnishing",
+      "description": "Harry recalls that conversations with Dumbledore at Hogwarts usually take place across a desk.",
+      "evidence": [
+        "B06-C004-P0001"
+      ],
+      "certainty": "explicit",
+      "temporal": "Harry’s recollection in summer 1996",
+      "model_notes": "Furniture and conversational arrangement; do not infer office dimensions from this recollection."
+    }
+  ],
   "chapter_reviews": [
     {
       "chapter": 1,
@@ -23,6 +103,28 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read complete chapter. Spinner’s End house and town are outside Hogwarts boundary context. Dialogue about Hogwarts employment, the Stone and Draco’s task adds no physical or spatial constraint."
+    },
+    {
+      "chapter": 3,
+      "reviewed_ranges": [
+        [
+          1,
+          138
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter, including newspapers and dialogue. Recorded Hogwarts security, kitchen staffing, and Buckbeak placement; Privet Drive and Grimmauld Place geometry excluded."
+    },
+    {
+      "chapter": 4,
+      "reviewed_ranges": [
+        [
+          1,
+          237
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter; initial output truncation at paragraphs 114–138 repaired by reading that exact block separately before marking coverage. Recorded anti-Apparition rule, centaur habitat report and desk recollection. Budleigh Babberton and Burrow architecture are outside scope."
     }
   ]
 }
