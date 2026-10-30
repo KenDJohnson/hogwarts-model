@@ -617,6 +617,211 @@
       "certainty": "explicit",
       "temporal": "May 1998 return to Hogwarts",
       "model_notes": "Portrait aperture is above the fireplace/mantelpiece; the painted approach depicts the real tunnel’s traveller. Far endpoint and dimensions await the next chapter."
+    },
+    {
+      "id": "B07-043",
+      "location": "Hogsmeade / Hog’s Head Apparition access",
+      "category": "magic",
+      "description": "Aberforth says the Caterwauling Charm covers the entire village. Neville explains that arriving allies will Apparate directly into the Hog’s Head bar.",
+      "evidence": [
+        "B07-C029-P0005",
+        "B07-C029-P0006"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Indoor arrival is offered despite failed outdoor Disapparition in chapter 28. Preserve that distinction; do not infer a universal town-wide ban on every direction or destination of Apparition."
+    },
+    {
+      "id": "B07-044",
+      "location": "Hog’s Head → Room of Requirement tunnel",
+      "category": "route",
+      "description": "Beyond the portrait are smooth stone steps and a worn, smooth earthy floor, with brass wall lamps casting moving shadows. The passage later slopes steeply uphill, turns a corner, and ends at a short flight of steps and a small door like the portrait aperture, opening into the Room of Requirement.",
+      "evidence": [
+        "B07-C029-P0007",
+        "B07-C029-P0010",
+        "B07-C029-P0011",
+        "B07-C029-P0027",
+        "B07-C029-P0032",
+        "B07-C029-P0043",
+        "B07-C029-P0046",
+        "B07-C029-P0050",
+        "B07-C029-P0051",
+        "B07-C029-P0052"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Apparently aged surfaces do not prove age: Neville says the passage appeared recently. No length or compass bearing given."
+    },
+    {
+      "id": "B07-045",
+      "location": "Seven old Hogwarts secret passages",
+      "category": "temporary",
+      "description": "Neville says all the seven old school passages had been sealed before the school year began, with curses over entrances and Death Eaters and Dementors at exits.",
+      "evidence": [
+        "B07-C029-P0011",
+        "B07-C029-P0012"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Dated 1997–98 closures; number seven is Ron’s understanding, accepted in Neville’s reply. Do not confuse this new passage, absent from the Map discussion, with one of the old seven."
+    },
+    {
+      "id": "B07-046",
+      "location": "Castle walls / resistance graffiti",
+      "category": "temporary",
+      "description": "Neville reports Dumbledore’s Army sneaking out at night to put recruitment graffiti on the walls, angering Snape.",
+      "evidence": [
+        "B07-C029-P0039",
+        "B07-C029-P0040"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "No corridor or inscription location identified. Physical wartime wall markings, not a permanent decorative layer."
+    },
+    {
+      "id": "B07-047",
+      "location": "Room of Requirement / resistance refuge interior",
+      "category": "interior",
+      "description": "The enormous refuge resembles a lavish tree house or a ship’s cabin: dark wood panelling on windowless walls, a balcony running around them, and multicoloured hammocks suspended from the ceiling and balcony. Bright tapestries show a gold Gryffindor lion on scarlet, black Hufflepuff badger on yellow and bronze Ravenclaw eagle on blue; Slytherin green and silver are absent.",
+      "evidence": [
+        "B07-C029-P0057",
+        "B07-C029-P0059"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Specific refuge configuration; do not transfer windowlessness, balcony or house banners to every room state."
+    },
+    {
+      "id": "B07-048",
+      "location": "Room of Requirement / refuge furnishings",
+      "category": "furnishing",
+      "description": "Bulging bookcases, broomsticks leaning against the walls, lamps, chairs and a large wooden-cased wireless in a corner furnish the refuge, occupied by more than twenty people.",
+      "evidence": [
+        "B07-C029-P0057",
+        "B07-C029-P0059",
+        "B07-C029-P0068",
+        "B07-C029-P0088",
+        "B07-C029-P0095",
+        "B07-C029-P0097",
+        "B07-C029-P0106",
+        "B07-C029-P0108",
+        "B07-C029-P0109",
+        "B07-C029-P0124"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Multiple tunnel arrivals enlarge the gathering; “more than twenty” describes the initial welcome, not maximum capacity."
+    },
+    {
+      "id": "B07-049",
+      "location": "Room of Requirement / adaptive refuge and bathroom",
+      "category": "magic",
+      "description": "Neville reports the refuge beginning much smaller, with one hammock and only Gryffindor hangings, then enlarging as more DA members arrived. Seamus says it creates additional hammocks as needed and added a bathroom when girls joined the nearly two-week-old refuge.",
+      "evidence": [
+        "B07-C029-P0061",
+        "B07-C029-P0066",
+        "B07-C029-P0067"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Responsive size, occupancy furniture and sanitation, not fixed bathroom dimensions or a stable total hammock count."
+    },
+    {
+      "id": "B07-050",
+      "location": "Room of Requirement / refuge access and food limits",
+      "category": "magic",
+      "description": "Seamus says the refuge remains inaccessible to the Carrows while one defender stays inside, provided the request excludes Carrow supporters and closes loopholes. Neville says that after about a day and a half of hunger the Room created the Hog’s Head passage, through which Aberforth supplies food; the Room itself does not produce food.",
+      "evidence": [
+        "B07-C029-P0062",
+        "B07-C029-P0063",
+        "B07-C029-P0064",
+        "B07-C029-P0065"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Request-specific access rule and workaround for food exception; refuge tunnel has existed about two weeks, despite its worn appearance."
+    },
+    {
+      "id": "B07-051",
+      "location": "Room of Requirement cupboard → changing castle exit",
+      "category": "route",
+      "description": "A small cupboard in a corner opens onto a steep, long torchlit staircase with unexpected bends. Neville says its endpoint changes daily. Harry and Luna climb to apparent solid wall, push it so it melts away, and emerge into a dark fifth-floor corridor; it reseals immediately.",
+      "evidence": [
+        "B07-C029-P0141",
+        "B07-C029-P0142",
+        "B07-C029-P0143",
+        "B07-C029-P0144",
+        "B07-C029-P0146",
+        "B07-C029-P0147",
+        "B07-C029-P0148",
+        "B07-C029-P0149"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Fifth floor is this evening’s exit, not a permanent corridor connection or proof that the refuge occupies a lower fixed floor."
+    },
+    {
+      "id": "B07-052",
+      "location": "Fifth-floor corridor route → Ravenclaw stair",
+      "category": "route",
+      "description": "With Filch a corridor ahead, Harry and Luna traverse moonlit squares, corners and suits of armour whose helmets creak at their footsteps, pausing for two passing ghosts. Luna leads them onto a spiral staircase, which rises in tight dizzying circles to Ravenclaw’s door.",
+      "evidence": [
+        "B07-C029-P0149",
+        "B07-C029-P0151",
+        "B07-C029-P0152",
+        "B07-C029-P0153"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "No count of floors, turns, armour suits or total stairs supplied; the Map gives only the starting fifth floor."
+    },
+    {
+      "id": "B07-053",
+      "location": "Ravenclaw common-room entrance",
+      "category": "magic",
+      "description": "The entrance is aged wood with neither handle nor keyhole, only a bronze eagle knocker. A knock makes its beak speak musically and ask a question. Luna says a wrong answer requires waiting for somebody who answers correctly; her answer about a circle’s lack of beginning opens it.",
+      "evidence": [
+        "B07-C029-P0153",
+        "B07-C029-P0154",
+        "B07-C029-P0155",
+        "B07-C029-P0156",
+        "B07-C029-P0157",
+        "B07-C029-P0158",
+        "B07-C029-P0159",
+        "B07-C029-P0160",
+        "B07-C029-P0161",
+        "B07-C029-P0162"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Reasoning challenge rather than a fixed password; one observed question does not define its entire set of questions."
+    },
+    {
+      "id": "B07-054",
+      "location": "Ravenclaw common room",
+      "category": "interior",
+      "description": "The wide circular room is exceptionally airy, with graceful arched windows between blue-and-bronze silk wall hangings. Surrounding mountains can be seen by day. A domed ceiling painted with stars is echoed by the midnight-blue carpet; tables, chairs and bookcases occupy the room.",
+      "evidence": [
+        "B07-C029-P0163"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Night visit with narrated daytime view potential. No window count, compass orientation or room diameter."
+    },
+    {
+      "id": "B07-055",
+      "location": "Ravenclaw common room / Rowena statue and adjoining door",
+      "category": "furnishing",
+      "description": "Opposite the entrance, a niche contains a tall white-marble statue of Rowena Ravenclaw on a plinth. Beside it is a door Harry guesses leads to dormitories above. The statue has a beautiful, slightly intimidating quizzical half-smile and a delicate marble circlet etched with the motto “Wit beyond measure is man’s greatest treasure.”",
+      "evidence": [
+        "B07-C029-P0136",
+        "B07-C029-P0163",
+        "B07-C029-P0164",
+        "B07-C029-P0165"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998 return to Hogwarts",
+      "model_notes": "Dormitory destination and upward relation are Harry’s guess, distinct from directly observed niche/door placement. Circlet replica supplies the visible diadem shape, not a claim that the actual object is here."
     }
   ],
   "chapter_reviews": [
@@ -927,6 +1132,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs in two complete chunks, including Aberforth’s entire family narrative. Recorded town approach, curfew/alarm, failed Apparition, Dementors, Hog’s Head access rooms, mountain escape option and portrait tunnel; family home history adds no Hogwarts geometry."
+    },
+    {
+      "chapter": 29,
+      "reviewed_ranges": [
+        [
+          1,
+          167
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in two complete chunks. Recorded all described tunnel surfaces and route, sealed passage reports, graffiti, refuge configurations/access/food/bathroom, changing fifth-floor exit, corridor route and Ravenclaw entry/interior/statue. Distinguished guessed dormitory connection from observation."
     }
   ]
 }
