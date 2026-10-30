@@ -171,6 +171,228 @@
       "certainty": "explicit",
       "temporal": "1 September 1995 return to school",
       "model_notes": "At least five occupants in this instance; upholstery and seating configuration unspecified."
+    },
+    {
+      "id": "B05-013",
+      "location": "Coach approach through school gates",
+      "category": "route",
+      "description": "The creaking wheeled coaches travel uphill in convoy through the grounds gates, between tall stone pillars topped with winged boars; the vehicles have doors and windows.",
+      "evidence": [
+        "B05-C011-P0001",
+        "B05-C011-P0007",
+        "B05-C011-P0009"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Connect station road to gated grounds; no count of intervening bends."
+    },
+    {
+      "id": "B05-014",
+      "location": "Castle approach and Hagrid’s cabin",
+      "category": "exterior",
+      "description": "A towering mass of castle turrets rises against the night sky, with some windows brightly lit above the arrivals. Hagrid’s cabin stands by the Forbidden Forest; Harry looks toward it both from the gate approach and the coach stopping place but sees no light.",
+      "evidence": [
+        "B05-C011-P0009",
+        "B05-C011-P0010"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Cabin darkness is a temporary absence, not proof of abandonment. Preserve attempted viewing positions without assuming unobstructed daytime sightlines."
+    },
+    {
+      "id": "B05-015",
+      "location": "Front steps and Entrance Hall",
+      "category": "route",
+      "description": "Coaches stop near stone steps leading to the oak front doors. Inside, torches illuminate a flagged stone floor; double doors on the right lead to the Great Hall.",
+      "evidence": [
+        "B05-C011-P0010",
+        "B05-C011-P0013",
+        "B05-C011-P0014"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Right is relative to entering from the front doors."
+    },
+    {
+      "id": "B05-016",
+      "location": "Great Hall lighting and roof",
+      "category": "interior",
+      "description": "Four long house tables sit beneath a starless black ceiling matching the sky visible through high windows. Candles float above the tables and translucent ghosts mingle among pupils.",
+      "evidence": [
+        "B05-C011-P0015"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "September night state; ghost movement is not restricted to physical seats."
+    },
+    {
+      "id": "B05-017",
+      "location": "Great Hall staff table and chair",
+      "category": "furnishing",
+      "description": "The long staff table runs along the top wall. Dumbledore occupies a high-backed golden chair in its centre; Umbridge sits beside him, and Grubbly-Plank takes Hagrid’s place at the very end.",
+      "evidence": [
+        "B05-C011-P0016",
+        "B05-C011-P0027",
+        "B05-C011-P0036"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Named seating is this feast’s arrangement; no compass orientation."
+    },
+    {
+      "id": "B05-018",
+      "location": "Sorting layout in Great Hall",
+      "category": "temporary",
+      "description": "First-years enter from the Entrance Hall and line up in front of the staff table facing the school. McGonagall sets a stool carrying the patched, darned, frayed Sorting Hat in front of them and removes both after Sorting.",
+      "evidence": [
+        "B05-C011-P0036",
+        "B05-C011-P0037",
+        "B05-C011-P0039",
+        "B05-C011-P0132",
+        "B05-C011-P0135"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Ceremonial movable furniture rather than a permanent obstacle."
+    },
+    {
+      "id": "B05-019",
+      "location": "Great Hall feast service",
+      "category": "magic",
+      "description": "Food appears on all five long tables, including joints, pies, vegetables, bread, sauces and pumpkin-juice flagons.",
+      "evidence": [
+        "B05-C011-P0138"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Five includes the staff table; mechanism not explained here."
+    },
+    {
+      "id": "B05-020",
+      "location": "Sorting Hat storage",
+      "category": "furnishing",
+      "description": "Nearly Headless Nick says the Sorting Hat lives in Dumbledore’s office.",
+      "evidence": [
+        "B05-C011-P0145"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Reported storage location; his idea that it overhears information is speculation."
+    },
+    {
+      "id": "B05-021",
+      "location": "Forest and corridor access rules",
+      "category": "magic",
+      "description": "Dumbledore declares the grounds’ Forest out of bounds to students and says magic is forbidden in corridors between lessons.",
+      "evidence": [
+        "B05-C011-P0160",
+        "B05-C011-P0161"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Institutional rules, not demonstrated physical magical barriers."
+    },
+    {
+      "id": "B05-022",
+      "location": "Filch’s office door",
+      "category": "furnishing",
+      "description": "Dumbledore says an extensive list of forbidden things is fastened to the caretaker’s office door.",
+      "evidence": [
+        "B05-C011-P0161"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Reported fixture; door location and list dimensions unspecified."
+    },
+    {
+      "id": "B05-023",
+      "location": "Great Hall house-table adjacency",
+      "category": "interior",
+      "description": "Gryffindor first-years approach their prefects through the gap between the Gryffindor and Hufflepuff tables.",
+      "evidence": [
+        "B05-C011-P0198"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Establishes adjacency without supplying complete table order."
+    },
+    {
+      "id": "B05-024",
+      "location": "Great Hall to Gryffindor route",
+      "category": "route",
+      "description": "Harry leaves the Great Hall into the crowded Entrance Hall, climbs the marble staircase and takes two concealed shortcuts through upstairs corridors, reaching the end of the corridor to Gryffindor common room.",
+      "evidence": [
+        "B05-C011-P0199",
+        "B05-C011-P0200",
+        "B05-C011-P0201"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Shortcuts are real but undescribed; do not invent their doors, length or landing floors."
+    },
+    {
+      "id": "B05-025",
+      "location": "Fat Lady entrance",
+      "category": "magic",
+      "description": "At the corridor end, the Fat Lady in a pink satin dress refuses entry without a password. Mimbulus mimbletonia causes her portrait to swing outward like a door, exposing a circular wall opening through which pupils climb.",
+      "evidence": [
+        "B05-C011-P0201",
+        "B05-C011-P0202",
+        "B05-C011-P0203",
+        "B05-C011-P0204",
+        "B05-C011-P0205"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Date the password; circular opening and swinging portrait are distinct components."
+    },
+    {
+      "id": "B05-026",
+      "location": "Gryffindor common room",
+      "category": "interior",
+      "description": "The cosy circular tower room contains dilapidated squashy armchairs, rickety tables and a crackling fire in a grate. Across the room the twins pin material to a noticeboard; a door leads toward the boys’ dormitories.",
+      "evidence": [
+        "B05-C011-P0206"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Dormitories are above the common room according to pupils going up; no precise spiral route is supplied here."
+    },
+    {
+      "id": "B05-027",
+      "location": "Fifth-year boys’ dormitory fittings",
+      "category": "furnishing",
+      "description": "Dean and Seamus decorate walls beside their beds with posters and photographs, including a Kenmare Kestrels team poster. Neville places his Mimbulus mimbletonia on his bedside cabinet; Harry has a trunk and bedside table. Ron’s bed is next to Harry’s.",
+      "evidence": [
+        "B05-C011-P0207",
+        "B05-C011-P0208",
+        "B05-C011-P0212",
+        "B05-C011-P0213",
+        "B05-C011-P0216",
+        "B05-C011-P0226",
+        "B05-C011-P0253"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Personal decorations and plant belong to the 1995–96 occupancy."
+    },
+    {
+      "id": "B05-028",
+      "location": "Dormitory beds and illumination",
+      "category": "interior",
+      "description": "Harry anticipates a soft warm four-poster bed above the Hall. The dormitory beds have closable hangings, pillows and covers; Seamus tears his hangings down and repairs them by wand. Moonlight reaches Neville’s cactus, and Ron extinguishes the last candle.",
+      "evidence": [
+        "B05-C011-P0159",
+        "B05-C011-P0227",
+        "B05-C011-P0247",
+        "B05-C011-P0251",
+        "B05-C011-P0252",
+        "B05-C011-P0253",
+        "B05-C011-P0255"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1995 start-of-term feast and night",
+      "model_notes": "Temporary torn curtains are repaired in the same scene; no window size or exact count follows from the moonlight."
     }
   ],
   "chapter_reviews": [
@@ -283,6 +505,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs, including dream, London departure, train conversation and arrival. Dream corridor is unlocated and not treated as Hogwarts; Neville is uncertain whether the greenhouse has his plant."
+    },
+    {
+      "chapter": 11,
+      "reviewed_ranges": [
+        [
+          1,
+          255
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs, including complete Sorting song, speeches, route and dormitory argument. The song’s four pillars are a metaphor for houses, not four architectural columns."
     }
   ]
 }
