@@ -12,6 +12,495 @@
       "certainty": "reported",
       "temporal": "First rise of Voldemort, before October 1981; reported July 1991",
       "model_notes": "A historical security claim, not evidence of a particular wall, ward, or physical defensive mechanism."
+    },
+    {
+      "id": "B01-002",
+      "location": "Hagrid’s hut",
+      "category": "grounds",
+      "description": "The boy later identified as Malfoy says Hagrid lives in a hut in the school grounds; he also alleges that Hagrid sometimes sets his bed alight while drunk and attempting magic.",
+      "evidence": [
+        "B01-C005-P0204"
+      ],
+      "certainty": "reported",
+      "temporal": "Reported July 1991; alleged recurring events undated",
+      "model_notes": "Hostile second-hand report. Hut residence and a bed are provisional until observed; alleged bed fires are not an established damage state."
+    },
+    {
+      "id": "B01-003",
+      "location": "Hogwarts Express — London connection",
+      "category": "route",
+      "description": "The school train leaves King’s Cross platform nine and three-quarters at eleven. Passing straight through the barrier between platforms nine and ten reaches the crowded departure platform, with a scarlet steam engine and a wrought-iron arch bearing its platform name.",
+      "evidence": [
+        "B01-C006-P0016",
+        "B01-C006-P0052",
+        "B01-C006-P0054",
+        "B01-C006-P0055",
+        "B01-C006-P0056",
+        "B01-C006-P0057"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991 arrival",
+      "model_notes": "Off-site transport context only; no metric distance to Hogwarts established."
+    },
+    {
+      "id": "B01-004",
+      "location": "Hogwarts Express — approach landscape",
+      "category": "route",
+      "description": "After London and agricultural fields, the train passes woods, winding rivers and dark green hills; close to arrival, mountains and forests are visible in the evening darkness.",
+      "evidence": [
+        "B01-C006-P0163",
+        "B01-C006-P0194",
+        "B01-C006-P0268"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991 arrival",
+      "model_notes": "Journey sequence; the book does not identify these individual landforms or give bearings."
+    },
+    {
+      "id": "B01-005",
+      "location": "Arrival station to lake",
+      "category": "route",
+      "description": "The train stops at a tiny dark platform. First-years follow Hagrid’s lamp down an apparently steep, narrow path, round a bend to the lakeside. Harry thinks thick trees flank the dark path.",
+      "evidence": [
+        "B01-C006-P0272",
+        "B01-C006-P0274",
+        "B01-C006-P0275",
+        "B01-C006-P0276",
+        "B01-C006-P0278"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991 arrival",
+      "model_notes": "Descent and bend constrain the approach. Flanking trees are Harry’s visual supposition, not confirmed vegetation geometry."
+    },
+    {
+      "id": "B01-006",
+      "location": "Hogwarts castle seen across the lake",
+      "category": "exterior",
+      "description": "Across a large black lake, a vast many-turreted, many-towered castle stands atop a high mountain, with sparkling windows. Approaching boats look upward at the castle and the cliff supporting it.",
+      "evidence": [
+        "B01-C006-P0278",
+        "B01-C006-P0281"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991 arrival",
+      "model_notes": "Preserve the high relief and cross-lake vista. No tower count, compass direction, cliff height or lake width supplied."
+    },
+    {
+      "id": "B01-007",
+      "location": "First-year lake crossing",
+      "category": "magic",
+      "description": "A fleet of small boats waits at the shore. Hagrid limits passengers to four per boat and occupies one himself. On his command all boats move together, gliding over the smooth lake towards the castle cliff.",
+      "evidence": [
+        "B01-C006-P0279",
+        "B01-C006-P0280",
+        "B01-C006-P0281"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991 arrival",
+      "model_notes": "A coordinated self-moving arrival transport state; four is the stated occupancy limit, not a boat dimension."
+    },
+    {
+      "id": "B01-008",
+      "location": "Cliff tunnel and underground harbour",
+      "category": "route",
+      "description": "At the cliff the riders duck beneath a curtain of ivy hiding a wide opening. Boats continue through a dark tunnel that seems to run directly under the castle, ending at an underground harbour where passengers step out onto rocks and pebbles.",
+      "evidence": [
+        "B01-C006-P0282",
+        "B01-C006-P0283"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991 arrival",
+      "model_notes": "The apparently under-castle alignment is qualified by the narration. Opening clearance requires ducking; do not invent a vaulted dock or harbour dimensions."
+    },
+    {
+      "id": "B01-009",
+      "location": "Underground harbour to front entrance",
+      "category": "route",
+      "description": "A passage climbs through rock from the harbour to smooth damp grass in the castle’s shadow. A flight of stone steps leads from there to a huge oak front door.",
+      "evidence": [
+        "B01-C006-P0284",
+        "B01-C006-P0285",
+        "B01-C006-P0287"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991 arrival",
+      "model_notes": "Record rock ascent, grassy exit, steps and door in sequence; their exact arrangement and the passage’s endpoint elevation are unspecified."
+    },
+    {
+      "id": "B01-010",
+      "location": "Entrance Hall",
+      "category": "interior",
+      "description": "The enormous hall has stone walls lit by flaming torches, a flagged stone floor and a ceiling too high to distinguish. A magnificent marble staircase faces the arriving first-years and leads to upper floors.",
+      "evidence": [
+        "B01-C007-P0004",
+        "B01-C007-P0005"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991, start-of-term feast",
+      "model_notes": "Scale is compared to the whole Dursley house; no numeric height or floor plan is established."
+    },
+    {
+      "id": "B01-011",
+      "location": "Entrance Hall — antechamber and Great Hall connection",
+      "category": "route",
+      "description": "A doorway to the arriving pupils’ right carries the noise of hundreds of voices. McGonagall first takes them to a small empty chamber off the hall; they subsequently cross the hall and enter the Great Hall through double doors.",
+      "evidence": [
+        "B01-C007-P0005",
+        "B01-C007-P0027"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991, start-of-term feast",
+      "model_notes": "Right is relative to this arrival viewpoint. The small chamber is separate from the Great Hall; its side of the hall is unspecified."
+    },
+    {
+      "id": "B01-012",
+      "location": "Antechamber walls — ghost permeability",
+      "category": "magic",
+      "description": "About twenty translucent pearly-white ghosts enter through the chamber’s back wall, cross the room, and depart through the opposite wall.",
+      "evidence": [
+        "B01-C007-P0017",
+        "B01-C007-P0025"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991, start-of-term feast",
+      "model_notes": "Ghost paths do not require physical openings; back/opposite are local scene relations."
+    },
+    {
+      "id": "B01-013",
+      "location": "Great Hall — tables and lighting",
+      "category": "interior",
+      "description": "Thousands of candles float above four long pupil tables laid with golden plates and goblets. Another long table for teachers stands at the top of the Hall; the sorting line faces the pupils with teachers behind it.",
+      "evidence": [
+        "B01-C007-P0028"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991, start-of-term feast",
+      "model_notes": "Defines the ceremonial axis and five tables, without unsupported platform steps or dimensions."
+    },
+    {
+      "id": "B01-014",
+      "location": "Great Hall — ceiling",
+      "category": "magic",
+      "description": "The ceiling appears velvety black and star-spangled, so convincingly that Harry finds it difficult to believe the Hall is roofed.",
+      "evidence": [
+        "B01-C007-P0028",
+        "B01-C007-P0029"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991, start-of-term feast",
+      "model_notes": "Observed appearance on this clear night; the outside-sky mechanism is separately reported."
+    },
+    {
+      "id": "B01-015",
+      "location": "Great Hall — ceiling enchantment",
+      "category": "magic",
+      "description": "Hermione says she read that the ceiling is enchanted to resemble the sky outside.",
+      "evidence": [
+        "B01-C007-P0028"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1991, start-of-term feast",
+      "model_notes": "Character reporting a school history; do not equate appearance with an actual opening."
+    },
+    {
+      "id": "B01-016",
+      "location": "Great Hall — sorting furniture and house table order",
+      "category": "furnishing",
+      "description": "A four-legged stool is set before the first-years for the Sorting Hat. From their position facing the pupils, Hufflepuff is to the right, Ravenclaw second from the left and Gryffindor far left.",
+      "evidence": [
+        "B01-C007-P0030",
+        "B01-C007-P0068",
+        "B01-C007-P0071",
+        "B01-C007-P0076",
+        "B01-C007-P0077"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991, start-of-term feast",
+      "model_notes": "Sorting stool is a temporary installation. Slytherin occupying the remaining table is a deduction, not an independently described position."
+    },
+    {
+      "id": "B01-017",
+      "location": "Great Hall — High Table chair",
+      "category": "furnishing",
+      "description": "Dumbledore occupies a large gold chair at the centre of the High Table.",
+      "evidence": [
+        "B01-C007-P0101"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991, start-of-term feast",
+      "model_notes": "The relative centre and chair material/colour are specified; other teachers’ momentary seats need not become fixed architecture."
+    },
+    {
+      "id": "B01-018",
+      "location": "Great Hall — meal service",
+      "category": "magic",
+      "description": "Food appears on the previously empty dishes. At the end of the main course the remains fade away, leaving clean plates, then puddings appear; these too disappear later.",
+      "evidence": [
+        "B01-C007-P0105",
+        "B01-C007-P0112",
+        "B01-C007-P0125",
+        "B01-C007-P0141"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991, start-of-term feast",
+      "model_notes": "Observed service behaviour; source and delivery mechanism are not explained in this scene."
+    },
+    {
+      "id": "B01-019",
+      "location": "Forest in the school grounds",
+      "category": "grounds",
+      "description": "Dumbledore declares the forest in the grounds forbidden to pupils. Percy explains that it is full of dangerous beasts.",
+      "evidence": [
+        "B01-C007-P0143",
+        "B01-C007-P0150"
+      ],
+      "certainty": "reported",
+      "temporal": "September 1991 school rules",
+      "model_notes": "The prohibition is a school rule; the beast population is Percy’s general report, without a mapped boundary."
+    },
+    {
+      "id": "B01-020",
+      "location": "Third-floor corridor — restricted right-hand side",
+      "category": "temporary",
+      "description": "Dumbledore declares the third-floor corridor on the right-hand side out of bounds for this year, warning of lethal danger.",
+      "evidence": [
+        "B01-C007-P0147"
+      ],
+      "certainty": "reported",
+      "temporal": "1991–92 school year",
+      "model_notes": "The announcement does not identify which direction supplies the reference for right-hand side. Keep this as a time-dependent restriction."
+    },
+    {
+      "id": "B01-021",
+      "location": "Great Hall to Gryffindor Tower",
+      "category": "route",
+      "description": "The route leaves the Great Hall, climbs the marble staircase, follows portrait-lined corridors, twice passes through doorways concealed behind sliding panels and hanging tapestries, and climbs additional staircases. The portraits whisper and point; suits of armour stand along the subsequent route.",
+      "evidence": [
+        "B01-C007-P0169",
+        "B01-C007-P0178",
+        "B01-C007-P0179"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991, start-of-term feast",
+      "model_notes": "Sequence is explicit; exact turns, floor count and allocation of the two hidden doorways to panel/tapestry mechanisms remain open."
+    },
+    {
+      "id": "B01-022",
+      "location": "Gryffindor Tower — portrait entrance",
+      "category": "magic",
+      "description": "At the corridor’s very end hangs a portrait of a fat woman in a pink silk dress. Given the password Caput Draconis, it swings forward to expose a round hole through which pupils scramble into the common room.",
+      "evidence": [
+        "B01-C007-P0180",
+        "B01-C007-P0181",
+        "B01-C007-P0182"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991; password at arrival",
+      "model_notes": "The opening is high/awkward enough that Neville needs help. Do not infer a normal full-height hinged doorway."
+    },
+    {
+      "id": "B01-023",
+      "location": "Gryffindor common room",
+      "category": "interior",
+      "description": "Beyond the portrait hole is a cosy round common room full of squashy armchairs.",
+      "evidence": [
+        "B01-C007-P0182"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991, start-of-term feast",
+      "model_notes": "Round plan is explicit; diameter, windows and hearth are not established here."
+    },
+    {
+      "id": "B01-024",
+      "location": "Gryffindor dormitory access and first-year boys’ beds",
+      "category": "interior",
+      "description": "Separate doors lead from the common room towards girls’ and boys’ dormitories. The boys climb a spiral staircase to a tower sleeping room with five four-poster beds hung with deep-red velvet curtains; their trunks have already arrived.",
+      "evidence": [
+        "B01-C007-P0183",
+        "B01-C007-P0184"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991, start-of-term feast",
+      "model_notes": "Separate door routes are explicit. The tower identification is the narrator’s obvious deduction; no floor number or girls’ staircase geometry is given."
+    },
+    {
+      "id": "B01-025",
+      "location": "Castle staircases",
+      "category": "magic",
+      "description": "Hogwarts has 142 staircases, including wide sweeping flights and narrow rickety ones. Some lead to different destinations on Fridays; some have a step halfway up that vanishes and must be jumped.",
+      "evidence": [
+        "B01-C008-P0008"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991, first school week",
+      "model_notes": "A total count and examples of behaviours, not a claim that every staircase moves or that all have the same trick."
+    },
+    {
+      "id": "B01-026",
+      "location": "Castle doors, portraits and armour",
+      "category": "magic",
+      "description": "Some doors require a polite request or precise tickling to open; other apparent doors are solid walls. Portrait occupants visit one another. The layout seems to Harry to move around, and he believes suits of armour can walk.",
+      "evidence": [
+        "B01-C008-P0008"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991, first school week",
+      "model_notes": "Separate narrated door/portrait behaviours from Harry’s impressions about general movement and walking armour."
+    },
+    {
+      "id": "B01-027",
+      "location": "Castle corridors — obstacles and secret passages",
+      "category": "interior",
+      "description": "Corridors contain waste-paper baskets, rugs and suits of armour; Peeves can move objects and turn invisible. Secret passageways allow Filch to appear unexpectedly.",
+      "evidence": [
+        "B01-C008-P0008",
+        "B01-C008-P0009",
+        "B01-C008-P0011"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991, first school week",
+      "model_notes": "General environmental inventory and circulation; these paragraphs give no specific passage entrances."
+    },
+    {
+      "id": "B01-028",
+      "location": "Third-floor restricted corridor entrance",
+      "category": "interior",
+      "description": "Harry and Ron, lost on their first morning, try to force a door that turns out to enter the forbidden third-floor corridor.",
+      "evidence": [
+        "B01-C008-P0010"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991, first school week",
+      "model_notes": "Confirms a physical door and resistance at this point, without fixing its position on the floor."
+    },
+    {
+      "id": "B01-029",
+      "location": "Greenhouses",
+      "category": "grounds",
+      "description": "Herbology is taught in greenhouses behind the castle, containing strange plants and fungi.",
+      "evidence": [
+        "B01-C008-P0013"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991, first school week",
+      "model_notes": "Plural greenhouses and behind-castle relation; no number, plan or construction material supplied."
+    },
+    {
+      "id": "B01-030",
+      "location": "Staff room — fireplace",
+      "category": "history",
+      "description": "The account of Professor Binns’s death places him asleep in front of a fire in the staff room before returning to class as a ghost.",
+      "evidence": [
+        "B01-C008-P0014"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991, first school week",
+      "model_notes": "Narrated historical anecdote establishes a staff-room fire; date, hearth geometry and continuity into 1991 are unspecified."
+    },
+    {
+      "id": "B01-031",
+      "location": "Charms and Transfiguration classrooms — teachers’ desks",
+      "category": "furnishing",
+      "description": "Flitwick stands on a pile of books to see over his desk during Charms. McGonagall demonstrates Transfiguration by turning her desk into a pig and back.",
+      "evidence": [
+        "B01-C008-P0015",
+        "B01-C008-P0018"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991, first school week",
+      "model_notes": "Classroom desk fixtures and a temporary demonstration; no room coordinates."
+    },
+    {
+      "id": "B01-032",
+      "location": "Defence Against the Dark Arts classroom",
+      "category": "interior",
+      "description": "Quirrell’s classroom smells strongly of garlic.",
+      "evidence": [
+        "B01-C008-P0019"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991, first school week",
+      "model_notes": "The smell is observed; the alleged vampire-related reason is pupil speculation, not a validated room protection."
+    },
+    {
+      "id": "B01-033",
+      "location": "Great Hall — owl post and owlery connection",
+      "category": "magic",
+      "description": "About a hundred owls stream into the Great Hall at breakfast, circle the tables and drop post to owners. Hedwig then sleeps in the owlery with the other school owls.",
+      "evidence": [
+        "B01-C008-P0025",
+        "B01-C008-P0026"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991, first school week",
+      "model_notes": "Establishes airborne circulation and an owlery, without identifying window openings or the owlery’s location."
+    },
+    {
+      "id": "B01-034",
+      "location": "Potions dungeon",
+      "category": "interior",
+      "description": "Potions is taught down in a dungeon colder than the main castle. Pickled animals in glass jars line the walls. Pupils sit on stools, work in pairs with heated cauldrons, and the floor is stone.",
+      "evidence": [
+        "B01-C008-P0033",
+        "B01-C008-P0057",
+        "B01-C008-P0058"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991, first school week",
+      "model_notes": "Do not impose a dungeon floor number or ceiling profile; the stool and fire arrangement is incompletely described."
+    },
+    {
+      "id": "B01-035",
+      "location": "Potions dungeon — accident and cleanup",
+      "category": "temporary",
+      "description": "A failed boil-cure potion melts a cauldron into a twisted blob; acid-green smoke and hissing fill the room, and potion spreads across the stone floor. Snape clears it with a wand wave.",
+      "evidence": [
+        "B01-C008-P0057",
+        "B01-C008-P0058"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991, first school week",
+      "model_notes": "Short-lived September lesson state; the text does not establish permanent stone damage."
+    },
+    {
+      "id": "B01-036",
+      "location": "Potions dungeon to hospital wing and castle",
+      "category": "route",
+      "description": "Snape orders the injured Neville taken up to the hospital wing. Pupils later climb steps out of the dungeon.",
+      "evidence": [
+        "B01-C008-P0060",
+        "B01-C008-P0064"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991, first school week",
+      "model_notes": "Up establishes vertical relation to this dungeon, not the hospital’s floor number."
+    },
+    {
+      "id": "B01-037",
+      "location": "Castle to Hagrid’s house",
+      "category": "grounds",
+      "description": "Crossing the grounds from the castle reaches Hagrid’s small wooden house at the Forbidden Forest’s edge. A crossbow and a pair of galoshes stand outside its front door.",
+      "evidence": [
+        "B01-C008-P0066",
+        "B01-C008-P0091"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991, first school week",
+      "model_notes": "Material, forest-edge position and outdoor props are observed; distance and compass direction are unspecified."
+    },
+    {
+      "id": "B01-038",
+      "location": "Hagrid’s house — single room",
+      "category": "interior",
+      "description": "The house has one room, with hams and pheasants hanging from the ceiling, an open fire boiling a copper kettle, and a massive bed under a patchwork quilt in a corner. There is a table used for tea and papers.",
+      "evidence": [
+        "B01-C008-P0071",
+        "B01-C008-P0073",
+        "B01-C008-P0083"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991, first school week",
+      "model_notes": "Single-room plan and furniture; a bed is confirmed independently of Malfoy’s earlier allegations."
     }
   ],
   "chapter_reviews": [
@@ -58,6 +547,50 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Complete chapter read. Off-site homes, zoo and seaside hut excluded; Hogwarts safety report retained in chapter 4."
+    },
+    {
+      "chapter": 5,
+      "reviewed_ranges": [
+        [
+          1,
+          289
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. London shopping interiors excluded. Malfoy’s second-hand report of Hagrid’s hut retained with its uncertainty; train connection reviewed again in chapter 6."
+    },
+    {
+      "chapter": 6,
+      "reviewed_ranges": [
+        [
+          1,
+          287
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Train journey, station/lake approach, boat crossing and underground harbour catalogued; no imagined compass directions."
+    },
+    {
+      "chapter": 7,
+      "reviewed_ranges": [
+        [
+          1,
+          187
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read, including sorting song and final dream; the dream supplies no castle geometry. House-table positions retain the sorting-line viewpoint."
+    },
+    {
+      "chapter": 8,
+      "reviewed_ranges": [
+        [
+          1,
+          91
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Complete chapter read. Telescope lesson has no stated tower location; none assigned from memory. Distinguish narrated door mechanisms from Harry’s armour/layout impressions."
     }
   ]
 }
