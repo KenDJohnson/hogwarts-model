@@ -1,0 +1,1677 @@
+{
+  "schema_version": 1,
+  "source_sha256": "fc554e217f5ec7edc995b24de3d62f50cee929c524fa6ec5e0a7ae23a7ca2732",
+  "source_filename": "Harry Potter.epub",
+  "pagination": {
+    "scheme": "ref250-v1",
+    "words_per_page": 250,
+    "reset": "per book",
+    "printed_page_map": false,
+    "word_rule": "normalised paragraph text split on whitespace; headings excluded"
+  },
+  "excluded_preview_members": [
+    "1/OEBPS/hp02_ch001_en-gb.html",
+    "2/OEBPS/hp03_ch001_en-gb.html",
+    "3/OEBPS/hp04_ch001_en-gb.html",
+    "4/OEBPS/hp05_ch001_en-gb.html",
+    "5/OEBPS/hp06_ch001_en-gb.html",
+    "6/OEBPS/hp07_ch001_en-gb.html"
+  ],
+  "books": [
+    {
+      "number": 1,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "isbn": "9781781100073",
+      "word_count": 78559,
+      "reference_pages": 315,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "The Boy Who Lived",
+          "is_epilogue": false,
+          "source_member": "1/OEBPS/hp01_ch001_en-gb.html",
+          "paragraph_count": 111,
+          "word_count": 4659
+        },
+        {
+          "number": 2,
+          "title": "The Vanishing Glass",
+          "is_epilogue": false,
+          "source_member": "1/OEBPS/hp01_ch002_en-gb.html",
+          "paragraph_count": 100,
+          "word_count": 3465
+        },
+        {
+          "number": 3,
+          "title": "The Letters from No One",
+          "is_epilogue": false,
+          "source_member": "1/OEBPS/hp01_ch003_en-gb.html",
+          "paragraph_count": 136,
+          "word_count": 3870
+        },
+        {
+          "number": 4,
+          "title": "The Keeper of the Keys",
+          "is_epilogue": false,
+          "source_member": "1/OEBPS/hp01_ch004_en-gb.html",
+          "paragraph_count": 149,
+          "word_count": 3772
+        },
+        {
+          "number": 5,
+          "title": "Diagon Alley",
+          "is_epilogue": false,
+          "source_member": "1/OEBPS/hp01_ch005_en-gb.html",
+          "paragraph_count": 289,
+          "word_count": 6666
+        },
+        {
+          "number": 6,
+          "title": "The Journey from Platform Nine and Three-Quarters",
+          "is_epilogue": false,
+          "source_member": "1/OEBPS/hp01_ch006_en-gb.html",
+          "paragraph_count": 287,
+          "word_count": 6346
+        },
+        {
+          "number": 7,
+          "title": "The Sorting Hat",
+          "is_epilogue": false,
+          "source_member": "1/OEBPS/hp01_ch007_en-gb.html",
+          "paragraph_count": 187,
+          "word_count": 4481
+        },
+        {
+          "number": 8,
+          "title": "The Potions Master",
+          "is_epilogue": false,
+          "source_member": "1/OEBPS/hp01_ch008_en-gb.html",
+          "paragraph_count": 91,
+          "word_count": 3057
+        },
+        {
+          "number": 9,
+          "title": "The Midnight Duel",
+          "is_epilogue": false,
+          "source_member": "1/OEBPS/hp01_ch009_en-gb.html",
+          "paragraph_count": 214,
+          "word_count": 4978
+        },
+        {
+          "number": 10,
+          "title": "Hallowe’en",
+          "is_epilogue": false,
+          "source_member": "1/OEBPS/hp01_ch010_en-gb.html",
+          "paragraph_count": 165,
+          "word_count": 4307
+        },
+        {
+          "number": 11,
+          "title": "Quidditch",
+          "is_epilogue": false,
+          "source_member": "1/OEBPS/hp01_ch011_en-gb.html",
+          "paragraph_count": 137,
+          "word_count": 3382
+        },
+        {
+          "number": 12,
+          "title": "The Mirror of Erised",
+          "is_epilogue": false,
+          "source_member": "1/OEBPS/hp01_ch012_en-gb.html",
+          "paragraph_count": 213,
+          "word_count": 5551
+        },
+        {
+          "number": 13,
+          "title": "Nicolas Flamel",
+          "is_epilogue": false,
+          "source_member": "1/OEBPS/hp01_ch013_en-gb.html",
+          "paragraph_count": 126,
+          "word_count": 3219
+        },
+        {
+          "number": 14,
+          "title": "Norbert the Norwegian Ridgeback",
+          "is_epilogue": false,
+          "source_member": "1/OEBPS/hp01_ch014_en-gb.html",
+          "paragraph_count": 146,
+          "word_count": 3516
+        },
+        {
+          "number": 15,
+          "title": "The Forbidden Forest",
+          "is_epilogue": false,
+          "source_member": "1/OEBPS/hp01_ch015_en-gb.html",
+          "paragraph_count": 189,
+          "word_count": 5150
+        },
+        {
+          "number": 16,
+          "title": "Through the Trapdoor",
+          "is_epilogue": false,
+          "source_member": "1/OEBPS/hp01_ch016_en-gb.html",
+          "paragraph_count": 321,
+          "word_count": 6547
+        },
+        {
+          "number": 17,
+          "title": "The Man with Two Faces",
+          "is_epilogue": false,
+          "source_member": "1/OEBPS/hp01_ch017_en-gb.html",
+          "paragraph_count": 233,
+          "word_count": 5593
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Harry Potter and the Chamber of Secrets",
+      "isbn": "9781781100080",
+      "word_count": 86242,
+      "reference_pages": 345,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "The Worst Birthday",
+          "is_epilogue": false,
+          "source_member": "2/OEBPS/hp02_ch001_en-gb.html",
+          "paragraph_count": 95,
+          "word_count": 2602
+        },
+        {
+          "number": 2,
+          "title": "Dobby’s Warning",
+          "is_epilogue": false,
+          "source_member": "2/OEBPS/hp02_ch002_en-gb.html",
+          "paragraph_count": 128,
+          "word_count": 2945
+        },
+        {
+          "number": 3,
+          "title": "The Burrow",
+          "is_epilogue": false,
+          "source_member": "2/OEBPS/hp02_ch003_en-gb.html",
+          "paragraph_count": 183,
+          "word_count": 4553
+        },
+        {
+          "number": 4,
+          "title": "At Flourish and Blotts",
+          "is_epilogue": false,
+          "source_member": "2/OEBPS/hp02_ch004_en-gb.html",
+          "paragraph_count": 203,
+          "word_count": 5840
+        },
+        {
+          "number": 5,
+          "title": "The Whomping Willow",
+          "is_epilogue": false,
+          "source_member": "2/OEBPS/hp02_ch005_en-gb.html",
+          "paragraph_count": 196,
+          "word_count": 5385
+        },
+        {
+          "number": 6,
+          "title": "Gilderoy Lockhart",
+          "is_epilogue": false,
+          "source_member": "2/OEBPS/hp02_ch006_en-gb.html",
+          "paragraph_count": 144,
+          "word_count": 4587
+        },
+        {
+          "number": 7,
+          "title": "Mudbloods and Murmurs",
+          "is_epilogue": false,
+          "source_member": "2/OEBPS/hp02_ch007_en-gb.html",
+          "paragraph_count": 170,
+          "word_count": 4588
+        },
+        {
+          "number": 8,
+          "title": "The Deathday Party",
+          "is_epilogue": false,
+          "source_member": "2/OEBPS/hp02_ch008_en-gb.html",
+          "paragraph_count": 184,
+          "word_count": 4460
+        },
+        {
+          "number": 9,
+          "title": "The Writing on the Wall",
+          "is_epilogue": false,
+          "source_member": "2/OEBPS/hp02_ch009_en-gb.html",
+          "paragraph_count": 214,
+          "word_count": 5216
+        },
+        {
+          "number": 10,
+          "title": "The Rogue Bludger",
+          "is_epilogue": false,
+          "source_member": "2/OEBPS/hp02_ch010_en-gb.html",
+          "paragraph_count": 183,
+          "word_count": 5373
+        },
+        {
+          "number": 11,
+          "title": "The Duelling Club",
+          "is_epilogue": false,
+          "source_member": "2/OEBPS/hp02_ch011_en-gb.html",
+          "paragraph_count": 197,
+          "word_count": 6042
+        },
+        {
+          "number": 12,
+          "title": "The Polyjuice Potion",
+          "is_epilogue": false,
+          "source_member": "2/OEBPS/hp02_ch012_en-gb.html",
+          "paragraph_count": 215,
+          "word_count": 5465
+        },
+        {
+          "number": 13,
+          "title": "The Very Secret Diary",
+          "is_epilogue": false,
+          "source_member": "2/OEBPS/hp02_ch013_en-gb.html",
+          "paragraph_count": 216,
+          "word_count": 5533
+        },
+        {
+          "number": 14,
+          "title": "Cornelius Fudge",
+          "is_epilogue": false,
+          "source_member": "2/OEBPS/hp02_ch014_en-gb.html",
+          "paragraph_count": 151,
+          "word_count": 3985
+        },
+        {
+          "number": 15,
+          "title": "Aragog",
+          "is_epilogue": false,
+          "source_member": "2/OEBPS/hp02_ch015_en-gb.html",
+          "paragraph_count": 161,
+          "word_count": 4652
+        },
+        {
+          "number": 16,
+          "title": "The Chamber of Secrets",
+          "is_epilogue": false,
+          "source_member": "2/OEBPS/hp02_ch016_en-gb.html",
+          "paragraph_count": 240,
+          "word_count": 5759
+        },
+        {
+          "number": 17,
+          "title": "The Heir of Slytherin",
+          "is_epilogue": false,
+          "source_member": "2/OEBPS/hp02_ch017_en-gb.html",
+          "paragraph_count": 190,
+          "word_count": 5497
+        },
+        {
+          "number": 18,
+          "title": "Dobby’s Reward",
+          "is_epilogue": false,
+          "source_member": "2/OEBPS/hp02_ch018_en-gb.html",
+          "paragraph_count": 147,
+          "word_count": 3760
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "isbn": "9781781100097",
+      "word_count": 109315,
+      "reference_pages": 438,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Owl Post",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch001_en-gb.html",
+          "paragraph_count": 101,
+          "word_count": 3725
+        },
+        {
+          "number": 2,
+          "title": "Aunt Marge’s Big Mistake",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch002_en-gb.html",
+          "paragraph_count": 134,
+          "word_count": 3873
+        },
+        {
+          "number": 3,
+          "title": "The Knight Bus",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch003_en-gb.html",
+          "paragraph_count": 170,
+          "word_count": 4410
+        },
+        {
+          "number": 4,
+          "title": "The Leaky Cauldron",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch004_en-gb.html",
+          "paragraph_count": 184,
+          "word_count": 5143
+        },
+        {
+          "number": 5,
+          "title": "The Dementor",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch005_en-gb.html",
+          "paragraph_count": 271,
+          "word_count": 6650
+        },
+        {
+          "number": 6,
+          "title": "Talons and Tea Leaves",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch006_en-gb.html",
+          "paragraph_count": 257,
+          "word_count": 6779
+        },
+        {
+          "number": 7,
+          "title": "The Boggart in the Wardrobe",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch007_en-gb.html",
+          "paragraph_count": 189,
+          "word_count": 4290
+        },
+        {
+          "number": 8,
+          "title": "Flight of the Fat Lady",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch008_en-gb.html",
+          "paragraph_count": 221,
+          "word_count": 5087
+        },
+        {
+          "number": 9,
+          "title": "Grim Defeat",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch009_en-gb.html",
+          "paragraph_count": 218,
+          "word_count": 5351
+        },
+        {
+          "number": 10,
+          "title": "The Marauder’s Map",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch010_en-gb.html",
+          "paragraph_count": 244,
+          "word_count": 7210
+        },
+        {
+          "number": 11,
+          "title": "The Firebolt",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch011_en-gb.html",
+          "paragraph_count": 218,
+          "word_count": 5650
+        },
+        {
+          "number": 12,
+          "title": "The Patronus",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch012_en-gb.html",
+          "paragraph_count": 193,
+          "word_count": 4910
+        },
+        {
+          "number": 13,
+          "title": "Gryffindor versus Ravenclaw",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch013_en-gb.html",
+          "paragraph_count": 158,
+          "word_count": 4308
+        },
+        {
+          "number": 14,
+          "title": "Snape’s Grudge",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch014_en-gb.html",
+          "paragraph_count": 228,
+          "word_count": 5621
+        },
+        {
+          "number": 15,
+          "title": "The Quidditch Final",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch015_en-gb.html",
+          "paragraph_count": 208,
+          "word_count": 5576
+        },
+        {
+          "number": 16,
+          "title": "Professor Trelawney’s Prediction",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch016_en-gb.html",
+          "paragraph_count": 183,
+          "word_count": 4435
+        },
+        {
+          "number": 17,
+          "title": "Cat, Rat and Dog",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch017_en-gb.html",
+          "paragraph_count": 184,
+          "word_count": 4285
+        },
+        {
+          "number": 18,
+          "title": "Moony, Wormtail, Padfoot and Prongs",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch018_en-gb.html",
+          "paragraph_count": 62,
+          "word_count": 2347
+        },
+        {
+          "number": 19,
+          "title": "The Servant of Lord Voldemort",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch019_en-gb.html",
+          "paragraph_count": 193,
+          "word_count": 5340
+        },
+        {
+          "number": 20,
+          "title": "The Dementors’ Kiss",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch020_en-gb.html",
+          "paragraph_count": 75,
+          "word_count": 2008
+        },
+        {
+          "number": 21,
+          "title": "Hermione’s Secret",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch021_en-gb.html",
+          "paragraph_count": 345,
+          "word_count": 7497
+        },
+        {
+          "number": 22,
+          "title": "Owl Post Again",
+          "is_epilogue": false,
+          "source_member": "3/OEBPS/hp03_ch022_en-gb.html",
+          "paragraph_count": 191,
+          "word_count": 4820
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Harry Potter and the Goblet of Fire",
+      "isbn": "9781781100103",
+      "word_count": 194253,
+      "reference_pages": 778,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "The Riddle House",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch001_en-gb.html",
+          "paragraph_count": 108,
+          "word_count": 4238
+        },
+        {
+          "number": 2,
+          "title": "The Scar",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch002_en-gb.html",
+          "paragraph_count": 43,
+          "word_count": 2881
+        },
+        {
+          "number": 3,
+          "title": "The Invitation",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch003_en-gb.html",
+          "paragraph_count": 91,
+          "word_count": 3207
+        },
+        {
+          "number": 4,
+          "title": "Back to The Burrow",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch004_en-gb.html",
+          "paragraph_count": 100,
+          "word_count": 3026
+        },
+        {
+          "number": 5,
+          "title": "Weasleys’ Wizard Wheezes",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch005_en-gb.html",
+          "paragraph_count": 112,
+          "word_count": 3818
+        },
+        {
+          "number": 6,
+          "title": "The Portkey",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch006_en-gb.html",
+          "paragraph_count": 87,
+          "word_count": 2394
+        },
+        {
+          "number": 7,
+          "title": "Bagman and Crouch",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch007_en-gb.html",
+          "paragraph_count": 164,
+          "word_count": 5346
+        },
+        {
+          "number": 8,
+          "title": "The Quidditch World Cup",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch008_en-gb.html",
+          "paragraph_count": 156,
+          "word_count": 5907
+        },
+        {
+          "number": 9,
+          "title": "The Dark Mark",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch009_en-gb.html",
+          "paragraph_count": 262,
+          "word_count": 7345
+        },
+        {
+          "number": 10,
+          "title": "Mayhem at the Ministry",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch010_en-gb.html",
+          "paragraph_count": 115,
+          "word_count": 3227
+        },
+        {
+          "number": 11,
+          "title": "Aboard the Hogwarts Express",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch011_en-gb.html",
+          "paragraph_count": 121,
+          "word_count": 3304
+        },
+        {
+          "number": 12,
+          "title": "The Triwizard Tournament",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch012_en-gb.html",
+          "paragraph_count": 196,
+          "word_count": 5498
+        },
+        {
+          "number": 13,
+          "title": "Mad-Eye Moody",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch013_en-gb.html",
+          "paragraph_count": 154,
+          "word_count": 3957
+        },
+        {
+          "number": 14,
+          "title": "The Unforgivable Curses",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch014_en-gb.html",
+          "paragraph_count": 183,
+          "word_count": 4946
+        },
+        {
+          "number": 15,
+          "title": "Beauxbatons and Durmstrang",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch015_en-gb.html",
+          "paragraph_count": 157,
+          "word_count": 5313
+        },
+        {
+          "number": 16,
+          "title": "The Goblet of Fire",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch016_en-gb.html",
+          "paragraph_count": 202,
+          "word_count": 6155
+        },
+        {
+          "number": 17,
+          "title": "The Four Champions",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch017_en-gb.html",
+          "paragraph_count": 141,
+          "word_count": 4170
+        },
+        {
+          "number": 18,
+          "title": "The Weighing of the Wands",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch018_en-gb.html",
+          "paragraph_count": 214,
+          "word_count": 6784
+        },
+        {
+          "number": 19,
+          "title": "The Hungarian Horntail",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch019_en-gb.html",
+          "paragraph_count": 177,
+          "word_count": 6515
+        },
+        {
+          "number": 20,
+          "title": "The First Task",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch020_en-gb.html",
+          "paragraph_count": 214,
+          "word_count": 7304
+        },
+        {
+          "number": 21,
+          "title": "The House-Elf Liberation Front",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch021_en-gb.html",
+          "paragraph_count": 193,
+          "word_count": 5645
+        },
+        {
+          "number": 22,
+          "title": "The Unexpected Task",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch022_en-gb.html",
+          "paragraph_count": 188,
+          "word_count": 4542
+        },
+        {
+          "number": 23,
+          "title": "The Yule Ball",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch023_en-gb.html",
+          "paragraph_count": 250,
+          "word_count": 8317
+        },
+        {
+          "number": 24,
+          "title": "Rita Skeeter’s Scoop",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch024_en-gb.html",
+          "paragraph_count": 197,
+          "word_count": 6362
+        },
+        {
+          "number": 25,
+          "title": "The Egg and the Eye",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch025_en-gb.html",
+          "paragraph_count": 183,
+          "word_count": 5711
+        },
+        {
+          "number": 26,
+          "title": "The Second Task",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch026_en-gb.html",
+          "paragraph_count": 226,
+          "word_count": 8161
+        },
+        {
+          "number": 27,
+          "title": "Padfoot Returns",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch027_en-gb.html",
+          "paragraph_count": 208,
+          "word_count": 7126
+        },
+        {
+          "number": 28,
+          "title": "The Madness of Mr Crouch",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch028_en-gb.html",
+          "paragraph_count": 279,
+          "word_count": 7494
+        },
+        {
+          "number": 29,
+          "title": "The Dream",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch029_en-gb.html",
+          "paragraph_count": 164,
+          "word_count": 4423
+        },
+        {
+          "number": 30,
+          "title": "The Pensieve",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch030_en-gb.html",
+          "paragraph_count": 205,
+          "word_count": 6481
+        },
+        {
+          "number": 31,
+          "title": "The Third Task",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch031_en-gb.html",
+          "paragraph_count": 269,
+          "word_count": 8034
+        },
+        {
+          "number": 32,
+          "title": "Flesh, Blood and Bone",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch032_en-gb.html",
+          "paragraph_count": 53,
+          "word_count": 2044
+        },
+        {
+          "number": 33,
+          "title": "The Death Eaters",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch033_en-gb.html",
+          "paragraph_count": 101,
+          "word_count": 4185
+        },
+        {
+          "number": 34,
+          "title": "Priori Incantatem",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch034_en-gb.html",
+          "paragraph_count": 69,
+          "word_count": 3052
+        },
+        {
+          "number": 35,
+          "title": "Veritaserum",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch035_en-gb.html",
+          "paragraph_count": 164,
+          "word_count": 6064
+        },
+        {
+          "number": 36,
+          "title": "The Parting of the Ways",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch036_en-gb.html",
+          "paragraph_count": 207,
+          "word_count": 6289
+        },
+        {
+          "number": 37,
+          "title": "The Beginning",
+          "is_epilogue": false,
+          "source_member": "4/OEBPS/hp04_ch037_en-gb.html",
+          "paragraph_count": 178,
+          "word_count": 4988
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Harry Potter and the Order of the Phoenix",
+      "isbn": "9781781100110",
+      "word_count": 260727,
+      "reference_pages": 1043,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Dudley Demented",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch001_en-gb.html",
+          "paragraph_count": 184,
+          "word_count": 5873
+        },
+        {
+          "number": 2,
+          "title": "A Peck of Owls",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch002_en-gb.html",
+          "paragraph_count": 253,
+          "word_count": 6175
+        },
+        {
+          "number": 3,
+          "title": "The Advance Guard",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch003_en-gb.html",
+          "paragraph_count": 182,
+          "word_count": 5249
+        },
+        {
+          "number": 4,
+          "title": "Number Twelve, Grimmauld Place",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch004_en-gb.html",
+          "paragraph_count": 230,
+          "word_count": 5743
+        },
+        {
+          "number": 5,
+          "title": "The Order of the Phoenix",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch005_en-gb.html",
+          "paragraph_count": 209,
+          "word_count": 5411
+        },
+        {
+          "number": 6,
+          "title": "The Noble and Most Ancient House of Black",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch006_en-gb.html",
+          "paragraph_count": 226,
+          "word_count": 6858
+        },
+        {
+          "number": 7,
+          "title": "The Ministry of Magic",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch007_en-gb.html",
+          "paragraph_count": 158,
+          "word_count": 4620
+        },
+        {
+          "number": 8,
+          "title": "The Hearing",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch008_en-gb.html",
+          "paragraph_count": 156,
+          "word_count": 4281
+        },
+        {
+          "number": 9,
+          "title": "The Woes of Mrs Weasley",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch009_en-gb.html",
+          "paragraph_count": 320,
+          "word_count": 8217
+        },
+        {
+          "number": 10,
+          "title": "Luna Lovegood",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch010_en-gb.html",
+          "paragraph_count": 224,
+          "word_count": 5907
+        },
+        {
+          "number": 11,
+          "title": "The Sorting Hat’s New Song",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch011_en-gb.html",
+          "paragraph_count": 255,
+          "word_count": 6012
+        },
+        {
+          "number": 12,
+          "title": "Professor Umbridge",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch012_en-gb.html",
+          "paragraph_count": 340,
+          "word_count": 8415
+        },
+        {
+          "number": 13,
+          "title": "Detention with Dolores",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch013_en-gb.html",
+          "paragraph_count": 290,
+          "word_count": 8991
+        },
+        {
+          "number": 14,
+          "title": "Percy and Padfoot",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch014_en-gb.html",
+          "paragraph_count": 291,
+          "word_count": 8215
+        },
+        {
+          "number": 15,
+          "title": "The Hogwarts High Inquisitor",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch015_en-gb.html",
+          "paragraph_count": 267,
+          "word_count": 6951
+        },
+        {
+          "number": 16,
+          "title": "In the Hog’s Head",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch016_en-gb.html",
+          "paragraph_count": 210,
+          "word_count": 6031
+        },
+        {
+          "number": 17,
+          "title": "Educational Decree Number Twenty-four",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch017_en-gb.html",
+          "paragraph_count": 258,
+          "word_count": 6681
+        },
+        {
+          "number": 18,
+          "title": "Dumbledore’s Army",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch018_en-gb.html",
+          "paragraph_count": 264,
+          "word_count": 6997
+        },
+        {
+          "number": 19,
+          "title": "The Lion and the Serpent",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch019_en-gb.html",
+          "paragraph_count": 223,
+          "word_count": 6811
+        },
+        {
+          "number": 20,
+          "title": "Hagrid’s Tale",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch020_en-gb.html",
+          "paragraph_count": 255,
+          "word_count": 6157
+        },
+        {
+          "number": 21,
+          "title": "The Eye of the Snake",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch021_en-gb.html",
+          "paragraph_count": 259,
+          "word_count": 7488
+        },
+        {
+          "number": 22,
+          "title": "St Mungo’s Hospital for Magical Maladies and Injuries",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch022_en-gb.html",
+          "paragraph_count": 242,
+          "word_count": 8119
+        },
+        {
+          "number": 23,
+          "title": "Christmas on the Closed Ward",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch023_en-gb.html",
+          "paragraph_count": 226,
+          "word_count": 7523
+        },
+        {
+          "number": 24,
+          "title": "Occlumency",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch024_en-gb.html",
+          "paragraph_count": 287,
+          "word_count": 8180
+        },
+        {
+          "number": 25,
+          "title": "The Beetle at Bay",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch025_en-gb.html",
+          "paragraph_count": 245,
+          "word_count": 8227
+        },
+        {
+          "number": 26,
+          "title": "Seen and Unforeseen",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch026_en-gb.html",
+          "paragraph_count": 268,
+          "word_count": 8663
+        },
+        {
+          "number": 27,
+          "title": "The Centaur and the Sneak",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch027_en-gb.html",
+          "paragraph_count": 267,
+          "word_count": 7575
+        },
+        {
+          "number": 28,
+          "title": "Snape’s Worst Memory",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch028_en-gb.html",
+          "paragraph_count": 290,
+          "word_count": 8105
+        },
+        {
+          "number": 29,
+          "title": "Careers Advice",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch029_en-gb.html",
+          "paragraph_count": 270,
+          "word_count": 7528
+        },
+        {
+          "number": 30,
+          "title": "Grawp",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch030_en-gb.html",
+          "paragraph_count": 269,
+          "word_count": 8395
+        },
+        {
+          "number": 31,
+          "title": "O.W.L.s",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch031_en-gb.html",
+          "paragraph_count": 214,
+          "word_count": 8076
+        },
+        {
+          "number": 32,
+          "title": "Out of the Fire",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch032_en-gb.html",
+          "paragraph_count": 238,
+          "word_count": 6369
+        },
+        {
+          "number": 33,
+          "title": "Fight and Flight",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch033_en-gb.html",
+          "paragraph_count": 139,
+          "word_count": 3882
+        },
+        {
+          "number": 34,
+          "title": "The Department of Mysteries",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch034_en-gb.html",
+          "paragraph_count": 181,
+          "word_count": 5245
+        },
+        {
+          "number": 35,
+          "title": "Beyond the Veil",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch035_en-gb.html",
+          "paragraph_count": 286,
+          "word_count": 7855
+        },
+        {
+          "number": 36,
+          "title": "The Only One He Ever Feared",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch036_en-gb.html",
+          "paragraph_count": 117,
+          "word_count": 3928
+        },
+        {
+          "number": 37,
+          "title": "The Lost Prophecy",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch037_en-gb.html",
+          "paragraph_count": 212,
+          "word_count": 8238
+        },
+        {
+          "number": 38,
+          "title": "The Second War Begins",
+          "is_epilogue": false,
+          "source_member": "5/OEBPS/hp05_ch038_en-gb.html",
+          "paragraph_count": 264,
+          "word_count": 7736
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Harry Potter and the Half-Blood Prince",
+      "isbn": "9781781100127",
+      "word_count": 171796,
+      "reference_pages": 688,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "The Other Minister",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch001_en-gb.html",
+          "paragraph_count": 135,
+          "word_count": 5206
+        },
+        {
+          "number": 2,
+          "title": "Spinner’s End",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch002_en-gb.html",
+          "paragraph_count": 175,
+          "word_count": 4999
+        },
+        {
+          "number": 3,
+          "title": "Will and Won’t",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch003_en-gb.html",
+          "paragraph_count": 138,
+          "word_count": 4786
+        },
+        {
+          "number": 4,
+          "title": "Horace Slughorn",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch004_en-gb.html",
+          "paragraph_count": 237,
+          "word_count": 6072
+        },
+        {
+          "number": 5,
+          "title": "An Excess of Phlegm",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch005_en-gb.html",
+          "paragraph_count": 253,
+          "word_count": 5994
+        },
+        {
+          "number": 6,
+          "title": "Draco’s Detour",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch006_en-gb.html",
+          "paragraph_count": 228,
+          "word_count": 5952
+        },
+        {
+          "number": 7,
+          "title": "The Slug Club",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch007_en-gb.html",
+          "paragraph_count": 240,
+          "word_count": 6643
+        },
+        {
+          "number": 8,
+          "title": "Snape Victorious",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch008_en-gb.html",
+          "paragraph_count": 139,
+          "word_count": 4335
+        },
+        {
+          "number": 9,
+          "title": "The Half-Blood Prince",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch009_en-gb.html",
+          "paragraph_count": 193,
+          "word_count": 5942
+        },
+        {
+          "number": 10,
+          "title": "The House of Gaunt",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch010_en-gb.html",
+          "paragraph_count": 213,
+          "word_count": 6027
+        },
+        {
+          "number": 11,
+          "title": "Hermione’s Helping Hand",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch011_en-gb.html",
+          "paragraph_count": 166,
+          "word_count": 5143
+        },
+        {
+          "number": 12,
+          "title": "Silver and Opals",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch012_en-gb.html",
+          "paragraph_count": 198,
+          "word_count": 5444
+        },
+        {
+          "number": 13,
+          "title": "The Secret Riddle",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch013_en-gb.html",
+          "paragraph_count": 203,
+          "word_count": 5510
+        },
+        {
+          "number": 14,
+          "title": "Felix Felicis",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch014_en-gb.html",
+          "paragraph_count": 213,
+          "word_count": 6567
+        },
+        {
+          "number": 15,
+          "title": "The Unbreakable Vow",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch015_en-gb.html",
+          "paragraph_count": 206,
+          "word_count": 5914
+        },
+        {
+          "number": 16,
+          "title": "A Very Frosty Christmas",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch016_en-gb.html",
+          "paragraph_count": 241,
+          "word_count": 6239
+        },
+        {
+          "number": 17,
+          "title": "A Sluggish Memory",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch017_en-gb.html",
+          "paragraph_count": 211,
+          "word_count": 6453
+        },
+        {
+          "number": 18,
+          "title": "Birthday Surprises",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch018_en-gb.html",
+          "paragraph_count": 233,
+          "word_count": 6639
+        },
+        {
+          "number": 19,
+          "title": "Elf Tails",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch019_en-gb.html",
+          "paragraph_count": 210,
+          "word_count": 6331
+        },
+        {
+          "number": 20,
+          "title": "Lord Voldemort’s Request",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch020_en-gb.html",
+          "paragraph_count": 207,
+          "word_count": 6711
+        },
+        {
+          "number": 21,
+          "title": "The Unknowable Room",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch021_en-gb.html",
+          "paragraph_count": 191,
+          "word_count": 5854
+        },
+        {
+          "number": 22,
+          "title": "After the Burial",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch022_en-gb.html",
+          "paragraph_count": 227,
+          "word_count": 5935
+        },
+        {
+          "number": 23,
+          "title": "Horcruxes",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch023_en-gb.html",
+          "paragraph_count": 160,
+          "word_count": 5902
+        },
+        {
+          "number": 24,
+          "title": "Sectumsempra",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch024_en-gb.html",
+          "paragraph_count": 164,
+          "word_count": 6031
+        },
+        {
+          "number": 25,
+          "title": "The Seer Overheard",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch025_en-gb.html",
+          "paragraph_count": 220,
+          "word_count": 5186
+        },
+        {
+          "number": 26,
+          "title": "The Cave",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch026_en-gb.html",
+          "paragraph_count": 225,
+          "word_count": 6423
+        },
+        {
+          "number": 27,
+          "title": "The Lightning-Struck Tower",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch027_en-gb.html",
+          "paragraph_count": 166,
+          "word_count": 4655
+        },
+        {
+          "number": 28,
+          "title": "Flight of the Prince",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch028_en-gb.html",
+          "paragraph_count": 97,
+          "word_count": 3679
+        },
+        {
+          "number": 29,
+          "title": "The Phoenix Lament",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch029_en-gb.html",
+          "paragraph_count": 187,
+          "word_count": 5690
+        },
+        {
+          "number": 30,
+          "title": "The White Tomb",
+          "is_epilogue": false,
+          "source_member": "6/OEBPS/hp06_ch030_en-gb.html",
+          "paragraph_count": 133,
+          "word_count": 5534
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Harry Potter and the Deathly Hallows",
+      "isbn": "9781781100134",
+      "word_count": 200462,
+      "reference_pages": 802,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "The Dark Lord Ascending",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch001_en-gb.html",
+          "paragraph_count": 108,
+          "word_count": 3148
+        },
+        {
+          "number": 2,
+          "title": "In Memoriam",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch002_en-gb.html",
+          "paragraph_count": 63,
+          "word_count": 4100
+        },
+        {
+          "number": 3,
+          "title": "The Dursleys Departing",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch003_en-gb.html",
+          "paragraph_count": 120,
+          "word_count": 3350
+        },
+        {
+          "number": 4,
+          "title": "The Seven Potters",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch004_en-gb.html",
+          "paragraph_count": 167,
+          "word_count": 5414
+        },
+        {
+          "number": 5,
+          "title": "Fallen Warrior",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch005_en-gb.html",
+          "paragraph_count": 259,
+          "word_count": 5948
+        },
+        {
+          "number": 6,
+          "title": "The Ghoul in Pyjamas",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch006_en-gb.html",
+          "paragraph_count": 226,
+          "word_count": 6667
+        },
+        {
+          "number": 7,
+          "title": "The Will of Albus Dumbledore",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch007_en-gb.html",
+          "paragraph_count": 269,
+          "word_count": 6646
+        },
+        {
+          "number": 8,
+          "title": "The Wedding",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch008_en-gb.html",
+          "paragraph_count": 211,
+          "word_count": 6268
+        },
+        {
+          "number": 9,
+          "title": "A Place to Hide",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch009_en-gb.html",
+          "paragraph_count": 145,
+          "word_count": 4176
+        },
+        {
+          "number": 10,
+          "title": "Kreacher’s Tale",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch010_en-gb.html",
+          "paragraph_count": 195,
+          "word_count": 6764
+        },
+        {
+          "number": 11,
+          "title": "The Bribe",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch011_en-gb.html",
+          "paragraph_count": 207,
+          "word_count": 5593
+        },
+        {
+          "number": 12,
+          "title": "Magic is Might",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch012_en-gb.html",
+          "paragraph_count": 215,
+          "word_count": 6157
+        },
+        {
+          "number": 13,
+          "title": "The Muggle-Born Registration Commission",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch013_en-gb.html",
+          "paragraph_count": 190,
+          "word_count": 5897
+        },
+        {
+          "number": 14,
+          "title": "The Thief",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch014_en-gb.html",
+          "paragraph_count": 137,
+          "word_count": 4285
+        },
+        {
+          "number": 15,
+          "title": "The Goblin’s Revenge",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch015_en-gb.html",
+          "paragraph_count": 278,
+          "word_count": 7066
+        },
+        {
+          "number": 16,
+          "title": "Godric’s Hollow",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch016_en-gb.html",
+          "paragraph_count": 133,
+          "word_count": 5239
+        },
+        {
+          "number": 17,
+          "title": "Bathilda’s Secret",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch017_en-gb.html",
+          "paragraph_count": 207,
+          "word_count": 5533
+        },
+        {
+          "number": 18,
+          "title": "The Life and Lies of Albus Dumbledore",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch018_en-gb.html",
+          "paragraph_count": 78,
+          "word_count": 3499
+        },
+        {
+          "number": 19,
+          "title": "The Silver Doe",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch019_en-gb.html",
+          "paragraph_count": 230,
+          "word_count": 6809
+        },
+        {
+          "number": 20,
+          "title": "Xenophilius Lovegood",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch020_en-gb.html",
+          "paragraph_count": 153,
+          "word_count": 4499
+        },
+        {
+          "number": 21,
+          "title": "The Tale of the Three Brothers",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch021_en-gb.html",
+          "paragraph_count": 181,
+          "word_count": 4865
+        },
+        {
+          "number": 22,
+          "title": "The Deathly Hallows",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch022_en-gb.html",
+          "paragraph_count": 190,
+          "word_count": 5907
+        },
+        {
+          "number": 23,
+          "title": "Malfoy Manor",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch023_en-gb.html",
+          "paragraph_count": 343,
+          "word_count": 7918
+        },
+        {
+          "number": 24,
+          "title": "The Wandmaker",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch024_en-gb.html",
+          "paragraph_count": 255,
+          "word_count": 6798
+        },
+        {
+          "number": 25,
+          "title": "Shell Cottage",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch025_en-gb.html",
+          "paragraph_count": 164,
+          "word_count": 4390
+        },
+        {
+          "number": 26,
+          "title": "Gringotts",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch026_en-gb.html",
+          "paragraph_count": 187,
+          "word_count": 6887
+        },
+        {
+          "number": 27,
+          "title": "The Final Hiding Place",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch027_en-gb.html",
+          "paragraph_count": 69,
+          "word_count": 2697
+        },
+        {
+          "number": 28,
+          "title": "The Missing Mirror",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch028_en-gb.html",
+          "paragraph_count": 151,
+          "word_count": 4556
+        },
+        {
+          "number": 29,
+          "title": "The Lost Diadem",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch029_en-gb.html",
+          "paragraph_count": 167,
+          "word_count": 4566
+        },
+        {
+          "number": 30,
+          "title": "The Sacking of Severus Snape",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch030_en-gb.html",
+          "paragraph_count": 194,
+          "word_count": 4968
+        },
+        {
+          "number": 31,
+          "title": "The Battle of Hogwarts",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch031_en-gb.html",
+          "paragraph_count": 284,
+          "word_count": 8086
+        },
+        {
+          "number": 32,
+          "title": "The Elder Wand",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch032_en-gb.html",
+          "paragraph_count": 178,
+          "word_count": 5613
+        },
+        {
+          "number": 33,
+          "title": "The Prince’s Tale",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch033_en-gb.html",
+          "paragraph_count": 358,
+          "word_count": 8348
+        },
+        {
+          "number": 34,
+          "title": "The Forest Again",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch034_en-gb.html",
+          "paragraph_count": 119,
+          "word_count": 3908
+        },
+        {
+          "number": 35,
+          "title": "King’s Cross",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch035_en-gb.html",
+          "paragraph_count": 175,
+          "word_count": 5044
+        },
+        {
+          "number": 36,
+          "title": "The Flaw in the Plan",
+          "is_epilogue": false,
+          "source_member": "7/OEBPS/hp07_ch036_en-gb.html",
+          "paragraph_count": 196,
+          "word_count": 7214
+        },
+        {
+          "number": 37,
+          "title": "Nineteen Years Later",
+          "is_epilogue": true,
+          "source_member": "7/OEBPS/hp07_ch037_en-gb.html",
+          "paragraph_count": 77,
+          "word_count": 1639
+        }
+      ]
+    }
+  ]
+}

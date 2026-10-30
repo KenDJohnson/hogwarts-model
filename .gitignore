@@ -1,0 +1,10 @@
+# Keep the user-supplied ebook and extracted full text local.
+*.epub
+*.mobi
+*.azw
+*.azw3
+/build/
+/result
+.direnv/
+__pycache__/
+*.pyc
