@@ -1922,6 +1922,150 @@
       "certainty": "explicit",
       "temporal": "Christmas 1997 memory",
       "model_notes": "Physical concealed sword store behind a movable portrait, directly observed through memory. Its construction date and dimensions are unspecified; this resolves the real sword’s storage before delivery, not the timing of the display-case substitution."
+    },
+    {
+      "id": "B07-117",
+      "location": "Headmaster’s office → Entrance Hall → front grounds",
+      "category": "route",
+      "description": "Harry leaves the dusty carpeted office with portraits still absent, descends through the floors to the marble staircase, crosses the Entrance Hall and exits by the front doors and steps. Neville and Wood bring a body in from the grounds to the Great Hall; the grounds nearby hold other dead and wounded.",
+      "evidence": [
+        "B07-C034-P0001",
+        "B07-C034-P0004",
+        "B07-C034-P0011",
+        "B07-C034-P0012",
+        "B07-C034-P0013",
+        "B07-C034-P0014",
+        "B07-C034-P0015",
+        "B07-C034-P0016",
+        "B07-C034-P0017",
+        "B07-C034-P0018",
+        "B07-C034-P0019",
+        "B07-C034-P0038",
+        "B07-C034-P0039",
+        "B07-C034-P0040",
+        "B07-C034-P0041",
+        "B07-C034-P0046"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, near four in the morning during the ceasefire",
+      "model_notes": "Narrated uninterrupted route but no turn or floor count. Near-four-o’clock timing is explicit."
+    },
+    {
+      "id": "B07-118",
+      "location": "Front grounds → Hagrid’s hut → Forbidden Forest edge",
+      "category": "route",
+      "description": "Continuing away from the castle, Harry passes Hagrid’s hut, dark and silent, then reaches the Forest edge. The hut recalls a copper kettle shining on the fire, rock cakes and giant grubs from earlier visits.",
+      "evidence": [
+        "B07-C034-P0039",
+        "B07-C034-P0046",
+        "B07-C034-P0047",
+        "B07-C034-P0048",
+        "B07-C034-P0049"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, near four in the morning during the ceasefire",
+      "model_notes": "Confirms the hut is standing during this battle after book 6’s fire, without supplying the rebuilding history or exact distance from castle/Forest."
+    },
+    {
+      "id": "B07-119",
+      "location": "Forbidden Forest outer edge / Dementors and terrain",
+      "category": "grounds",
+      "description": "Earthy, twig-strewn ground marks the outer Forest edge. Dementors glide among the trees, bringing chill. A cold breeze seems to issue from deeper in the Forest.",
+      "evidence": [
+        "B07-C034-P0048",
+        "B07-C034-P0049",
+        "B07-C034-P0058",
+        "B07-C034-P0075"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, near four in the morning during the ceasefire",
+      "model_notes": "Local terrain and dated enemy presence; breeze attribution is qualified by the narration."
+    },
+    {
+      "id": "B07-120",
+      "location": "Forbidden Forest / dense interior route",
+      "category": "grounds",
+      "description": "Harry proceeds deeper through old trees growing close together, with tangled branches and gnarled twisted roots underfoot. He stumbles and slips; a pair of patrolling Death Eaters emerge from behind a nearby tree, then lead him farther in.",
+      "evidence": [
+        "B07-C034-P0082",
+        "B07-C034-P0083",
+        "B07-C034-P0084",
+        "B07-C034-P0085",
+        "B07-C034-P0086",
+        "B07-C034-P0087",
+        "B07-C034-P0088",
+        "B07-C034-P0089",
+        "B07-C034-P0090",
+        "B07-C034-P0091",
+        "B07-C034-P0092",
+        "B07-C034-P0093"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, near four in the morning during the ceasefire",
+      "model_notes": "Natural obstacles and dense woodland, without a named established path or a compass bearing. Dolohov’s statement about Hagrid keeping creatures there is a character report."
+    },
+    {
+      "id": "B07-121",
+      "location": "Forbidden Forest / Resurrection Stone effects and loss",
+      "category": "magic",
+      "description": "At the Forest edge Harry turns the Stone three times and sees his dead parents, Sirius and Lupin, more substantial than ghosts but less than living bodies. They are invisible to others and shield him emotionally from Dementors like Patronuses. On entering the clearing’s firelight he drops the Stone and they vanish.",
+      "evidence": [
+        "B07-C034-P0054",
+        "B07-C034-P0055",
+        "B07-C034-P0057",
+        "B07-C034-P0058",
+        "B07-C034-P0059",
+        "B07-C034-P0076",
+        "B07-C034-P0077",
+        "B07-C034-P0078",
+        "B07-C034-P0079",
+        "B07-C034-P0082",
+        "B07-C034-P0086",
+        "B07-C034-P0107"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, near four in the morning during the ceasefire",
+      "model_notes": "Dated supernatural companions and lost object at the approach to the clearing; no exact drop coordinates or persistent visible figures afterward."
+    },
+    {
+      "id": "B07-122",
+      "location": "Aragog’s former clearing / Death Eater camp",
+      "category": "temporary",
+      "description": "After only minutes following the patrol deeper in, Harry reaches the clearing where Aragog lived. Remnants of his vast web remain, but the descendants have been driven out to fight. A fire burns in the centre, surrounded by silent Death Eaters; two giants sit at the group’s outskirts, casting huge shadows.",
+      "evidence": [
+        "B07-C034-P0093",
+        "B07-C034-P0094",
+        "B07-C034-P0095"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, near four in the morning during the ceasefire",
+      "model_notes": "Relative few-minute final segment, not total castle-to-clearing travel time. Dated occupation and reduced spider presence."
+    },
+    {
+      "id": "B07-123",
+      "location": "Forest clearing / Voldemort, fire, protective sphere and prisoner tree",
+      "category": "temporary",
+      "description": "Voldemort stands beyond the fire with Nagini’s glittering sphere floating behind his head. Bellatrix sits closest to him. Harry enters the firelight and faces him across only the fire; Hagrid is bound to a nearby tree, his struggles shaking its branches.",
+      "evidence": [
+        "B07-C034-P0095",
+        "B07-C034-P0096",
+        "B07-C034-P0097",
+        "B07-C034-P0101",
+        "B07-C034-P0103",
+        "B07-C034-P0104",
+        "B07-C034-P0107",
+        "B07-C034-P0108",
+        "B07-C034-P0111",
+        "B07-C034-P0113",
+        "B07-C034-P0114",
+        "B07-C034-P0115",
+        "B07-C034-P0117",
+        "B07-C034-P0118",
+        "B07-C034-P0119"
+      ],
+      "certainty": "explicit",
+      "temporal": "May 1998, near four in the morning during the ceasefire",
+      "model_notes": "Local staging for this confrontation, no fixed camp architecture. Tree species, direction and precise separation are unstated."
     }
   ],
   "chapter_reviews": [
@@ -2287,6 +2431,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read all paragraphs in four complete chunks, including every childhood, school and adult memory. Recorded ceasefire/broadcast, return route and damage, Great Hall triage, office access/fixtures, historical train/Sorting/courtyard/Willow/beech/portrait/ball routes, office desk/window scenes and hidden sword cavity. Childhood playground, riverside and unspecified adult hilltop are not identified as Hogwarts grounds and excluded."
+    },
+    {
+      "chapter": 34,
+      "reviewed_ranges": [
+        [
+          1,
+          119
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read all paragraphs in two complete chunks. Recorded office-to-grounds route, extant dark hut and remembered kettle, Forest-edge/interior terrain and Dementors, Stone effects/drop, Aragog clearing web remains and detailed confrontation layout."
     }
   ]
 }
