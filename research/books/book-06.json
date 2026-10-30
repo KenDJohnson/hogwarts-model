@@ -1879,7 +1879,7 @@
       "id": "B06-126",
       "location": "Room of Requirement access denial",
       "category": "magic",
-      "description": "Harry walks past three times concentrating on several requests to see what Draco is doing; no door appears. The exposed stone is solid under a push and later a kick, and repeated attempts over an hour and on another visit fail.",
+      "description": "Harry walks past three times concentrating on several requests to see what Draco is doing; no door appears. The exposed stone is solid under a push and later a kick, and repeated attempts over an hour and on another visit fail. Later attempts with reworded requests likewise leave the wall doorless.",
       "evidence": [
         "B06-C021-P0091",
         "B06-C021-P0092",
@@ -1894,7 +1894,8 @@
         "B06-C021-P0153",
         "B06-C021-P0154",
         "B06-C021-P0155",
-        "B06-C021-P0173"
+        "B06-C021-P0173",
+        "B06-C024-P0059"
       ],
       "certainty": "explicit",
       "temporal": "March–early April 1997",
@@ -1952,7 +1953,7 @@
       "id": "B06-130",
       "location": "Boys’ bathroom visited by Myrtle",
       "category": "interior",
-      "description": "An old tiled boys’ bathroom contains a cracked mirror and toilets in cubicles behind the boys. Myrtle rises from one toilet, floats in midair, is visible in the mirror, and dives back in, splashing water onto the floor; voices echo.",
+      "description": "An old tiled boys’ bathroom contains a cracked mirror and toilets in cubicles behind the boys. Myrtle rises from one toilet, floats in midair, is visible in the mirror, and dives back in, splashing water onto the floor; voices echo. A later report says Myrtle has appeared in bathrooms throughout the castle to spread news of Draco’s injury.",
       "evidence": [
         "B06-C021-P0125",
         "B06-C021-P0126",
@@ -1963,11 +1964,12 @@
         "B06-C021-P0133",
         "B06-C021-P0136",
         "B06-C021-P0138",
-        "B06-C021-P0142"
+        "B06-C021-P0142",
+        "B06-C024-P0128"
       ],
       "certainty": "explicit",
       "temporal": "March–early April 1997",
-      "model_notes": "Fixture relationships and acoustics; no floor identified in this scene. Myrtle says she lives in a different girls’ bathroom but can visit other places, so this is not her usual bathroom."
+      "model_notes": "Fixture relationships and acoustics; no floor identified in this scene. Myrtle says she lives in a different girls’ bathroom but can visit other places, so this is not her usual bathroom. The later movement is qualified as apparent/report-based; do not interpret every bathroom as a surveyed list of fixed ghost portals."
     },
     {
       "id": "B06-131",

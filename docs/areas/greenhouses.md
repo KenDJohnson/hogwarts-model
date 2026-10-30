@@ -372,3 +372,104 @@ Model: Glass envelope and movable class equipment, not a precise greenhouse plan
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 293, ¶30 (B06-C014-P0030)](../../build/reader/book-06.html#B06-C014-P0030)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 293, ¶31 (B06-C014-P0031)](../../build/reader/book-06.html#B06-C014-P0031)
 
+## B06-137: Front steps–vegetable patch–Hagrid route
+
+At the bottom of the castle steps Harry chooses to go past the vegetable patch, which is not strictly on the route to Hagrid’s. He hides behind a low stone wall there. Sprout later walks towards her greenhouses, while Slughorn can look towards the black Forest and distant cabin lights.
+
+Evidence: explicit; state: Apparition-test day, spring 1997.
+
+Model: Patch is a detour, with a low stone concealment wall and views towards Forest/cabin; no exact plot boundary or compass orientation supplied.
+
+- [Book 6, ch. 22, “After the Burial”, ref p. 502, ¶108 (B06-C022-P0108)](../../build/reader/book-06.html#B06-C022-P0108)
+- [Book 6, ch. 22, “After the Burial”, ref p. 502–503, ¶111 (B06-C022-P0111)](../../build/reader/book-06.html#B06-C022-P0111)
+- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶112 (B06-C022-P0112)](../../build/reader/book-06.html#B06-C022-P0112)
+- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶122 (B06-C022-P0122)](../../build/reader/book-06.html#B06-C022-P0122)
+- [Book 6, ch. 22, “After the Burial”, ref p. 504, ¶124 (B06-C022-P0124)](../../build/reader/book-06.html#B06-C022-P0124)
+- [Book 6, ch. 22, “After the Burial”, ref p. 504, ¶129 (B06-C022-P0129)](../../build/reader/book-06.html#B06-C022-P0129)
+- [Book 6, ch. 22, “After the Burial”, ref p. 504–505, ¶130 (B06-C022-P0130)](../../build/reader/book-06.html#B06-C022-P0130)
+
+## B06-139: Hagrid rear window and back garden
+
+A rear window of the hut looks onto the garden behind it, where Aragog’s enormous body lies on its back with legs curled. The burial site is beyond the pumpkin patch.
+
+Evidence: explicit; state: Apparition-test day, spring 1997.
+
+Model: Front/rear distinction, window view and patch-to-grave relationship. No extra rear door is explicitly described despite the group stepping out into the back garden.
+
+- [Book 6, ch. 22, “After the Burial”, ref p. 506, ¶143 (B06-C022-P0143)](../../build/reader/book-06.html#B06-C022-P0143)
+- [Book 6, ch. 22, “After the Burial”, ref p. 506, ¶144 (B06-C022-P0144)](../../build/reader/book-06.html#B06-C022-P0144)
+- [Book 6, ch. 22, “After the Burial”, ref p. 506–507, ¶145 (B06-C022-P0145)](../../build/reader/book-06.html#B06-C022-P0145)
+- [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶150 (B06-C022-P0150)](../../build/reader/book-06.html#B06-C022-P0150)
+- [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶151 (B06-C022-P0151)](../../build/reader/book-06.html#B06-C022-P0151)
+
+## B06-141: Hagrid garden compost heap
+
+A compost heap stands near enough to the open grave for Hagrid to collapse onto it during the funeral.
+
+Evidence: explicit; state: Apparition-test day, spring 1997.
+
+Model: Garden feature adjacent to burial activity without precise spacing.
+
+- [Book 6, ch. 22, “After the Burial”, ref p. 508, ¶157 (B06-C022-P0157)](../../build/reader/book-06.html#B06-C022-P0157)
+- [Book 6, ch. 22, “After the Burial”, ref p. 508, ¶158 (B06-C022-P0158)](../../build/reader/book-06.html#B06-C022-P0158)
+- [Book 6, ch. 22, “After the Burial”, ref p. 508–509, ¶159 (B06-C022-P0159)](../../build/reader/book-06.html#B06-C022-P0159)
+
+## B06-165: Trelawney’s hiding-room ejection
+
+Trelawney reports entering the Room to hide personal items, hearing an apparently male celebratory whoop, calling out, then being plunged into darkness and thrown headfirst outside. Harry hears her scream and finds her on the corridor floor with sherry bottles.
+
+Evidence: reported; state: June 1997, departure evening.
+
+Model: Room entry, voice/darkness and ejection are her report; the scream and aftermath are witnessed. Occupant identity, darkness cause and physical ejection mechanism remain unproven in this scene.
+
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 568, ¶56 (B06-C025-P0056)](../../build/reader/book-06.html#B06-C025-P0056)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 568, ¶57 (B06-C025-P0057)](../../build/reader/book-06.html#B06-C025-P0057)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 569, ¶58 (B06-C025-P0058)](../../build/reader/book-06.html#B06-C025-P0058)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 569–570, ¶70 (B06-C025-P0070)](../../build/reader/book-06.html#B06-C025-P0070)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 570, ¶73 (B06-C025-P0073)](../../build/reader/book-06.html#B06-C025-P0073)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 570, ¶75 (B06-C025-P0075)](../../build/reader/book-06.html#B06-C025-P0075)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 570, ¶77 (B06-C025-P0077)](../../build/reader/book-06.html#B06-C025-P0077)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 570, ¶79 (B06-C025-P0079)](../../build/reader/book-06.html#B06-C025-P0079)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 570, ¶82 (B06-C025-P0082)](../../build/reader/book-06.html#B06-C025-P0082)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 570, ¶84 (B06-C025-P0084)](../../build/reader/book-06.html#B06-C025-P0084)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 570, ¶86 (B06-C025-P0086)](../../build/reader/book-06.html#B06-C025-P0086)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 570, ¶88 (B06-C025-P0088)](../../build/reader/book-06.html#B06-C025-P0088)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 571, ¶92 (B06-C025-P0092)](../../build/reader/book-06.html#B06-C025-P0092)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 571, ¶94 (B06-C025-P0094)](../../build/reader/book-06.html#B06-C025-P0094)
+
+## B06-188: Lawn escape route and Apparition boundary
+
+From the front doors the fugitives cross the lawn towards the gates, intending to Disapparate beyond the school boundary. Hagrid intercepts them after emerging from his cabin; Snape eventually Disapparates just outside the boundary while Buckbeak circles the gates.
+
+Evidence: explicit; state: Night of tower attack, June 1997.
+
+Model: Boundary crossing is the operative restriction; gates are the route used here, not proof that Apparition is restricted to a single point outside them. Twenty yards at P0030 is a transient duel separation, not fixed site scale.
+
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 633, ¶23 (B06-C028-P0023)](../../build/reader/book-06.html#B06-C028-P0023)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 633, ¶24 (B06-C028-P0024)](../../build/reader/book-06.html#B06-C028-P0024)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 633, ¶25 (B06-C028-P0025)](../../build/reader/book-06.html#B06-C028-P0025)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 634, ¶28 (B06-C028-P0028)](../../build/reader/book-06.html#B06-C028-P0028)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 634, ¶30 (B06-C028-P0030)](../../build/reader/book-06.html#B06-C028-P0030)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 635–636, ¶44 (B06-C028-P0044)](../../build/reader/book-06.html#B06-C028-P0044)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 637, ¶52 (B06-C028-P0052)](../../build/reader/book-06.html#B06-C028-P0052)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 637, ¶53 (B06-C028-P0053)](../../build/reader/book-06.html#B06-C028-P0053)
+
+## B06-191: Front lawn–hospital route and ward bed positions
+
+Ginny leads Harry up the front steps, across the ruby-strewn Entrance Hall towards the marble staircase, then to the hospital wing. Neville lies in a bed near the ward doors and Bill in another near the far end, with chairs around it.
+
+Evidence: explicit; state: Night after tower attack, June 1997.
+
+Model: Ward longitudinal relationship from entrance to far bed; no exact bed count or absolute floor. Pomfrey conjures an extra chair, so visitor furniture can change.
+
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 643, ¶6 (B06-C029-P0006)](../../build/reader/book-06.html#B06-C029-P0006)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 643, ¶7 (B06-C029-P0007)](../../build/reader/book-06.html#B06-C029-P0007)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 643–644, ¶9 (B06-C029-P0009)](../../build/reader/book-06.html#B06-C029-P0009)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 644–645, ¶20 (B06-C029-P0020)](../../build/reader/book-06.html#B06-C029-P0020)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 645, ¶23 (B06-C029-P0023)](../../build/reader/book-06.html#B06-C029-P0023)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 646, ¶31 (B06-C029-P0031)](../../build/reader/book-06.html#B06-C029-P0031)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 647, ¶38 (B06-C029-P0038)](../../build/reader/book-06.html#B06-C029-P0038)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 647, ¶41 (B06-C029-P0041)](../../build/reader/book-06.html#B06-C029-P0041)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 654, ¶85 (B06-C029-P0085)](../../build/reader/book-06.html#B06-C029-P0085)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 655, ¶88 (B06-C029-P0088)](../../build/reader/book-06.html#B06-C029-P0088)
+

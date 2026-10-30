@@ -1071,7 +1071,7 @@ The pub has tables, a bar, and an interior pillar near Harry’s table. Leanne s
 
 Evidence: explicit; state: Mid-October 1996 Hogsmeade day.
 
-Model: Limited village interior context tied to the attempted castle delivery; no bathroom floor level or adjacency is established.
+Model: Limited village interior context tied to the attempted castle delivery; no bathroom floor level or adjacency is established. Katie later remembers pushing the ladies’ door open, but a person behind it is her deduction, not a recovered observation.
 
 - [Book 6, ch. 12, “Silver and Opals”, ref p. 255, ¶95 (B06-C012-P0095)](../../build/reader/book-06.html#B06-C012-P0095)
 - [Book 6, ch. 12, “Silver and Opals”, ref p. 256, ¶97 (B06-C012-P0097)](../../build/reader/book-06.html#B06-C012-P0097)
@@ -1081,6 +1081,9 @@ Model: Limited village interior context tied to the attempted castle delivery; n
 - [Book 6, ch. 12, “Silver and Opals”, ref p. 261, ¶142 (B06-C012-P0142)](../../build/reader/book-06.html#B06-C012-P0142)
 - [Book 6, ch. 12, “Silver and Opals”, ref p. 261, ¶143 (B06-C012-P0143)](../../build/reader/book-06.html#B06-C012-P0143)
 - [Book 6, ch. 12, “Silver and Opals”, ref p. 262, ¶151 (B06-C012-P0151)](../../build/reader/book-06.html#B06-C012-P0151)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 542, ¶37 (B06-C024-P0037)](../../build/reader/book-06.html#B06-C024-P0037)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 542–543, ¶38 (B06-C024-P0038)](../../build/reader/book-06.html#B06-C024-P0038)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 543, ¶39 (B06-C024-P0039)](../../build/reader/book-06.html#B06-C024-P0039)
 
 ## B06-072: First match frost and house colours
 
@@ -1193,4 +1196,123 @@ Model: Narrated interpretation of a diegetic map; preserve distinct towers and b
 
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 487, ¶150 (B06-C021-P0150)](../../build/reader/book-06.html#B06-C021-P0150)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 487–488, ¶151 (B06-C021-P0151)](../../build/reader/book-06.html#B06-C021-P0151)
+
+## B06-136: Front-door evening security lapse
+
+Harry reaches the Entrance Hall and finds the front door unlocked, opens it, smells fresh air and grass, and walks down the front steps into dusk.
+
+Evidence: explicit; state: Apparition-test day, spring 1997.
+
+Model: A lapse in the intended evening lock, not permanent unrestricted exit. Slughorn confirms concern about security.
+
+- [Book 6, ch. 22, “After the Burial”, ref p. 501–502, ¶107 (B06-C022-P0107)](../../build/reader/book-06.html#B06-C022-P0107)
+- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶115 (B06-C022-P0115)](../../build/reader/book-06.html#B06-C022-P0115)
+- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶116 (B06-C022-P0116)](../../build/reader/book-06.html#B06-C022-P0116)
+- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶117 (B06-C022-P0117)](../../build/reader/book-06.html#B06-C022-P0117)
+
+## B06-158: Hiding-room route to damaged cupboard
+
+Entering an alley, Harry turns right past an enormous stuffed troll, continues briefly, then turns left at the broken Vanishing Cabinet in which Montague had been lost. He reaches a large cupboard with a blistered, apparently acid-damaged surface.
+
+Evidence: explicit; state: May 1997.
+
+Model: Exact local turn sequence and landmarks; no corridor lengths or absolute bearings. Acid is Harry’s explanation of visible blistering, not confirmed chemical cause.
+
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 554–555, ¶105 (B06-C024-P0105)](../../build/reader/book-06.html#B06-C024-P0105)
+
+## B06-159: Book-hiding cupboard and assembled marker
+
+The cupboard has creaking doors and contains a cage holding a long-dead five-legged skeleton. Harry hides his book behind the cage, then moves a chipped bust of an ugly old warlock from a nearby crate onto the cupboard and adds a dusty wig and tarnished tiara to its head.
+
+Evidence: explicit; state: May 1997.
+
+Model: Precise book placement and newly assembled retrieval marker. Tiara’s identity is not supplied here; retain appearance and placement without importing later canon.
+
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 554–555, ¶105 (B06-C024-P0105)](../../build/reader/book-06.html#B06-C024-P0105)
+
+## B06-178: Dark Mark over tower
+
+The luminous green skull and serpent-tongue Dark Mark hangs directly above the Astronomy Tower, casting dim green light over its occupants and ramparts. Draco says it was placed there to draw Dumbledore to an apparent murder scene.
+
+Evidence: reported; state: Night of tower attack, June 1997.
+
+Model: Placement/light are observed; trap purpose is Draco’s account. A Mark alone is not proof that someone died at that spot before arrival.
+
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶24 (B06-C027-P0024)](../../build/reader/book-06.html#B06-C027-P0024)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 613–614, ¶36 (B06-C027-P0036)](../../build/reader/book-06.html#B06-C027-P0036)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶39 (B06-C027-P0039)](../../build/reader/book-06.html#B06-C027-P0039)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶40 (B06-C027-P0040)](../../build/reader/book-06.html#B06-C027-P0040)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 615, ¶47 (B06-C027-P0047)](../../build/reader/book-06.html#B06-C027-P0047)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 615, ¶52 (B06-C027-P0052)](../../build/reader/book-06.html#B06-C027-P0052)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 616, ¶62 (B06-C027-P0062)](../../build/reader/book-06.html#B06-C027-P0062)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 621–622, ¶104 (B06-C027-P0104)](../../build/reader/book-06.html#B06-C027-P0104)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 622, ¶105 (B06-C027-P0105)](../../build/reader/book-06.html#B06-C027-P0105)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 622, ¶106 (B06-C027-P0106)](../../build/reader/book-06.html#B06-C027-P0106)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 622, ¶107 (B06-C027-P0107)](../../build/reader/book-06.html#B06-C027-P0107)
+
+## B06-174: Three Broomsticks stored brooms
+
+Rosmerta says she keeps two brooms behind the bar; Harry Summons them, bursting open the pub’s front door as they fly into the street.
+
+Evidence: explicit; state: Night of tower attack, June 1997.
+
+Model: Ancillary return transport storage and bar-to-street path; not an ordinary unattended flight route through walls.
+
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶27 (B06-C027-P0027)](../../build/reader/book-06.html#B06-C027-P0027)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶28 (B06-C027-P0028)](../../build/reader/book-06.html#B06-C027-P0028)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶29 (B06-C027-P0029)](../../build/reader/book-06.html#B06-C027-P0029)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶30 (B06-C027-P0030)](../../build/reader/book-06.html#B06-C027-P0030)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶31 (B06-C027-P0031)](../../build/reader/book-06.html#B06-C027-P0031)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶32 (B06-C027-P0032)](../../build/reader/book-06.html#B06-C027-P0032)
+
+## B06-182: School communication monitoring bypass
+
+Dumbledore says school communications were monitored. Draco explains that enchanted paired coins allowed messages to Rosmerta, who saw Dumbledore leave; this informed the timing of the attack.
+
+Evidence: reported; state: Night of tower attack, June 1997.
+
+Model: Security limitation with remote magical communication, not a geometry feature; retain as an access/guard-state constraint. Dumbledore’s reconstruction of the bathroom delivery is a deduction, not his eyewitness account.
+
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 620–621, ¶95 (B06-C027-P0095)](../../build/reader/book-06.html#B06-C027-P0095)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 621, ¶96 (B06-C027-P0096)](../../build/reader/book-06.html#B06-C027-P0096)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 621, ¶97 (B06-C027-P0097)](../../build/reader/book-06.html#B06-C027-P0097)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 621, ¶98 (B06-C027-P0098)](../../build/reader/book-06.html#B06-C027-P0098)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 621–622, ¶104 (B06-C027-P0104)](../../build/reader/book-06.html#B06-C027-P0104)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 622, ¶105 (B06-C027-P0105)](../../build/reader/book-06.html#B06-C027-P0105)
+
+## B06-192: Fawkes lament across grounds
+
+Fawkes sings outside in the darkness; his lament echoes across the grounds and through castle windows and remains audible in the hospital wing and deserted corridors.
+
+Evidence: explicit; state: Night after tower attack, June 1997.
+
+Model: Magical mourning soundscape; subjective emotional effect is not a measured acoustic property or evidence of a precise outdoor perch.
+
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 646–647, ¶37 (B06-C029-P0037)](../../build/reader/book-06.html#B06-C029-P0037)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 647, ¶38 (B06-C029-P0038)](../../build/reader/book-06.html#B06-C029-P0038)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 654, ¶84 (B06-C029-P0084)](../../build/reader/book-06.html#B06-C029-P0084)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 659, ¶124 (B06-C029-P0124)](../../build/reader/book-06.html#B06-C029-P0124)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 659–660, ¶125 (B06-C029-P0125)](../../build/reader/book-06.html#B06-C029-P0125)
+
+## B06-193: Battle-night covered routes and entrances
+
+McGonagall reports corridor patrols, guards covering every secret passage out of school, powerful enchantments on every castle entrance and an expectation that nobody could fly in.
+
+Evidence: reported; state: Night after tower attack, June 1997.
+
+Model: Defenders’ report of intended security state, not an omniscient guarantee; Cabinet bypass defeated it. Earlier aerial entry required Dumbledore’s intervention.
+
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 649, ¶54 (B06-C029-P0054)](../../build/reader/book-06.html#B06-C029-P0054)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 649, ¶55 (B06-C029-P0055)](../../build/reader/book-06.html#B06-C029-P0055)
+
+## B06-201: Fawkes departure after lament
+
+The grounds fall silent when Fawkes stops singing, and Harry understands that the phoenix has left Hogwarts for good.
+
+Evidence: inference; state: Night after tower attack, June 1997.
+
+Model: Cessation is observed; permanent departure is Harry’s unverified conviction here, not a followed flight. Empty office perch is independently seen at P0125.
+
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 665, ¶186 (B06-C029-P0186)](../../build/reader/book-06.html#B06-C029-P0186)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 665–666, ¶187 (B06-C029-P0187)](../../build/reader/book-06.html#B06-C029-P0187)
 

@@ -548,6 +548,198 @@
           "reason": "Collision with Hagrid, not a fixture or structural obstacle."
         }
       ]
+    },
+    {
+      "book": 6,
+      "catalogue_entries_at_audit": 212,
+      "candidates_inspected": [
+        {
+          "id": "B06-C024-P0057",
+          "score": 13,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Quidditch standings and bottom-of-table idiom, not physical dimensions or a table fixture."
+        },
+        {
+          "id": "B06-C026-P0015",
+          "score": 12,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Coastal Horcrux cave and its lake, not the Hogwarts lake or underground harbour."
+        },
+        {
+          "id": "B06-C007-P0143",
+          "score": 11,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Slug Club seating in a train compartment, outside castle/grounds; adds no approach geometry."
+        },
+        {
+          "id": "B06-C026-P0044",
+          "score": 11,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Coastal Horcrux cave and its lake, not the Hogwarts lake or underground harbour."
+        },
+        {
+          "id": "B06-C011-P0138",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "A meal smell and character interruption on an existing Great Hall route; no new fixture or layout."
+        },
+        {
+          "id": "B06-C030-P0017",
+          "score": 10,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Dark winding path is a metaphor for the Horcrux search, not a landscape route."
+        },
+        {
+          "id": "B06-C010-P0094",
+          "score": 9,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Gaunt house in a memory, outside Hogwarts."
+        },
+        {
+          "id": "B06-C002-P0040",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C006-P0101",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C024-P0128",
+          "score": 8,
+          "disposition": "supplemented",
+          "reason": "Added the qualified report of Myrtle’s castle-bathroom movement to B06-130."
+        },
+        {
+          "id": "B06-C030-P0044",
+          "score": 8,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Characters seated at an existing Slytherin table; no new environmental feature."
+        },
+        {
+          "id": "B06-C003-P0044",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C019-P0056",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Conversation with a precautionary ceiling glance; no new measured height or fixture."
+        },
+        {
+          "id": "B06-C026-P0046",
+          "score": 7,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Coastal Horcrux cave and its lake, not the Hogwarts lake or underground harbour."
+        },
+        {
+          "id": "B06-C001-P0042",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C003-P0053",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C005-P0001",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C006-P0036",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C013-P0103",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Orphanage corridor in a memory, outside Hogwarts."
+        },
+        {
+          "id": "B06-C016-P0130",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C024-P0059",
+          "score": 6,
+          "disposition": "supplemented",
+          "reason": "Added explicit evidence of later continued access denial to B06-126."
+        },
+        {
+          "id": "B06-C028-P0092",
+          "score": 6,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Carried locket’s portrait space, not an architectural room or display."
+        },
+        {
+          "id": "B06-C004-P0062",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C004-P0067",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C004-P0237",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C005-P0229",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C005-P0236",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C006-P0031",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Prime Minister’s office, Spinner’s End, Privet Drive, Slughorn’s borrowed house, Burrow or Diagon Alley, outside the school site."
+        },
+        {
+          "id": "B06-C014-P0086",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "An imagined encounter in an already described corridor, not an observed changed state."
+        },
+        {
+          "id": "B06-C014-P0095",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Character emotions and ordinary dormitory route, no new spatial feature."
+        },
+        {
+          "id": "B06-C027-P0035",
+          "score": 4,
+          "disposition": "exclude_or_already_represented",
+          "reason": "Character fears during an already described return flight, no additional site fact."
+        }
+      ]
     }
   ]
 }

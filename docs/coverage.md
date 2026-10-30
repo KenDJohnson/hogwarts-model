@@ -2,7 +2,7 @@
 
 This reports the reviewers' declared reading ranges. Structural validation checks that those ranges cover the corpus; it cannot prove semantic completeness or that every description has been captured.
 
-Reviewed: **19,036/38,426 paragraphs**. Records: **715**.
+Reviewed: **20,723/38,426 paragraphs**. Records: **794**.
 
 ## Book 1: Harry Potter and the Philosopher's Stone
 
@@ -163,7 +163,7 @@ Reviewed: **19,036/38,426 paragraphs**. Records: **715**.
 
 ## Book 6: Harry Potter and the Half-Blood Prince
 
-4,230/5,809 paragraphs; 133 records.
+5,809/5,809 paragraphs; 212 records.
 
 - Chapter 1, The Other Minister: Reviewed (135/135).
 - Chapter 2, Spinner’s End: Reviewed (175/175).
@@ -186,21 +186,21 @@ Reviewed: **19,036/38,426 paragraphs**. Records: **715**.
 - Chapter 19, Elf Tails: Reviewed (210/210).
 - Chapter 20, Lord Voldemort’s Request: Reviewed (207/207).
 - Chapter 21, The Unknowable Room: Reviewed (191/191).
-- Chapter 22, After the Burial: Unread: ¶1–227 (0/227).
-- Chapter 23, Horcruxes: Unread: ¶1–160 (0/160).
-- Chapter 24, Sectumsempra: Unread: ¶1–164 (0/164).
-- Chapter 25, The Seer Overheard: Unread: ¶1–220 (0/220).
-- Chapter 26, The Cave: Unread: ¶1–225 (0/225).
-- Chapter 27, The Lightning-Struck Tower: Unread: ¶1–166 (0/166).
-- Chapter 28, Flight of the Prince: Unread: ¶1–97 (0/97).
-- Chapter 29, The Phoenix Lament: Unread: ¶1–187 (0/187).
-- Chapter 30, The White Tomb: Unread: ¶1–133 (0/133).
+- Chapter 22, After the Burial: Reviewed (227/227).
+- Chapter 23, Horcruxes: Reviewed (160/160).
+- Chapter 24, Sectumsempra: Reviewed (164/164).
+- Chapter 25, The Seer Overheard: Reviewed (220/220).
+- Chapter 26, The Cave: Reviewed (225/225).
+- Chapter 27, The Lightning-Struck Tower: Reviewed (166/166).
+- Chapter 28, Flight of the Prince: Reviewed (97/97).
+- Chapter 29, The Phoenix Lament: Reviewed (187/187).
+- Chapter 30, The White Tomb: Reviewed (133/133).
 
 ## Book 7: Harry Potter and the Deathly Hallows
 
-0/6,879 paragraphs; 0 records.
+108/6,879 paragraphs; 0 records.
 
-- Chapter 1, The Dark Lord Ascending: Unread: ¶1–108 (0/108).
+- Chapter 1, The Dark Lord Ascending: Reviewed (108/108).
 - Chapter 2, In Memoriam: Unread: ¶1–63 (0/63).
 - Chapter 3, The Dursleys Departing: Unread: ¶1–120 (0/120).
 - Chapter 4, The Seven Potters: Unread: ¶1–167 (0/167).

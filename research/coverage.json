@@ -1,9 +1,9 @@
 {
   "source_sha256": "fc554e217f5ec7edc995b24de3d62f50cee929c524fa6ec5e0a7ae23a7ca2732",
   "paragraphs": 38426,
-  "reviewed": 19036,
+  "reviewed": 20723,
   "complete": false,
-  "entries": 715,
+  "entries": 794,
   "books": [
     {
       "book": 1,
@@ -1217,9 +1217,9 @@
     {
       "book": 6,
       "title": "Harry Potter and the Half-Blood Prince",
-      "entries": 133,
+      "entries": 212,
       "paragraphs": 5809,
-      "reviewed": 4230,
+      "reviewed": 5809,
       "chapters": [
         {
           "chapter": 1,
@@ -1372,109 +1372,64 @@
           "chapter": 22,
           "title": "After the Burial",
           "paragraphs": 227,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              227
-            ]
-          ]
+          "reviewed": 227,
+          "unread_ranges": []
         },
         {
           "chapter": 23,
           "title": "Horcruxes",
           "paragraphs": 160,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              160
-            ]
-          ]
+          "reviewed": 160,
+          "unread_ranges": []
         },
         {
           "chapter": 24,
           "title": "Sectumsempra",
           "paragraphs": 164,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              164
-            ]
-          ]
+          "reviewed": 164,
+          "unread_ranges": []
         },
         {
           "chapter": 25,
           "title": "The Seer Overheard",
           "paragraphs": 220,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              220
-            ]
-          ]
+          "reviewed": 220,
+          "unread_ranges": []
         },
         {
           "chapter": 26,
           "title": "The Cave",
           "paragraphs": 225,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              225
-            ]
-          ]
+          "reviewed": 225,
+          "unread_ranges": []
         },
         {
           "chapter": 27,
           "title": "The Lightning-Struck Tower",
           "paragraphs": 166,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              166
-            ]
-          ]
+          "reviewed": 166,
+          "unread_ranges": []
         },
         {
           "chapter": 28,
           "title": "Flight of the Prince",
           "paragraphs": 97,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              97
-            ]
-          ]
+          "reviewed": 97,
+          "unread_ranges": []
         },
         {
           "chapter": 29,
           "title": "The Phoenix Lament",
           "paragraphs": 187,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              187
-            ]
-          ]
+          "reviewed": 187,
+          "unread_ranges": []
         },
         {
           "chapter": 30,
           "title": "The White Tomb",
           "paragraphs": 133,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              133
-            ]
-          ]
+          "reviewed": 133,
+          "unread_ranges": []
         }
       ]
     },
@@ -1483,19 +1438,14 @@
       "title": "Harry Potter and the Deathly Hallows",
       "entries": 0,
       "paragraphs": 6879,
-      "reviewed": 0,
+      "reviewed": 108,
       "chapters": [
         {
           "chapter": 1,
           "title": "The Dark Lord Ascending",
           "paragraphs": 108,
-          "reviewed": 0,
-          "unread_ranges": [
-            [
-              1,
-              108
-            ]
-          ]
+          "reviewed": 108,
+          "unread_ranges": []
         },
         {
           "chapter": 2,

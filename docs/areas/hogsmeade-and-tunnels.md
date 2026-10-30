@@ -412,3 +412,63 @@ Model: School-to-village permitted training and destinations; no exact spacing i
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 490, ¶175 (B06-C021-P0175)](../../build/reader/book-06.html#B06-C021-P0175)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 490, ¶177 (B06-C021-P0177)](../../build/reader/book-06.html#B06-C021-P0177)
 
+## B06-171: Hog’s Head historical guest room
+
+Trelawney recalls staying in a room at the Hog’s Head for her interview with Dumbledore, complains of bedbugs, and describes Snape caught outside her door after claiming to have taken the wrong stairs.
+
+Evidence: reported; state: Trelawney’s recruitment, recalled June 1997.
+
+Model: Limited village lodging/stair context for the school visit; no room floor number, exact stair configuration or modern condition established.
+
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 572–573, ¶112 (B06-C025-P0112)](../../build/reader/book-06.html#B06-C025-P0112)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 573, ¶114 (B06-C025-P0114)](../../build/reader/book-06.html#B06-C025-P0114)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 573–574, ¶116 (B06-C025-P0116)](../../build/reader/book-06.html#B06-C025-P0116)
+
+## B06-170: Gates–Hogsmeade pubs–Apparition departure
+
+Outside the gates they turn into the deserted lane to Hogsmeade and reach the High Street, with lit windows above shops. Passing the Three Broomsticks, they then turn into the side street with the Hog’s Head’s creaking sign. They Apparate outside without entering the pub.
+
+Evidence: explicit; state: June 1997, departure evening.
+
+Model: School boundary and off-site departure route; Hog’s Head appears empty and quiet versus the Three Broomsticks. No street lengths or bearings stated.
+
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶208 (B06-C025-P0208)](../../build/reader/book-06.html#B06-C025-P0208)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 583, ¶215 (B06-C025-P0215)](../../build/reader/book-06.html#B06-C025-P0215)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 583, ¶216 (B06-C025-P0216)](../../build/reader/book-06.html#B06-C025-P0216)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 583, ¶217 (B06-C025-P0217)](../../build/reader/book-06.html#B06-C025-P0217)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 583, ¶218 (B06-C025-P0218)](../../build/reader/book-06.html#B06-C025-P0218)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 583–584, ¶219 (B06-C025-P0219)](../../build/reader/book-06.html#B06-C025-P0219)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 584, ¶220 (B06-C025-P0220)](../../build/reader/book-06.html#B06-C025-P0220)
+
+## B06-173: Hogsmeade High Street return and castle view
+
+Harry and Dumbledore Apparate into the dark High Street, lit by a few streetlamps and upper windows. Rosmerta says she saw them from her bedroom curtains. From the street the green Dark Mark is visible above Hogwarts.
+
+Evidence: explicit; state: Night of tower attack, June 1997.
+
+Model: Ground-level village → school-sky visibility and bedroom → High Street reported view; imagined Inferi around shops at P0002 are not real village occupants.
+
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 609–610, ¶1 (B06-C027-P0001)](../../build/reader/book-06.html#B06-C027-P0001)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 610, ¶2 (B06-C027-P0002)](../../build/reader/book-06.html#B06-C027-P0002)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 610, ¶4 (B06-C027-P0004)](../../build/reader/book-06.html#B06-C027-P0004)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 611, ¶15 (B06-C027-P0015)](../../build/reader/book-06.html#B06-C027-P0015)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 611, ¶16 (B06-C027-P0016)](../../build/reader/book-06.html#B06-C027-P0016)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶22 (B06-C027-P0022)](../../build/reader/book-06.html#B06-C027-P0022)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶23 (B06-C027-P0023)](../../build/reader/book-06.html#B06-C027-P0023)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶24 (B06-C027-P0024)](../../build/reader/book-06.html#B06-C027-P0024)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶26 (B06-C027-P0026)](../../build/reader/book-06.html#B06-C027-P0026)
+
+## B06-175: Broom flight from village to Astronomy Tower
+
+They fly from the village over the dark twisting lane, cross the boundary wall into the grounds, then land over crenellated ramparts on the Astronomy Tower, the highest tower of the castle.
+
+Evidence: explicit; state: Night of tower attack, June 1997.
+
+Model: Aerial approach and height hierarchy. The lane is seen from above; no exact flight length or wall height.
+
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612–613, ¶33 (B06-C027-P0033)](../../build/reader/book-06.html#B06-C027-P0033)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 613, ¶34 (B06-C027-P0034)](../../build/reader/book-06.html#B06-C027-P0034)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 613–614, ¶36 (B06-C027-P0036)](../../build/reader/book-06.html#B06-C027-P0036)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶37 (B06-C027-P0037)](../../build/reader/book-06.html#B06-C027-P0037)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶38 (B06-C027-P0038)](../../build/reader/book-06.html#B06-C027-P0038)
+

@@ -678,3 +678,98 @@ Model: Observed instantaneous elf arrival inside the castle despite human Appari
 - [Book 6, ch. 19, “Elf Tails”, ref p. 439, ¶194 (B06-C019-P0194)](../../build/reader/book-06.html#B06-C019-P0194)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 440, ¶199 (B06-C019-P0199)](../../build/reader/book-06.html#B06-C019-P0199)
 
+## B06-137: Front steps–vegetable patch–Hagrid route
+
+At the bottom of the castle steps Harry chooses to go past the vegetable patch, which is not strictly on the route to Hagrid’s. He hides behind a low stone wall there. Sprout later walks towards her greenhouses, while Slughorn can look towards the black Forest and distant cabin lights.
+
+Evidence: explicit; state: Apparition-test day, spring 1997.
+
+Model: Patch is a detour, with a low stone concealment wall and views towards Forest/cabin; no exact plot boundary or compass orientation supplied.
+
+- [Book 6, ch. 22, “After the Burial”, ref p. 502, ¶108 (B06-C022-P0108)](../../build/reader/book-06.html#B06-C022-P0108)
+- [Book 6, ch. 22, “After the Burial”, ref p. 502–503, ¶111 (B06-C022-P0111)](../../build/reader/book-06.html#B06-C022-P0111)
+- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶112 (B06-C022-P0112)](../../build/reader/book-06.html#B06-C022-P0112)
+- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶122 (B06-C022-P0122)](../../build/reader/book-06.html#B06-C022-P0122)
+- [Book 6, ch. 22, “After the Burial”, ref p. 504, ¶124 (B06-C022-P0124)](../../build/reader/book-06.html#B06-C022-P0124)
+- [Book 6, ch. 22, “After the Burial”, ref p. 504, ¶129 (B06-C022-P0129)](../../build/reader/book-06.html#B06-C022-P0129)
+- [Book 6, ch. 22, “After the Burial”, ref p. 504–505, ¶130 (B06-C022-P0130)](../../build/reader/book-06.html#B06-C022-P0130)
+
+## B06-145: Front door–third-floor shortcut–Gryffindor
+
+The front door remains unlocked on Harry’s return after the burial. On the third floor he dodges Peeves through a sideways shortcut, then climbs higher to the Fat Lady’s portrait and the hard corridor floor outside it.
+
+Evidence: explicit; state: After Aragog burial, spring 1997.
+
+Model: Third-floor shortcut on upward route; no complete internal shortcut shape or exact travel time.
+
+- [Book 6, ch. 23, “Horcruxes”, ref p. 515–516, ¶1 (B06-C023-P0001)](../../build/reader/book-06.html#B06-C023-P0001)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶7 (B06-C023-P0007)](../../build/reader/book-06.html#B06-C023-P0007)
+
+## B06-169: Castle front steps–drive–gates
+
+Dumbledore waits by the oaken front doors/top stone step, then descends the steps with Harry and follows the drive downhill to gates at its bottom. In still summer twilight the air smells of warm grass, lake water and cabin wood smoke.
+
+Evidence: explicit; state: June 1997, departure evening.
+
+Model: Front entrance → steps → descending drive → gates sequence; environmental scent sources do not supply distances or wind bearings.
+
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶203 (B06-C025-P0203)](../../build/reader/book-06.html#B06-C025-P0203)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶204 (B06-C025-P0204)](../../build/reader/book-06.html#B06-C025-P0204)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶205 (B06-C025-P0205)](../../build/reader/book-06.html#B06-C025-P0205)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶206 (B06-C025-P0206)](../../build/reader/book-06.html#B06-C025-P0206)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶209 (B06-C025-P0209)](../../build/reader/book-06.html#B06-C025-P0209)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582–583, ¶210 (B06-C025-P0210)](../../build/reader/book-06.html#B06-C025-P0210)
+
+## B06-170: Gates–Hogsmeade pubs–Apparition departure
+
+Outside the gates they turn into the deserted lane to Hogsmeade and reach the High Street, with lit windows above shops. Passing the Three Broomsticks, they then turn into the side street with the Hog’s Head’s creaking sign. They Apparate outside without entering the pub.
+
+Evidence: explicit; state: June 1997, departure evening.
+
+Model: School boundary and off-site departure route; Hog’s Head appears empty and quiet versus the Three Broomsticks. No street lengths or bearings stated.
+
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶208 (B06-C025-P0208)](../../build/reader/book-06.html#B06-C025-P0208)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 583, ¶215 (B06-C025-P0215)](../../build/reader/book-06.html#B06-C025-P0215)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 583, ¶216 (B06-C025-P0216)](../../build/reader/book-06.html#B06-C025-P0216)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 583, ¶217 (B06-C025-P0217)](../../build/reader/book-06.html#B06-C025-P0217)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 583, ¶218 (B06-C025-P0218)](../../build/reader/book-06.html#B06-C025-P0218)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 583–584, ¶219 (B06-C025-P0219)](../../build/reader/book-06.html#B06-C025-P0219)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 584, ¶220 (B06-C025-P0220)](../../build/reader/book-06.html#B06-C025-P0220)
+
+## B06-176: Boundary enchantment during aerial entry
+
+As Dumbledore mutters a strange language, Harry’s broom shudders crossing the boundary wall; Harry interprets this as Dumbledore undoing his own protective enchantments to admit them quickly.
+
+Evidence: inference; state: Night of tower attack, June 1997.
+
+Model: Sound and shudder are observed, while barrier purpose and deliberate suspension are Harry’s interpretation. No evidence of a physically moving wall or blanket permanent removal.
+
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 613–614, ¶36 (B06-C027-P0036)](../../build/reader/book-06.html#B06-C027-P0036)
+
+## B06-188: Lawn escape route and Apparition boundary
+
+From the front doors the fugitives cross the lawn towards the gates, intending to Disapparate beyond the school boundary. Hagrid intercepts them after emerging from his cabin; Snape eventually Disapparates just outside the boundary while Buckbeak circles the gates.
+
+Evidence: explicit; state: Night of tower attack, June 1997.
+
+Model: Boundary crossing is the operative restriction; gates are the route used here, not proof that Apparition is restricted to a single point outside them. Twenty yards at P0030 is a transient duel separation, not fixed site scale.
+
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 633, ¶23 (B06-C028-P0023)](../../build/reader/book-06.html#B06-C028-P0023)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 633, ¶24 (B06-C028-P0024)](../../build/reader/book-06.html#B06-C028-P0024)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 633, ¶25 (B06-C028-P0025)](../../build/reader/book-06.html#B06-C028-P0025)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 634, ¶28 (B06-C028-P0028)](../../build/reader/book-06.html#B06-C028-P0028)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 634, ¶30 (B06-C028-P0030)](../../build/reader/book-06.html#B06-C028-P0030)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 635–636, ¶44 (B06-C028-P0044)](../../build/reader/book-06.html#B06-C028-P0044)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 637, ¶52 (B06-C028-P0052)](../../build/reader/book-06.html#B06-C028-P0052)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 637, ¶53 (B06-C028-P0053)](../../build/reader/book-06.html#B06-C028-P0053)
+
+## B06-202: Forest-edge visiting carriage
+
+A house-sized powder-blue carriage pulled by twelve giant winged palominos flies in and lands at the Forest edge. A castle window gives Harry a view of the arrival and Madame Maxime descending its steps.
+
+Evidence: explicit; state: Afternoon before funeral, June 1997.
+
+Model: Temporary visitor vehicle footprint and Forest-edge landing; no exact distance from cabin or earlier tournament parking site established.
+
+- [Book 6, ch. 30, “The White Tomb”, ref p. 666–667, ¶2 (B06-C030-P0002)](../../build/reader/book-06.html#B06-C030-P0002)
+

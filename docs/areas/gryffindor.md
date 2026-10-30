@@ -836,3 +836,119 @@ Model: Confirms elf Disapparition inside castle independently of human anti-Appa
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 475, ¶64 (B06-C021-P0064)](../../build/reader/book-06.html#B06-C021-P0064)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 477, ¶82 (B06-C021-P0082)](../../build/reader/book-06.html#B06-C021-P0082)
 
+## B06-135: Gryffindor common-room sunset view
+
+While waiting in the common room, the group judges the time as the sun sinks to the Forbidden Forest treetops, then goes up to the boys’ dormitory; Harry returns down the stairs and through the open doorway into the common room.
+
+Evidence: explicit; state: Apparition-test day, spring 1997.
+
+Model: Narrative sunset sight context from the common-room scene; no window position is specified, so bearing remains unresolved.
+
+- [Book 6, ch. 22, “After the Burial”, ref p. 499–500, ¶85 (B06-C022-P0085)](../../build/reader/book-06.html#B06-C022-P0085)
+- [Book 6, ch. 22, “After the Burial”, ref p. 500, ¶86 (B06-C022-P0086)](../../build/reader/book-06.html#B06-C022-P0086)
+- [Book 6, ch. 22, “After the Burial”, ref p. 501, ¶102 (B06-C022-P0102)](../../build/reader/book-06.html#B06-C022-P0102)
+- [Book 6, ch. 22, “After the Burial”, ref p. 501, ¶103 (B06-C022-P0103)](../../build/reader/book-06.html#B06-C022-P0103)
+
+## B06-145: Front door–third-floor shortcut–Gryffindor
+
+The front door remains unlocked on Harry’s return after the burial. On the third floor he dodges Peeves through a sideways shortcut, then climbs higher to the Fat Lady’s portrait and the hard corridor floor outside it.
+
+Evidence: explicit; state: After Aragog burial, spring 1997.
+
+Model: Third-floor shortcut on upward route; no complete internal shortcut shape or exact travel time.
+
+- [Book 6, ch. 23, “Horcruxes”, ref p. 515–516, ¶1 (B06-C023-P0001)](../../build/reader/book-06.html#B06-C023-P0001)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶7 (B06-C023-P0007)](../../build/reader/book-06.html#B06-C023-P0007)
+
+## B06-146: Fat Lady false password-change claim
+
+The Fat Lady initially refuses entry claiming a midnight password change, then admits she lied because Harry woke her. The password is still Tapeworm.
+
+Evidence: explicit; state: After Aragog burial, spring 1997.
+
+Model: Do not implement a midnight reset from the retracted claim; this scene demonstrates discretionary refusal by the portrait occupant.
+
+- [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶4 (B06-C023-P0004)](../../build/reader/book-06.html#B06-C023-P0004)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶5 (B06-C023-P0005)](../../build/reader/book-06.html#B06-C023-P0005)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶6 (B06-C023-P0006)](../../build/reader/book-06.html#B06-C023-P0006)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 516–517, ¶15 (B06-C023-P0015)](../../build/reader/book-06.html#B06-C023-P0015)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 517, ¶16 (B06-C023-P0016)](../../build/reader/book-06.html#B06-C023-P0016)
+
+## B06-149: Gryffindor sword display behind Headmaster
+
+A ruby-encrusted sword rests in a glass case on the wall behind Dumbledore; he identifies it as the surviving known Gryffindor relic.
+
+Evidence: explicit; state: After Aragog burial, spring 1997.
+
+Model: Observed wall position, glass enclosure and jewelled sword. Provenance is Dumbledore’s statement; no case dimensions supplied.
+
+- [Book 6, ch. 23, “Horcruxes”, ref p. 530, ¶112 (B06-C023-P0112)](../../build/reader/book-06.html#B06-C023-P0112)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 530–531, ¶113 (B06-C023-P0113)](../../build/reader/book-06.html#B06-C023-P0113)
+
+## B06-151: Gryffindor common-room window table
+
+The common room is sunny and contains a table at a window where the trio sit to talk.
+
+Evidence: explicit; state: Spring 1997.
+
+Model: Table-window relationship; no bearing or proof this is the same table used on previous occasions.
+
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 542, ¶31 (B06-C024-P0031)](../../build/reader/book-06.html#B06-C024-P0031)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 543, ¶40 (B06-C024-P0040)](../../build/reader/book-06.html#B06-C024-P0040)
+
+## B06-162: Gryffindor final-match celebration access
+
+The Fat Lady admits Harry on Quid agis, revealing a noisy common-room celebration. Ron carries a silver championship Cup; around fifty people witness Harry and Ginny’s kiss.
+
+Evidence: explicit; state: May 1997.
+
+Model: Dated password, trophy and crowd occupancy; not a room-capacity figure or permanent trophy display.
+
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 562, ¶157 (B06-C024-P0157)](../../build/reader/book-06.html#B06-C024-P0157)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 562, ¶158 (B06-C024-P0158)](../../build/reader/book-06.html#B06-C024-P0158)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 562, ¶159 (B06-C024-P0159)](../../build/reader/book-06.html#B06-C024-P0159)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 562, ¶160 (B06-C024-P0160)](../../build/reader/book-06.html#B06-C024-P0160)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 562, ¶161 (B06-C024-P0161)](../../build/reader/book-06.html#B06-C024-P0161)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 562, ¶162 (B06-C024-P0162)](../../build/reader/book-06.html#B06-C024-P0162)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 562–563, ¶163 (B06-C024-P0163)](../../build/reader/book-06.html#B06-C024-P0163)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 563, ¶164 (B06-C024-P0164)](../../build/reader/book-06.html#B06-C024-P0164)
+
+## B06-187: Entrance Hall blast damage and Gryffindor hourglass
+
+The oak front doors have been blasted open, blood smears the flagstone floor, and students shelter against the walls. The giant Gryffindor hourglass is cursed and its rubies fall rattling onto the flagstones.
+
+Evidence: explicit; state: Night of tower attack, June 1997.
+
+Model: Fixed score hourglass material/contents and damaged state. No dimensions, exact hourglass wall position or conditions of the other houses’ counters supplied.
+
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 632–633, ¶22 (B06-C028-P0022)](../../build/reader/book-06.html#B06-C028-P0022)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 633, ¶23 (B06-C028-P0023)](../../build/reader/book-06.html#B06-C028-P0023)
+
+## B06-200: Fat Lady admission without password
+
+On the return to Gryffindor, the Fat Lady admits Harry without waiting for a password. The crowded common room connects across to the boys’ dormitory door; Ron waits on his bed and Harry sits on his own four-poster.
+
+Evidence: explicit; state: Night after tower attack, June 1997.
+
+Model: Discretionary access exception and repeated room-to-dorm relationship; no new room dimensions.
+
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 664, ¶170 (B06-C029-P0170)](../../build/reader/book-06.html#B06-C029-P0170)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 664, ¶171 (B06-C029-P0171)](../../build/reader/book-06.html#B06-C029-P0171)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 664, ¶172 (B06-C029-P0172)](../../build/reader/book-06.html#B06-C029-P0172)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 664, ¶173 (B06-C029-P0173)](../../build/reader/book-06.html#B06-C029-P0173)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 664, ¶174 (B06-C029-P0174)](../../build/reader/book-06.html#B06-C029-P0174)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 664–665, ¶175 (B06-C029-P0175)](../../build/reader/book-06.html#B06-C029-P0175)
+
+## B06-203: Gryffindor common-room open window view
+
+Seated beside an open common-room window, the group looks out over the twilit grounds.
+
+Evidence: explicit; state: Evening before funeral, June 1997.
+
+Model: Window can open, unlike a purely painted view; girls’ dormitory door is within the same scene. No compass bearing.
+
+- [Book 6, ch. 30, “The White Tomb”, ref p. 667, ¶6 (B06-C030-P0006)](../../build/reader/book-06.html#B06-C030-P0006)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 668, ¶13 (B06-C030-P0013)](../../build/reader/book-06.html#B06-C030-P0013)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 668, ¶14 (B06-C030-P0014)](../../build/reader/book-06.html#B06-C030-P0014)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 671, ¶31 (B06-C030-P0031)](../../build/reader/book-06.html#B06-C030-P0031)
+

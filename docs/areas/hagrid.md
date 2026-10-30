@@ -744,3 +744,116 @@ Model: Line of sight from an unspecified corridor on this route to cabin frontag
 
 - [Book 6, ch. 17, “A Sluggish Memory”, ref p. 365, ¶12 (B06-C017-P0012)](../../build/reader/book-06.html#B06-C017-P0012)
 
+## B06-137: Front steps–vegetable patch–Hagrid route
+
+At the bottom of the castle steps Harry chooses to go past the vegetable patch, which is not strictly on the route to Hagrid’s. He hides behind a low stone wall there. Sprout later walks towards her greenhouses, while Slughorn can look towards the black Forest and distant cabin lights.
+
+Evidence: explicit; state: Apparition-test day, spring 1997.
+
+Model: Patch is a detour, with a low stone concealment wall and views towards Forest/cabin; no exact plot boundary or compass orientation supplied.
+
+- [Book 6, ch. 22, “After the Burial”, ref p. 502, ¶108 (B06-C022-P0108)](../../build/reader/book-06.html#B06-C022-P0108)
+- [Book 6, ch. 22, “After the Burial”, ref p. 502–503, ¶111 (B06-C022-P0111)](../../build/reader/book-06.html#B06-C022-P0111)
+- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶112 (B06-C022-P0112)](../../build/reader/book-06.html#B06-C022-P0112)
+- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶122 (B06-C022-P0122)](../../build/reader/book-06.html#B06-C022-P0122)
+- [Book 6, ch. 22, “After the Burial”, ref p. 504, ¶124 (B06-C022-P0124)](../../build/reader/book-06.html#B06-C022-P0124)
+- [Book 6, ch. 22, “After the Burial”, ref p. 504, ¶129 (B06-C022-P0129)](../../build/reader/book-06.html#B06-C022-P0129)
+- [Book 6, ch. 22, “After the Burial”, ref p. 504–505, ¶130 (B06-C022-P0130)](../../build/reader/book-06.html#B06-C022-P0130)
+
+## B06-139: Hagrid rear window and back garden
+
+A rear window of the hut looks onto the garden behind it, where Aragog’s enormous body lies on its back with legs curled. The burial site is beyond the pumpkin patch.
+
+Evidence: explicit; state: Apparition-test day, spring 1997.
+
+Model: Front/rear distinction, window view and patch-to-grave relationship. No extra rear door is explicitly described despite the group stepping out into the back garden.
+
+- [Book 6, ch. 22, “After the Burial”, ref p. 506, ¶143 (B06-C022-P0143)](../../build/reader/book-06.html#B06-C022-P0143)
+- [Book 6, ch. 22, “After the Burial”, ref p. 506, ¶144 (B06-C022-P0144)](../../build/reader/book-06.html#B06-C022-P0144)
+- [Book 6, ch. 22, “After the Burial”, ref p. 506–507, ¶145 (B06-C022-P0145)](../../build/reader/book-06.html#B06-C022-P0145)
+- [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶150 (B06-C022-P0150)](../../build/reader/book-06.html#B06-C022-P0150)
+- [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶151 (B06-C022-P0151)](../../build/reader/book-06.html#B06-C022-P0151)
+
+## B06-141: Hagrid garden compost heap
+
+A compost heap stands near enough to the open grave for Hagrid to collapse onto it during the funeral.
+
+Evidence: explicit; state: Apparition-test day, spring 1997.
+
+Model: Garden feature adjacent to burial activity without precise spacing.
+
+- [Book 6, ch. 22, “After the Burial”, ref p. 508, ¶157 (B06-C022-P0157)](../../build/reader/book-06.html#B06-C022-P0157)
+- [Book 6, ch. 22, “After the Burial”, ref p. 508, ¶158 (B06-C022-P0158)](../../build/reader/book-06.html#B06-C022-P0158)
+- [Book 6, ch. 22, “After the Burial”, ref p. 508–509, ¶159 (B06-C022-P0159)](../../build/reader/book-06.html#B06-C022-P0159)
+
+## B06-142: Hagrid cabin dog basket and candle
+
+Fang has a basket inside the cabin. People sit at the table with bucket-sized mugs; a candle between Harry and Slughorn flickers in Hagrid’s snores and later gutters.
+
+Evidence: explicit; state: Apparition-test day, spring 1997.
+
+Model: Additional dog furniture, table arrangement and candle lighting; wine bottles are movable funeral gathering supplies.
+
+- [Book 6, ch. 22, “After the Burial”, ref p. 509, ¶160 (B06-C022-P0160)](../../build/reader/book-06.html#B06-C022-P0160)
+- [Book 6, ch. 22, “After the Burial”, ref p. 509, ¶161 (B06-C022-P0161)](../../build/reader/book-06.html#B06-C022-P0161)
+- [Book 6, ch. 22, “After the Burial”, ref p. 509, ¶163 (B06-C022-P0163)](../../build/reader/book-06.html#B06-C022-P0163)
+- [Book 6, ch. 22, “After the Burial”, ref p. 509, ¶165 (B06-C022-P0165)](../../build/reader/book-06.html#B06-C022-P0165)
+- [Book 6, ch. 22, “After the Burial”, ref p. 511, ¶175 (B06-C022-P0175)](../../build/reader/book-06.html#B06-C022-P0175)
+- [Book 6, ch. 22, “After the Burial”, ref p. 511, ¶180 (B06-C022-P0180)](../../build/reader/book-06.html#B06-C022-P0180)
+- [Book 6, ch. 22, “After the Burial”, ref p. 512, ¶189 (B06-C022-P0189)](../../build/reader/book-06.html#B06-C022-P0189)
+- [Book 6, ch. 22, “After the Burial”, ref p. 512, ¶195 (B06-C022-P0195)](../../build/reader/book-06.html#B06-C022-P0195)
+- [Book 6, ch. 22, “After the Burial”, ref p. 513, ¶206 (B06-C022-P0206)](../../build/reader/book-06.html#B06-C022-P0206)
+- [Book 6, ch. 22, “After the Burial”, ref p. 514–515, ¶223 (B06-C022-P0223)](../../build/reader/book-06.html#B06-C022-P0223)
+
+## B06-144: Hagrid’s school cupboard for young Aragog
+
+Hagrid recalls keeping Aragog in a cupboard up at the school when the spider was young.
+
+Evidence: reported; state: Hagrid’s student years, recalled spring 1997.
+
+Model: Historical animal-hiding cupboard only; exact room, floor, size and survival are unspecified.
+
+- [Book 6, ch. 22, “After the Burial”, ref p. 509–510, ¶166 (B06-C022-P0166)](../../build/reader/book-06.html#B06-C022-P0166)
+- [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶168 (B06-C022-P0168)](../../build/reader/book-06.html#B06-C022-P0168)
+- [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶169 (B06-C022-P0169)](../../build/reader/book-06.html#B06-C022-P0169)
+
+## B06-143: Hagrid ceiling-hung equipment
+
+Several brass pots and a long silky skein of bright white unicorn hair hang from the ceiling. Hagrid says Forest branches catch the hair from unicorn tails and he uses it to bind bandages; later he gives the whole tail to Slughorn.
+
+Evidence: explicit; state: Apparition-test day, spring 1997.
+
+Model: Observed overhead storage with material/colour; unicorn occurrence and collection method are reported. Hair is removed during this scene, so do not retain it as a permanent post-funeral fixture.
+
+- [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶168 (B06-C022-P0168)](../../build/reader/book-06.html#B06-C022-P0168)
+- [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶169 (B06-C022-P0169)](../../build/reader/book-06.html#B06-C022-P0169)
+- [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶170 (B06-C022-P0170)](../../build/reader/book-06.html#B06-C022-P0170)
+- [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶171 (B06-C022-P0171)](../../build/reader/book-06.html#B06-C022-P0171)
+- [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶172 (B06-C022-P0172)](../../build/reader/book-06.html#B06-C022-P0172)
+- [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶173 (B06-C022-P0173)](../../build/reader/book-06.html#B06-C022-P0173)
+- [Book 6, ch. 22, “After the Burial”, ref p. 510–511, ¶174 (B06-C022-P0174)](../../build/reader/book-06.html#B06-C022-P0174)
+- [Book 6, ch. 22, “After the Burial”, ref p. 511, ¶179 (B06-C022-P0179)](../../build/reader/book-06.html#B06-C022-P0179)
+
+## B06-189: Hagrid cabin fire and extinguishing
+
+Incendio ignites Hagrid’s wooden house, throwing orange light across the grounds and the nearby fight. Fang is trapped inside until Hagrid carries him out. Harry and Hagrid extinguish the flames with water jets, leaving a smoking wreck smelling of burnt wood and dog hair.
+
+Evidence: explicit; state: Night of tower attack, June 1997.
+
+Model: Dated major cabin damage, not demonstrated total destruction or reconstruction. Hagrid believes injured Bowtruckles inside have burned; their fate is not inspected. No proof all previous fixtures survive.
+
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 634, ¶32 (B06-C028-P0032)](../../build/reader/book-06.html#B06-C028-P0032)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 634, ¶33 (B06-C028-P0033)](../../build/reader/book-06.html#B06-C028-P0033)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 634–635, ¶34 (B06-C028-P0034)](../../build/reader/book-06.html#B06-C028-P0034)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 635, ¶35 (B06-C028-P0035)](../../build/reader/book-06.html#B06-C028-P0035)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 636, ¶46 (B06-C028-P0046)](../../build/reader/book-06.html#B06-C028-P0046)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 636, ¶47 (B06-C028-P0047)](../../build/reader/book-06.html#B06-C028-P0047)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 637, ¶51 (B06-C028-P0051)](../../build/reader/book-06.html#B06-C028-P0051)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 637–638, ¶55 (B06-C028-P0055)](../../build/reader/book-06.html#B06-C028-P0055)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 638, ¶57 (B06-C028-P0057)](../../build/reader/book-06.html#B06-C028-P0057)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 638, ¶61 (B06-C028-P0061)](../../build/reader/book-06.html#B06-C028-P0061)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 638, ¶62 (B06-C028-P0062)](../../build/reader/book-06.html#B06-C028-P0062)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 638, ¶63 (B06-C028-P0063)](../../build/reader/book-06.html#B06-C028-P0063)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 638–639, ¶64 (B06-C028-P0064)](../../build/reader/book-06.html#B06-C028-P0064)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 639, ¶67 (B06-C028-P0067)](../../build/reader/book-06.html#B06-C028-P0067)
+

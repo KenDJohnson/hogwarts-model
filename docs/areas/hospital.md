@@ -434,3 +434,22 @@ Model: Route passes seventh floor, but the hospital’s own floor is not explici
 - [Book 6, ch. 20, “Lord Voldemort’s Request”, ref p. 444, ¶27 (B06-C020-P0027)](../../build/reader/book-06.html#B06-C020-P0027)
 - [Book 6, ch. 20, “Lord Voldemort’s Request”, ref p. 444, ¶28 (B06-C020-P0028)](../../build/reader/book-06.html#B06-C020-P0028)
 
+## B06-191: Front lawn–hospital route and ward bed positions
+
+Ginny leads Harry up the front steps, across the ruby-strewn Entrance Hall towards the marble staircase, then to the hospital wing. Neville lies in a bed near the ward doors and Bill in another near the far end, with chairs around it.
+
+Evidence: explicit; state: Night after tower attack, June 1997.
+
+Model: Ward longitudinal relationship from entrance to far bed; no exact bed count or absolute floor. Pomfrey conjures an extra chair, so visitor furniture can change.
+
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 643, ¶6 (B06-C029-P0006)](../../build/reader/book-06.html#B06-C029-P0006)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 643, ¶7 (B06-C029-P0007)](../../build/reader/book-06.html#B06-C029-P0007)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 643–644, ¶9 (B06-C029-P0009)](../../build/reader/book-06.html#B06-C029-P0009)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 644–645, ¶20 (B06-C029-P0020)](../../build/reader/book-06.html#B06-C029-P0020)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 645, ¶23 (B06-C029-P0023)](../../build/reader/book-06.html#B06-C029-P0023)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 646, ¶31 (B06-C029-P0031)](../../build/reader/book-06.html#B06-C029-P0031)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 647, ¶38 (B06-C029-P0038)](../../build/reader/book-06.html#B06-C029-P0038)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 647, ¶41 (B06-C029-P0041)](../../build/reader/book-06.html#B06-C029-P0041)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 654, ¶85 (B06-C029-P0085)](../../build/reader/book-06.html#B06-C029-P0085)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 655, ¶88 (B06-C029-P0088)](../../build/reader/book-06.html#B06-C029-P0088)
+

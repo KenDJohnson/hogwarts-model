@@ -271,3 +271,18 @@ Model: Artificial corridor lighting and dated access credential; no exact floors
 - [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 321, ¶43 (B06-C015-P0043)](../../build/reader/book-06.html#B06-C015-P0043)
 - [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 321, ¶44 (B06-C015-P0044)](../../build/reader/book-06.html#B06-C015-P0044)
 
+## B06-163: Library newspaper archive
+
+Hermione reports a whole collection of old Daily Prophets in the library, from which she obtains Eileen Prince’s school photograph and news item.
+
+Evidence: reported; state: Early June 1997.
+
+Model: Archival collection, not evidence of where within the library it is shelved; proposed Potions-award search is not confirmation of a physical display.
+
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 565, ¶23 (B06-C025-P0023)](../../build/reader/book-06.html#B06-C025-P0023)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 565–566, ¶24 (B06-C025-P0024)](../../build/reader/book-06.html#B06-C025-P0024)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 566, ¶25 (B06-C025-P0025)](../../build/reader/book-06.html#B06-C025-P0025)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 566–567, ¶36 (B06-C025-P0036)](../../build/reader/book-06.html#B06-C025-P0036)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 567, ¶37 (B06-C025-P0037)](../../build/reader/book-06.html#B06-C025-P0037)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 567, ¶39 (B06-C025-P0039)](../../build/reader/book-06.html#B06-C025-P0039)
+

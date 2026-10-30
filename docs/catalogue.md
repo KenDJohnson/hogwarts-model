@@ -1,6 +1,6 @@
 # Hogwarts description catalogue
 
-715 reviewed description records. Reading ledger: 19,036/38,426 paragraphs.
+794 reviewed description records. Reading ledger: 20,723/38,426 paragraphs.
 
 All pages below are **project reference pages (ref250-v1, 250 words)**, not print pages. Book titles and exact source paths are in the machine-readable catalogue. Rebuild the local reader to open source-text links.
 
@@ -8744,7 +8744,7 @@ Zonko’s is boarded up on this visit, while Honeydukes is open and crowded. The
 The pub has tables, a bar, and an interior pillar near Harry’s table. Leanne says Katie returned from its bathroom carrying a parcel; the text explicitly leaves open whether she received it inside the bathroom.
 
 - Category: interior; evidence: explicit; state: Mid-October 1996 Hogsmeade day.
-- Model: Limited village interior context tied to the attempted castle delivery; no bathroom floor level or adjacency is established.
+- Model: Limited village interior context tied to the attempted castle delivery; no bathroom floor level or adjacency is established. Katie later remembers pushing the ladies’ door open, but a person behind it is her deduction, not a recovered observation.
 - [Book 6, ch. 12, “Silver and Opals”, ref p. 255, ¶95 (B06-C012-P0095)](../build/reader/book-06.html#B06-C012-P0095)
 - [Book 6, ch. 12, “Silver and Opals”, ref p. 256, ¶97 (B06-C012-P0097)](../build/reader/book-06.html#B06-C012-P0097)
 - [Book 6, ch. 12, “Silver and Opals”, ref p. 256, ¶101 (B06-C012-P0101)](../build/reader/book-06.html#B06-C012-P0101)
@@ -8753,6 +8753,9 @@ The pub has tables, a bar, and an interior pillar near Harry’s table. Leanne s
 - [Book 6, ch. 12, “Silver and Opals”, ref p. 261, ¶142 (B06-C012-P0142)](../build/reader/book-06.html#B06-C012-P0142)
 - [Book 6, ch. 12, “Silver and Opals”, ref p. 261, ¶143 (B06-C012-P0143)](../build/reader/book-06.html#B06-C012-P0143)
 - [Book 6, ch. 12, “Silver and Opals”, ref p. 262, ¶151 (B06-C012-P0151)](../build/reader/book-06.html#B06-C012-P0151)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 542, ¶37 (B06-C024-P0037)](../build/reader/book-06.html#B06-C024-P0037)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 542–543, ¶38 (B06-C024-P0038)](../build/reader/book-06.html#B06-C024-P0038)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 543, ¶39 (B06-C024-P0039)](../build/reader/book-06.html#B06-C024-P0039)
 
 <a id="b06-058"></a>
 ### B06-058 · Entrance Hall–McGonagall office
@@ -9236,12 +9239,16 @@ Dumbledore reports that Riddle searched shields in the trophy room and prefect l
 In the recollection, Slughorn sits in a comfortable winged armchair with his feet on a velvet pouffe, holding wine and crystallised pineapple. Half a dozen teenage boys sit around him on harder or lower seats. A small golden clock on the desk chimes eleven; Slughorn carries his glass to the desk as the boys leave.
 
 - Category: history; evidence: explicit; state: Riddle’s teenage school years, memory viewed January 1997.
-- Model: The supplied memory is explicitly tampered with (P0198–P0202). Preserve this historical view as provisional; white fog and abrupt sound changes are memory alteration artefacts, not actual office fixtures or weather.
+- Model: The first view in chapter 17 is tampered with; the later genuine memory repeats and supports these furnishings. White fog in the earlier version is a memory-edit artefact, not physical office atmosphere. The clock stands on the desk behind Slughorn’s chair.
 - [Book 6, ch. 17, “A Sluggish Memory”, ref p. 385–386, ¶178 (B06-C017-P0178)](../build/reader/book-06.html#B06-C017-P0178)
 - [Book 6, ch. 17, “A Sluggish Memory”, ref p. 386, ¶179 (B06-C017-P0179)](../build/reader/book-06.html#B06-C017-P0179)
 - [Book 6, ch. 17, “A Sluggish Memory”, ref p. 387, ¶185 (B06-C017-P0185)](../build/reader/book-06.html#B06-C017-P0185)
 - [Book 6, ch. 17, “A Sluggish Memory”, ref p. 387, ¶186 (B06-C017-P0186)](../build/reader/book-06.html#B06-C017-P0186)
 - [Book 6, ch. 17, “A Sluggish Memory”, ref p. 387, ¶187 (B06-C017-P0187)](../build/reader/book-06.html#B06-C017-P0187)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 518, ¶26 (B06-C023-P0026)](../build/reader/book-06.html#B06-C023-P0026)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 518, ¶27 (B06-C023-P0027)](../build/reader/book-06.html#B06-C023-P0027)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 519, ¶38 (B06-C023-P0038)](../build/reader/book-06.html#B06-C023-P0038)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 519, ¶40 (B06-C023-P0040)](../build/reader/book-06.html#B06-C023-P0040)
 
 <a id="b06-099"></a>
 ### B06-099 · Snowy courtyard
@@ -9643,7 +9650,7 @@ Harry says he has never seen the Room on the Marauder’s Map. Hermione suggests
 <a id="b06-126"></a>
 ### B06-126 · Room of Requirement access denial
 
-Harry walks past three times concentrating on several requests to see what Draco is doing; no door appears. The exposed stone is solid under a push and later a kick, and repeated attempts over an hour and on another visit fail.
+Harry walks past three times concentrating on several requests to see what Draco is doing; no door appears. The exposed stone is solid under a push and later a kick, and repeated attempts over an hour and on another visit fail. Later attempts with reworded requests likewise leave the wall doorless.
 
 - Category: magic; evidence: explicit; state: March–early April 1997.
 - Model: Observed request-dependent denial. Dobby says entry is impossible, while Hermione proposes that knowing the exact required room is necessary; those interpretations are not a universal proven access algorithm.
@@ -9661,14 +9668,15 @@ Harry walks past three times concentrating on several requests to see what Draco
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 488, ¶154 (B06-C021-P0154)](../build/reader/book-06.html#B06-C021-P0154)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 488, ¶155 (B06-C021-P0155)](../build/reader/book-06.html#B06-C021-P0155)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 489–490, ¶173 (B06-C021-P0173)](../build/reader/book-06.html#B06-C021-P0173)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 547–548, ¶59 (B06-C024-P0059)](../build/reader/book-06.html#B06-C024-P0059)
 
 <a id="b06-130"></a>
 ### B06-130 · Boys’ bathroom visited by Myrtle
 
-An old tiled boys’ bathroom contains a cracked mirror and toilets in cubicles behind the boys. Myrtle rises from one toilet, floats in midair, is visible in the mirror, and dives back in, splashing water onto the floor; voices echo.
+An old tiled boys’ bathroom contains a cracked mirror and toilets in cubicles behind the boys. Myrtle rises from one toilet, floats in midair, is visible in the mirror, and dives back in, splashing water onto the floor; voices echo. A later report says Myrtle has appeared in bathrooms throughout the castle to spread news of Draco’s injury.
 
 - Category: interior; evidence: explicit; state: March–early April 1997.
-- Model: Fixture relationships and acoustics; no floor identified in this scene. Myrtle says she lives in a different girls’ bathroom but can visit other places, so this is not her usual bathroom.
+- Model: Fixture relationships and acoustics; no floor identified in this scene. Myrtle says she lives in a different girls’ bathroom but can visit other places, so this is not her usual bathroom. The later movement is qualified as apparent/report-based; do not interpret every bathroom as a surveyed list of fixed ghost portals.
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 483–484, ¶125 (B06-C021-P0125)](../build/reader/book-06.html#B06-C021-P0125)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 484, ¶126 (B06-C021-P0126)](../build/reader/book-06.html#B06-C021-P0126)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 484, ¶127 (B06-C021-P0127)](../build/reader/book-06.html#B06-C021-P0127)
@@ -9679,6 +9687,7 @@ An old tiled boys’ bathroom contains a cracked mirror and toilets in cubicles 
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 485, ¶136 (B06-C021-P0136)](../build/reader/book-06.html#B06-C021-P0136)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 485, ¶138 (B06-C021-P0138)](../build/reader/book-06.html#B06-C021-P0138)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 485, ¶142 (B06-C021-P0142)](../build/reader/book-06.html#B06-C021-P0142)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 556–557, ¶128 (B06-C024-P0128)](../build/reader/book-06.html#B06-C024-P0128)
 
 <a id="b06-131"></a>
 ### B06-131 · Slughorn office gramophone sound
@@ -9710,6 +9719,1055 @@ Harry tells Tonks that Dumbledore’s office is around the other side of the cas
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 489, ¶159 (B06-C021-P0159)](../build/reader/book-06.html#B06-C021-P0159)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 489, ¶161 (B06-C021-P0161)](../build/reader/book-06.html#B06-C021-P0161)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 489, ¶162 (B06-C021-P0162)](../build/reader/book-06.html#B06-C021-P0162)
+
+<a id="b06-134"></a>
+### B06-134 · Castle turrets, courtyard and bell
+
+Blue sky appears over castle turrets. The courtyard has a sunny corner where pupils sit; a bell sounds overhead in the castle and pupils head from there towards the Entrance Hall.
+
+- Category: exterior; evidence: explicit; state: Apparition-test day, spring 1997.
+- Model: Turreted silhouette, courtyard corner and audible school bell; do not infer an explicitly visible bell tower.
+- [Book 6, ch. 22, “After the Burial”, ref p. 492, ¶1 (B06-C022-P0001)](../build/reader/book-06.html#B06-C022-P0001)
+- [Book 6, ch. 22, “After the Burial”, ref p. 492, ¶3 (B06-C022-P0003)](../build/reader/book-06.html#B06-C022-P0003)
+- [Book 6, ch. 22, “After the Burial”, ref p. 495, ¶38 (B06-C022-P0038)](../build/reader/book-06.html#B06-C022-P0038)
+- [Book 6, ch. 22, “After the Burial”, ref p. 496, ¶50 (B06-C022-P0050)](../build/reader/book-06.html#B06-C022-P0050)
+- [Book 6, ch. 22, “After the Burial”, ref p. 496, ¶51 (B06-C022-P0051)](../build/reader/book-06.html#B06-C022-P0051)
+- [Book 6, ch. 22, “After the Burial”, ref p. 496, ¶52 (B06-C022-P0052)](../build/reader/book-06.html#B06-C022-P0052)
+
+<a id="b06-135"></a>
+### B06-135 · Gryffindor common-room sunset view
+
+While waiting in the common room, the group judges the time as the sun sinks to the Forbidden Forest treetops, then goes up to the boys’ dormitory; Harry returns down the stairs and through the open doorway into the common room.
+
+- Category: route; evidence: explicit; state: Apparition-test day, spring 1997.
+- Model: Narrative sunset sight context from the common-room scene; no window position is specified, so bearing remains unresolved.
+- [Book 6, ch. 22, “After the Burial”, ref p. 499–500, ¶85 (B06-C022-P0085)](../build/reader/book-06.html#B06-C022-P0085)
+- [Book 6, ch. 22, “After the Burial”, ref p. 500, ¶86 (B06-C022-P0086)](../build/reader/book-06.html#B06-C022-P0086)
+- [Book 6, ch. 22, “After the Burial”, ref p. 501, ¶102 (B06-C022-P0102)](../build/reader/book-06.html#B06-C022-P0102)
+- [Book 6, ch. 22, “After the Burial”, ref p. 501, ¶103 (B06-C022-P0103)](../build/reader/book-06.html#B06-C022-P0103)
+
+<a id="b06-136"></a>
+### B06-136 · Front-door evening security lapse
+
+Harry reaches the Entrance Hall and finds the front door unlocked, opens it, smells fresh air and grass, and walks down the front steps into dusk.
+
+- Category: temporary; evidence: explicit; state: Apparition-test day, spring 1997.
+- Model: A lapse in the intended evening lock, not permanent unrestricted exit. Slughorn confirms concern about security.
+- [Book 6, ch. 22, “After the Burial”, ref p. 501–502, ¶107 (B06-C022-P0107)](../build/reader/book-06.html#B06-C022-P0107)
+- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶115 (B06-C022-P0115)](../build/reader/book-06.html#B06-C022-P0115)
+- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶116 (B06-C022-P0116)](../build/reader/book-06.html#B06-C022-P0116)
+- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶117 (B06-C022-P0117)](../build/reader/book-06.html#B06-C022-P0117)
+
+<a id="b06-137"></a>
+### B06-137 · Front steps–vegetable patch–Hagrid route
+
+At the bottom of the castle steps Harry chooses to go past the vegetable patch, which is not strictly on the route to Hagrid’s. He hides behind a low stone wall there. Sprout later walks towards her greenhouses, while Slughorn can look towards the black Forest and distant cabin lights.
+
+- Category: route; evidence: explicit; state: Apparition-test day, spring 1997.
+- Model: Patch is a detour, with a low stone concealment wall and views towards Forest/cabin; no exact plot boundary or compass orientation supplied.
+- [Book 6, ch. 22, “After the Burial”, ref p. 502, ¶108 (B06-C022-P0108)](../build/reader/book-06.html#B06-C022-P0108)
+- [Book 6, ch. 22, “After the Burial”, ref p. 502–503, ¶111 (B06-C022-P0111)](../build/reader/book-06.html#B06-C022-P0111)
+- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶112 (B06-C022-P0112)](../build/reader/book-06.html#B06-C022-P0112)
+- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶122 (B06-C022-P0122)](../build/reader/book-06.html#B06-C022-P0122)
+- [Book 6, ch. 22, “After the Burial”, ref p. 504, ¶124 (B06-C022-P0124)](../build/reader/book-06.html#B06-C022-P0124)
+- [Book 6, ch. 22, “After the Burial”, ref p. 504, ¶129 (B06-C022-P0129)](../build/reader/book-06.html#B06-C022-P0129)
+- [Book 6, ch. 22, “After the Burial”, ref p. 504–505, ¶130 (B06-C022-P0130)](../build/reader/book-06.html#B06-C022-P0130)
+
+<a id="b06-138"></a>
+### B06-138 · Forest spider colony after Aragog’s death
+
+Hagrid reports that after Aragog dies the other spiders no longer let him near their webs and would eat him; extracting the body is difficult because the colony normally eats its dead.
+
+- Category: grounds; evidence: reported; state: Apparition-test day, spring 1997.
+- Model: Changed access danger and web habitat; no magical barrier or precise colony location added.
+- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶121 (B06-C022-P0121)](../build/reader/book-06.html#B06-C022-P0121)
+- [Book 6, ch. 22, “After the Burial”, ref p. 503–504, ¶123 (B06-C022-P0123)](../build/reader/book-06.html#B06-C022-P0123)
+- [Book 6, ch. 22, “After the Burial”, ref p. 505, ¶135 (B06-C022-P0135)](../build/reader/book-06.html#B06-C022-P0135)
+- [Book 6, ch. 22, “After the Burial”, ref p. 505, ¶136 (B06-C022-P0136)](../build/reader/book-06.html#B06-C022-P0136)
+- [Book 6, ch. 22, “After the Burial”, ref p. 505, ¶137 (B06-C022-P0137)](../build/reader/book-06.html#B06-C022-P0137)
+- [Book 6, ch. 22, “After the Burial”, ref p. 505, ¶138 (B06-C022-P0138)](../build/reader/book-06.html#B06-C022-P0138)
+
+<a id="b06-139"></a>
+### B06-139 · Hagrid rear window and back garden
+
+A rear window of the hut looks onto the garden behind it, where Aragog’s enormous body lies on its back with legs curled. The burial site is beyond the pumpkin patch.
+
+- Category: interior; evidence: explicit; state: Apparition-test day, spring 1997.
+- Model: Front/rear distinction, window view and patch-to-grave relationship. No extra rear door is explicitly described despite the group stepping out into the back garden.
+- [Book 6, ch. 22, “After the Burial”, ref p. 506, ¶143 (B06-C022-P0143)](../build/reader/book-06.html#B06-C022-P0143)
+- [Book 6, ch. 22, “After the Burial”, ref p. 506, ¶144 (B06-C022-P0144)](../build/reader/book-06.html#B06-C022-P0144)
+- [Book 6, ch. 22, “After the Burial”, ref p. 506–507, ¶145 (B06-C022-P0145)](../build/reader/book-06.html#B06-C022-P0145)
+- [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶150 (B06-C022-P0150)](../build/reader/book-06.html#B06-C022-P0150)
+- [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶151 (B06-C022-P0151)](../build/reader/book-06.html#B06-C022-P0151)
+
+<a id="b06-140"></a>
+### B06-140 · Aragog grave and earth mound
+
+A massive pit in the back garden lies beside a ten-foot-high heap of excavated earth. Moonlight through trees mingles with light from the hut window to illuminate the body at the pit edge. Hagrid rolls Aragog in; Slughorn levitates the earth over it, leaving a smooth mound.
+
+- Category: temporary; evidence: explicit; state: Apparition-test day, spring 1997.
+- Model: Ten feet describes spoil-heap height, not grave depth. Record the filled grave as the resulting terrain feature and the open pit as the funeral state.
+- [Book 6, ch. 22, “After the Burial”, ref p. 506–507, ¶145 (B06-C022-P0145)](../build/reader/book-06.html#B06-C022-P0145)
+- [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶151 (B06-C022-P0151)](../build/reader/book-06.html#B06-C022-P0151)
+- [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶152 (B06-C022-P0152)](../build/reader/book-06.html#B06-C022-P0152)
+- [Book 6, ch. 22, “After the Burial”, ref p. 508, ¶155 (B06-C022-P0155)](../build/reader/book-06.html#B06-C022-P0155)
+- [Book 6, ch. 22, “After the Burial”, ref p. 508, ¶157 (B06-C022-P0157)](../build/reader/book-06.html#B06-C022-P0157)
+- [Book 6, ch. 22, “After the Burial”, ref p. 508–509, ¶159 (B06-C022-P0159)](../build/reader/book-06.html#B06-C022-P0159)
+
+<a id="b06-141"></a>
+### B06-141 · Hagrid garden compost heap
+
+A compost heap stands near enough to the open grave for Hagrid to collapse onto it during the funeral.
+
+- Category: grounds; evidence: explicit; state: Apparition-test day, spring 1997.
+- Model: Garden feature adjacent to burial activity without precise spacing.
+- [Book 6, ch. 22, “After the Burial”, ref p. 508, ¶157 (B06-C022-P0157)](../build/reader/book-06.html#B06-C022-P0157)
+- [Book 6, ch. 22, “After the Burial”, ref p. 508, ¶158 (B06-C022-P0158)](../build/reader/book-06.html#B06-C022-P0158)
+- [Book 6, ch. 22, “After the Burial”, ref p. 508–509, ¶159 (B06-C022-P0159)](../build/reader/book-06.html#B06-C022-P0159)
+
+<a id="b06-142"></a>
+### B06-142 · Hagrid cabin dog basket and candle
+
+Fang has a basket inside the cabin. People sit at the table with bucket-sized mugs; a candle between Harry and Slughorn flickers in Hagrid’s snores and later gutters.
+
+- Category: furnishing; evidence: explicit; state: Apparition-test day, spring 1997.
+- Model: Additional dog furniture, table arrangement and candle lighting; wine bottles are movable funeral gathering supplies.
+- [Book 6, ch. 22, “After the Burial”, ref p. 509, ¶160 (B06-C022-P0160)](../build/reader/book-06.html#B06-C022-P0160)
+- [Book 6, ch. 22, “After the Burial”, ref p. 509, ¶161 (B06-C022-P0161)](../build/reader/book-06.html#B06-C022-P0161)
+- [Book 6, ch. 22, “After the Burial”, ref p. 509, ¶163 (B06-C022-P0163)](../build/reader/book-06.html#B06-C022-P0163)
+- [Book 6, ch. 22, “After the Burial”, ref p. 509, ¶165 (B06-C022-P0165)](../build/reader/book-06.html#B06-C022-P0165)
+- [Book 6, ch. 22, “After the Burial”, ref p. 511, ¶175 (B06-C022-P0175)](../build/reader/book-06.html#B06-C022-P0175)
+- [Book 6, ch. 22, “After the Burial”, ref p. 511, ¶180 (B06-C022-P0180)](../build/reader/book-06.html#B06-C022-P0180)
+- [Book 6, ch. 22, “After the Burial”, ref p. 512, ¶189 (B06-C022-P0189)](../build/reader/book-06.html#B06-C022-P0189)
+- [Book 6, ch. 22, “After the Burial”, ref p. 512, ¶195 (B06-C022-P0195)](../build/reader/book-06.html#B06-C022-P0195)
+- [Book 6, ch. 22, “After the Burial”, ref p. 513, ¶206 (B06-C022-P0206)](../build/reader/book-06.html#B06-C022-P0206)
+- [Book 6, ch. 22, “After the Burial”, ref p. 514–515, ¶223 (B06-C022-P0223)](../build/reader/book-06.html#B06-C022-P0223)
+
+<a id="b06-144"></a>
+### B06-144 · Hagrid’s school cupboard for young Aragog
+
+Hagrid recalls keeping Aragog in a cupboard up at the school when the spider was young.
+
+- Category: history; evidence: reported; state: Hagrid’s student years, recalled spring 1997.
+- Model: Historical animal-hiding cupboard only; exact room, floor, size and survival are unspecified.
+- [Book 6, ch. 22, “After the Burial”, ref p. 509–510, ¶166 (B06-C022-P0166)](../build/reader/book-06.html#B06-C022-P0166)
+- [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶168 (B06-C022-P0168)](../build/reader/book-06.html#B06-C022-P0168)
+- [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶169 (B06-C022-P0169)](../build/reader/book-06.html#B06-C022-P0169)
+
+<a id="b06-143"></a>
+### B06-143 · Hagrid ceiling-hung equipment
+
+Several brass pots and a long silky skein of bright white unicorn hair hang from the ceiling. Hagrid says Forest branches catch the hair from unicorn tails and he uses it to bind bandages; later he gives the whole tail to Slughorn.
+
+- Category: furnishing; evidence: explicit; state: Apparition-test day, spring 1997.
+- Model: Observed overhead storage with material/colour; unicorn occurrence and collection method are reported. Hair is removed during this scene, so do not retain it as a permanent post-funeral fixture.
+- [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶168 (B06-C022-P0168)](../build/reader/book-06.html#B06-C022-P0168)
+- [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶169 (B06-C022-P0169)](../build/reader/book-06.html#B06-C022-P0169)
+- [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶170 (B06-C022-P0170)](../build/reader/book-06.html#B06-C022-P0170)
+- [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶171 (B06-C022-P0171)](../build/reader/book-06.html#B06-C022-P0171)
+- [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶172 (B06-C022-P0172)](../build/reader/book-06.html#B06-C022-P0172)
+- [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶173 (B06-C022-P0173)](../build/reader/book-06.html#B06-C022-P0173)
+- [Book 6, ch. 22, “After the Burial”, ref p. 510–511, ¶174 (B06-C022-P0174)](../build/reader/book-06.html#B06-C022-P0174)
+- [Book 6, ch. 22, “After the Burial”, ref p. 511, ¶179 (B06-C022-P0179)](../build/reader/book-06.html#B06-C022-P0179)
+
+<a id="b06-145"></a>
+### B06-145 · Front door–third-floor shortcut–Gryffindor
+
+The front door remains unlocked on Harry’s return after the burial. On the third floor he dodges Peeves through a sideways shortcut, then climbs higher to the Fat Lady’s portrait and the hard corridor floor outside it.
+
+- Category: route; evidence: explicit; state: After Aragog burial, spring 1997.
+- Model: Third-floor shortcut on upward route; no complete internal shortcut shape or exact travel time.
+- [Book 6, ch. 23, “Horcruxes”, ref p. 515–516, ¶1 (B06-C023-P0001)](../build/reader/book-06.html#B06-C023-P0001)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶7 (B06-C023-P0007)](../build/reader/book-06.html#B06-C023-P0007)
+
+<a id="b06-146"></a>
+### B06-146 · Fat Lady false password-change claim
+
+The Fat Lady initially refuses entry claiming a midnight password change, then admits she lied because Harry woke her. The password is still Tapeworm.
+
+- Category: magic; evidence: explicit; state: After Aragog burial, spring 1997.
+- Model: Do not implement a midnight reset from the retracted claim; this scene demonstrates discretionary refusal by the portrait occupant.
+- [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶4 (B06-C023-P0004)](../build/reader/book-06.html#B06-C023-P0004)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶5 (B06-C023-P0005)](../build/reader/book-06.html#B06-C023-P0005)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶6 (B06-C023-P0006)](../build/reader/book-06.html#B06-C023-P0006)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 516–517, ¶15 (B06-C023-P0015)](../build/reader/book-06.html#B06-C023-P0015)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 517, ¶16 (B06-C023-P0016)](../build/reader/book-06.html#B06-C023-P0016)
+
+<a id="b06-147"></a>
+### B06-147 · Astronomy Tower ghost sounds
+
+Nearly Headless Nick says the Bloody Baron is groaning and clanking up on the Astronomy Tower, a favourite activity.
+
+- Category: interior; evidence: reported; state: After Aragog burial, spring 1997.
+- Model: Tower occupancy/sound report, without layout or certainty that sounds are heard at the portrait corridor.
+- [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶10 (B06-C023-P0010)](../build/reader/book-06.html#B06-C023-P0010)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶11 (B06-C023-P0011)](../build/reader/book-06.html#B06-C023-P0011)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶12 (B06-C023-P0012)](../build/reader/book-06.html#B06-C023-P0012)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶13 (B06-C023-P0013)](../build/reader/book-06.html#B06-C023-P0013)
+
+<a id="b06-148"></a>
+### B06-148 · Headmaster office listening portraits
+
+Every portrait around the office walls is awake and listening; one depicts a fat red-nosed wizard who uses an ear trumpet.
+
+- Category: furnishing; evidence: explicit; state: After Aragog burial, spring 1997.
+- Model: Additional portrait subject/prop and animated reaction, not a real ear trumpet lying in the room.
+- [Book 6, ch. 23, “Horcruxes”, ref p. 523, ¶78 (B06-C023-P0078)](../build/reader/book-06.html#B06-C023-P0078)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 527–528, ¶96 (B06-C023-P0096)](../build/reader/book-06.html#B06-C023-P0096)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 533, ¶130 (B06-C023-P0130)](../build/reader/book-06.html#B06-C023-P0130)
+
+<a id="b06-149"></a>
+### B06-149 · Gryffindor sword display behind Headmaster
+
+A ruby-encrusted sword rests in a glass case on the wall behind Dumbledore; he identifies it as the surviving known Gryffindor relic.
+
+- Category: furnishing; evidence: explicit; state: After Aragog burial, spring 1997.
+- Model: Observed wall position, glass enclosure and jewelled sword. Provenance is Dumbledore’s statement; no case dimensions supplied.
+- [Book 6, ch. 23, “Horcruxes”, ref p. 530, ¶112 (B06-C023-P0112)](../build/reader/book-06.html#B06-C023-P0112)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 530–531, ¶113 (B06-C023-P0113)](../build/reader/book-06.html#B06-C023-P0113)
+
+<a id="b06-150"></a>
+### B06-150 · Charms classroom accidental snowfall
+
+Ron’s misdirected wand makes large fake snowflakes fall from the classroom ceiling onto nearby pupils. They work at neighbouring tables with glass flasks; Flitwick shelters under a table when a flask explodes.
+
+- Category: temporary; evidence: explicit; state: Morning after Aragog burial, spring 1997.
+- Model: Lesson-specific spell effect and work furniture; not weather penetrating the castle.
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 539, ¶2 (B06-C024-P0002)](../build/reader/book-06.html#B06-C024-P0002)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 539–540, ¶3 (B06-C024-P0003)](../build/reader/book-06.html#B06-C024-P0003)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 540, ¶4 (B06-C024-P0004)](../build/reader/book-06.html#B06-C024-P0004)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 540, ¶5 (B06-C024-P0005)](../build/reader/book-06.html#B06-C024-P0005)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 541, ¶17 (B06-C024-P0017)](../build/reader/book-06.html#B06-C024-P0017)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 541, ¶19 (B06-C024-P0019)](../build/reader/book-06.html#B06-C024-P0019)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 541, ¶20 (B06-C024-P0020)](../build/reader/book-06.html#B06-C024-P0020)
+
+<a id="b06-151"></a>
+### B06-151 · Gryffindor common-room window table
+
+The common room is sunny and contains a table at a window where the trio sit to talk.
+
+- Category: furnishing; evidence: explicit; state: Spring 1997.
+- Model: Table-window relationship; no bearing or proof this is the same table used on previous occasions.
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 542, ¶31 (B06-C024-P0031)](../build/reader/book-06.html#B06-C024-P0031)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 543, ¶40 (B06-C024-P0040)](../build/reader/book-06.html#B06-C024-P0040)
+
+<a id="b06-152"></a>
+### B06-152 · Sixth-floor boys’ bathroom approach
+
+From a seventh-floor detour Harry sees Draco’s Map dot in a boys’ bathroom one floor below. After colliding with a suit of armour, he runs down a marble staircase and along the lower passage to the bathroom door; he later returns there from the Room’s seventh-floor corridor.
+
+- Category: route; evidence: explicit; state: May 1997.
+- Model: Bathroom is on the floor below seventh, thus sixth in this numbering. The text calls this staircase marble; retain that statement without silently equating it with the Entrance Hall’s principal marble staircase.
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 548, ¶60 (B06-C024-P0060)](../build/reader/book-06.html#B06-C024-P0060)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 548–549, ¶61 (B06-C024-P0061)](../build/reader/book-06.html#B06-C024-P0061)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 553, ¶100 (B06-C024-P0100)](../build/reader/book-06.html#B06-C024-P0100)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 553, ¶101 (B06-C024-P0101)](../build/reader/book-06.html#B06-C024-P0101)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 555, ¶106 (B06-C024-P0106)](../build/reader/book-06.html#B06-C024-P0106)
+
+<a id="b06-153"></a>
+### B06-153 · Boys’ bathroom sink, mirror and fixtures
+
+A grimy sink basin faces a cracked mirror in which Draco sees Harry standing behind him near the door. The tiled bathroom has toilet cubicles, a wall lamp beside Harry and a bin behind him; a cistern is beneath Myrtle’s hovering position.
+
+- Category: interior; evidence: explicit; state: May 1997.
+- Model: Fixture/view relationships and reverberation. Repeated cracked mirror and Myrtle connect this scene with chapter 21’s bathroom; no exact room dimensions.
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 549, ¶62 (B06-C024-P0062)](../build/reader/book-06.html#B06-C024-P0062)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 549, ¶63 (B06-C024-P0063)](../build/reader/book-06.html#B06-C024-P0063)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 549, ¶65 (B06-C024-P0065)](../build/reader/book-06.html#B06-C024-P0065)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 549, ¶66 (B06-C024-P0066)](../build/reader/book-06.html#B06-C024-P0066)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 549, ¶67 (B06-C024-P0067)](../build/reader/book-06.html#B06-C024-P0067)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 549–550, ¶68 (B06-C024-P0068)](../build/reader/book-06.html#B06-C024-P0068)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 551, ¶82 (B06-C024-P0082)](../build/reader/book-06.html#B06-C024-P0082)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 551, ¶83 (B06-C024-P0083)](../build/reader/book-06.html#B06-C024-P0083)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 556, ¶125 (B06-C024-P0125)](../build/reader/book-06.html#B06-C024-P0125)
+
+<a id="b06-154"></a>
+### B06-154 · Boys’ bathroom duel damage and flooding
+
+A missed hex shatters the wall lamp, another blast explodes the bin, and a rebounding spell smashes a toilet cistern. Water floods the tiled floor, makes it slippery and mixes with Draco’s blood. The room remains wrecked and soaked when Snape questions Harry.
+
+- Category: temporary; evidence: explicit; state: May 1997.
+- Model: Dated damaged fixture and floor state; no subsequent repair is narrated here. Injury-related visual shimmer at P0090 is not structural transformation.
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 549, ¶66 (B06-C024-P0066)](../build/reader/book-06.html#B06-C024-P0066)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 549, ¶67 (B06-C024-P0067)](../build/reader/book-06.html#B06-C024-P0067)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 549–550, ¶68 (B06-C024-P0068)](../build/reader/book-06.html#B06-C024-P0068)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 550, ¶69 (B06-C024-P0069)](../build/reader/book-06.html#B06-C024-P0069)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 550, ¶70 (B06-C024-P0070)](../build/reader/book-06.html#B06-C024-P0070)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 550, ¶72 (B06-C024-P0072)](../build/reader/book-06.html#B06-C024-P0072)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 550, ¶74 (B06-C024-P0074)](../build/reader/book-06.html#B06-C024-P0074)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 550, ¶77 (B06-C024-P0077)](../build/reader/book-06.html#B06-C024-P0077)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 551, ¶80 (B06-C024-P0080)](../build/reader/book-06.html#B06-C024-P0080)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 551, ¶81 (B06-C024-P0081)](../build/reader/book-06.html#B06-C024-P0081)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 551, ¶83 (B06-C024-P0083)](../build/reader/book-06.html#B06-C024-P0083)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 552, ¶91 (B06-C024-P0091)](../build/reader/book-06.html#B06-C024-P0091)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 552, ¶93 (B06-C024-P0093)](../build/reader/book-06.html#B06-C024-P0093)
+
+<a id="b06-155"></a>
+### B06-155 · Room of Requirement hiding request and door
+
+Harry walks three times before the blank seventh-floor wall asking for a place to hide his book; a door appears and he enters. On leaving he slams the door and it immediately turns back into stone.
+
+- Category: magic; evidence: explicit; state: May 1997.
+- Model: Successful hiding-room state despite earlier failed requests about Draco. Door concealment is observed; do not infer that all possible users obtain separate inventories.
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 553, ¶100 (B06-C024-P0100)](../build/reader/book-06.html#B06-C024-P0100)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 553, ¶101 (B06-C024-P0101)](../build/reader/book-06.html#B06-C024-P0101)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 553, ¶102 (B06-C024-P0102)](../build/reader/book-06.html#B06-C024-P0102)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 553, ¶103 (B06-C024-P0103)](../build/reader/book-06.html#B06-C024-P0103)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 554–555, ¶105 (B06-C024-P0105)](../build/reader/book-06.html#B06-C024-P0105)
+
+<a id="b06-156"></a>
+### B06-156 · Room of hidden objects volume and light
+
+The room is the size of a large cathedral. High windows send shafts of light over a city-like mass of stored objects, with many alleys and road-like passages between towering piles of damaged furniture and hidden goods.
+
+- Category: interior; evidence: explicit; state: May 1997.
+- Model: Narrated scale analogy and navigable maze of objects, not a literal town or calibrated dimensions. Claimed generations of use and reasons for hiding items are Harry’s interpretation.
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 553–554, ¶104 (B06-C024-P0104)](../build/reader/book-06.html#B06-C024-P0104)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 554–555, ¶105 (B06-C024-P0105)](../build/reader/book-06.html#B06-C024-P0105)
+
+<a id="b06-157"></a>
+### B06-157 · Room of hidden objects contents
+
+The piles contain thousands of books, winged catapults and Fanged Frisbees still hovering weakly, chipped bottles of congealed potions, hats, jewels, cloaks, apparent dragon eggshells, corked bottles with sinister shimmering contents, rusty swords and a heavy bloodstained axe.
+
+- Category: furnishing; evidence: explicit; state: May 1997.
+- Model: Inventory groups and materials/condition for storage ambience. Eggshell identification is tentative; no need to copy thousands of individual carried-object instances.
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 553–554, ¶104 (B06-C024-P0104)](../build/reader/book-06.html#B06-C024-P0104)
+
+<a id="b06-158"></a>
+### B06-158 · Hiding-room route to damaged cupboard
+
+Entering an alley, Harry turns right past an enormous stuffed troll, continues briefly, then turns left at the broken Vanishing Cabinet in which Montague had been lost. He reaches a large cupboard with a blistered, apparently acid-damaged surface.
+
+- Category: route; evidence: explicit; state: May 1997.
+- Model: Exact local turn sequence and landmarks; no corridor lengths or absolute bearings. Acid is Harry’s explanation of visible blistering, not confirmed chemical cause.
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 554–555, ¶105 (B06-C024-P0105)](../build/reader/book-06.html#B06-C024-P0105)
+
+<a id="b06-159"></a>
+### B06-159 · Book-hiding cupboard and assembled marker
+
+The cupboard has creaking doors and contains a cage holding a long-dead five-legged skeleton. Harry hides his book behind the cage, then moves a chipped bust of an ugly old warlock from a nearby crate onto the cupboard and adds a dusty wig and tarnished tiara to its head.
+
+- Category: furnishing; evidence: explicit; state: May 1997.
+- Model: Precise book placement and newly assembled retrieval marker. Tiara’s identity is not supplied here; retain appearance and placement without importing later canon.
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 554–555, ¶105 (B06-C024-P0105)](../build/reader/book-06.html#B06-C024-P0105)
+
+<a id="b06-160"></a>
+### B06-160 · Dungeon office approach and acoustic isolation
+
+During the final match Harry descends stone steps into the dungeons and walks until crowd sounds disappear. Snape’s office remains in the dungeons although his teaching is now floors above. Leaving, Harry climbs the stone steps back towards the Great Hall and then the marble staircase to Gryffindor.
+
+- Category: route; evidence: explicit; state: May 1997.
+- Model: Dated route and loss of distant pitch sound; no proof of purpose-built soundproofing. Separate dungeon stone stairs from subsequent marble ascent.
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 559–560, ¶143 (B06-C024-P0143)](../build/reader/book-06.html#B06-C024-P0143)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 560, ¶144 (B06-C024-P0144)](../build/reader/book-06.html#B06-C024-P0144)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 562, ¶155 (B06-C024-P0155)](../build/reader/book-06.html#B06-C024-P0155)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 562, ¶156 (B06-C024-P0156)](../build/reader/book-06.html#B06-C024-P0156)
+
+<a id="b06-161"></a>
+### B06-161 · Snape dungeon office fixtures and detention files
+
+The dim office has slimy dead specimens suspended in coloured potions around the walls. Cobwebbed boxes of damaged, mouse-chewed or faded punishment record cards are piled on a table where Harry sits to copy them. A large clock ticks on the wall.
+
+- Category: interior; evidence: explicit; state: May 1997.
+- Model: Specimen display, worktable, clock and temporary files. Harry’s suspicion that the clock runs slowly is unverified and should not drive an animation rule.
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 560, ¶144 (B06-C024-P0144)](../build/reader/book-06.html#B06-C024-P0144)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 560, ¶145 (B06-C024-P0145)](../build/reader/book-06.html#B06-C024-P0145)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 560, ¶147 (B06-C024-P0147)](../build/reader/book-06.html#B06-C024-P0147)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 560–561, ¶148 (B06-C024-P0148)](../build/reader/book-06.html#B06-C024-P0148)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 561, ¶149 (B06-C024-P0149)](../build/reader/book-06.html#B06-C024-P0149)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 561, ¶150 (B06-C024-P0150)](../build/reader/book-06.html#B06-C024-P0150)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 561, ¶151 (B06-C024-P0151)](../build/reader/book-06.html#B06-C024-P0151)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 561, ¶152 (B06-C024-P0152)](../build/reader/book-06.html#B06-C024-P0152)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 561, ¶153 (B06-C024-P0153)](../build/reader/book-06.html#B06-C024-P0153)
+
+<a id="b06-162"></a>
+### B06-162 · Gryffindor final-match celebration access
+
+The Fat Lady admits Harry on Quid agis, revealing a noisy common-room celebration. Ron carries a silver championship Cup; around fifty people witness Harry and Ginny’s kiss.
+
+- Category: temporary; evidence: explicit; state: May 1997.
+- Model: Dated password, trophy and crowd occupancy; not a room-capacity figure or permanent trophy display.
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 562, ¶157 (B06-C024-P0157)](../build/reader/book-06.html#B06-C024-P0157)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 562, ¶158 (B06-C024-P0158)](../build/reader/book-06.html#B06-C024-P0158)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 562, ¶159 (B06-C024-P0159)](../build/reader/book-06.html#B06-C024-P0159)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 562, ¶160 (B06-C024-P0160)](../build/reader/book-06.html#B06-C024-P0160)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 562, ¶161 (B06-C024-P0161)](../build/reader/book-06.html#B06-C024-P0161)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 562, ¶162 (B06-C024-P0162)](../build/reader/book-06.html#B06-C024-P0162)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 562–563, ¶163 (B06-C024-P0163)](../build/reader/book-06.html#B06-C024-P0163)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 563, ¶164 (B06-C024-P0164)](../build/reader/book-06.html#B06-C024-P0164)
+
+<a id="b06-163"></a>
+### B06-163 · Library newspaper archive
+
+Hermione reports a whole collection of old Daily Prophets in the library, from which she obtains Eileen Prince’s school photograph and news item.
+
+- Category: furnishing; evidence: reported; state: Early June 1997.
+- Model: Archival collection, not evidence of where within the library it is shelved; proposed Potions-award search is not confirmation of a physical display.
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 565, ¶23 (B06-C025-P0023)](../build/reader/book-06.html#B06-C025-P0023)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 565–566, ¶24 (B06-C025-P0024)](../build/reader/book-06.html#B06-C025-P0024)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 566, ¶25 (B06-C025-P0025)](../build/reader/book-06.html#B06-C025-P0025)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 566–567, ¶36 (B06-C025-P0036)](../build/reader/book-06.html#B06-C025-P0036)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 567, ¶37 (B06-C025-P0037)](../build/reader/book-06.html#B06-C025-P0037)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 567, ¶39 (B06-C025-P0039)](../build/reader/book-06.html#B06-C025-P0039)
+
+<a id="b06-164"></a>
+### B06-164 · Room of Requirement corridor left/right relation
+
+Approaching Trelawney’s fallen position from a nearby corner, Harry sees the dancing-troll tapestry on his right and the smooth stone wall hiding the Room on his left.
+
+- Category: route; evidence: explicit; state: June 1997, departure evening.
+- Model: View-relative sides only; no compass bearing. Corridors are quiet shortly before curfew.
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 568, ¶55 (B06-C025-P0055)](../build/reader/book-06.html#B06-C025-P0055)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 568, ¶56 (B06-C025-P0056)](../build/reader/book-06.html#B06-C025-P0056)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 569, ¶58 (B06-C025-P0058)](../build/reader/book-06.html#B06-C025-P0058)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 569, ¶63 (B06-C025-P0063)](../build/reader/book-06.html#B06-C025-P0063)
+
+<a id="b06-165"></a>
+### B06-165 · Trelawney’s hiding-room ejection
+
+Trelawney reports entering the Room to hide personal items, hearing an apparently male celebratory whoop, calling out, then being plunged into darkness and thrown headfirst outside. Harry hears her scream and finds her on the corridor floor with sherry bottles.
+
+- Category: magic; evidence: reported; state: June 1997, departure evening.
+- Model: Room entry, voice/darkness and ejection are her report; the scream and aftermath are witnessed. Occupant identity, darkness cause and physical ejection mechanism remain unproven in this scene.
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 568, ¶56 (B06-C025-P0056)](../build/reader/book-06.html#B06-C025-P0056)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 568, ¶57 (B06-C025-P0057)](../build/reader/book-06.html#B06-C025-P0057)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 569, ¶58 (B06-C025-P0058)](../build/reader/book-06.html#B06-C025-P0058)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 569–570, ¶70 (B06-C025-P0070)](../build/reader/book-06.html#B06-C025-P0070)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 570, ¶73 (B06-C025-P0073)](../build/reader/book-06.html#B06-C025-P0073)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 570, ¶75 (B06-C025-P0075)](../build/reader/book-06.html#B06-C025-P0075)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 570, ¶77 (B06-C025-P0077)](../build/reader/book-06.html#B06-C025-P0077)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 570, ¶79 (B06-C025-P0079)](../build/reader/book-06.html#B06-C025-P0079)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 570, ¶82 (B06-C025-P0082)](../build/reader/book-06.html#B06-C025-P0082)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 570, ¶84 (B06-C025-P0084)](../build/reader/book-06.html#B06-C025-P0084)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 570, ¶86 (B06-C025-P0086)](../build/reader/book-06.html#B06-C025-P0086)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 570, ¶88 (B06-C025-P0088)](../build/reader/book-06.html#B06-C025-P0088)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 571, ¶92 (B06-C025-P0092)](../build/reader/book-06.html#B06-C025-P0092)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 571, ¶94 (B06-C025-P0094)](../build/reader/book-06.html#B06-C025-P0094)
+
+<a id="b06-166"></a>
+### B06-166 · Niche vase near Room corridor
+
+A large blue-and-white vase stands in a nearby niche; Trelawney puts her sherry bottles into it before accompanying Harry.
+
+- Category: furnishing; evidence: explicit; state: June 1997, departure evening.
+- Model: Fixed decorative vessel in wall recess with temporary concealed bottles; exact recess placement not specified.
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 572, ¶105 (B06-C025-P0105)](../build/reader/book-06.html#B06-C025-P0105)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 572, ¶106 (B06-C025-P0106)](../build/reader/book-06.html#B06-C025-P0106)
+
+<a id="b06-171"></a>
+### B06-171 · Hog’s Head historical guest room
+
+Trelawney recalls staying in a room at the Hog’s Head for her interview with Dumbledore, complains of bedbugs, and describes Snape caught outside her door after claiming to have taken the wrong stairs.
+
+- Category: history; evidence: reported; state: Trelawney’s recruitment, recalled June 1997.
+- Model: Limited village lodging/stair context for the school visit; no room floor number, exact stair configuration or modern condition established.
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 572–573, ¶112 (B06-C025-P0112)](../build/reader/book-06.html#B06-C025-P0112)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 573, ¶114 (B06-C025-P0114)](../build/reader/book-06.html#B06-C025-P0114)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 573–574, ¶116 (B06-C025-P0116)](../build/reader/book-06.html#B06-C025-P0116)
+
+<a id="b06-167"></a>
+### B06-167 · Headmaster office sunset view
+
+Dumbledore stands at the office window looking out over the grounds. The setting sun casts gold then red light into the room and appears as a ruby-red glare along the horizon.
+
+- Category: route; evidence: explicit; state: June 1997, departure evening.
+- Model: Grounds and sunset line of sight from window. Do not assign a precise azimuth or identify which window from this alone.
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 574, ¶126 (B06-C025-P0126)](../build/reader/book-06.html#B06-C025-P0126)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 574–575, ¶127 (B06-C025-P0127)](../build/reader/book-06.html#B06-C025-P0127)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 576, ¶142 (B06-C025-P0142)](../build/reader/book-06.html#B06-C025-P0142)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 576, ¶150 (B06-C025-P0150)](../build/reader/book-06.html#B06-C025-P0150)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 580, ¶191 (B06-C025-P0191)](../build/reader/book-06.html#B06-C025-P0191)
+
+<a id="b06-168"></a>
+### B06-168 · Extra protection during Headmaster absence
+
+Dumbledore says he has never left Hogwarts unprotected during his absences that year and will put additional protection in place that evening.
+
+- Category: magic; evidence: reported; state: June 1997, departure evening.
+- Model: Dated security preparation; unspecified personnel/spells here. Harry’s concern about circumvention is not proof that any particular barrier has failed.
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 578, ¶167 (B06-C025-P0167)](../build/reader/book-06.html#B06-C025-P0167)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 578–579, ¶169 (B06-C025-P0169)](../build/reader/book-06.html#B06-C025-P0169)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 579, ¶170 (B06-C025-P0170)](../build/reader/book-06.html#B06-C025-P0170)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 581, ¶196 (B06-C025-P0196)](../build/reader/book-06.html#B06-C025-P0196)
+
+<a id="b06-169"></a>
+### B06-169 · Castle front steps–drive–gates
+
+Dumbledore waits by the oaken front doors/top stone step, then descends the steps with Harry and follows the drive downhill to gates at its bottom. In still summer twilight the air smells of warm grass, lake water and cabin wood smoke.
+
+- Category: route; evidence: explicit; state: June 1997, departure evening.
+- Model: Front entrance → steps → descending drive → gates sequence; environmental scent sources do not supply distances or wind bearings.
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶203 (B06-C025-P0203)](../build/reader/book-06.html#B06-C025-P0203)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶204 (B06-C025-P0204)](../build/reader/book-06.html#B06-C025-P0204)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶205 (B06-C025-P0205)](../build/reader/book-06.html#B06-C025-P0205)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶206 (B06-C025-P0206)](../build/reader/book-06.html#B06-C025-P0206)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶209 (B06-C025-P0209)](../build/reader/book-06.html#B06-C025-P0209)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582–583, ¶210 (B06-C025-P0210)](../build/reader/book-06.html#B06-C025-P0210)
+
+<a id="b06-170"></a>
+### B06-170 · Gates–Hogsmeade pubs–Apparition departure
+
+Outside the gates they turn into the deserted lane to Hogsmeade and reach the High Street, with lit windows above shops. Passing the Three Broomsticks, they then turn into the side street with the Hog’s Head’s creaking sign. They Apparate outside without entering the pub.
+
+- Category: route; evidence: explicit; state: June 1997, departure evening.
+- Model: School boundary and off-site departure route; Hog’s Head appears empty and quiet versus the Three Broomsticks. No street lengths or bearings stated.
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶208 (B06-C025-P0208)](../build/reader/book-06.html#B06-C025-P0208)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 583, ¶215 (B06-C025-P0215)](../build/reader/book-06.html#B06-C025-P0215)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 583, ¶216 (B06-C025-P0216)](../build/reader/book-06.html#B06-C025-P0216)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 583, ¶217 (B06-C025-P0217)](../build/reader/book-06.html#B06-C025-P0217)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 583, ¶218 (B06-C025-P0218)](../build/reader/book-06.html#B06-C025-P0218)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 583–584, ¶219 (B06-C025-P0219)](../build/reader/book-06.html#B06-C025-P0219)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 584, ¶220 (B06-C025-P0220)](../build/reader/book-06.html#B06-C025-P0220)
+
+<a id="b06-172"></a>
+### B06-172 · Headmaster office scale comparison
+
+The small flat rocky island in the remote sea cave is described as no larger than Dumbledore’s office.
+
+- Category: interior; evidence: explicit; state: June 1997 cave visit.
+- Model: Relative scale comparison only, with no numeric dimension. The distant cave is explicitly outside Hogwarts surroundings and its underground lake is not the Hogwarts lake; do not transplant its layout, boat or Inferi into the school grounds.
+- [Book 6, ch. 26, “The Cave”, ref p. 597, ¶109 (B06-C026-P0109)](../build/reader/book-06.html#B06-C026-P0109)
+- [Book 6, ch. 26, “The Cave”, ref p. 597–598, ¶111 (B06-C026-P0111)](../build/reader/book-06.html#B06-C026-P0111)
+
+<a id="b06-173"></a>
+### B06-173 · Hogsmeade High Street return and castle view
+
+Harry and Dumbledore Apparate into the dark High Street, lit by a few streetlamps and upper windows. Rosmerta says she saw them from her bedroom curtains. From the street the green Dark Mark is visible above Hogwarts.
+
+- Category: route; evidence: explicit; state: Night of tower attack, June 1997.
+- Model: Ground-level village → school-sky visibility and bedroom → High Street reported view; imagined Inferi around shops at P0002 are not real village occupants.
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 609–610, ¶1 (B06-C027-P0001)](../build/reader/book-06.html#B06-C027-P0001)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 610, ¶2 (B06-C027-P0002)](../build/reader/book-06.html#B06-C027-P0002)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 610, ¶4 (B06-C027-P0004)](../build/reader/book-06.html#B06-C027-P0004)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 611, ¶15 (B06-C027-P0015)](../build/reader/book-06.html#B06-C027-P0015)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 611, ¶16 (B06-C027-P0016)](../build/reader/book-06.html#B06-C027-P0016)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶22 (B06-C027-P0022)](../build/reader/book-06.html#B06-C027-P0022)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶23 (B06-C027-P0023)](../build/reader/book-06.html#B06-C027-P0023)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶24 (B06-C027-P0024)](../build/reader/book-06.html#B06-C027-P0024)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶26 (B06-C027-P0026)](../build/reader/book-06.html#B06-C027-P0026)
+
+<a id="b06-178"></a>
+### B06-178 · Dark Mark over tower
+
+The luminous green skull and serpent-tongue Dark Mark hangs directly above the Astronomy Tower, casting dim green light over its occupants and ramparts. Draco says it was placed there to draw Dumbledore to an apparent murder scene.
+
+- Category: temporary; evidence: reported; state: Night of tower attack, June 1997.
+- Model: Placement/light are observed; trap purpose is Draco’s account. A Mark alone is not proof that someone died at that spot before arrival.
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶24 (B06-C027-P0024)](../build/reader/book-06.html#B06-C027-P0024)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 613–614, ¶36 (B06-C027-P0036)](../build/reader/book-06.html#B06-C027-P0036)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶39 (B06-C027-P0039)](../build/reader/book-06.html#B06-C027-P0039)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶40 (B06-C027-P0040)](../build/reader/book-06.html#B06-C027-P0040)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 615, ¶47 (B06-C027-P0047)](../build/reader/book-06.html#B06-C027-P0047)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 615, ¶52 (B06-C027-P0052)](../build/reader/book-06.html#B06-C027-P0052)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 616, ¶62 (B06-C027-P0062)](../build/reader/book-06.html#B06-C027-P0062)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 621–622, ¶104 (B06-C027-P0104)](../build/reader/book-06.html#B06-C027-P0104)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 622, ¶105 (B06-C027-P0105)](../build/reader/book-06.html#B06-C027-P0105)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 622, ¶106 (B06-C027-P0106)](../build/reader/book-06.html#B06-C027-P0106)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 622, ¶107 (B06-C027-P0107)](../build/reader/book-06.html#B06-C027-P0107)
+
+<a id="b06-174"></a>
+### B06-174 · Three Broomsticks stored brooms
+
+Rosmerta says she keeps two brooms behind the bar; Harry Summons them, bursting open the pub’s front door as they fly into the street.
+
+- Category: furnishing; evidence: explicit; state: Night of tower attack, June 1997.
+- Model: Ancillary return transport storage and bar-to-street path; not an ordinary unattended flight route through walls.
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶27 (B06-C027-P0027)](../build/reader/book-06.html#B06-C027-P0027)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶28 (B06-C027-P0028)](../build/reader/book-06.html#B06-C027-P0028)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶29 (B06-C027-P0029)](../build/reader/book-06.html#B06-C027-P0029)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶30 (B06-C027-P0030)](../build/reader/book-06.html#B06-C027-P0030)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶31 (B06-C027-P0031)](../build/reader/book-06.html#B06-C027-P0031)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶32 (B06-C027-P0032)](../build/reader/book-06.html#B06-C027-P0032)
+
+<a id="b06-175"></a>
+### B06-175 · Broom flight from village to Astronomy Tower
+
+They fly from the village over the dark twisting lane, cross the boundary wall into the grounds, then land over crenellated ramparts on the Astronomy Tower, the highest tower of the castle.
+
+- Category: route; evidence: explicit; state: Night of tower attack, June 1997.
+- Model: Aerial approach and height hierarchy. The lane is seen from above; no exact flight length or wall height.
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612–613, ¶33 (B06-C027-P0033)](../build/reader/book-06.html#B06-C027-P0033)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 613, ¶34 (B06-C027-P0034)](../build/reader/book-06.html#B06-C027-P0034)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 613–614, ¶36 (B06-C027-P0036)](../build/reader/book-06.html#B06-C027-P0036)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶37 (B06-C027-P0037)](../build/reader/book-06.html#B06-C027-P0037)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶38 (B06-C027-P0038)](../build/reader/book-06.html#B06-C027-P0038)
+
+<a id="b06-176"></a>
+### B06-176 · Boundary enchantment during aerial entry
+
+As Dumbledore mutters a strange language, Harry’s broom shudders crossing the boundary wall; Harry interprets this as Dumbledore undoing his own protective enchantments to admit them quickly.
+
+- Category: magic; evidence: inference; state: Night of tower attack, June 1997.
+- Model: Sound and shudder are observed, while barrier purpose and deliberate suspension are Harry’s interpretation. No evidence of a physically moving wall or blanket permanent removal.
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 613–614, ¶36 (B06-C027-P0036)](../build/reader/book-06.html#B06-C027-P0036)
+
+<a id="b06-177"></a>
+### B06-177 · Astronomy Tower ramparts and stair door
+
+The tower top has crenellated ramparts/battlements and a wall against which Harry and Dumbledore can lean. A door with an iron ring opens to a spiral stair down into the castle. Initially it is closed and the ramparts are deserted.
+
+- Category: exterior; evidence: explicit; state: Night of tower attack, June 1997.
+- Model: Tower-top enclosure and descent route, not a roofed interior room. Door material is not specified by its iron handle.
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 613–614, ¶36 (B06-C027-P0036)](../build/reader/book-06.html#B06-C027-P0036)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶37 (B06-C027-P0037)](../build/reader/book-06.html#B06-C027-P0037)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶38 (B06-C027-P0038)](../build/reader/book-06.html#B06-C027-P0038)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614–615, ¶44 (B06-C027-P0044)](../build/reader/book-06.html#B06-C027-P0044)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 615, ¶45 (B06-C027-P0045)](../build/reader/book-06.html#B06-C027-P0045)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 615, ¶46 (B06-C027-P0046)](../build/reader/book-06.html#B06-C027-P0046)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 615, ¶47 (B06-C027-P0047)](../build/reader/book-06.html#B06-C027-P0047)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 615, ¶48 (B06-C027-P0048)](../build/reader/book-06.html#B06-C027-P0048)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 619, ¶82 (B06-C027-P0082)](../build/reader/book-06.html#B06-C027-P0082)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 621, ¶97 (B06-C027-P0097)](../build/reader/book-06.html#B06-C027-P0097)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 621, ¶102 (B06-C027-P0102)](../build/reader/book-06.html#B06-C027-P0102)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 624, ¶125 (B06-C027-P0125)](../build/reader/book-06.html#B06-C027-P0125)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 626, ¶146 (B06-C027-P0146)](../build/reader/book-06.html#B06-C027-P0146)
+
+<a id="b06-180"></a>
+### B06-180 · Guard fight and tower staircase barrier
+
+Muffled cries from the castle below grow into fighting sounds on the spiral staircase. Four Death Eaters reach the ramparts; a voice below says the stairs are blocked and casts Reducto. Snape subsequently comes through the stair door.
+
+- Category: temporary; evidence: explicit; state: Night of tower attack, June 1997.
+- Model: Battle route and temporary stair obstruction, with barrier inferred by Harry from sounds here; exact construction clarified only by later witnesses. Snape’s passage does not prove everyone can pass.
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 616, ¶57 (B06-C027-P0057)](../build/reader/book-06.html#B06-C027-P0057)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 617, ¶66 (B06-C027-P0066)](../build/reader/book-06.html#B06-C027-P0066)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 617, ¶69 (B06-C027-P0069)](../build/reader/book-06.html#B06-C027-P0069)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 620–621, ¶95 (B06-C027-P0095)](../build/reader/book-06.html#B06-C027-P0095)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 622, ¶111 (B06-C027-P0111)](../build/reader/book-06.html#B06-C027-P0111)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 624, ¶125 (B06-C027-P0125)](../build/reader/book-06.html#B06-C027-P0125)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 626–627, ¶150 (B06-C027-P0150)](../build/reader/book-06.html#B06-C027-P0150)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 627, ¶151 (B06-C027-P0151)](../build/reader/book-06.html#B06-C027-P0151)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 627, ¶156 (B06-C027-P0156)](../build/reader/book-06.html#B06-C027-P0156)
+
+<a id="b06-179"></a>
+### B06-179 · Vanishing Cabinet passage into Hogwarts
+
+Draco says he spent the year repairing the broken Hogwarts Vanishing Cabinet in which Montague was trapped. Its mate is in Borgin and Burkes; together they form a passage. Montague reportedly heard both school and shop while trapped between them and eventually Apparated out at great risk. Death Eaters used the repaired pair to enter the school.
+
+- Category: magic; evidence: reported; state: Night of tower attack, June 1997.
+- Model: Magical off-site bypass, not a physical tunnel under the perimeter. Chapter 24 locates the Hogwarts cabinet in the hiding room. Chapter 6’s shop cabinet description can be reconciled as the off-site endpoint but its identity is not visually demonstrated by this account.
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 617–618, ¶74 (B06-C027-P0074)](../build/reader/book-06.html#B06-C027-P0074)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 618, ¶77 (B06-C027-P0077)](../build/reader/book-06.html#B06-C027-P0077)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 618, ¶78 (B06-C027-P0078)](../build/reader/book-06.html#B06-C027-P0078)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 618–619, ¶79 (B06-C027-P0079)](../build/reader/book-06.html#B06-C027-P0079)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 619, ¶81 (B06-C027-P0081)](../build/reader/book-06.html#B06-C027-P0081)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 619–620, ¶90 (B06-C027-P0090)](../build/reader/book-06.html#B06-C027-P0090)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 554–555, ¶105 (B06-C024-P0105)](../build/reader/book-06.html#B06-C024-P0105)
+- [Book 6, ch. 6, “Draco’s Detour”, ref p. 129, ¶184 (B06-C006-P0184)](../build/reader/book-06.html#B06-C006-P0184)
+- [Book 6, ch. 6, “Draco’s Detour”, ref p. 130, ¶198 (B06-C006-P0198)](../build/reader/book-06.html#B06-C006-P0198)
+- [Book 6, ch. 6, “Draco’s Detour”, ref p. 131, ¶211 (B06-C006-P0211)](../build/reader/book-06.html#B06-C006-P0211)
+
+<a id="b06-182"></a>
+### B06-182 · School communication monitoring bypass
+
+Dumbledore says school communications were monitored. Draco explains that enchanted paired coins allowed messages to Rosmerta, who saw Dumbledore leave; this informed the timing of the attack.
+
+- Category: magic; evidence: reported; state: Night of tower attack, June 1997.
+- Model: Security limitation with remote magical communication, not a geometry feature; retain as an access/guard-state constraint. Dumbledore’s reconstruction of the bathroom delivery is a deduction, not his eyewitness account.
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 620–621, ¶95 (B06-C027-P0095)](../build/reader/book-06.html#B06-C027-P0095)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 621, ¶96 (B06-C027-P0096)](../build/reader/book-06.html#B06-C027-P0096)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 621, ¶97 (B06-C027-P0097)](../build/reader/book-06.html#B06-C027-P0097)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 621, ¶98 (B06-C027-P0098)](../build/reader/book-06.html#B06-C027-P0098)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 621–622, ¶104 (B06-C027-P0104)](../build/reader/book-06.html#B06-C027-P0104)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 622, ¶105 (B06-C027-P0105)](../build/reader/book-06.html#B06-C027-P0105)
+
+<a id="b06-181"></a>
+### B06-181 · Tower battlement fatal fall
+
+Snape’s curse throws Dumbledore upward and backwards over the battlements, where he disappears below the edge.
+
+- Category: temporary; evidence: explicit; state: Night of tower attack, June 1997.
+- Model: Confirms an exposed fall over the parapet to the exterior below; no measured tower height, fall duration or impact position supplied until following scene.
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 628, ¶161 (B06-C027-P0161)](../build/reader/book-06.html#B06-C027-P0161)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 628, ¶164 (B06-C027-P0164)](../build/reader/book-06.html#B06-C027-P0164)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 628, ¶165 (B06-C027-P0165)](../build/reader/book-06.html#B06-C027-P0165)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 628, ¶166 (B06-C027-P0166)](../build/reader/book-06.html#B06-C027-P0166)
+
+<a id="b06-183"></a>
+### B06-183 · Astronomy stair–battle corridor
+
+From the rampart door Harry runs down the dark spiral stair, jumps its final ten steps and lands in a dim corridor. Snape escapes around a corner at the corridor’s far end.
+
+- Category: route; evidence: explicit; state: Night of tower attack, June 1997.
+- Model: Top-to-corridor connection; ten is the number of steps jumped, not the staircase’s total step count.
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 628–629, ¶3 (B06-C028-P0003)](../build/reader/book-06.html#B06-C028-P0003)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 629, ¶5 (B06-C028-P0005)](../build/reader/book-06.html#B06-C028-P0005)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 629, ¶7 (B06-C028-P0007)](../build/reader/book-06.html#B06-C028-P0007)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 631, ¶17 (B06-C028-P0017)](../build/reader/book-06.html#B06-C028-P0017)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 631–632, ¶18 (B06-C028-P0018)](../build/reader/book-06.html#B06-C028-P0018)
+
+<a id="b06-184"></a>
+### B06-184 · Corridor structural battle damage
+
+Dust fills the corridor and roughly half its ceiling appears collapsed. Curses ricochet off stone walls, crack stone, shatter a nearby window and blast wall fragments overhead. Blood and fallen people make the floor slippery and obstructed.
+
+- Category: temporary; evidence: explicit; state: Night of tower attack, June 1997.
+- Model: Observed local damage; “half” is an impression, not surveyed area. Avoid labelling fallen people dead before later confirmation.
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 629, ¶7 (B06-C028-P0007)](../build/reader/book-06.html#B06-C028-P0007)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 629–630, ¶9 (B06-C028-P0009)](../build/reader/book-06.html#B06-C028-P0009)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 630, ¶11 (B06-C028-P0011)](../build/reader/book-06.html#B06-C028-P0011)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 630–631, ¶12 (B06-C028-P0012)](../build/reader/book-06.html#B06-C028-P0012)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 631, ¶13 (B06-C028-P0013)](../build/reader/book-06.html#B06-C028-P0013)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 631, ¶16 (B06-C028-P0016)](../build/reader/book-06.html#B06-C028-P0016)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 631, ¶17 (B06-C028-P0017)](../build/reader/book-06.html#B06-C028-P0017)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 631–632, ¶18 (B06-C028-P0018)](../build/reader/book-06.html#B06-C028-P0018)
+
+<a id="b06-185"></a>
+### B06-185 · Marble-stair landing portrait and destroyed armour
+
+After further corridor corners Harry shelters behind a suit of armour that explodes under a curse. On the landing a portrait of several wig-wearing witches is struck; its occupants flee into neighbouring paintings as the Carrows descend the marble stairs.
+
+- Category: temporary; evidence: explicit; state: Night of tower attack, June 1997.
+- Model: Armour, landing artwork cluster and dated destruction; portrait subjects move between frames, rather than physically into the corridor.
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 631–632, ¶18 (B06-C028-P0018)](../build/reader/book-06.html#B06-C028-P0018)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 632, ¶19 (B06-C028-P0019)](../build/reader/book-06.html#B06-C028-P0019)
+
+<a id="b06-186"></a>
+### B06-186 · Concealed stair shortcut with vanishing step
+
+Harry uses a concealed staircase shortcut, jumping a vanishing step halfway down. A tapestry at its bottom opens into a corridor occupied by Hufflepuffs; he then reaches a landing and descends the remaining marble stairs to the Entrance Hall, overtaking the Carrows.
+
+- Category: route; evidence: explicit; state: Night of tower attack, June 1997.
+- Model: Shortcut joins levels of the marble-stair route and contains a specific step hazard. Hufflepuff presence does not establish this corridor as their common-room entrance or basement.
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 632, ¶20 (B06-C028-P0020)](../build/reader/book-06.html#B06-C028-P0020)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 632, ¶21 (B06-C028-P0021)](../build/reader/book-06.html#B06-C028-P0021)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 632–633, ¶22 (B06-C028-P0022)](../build/reader/book-06.html#B06-C028-P0022)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 633–634, ¶26 (B06-C028-P0026)](../build/reader/book-06.html#B06-C028-P0026)
+
+<a id="b06-187"></a>
+### B06-187 · Entrance Hall blast damage and Gryffindor hourglass
+
+The oak front doors have been blasted open, blood smears the flagstone floor, and students shelter against the walls. The giant Gryffindor hourglass is cursed and its rubies fall rattling onto the flagstones.
+
+- Category: temporary; evidence: explicit; state: Night of tower attack, June 1997.
+- Model: Fixed score hourglass material/contents and damaged state. No dimensions, exact hourglass wall position or conditions of the other houses’ counters supplied.
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 632–633, ¶22 (B06-C028-P0022)](../build/reader/book-06.html#B06-C028-P0022)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 633, ¶23 (B06-C028-P0023)](../build/reader/book-06.html#B06-C028-P0023)
+
+<a id="b06-188"></a>
+### B06-188 · Lawn escape route and Apparition boundary
+
+From the front doors the fugitives cross the lawn towards the gates, intending to Disapparate beyond the school boundary. Hagrid intercepts them after emerging from his cabin; Snape eventually Disapparates just outside the boundary while Buckbeak circles the gates.
+
+- Category: route; evidence: explicit; state: Night of tower attack, June 1997.
+- Model: Boundary crossing is the operative restriction; gates are the route used here, not proof that Apparition is restricted to a single point outside them. Twenty yards at P0030 is a transient duel separation, not fixed site scale.
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 633, ¶23 (B06-C028-P0023)](../build/reader/book-06.html#B06-C028-P0023)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 633, ¶24 (B06-C028-P0024)](../build/reader/book-06.html#B06-C028-P0024)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 633, ¶25 (B06-C028-P0025)](../build/reader/book-06.html#B06-C028-P0025)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 634, ¶28 (B06-C028-P0028)](../build/reader/book-06.html#B06-C028-P0028)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 634, ¶30 (B06-C028-P0030)](../build/reader/book-06.html#B06-C028-P0030)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 635–636, ¶44 (B06-C028-P0044)](../build/reader/book-06.html#B06-C028-P0044)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 637, ¶52 (B06-C028-P0052)](../build/reader/book-06.html#B06-C028-P0052)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 637, ¶53 (B06-C028-P0053)](../build/reader/book-06.html#B06-C028-P0053)
+
+<a id="b06-189"></a>
+### B06-189 · Hagrid cabin fire and extinguishing
+
+Incendio ignites Hagrid’s wooden house, throwing orange light across the grounds and the nearby fight. Fang is trapped inside until Hagrid carries him out. Harry and Hagrid extinguish the flames with water jets, leaving a smoking wreck smelling of burnt wood and dog hair.
+
+- Category: temporary; evidence: explicit; state: Night of tower attack, June 1997.
+- Model: Dated major cabin damage, not demonstrated total destruction or reconstruction. Hagrid believes injured Bowtruckles inside have burned; their fate is not inspected. No proof all previous fixtures survive.
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 634, ¶32 (B06-C028-P0032)](../build/reader/book-06.html#B06-C028-P0032)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 634, ¶33 (B06-C028-P0033)](../build/reader/book-06.html#B06-C028-P0033)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 634–635, ¶34 (B06-C028-P0034)](../build/reader/book-06.html#B06-C028-P0034)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 635, ¶35 (B06-C028-P0035)](../build/reader/book-06.html#B06-C028-P0035)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 636, ¶46 (B06-C028-P0046)](../build/reader/book-06.html#B06-C028-P0046)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 636, ¶47 (B06-C028-P0047)](../build/reader/book-06.html#B06-C028-P0047)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 637, ¶51 (B06-C028-P0051)](../build/reader/book-06.html#B06-C028-P0051)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 637–638, ¶55 (B06-C028-P0055)](../build/reader/book-06.html#B06-C028-P0055)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 638, ¶57 (B06-C028-P0057)](../build/reader/book-06.html#B06-C028-P0057)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 638, ¶61 (B06-C028-P0061)](../build/reader/book-06.html#B06-C028-P0061)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 638, ¶62 (B06-C028-P0062)](../build/reader/book-06.html#B06-C028-P0062)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 638, ¶63 (B06-C028-P0063)](../build/reader/book-06.html#B06-C028-P0063)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 638–639, ¶64 (B06-C028-P0064)](../build/reader/book-06.html#B06-C028-P0064)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 639, ¶67 (B06-C028-P0067)](../build/reader/book-06.html#B06-C028-P0067)
+
+<a id="b06-190"></a>
+### B06-190 · Castle-front night lighting and Astronomy Tower foot
+
+Many castle windows are now lit; light from the open oak doors falls onto the drive and lawn, and people descend the front steps. A crowd gathers on the grass at the foot of the Astronomy Tower near the castle front, directly beneath the Dark Mark, around Dumbledore’s body. Lit wands illuminate the scene.
+
+- Category: exterior; evidence: explicit; state: Night of tower attack, June 1997.
+- Model: Tower base–front lawn relationship and temporary light sources. Harry’s distant imagined body at P0083 is superseded by close observation; no exact tower-to-door spacing.
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 640, ¶82 (B06-C028-P0082)](../build/reader/book-06.html#B06-C028-P0082)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 640, ¶83 (B06-C028-P0083)](../build/reader/book-06.html#B06-C028-P0083)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 640–641, ¶84 (B06-C028-P0084)](../build/reader/book-06.html#B06-C028-P0084)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 641, ¶86 (B06-C028-P0086)](../build/reader/book-06.html#B06-C028-P0086)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 641, ¶87 (B06-C028-P0087)](../build/reader/book-06.html#B06-C028-P0087)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 641, ¶88 (B06-C028-P0088)](../build/reader/book-06.html#B06-C028-P0088)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 641–642, ¶89 (B06-C028-P0089)](../build/reader/book-06.html#B06-C028-P0089)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 642, ¶90 (B06-C028-P0090)](../build/reader/book-06.html#B06-C028-P0090)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 642, ¶93 (B06-C028-P0093)](../build/reader/book-06.html#B06-C028-P0093)
+
+<a id="b06-191"></a>
+### B06-191 · Front lawn–hospital route and ward bed positions
+
+Ginny leads Harry up the front steps, across the ruby-strewn Entrance Hall towards the marble staircase, then to the hospital wing. Neville lies in a bed near the ward doors and Bill in another near the far end, with chairs around it.
+
+- Category: route; evidence: explicit; state: Night after tower attack, June 1997.
+- Model: Ward longitudinal relationship from entrance to far bed; no exact bed count or absolute floor. Pomfrey conjures an extra chair, so visitor furniture can change.
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 643, ¶6 (B06-C029-P0006)](../build/reader/book-06.html#B06-C029-P0006)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 643, ¶7 (B06-C029-P0007)](../build/reader/book-06.html#B06-C029-P0007)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 643–644, ¶9 (B06-C029-P0009)](../build/reader/book-06.html#B06-C029-P0009)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 644–645, ¶20 (B06-C029-P0020)](../build/reader/book-06.html#B06-C029-P0020)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 645, ¶23 (B06-C029-P0023)](../build/reader/book-06.html#B06-C029-P0023)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 646, ¶31 (B06-C029-P0031)](../build/reader/book-06.html#B06-C029-P0031)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 647, ¶38 (B06-C029-P0038)](../build/reader/book-06.html#B06-C029-P0038)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 647, ¶41 (B06-C029-P0041)](../build/reader/book-06.html#B06-C029-P0041)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 654, ¶85 (B06-C029-P0085)](../build/reader/book-06.html#B06-C029-P0085)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 655, ¶88 (B06-C029-P0088)](../build/reader/book-06.html#B06-C029-P0088)
+
+<a id="b06-192"></a>
+### B06-192 · Fawkes lament across grounds
+
+Fawkes sings outside in the darkness; his lament echoes across the grounds and through castle windows and remains audible in the hospital wing and deserted corridors.
+
+- Category: temporary; evidence: explicit; state: Night after tower attack, June 1997.
+- Model: Magical mourning soundscape; subjective emotional effect is not a measured acoustic property or evidence of a precise outdoor perch.
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 646–647, ¶37 (B06-C029-P0037)](../build/reader/book-06.html#B06-C029-P0037)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 647, ¶38 (B06-C029-P0038)](../build/reader/book-06.html#B06-C029-P0038)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 654, ¶84 (B06-C029-P0084)](../build/reader/book-06.html#B06-C029-P0084)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 659, ¶124 (B06-C029-P0124)](../build/reader/book-06.html#B06-C029-P0124)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 659–660, ¶125 (B06-C029-P0125)](../build/reader/book-06.html#B06-C029-P0125)
+
+<a id="b06-193"></a>
+### B06-193 · Battle-night covered routes and entrances
+
+McGonagall reports corridor patrols, guards covering every secret passage out of school, powerful enchantments on every castle entrance and an expectation that nobody could fly in.
+
+- Category: magic; evidence: reported; state: Night after tower attack, June 1997.
+- Model: Defenders’ report of intended security state, not an omniscient guarantee; Cabinet bypass defeated it. Earlier aerial entry required Dumbledore’s intervention.
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 649, ¶54 (B06-C029-P0054)](../build/reader/book-06.html#B06-C029-P0054)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 649, ¶55 (B06-C029-P0055)](../build/reader/book-06.html#B06-C029-P0055)
+
+<a id="b06-194"></a>
+### B06-194 · Darkness Powder at Room corridor
+
+Ron and Ginny report Draco emerging with a Hand of Glory, which illuminates only its holder. He throws Darkness Powder into the corridor; neither Lumos nor Incendio penetrates it, and guards must feel their way to a lit corridor while people run past.
+
+- Category: magic; evidence: reported; state: Night after tower attack, June 1997.
+- Model: Temporary visually opaque zone and selective light source. Exact cloud extent and persistence unspecified; companions’ identities and guiding method are partly their reconstruction.
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 650, ¶57 (B06-C029-P0057)](../build/reader/book-06.html#B06-C029-P0057)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 650, ¶58 (B06-C029-P0058)](../build/reader/book-06.html#B06-C029-P0058)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 650, ¶59 (B06-C029-P0059)](../build/reader/book-06.html#B06-C029-P0059)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 650, ¶60 (B06-C029-P0060)](../build/reader/book-06.html#B06-C029-P0060)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 650, ¶61 (B06-C029-P0061)](../build/reader/book-06.html#B06-C029-P0061)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 650, ¶62 (B06-C029-P0062)](../build/reader/book-06.html#B06-C029-P0062)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 650–651, ¶63 (B06-C029-P0063)](../build/reader/book-06.html#B06-C029-P0063)
+
+<a id="b06-196"></a>
+### B06-196 · Snape office battle-night approach
+
+Hermione and Luna wait outside the dungeon office. Flitwick runs down from the fighting and enters it; Snape emerges, tells them to attend to Flitwick, and they find him unconscious on the office floor.
+
+- Category: route; evidence: reported; state: Night after tower attack, June 1997.
+- Model: Observed by reporting witnesses. Snape stunning Flitwick is their inference; Harry’s imagined marble-stair ascent at P0073 is not a witnessed route.
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 651–652, ¶67 (B06-C029-P0067)](../build/reader/book-06.html#B06-C029-P0067)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 652, ¶69 (B06-C029-P0069)](../build/reader/book-06.html#B06-C029-P0069)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 652, ¶71 (B06-C029-P0071)](../build/reader/book-06.html#B06-C029-P0071)
+
+<a id="b06-195"></a>
+### B06-195 · Astronomy stair cursed barrier and collapse
+
+Tonks reports a curse blocking the stair behind the Death Eaters; Neville is thrown upward trying to enter. Lupin sees Snape pass through and is himself repelled. A later hex drops half the corridor ceiling and breaks the stair-blocking curse.
+
+- Category: temporary; evidence: reported; state: Night after tower attack, June 1997.
+- Model: Selectively passable barrier and explicit destruction sequence. Dark-Mark eligibility is Harry’s guess at P0080, not established; do not implement that as confirmed authentication.
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 652–653, ¶74 (B06-C029-P0074)](../build/reader/book-06.html#B06-C029-P0074)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653, ¶75 (B06-C029-P0075)](../build/reader/book-06.html#B06-C029-P0075)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653, ¶76 (B06-C029-P0076)](../build/reader/book-06.html#B06-C029-P0076)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653, ¶77 (B06-C029-P0077)](../build/reader/book-06.html#B06-C029-P0077)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653, ¶78 (B06-C029-P0078)](../build/reader/book-06.html#B06-C029-P0078)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653, ¶79 (B06-C029-P0079)](../build/reader/book-06.html#B06-C029-P0079)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653, ¶80 (B06-C029-P0080)](../build/reader/book-06.html#B06-C029-P0080)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653–654, ¶81 (B06-C029-P0081)](../build/reader/book-06.html#B06-C029-P0081)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 654, ¶82 (B06-C029-P0082)](../build/reader/book-06.html#B06-C029-P0082)
+
+<a id="b06-197"></a>
+### B06-197 · Headmaster office after succession
+
+The circular office remains much as before: silver instruments whir and smoke on spindle-legged tables, the sword in its case gleams in moonlight, and the Sorting Hat is on a shelf behind the desk. Fawkes’s perch is empty. A new sleeping portrait of Dumbledore in a golden frame hangs over the desk.
+
+- Category: temporary; evidence: explicit; state: Night after tower attack, June 1997.
+- Model: Office is now used by McGonagall; no black drapery or body is actually present—those are Harry’s expectations, explicitly contradicted by observation.
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 659, ¶124 (B06-C029-P0124)](../build/reader/book-06.html#B06-C029-P0124)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 659–660, ¶125 (B06-C029-P0125)](../build/reader/book-06.html#B06-C029-P0125)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 660, ¶126 (B06-C029-P0126)](../build/reader/book-06.html#B06-C029-P0126)
+
+<a id="b06-198"></a>
+### B06-198 · Everard portrait high on office wall
+
+A sallow-faced wizard with a short black fringe returns to his canvas high on the wall and speaks; McGonagall addresses him as Everard.
+
+- Category: furnishing; evidence: explicit; state: Night after tower attack, June 1997.
+- Model: Portrait identity, appearance and height relationship; no precise frame dimensions. His Minister-arrival news does not show an actual physical route from the Ministry.
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 661, ¶138 (B06-C029-P0138)](../build/reader/book-06.html#B06-C029-P0138)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 661, ¶139 (B06-C029-P0139)](../build/reader/book-06.html#B06-C029-P0139)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 661, ¶140 (B06-C029-P0140)](../build/reader/book-06.html#B06-C029-P0140)
+
+<a id="b06-199"></a>
+### B06-199 · Headmaster office grounds approach view
+
+From the office window McGonagall looks down over the grounds to watch for the Minister and later sees him arriving with a delegation.
+
+- Category: route; evidence: explicit; state: Night after tower attack, June 1997.
+- Model: Confirmed downward exterior approach view; exact gates/path visible and viewing bearing unspecified.
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 663, ¶151 (B06-C029-P0151)](../build/reader/book-06.html#B06-C029-P0151)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 664, ¶166 (B06-C029-P0166)](../build/reader/book-06.html#B06-C029-P0166)
+
+<a id="b06-200"></a>
+### B06-200 · Fat Lady admission without password
+
+On the return to Gryffindor, the Fat Lady admits Harry without waiting for a password. The crowded common room connects across to the boys’ dormitory door; Ron waits on his bed and Harry sits on his own four-poster.
+
+- Category: magic; evidence: explicit; state: Night after tower attack, June 1997.
+- Model: Discretionary access exception and repeated room-to-dorm relationship; no new room dimensions.
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 664, ¶170 (B06-C029-P0170)](../build/reader/book-06.html#B06-C029-P0170)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 664, ¶171 (B06-C029-P0171)](../build/reader/book-06.html#B06-C029-P0171)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 664, ¶172 (B06-C029-P0172)](../build/reader/book-06.html#B06-C029-P0172)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 664, ¶173 (B06-C029-P0173)](../build/reader/book-06.html#B06-C029-P0173)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 664, ¶174 (B06-C029-P0174)](../build/reader/book-06.html#B06-C029-P0174)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 664–665, ¶175 (B06-C029-P0175)](../build/reader/book-06.html#B06-C029-P0175)
+
+<a id="b06-201"></a>
+### B06-201 · Fawkes departure after lament
+
+The grounds fall silent when Fawkes stops singing, and Harry understands that the phoenix has left Hogwarts for good.
+
+- Category: temporary; evidence: inference; state: Night after tower attack, June 1997.
+- Model: Cessation is observed; permanent departure is Harry’s unverified conviction here, not a followed flight. Empty office perch is independently seen at P0125.
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 665, ¶186 (B06-C029-P0186)](../build/reader/book-06.html#B06-C029-P0186)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 665–666, ¶187 (B06-C029-P0187)](../build/reader/book-06.html#B06-C029-P0187)
+
+<a id="b06-212"></a>
+### B06-212 · Funeral travel and accommodation state
+
+Visitors fill Hogsmeade lodging, Ministry officials are accommodated in the castle, and the Hogwarts Express is scheduled to leave one hour after the funeral. Lessons are suspended and examinations postponed.
+
+- Category: temporary; evidence: explicit; state: Dumbledore funeral, June 1997.
+- Model: Dated occupancy, school use and departure timetable; no invented guest-room locations or special train platform changes.
+- [Book 6, ch. 30, “The White Tomb”, ref p. 666, ¶1 (B06-C030-P0001)](../build/reader/book-06.html#B06-C030-P0001)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 666–667, ¶2 (B06-C030-P0002)](../build/reader/book-06.html#B06-C030-P0002)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 673, ¶43 (B06-C030-P0043)](../build/reader/book-06.html#B06-C030-P0043)
+
+<a id="b06-202"></a>
+### B06-202 · Forest-edge visiting carriage
+
+A house-sized powder-blue carriage pulled by twelve giant winged palominos flies in and lands at the Forest edge. A castle window gives Harry a view of the arrival and Madame Maxime descending its steps.
+
+- Category: temporary; evidence: explicit; state: Afternoon before funeral, June 1997.
+- Model: Temporary visitor vehicle footprint and Forest-edge landing; no exact distance from cabin or earlier tournament parking site established.
+- [Book 6, ch. 30, “The White Tomb”, ref p. 666–667, ¶2 (B06-C030-P0002)](../build/reader/book-06.html#B06-C030-P0002)
+
+<a id="b06-203"></a>
+### B06-203 · Gryffindor common-room open window view
+
+Seated beside an open common-room window, the group looks out over the twilit grounds.
+
+- Category: route; evidence: explicit; state: Evening before funeral, June 1997.
+- Model: Window can open, unlike a purely painted view; girls’ dormitory door is within the same scene. No compass bearing.
+- [Book 6, ch. 30, “The White Tomb”, ref p. 667, ¶6 (B06-C030-P0006)](../build/reader/book-06.html#B06-C030-P0006)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 668, ¶13 (B06-C030-P0013)](../build/reader/book-06.html#B06-C030-P0013)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 668, ¶14 (B06-C030-P0014)](../build/reader/book-06.html#B06-C030-P0014)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 671, ¶31 (B06-C030-P0031)](../build/reader/book-06.html#B06-C030-P0031)
+
+<a id="b06-204"></a>
+### B06-204 · Great Hall central throne chair
+
+A throne-like chair occupies the middle of the staff table and is left empty for Dumbledore; Hagrid’s chair is empty too, while Scrimgeour occupies Snape’s former place.
+
+- Category: furnishing; evidence: explicit; state: Dumbledore funeral, June 1997.
+- Model: Chair type and central placement are permanent-geometry evidence; occupancy is specific to funeral breakfast.
+- [Book 6, ch. 30, “The White Tomb”, ref p. 673, ¶43 (B06-C030-P0043)](../build/reader/book-06.html#B06-C030-P0043)
+
+<a id="b06-205"></a>
+### B06-205 · Great Hall–lakeshore ceremony route
+
+Students file from the Great Hall benches through the Entrance Hall and front doors onto the stone steps, then follow their Heads of House towards the lake.
+
+- Category: route; evidence: explicit; state: Dumbledore funeral, June 1997.
+- Model: Explicit ceremonial approach from main entrance; no underground or alternate exit involved.
+- [Book 6, ch. 30, “The White Tomb”, ref p. 674, ¶45 (B06-C030-P0045)](../build/reader/book-06.html#B06-C030-P0045)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 674, ¶46 (B06-C030-P0046)](../build/reader/book-06.html#B06-C030-P0046)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 674, ¶47 (B06-C030-P0047)](../build/reader/book-06.html#B06-C030-P0047)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 674–675, ¶48 (B06-C030-P0048)](../build/reader/book-06.html#B06-C030-P0048)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 675–676, ¶50 (B06-C030-P0050)](../build/reader/book-06.html#B06-C030-P0050)
+
+<a id="b06-206"></a>
+### B06-206 · Lakeside funeral chair layout
+
+Hundreds of chairs are arranged in rows beside the lake, divided by a central aisle and all facing a marble table at the front. The group takes seats at a row end beside the water; Hagrid later walks up the aisle with the wrapped body and goes to Grawp in the back row.
+
+- Category: temporary; evidence: explicit; state: Dumbledore funeral, June 1997.
+- Model: Temporary ceremony plan and lake adjacency; no exact row/chair count. Body is wrapped in purple velvet with golden stars; Hagrid’s chair legs sink into the ground when Grawp pats him.
+- [Book 6, ch. 30, “The White Tomb”, ref p. 674–675, ¶48 (B06-C030-P0048)](../build/reader/book-06.html#B06-C030-P0048)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 675, ¶49 (B06-C030-P0049)](../build/reader/book-06.html#B06-C030-P0049)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 675–676, ¶50 (B06-C030-P0050)](../build/reader/book-06.html#B06-C030-P0050)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 676, ¶51 (B06-C030-P0051)](../build/reader/book-06.html#B06-C030-P0051)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 676–677, ¶52 (B06-C030-P0052)](../build/reader/book-06.html#B06-C030-P0052)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 677, ¶55 (B06-C030-P0055)](../build/reader/book-06.html#B06-C030-P0055)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 677–678, ¶56 (B06-C030-P0056)](../build/reader/book-06.html#B06-C030-P0056)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 678, ¶57 (B06-C030-P0057)](../build/reader/book-06.html#B06-C030-P0057)
+
+<a id="b06-207"></a>
+### B06-207 · Castle ghosts in bright sunlight
+
+Castle ghosts attend the outdoor funeral but are barely visible in bright sun, becoming discernible when they move and shimmer in the air.
+
+- Category: magic; evidence: explicit; state: Dumbledore funeral, June 1997.
+- Model: Rendering constraint for ghost appearance under strong daylight, not proof they are absent or immaterial only in sunlight.
+- [Book 6, ch. 30, “The White Tomb”, ref p. 675, ¶49 (B06-C030-P0049)](../build/reader/book-06.html#B06-C030-P0049)
+
+<a id="b06-208"></a>
+### B06-208 · Merpeople funeral chorus by shore
+
+A chorus of pallid-faced merpeople with purplish flowing hair sings inches below the clear green sunlit lake surface. They later break the surface to listen, on Harry’s left, then sink and vanish. Harry recalls Dumbledore speaking to the Merchieftainess at a nearby waterside spot two years earlier.
+
+- Category: grounds; evidence: explicit; state: Dumbledore funeral, June 1997.
+- Model: Underwater near-surface appearance and access to shore; no lake-bottom terrain described. Left is relative to Harry’s seated orientation, not a compass direction; recalled conversation locates an approximate prior shoreline event.
+- [Book 6, ch. 30, “The White Tomb”, ref p. 677, ¶53 (B06-C030-P0053)](../build/reader/book-06.html#B06-C030-P0053)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 677, ¶54 (B06-C030-P0054)](../build/reader/book-06.html#B06-C030-P0054)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 678–679, ¶58 (B06-C030-P0058)](../build/reader/book-06.html#B06-C030-P0058)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 680–681, ¶63 (B06-C030-P0063)](../build/reader/book-06.html#B06-C030-P0063)
+
+<a id="b06-210"></a>
+### B06-210 · White marble tomb formation
+
+White flames envelop Dumbledore’s body and the marble table; rising white smoke briefly seems phoenix-shaped to Harry. When the fire vanishes, a white marble tomb encases both body and table.
+
+- Category: magic; evidence: explicit; state: Dumbledore funeral, June 1997.
+- Model: Permanent tomb formed during a dated magical event. No exact dimensions, inscription, ornament, lid seam or confirmed real phoenix appears in this passage.
+- [Book 6, ch. 30, “The White Tomb”, ref p. 677, ¶55 (B06-C030-P0055)](../build/reader/book-06.html#B06-C030-P0055)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 677–678, ¶56 (B06-C030-P0056)](../build/reader/book-06.html#B06-C030-P0056)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 680, ¶61 (B06-C030-P0061)](../build/reader/book-06.html#B06-C030-P0061)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 680, ¶62 (B06-C030-P0062)](../build/reader/book-06.html#B06-C030-P0062)
+
+<a id="b06-209"></a>
+### B06-209 · Funeral view across lake to centaur woods
+
+From his lakeside seat Harry looks out over the lake towards the Forest and sees centaurs standing still among the trees, half-hidden in shade with bows lowered. They do not enter the open; their farewell arrows fall well short of the crowd before they retreat.
+
+- Category: route; evidence: explicit; state: Dumbledore funeral, June 1997.
+- Model: Lake–Forest sightline and shaded tree edge; no measured arrow range, village or centaur settlement.
+- [Book 6, ch. 30, “The White Tomb”, ref p. 679, ¶59 (B06-C030-P0059)](../build/reader/book-06.html#B06-C030-P0059)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 680–681, ¶63 (B06-C030-P0063)](../build/reader/book-06.html#B06-C030-P0063)
+
+<a id="b06-211"></a>
+### B06-211 · Tomb–lake bank–beech tree route
+
+Harry turns away from the tomb and walks around the lake bank. Ron and Hermione catch him in the shade of a familiar beech tree; from there the castle is visible above and the white tomb is reflected in water on the other side of the lake.
+
+- Category: route; evidence: explicit; state: Dumbledore funeral, June 1997.
+- Model: Critical relative placement across water after a shore walk. Avoid assigning a compass shore or assuming a straight path; bird song and Hagrid’s later howls carry across the water.
+- [Book 6, ch. 30, “The White Tomb”, ref p. 682–683, ¶76 (B06-C030-P0076)](../build/reader/book-06.html#B06-C030-P0076)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 683, ¶78 (B06-C030-P0078)](../build/reader/book-06.html#B06-C030-P0078)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 683, ¶80 (B06-C030-P0080)](../build/reader/book-06.html#B06-C030-P0080)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 683, ¶85 (B06-C030-P0085)](../build/reader/book-06.html#B06-C030-P0085)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 685, ¶106 (B06-C030-P0106)](../build/reader/book-06.html#B06-C030-P0106)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 685, ¶112 (B06-C030-P0112)](../build/reader/book-06.html#B06-C030-P0112)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 686–687, ¶121 (B06-C030-P0121)](../build/reader/book-06.html#B06-C030-P0121)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 687, ¶122 (B06-C030-P0122)](../build/reader/book-06.html#B06-C030-P0122)
 
 ## Book 7: Harry Potter and the Deathly Hallows
 

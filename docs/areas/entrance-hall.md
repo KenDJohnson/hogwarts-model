@@ -382,3 +382,14 @@ Model: Route sequence only; does not prove each described segment is adjacent or
 - [Book 6, ch. 19, “Elf Tails”, ref p. 424, ¶81 (B06-C019-P0081)](../../build/reader/book-06.html#B06-C019-P0081)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 424–425, ¶84 (B06-C019-P0084)](../../build/reader/book-06.html#B06-C019-P0084)
 
+## B06-187: Entrance Hall blast damage and Gryffindor hourglass
+
+The oak front doors have been blasted open, blood smears the flagstone floor, and students shelter against the walls. The giant Gryffindor hourglass is cursed and its rubies fall rattling onto the flagstones.
+
+Evidence: explicit; state: Night of tower attack, June 1997.
+
+Model: Fixed score hourglass material/contents and damaged state. No dimensions, exact hourglass wall position or conditions of the other houses’ counters supplied.
+
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 632–633, ¶22 (B06-C028-P0022)](../../build/reader/book-06.html#B06-C028-P0022)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 633, ¶23 (B06-C028-P0023)](../../build/reader/book-06.html#B06-C028-P0023)
+

@@ -858,3 +858,27 @@ Model: Rule and duration are reported; local Apparition is witnessed. Maintain a
 - [Book 6, ch. 18, “Birthday Surprises”, ref p. 403, ¶106 (B06-C018-P0106)](../../build/reader/book-06.html#B06-C018-P0106)
 - [Book 6, ch. 18, “Birthday Surprises”, ref p. 403–404, ¶107 (B06-C018-P0107)](../../build/reader/book-06.html#B06-C018-P0107)
 
+## B06-204: Great Hall central throne chair
+
+A throne-like chair occupies the middle of the staff table and is left empty for Dumbledore; Hagrid’s chair is empty too, while Scrimgeour occupies Snape’s former place.
+
+Evidence: explicit; state: Dumbledore funeral, June 1997.
+
+Model: Chair type and central placement are permanent-geometry evidence; occupancy is specific to funeral breakfast.
+
+- [Book 6, ch. 30, “The White Tomb”, ref p. 673, ¶43 (B06-C030-P0043)](../../build/reader/book-06.html#B06-C030-P0043)
+
+## B06-205: Great Hall–lakeshore ceremony route
+
+Students file from the Great Hall benches through the Entrance Hall and front doors onto the stone steps, then follow their Heads of House towards the lake.
+
+Evidence: explicit; state: Dumbledore funeral, June 1997.
+
+Model: Explicit ceremonial approach from main entrance; no underground or alternate exit involved.
+
+- [Book 6, ch. 30, “The White Tomb”, ref p. 674, ¶45 (B06-C030-P0045)](../../build/reader/book-06.html#B06-C030-P0045)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 674, ¶46 (B06-C030-P0046)](../../build/reader/book-06.html#B06-C030-P0046)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 674, ¶47 (B06-C030-P0047)](../../build/reader/book-06.html#B06-C030-P0047)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 674–675, ¶48 (B06-C030-P0048)](../../build/reader/book-06.html#B06-C030-P0048)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 675–676, ¶50 (B06-C030-P0050)](../../build/reader/book-06.html#B06-C030-P0050)
+

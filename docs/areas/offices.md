@@ -1269,13 +1269,17 @@ In the recollection, Slughorn sits in a comfortable winged armchair with his fee
 
 Evidence: explicit; state: Riddle’s teenage school years, memory viewed January 1997.
 
-Model: The supplied memory is explicitly tampered with (P0198–P0202). Preserve this historical view as provisional; white fog and abrupt sound changes are memory alteration artefacts, not actual office fixtures or weather.
+Model: The first view in chapter 17 is tampered with; the later genuine memory repeats and supports these furnishings. White fog in the earlier version is a memory-edit artefact, not physical office atmosphere. The clock stands on the desk behind Slughorn’s chair.
 
 - [Book 6, ch. 17, “A Sluggish Memory”, ref p. 385–386, ¶178 (B06-C017-P0178)](../../build/reader/book-06.html#B06-C017-P0178)
 - [Book 6, ch. 17, “A Sluggish Memory”, ref p. 386, ¶179 (B06-C017-P0179)](../../build/reader/book-06.html#B06-C017-P0179)
 - [Book 6, ch. 17, “A Sluggish Memory”, ref p. 387, ¶185 (B06-C017-P0185)](../../build/reader/book-06.html#B06-C017-P0185)
 - [Book 6, ch. 17, “A Sluggish Memory”, ref p. 387, ¶186 (B06-C017-P0186)](../../build/reader/book-06.html#B06-C017-P0186)
 - [Book 6, ch. 17, “A Sluggish Memory”, ref p. 387, ¶187 (B06-C017-P0187)](../../build/reader/book-06.html#B06-C017-P0187)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 518, ¶26 (B06-C023-P0026)](../../build/reader/book-06.html#B06-C023-P0026)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 518, ¶27 (B06-C023-P0027)](../../build/reader/book-06.html#B06-C023-P0027)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 519, ¶38 (B06-C023-P0038)](../../build/reader/book-06.html#B06-C023-P0038)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 519, ¶40 (B06-C023-P0040)](../../build/reader/book-06.html#B06-C023-P0040)
 
 ## B06-109: Slughorn study furniture and circulation
 
@@ -1374,4 +1378,143 @@ Model: Both entrances have seventh-floor evidence, but are geographically separa
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 489, ¶159 (B06-C021-P0159)](../../build/reader/book-06.html#B06-C021-P0159)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 489, ¶161 (B06-C021-P0161)](../../build/reader/book-06.html#B06-C021-P0161)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 489, ¶162 (B06-C021-P0162)](../../build/reader/book-06.html#B06-C021-P0162)
+
+## B06-148: Headmaster office listening portraits
+
+Every portrait around the office walls is awake and listening; one depicts a fat red-nosed wizard who uses an ear trumpet.
+
+Evidence: explicit; state: After Aragog burial, spring 1997.
+
+Model: Additional portrait subject/prop and animated reaction, not a real ear trumpet lying in the room.
+
+- [Book 6, ch. 23, “Horcruxes”, ref p. 523, ¶78 (B06-C023-P0078)](../../build/reader/book-06.html#B06-C023-P0078)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 527–528, ¶96 (B06-C023-P0096)](../../build/reader/book-06.html#B06-C023-P0096)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 533, ¶130 (B06-C023-P0130)](../../build/reader/book-06.html#B06-C023-P0130)
+
+## B06-149: Gryffindor sword display behind Headmaster
+
+A ruby-encrusted sword rests in a glass case on the wall behind Dumbledore; he identifies it as the surviving known Gryffindor relic.
+
+Evidence: explicit; state: After Aragog burial, spring 1997.
+
+Model: Observed wall position, glass enclosure and jewelled sword. Provenance is Dumbledore’s statement; no case dimensions supplied.
+
+- [Book 6, ch. 23, “Horcruxes”, ref p. 530, ¶112 (B06-C023-P0112)](../../build/reader/book-06.html#B06-C023-P0112)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 530–531, ¶113 (B06-C023-P0113)](../../build/reader/book-06.html#B06-C023-P0113)
+
+## B06-160: Dungeon office approach and acoustic isolation
+
+During the final match Harry descends stone steps into the dungeons and walks until crowd sounds disappear. Snape’s office remains in the dungeons although his teaching is now floors above. Leaving, Harry climbs the stone steps back towards the Great Hall and then the marble staircase to Gryffindor.
+
+Evidence: explicit; state: May 1997.
+
+Model: Dated route and loss of distant pitch sound; no proof of purpose-built soundproofing. Separate dungeon stone stairs from subsequent marble ascent.
+
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 559–560, ¶143 (B06-C024-P0143)](../../build/reader/book-06.html#B06-C024-P0143)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 560, ¶144 (B06-C024-P0144)](../../build/reader/book-06.html#B06-C024-P0144)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 562, ¶155 (B06-C024-P0155)](../../build/reader/book-06.html#B06-C024-P0155)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 562, ¶156 (B06-C024-P0156)](../../build/reader/book-06.html#B06-C024-P0156)
+
+## B06-161: Snape dungeon office fixtures and detention files
+
+The dim office has slimy dead specimens suspended in coloured potions around the walls. Cobwebbed boxes of damaged, mouse-chewed or faded punishment record cards are piled on a table where Harry sits to copy them. A large clock ticks on the wall.
+
+Evidence: explicit; state: May 1997.
+
+Model: Specimen display, worktable, clock and temporary files. Harry’s suspicion that the clock runs slowly is unverified and should not drive an animation rule.
+
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 560, ¶144 (B06-C024-P0144)](../../build/reader/book-06.html#B06-C024-P0144)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 560, ¶145 (B06-C024-P0145)](../../build/reader/book-06.html#B06-C024-P0145)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 560, ¶147 (B06-C024-P0147)](../../build/reader/book-06.html#B06-C024-P0147)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 560–561, ¶148 (B06-C024-P0148)](../../build/reader/book-06.html#B06-C024-P0148)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 561, ¶149 (B06-C024-P0149)](../../build/reader/book-06.html#B06-C024-P0149)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 561, ¶150 (B06-C024-P0150)](../../build/reader/book-06.html#B06-C024-P0150)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 561, ¶151 (B06-C024-P0151)](../../build/reader/book-06.html#B06-C024-P0151)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 561, ¶152 (B06-C024-P0152)](../../build/reader/book-06.html#B06-C024-P0152)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 561, ¶153 (B06-C024-P0153)](../../build/reader/book-06.html#B06-C024-P0153)
+
+## B06-167: Headmaster office sunset view
+
+Dumbledore stands at the office window looking out over the grounds. The setting sun casts gold then red light into the room and appears as a ruby-red glare along the horizon.
+
+Evidence: explicit; state: June 1997, departure evening.
+
+Model: Grounds and sunset line of sight from window. Do not assign a precise azimuth or identify which window from this alone.
+
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 574, ¶126 (B06-C025-P0126)](../../build/reader/book-06.html#B06-C025-P0126)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 574–575, ¶127 (B06-C025-P0127)](../../build/reader/book-06.html#B06-C025-P0127)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 576, ¶142 (B06-C025-P0142)](../../build/reader/book-06.html#B06-C025-P0142)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 576, ¶150 (B06-C025-P0150)](../../build/reader/book-06.html#B06-C025-P0150)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 580, ¶191 (B06-C025-P0191)](../../build/reader/book-06.html#B06-C025-P0191)
+
+## B06-168: Extra protection during Headmaster absence
+
+Dumbledore says he has never left Hogwarts unprotected during his absences that year and will put additional protection in place that evening.
+
+Evidence: reported; state: June 1997, departure evening.
+
+Model: Dated security preparation; unspecified personnel/spells here. Harry’s concern about circumvention is not proof that any particular barrier has failed.
+
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 578, ¶167 (B06-C025-P0167)](../../build/reader/book-06.html#B06-C025-P0167)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 578–579, ¶169 (B06-C025-P0169)](../../build/reader/book-06.html#B06-C025-P0169)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 579, ¶170 (B06-C025-P0170)](../../build/reader/book-06.html#B06-C025-P0170)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 581, ¶196 (B06-C025-P0196)](../../build/reader/book-06.html#B06-C025-P0196)
+
+## B06-172: Headmaster office scale comparison
+
+The small flat rocky island in the remote sea cave is described as no larger than Dumbledore’s office.
+
+Evidence: explicit; state: June 1997 cave visit.
+
+Model: Relative scale comparison only, with no numeric dimension. The distant cave is explicitly outside Hogwarts surroundings and its underground lake is not the Hogwarts lake; do not transplant its layout, boat or Inferi into the school grounds.
+
+- [Book 6, ch. 26, “The Cave”, ref p. 597, ¶109 (B06-C026-P0109)](../../build/reader/book-06.html#B06-C026-P0109)
+- [Book 6, ch. 26, “The Cave”, ref p. 597–598, ¶111 (B06-C026-P0111)](../../build/reader/book-06.html#B06-C026-P0111)
+
+## B06-196: Snape office battle-night approach
+
+Hermione and Luna wait outside the dungeon office. Flitwick runs down from the fighting and enters it; Snape emerges, tells them to attend to Flitwick, and they find him unconscious on the office floor.
+
+Evidence: reported; state: Night after tower attack, June 1997.
+
+Model: Observed by reporting witnesses. Snape stunning Flitwick is their inference; Harry’s imagined marble-stair ascent at P0073 is not a witnessed route.
+
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 651–652, ¶67 (B06-C029-P0067)](../../build/reader/book-06.html#B06-C029-P0067)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 652, ¶69 (B06-C029-P0069)](../../build/reader/book-06.html#B06-C029-P0069)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 652, ¶71 (B06-C029-P0071)](../../build/reader/book-06.html#B06-C029-P0071)
+
+## B06-197: Headmaster office after succession
+
+The circular office remains much as before: silver instruments whir and smoke on spindle-legged tables, the sword in its case gleams in moonlight, and the Sorting Hat is on a shelf behind the desk. Fawkes’s perch is empty. A new sleeping portrait of Dumbledore in a golden frame hangs over the desk.
+
+Evidence: explicit; state: Night after tower attack, June 1997.
+
+Model: Office is now used by McGonagall; no black drapery or body is actually present—those are Harry’s expectations, explicitly contradicted by observation.
+
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 659, ¶124 (B06-C029-P0124)](../../build/reader/book-06.html#B06-C029-P0124)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 659–660, ¶125 (B06-C029-P0125)](../../build/reader/book-06.html#B06-C029-P0125)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 660, ¶126 (B06-C029-P0126)](../../build/reader/book-06.html#B06-C029-P0126)
+
+## B06-198: Everard portrait high on office wall
+
+A sallow-faced wizard with a short black fringe returns to his canvas high on the wall and speaks; McGonagall addresses him as Everard.
+
+Evidence: explicit; state: Night after tower attack, June 1997.
+
+Model: Portrait identity, appearance and height relationship; no precise frame dimensions. His Minister-arrival news does not show an actual physical route from the Ministry.
+
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 661, ¶138 (B06-C029-P0138)](../../build/reader/book-06.html#B06-C029-P0138)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 661, ¶139 (B06-C029-P0139)](../../build/reader/book-06.html#B06-C029-P0139)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 661, ¶140 (B06-C029-P0140)](../../build/reader/book-06.html#B06-C029-P0140)
+
+## B06-199: Headmaster office grounds approach view
+
+From the office window McGonagall looks down over the grounds to watch for the Minister and later sees him arriving with a delegation.
+
+Evidence: explicit; state: Night after tower attack, June 1997.
+
+Model: Confirmed downward exterior approach view; exact gates/path visible and viewing bearing unspecified.
+
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 663, ¶151 (B06-C029-P0151)](../../build/reader/book-06.html#B06-C029-P0151)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 664, ¶166 (B06-C029-P0166)](../../build/reader/book-06.html#B06-C029-P0166)
 

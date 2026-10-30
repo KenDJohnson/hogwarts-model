@@ -514,3 +514,66 @@ Model: Habitat remembered by Harry and access danger reported by Hagrid. No new 
 - [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 239, ¶121 (B06-C011-P0121)](../../build/reader/book-06.html#B06-C011-P0121)
 - [Book 6, ch. 11, “Hermione’s Helping Hand”, ref p. 239–240, ¶123 (B06-C011-P0123)](../../build/reader/book-06.html#B06-C011-P0123)
 
+## B06-138: Forest spider colony after Aragog’s death
+
+Hagrid reports that after Aragog dies the other spiders no longer let him near their webs and would eat him; extracting the body is difficult because the colony normally eats its dead.
+
+Evidence: reported; state: Apparition-test day, spring 1997.
+
+Model: Changed access danger and web habitat; no magical barrier or precise colony location added.
+
+- [Book 6, ch. 22, “After the Burial”, ref p. 503, ¶121 (B06-C022-P0121)](../../build/reader/book-06.html#B06-C022-P0121)
+- [Book 6, ch. 22, “After the Burial”, ref p. 503–504, ¶123 (B06-C022-P0123)](../../build/reader/book-06.html#B06-C022-P0123)
+- [Book 6, ch. 22, “After the Burial”, ref p. 505, ¶135 (B06-C022-P0135)](../../build/reader/book-06.html#B06-C022-P0135)
+- [Book 6, ch. 22, “After the Burial”, ref p. 505, ¶136 (B06-C022-P0136)](../../build/reader/book-06.html#B06-C022-P0136)
+- [Book 6, ch. 22, “After the Burial”, ref p. 505, ¶137 (B06-C022-P0137)](../../build/reader/book-06.html#B06-C022-P0137)
+- [Book 6, ch. 22, “After the Burial”, ref p. 505, ¶138 (B06-C022-P0138)](../../build/reader/book-06.html#B06-C022-P0138)
+
+## B06-140: Aragog grave and earth mound
+
+A massive pit in the back garden lies beside a ten-foot-high heap of excavated earth. Moonlight through trees mingles with light from the hut window to illuminate the body at the pit edge. Hagrid rolls Aragog in; Slughorn levitates the earth over it, leaving a smooth mound.
+
+Evidence: explicit; state: Apparition-test day, spring 1997.
+
+Model: Ten feet describes spoil-heap height, not grave depth. Record the filled grave as the resulting terrain feature and the open pit as the funeral state.
+
+- [Book 6, ch. 22, “After the Burial”, ref p. 506–507, ¶145 (B06-C022-P0145)](../../build/reader/book-06.html#B06-C022-P0145)
+- [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶151 (B06-C022-P0151)](../../build/reader/book-06.html#B06-C022-P0151)
+- [Book 6, ch. 22, “After the Burial”, ref p. 507, ¶152 (B06-C022-P0152)](../../build/reader/book-06.html#B06-C022-P0152)
+- [Book 6, ch. 22, “After the Burial”, ref p. 508, ¶155 (B06-C022-P0155)](../../build/reader/book-06.html#B06-C022-P0155)
+- [Book 6, ch. 22, “After the Burial”, ref p. 508, ¶157 (B06-C022-P0157)](../../build/reader/book-06.html#B06-C022-P0157)
+- [Book 6, ch. 22, “After the Burial”, ref p. 508–509, ¶159 (B06-C022-P0159)](../../build/reader/book-06.html#B06-C022-P0159)
+
+## B06-144: Hagrid’s school cupboard for young Aragog
+
+Hagrid recalls keeping Aragog in a cupboard up at the school when the spider was young.
+
+Evidence: reported; state: Hagrid’s student years, recalled spring 1997.
+
+Model: Historical animal-hiding cupboard only; exact room, floor, size and survival are unspecified.
+
+- [Book 6, ch. 22, “After the Burial”, ref p. 509–510, ¶166 (B06-C022-P0166)](../../build/reader/book-06.html#B06-C022-P0166)
+- [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶168 (B06-C022-P0168)](../../build/reader/book-06.html#B06-C022-P0168)
+- [Book 6, ch. 22, “After the Burial”, ref p. 510, ¶169 (B06-C022-P0169)](../../build/reader/book-06.html#B06-C022-P0169)
+
+## B06-202: Forest-edge visiting carriage
+
+A house-sized powder-blue carriage pulled by twelve giant winged palominos flies in and lands at the Forest edge. A castle window gives Harry a view of the arrival and Madame Maxime descending its steps.
+
+Evidence: explicit; state: Afternoon before funeral, June 1997.
+
+Model: Temporary visitor vehicle footprint and Forest-edge landing; no exact distance from cabin or earlier tournament parking site established.
+
+- [Book 6, ch. 30, “The White Tomb”, ref p. 666–667, ¶2 (B06-C030-P0002)](../../build/reader/book-06.html#B06-C030-P0002)
+
+## B06-209: Funeral view across lake to centaur woods
+
+From his lakeside seat Harry looks out over the lake towards the Forest and sees centaurs standing still among the trees, half-hidden in shade with bows lowered. They do not enter the open; their farewell arrows fall well short of the crowd before they retreat.
+
+Evidence: explicit; state: Dumbledore funeral, June 1997.
+
+Model: Lake–Forest sightline and shaded tree edge; no measured arrow range, village or centaur settlement.
+
+- [Book 6, ch. 30, “The White Tomb”, ref p. 679, ¶59 (B06-C030-P0059)](../../build/reader/book-06.html#B06-C030-P0059)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 680–681, ¶63 (B06-C030-P0063)](../../build/reader/book-06.html#B06-C030-P0063)
+

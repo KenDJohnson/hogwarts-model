@@ -1092,3 +1092,19 @@ Model: Reported magical constraint on the post; do not locate a curse source in 
 - [Book 6, ch. 20, “Lord Voldemort’s Request”, ref p. 468, ¶206 (B06-C020-P0206)](../../build/reader/book-06.html#B06-C020-P0206)
 - [Book 6, ch. 20, “Lord Voldemort’s Request”, ref p. 468, ¶207 (B06-C020-P0207)](../../build/reader/book-06.html#B06-C020-P0207)
 
+## B06-150: Charms classroom accidental snowfall
+
+Ron’s misdirected wand makes large fake snowflakes fall from the classroom ceiling onto nearby pupils. They work at neighbouring tables with glass flasks; Flitwick shelters under a table when a flask explodes.
+
+Evidence: explicit; state: Morning after Aragog burial, spring 1997.
+
+Model: Lesson-specific spell effect and work furniture; not weather penetrating the castle.
+
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 539, ¶2 (B06-C024-P0002)](../../build/reader/book-06.html#B06-C024-P0002)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 539–540, ¶3 (B06-C024-P0003)](../../build/reader/book-06.html#B06-C024-P0003)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 540, ¶4 (B06-C024-P0004)](../../build/reader/book-06.html#B06-C024-P0004)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 540, ¶5 (B06-C024-P0005)](../../build/reader/book-06.html#B06-C024-P0005)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 541, ¶17 (B06-C024-P0017)](../../build/reader/book-06.html#B06-C024-P0017)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 541, ¶19 (B06-C024-P0019)](../../build/reader/book-06.html#B06-C024-P0019)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 541, ¶20 (B06-C024-P0020)](../../build/reader/book-06.html#B06-C024-P0020)
+

@@ -1162,3 +1162,199 @@ Model: Both entrances have seventh-floor evidence, but are geographically separa
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 489, ¶161 (B06-C021-P0161)](../../build/reader/book-06.html#B06-C021-P0161)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 489, ¶162 (B06-C021-P0162)](../../build/reader/book-06.html#B06-C021-P0162)
 
+## B06-148: Headmaster office listening portraits
+
+Every portrait around the office walls is awake and listening; one depicts a fat red-nosed wizard who uses an ear trumpet.
+
+Evidence: explicit; state: After Aragog burial, spring 1997.
+
+Model: Additional portrait subject/prop and animated reaction, not a real ear trumpet lying in the room.
+
+- [Book 6, ch. 23, “Horcruxes”, ref p. 523, ¶78 (B06-C023-P0078)](../../build/reader/book-06.html#B06-C023-P0078)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 527–528, ¶96 (B06-C023-P0096)](../../build/reader/book-06.html#B06-C023-P0096)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 533, ¶130 (B06-C023-P0130)](../../build/reader/book-06.html#B06-C023-P0130)
+
+## B06-164: Room of Requirement corridor left/right relation
+
+Approaching Trelawney’s fallen position from a nearby corner, Harry sees the dancing-troll tapestry on his right and the smooth stone wall hiding the Room on his left.
+
+Evidence: explicit; state: June 1997, departure evening.
+
+Model: View-relative sides only; no compass bearing. Corridors are quiet shortly before curfew.
+
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 568, ¶55 (B06-C025-P0055)](../../build/reader/book-06.html#B06-C025-P0055)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 568, ¶56 (B06-C025-P0056)](../../build/reader/book-06.html#B06-C025-P0056)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 569, ¶58 (B06-C025-P0058)](../../build/reader/book-06.html#B06-C025-P0058)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 569, ¶63 (B06-C025-P0063)](../../build/reader/book-06.html#B06-C025-P0063)
+
+## B06-166: Niche vase near Room corridor
+
+A large blue-and-white vase stands in a nearby niche; Trelawney puts her sherry bottles into it before accompanying Harry.
+
+Evidence: explicit; state: June 1997, departure evening.
+
+Model: Fixed decorative vessel in wall recess with temporary concealed bottles; exact recess placement not specified.
+
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 572, ¶105 (B06-C025-P0105)](../../build/reader/book-06.html#B06-C025-P0105)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 572, ¶106 (B06-C025-P0106)](../../build/reader/book-06.html#B06-C025-P0106)
+
+## B06-177: Astronomy Tower ramparts and stair door
+
+The tower top has crenellated ramparts/battlements and a wall against which Harry and Dumbledore can lean. A door with an iron ring opens to a spiral stair down into the castle. Initially it is closed and the ramparts are deserted.
+
+Evidence: explicit; state: Night of tower attack, June 1997.
+
+Model: Tower-top enclosure and descent route, not a roofed interior room. Door material is not specified by its iron handle.
+
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 613–614, ¶36 (B06-C027-P0036)](../../build/reader/book-06.html#B06-C027-P0036)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶37 (B06-C027-P0037)](../../build/reader/book-06.html#B06-C027-P0037)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶38 (B06-C027-P0038)](../../build/reader/book-06.html#B06-C027-P0038)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614–615, ¶44 (B06-C027-P0044)](../../build/reader/book-06.html#B06-C027-P0044)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 615, ¶45 (B06-C027-P0045)](../../build/reader/book-06.html#B06-C027-P0045)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 615, ¶46 (B06-C027-P0046)](../../build/reader/book-06.html#B06-C027-P0046)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 615, ¶47 (B06-C027-P0047)](../../build/reader/book-06.html#B06-C027-P0047)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 615, ¶48 (B06-C027-P0048)](../../build/reader/book-06.html#B06-C027-P0048)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 619, ¶82 (B06-C027-P0082)](../../build/reader/book-06.html#B06-C027-P0082)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 621, ¶97 (B06-C027-P0097)](../../build/reader/book-06.html#B06-C027-P0097)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 621, ¶102 (B06-C027-P0102)](../../build/reader/book-06.html#B06-C027-P0102)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 624, ¶125 (B06-C027-P0125)](../../build/reader/book-06.html#B06-C027-P0125)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 626, ¶146 (B06-C027-P0146)](../../build/reader/book-06.html#B06-C027-P0146)
+
+## B06-180: Guard fight and tower staircase barrier
+
+Muffled cries from the castle below grow into fighting sounds on the spiral staircase. Four Death Eaters reach the ramparts; a voice below says the stairs are blocked and casts Reducto. Snape subsequently comes through the stair door.
+
+Evidence: explicit; state: Night of tower attack, June 1997.
+
+Model: Battle route and temporary stair obstruction, with barrier inferred by Harry from sounds here; exact construction clarified only by later witnesses. Snape’s passage does not prove everyone can pass.
+
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 616, ¶57 (B06-C027-P0057)](../../build/reader/book-06.html#B06-C027-P0057)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 617, ¶66 (B06-C027-P0066)](../../build/reader/book-06.html#B06-C027-P0066)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 617, ¶69 (B06-C027-P0069)](../../build/reader/book-06.html#B06-C027-P0069)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 620–621, ¶95 (B06-C027-P0095)](../../build/reader/book-06.html#B06-C027-P0095)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 622, ¶111 (B06-C027-P0111)](../../build/reader/book-06.html#B06-C027-P0111)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 624, ¶125 (B06-C027-P0125)](../../build/reader/book-06.html#B06-C027-P0125)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 626–627, ¶150 (B06-C027-P0150)](../../build/reader/book-06.html#B06-C027-P0150)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 627, ¶151 (B06-C027-P0151)](../../build/reader/book-06.html#B06-C027-P0151)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 627, ¶156 (B06-C027-P0156)](../../build/reader/book-06.html#B06-C027-P0156)
+
+## B06-179: Vanishing Cabinet passage into Hogwarts
+
+Draco says he spent the year repairing the broken Hogwarts Vanishing Cabinet in which Montague was trapped. Its mate is in Borgin and Burkes; together they form a passage. Montague reportedly heard both school and shop while trapped between them and eventually Apparated out at great risk. Death Eaters used the repaired pair to enter the school.
+
+Evidence: reported; state: Night of tower attack, June 1997.
+
+Model: Magical off-site bypass, not a physical tunnel under the perimeter. Chapter 24 locates the Hogwarts cabinet in the hiding room. Chapter 6’s shop cabinet description can be reconciled as the off-site endpoint but its identity is not visually demonstrated by this account.
+
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 617–618, ¶74 (B06-C027-P0074)](../../build/reader/book-06.html#B06-C027-P0074)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 618, ¶77 (B06-C027-P0077)](../../build/reader/book-06.html#B06-C027-P0077)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 618, ¶78 (B06-C027-P0078)](../../build/reader/book-06.html#B06-C027-P0078)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 618–619, ¶79 (B06-C027-P0079)](../../build/reader/book-06.html#B06-C027-P0079)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 619, ¶81 (B06-C027-P0081)](../../build/reader/book-06.html#B06-C027-P0081)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 619–620, ¶90 (B06-C027-P0090)](../../build/reader/book-06.html#B06-C027-P0090)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 554–555, ¶105 (B06-C024-P0105)](../../build/reader/book-06.html#B06-C024-P0105)
+- [Book 6, ch. 6, “Draco’s Detour”, ref p. 129, ¶184 (B06-C006-P0184)](../../build/reader/book-06.html#B06-C006-P0184)
+- [Book 6, ch. 6, “Draco’s Detour”, ref p. 130, ¶198 (B06-C006-P0198)](../../build/reader/book-06.html#B06-C006-P0198)
+- [Book 6, ch. 6, “Draco’s Detour”, ref p. 131, ¶211 (B06-C006-P0211)](../../build/reader/book-06.html#B06-C006-P0211)
+
+## B06-183: Astronomy stair–battle corridor
+
+From the rampart door Harry runs down the dark spiral stair, jumps its final ten steps and lands in a dim corridor. Snape escapes around a corner at the corridor’s far end.
+
+Evidence: explicit; state: Night of tower attack, June 1997.
+
+Model: Top-to-corridor connection; ten is the number of steps jumped, not the staircase’s total step count.
+
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 628–629, ¶3 (B06-C028-P0003)](../../build/reader/book-06.html#B06-C028-P0003)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 629, ¶5 (B06-C028-P0005)](../../build/reader/book-06.html#B06-C028-P0005)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 629, ¶7 (B06-C028-P0007)](../../build/reader/book-06.html#B06-C028-P0007)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 631, ¶17 (B06-C028-P0017)](../../build/reader/book-06.html#B06-C028-P0017)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 631–632, ¶18 (B06-C028-P0018)](../../build/reader/book-06.html#B06-C028-P0018)
+
+## B06-184: Corridor structural battle damage
+
+Dust fills the corridor and roughly half its ceiling appears collapsed. Curses ricochet off stone walls, crack stone, shatter a nearby window and blast wall fragments overhead. Blood and fallen people make the floor slippery and obstructed.
+
+Evidence: explicit; state: Night of tower attack, June 1997.
+
+Model: Observed local damage; “half” is an impression, not surveyed area. Avoid labelling fallen people dead before later confirmation.
+
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 629, ¶7 (B06-C028-P0007)](../../build/reader/book-06.html#B06-C028-P0007)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 629–630, ¶9 (B06-C028-P0009)](../../build/reader/book-06.html#B06-C028-P0009)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 630, ¶11 (B06-C028-P0011)](../../build/reader/book-06.html#B06-C028-P0011)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 630–631, ¶12 (B06-C028-P0012)](../../build/reader/book-06.html#B06-C028-P0012)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 631, ¶13 (B06-C028-P0013)](../../build/reader/book-06.html#B06-C028-P0013)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 631, ¶16 (B06-C028-P0016)](../../build/reader/book-06.html#B06-C028-P0016)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 631, ¶17 (B06-C028-P0017)](../../build/reader/book-06.html#B06-C028-P0017)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 631–632, ¶18 (B06-C028-P0018)](../../build/reader/book-06.html#B06-C028-P0018)
+
+## B06-185: Marble-stair landing portrait and destroyed armour
+
+After further corridor corners Harry shelters behind a suit of armour that explodes under a curse. On the landing a portrait of several wig-wearing witches is struck; its occupants flee into neighbouring paintings as the Carrows descend the marble stairs.
+
+Evidence: explicit; state: Night of tower attack, June 1997.
+
+Model: Armour, landing artwork cluster and dated destruction; portrait subjects move between frames, rather than physically into the corridor.
+
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 631–632, ¶18 (B06-C028-P0018)](../../build/reader/book-06.html#B06-C028-P0018)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 632, ¶19 (B06-C028-P0019)](../../build/reader/book-06.html#B06-C028-P0019)
+
+## B06-186: Concealed stair shortcut with vanishing step
+
+Harry uses a concealed staircase shortcut, jumping a vanishing step halfway down. A tapestry at its bottom opens into a corridor occupied by Hufflepuffs; he then reaches a landing and descends the remaining marble stairs to the Entrance Hall, overtaking the Carrows.
+
+Evidence: explicit; state: Night of tower attack, June 1997.
+
+Model: Shortcut joins levels of the marble-stair route and contains a specific step hazard. Hufflepuff presence does not establish this corridor as their common-room entrance or basement.
+
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 632, ¶20 (B06-C028-P0020)](../../build/reader/book-06.html#B06-C028-P0020)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 632, ¶21 (B06-C028-P0021)](../../build/reader/book-06.html#B06-C028-P0021)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 632–633, ¶22 (B06-C028-P0022)](../../build/reader/book-06.html#B06-C028-P0022)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 633–634, ¶26 (B06-C028-P0026)](../../build/reader/book-06.html#B06-C028-P0026)
+
+## B06-194: Darkness Powder at Room corridor
+
+Ron and Ginny report Draco emerging with a Hand of Glory, which illuminates only its holder. He throws Darkness Powder into the corridor; neither Lumos nor Incendio penetrates it, and guards must feel their way to a lit corridor while people run past.
+
+Evidence: reported; state: Night after tower attack, June 1997.
+
+Model: Temporary visually opaque zone and selective light source. Exact cloud extent and persistence unspecified; companions’ identities and guiding method are partly their reconstruction.
+
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 650, ¶57 (B06-C029-P0057)](../../build/reader/book-06.html#B06-C029-P0057)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 650, ¶58 (B06-C029-P0058)](../../build/reader/book-06.html#B06-C029-P0058)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 650, ¶59 (B06-C029-P0059)](../../build/reader/book-06.html#B06-C029-P0059)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 650, ¶60 (B06-C029-P0060)](../../build/reader/book-06.html#B06-C029-P0060)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 650, ¶61 (B06-C029-P0061)](../../build/reader/book-06.html#B06-C029-P0061)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 650, ¶62 (B06-C029-P0062)](../../build/reader/book-06.html#B06-C029-P0062)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 650–651, ¶63 (B06-C029-P0063)](../../build/reader/book-06.html#B06-C029-P0063)
+
+## B06-195: Astronomy stair cursed barrier and collapse
+
+Tonks reports a curse blocking the stair behind the Death Eaters; Neville is thrown upward trying to enter. Lupin sees Snape pass through and is himself repelled. A later hex drops half the corridor ceiling and breaks the stair-blocking curse.
+
+Evidence: reported; state: Night after tower attack, June 1997.
+
+Model: Selectively passable barrier and explicit destruction sequence. Dark-Mark eligibility is Harry’s guess at P0080, not established; do not implement that as confirmed authentication.
+
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 652–653, ¶74 (B06-C029-P0074)](../../build/reader/book-06.html#B06-C029-P0074)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653, ¶75 (B06-C029-P0075)](../../build/reader/book-06.html#B06-C029-P0075)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653, ¶76 (B06-C029-P0076)](../../build/reader/book-06.html#B06-C029-P0076)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653, ¶77 (B06-C029-P0077)](../../build/reader/book-06.html#B06-C029-P0077)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653, ¶78 (B06-C029-P0078)](../../build/reader/book-06.html#B06-C029-P0078)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653, ¶79 (B06-C029-P0079)](../../build/reader/book-06.html#B06-C029-P0079)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653, ¶80 (B06-C029-P0080)](../../build/reader/book-06.html#B06-C029-P0080)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 653–654, ¶81 (B06-C029-P0081)](../../build/reader/book-06.html#B06-C029-P0081)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 654, ¶82 (B06-C029-P0082)](../../build/reader/book-06.html#B06-C029-P0082)
+
+## B06-198: Everard portrait high on office wall
+
+A sallow-faced wizard with a short black fringe returns to his canvas high on the wall and speaks; McGonagall addresses him as Everard.
+
+Evidence: explicit; state: Night after tower attack, June 1997.
+
+Model: Portrait identity, appearance and height relationship; no precise frame dimensions. His Minister-arrival news does not show an actual physical route from the Ministry.
+
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 661, ¶138 (B06-C029-P0138)](../../build/reader/book-06.html#B06-C029-P0138)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 661, ¶139 (B06-C029-P0139)](../../build/reader/book-06.html#B06-C029-P0139)
+- [Book 6, ch. 29, “The Phoenix Lament”, ref p. 661, ¶140 (B06-C029-P0140)](../../build/reader/book-06.html#B06-C029-P0140)
+

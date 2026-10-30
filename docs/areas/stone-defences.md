@@ -285,3 +285,14 @@ Model: Reported actual return, but no explicit confirmation of the proposed broo
 - [Book 1, ch. 17, “The Man with Two Faces”, ref p. 307, ¶157 (B01-C017-P0157)](../../build/reader/book-01.html#B01-C017-P0157)
 - [Book 1, ch. 17, “The Man with Two Faces”, ref p. 307, ¶158 (B01-C017-P0158)](../../build/reader/book-01.html#B01-C017-P0158)
 
+## B06-145: Front door–third-floor shortcut–Gryffindor
+
+The front door remains unlocked on Harry’s return after the burial. On the third floor he dodges Peeves through a sideways shortcut, then climbs higher to the Fat Lady’s portrait and the hard corridor floor outside it.
+
+Evidence: explicit; state: After Aragog burial, spring 1997.
+
+Model: Third-floor shortcut on upward route; no complete internal shortcut shape or exact travel time.
+
+- [Book 6, ch. 23, “Horcruxes”, ref p. 515–516, ¶1 (B06-C023-P0001)](../../build/reader/book-06.html#B06-C023-P0001)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶7 (B06-C023-P0007)](../../build/reader/book-06.html#B06-C023-P0007)
+

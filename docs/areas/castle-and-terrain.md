@@ -608,3 +608,79 @@ Model: Dumbledore’s interpretation of Voldemort’s aims remains speculation; 
 - [Book 6, ch. 20, “Lord Voldemort’s Request”, ref p. 451, ¶70 (B06-C020-P0070)](../../build/reader/book-06.html#B06-C020-P0070)
 - [Book 6, ch. 20, “Lord Voldemort’s Request”, ref p. 451, ¶71 (B06-C020-P0071)](../../build/reader/book-06.html#B06-C020-P0071)
 
+## B06-134: Castle turrets, courtyard and bell
+
+Blue sky appears over castle turrets. The courtyard has a sunny corner where pupils sit; a bell sounds overhead in the castle and pupils head from there towards the Entrance Hall.
+
+Evidence: explicit; state: Apparition-test day, spring 1997.
+
+Model: Turreted silhouette, courtyard corner and audible school bell; do not infer an explicitly visible bell tower.
+
+- [Book 6, ch. 22, “After the Burial”, ref p. 492, ¶1 (B06-C022-P0001)](../../build/reader/book-06.html#B06-C022-P0001)
+- [Book 6, ch. 22, “After the Burial”, ref p. 492, ¶3 (B06-C022-P0003)](../../build/reader/book-06.html#B06-C022-P0003)
+- [Book 6, ch. 22, “After the Burial”, ref p. 495, ¶38 (B06-C022-P0038)](../../build/reader/book-06.html#B06-C022-P0038)
+- [Book 6, ch. 22, “After the Burial”, ref p. 496, ¶50 (B06-C022-P0050)](../../build/reader/book-06.html#B06-C022-P0050)
+- [Book 6, ch. 22, “After the Burial”, ref p. 496, ¶51 (B06-C022-P0051)](../../build/reader/book-06.html#B06-C022-P0051)
+- [Book 6, ch. 22, “After the Burial”, ref p. 496, ¶52 (B06-C022-P0052)](../../build/reader/book-06.html#B06-C022-P0052)
+
+## B06-169: Castle front steps–drive–gates
+
+Dumbledore waits by the oaken front doors/top stone step, then descends the steps with Harry and follows the drive downhill to gates at its bottom. In still summer twilight the air smells of warm grass, lake water and cabin wood smoke.
+
+Evidence: explicit; state: June 1997, departure evening.
+
+Model: Front entrance → steps → descending drive → gates sequence; environmental scent sources do not supply distances or wind bearings.
+
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶203 (B06-C025-P0203)](../../build/reader/book-06.html#B06-C025-P0203)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶204 (B06-C025-P0204)](../../build/reader/book-06.html#B06-C025-P0204)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶205 (B06-C025-P0205)](../../build/reader/book-06.html#B06-C025-P0205)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶206 (B06-C025-P0206)](../../build/reader/book-06.html#B06-C025-P0206)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582, ¶209 (B06-C025-P0209)](../../build/reader/book-06.html#B06-C025-P0209)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 582–583, ¶210 (B06-C025-P0210)](../../build/reader/book-06.html#B06-C025-P0210)
+
+## B06-173: Hogsmeade High Street return and castle view
+
+Harry and Dumbledore Apparate into the dark High Street, lit by a few streetlamps and upper windows. Rosmerta says she saw them from her bedroom curtains. From the street the green Dark Mark is visible above Hogwarts.
+
+Evidence: explicit; state: Night of tower attack, June 1997.
+
+Model: Ground-level village → school-sky visibility and bedroom → High Street reported view; imagined Inferi around shops at P0002 are not real village occupants.
+
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 609–610, ¶1 (B06-C027-P0001)](../../build/reader/book-06.html#B06-C027-P0001)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 610, ¶2 (B06-C027-P0002)](../../build/reader/book-06.html#B06-C027-P0002)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 610, ¶4 (B06-C027-P0004)](../../build/reader/book-06.html#B06-C027-P0004)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 611, ¶15 (B06-C027-P0015)](../../build/reader/book-06.html#B06-C027-P0015)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 611, ¶16 (B06-C027-P0016)](../../build/reader/book-06.html#B06-C027-P0016)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶22 (B06-C027-P0022)](../../build/reader/book-06.html#B06-C027-P0022)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶23 (B06-C027-P0023)](../../build/reader/book-06.html#B06-C027-P0023)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶24 (B06-C027-P0024)](../../build/reader/book-06.html#B06-C027-P0024)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 612, ¶26 (B06-C027-P0026)](../../build/reader/book-06.html#B06-C027-P0026)
+
+## B06-190: Castle-front night lighting and Astronomy Tower foot
+
+Many castle windows are now lit; light from the open oak doors falls onto the drive and lawn, and people descend the front steps. A crowd gathers on the grass at the foot of the Astronomy Tower near the castle front, directly beneath the Dark Mark, around Dumbledore’s body. Lit wands illuminate the scene.
+
+Evidence: explicit; state: Night of tower attack, June 1997.
+
+Model: Tower base–front lawn relationship and temporary light sources. Harry’s distant imagined body at P0083 is superseded by close observation; no exact tower-to-door spacing.
+
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 640, ¶82 (B06-C028-P0082)](../../build/reader/book-06.html#B06-C028-P0082)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 640, ¶83 (B06-C028-P0083)](../../build/reader/book-06.html#B06-C028-P0083)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 640–641, ¶84 (B06-C028-P0084)](../../build/reader/book-06.html#B06-C028-P0084)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 641, ¶86 (B06-C028-P0086)](../../build/reader/book-06.html#B06-C028-P0086)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 641, ¶87 (B06-C028-P0087)](../../build/reader/book-06.html#B06-C028-P0087)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 641, ¶88 (B06-C028-P0088)](../../build/reader/book-06.html#B06-C028-P0088)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 641–642, ¶89 (B06-C028-P0089)](../../build/reader/book-06.html#B06-C028-P0089)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 642, ¶90 (B06-C028-P0090)](../../build/reader/book-06.html#B06-C028-P0090)
+- [Book 6, ch. 28, “Flight of the Prince”, ref p. 642, ¶93 (B06-C028-P0093)](../../build/reader/book-06.html#B06-C028-P0093)
+
+## B06-207: Castle ghosts in bright sunlight
+
+Castle ghosts attend the outdoor funeral but are barely visible in bright sun, becoming discernible when they move and shimmer in the air.
+
+Evidence: explicit; state: Dumbledore funeral, June 1997.
+
+Model: Rendering constraint for ghost appearance under strong daylight, not proof they are absent or immaterial only in sunlight.
+
+- [Book 6, ch. 30, “The White Tomb”, ref p. 675, ¶49 (B06-C030-P0049)](../../build/reader/book-06.html#B06-C030-P0049)
+

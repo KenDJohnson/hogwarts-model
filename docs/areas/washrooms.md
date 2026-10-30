@@ -488,11 +488,11 @@ Model: Mirrors as teaching equipment and a one-floor vertical relationship. Do n
 
 ## B06-130: Boys’ bathroom visited by Myrtle
 
-An old tiled boys’ bathroom contains a cracked mirror and toilets in cubicles behind the boys. Myrtle rises from one toilet, floats in midair, is visible in the mirror, and dives back in, splashing water onto the floor; voices echo.
+An old tiled boys’ bathroom contains a cracked mirror and toilets in cubicles behind the boys. Myrtle rises from one toilet, floats in midair, is visible in the mirror, and dives back in, splashing water onto the floor; voices echo. A later report says Myrtle has appeared in bathrooms throughout the castle to spread news of Draco’s injury.
 
 Evidence: explicit; state: March–early April 1997.
 
-Model: Fixture relationships and acoustics; no floor identified in this scene. Myrtle says she lives in a different girls’ bathroom but can visit other places, so this is not her usual bathroom.
+Model: Fixture relationships and acoustics; no floor identified in this scene. Myrtle says she lives in a different girls’ bathroom but can visit other places, so this is not her usual bathroom. The later movement is qualified as apparent/report-based; do not interpret every bathroom as a surveyed list of fixed ghost portals.
 
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 483–484, ¶125 (B06-C021-P0125)](../../build/reader/book-06.html#B06-C021-P0125)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 484, ¶126 (B06-C021-P0126)](../../build/reader/book-06.html#B06-C021-P0126)
@@ -504,4 +504,59 @@ Model: Fixture relationships and acoustics; no floor identified in this scene. M
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 485, ¶136 (B06-C021-P0136)](../../build/reader/book-06.html#B06-C021-P0136)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 485, ¶138 (B06-C021-P0138)](../../build/reader/book-06.html#B06-C021-P0138)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 485, ¶142 (B06-C021-P0142)](../../build/reader/book-06.html#B06-C021-P0142)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 556–557, ¶128 (B06-C024-P0128)](../../build/reader/book-06.html#B06-C024-P0128)
+
+## B06-152: Sixth-floor boys’ bathroom approach
+
+From a seventh-floor detour Harry sees Draco’s Map dot in a boys’ bathroom one floor below. After colliding with a suit of armour, he runs down a marble staircase and along the lower passage to the bathroom door; he later returns there from the Room’s seventh-floor corridor.
+
+Evidence: explicit; state: May 1997.
+
+Model: Bathroom is on the floor below seventh, thus sixth in this numbering. The text calls this staircase marble; retain that statement without silently equating it with the Entrance Hall’s principal marble staircase.
+
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 548, ¶60 (B06-C024-P0060)](../../build/reader/book-06.html#B06-C024-P0060)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 548–549, ¶61 (B06-C024-P0061)](../../build/reader/book-06.html#B06-C024-P0061)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 553, ¶100 (B06-C024-P0100)](../../build/reader/book-06.html#B06-C024-P0100)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 553, ¶101 (B06-C024-P0101)](../../build/reader/book-06.html#B06-C024-P0101)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 555, ¶106 (B06-C024-P0106)](../../build/reader/book-06.html#B06-C024-P0106)
+
+## B06-153: Boys’ bathroom sink, mirror and fixtures
+
+A grimy sink basin faces a cracked mirror in which Draco sees Harry standing behind him near the door. The tiled bathroom has toilet cubicles, a wall lamp beside Harry and a bin behind him; a cistern is beneath Myrtle’s hovering position.
+
+Evidence: explicit; state: May 1997.
+
+Model: Fixture/view relationships and reverberation. Repeated cracked mirror and Myrtle connect this scene with chapter 21’s bathroom; no exact room dimensions.
+
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 549, ¶62 (B06-C024-P0062)](../../build/reader/book-06.html#B06-C024-P0062)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 549, ¶63 (B06-C024-P0063)](../../build/reader/book-06.html#B06-C024-P0063)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 549, ¶65 (B06-C024-P0065)](../../build/reader/book-06.html#B06-C024-P0065)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 549, ¶66 (B06-C024-P0066)](../../build/reader/book-06.html#B06-C024-P0066)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 549, ¶67 (B06-C024-P0067)](../../build/reader/book-06.html#B06-C024-P0067)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 549–550, ¶68 (B06-C024-P0068)](../../build/reader/book-06.html#B06-C024-P0068)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 551, ¶82 (B06-C024-P0082)](../../build/reader/book-06.html#B06-C024-P0082)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 551, ¶83 (B06-C024-P0083)](../../build/reader/book-06.html#B06-C024-P0083)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 556, ¶125 (B06-C024-P0125)](../../build/reader/book-06.html#B06-C024-P0125)
+
+## B06-154: Boys’ bathroom duel damage and flooding
+
+A missed hex shatters the wall lamp, another blast explodes the bin, and a rebounding spell smashes a toilet cistern. Water floods the tiled floor, makes it slippery and mixes with Draco’s blood. The room remains wrecked and soaked when Snape questions Harry.
+
+Evidence: explicit; state: May 1997.
+
+Model: Dated damaged fixture and floor state; no subsequent repair is narrated here. Injury-related visual shimmer at P0090 is not structural transformation.
+
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 549, ¶66 (B06-C024-P0066)](../../build/reader/book-06.html#B06-C024-P0066)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 549, ¶67 (B06-C024-P0067)](../../build/reader/book-06.html#B06-C024-P0067)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 549–550, ¶68 (B06-C024-P0068)](../../build/reader/book-06.html#B06-C024-P0068)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 550, ¶69 (B06-C024-P0069)](../../build/reader/book-06.html#B06-C024-P0069)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 550, ¶70 (B06-C024-P0070)](../../build/reader/book-06.html#B06-C024-P0070)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 550, ¶72 (B06-C024-P0072)](../../build/reader/book-06.html#B06-C024-P0072)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 550, ¶74 (B06-C024-P0074)](../../build/reader/book-06.html#B06-C024-P0074)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 550, ¶77 (B06-C024-P0077)](../../build/reader/book-06.html#B06-C024-P0077)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 551, ¶80 (B06-C024-P0080)](../../build/reader/book-06.html#B06-C024-P0080)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 551, ¶81 (B06-C024-P0081)](../../build/reader/book-06.html#B06-C024-P0081)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 551, ¶83 (B06-C024-P0083)](../../build/reader/book-06.html#B06-C024-P0083)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 552, ¶91 (B06-C024-P0091)](../../build/reader/book-06.html#B06-C024-P0091)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 552, ¶93 (B06-C024-P0093)](../../build/reader/book-06.html#B06-C024-P0093)
 

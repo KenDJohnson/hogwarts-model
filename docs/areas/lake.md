@@ -451,3 +451,100 @@ Model: Reported cabin existence and ship operation; the departing voyage is not 
 - [Book 4, ch. 37, “The Beginning”, ref p. 767–768, ¶72 (B04-C037-P0072)](../../build/reader/book-04.html#B04-C037-P0072)
 - [Book 4, ch. 37, “The Beginning”, ref p. 768, ¶73 (B04-C037-P0073)](../../build/reader/book-04.html#B04-C037-P0073)
 
+## B06-212: Funeral travel and accommodation state
+
+Visitors fill Hogsmeade lodging, Ministry officials are accommodated in the castle, and the Hogwarts Express is scheduled to leave one hour after the funeral. Lessons are suspended and examinations postponed.
+
+Evidence: explicit; state: Dumbledore funeral, June 1997.
+
+Model: Dated occupancy, school use and departure timetable; no invented guest-room locations or special train platform changes.
+
+- [Book 6, ch. 30, “The White Tomb”, ref p. 666, ¶1 (B06-C030-P0001)](../../build/reader/book-06.html#B06-C030-P0001)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 666–667, ¶2 (B06-C030-P0002)](../../build/reader/book-06.html#B06-C030-P0002)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 673, ¶43 (B06-C030-P0043)](../../build/reader/book-06.html#B06-C030-P0043)
+
+## B06-205: Great Hall–lakeshore ceremony route
+
+Students file from the Great Hall benches through the Entrance Hall and front doors onto the stone steps, then follow their Heads of House towards the lake.
+
+Evidence: explicit; state: Dumbledore funeral, June 1997.
+
+Model: Explicit ceremonial approach from main entrance; no underground or alternate exit involved.
+
+- [Book 6, ch. 30, “The White Tomb”, ref p. 674, ¶45 (B06-C030-P0045)](../../build/reader/book-06.html#B06-C030-P0045)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 674, ¶46 (B06-C030-P0046)](../../build/reader/book-06.html#B06-C030-P0046)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 674, ¶47 (B06-C030-P0047)](../../build/reader/book-06.html#B06-C030-P0047)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 674–675, ¶48 (B06-C030-P0048)](../../build/reader/book-06.html#B06-C030-P0048)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 675–676, ¶50 (B06-C030-P0050)](../../build/reader/book-06.html#B06-C030-P0050)
+
+## B06-206: Lakeside funeral chair layout
+
+Hundreds of chairs are arranged in rows beside the lake, divided by a central aisle and all facing a marble table at the front. The group takes seats at a row end beside the water; Hagrid later walks up the aisle with the wrapped body and goes to Grawp in the back row.
+
+Evidence: explicit; state: Dumbledore funeral, June 1997.
+
+Model: Temporary ceremony plan and lake adjacency; no exact row/chair count. Body is wrapped in purple velvet with golden stars; Hagrid’s chair legs sink into the ground when Grawp pats him.
+
+- [Book 6, ch. 30, “The White Tomb”, ref p. 674–675, ¶48 (B06-C030-P0048)](../../build/reader/book-06.html#B06-C030-P0048)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 675, ¶49 (B06-C030-P0049)](../../build/reader/book-06.html#B06-C030-P0049)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 675–676, ¶50 (B06-C030-P0050)](../../build/reader/book-06.html#B06-C030-P0050)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 676, ¶51 (B06-C030-P0051)](../../build/reader/book-06.html#B06-C030-P0051)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 676–677, ¶52 (B06-C030-P0052)](../../build/reader/book-06.html#B06-C030-P0052)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 677, ¶55 (B06-C030-P0055)](../../build/reader/book-06.html#B06-C030-P0055)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 677–678, ¶56 (B06-C030-P0056)](../../build/reader/book-06.html#B06-C030-P0056)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 678, ¶57 (B06-C030-P0057)](../../build/reader/book-06.html#B06-C030-P0057)
+
+## B06-208: Merpeople funeral chorus by shore
+
+A chorus of pallid-faced merpeople with purplish flowing hair sings inches below the clear green sunlit lake surface. They later break the surface to listen, on Harry’s left, then sink and vanish. Harry recalls Dumbledore speaking to the Merchieftainess at a nearby waterside spot two years earlier.
+
+Evidence: explicit; state: Dumbledore funeral, June 1997.
+
+Model: Underwater near-surface appearance and access to shore; no lake-bottom terrain described. Left is relative to Harry’s seated orientation, not a compass direction; recalled conversation locates an approximate prior shoreline event.
+
+- [Book 6, ch. 30, “The White Tomb”, ref p. 677, ¶53 (B06-C030-P0053)](../../build/reader/book-06.html#B06-C030-P0053)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 677, ¶54 (B06-C030-P0054)](../../build/reader/book-06.html#B06-C030-P0054)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 678–679, ¶58 (B06-C030-P0058)](../../build/reader/book-06.html#B06-C030-P0058)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 680–681, ¶63 (B06-C030-P0063)](../../build/reader/book-06.html#B06-C030-P0063)
+
+## B06-210: White marble tomb formation
+
+White flames envelop Dumbledore’s body and the marble table; rising white smoke briefly seems phoenix-shaped to Harry. When the fire vanishes, a white marble tomb encases both body and table.
+
+Evidence: explicit; state: Dumbledore funeral, June 1997.
+
+Model: Permanent tomb formed during a dated magical event. No exact dimensions, inscription, ornament, lid seam or confirmed real phoenix appears in this passage.
+
+- [Book 6, ch. 30, “The White Tomb”, ref p. 677, ¶55 (B06-C030-P0055)](../../build/reader/book-06.html#B06-C030-P0055)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 677–678, ¶56 (B06-C030-P0056)](../../build/reader/book-06.html#B06-C030-P0056)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 680, ¶61 (B06-C030-P0061)](../../build/reader/book-06.html#B06-C030-P0061)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 680, ¶62 (B06-C030-P0062)](../../build/reader/book-06.html#B06-C030-P0062)
+
+## B06-209: Funeral view across lake to centaur woods
+
+From his lakeside seat Harry looks out over the lake towards the Forest and sees centaurs standing still among the trees, half-hidden in shade with bows lowered. They do not enter the open; their farewell arrows fall well short of the crowd before they retreat.
+
+Evidence: explicit; state: Dumbledore funeral, June 1997.
+
+Model: Lake–Forest sightline and shaded tree edge; no measured arrow range, village or centaur settlement.
+
+- [Book 6, ch. 30, “The White Tomb”, ref p. 679, ¶59 (B06-C030-P0059)](../../build/reader/book-06.html#B06-C030-P0059)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 680–681, ¶63 (B06-C030-P0063)](../../build/reader/book-06.html#B06-C030-P0063)
+
+## B06-211: Tomb–lake bank–beech tree route
+
+Harry turns away from the tomb and walks around the lake bank. Ron and Hermione catch him in the shade of a familiar beech tree; from there the castle is visible above and the white tomb is reflected in water on the other side of the lake.
+
+Evidence: explicit; state: Dumbledore funeral, June 1997.
+
+Model: Critical relative placement across water after a shore walk. Avoid assigning a compass shore or assuming a straight path; bird song and Hagrid’s later howls carry across the water.
+
+- [Book 6, ch. 30, “The White Tomb”, ref p. 682–683, ¶76 (B06-C030-P0076)](../../build/reader/book-06.html#B06-C030-P0076)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 683, ¶78 (B06-C030-P0078)](../../build/reader/book-06.html#B06-C030-P0078)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 683, ¶80 (B06-C030-P0080)](../../build/reader/book-06.html#B06-C030-P0080)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 683, ¶85 (B06-C030-P0085)](../../build/reader/book-06.html#B06-C030-P0085)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 685, ¶106 (B06-C030-P0106)](../../build/reader/book-06.html#B06-C030-P0106)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 685, ¶112 (B06-C030-P0112)](../../build/reader/book-06.html#B06-C030-P0112)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 686–687, ¶121 (B06-C030-P0121)](../../build/reader/book-06.html#B06-C030-P0121)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 687, ¶122 (B06-C030-P0122)](../../build/reader/book-06.html#B06-C030-P0122)
+

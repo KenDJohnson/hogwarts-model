@@ -40,7 +40,7 @@ Model: Preserve hypotheses as hypotheses; map omission is corroborated on the la
 
 ## B06-126: Room of Requirement access denial
 
-Harry walks past three times concentrating on several requests to see what Draco is doing; no door appears. The exposed stone is solid under a push and later a kick, and repeated attempts over an hour and on another visit fail.
+Harry walks past three times concentrating on several requests to see what Draco is doing; no door appears. The exposed stone is solid under a push and later a kick, and repeated attempts over an hour and on another visit fail. Later attempts with reworded requests likewise leave the wall doorless.
 
 Evidence: explicit; state: March–early April 1997.
 
@@ -60,4 +60,53 @@ Model: Observed request-dependent denial. Dobby says entry is impossible, while 
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 488, ¶154 (B06-C021-P0154)](../../build/reader/book-06.html#B06-C021-P0154)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 488, ¶155 (B06-C021-P0155)](../../build/reader/book-06.html#B06-C021-P0155)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 489–490, ¶173 (B06-C021-P0173)](../../build/reader/book-06.html#B06-C021-P0173)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 547–548, ¶59 (B06-C024-P0059)](../../build/reader/book-06.html#B06-C024-P0059)
+
+## B06-155: Room of Requirement hiding request and door
+
+Harry walks three times before the blank seventh-floor wall asking for a place to hide his book; a door appears and he enters. On leaving he slams the door and it immediately turns back into stone.
+
+Evidence: explicit; state: May 1997.
+
+Model: Successful hiding-room state despite earlier failed requests about Draco. Door concealment is observed; do not infer that all possible users obtain separate inventories.
+
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 553, ¶100 (B06-C024-P0100)](../../build/reader/book-06.html#B06-C024-P0100)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 553, ¶101 (B06-C024-P0101)](../../build/reader/book-06.html#B06-C024-P0101)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 553, ¶102 (B06-C024-P0102)](../../build/reader/book-06.html#B06-C024-P0102)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 553, ¶103 (B06-C024-P0103)](../../build/reader/book-06.html#B06-C024-P0103)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 554–555, ¶105 (B06-C024-P0105)](../../build/reader/book-06.html#B06-C024-P0105)
+
+## B06-156: Room of hidden objects volume and light
+
+The room is the size of a large cathedral. High windows send shafts of light over a city-like mass of stored objects, with many alleys and road-like passages between towering piles of damaged furniture and hidden goods.
+
+Evidence: explicit; state: May 1997.
+
+Model: Narrated scale analogy and navigable maze of objects, not a literal town or calibrated dimensions. Claimed generations of use and reasons for hiding items are Harry’s interpretation.
+
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 553–554, ¶104 (B06-C024-P0104)](../../build/reader/book-06.html#B06-C024-P0104)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 554–555, ¶105 (B06-C024-P0105)](../../build/reader/book-06.html#B06-C024-P0105)
+
+## B06-157: Room of hidden objects contents
+
+The piles contain thousands of books, winged catapults and Fanged Frisbees still hovering weakly, chipped bottles of congealed potions, hats, jewels, cloaks, apparent dragon eggshells, corked bottles with sinister shimmering contents, rusty swords and a heavy bloodstained axe.
+
+Evidence: explicit; state: May 1997.
+
+Model: Inventory groups and materials/condition for storage ambience. Eggshell identification is tentative; no need to copy thousands of individual carried-object instances.
+
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 553–554, ¶104 (B06-C024-P0104)](../../build/reader/book-06.html#B06-C024-P0104)
+
+## B06-164: Room of Requirement corridor left/right relation
+
+Approaching Trelawney’s fallen position from a nearby corner, Harry sees the dancing-troll tapestry on his right and the smooth stone wall hiding the Room on his left.
+
+Evidence: explicit; state: June 1997, departure evening.
+
+Model: View-relative sides only; no compass bearing. Corridors are quiet shortly before curfew.
+
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 568, ¶55 (B06-C025-P0055)](../../build/reader/book-06.html#B06-C025-P0055)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 568, ¶56 (B06-C025-P0056)](../../build/reader/book-06.html#B06-C025-P0056)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 569, ¶58 (B06-C025-P0058)](../../build/reader/book-06.html#B06-C025-P0058)
+- [Book 6, ch. 25, “The Seer Overheard”, ref p. 569, ¶63 (B06-C025-P0063)](../../build/reader/book-06.html#B06-C025-P0063)
 
