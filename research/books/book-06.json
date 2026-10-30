@@ -313,6 +313,153 @@
       "certainty": "reported",
       "temporal": "Evening arrival, 1 September 1996",
       "model_notes": "Mountain habitat beyond the Forest; no exact mountain, cave entrance, route or distance is supplied."
+    },
+    {
+      "id": "B06-024",
+      "location": "Gryffindor common-room exit",
+      "category": "route",
+      "description": "Students climb through a portrait hole to leave the common room for the corridor; a queue forms at this opening.",
+      "evidence": [
+        "B06-C009-P0005",
+        "B06-C009-P0007"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1996",
+      "model_notes": "An aperture requiring a climb, not merely a conventional full-height doorway; no size specified."
+    },
+    {
+      "id": "B06-025",
+      "location": "Great Hall ceiling and windows",
+      "category": "interior",
+      "description": "The ceiling shows blue sky and thin wispy clouds matching the real sky visible through high mullioned windows.",
+      "evidence": [
+        "B06-C009-P0012"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1996",
+      "model_notes": "Matching magical sky appearance and high subdivided windows; no statement of structural openness to weather."
+    },
+    {
+      "id": "B06-026",
+      "location": "Gryffindor common-room tapestry and light",
+      "category": "furnishing",
+      "description": "The common room contains a tapestry, which a flying Fanged Frisbee tries to bite, and is sunlit when Harry and Ron leave.",
+      "evidence": [
+        "B06-C009-P0040",
+        "B06-C009-P0041"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1996",
+      "model_notes": "Tapestry subject and exact hanging position unspecified; daytime natural light reaches the room."
+    },
+    {
+      "id": "B06-027",
+      "location": "Common room–Defence classroom",
+      "category": "route",
+      "description": "The Defence Against the Dark Arts classroom is four floors below the Gryffindor common room, with a corridor outside its door.",
+      "evidence": [
+        "B06-C009-P0041",
+        "B06-C009-P0045"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1996",
+      "model_notes": "Strong vertical relationship; count floors as narrated without assuming the building’s absolute floor numbering here."
+    },
+    {
+      "id": "B06-028",
+      "location": "Defence classroom under Snape",
+      "category": "temporary",
+      "description": "Drawn window curtains make the classroom gloomier than usual; candles light it. New wall pictures depict painful injuries and contorted bodies, including a shrieking witch, a blank-eyed wizard against a wall and a bloody mass on the ground.",
+      "evidence": [
+        "B06-C009-P0047",
+        "B06-C009-P0056"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1996",
+      "model_notes": "Dated 1996–97 decoration and lighting state; pictured walls/bodies belong inside images, not the classroom geometry."
+    },
+    {
+      "id": "B06-029",
+      "location": "Defence classroom desks and circulation",
+      "category": "furnishing",
+      "description": "Snape faces the seated class from behind his desk, walks around the room’s edge and back to the desk, then between practising students. Other desks occupy the classroom.",
+      "evidence": [
+        "B06-C009-P0048",
+        "B06-C009-P0053",
+        "B06-C009-P0059",
+        "B06-C009-P0066",
+        "B06-C009-P0070"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1996",
+      "model_notes": "Teacher desk, student seating/desks and usable perimeter/interior circulation; no exact row arrangement specified."
+    },
+    {
+      "id": "B06-030",
+      "location": "Headmaster’s gargoyle password",
+      "category": "magic",
+      "description": "Harry identifies Acid Pops as the password for passing the gargoyle outside Dumbledore’s study.",
+      "evidence": [
+        "B06-C009-P0089",
+        "B06-C009-P0090",
+        "B06-C009-P0093",
+        "B06-C009-P0094",
+        "B06-C009-P0095"
+      ],
+      "certainty": "reported",
+      "temporal": "First school day, September 1996",
+      "model_notes": "Password current for this invitation; confirmation by actual entry is deferred to the next chapter."
+    },
+    {
+      "id": "B06-031",
+      "location": "Gryffindor common room–Potions dungeon",
+      "category": "route",
+      "description": "After the common-room study period the students follow a familiar path down to the dungeon classroom formerly taught in by Snape; a corridor lies outside its door.",
+      "evidence": [
+        "B06-C009-P0096",
+        "B06-C009-P0097",
+        "B06-C009-P0099"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1996",
+      "model_notes": "Downward route and dungeon function; no exact stair sequence or total descent supplied."
+    },
+    {
+      "id": "B06-032",
+      "location": "Potions dungeon worktables and storage",
+      "category": "furnishing",
+      "description": "Three groups of four students occupy separate tables. An ingredient store cupboard supplies materials; a corner cupboard holds battered textbooks and tarnished scales. Slughorn has a desk at the front and can circulate between the tables.",
+      "evidence": [
+        "B06-C009-P0100",
+        "B06-C009-P0105",
+        "B06-C009-P0106",
+        "B06-C009-P0107",
+        "B06-C009-P0135",
+        "B06-C009-P0151",
+        "B06-C009-P0171"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1996",
+      "model_notes": "Twelve-person class is an occupancy state, not total room capacity. It is not explicit whether the corner cupboard and ingredient store cupboard are the same fixture."
+    },
+    {
+      "id": "B06-033",
+      "location": "Potions dungeon demonstration state",
+      "category": "temporary",
+      "description": "Large bubbling cauldrons fill the dungeon with vapours and strong smells. A gold-coloured cauldron stands near Harry’s table, others near the Slytherin and Ravenclaw tables, and a small black cauldron sits on Slughorn’s desk. Later the room fills with bluish steam.",
+      "evidence": [
+        "B06-C009-P0100",
+        "B06-C009-P0108",
+        "B06-C009-P0111",
+        "B06-C009-P0114",
+        "B06-C009-P0119",
+        "B06-C009-P0120",
+        "B06-C009-P0135",
+        "B06-C009-P0152"
+      ],
+      "certainty": "explicit",
+      "temporal": "First school day, September 1996",
+      "model_notes": "Lesson-specific vessels and effects. Amortentia’s perceived scent differs by observer, so Harry’s food/wood/flower notes are not a permanent ambient scent."
     }
   ],
   "chapter_reviews": [
@@ -403,6 +550,17 @@
       ],
       "method": "full-text paragraph review",
       "notes": "Read every paragraph in two blocks. Captured station lane, gateposts, gate operation/wall security, castle approach, entrance surfaces, Hall layout/light/service/seating and Grawp’s new cave. Tentative sounds and imagined carriage convoy are distinguished from direct observation."
+    },
+    {
+      "chapter": 9,
+      "reviewed_ranges": [
+        [
+          1,
+          193
+        ]
+      ],
+      "method": "full-text paragraph review",
+      "notes": "Read complete chapter in two blocks. Recorded portrait exit, common-room fabric/light, Hall windows/ceiling, Defence floor relationship and Snape decoration, password, and dungeon route/fittings/lesson state. Potion recipes and personal possessions are not separately catalogued."
     }
   ]
 }
