@@ -22,7 +22,7 @@
           tools = pkgs.runCommand "hogwarts-tool-tests" {
             nativeBuildInputs = [ pkgs.python3 ];
           } ''
-            cp -R ${self}/scripts ${self}/tests .
+            cp -R ${self}/scripts ${self}/tests ${self}/web .
             python -m unittest discover -s tests -v
             touch $out
           '';

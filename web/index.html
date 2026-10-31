@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Hogwarts descriptions</title>
+<link rel="stylesheet" href="style.css">
+<script>
+try { const theme = localStorage.getItem('hogwarts-theme'); if (theme) document.documentElement.dataset.theme = theme; } catch {}
+</script>
+</head>
+<body>
+<button class="skip-link" data-action="skip">Skip to descriptions</button>
+<header class="site-header">
+  <button class="icon-button menu-toggle" data-action="menu" aria-controls="sidebar" aria-expanded="false" aria-label="Browse and filter">☰</button>
+  <a class="brand" id="brand" href="#/books">Hogwarts <span>descriptions</span></a>
+  <nav class="view-switch" aria-label="Views">
+    <a id="nav-books" href="#/books">Chronological</a>
+    <a id="nav-areas" href="#/areas">By area</a>
+  </nav>
+  <div class="search">
+    <input id="search" type="search" placeholder="Search text, places, notes" aria-label="Search descriptions" autocomplete="off" spellcheck="false">
+    <kbd aria-hidden="true">/</kbd>
+  </div>
+  <a class="about-link" id="nav-about" href="#/about">About</a>
+  <button class="icon-button" data-action="theme" aria-label="Switch between light and dark">◐</button>
+</header>
+<div class="layout" id="layout">
+  <aside class="sidebar" id="sidebar" aria-label="Browse and filter"></aside>
+  <main class="content" id="content" tabindex="-1"><p class="loading">Loading descriptions…</p></main>
+  <aside class="panel" id="panel" aria-label="Other descriptions" hidden></aside>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<noscript><p class="loading">This site needs JavaScript to browse the catalogue.</p></noscript>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

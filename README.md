@@ -33,6 +33,27 @@ complete books split into actual 250-word project reference pages. Full text
 and the reader remain under ignored `build/`; committed catalogue exports
 contain paraphrases and locators.
 
+## Browse the descriptions
+
+After `catalogue.py build`, generate the browsing site:
+
+```sh
+python scripts/build_site.py
+open build/site/index.html
+```
+
+The site also works directly from disk. Its chronological view follows book
+and chapter order, and its area view groups descriptions by area and place.
+Every entry shows the cited book text, citation, category, evidence type, index
+number, dated state and model note, and each ¶ opens that paragraph in the
+reader. From any entry, the place buttons open the other descriptions of that
+place beside the list, so you keep your position; you can step through them in
+book order. Search, filters and links to any entry all work too.
+
+The site's source is in `web/` and its generated copy stays under ignored
+`build/`, because it quotes every cited paragraph. Keep it local: do not commit
+or publish `build/site/`.
+
 Find and inspect evidence from the command line:
 
 ```sh
@@ -94,6 +115,13 @@ Read the [full chronological catalogue](docs/catalogue.md), browse the
 [exact location index](docs/location-index.md). The area guides are overlapping
 navigation groups, not claims that similarly named rooms are the same room.
 
+Every record is also filed under one or more of 131 places in
+[places.json](research/places.json), which is what connects descriptions of the
+same place despite their scene-specific labels. Each place belongs to one of 28
+areas, and that is the only source of area membership. A place marked as a group
+gathers similar locations without claiming they are one room.
+See [the research schema](research/SCHEMA.md#places-and-areas).
+
 ## Checks
 
 ```sh
@@ -104,6 +132,12 @@ nix flake check
 
 No external Python packages or network services are needed to extract or query
 the ebook. Nix uses the committed lockfile for its development tools.
+
+`node tests/site_smoke.mjs` drives the built site in headless Chrome from its
+`file://` URL, with real clicks and key presses, and writes screenshots to
+`build/site-screens/`. It needs the ebook-derived build, Node and a local
+Chrome, so it runs on demand and is not part of `nix flake check`. Set `CHROME`
+to use another Chrome binary.
 
 `nix flake check` runs tool tests and validates the committed evidence bounds,
 source identity, review ledger, page arithmetic and generated JSON export
