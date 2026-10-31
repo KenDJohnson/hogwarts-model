@@ -83,3 +83,23 @@ are recorded separately under the book object's `extra_reviews` array:
 Complete coverage requires all ordinary paragraph ranges and all additional
 fragments to have been read. `extra_blocks` in the source inventory contains
 metadata only; the complete extracted text remains ignored.
+
+## Places and areas
+
+`research/places.json` is the navigation layer. It answers "what else describes
+this place?", which exact labels cannot: almost every label is unique to its
+scene. It is not evidence, and it never changes a record.
+
+`places` lists each place with `id`, `title`, `area`, `kind` and `scope`.
+`assignments` maps every record ID to one to four place IDs, most central
+first. The first is the record's main subject; later ones are places the record
+also describes, such as the far end of a route.
+
+`kind` is `place` when the text treats the location as one place across its
+states, memories and damage, and `group` when it gathers similar locations or a
+school-wide subject. A group must not be read as a claim of identity. Unnamed
+rooms go in a group rather than a likely named room.
+
+Each place belongs to one area in `research/areas.json`. A record's `areas` in
+the compiled catalogue are derived from its places, so areas overlap and do not
+assert identity or adjacency.

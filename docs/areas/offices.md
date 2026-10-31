@@ -8,6 +8,8 @@ All pages are project reference pages, ref250-v1. Group membership is a navigati
 
 The account of Professor Binns’s death places him asleep in front of a fire in the staff room before returning to class as a ghost.
 
+Places: Staff room.
+
 Evidence: explicit; state: September 1991, first school week.
 
 Model: Narrated historical anecdote establishes a staff-room fire; date, hearth geometry and continuity into 1991 are unspecified.
@@ -17,6 +19,8 @@ Model: Narrated historical anecdote establishes a staff-room fire; date, hearth 
 ## B01-064: Gryffindor common room to staff room
 
 Harry goes down from the common room to the staff room, whose door opens when pushed; he subsequently runs back upstairs.
+
+Places: Staff room, Gryffindor common room.
 
 Evidence: explicit; state: November 1991.
 
@@ -32,6 +36,8 @@ Model: Staff room is lower than this departure point. No floor number, lock requ
 
 Filch takes the pupils down from the astronomy tower to McGonagall’s first-floor study, where they sit and wait.
 
+Places: McGonagall’s office, Astronomy Tower.
+
 Evidence: explicit; state: Late spring 1992.
 
 Model: Explicit first-floor location and downward route; chair types and doorway details unknown.
@@ -42,6 +48,8 @@ Model: Explicit first-floor location and downward route; chair types and doorway
 
 Filch claims former punishments included hanging pupils by the wrists from the ceiling for days, and says he still keeps the chains oiled in his office.
 
+Places: Filch’s office.
+
 Evidence: reported; state: Late spring 1992.
 
 Model: Character’s threatening historical claim, not an observed punishment room or confirmed current practice.
@@ -51,6 +59,8 @@ Model: Character’s threatening historical claim, not an observed punishment ro
 ## B01-121: Entrance Hall — summer contrast and staff-room direction
 
 Returning from sunlit grounds, the Entrance Hall feels cold and gloomy. Snape leaves it in the direction of the staff room; the pupils then stand outside on the stone steps.
+
+Places: Entrance Hall, Front steps and front doors, Staff room.
 
 Evidence: explicit; state: June 1992, approach to the Stone.
 
@@ -67,6 +77,8 @@ Model: Season-dependent perception and a route direction; no staff-room entrance
 
 Snape takes them up the steps into the vast torchlit echoing Entrance Hall, then down a narrow stone staircase into the dungeons, opening a door halfway along a cold passage to his office.
 
+Places: Entrance Hall, Dungeon corridors, Snape’s office and private stores.
+
 Evidence: explicit; state: 1 September 1992 arrival.
 
 Model: Office door is halfway along this passage; passage length and dungeon level are not specified.
@@ -79,6 +91,8 @@ Model: Office door is halfway along this passage; passage length and dungeon lev
 ## B02-012: Snape’s office — jars, desk and hearth seating
 
 Shelves of large specimen jars line the shadowy walls. A large slimy object in green liquid stands on a shelf behind the desk. The initially empty fireplace is lit by McGonagall’s wand, and two chairs stand beside it.
+
+Places: Snape’s office and private stores.
 
 Evidence: explicit; state: 1 September 1992 arrival.
 
@@ -95,6 +109,8 @@ Model: Office distinct from Potions classroom; a usable hearth and desk-relative
 
 McGonagall produces sandwiches, two silver goblets and iced pumpkin juice on Snape’s desk; the sandwich plate refills as the boys eat.
 
+Places: Snape’s office and private stores.
+
 Evidence: explicit; state: 1 September 1992 arrival.
 
 Model: Temporary office meal service, not a permanent catering installation.
@@ -110,6 +126,8 @@ Model: Temporary office meal service, not a permanent catering installation.
 
 The return route passes murmuring portraits and creaking suits of armour, climbs narrow stone stair flights and reaches the passage containing the Fat Lady’s oil painting in a pink silk dress.
 
+Places: Snape’s office and private stores, Fat Lady portrait entrance, Gryffindor Tower, Moving staircases.
+
 Evidence: explicit; state: 1 September 1992 arrival.
 
 Model: Adds stair materials, sounds and portrait medium; no complete turn-by-turn map.
@@ -123,6 +141,8 @@ Model: Adds stair materials, sounds and portrait medium; no complete turn-by-tur
 ## B02-033: Lockhart’s office — second floor and photographs
 
 Harry reaches Lockhart’s office along the second-floor corridor. Many candles light countless framed photographs of Lockhart on the walls; another large pile of photographs lies on his desk.
+
+Places: Defence teacher’s office.
 
 Evidence: explicit; state: September 1992, first Saturday.
 
@@ -141,6 +161,8 @@ Model: Explicit office floor, desk and candlelit self-portrait decor; office is 
 ## B02-034: Lockhart’s office — unexplained voice
 
 During detention Harry hears a venomous disembodied voice while Lockhart says he hears nothing. The office otherwise contains candle sounds and Lockhart’s speech.
+
+Places: Defence teacher’s office.
 
 Evidence: explicit; state: September 1992, first Saturday.
 
@@ -161,6 +183,8 @@ Model: Dated acoustic event, not proof of an invisible occupant or of a door ope
 
 Filch emerges through a tapestry on Harry’s right in a corridor with a window, then takes him downstairs to his office. Harry later leaves the office along a corridor and climbs back upstairs.
 
+Places: Filch’s office, Hidden stairs and shortcuts inside the castle, Corridors in general.
+
 Evidence: explicit; state: October 1992.
 
 Model: Relative floor change only; tapestry suggests concealed circulation but no passage destination is independently mapped.
@@ -177,6 +201,8 @@ Model: Relative floor change only; tapestry suggests concealed circulation but n
 
 The office is dingy and windowless, with a low ceiling supporting a single hanging oil lamp and a faint fried-fish smell. Wooden filing cabinets line the walls; a desk with drawers and quill/ink containers faces a wall display of polished chains and manacles. A moth-eaten chair stands beside the desk.
 
+Places: Filch’s office.
+
 Evidence: explicit; state: October 1992.
 
 Model: Punishment records occupy labelled cabinets, including a drawer for Fred and George. Ceiling-hanging punishments remain a reported request, not current practice.
@@ -192,6 +218,8 @@ Model: Punishment records occupy labelled cabinets, including a drawer for Fred 
 ## B02-039: Classroom over Filch’s office — damaged cabinet
 
 A loud overhead crash rattles Filch’s lamp. Back upstairs Harry sees the wreckage of a large black-and-gold cabinet in a classroom; Nick says he had Peeves crash it directly above the office, and Filch calls it a valuable vanishing cabinet.
+
+Places: Unnamed and unused classrooms, Filch’s office.
 
 Evidence: explicit; state: Late October 1992, Nick’s diversion.
 
@@ -210,6 +238,8 @@ Model: Observed wreckage plus reported identity and cause. No paired cabinet, tr
 ## B02-048: Attack corridor to Lockhart’s office
 
 Lockhart offers his office as nearest and just upstairs from the attack scene. The party enters its darkened interior, where desk candles are lit and the petrified cat is laid on a polished desk while others sit in chairs.
+
+Places: Defence teacher’s office, Second-floor attack corridor.
 
 Evidence: reported; state: 31 October 1992, immediately after attack.
 
@@ -230,6 +260,8 @@ Model: Just upstairs conflicts with chapter 7’s second-floor office and chapte
 
 Leaving the office, the trio go one floor up, enter an empty classroom and close the door to confer. A distant clock chimes midnight.
 
+Places: Unnamed and unused classrooms, Defence teacher’s office.
+
 Evidence: explicit; state: Night of 31 October 1992.
 
 Model: Relative office-plus-one floor, with no absolute floor assigned because of office-placement conflict.
@@ -243,6 +275,8 @@ Model: Relative office-plus-one floor, with no absolute floor assigned because o
 
 Binns enters his classroom through the blackboard; the room has pupil desks and a window through which Dean looks. His death story places an armchair in front of the staff-room fire.
 
+Places: History of Magic classroom, Staff room.
+
 Evidence: explicit; state: November 1992, after first attack.
 
 Model: Classroom fixtures directly narrated; death anecdote reports historical armchair/hearth arrangement without date.
@@ -251,9 +285,26 @@ Model: Classroom fixtures directly narrated; death anecdote reports historical a
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 149, ¶85 (B02-C009-P0085)](../../build/reader/book-02.html#B02-C009-P0085)
 - [Book 2, ch. 9, “The Writing on the Wall”, ref p. 150, ¶89 (B02-C009-P0089)](../../build/reader/book-02.html#B02-C009-P0089)
 
+## B02-063: Potion ingredients — student cupboard and private stores
+
+Hermione says common ingredients can be taken from the student store-cupboard. Harry distinguishes rarer materials unavailable there and proposes breaking into Snape’s private stores.
+
+Places: Snape’s office and private stores, Unnamed one-off rooms.
+
+Evidence: reported; state: November 1992.
+
+Model: Reported separate storage provisions; lock status and locations are not yet observed.
+
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 165–166, ¶30 (B02-C010-P0030)](../../build/reader/book-02.html#B02-C010-P0030)
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 166, ¶35 (B02-C010-P0035)](../../build/reader/book-02.html#B02-C010-P0035)
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 167, ¶39 (B02-C010-P0039)](../../build/reader/book-02.html#B02-C010-P0039)
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 167, ¶40 (B02-C010-P0040)](../../build/reader/book-02.html#B02-C010-P0040)
+
 ## B02-064: Madam Hooch’s office — Bludger storage
 
 Wood says the Bludgers have been kept locked in Madam Hooch’s office since the last practice.
+
+Places: Madam Hooch’s office.
 
 Evidence: reported; state: November 1992.
 
@@ -265,9 +316,32 @@ Model: Reported office storage and locked access; no office floor or link to the
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 171, ¶66 (B02-C010-P0066)](../../build/reader/book-02.html#B02-C010-P0066)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 171, ¶67 (B02-C010-P0067)](../../build/reader/book-02.html#B02-C010-P0067)
 
+## B02-074: Potions dungeon to private stores — diversion
+
+Harry’s firework explodes Goyle’s Swelling Solution across the class. Hermione slips out during the confusion and returns with stolen ingredients beneath her robes; the firework’s blackened remains stay in the cauldron until Snape retrieves them.
+
+Places: Potions classroom, Snape’s office and private stores.
+
+Evidence: explicit; state: November–December 1992.
+
+Model: The intended destination is Snape’s office, but actual intermediate route and unlocking are not witnessed.
+
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 187, ¶29 (B02-C011-P0029)](../../build/reader/book-02.html#B02-C011-P0029)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 187, ¶30 (B02-C011-P0030)](../../build/reader/book-02.html#B02-C011-P0030)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 187, ¶32 (B02-C011-P0032)](../../build/reader/book-02.html#B02-C011-P0032)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 188, ¶36 (B02-C011-P0036)](../../build/reader/book-02.html#B02-C011-P0036)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 188, ¶37 (B02-C011-P0037)](../../build/reader/book-02.html#B02-C011-P0037)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 188, ¶38 (B02-C011-P0038)](../../build/reader/book-02.html#B02-C011-P0038)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 188–189, ¶39 (B02-C011-P0039)](../../build/reader/book-02.html#B02-C011-P0039)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 189, ¶40 (B02-C011-P0040)](../../build/reader/book-02.html#B02-C011-P0040)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 189, ¶43 (B02-C011-P0043)](../../build/reader/book-02.html#B02-C011-P0043)
+- [Book 2, ch. 11, “The Duelling Club”, ref p. 189, ¶44 (B02-C011-P0044)](../../build/reader/book-02.html#B02-C011-P0044)
+
 ## B02-083: Gargoyle entrance to Dumbledore’s office
 
 McGonagall takes Harry round a corner to a large ugly stone gargoyle. At Sherbet lemon it animates and hops aside; the wall behind splits, revealing a smoothly rising spiral stair like an escalator. The wall closes behind the riders as they circle upward to a gleaming oak door with a brass griffon knocker.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: December 1992; password Sherbet lemon.
 
@@ -282,6 +356,8 @@ Model: Explicit entrance mechanics, moving vertical circulation and materials; n
 ## B02-084: Dumbledore’s office — circular room and furniture
 
 At the top of the stone stair a door opens silently into a large beautiful circular office. Silver instruments whirr and emit smoke on spindle-legged tables; portraits of sleeping former heads cover the walls. An enormous claw-footed desk has a high-backed chair behind it and the Sorting Hat rests on a shelf behind the desk.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: December 1992.
 
@@ -302,6 +378,8 @@ Model: Materials, plan and furniture relations explicit; instrument functions an
 
 A golden perch stands behind the door. Fawkes burns there into a smouldering ash pile on the floor, from which a chick emerges. Dumbledore says phoenixes normally have red-and-gold plumage, carry very heavy loads and heal through tears.
 
+Places: Headmaster’s office.
+
 Evidence: explicit; state: December 1992.
 
 Model: Observed office pet/perch event; carrying/healing claims are Dumbledore’s explanation and later usable transport constraints.
@@ -319,6 +397,8 @@ Model: Observed office pet/perch event; carrying/healing claims are Dumbledore�
 ## B02-104: Headmaster’s office in diary memory
 
 The June-thirteenth memory shows the same circular room and sleeping portraits, with Dippet at a candlelit desk, a curtained window looking onto a red sunset, and visitor seating. Fawkes and Dumbledore’s silver devices are absent.
+
+Places: Headmaster’s office.
 
 Evidence: reported; state: 13 June, fifty years before the 1992–93 investigation.
 
@@ -343,6 +423,8 @@ Model: Diary-mediated historical scene, not independently authenticated observat
 
 Riddle leaves by the moving spiral stair past the gargoyle, walks to the Entrance Hall and sees young Dumbledore on the marble stairs, then descends the stone dungeon steps to the very classroom Harry knows as Snape’s Potions room. Its torches are unlit; a nearly closed door allows watching the passage.
 
+Places: Headmaster’s office, Potions classroom, Entrance Hall, Dungeon corridors.
+
 Evidence: reported; state: 13 June, fifty years earlier.
 
 Model: Historical memory sequence, indicating apparent continuity of entrance mechanism and classroom use. No measured route or floor count.
@@ -361,6 +443,8 @@ Model: Historical memory sequence, indicating apparent continuity of entrance me
 ## B02-134: Hospital wing to staff room
 
 The boys run downstairs from the ward into a deserted staff room. It is large and panelled, filled with dark wooden chairs, and contains an ugly wardrobe full of teachers’ cloaks on Harry’s left.
+
+Places: Staff room, Hospital wing.
 
 Evidence: explicit; state: Late May 1993, Chamber rescue.
 
@@ -384,6 +468,8 @@ Model: Adds lower staff-room relation and seating/wardrobe. Left is Harry’s vi
 
 Hidden in the cloak wardrobe, the boys hear hundreds of people moving overhead as teachers enter. McGonagall’s amplified announcement has ordered pupils to dormitories and teachers to this room. That afternoon Gryffindor Tower is unusually crowded and quiet.
 
+Places: Staff room, Gryffindor Tower.
+
 Evidence: explicit; state: Late May 1993, Chamber rescue.
 
 Model: Acoustic relation to overhead circulation, no ceiling height or exact upper room identified. The crowded, quiet atmosphere is a dated occupancy state, not a measurement of room capacity.
@@ -401,6 +487,8 @@ Model: Acoustic relation to overhead circulation, no ceiling height or exact upp
 ## B02-137: Lockhart’s office — stripped departure state
 
 After descending from Gryffindor Tower, the boys find Lockhart’s office largely stripped. Two open trunks hold robes and books; the wall photographs are boxed on the desk, a life-size self-poster is removed from behind the door, and a drawer is emptied. The office has an open window through which Ron throws the wand.
+
+Places: Defence teacher’s office.
 
 Evidence: explicit; state: Late May 1993, Chamber rescue.
 
@@ -423,6 +511,8 @@ Model: Adds window, drawer and door-back poster, with temporary packing clutter.
 
 They take Lockhart from his office down the nearest stairs, along the dark corridor with the shining messages, to Myrtle’s bathroom.
 
+Places: Defence teacher’s office, Second-floor attack corridor, Moaning Myrtle’s bathroom.
+
 Evidence: explicit; state: Late May 1993, Chamber rescue.
 
 Model: Explicit office-above-bathroom local route; retain alongside earlier conflicting second-floor office placement.
@@ -436,6 +526,8 @@ Model: Explicit office-above-bathroom local route; retain alongside earlier conf
 
 The group exits into a dark deserted corridor, follows Fawkes’s glow and moments later reaches McGonagall’s office; Harry knocks and opens the door.
 
+Places: Moaning Myrtle’s bathroom, Second-floor attack corridor, McGonagall’s office.
+
 Evidence: explicit; state: Late May 1993, Chamber confrontation.
 
 Model: Short narrated transition without stairs or floor number. Do not silently resolve earlier floor conflicts by adding stairs.
@@ -448,6 +540,8 @@ Model: Short narrated transition without stairs or floor number. Do not silently
 ## B02-158: McGonagall’s office — hearth, desk and drawers
 
 The office has a fire with mantelpiece, chairs beside it, and McGonagall’s desk with drawers holding quill and ink. Harry lays the recovered Hat, sword and diary on the desk.
+
+Places: McGonagall’s office.
 
 Evidence: explicit; state: Late May–June 1993.
 
@@ -468,6 +562,8 @@ Model: Office identity explicitly confirmed; no room shape or first-floor statem
 
 Dumbledore sends Ginny and later Lockhart up to the hospital wing, and tells Harry to go down to the feast.
 
+Places: McGonagall’s office, Hospital wing, Great Hall.
+
 Evidence: explicit; state: Late May–June 1993.
 
 Model: Adds office-between-ward-and-feast vertical relations; no full route or direct adjacency.
@@ -484,6 +580,8 @@ Model: Adds office-between-ward-and-feast vertical relations; no full route or d
 ## B02-160: McGonagall’s office to staircase landing
 
 Leaving the office, Harry hears Dobby round a corner and runs along a dark corridor to the top of stairs. Dobby’s defensive magic throws Malfoy down the stairs onto a lower landing; a nearby window admits moonlight.
+
+Places: Moving staircases, Corridors in general, McGonagall’s office.
 
 Evidence: explicit; state: Late May–June 1993.
 
@@ -507,6 +605,8 @@ Model: Confirms a corridor corner, stair flight and lower landing near office. D
 
 McGonagall takes Harry and Hermione across the hall, up the marble staircase and along a corridor to her small office, warmed by a large fire, with desk and visitor seats. They later return down the same marble stair to the Great Hall.
 
+Places: McGonagall’s office, Entrance Hall, Marble staircase.
+
 Evidence: explicit; state: 1 September 1993.
 
 Model: Adds small office size and route, no fresh absolute floor number.
@@ -521,6 +621,8 @@ Model: Adds small office size and route, no fresh absolute floor number.
 ## B03-028: Defence classroom to staff room — broom cupboard
 
 Lupin leaves his classroom’s teacher desk, leads pupils along a corridor, round a corner past a broom-storage door with a gum-blocked keyhole, then down a second corridor to the staff-room door.
+
+Places: Defence Against the Dark Arts classroom, Staff room, Corridors in general, Unnamed one-off rooms.
 
 Evidence: explicit; state: September 1993.
 
@@ -541,6 +643,8 @@ Model: Two-corridor sequence and lockable broom storage; no floor number or exac
 
 The long panelled room contains old mismatched chairs, including a low armchair, and an old spare-robe wardrobe at the far end. The wardrobe stands close enough to bang against the wall when shaken.
 
+Places: Staff room.
+
 Evidence: explicit; state: September 1993.
 
 Model: Adds long plan, chair variety, wardrobe end-position and closable door. No portrait or window inventory supplied.
@@ -559,6 +663,8 @@ Model: Adds long plan, chair variety, wardrobe end-position and closable door. N
 ## B03-030: Staff-room wardrobe — Boggart lesson
 
 Lupin says a Boggart moved into the dark wardrobe the previous afternoon. It rattles the knob and shakes the wardrobe, then emerges as pupils back to the walls, taking successive frightening forms. After laughter and Riddikulus it bursts into smoke and vanishes.
+
+Places: Staff room.
 
 Evidence: explicit; state: September 1993.
 
@@ -595,6 +701,8 @@ Model: Temporary shape-shifter, not real staff-room banshee, giant spider or mum
 
 After abandoning his library walk Harry climbs a staircase, vaguely considering the Owlery, and reaches a corridor with Lupin’s office. Lupin calls through its doorway.
 
+Places: Defence teacher’s office, Corridors in general, Moving staircases.
+
 Evidence: explicit; state: October 1993.
 
 Model: Places the office on this upward wandering route; does not prove it shares a corridor with the Owlery.
@@ -611,6 +719,8 @@ Model: Places the office on this upward wandering route; does not prove it share
 ## B03-037: Lupin’s office — tank and tea furnishings
 
 A very large water tank stands in a corner, holding a horned green Grindylow and tangled waterweed. The office has a desk, visitor seating, kettle, dusty tea tin and chipped mug; Snape places a smoking potion goblet on the desk.
+
+Places: Defence teacher’s office.
 
 Evidence: explicit; state: October 1993.
 
@@ -640,6 +750,8 @@ Model: Temporary teaching creature and potion; tank size is qualitative, no floo
 
 From her office window McGonagall can see the Quidditch pitch through rain. She regards it as exposed and arranges Madam Hooch to supervise Harry’s evening practices; teachers and Percy also escort/watch him in corridors.
 
+Places: McGonagall’s office, Quidditch pitch.
+
 Evidence: explicit; state: After Hallowe’en 1993.
 
 Model: Explicit office-to-pitch sightline; security judgment and supervision dated to the Black threat.
@@ -654,6 +766,8 @@ Model: Explicit office-to-pitch sightline; security judgment and supervision dat
 ## B03-060: Filch’s cabinet — confiscated objects report
 
 The twins say a filing cabinet drawer in Filch’s office was labelled Confiscated and Highly Dangerous and held the map they stole during a first-year diversion.
+
+Places: Filch’s office.
 
 Evidence: reported; state: Twins’ first year, recounted December 1993.
 
@@ -671,29 +785,19 @@ Model: Reported historical storage; present contents not established.
 
 Lupin says he found a Boggart in Filch’s filing cabinet and proposes keeping it in a cupboard under his own office desk between lessons.
 
+Places: Defence teacher’s office, Filch’s office.
+
 Evidence: reported; state: January–February 1994.
 
 Model: Reported source and planned storage, not direct observation of the under-desk cupboard interior.
 
 - [Book 3, ch. 12, “The Patronus”, ref p. 237, ¶35 (B03-C012-P0035)](../../build/reader/book-03.html#B03-C012-P0035)
 
-## B03-093: Hogsmeade — High Street and post-office owls
-
-From Honeydukes Harry and Ron go up the High Street; inside the post office Harry sees at least three hundred owls of different sizes, including tiny Scops birds for local deliveries. They visit crowded Zonko’s before passing the Three Broomsticks towards the Shack.
-
-Evidence: explicit; state: After the February 1994 dormitory intrusion.
-
-Model: Village route context and directly observed count differs from earlier rough report of two hundred; no unrelated shop inventory.
-
-- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 279, ¶84 (B03-C014-P0084)](../../build/reader/book-03.html#B03-C014-P0084)
-- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 279, ¶88 (B03-C014-P0088)](../../build/reader/book-03.html#B03-C014-P0088)
-- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 279–280, ¶90 (B03-C014-P0090)](../../build/reader/book-03.html#B03-C014-P0090)
-- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 280, ¶91 (B03-C014-P0091)](../../build/reader/book-03.html#B03-C014-P0091)
-- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 280, ¶92 (B03-C014-P0092)](../../build/reader/book-03.html#B03-C014-P0092)
-
 ## B03-097: Snape’s office — specimen additions and hearth transport
 
 After descending dungeon stairs Harry sees more slimy specimens on shelves behind Snape’s desk in firelight. Snape throws powder from a fireplace jar into the fire and calls Lupin; Lupin spins into view and climbs out of the hearth covered in ash.
+
+Places: Snape’s office and private stores.
 
 Evidence: explicit; state: After the February 1994 dormitory intrusion.
 
@@ -718,6 +822,8 @@ Model: Demonstrated fire-based transit to the office, with no identified origin 
 
 Lupin leads the boys back to the Entrance Hall. They climb the marble stair, pass the one-eyed witch on the way and reach the corridor patrolled by security trolls.
 
+Places: Snape’s office and private stores, Gryffindor Tower, Marble staircase, One-eyed witch passage.
+
 Evidence: explicit; state: After the February 1994 dormitory intrusion.
 
 Model: Abridged upward sequence, no inferred uninterrupted single flight from Hall to seventh-floor Tower.
@@ -732,6 +838,8 @@ Model: Abridged upward sequence, no inferred uninterrupted single flight from Ha
 
 Lupin explains that after taking Wolfsbane Potion during the preceding week he can remain mentally himself in wolf form and curl up in his office until the moon wanes.
 
+Places: Defence teacher’s office.
+
 Evidence: reported; state: Third year, full moons when Wolfsbane Potion is taken.
 
 Model: Reported use of the existing office, not evidence of a separate cell, cage, or modified room.
@@ -742,6 +850,8 @@ Model: Reported use of the existing office, not evidence of a separate cell, cag
 
 Snape reports finding the Marauder’s Map on Lupin’s desk and seeing Lupin running along the passage until he went out of sight. He subsequently found the abandoned Invisibility Cloak at the base of the Willow.
 
+Places: Marauder’s Map, Defence teacher’s office, Willow tunnel, Whomping Willow.
+
 Evidence: reported; state: End of third year; Shack confrontation.
 
 Model: Supports the map’s finite displayed extent and the office desk; it does not locate the office relative to the Willow.
@@ -749,27 +859,11 @@ Model: Supports the map’s finite displayed extent and the office desk; it does
 - [Book 3, ch. 19, “The Servant of Lord Voldemort”, ref p. 359, ¶2 (B03-C019-P0002)](../../build/reader/book-03.html#B03-C019-P0002)
 - [Book 3, ch. 19, “The Servant of Lord Voldemort”, ref p. 359–360, ¶3 (B03-C019-P0003)](../../build/reader/book-03.html#B03-C019-P0003)
 
-## B03-138: Hospital wing: beds, corridor door and matron’s office
-
-Harry wakes in the dark ward. Ron’s bed is at the far end, while Hermione occupies the bed to Harry’s right with moonlight falling across it. Harry has a bedside table. The ward door stands ajar onto a corridor, carrying voices inside; Pomfrey’s separate office and its door are at the end of the ward.
-
-Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
-
-Model: Relative bed positions describe this occupancy, not fixed numbered beds. Moonlight implies a light path, but no window position is explicitly supplied.
-
-- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 390–391, ¶19 (B03-C021-P0019)](../../build/reader/book-03.html#B03-C021-P0019)
-- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 391, ¶20 (B03-C021-P0020)](../../build/reader/book-03.html#B03-C021-P0020)
-- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 391, ¶21 (B03-C021-P0021)](../../build/reader/book-03.html#B03-C021-P0021)
-- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 391, ¶22 (B03-C021-P0022)](../../build/reader/book-03.html#B03-C021-P0022)
-- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 391–392, ¶29 (B03-C021-P0029)](../../build/reader/book-03.html#B03-C021-P0029)
-- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 392–393, ¶42 (B03-C021-P0042)](../../build/reader/book-03.html#B03-C021-P0042)
-- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 393, ¶55 (B03-C021-P0055)](../../build/reader/book-03.html#B03-C021-P0055)
-- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 394, ¶57 (B03-C021-P0057)](../../build/reader/book-03.html#B03-C021-P0057)
-- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 394, ¶63 (B03-C021-P0063)](../../build/reader/book-03.html#B03-C021-P0063)
-
 ## B03-139: Flitwick’s office: reported seventh-floor prison location
 
 Dumbledore identifies Sirius’s locked room as Flitwick’s office on the seventh floor, locating its window by a count of thirteen relative to the right of the West Tower.
+
+Places: Flitwick’s office, Castle exterior, West Tower.
 
 Evidence: reported; state: Near midnight, third-year rescue.
 
@@ -783,6 +877,8 @@ Model: His wording “Thirteenth window from the right of the West Tower” is l
 ## B03-153: Lake-side takeoff to Flitwick’s office window
 
 Using a lower branch of the waterside bush as a step, Harry mounts Buckbeak in front of Hermione. They rise from the shore, glide toward the upper castle floors and turn while counting windows, then hover by Sirius’s window, bobbing several feet with the wingbeats.
+
+Places: Lakeshore and beech tree, Flitwick’s office, Castle exterior.
 
 Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
 
@@ -801,6 +897,8 @@ Model: The left rein turn is relative to their approach, not a cardinal orientat
 
 Sirius sits on a chair in the office. He cannot open its locked glazed window until Hermione uses Alohomora from outside. He braces both hands on the frame and squeezes his head, shoulders and leg through to mount Buckbeak; his thinness makes this possible.
 
+Places: Flitwick’s office.
+
 Evidence: explicit; state: 6 June, third year; time-shifted evening and midnight rescue.
 
 Model: This opening is usable by a thin adult, not evidence of a full-height exit. No bars or additional opening mechanism are described.
@@ -817,6 +915,8 @@ Model: This opening is usable by a thin adult, not evidence of a full-height exi
 ## B03-161: Lupin’s office: departure state and furniture
 
 At departure Lupin’s office door is initially open. His empty Grindylow tank stands beside an open, nearly packed battered suitcase. He works at the desk, empties its drawers, packs his final books and leaves with the tank and case. Harry sits in his vacated chair after the door closes.
+
+Places: Defence teacher’s office.
 
 Evidence: explicit; state: End of third year, following the midnight rescue.
 
@@ -837,9 +937,26 @@ Model: Desk drawers and a chair are physical furnishings; tank, books and suitca
 - [Book 3, ch. 22, “Owl Post Again”, ref p. 428, ¶101 (B03-C022-P0101)](../../build/reader/book-03.html#B03-C022-P0101)
 - [Book 3, ch. 22, “Owl Post Again”, ref p. 431, ¶128 (B03-C022-P0128)](../../build/reader/book-03.html#B03-C022-P0128)
 
+## B03-162: Castle to gates: departing staff carriage
+
+Dumbledore tells Lupin that his carriage is waiting at the gates. Lupin declines an escort and leaves the office carrying his luggage.
+
+Places: Defence teacher’s office, Main gates and perimeter.
+
+Evidence: reported; state: End of third year, following the midnight rescue.
+
+Model: The vehicle and gate destination are reported; neither the route through the castle nor the carriage propulsion is described.
+
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427, ¶95 (B03-C022-P0095)](../../build/reader/book-03.html#B03-C022-P0095)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427, ¶97 (B03-C022-P0097)](../../build/reader/book-03.html#B03-C022-P0097)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 427–428, ¶98 (B03-C022-P0098)](../../build/reader/book-03.html#B03-C022-P0098)
+- [Book 3, ch. 22, “Owl Post Again”, ref p. 428, ¶100 (B03-C022-P0100)](../../build/reader/book-03.html#B03-C022-P0100)
+
 ## B04-017: Filch’s office
 
 Dumbledore says the castle’s list of about 437 prohibited objects can be consulted in Filch’s office.
+
+Places: Filch’s office.
 
 Evidence: reported; state: 1 September 1994.
 
@@ -847,23 +964,48 @@ Model: Provides a displayed or consultable office list; its mounting and format 
 
 - [Book 4, ch. 12, “The Triwizard Tournament”, ref p. 191–192, ¶136 (B04-C012-P0136)](../../build/reader/book-04.html#B04-C012-P0136)
 
-## B04-076: Moody’s magical-eye visibility
+## B04-031: Side passage near Defence classroom
 
-Moody recognises Harry beneath his Invisibility Cloak in the pub and states that his eye can see through such cloaks.
+After leaving the classroom, the pupils find Neville halfway along a side passage opposite a stone wall. Moody meets them there, offers to take Neville up to his office to see books, and leads him away around a corner.
 
-Evidence: explicit; state: November 1994, before first task.
+Places: Corridors in general, Defence Against the Dark Arts classroom, Defence teacher’s office.
 
-Model: A magical visibility exception relevant to stealth routes throughout the school. This is observed recognition plus a reported explanation, not general transparency to every observer.
+Evidence: explicit; state: First Thursday of term, September 1994.
 
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 336–337, ¶64 (B04-C019-P0064)](../../build/reader/book-04.html#B04-C019-P0064)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 337, ¶67 (B04-C019-P0067)](../../build/reader/book-04.html#B04-C019-P0067)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 337, ¶69 (B04-C019-P0069)](../../build/reader/book-04.html#B04-C019-P0069)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 337, ¶70 (B04-C019-P0070)](../../build/reader/book-04.html#B04-C019-P0070)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 337, ¶71 (B04-C019-P0071)](../../build/reader/book-04.html#B04-C019-P0071)
+Model: Preserve a nearby branching passage and corner. Up to the office is Moody’s wording, not a fully traced stair route; books in the office are reported.
+
+- [Book 4, ch. 14, “The Unforgivable Curses”, ref p. 227, ¶75 (B04-C014-P0075)](../../build/reader/book-04.html#B04-C014-P0075)
+- [Book 4, ch. 14, “The Unforgivable Curses”, ref p. 227, ¶79 (B04-C014-P0079)](../../build/reader/book-04.html#B04-C014-P0079)
+- [Book 4, ch. 14, “The Unforgivable Curses”, ref p. 227, ¶80 (B04-C014-P0080)](../../build/reader/book-04.html#B04-C014-P0080)
+- [Book 4, ch. 14, “The Unforgivable Curses”, ref p. 227–228, ¶88 (B04-C014-P0088)](../../build/reader/book-04.html#B04-C014-P0088)
+- [Book 4, ch. 14, “The Unforgivable Curses”, ref p. 228, ¶89 (B04-C014-P0089)](../../build/reader/book-04.html#B04-C014-P0089)
+- [Book 4, ch. 14, “The Unforgivable Curses”, ref p. 228, ¶94 (B04-C014-P0094)](../../build/reader/book-04.html#B04-C014-P0094)
+- [Book 4, ch. 14, “The Unforgivable Curses”, ref p. 228, ¶95 (B04-C014-P0095)](../../build/reader/book-04.html#B04-C014-P0095)
+- [Book 4, ch. 14, “The Unforgivable Curses”, ref p. 228, ¶96 (B04-C014-P0096)](../../build/reader/book-04.html#B04-C014-P0096)
+
+## B04-084: Entrance Hall to Charms corridor
+
+Harry follows Cedric up the marble staircase from the Entrance Hall towards the Charms corridor, where Cedric’s friends enter Flitwick’s classroom. Moody emerges from a nearby classroom and takes Harry to his office.
+
+Places: Entrance Hall, Marble staircase, Charms corridor, Defence teacher’s office.
+
+Evidence: explicit; state: November 1994, first-task preparation.
+
+Model: Preserve the upper route and local classroom proximity; the office’s exact floor or direct adjacency to Flitwick’s room is not stated.
+
+- [Book 4, ch. 20, “The First Task”, ref p. 356, ¶20 (B04-C020-P0020)](../../build/reader/book-04.html#B04-C020-P0020)
+- [Book 4, ch. 20, “The First Task”, ref p. 356, ¶23 (B04-C020-P0023)](../../build/reader/book-04.html#B04-C020-P0023)
+- [Book 4, ch. 20, “The First Task”, ref p. 356–357, ¶24 (B04-C020-P0024)](../../build/reader/book-04.html#B04-C020-P0024)
+- [Book 4, ch. 20, “The First Task”, ref p. 358, ¶38 (B04-C020-P0038)](../../build/reader/book-04.html#B04-C020-P0038)
+- [Book 4, ch. 20, “The First Task”, ref p. 358, ¶39 (B04-C020-P0039)](../../build/reader/book-04.html#B04-C020-P0039)
+- [Book 4, ch. 20, “The First Task”, ref p. 358, ¶41 (B04-C020-P0041)](../../build/reader/book-04.html#B04-C020-P0041)
+- [Book 4, ch. 20, “The First Task”, ref p. 358, ¶43 (B04-C020-P0043)](../../build/reader/book-04.html#B04-C020-P0043)
 
 ## B04-086: Moody’s office furnishings
 
 A large cracked glass Sneakoscope stands on the desk. A humming squiggly golden Secrecy Sensor sits on a small table in a corner. On the wall opposite Harry hangs a Foe-Glass showing indistinct moving figures instead of the room. A large trunk under the window has seven keyholes in a row.
+
+Places: Defence teacher’s office.
 
 Evidence: explicit; state: November 1994, first-task preparation.
 
@@ -881,6 +1023,8 @@ Model: Preserve the desk, corner table, wall display and under-window trunk as t
 
 Harry recalls the same office under Lockhart, with walls covered in smiling self-portraits, and under Lupin, who kept specimens of Dark creatures for lessons.
 
+Places: Defence teacher’s office.
+
 Evidence: explicit; state: Lockhart and Lupin tenures before 1994–95.
 
 Model: Narrated recollection of changing office contents, not additional rooms or permanent portrait subjects.
@@ -891,6 +1035,8 @@ Model: Narrated recollection of changing office contents, not additional rooms o
 
 Moody says the Secrecy Sensor vibrates at concealment or lies and constantly hums amid school activity. His extra-sensitive Sneakoscope can detect trouble roughly a mile away and has been disabled because it would not stop whistling. He says the Foe-Glass sharpens its hostile figures as danger becomes near.
 
+Places: Defence teacher’s office.
+
 Evidence: reported; state: November 1994, first-task preparation.
 
 Model: Reported operating rules, not a guarantee that the objects discriminate threats correctly or that every hum is caused by homework lies.
@@ -898,9 +1044,26 @@ Model: Reported operating rules, not a guarantee that the objects discriminate t
 - [Book 4, ch. 20, “The First Task”, ref p. 359–360, ¶51 (B04-C020-P0051)](../../build/reader/book-04.html#B04-C020-P0051)
 - [Book 4, ch. 20, “The First Task”, ref p. 360, ¶53 (B04-C020-P0053)](../../build/reader/book-04.html#B04-C020-P0053)
 
+## B04-139: Marauder’s Map spatial display
+
+The map displays Hogwarts’s shortcuts and secret passages and people as labelled moving dots. From the corridor outside the Prefects’ bathroom Harry sees Filch and Mrs Norris in their office, Peeves in the trophy room a floor above, and a dot labelled Bartemius Crouch moving in Snape’s office at the map’s lower-left corner.
+
+Places: Marauder’s Map, Trophy room, Snape’s office and private stores.
+
+Evidence: explicit; state: January 1995, night bathroom visit.
+
+Model: Map position is not a real-world compass bearing. The label alone does not identify which Crouch or prove that Harry’s interpretation of the visitor is correct.
+
+- [Book 4, ch. 25, “The Egg and the Eye”, ref p. 482, ¶2 (B04-C025-P0002)](../../build/reader/book-04.html#B04-C025-P0002)
+- [Book 4, ch. 25, “The Egg and the Eye”, ref p. 491, ¶67 (B04-C025-P0067)](../../build/reader/book-04.html#B04-C025-P0067)
+- [Book 4, ch. 25, “The Egg and the Eye”, ref p. 491, ¶68 (B04-C025-P0068)](../../build/reader/book-04.html#B04-C025-P0068)
+- [Book 4, ch. 25, “The Egg and the Eye”, ref p. 491, ¶69 (B04-C025-P0069)](../../build/reader/book-04.html#B04-C025-P0069)
+
 ## B04-149: Snape’s office security and storage
 
 Snape says his office is sealed with a spell only a wizard can break and that Peeves cannot enter. He reports finding its torches lit and a cupboard ajar, and describes a private store cupboard of potion ingredients from which supplies have previously vanished.
+
+Places: Snape’s office and private stores.
 
 Evidence: reported; state: January 1995, night bathroom visit.
 
@@ -916,6 +1079,8 @@ Model: All office condition/security details here are reported by Snape; the sce
 
 After Harry is freed, he and Moody climb to the top of the shortcut staircase and walk to Moody’s office door; Harry then returns to Gryffindor Tower.
 
+Places: Hidden stairs and shortcuts inside the castle, Defence teacher’s office, Gryffindor Tower.
+
 Evidence: explicit; state: January 1995, night bathroom visit.
 
 Model: Ordered return relation only. Ten minutes to Harry being in bed includes an unmeasured walking route and changing, not a metric distance.
@@ -928,6 +1093,8 @@ Model: Ordered return relation only. Ten minutes to Harry being in bed includes 
 ## B04-155: Library to McGonagall’s office
 
 The twins collect Ron and Hermione from the library, saying they must take them down to McGonagall’s office.
+
+Places: Library, McGonagall’s office.
 
 Evidence: reported; state: Late January–24 February 1995; second-task preparation and event.
 
@@ -942,6 +1109,8 @@ Model: Reported downward route, not a traced staircase or floor number.
 
 Dobby says he travels through the castle lighting fires and mopping floors, and overheard McGonagall and Moody in the staff room.
 
+Places: Staff room, Castle interiors in general.
+
 Evidence: reported; state: Late January–24 February 1995; second-task preparation and event.
 
 Model: Dobby’s report establishes maintenance access and the staff-room location of a claimed conversation, not its precise floor or furnishings.
@@ -952,6 +1121,8 @@ Model: Dobby’s report establishes maintenance access and the staff-room locati
 ## B04-171: McGonagall’s office hostage preparation
 
 Ron and Hermione report being placed in a safe bewitched sleep in McGonagall’s office before the second task, with waking linked to returning above water.
+
+Places: McGonagall’s office.
 
 Evidence: reported; state: Late February–March 1995.
 
@@ -964,6 +1135,8 @@ Model: Ron’s later story of a violent kidnapping is explicitly unreliable and 
 ## B04-174: Snape’s private ingredient stores
 
 Snape identifies Boomslang skin and Gillyweed as stolen from his private stores; narration confirms Hermione took the former earlier and Dobby took the latter.
+
+Places: Snape’s office and private stores.
 
 Evidence: explicit; state: Late February–March 1995.
 
@@ -978,6 +1151,8 @@ Model: Reported storage inventory with narratorial corroboration; no extra cupbo
 ## B04-188: Forest to Headmaster’s entrance
 
 Harry runs uphill from the Forest through the grounds, climbs the front steps, enters the oak doors and ascends the marble staircase towards the second floor. Five minutes later he reaches a stone gargoyle halfway along an empty corridor.
+
+Places: Forest edge, Front steps and front doors, Marble staircase, Headmaster’s office.
 
 Evidence: explicit; state: March–late May 1995; maze briefing and Crouch encounter in late May.
 
@@ -994,6 +1169,8 @@ Model: The route says towards the second floor before the later gargoyle arrival
 ## B04-189: Headmaster’s gargoyle and moving wall
 
 The stone gargoyle guards a hidden stair up to Dumbledore’s office. The old password Sherbet lemon fails to make it jump aside. Snape emerges from the hidden stairs as a wall slides closed behind him; that stone wall opens again when Dumbledore appears.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: March–late May 1995; maze briefing and Crouch encounter in late May.
 
@@ -1013,6 +1190,8 @@ Model: Observed mechanism with a known obsolete password. The valid current pass
 
 Harry leaves through the Divination trapdoor and stepladder and walks the corridors to the stone gargoyle guarding Dumbledore’s entrance.
 
+Places: North Tower and Divination classroom, Headmaster’s office, Corridors in general.
+
 Evidence: explicit; state: Late May–early June 1995, after Crouch disappearance.
 
 Model: No traced floor-by-floor descent is supplied.
@@ -1024,6 +1203,8 @@ Model: No traced floor-by-floor descent is supplied.
 ## B04-199: Headmaster’s moving staircase and outer door
 
 After failed password guesses, Cockroach cluster makes the gargoyle jump aside. Harry enters a gap in the wall and stands on a spiral stone stair which slowly carries him upwards as the lower doors close, reaching a polished oak door with a brass knocker. Office voices can be heard beyond it.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: Late May–early June 1995, after Crouch disappearance.
 
@@ -1048,6 +1229,8 @@ Model: Dated valid password. Preserve the moving stair and separate upper office
 
 The office is a beautiful circular room lined with sleeping portraits of previous headmasters and headmistresses. Dumbledore has a polished desk and chair with a visitor chair opposite and enough space to pace behind it. Fawkes occupies a golden perch beside the door; the office is sunlit.
 
+Places: Headmaster’s office.
+
 Evidence: explicit; state: Late May–June 1995 office visit; earlier school memory where specified.
 
 Model: Clunks can be heard fading in the corridor below after visitors depart. No measured diameter is supplied.
@@ -1067,6 +1250,8 @@ Model: Clunks can be heard fading in the corridor below after visitors depart. N
 
 Behind Dumbledore’s desk a shelf holds the ragged Sorting Hat. Beside it a glass case displays Gryffindor’s silver sword with large rubies in its hilt.
 
+Places: Headmaster’s office.
+
 Evidence: explicit; state: Late May–June 1995 office visit; earlier school memory where specified.
 
 Model: The sword’s history is given by narration; preserve the current glass case and shelf positions.
@@ -1076,6 +1261,8 @@ Model: The sword’s history is given by narration; preserve the current glass c
 ## B04-202: Office cabinet and Pensieve
 
 A black cabinet behind the visitor chair contains a shallow stone basin carved with runes and symbols, filled with moving silver-white memory substance. Its light reflects on the sword case. Touching the surface draws Harry into a memory; Dumbledore retrieves him and moves the basin onto the polished desk, where stored memories can also project revolving figures.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: Late May–June 1995 office visit; earlier school memory where specified.
 
@@ -1110,6 +1297,8 @@ Model: Magical memory access is not a physical tunnel or extra room beneath the 
 
 The impostor takes Harry across the lawn past the lake and ship, up the castle stone steps, through the Entrance Hall, up the marble staircase and along a corridor into Moody’s office.
 
+Places: Third-task maze, Entrance Hall, Marble staircase, Defence teacher’s office.
+
 Evidence: explicit; state: 24 June 1995 return and interrogation; prior-year events where reported.
 
 Model: A contiguous sequence without an exact floor number. The destination is concealed from Harry under the claim of hospital care.
@@ -1126,6 +1315,8 @@ Model: A contiguous sequence without an exact floor number. The destination is c
 ## B04-225: Moody’s office confinement and damaged door
 
 The dark office has a keyed lock and a barred door; screams from the distant Quidditch pitch remain audible. Dumbledore blasts the door apart with a Stunning Spell, splintering it and leaving a breached doorway.
+
+Places: Defence teacher’s office.
 
 Evidence: explicit; state: 24 June 1995 return and interrogation; prior-year events where reported.
 
@@ -1145,6 +1336,8 @@ Model: Dated damage. The magical eye is used to check the space outside the clos
 
 Crouch reports summoning Dobby to the staff room to collect robes for cleaning, then staging a loud conversation about Gillyweed and the hostages to direct him towards Snape’s store cupboard.
 
+Places: Staff room.
+
 Evidence: reported; state: 24 June 1995 return and interrogation; prior-year events where reported.
 
 Model: Reported manipulation under the Moody disguise. This resolves the overheard-conversation provenance without changing staff-room geometry.
@@ -1152,9 +1345,28 @@ Model: Reported manipulation under the Moody disguise. This resolves the overhea
 - [Book 4, ch. 35, “Veritaserum”, ref p. 715–716, ¶72 (B04-C035-P0072)](../../build/reader/book-04.html#B04-C035-P0072)
 - [Book 4, ch. 35, “Veritaserum”, ref p. 716, ¶73 (B04-C035-P0073)](../../build/reader/book-04.html#B04-C035-P0073)
 
+## B04-226: Foe-Glass approaching figures
+
+Three indistinct figures in the wall-mounted Foe-Glass sharpen as Dumbledore, Snape and McGonagall approach; their faces remain visible in it after they stand in the doorway and enter. Crouch is later seated against the wall beneath it.
+
+Places: Defence teacher’s office.
+
+Evidence: explicit; state: 24 June 1995 return and interrogation; prior-year events where reported.
+
+Model: Observed display behaviour corroborates its warning function; it is not an ordinary mirror of the room.
+
+- [Book 4, ch. 35, “Veritaserum”, ref p. 716, ¶74 (B04-C035-P0074)](../../build/reader/book-04.html#B04-C035-P0074)
+- [Book 4, ch. 35, “Veritaserum”, ref p. 717, ¶77 (B04-C035-P0077)](../../build/reader/book-04.html#B04-C035-P0077)
+- [Book 4, ch. 35, “Veritaserum”, ref p. 718, ¶84 (B04-C035-P0084)](../../build/reader/book-04.html#B04-C035-P0084)
+- [Book 4, ch. 35, “Veritaserum”, ref p. 718, ¶85 (B04-C035-P0085)](../../build/reader/book-04.html#B04-C035-P0085)
+- [Book 4, ch. 35, “Veritaserum”, ref p. 719, ¶87 (B04-C035-P0087)](../../build/reader/book-04.html#B04-C035-P0087)
+- [Book 4, ch. 35, “Veritaserum”, ref p. 723, ¶112 (B04-C035-P0112)](../../build/reader/book-04.html#B04-C035-P0112)
+
 ## B04-230: Real Moody’s confinement and ingredient theft
 
 Crouch reports bringing the captured real Moody, clothes and detectors to Hogwarts in Moody’s own magical trunk, keeping him alive under Imperius for hair and interrogation, and stealing Polyjuice ingredients from Snape’s dungeon stores. The map’s Bartemius Crouch label referred to the son with the same name.
+
+Places: Defence teacher’s office, Snape’s office and private stores.
 
 Evidence: reported; state: 24 June 1995 return and interrogation; prior-year events where reported.
 
@@ -1178,6 +1390,8 @@ Model: Narrated discovery confirms the prisoner; the yearlong treatment and thef
 
 Each keyhole opens a different interior of the same trunk: first spellbooks, then broken Sneakoscopes, parchment, quills and a silvery Invisibility Cloak, with other unspecified contents in compartments three to six. The seventh reveals a pit-like room ten feet below containing the real Moody. Dumbledore climbs down, covers him against the cold and climbs back out.
 
+Places: Defence teacher’s office.
+
 Evidence: explicit; state: 24 June 1995 return and interrogation; prior-year events where reported.
 
 Model: Nested magical interior, not proof of a cellar excavated beneath the office. No ladder is described; the ten-foot drop is explicit.
@@ -1195,6 +1409,8 @@ Model: Nested magical interior, not proof of a cellar excavated beneath the offi
 ## B04-233: Moody’s office to Headmaster’s office
 
 Dumbledore takes Harry from Moody’s office along a dark passage to the gargoyle, then up the moving spiral stair and through the oak door into his office.
+
+Places: Defence teacher’s office, Headmaster’s office, Corridors in general.
 
 Evidence: explicit; state: Night of 24–25 June 1995.
 
@@ -1214,6 +1430,8 @@ Model: The destination is described as up; no intervening floor count is given.
 
 Harry, Dumbledore and Sirius leave the office and descend a flight of stairs to the hospital-wing entrance.
 
+Places: Headmaster’s office, Hospital wing.
+
 Evidence: explicit; state: Night of 24–25 June 1995.
 
 Model: Preserve the stated descent; do not assume this single mentioned flight accounts for every intermediate threshold.
@@ -1227,6 +1445,8 @@ Model: Preserve the stated descent; do not assume this single mentioned flight a
 ## B04-236: Dementor admitted to Moody’s office
 
 Snape and McGonagall report that Fudge brought a Dementor into the castle and up to the office despite Dumbledore’s policy against them; it immediately attacked the bound Crouch there.
+
+Places: Defence teacher’s office, Protections and security.
 
 Evidence: reported; state: Night of 24–25 June 1995.
 
@@ -1245,19 +1465,23 @@ Model: Reported incident proves the policy was not an automatically impassable p
 - [Book 4, ch. 36, “The Parting of the Ways”, ref p. 745, ¶106 (B04-C036-P0106)](../../build/reader/book-04.html#B04-C036-P0106)
 - [Book 4, ch. 36, “The Parting of the Ways”, ref p. 745, ¶110 (B04-C036-P0110)](../../build/reader/book-04.html#B04-C036-P0110)
 
-## B05-002: Corridor to Snape’s dungeon
+## B05-020: Sorting Hat storage
 
-A Ministry basement corridor with rough stone walls and bracket-mounted torches is said to resemble the corridor leading to Snape’s dungeon at Hogwarts.
+Nearly Headless Nick says the Sorting Hat lives in Dumbledore’s office.
 
-Evidence: explicit; state: August 1995 comparison with existing Hogwarts dungeon approach.
+Places: Headmaster’s office.
 
-Model: Record the rough stone and torch-bracket comparison. The heavy bolted doors described as here belong to the Ministry corridor and are not imported as Hogwarts door specifications.
+Evidence: reported; state: 1 September 1995 start-of-term feast and night.
 
-- [Book 5, ch. 7, “The Ministry of Magic”, ref p. 160, ¶152 (B05-C007-P0152)](../../build/reader/book-05.html#B05-C007-P0152)
+Model: Reported storage location; his idea that it overhears information is speculation.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 244, ¶145 (B05-C011-P0145)](../../build/reader/book-05.html#B05-C011-P0145)
 
 ## B05-022: Filch’s office door
 
 Dumbledore says an extensive list of forbidden things is fastened to the caretaker’s office door.
+
+Places: Filch’s office.
 
 Evidence: reported; state: 1 September 1995 start-of-term feast and night.
 
@@ -1265,27 +1489,11 @@ Model: Reported fixture; door location and list dimensions unspecified.
 
 - [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 246, ¶161 (B05-C011-P0161)](../../build/reader/book-05.html#B05-C011-P0161)
 
-## B05-041: Defence classroom under Umbridge
-
-Umbridge sits behind the teacher’s desk; she writes magically on a blackboard. Pupils have seats including stools and a chair Harry kicks aside; their work uses quills, ink and parchment.
-
-Evidence: explicit; state: First Monday of September term, 1995.
-
-Model: Specific stool and chair observations do not establish uniform classroom seating.
-
-- [Book 5, ch. 12, “Professor Umbridge”, ref p. 279, ¶193 (B05-C012-P0193)](../../build/reader/book-05.html#B05-C012-P0193)
-- [Book 5, ch. 12, “Professor Umbridge”, ref p. 279–280, ¶199 (B05-C012-P0199)](../../build/reader/book-05.html#B05-C012-P0199)
-- [Book 5, ch. 12, “Professor Umbridge”, ref p. 280, ¶200 (B05-C012-P0200)](../../build/reader/book-05.html#B05-C012-P0200)
-- [Book 5, ch. 12, “Professor Umbridge”, ref p. 280, ¶205 (B05-C012-P0205)](../../build/reader/book-05.html#B05-C012-P0205)
-- [Book 5, ch. 12, “Professor Umbridge”, ref p. 281, ¶214 (B05-C012-P0214)](../../build/reader/book-05.html#B05-C012-P0214)
-- [Book 5, ch. 12, “Professor Umbridge”, ref p. 286, ¶269 (B05-C012-P0269)](../../build/reader/book-05.html#B05-C012-P0269)
-- [Book 5, ch. 12, “Professor Umbridge”, ref p. 286, ¶273 (B05-C012-P0273)](../../build/reader/book-05.html#B05-C012-P0273)
-- [Book 5, ch. 12, “Professor Umbridge”, ref p. 287–288, ¶286 (B05-C012-P0286)](../../build/reader/book-05.html#B05-C012-P0286)
-- [Book 5, ch. 12, “Professor Umbridge”, ref p. 288, ¶287 (B05-C012-P0287)](../../build/reader/book-05.html#B05-C012-P0287)
-
 ## B05-042: Defence classroom to McGonagall’s office
 
 Harry exits Defence, follows a corridor, turns a corner and runs down the nearest staircase with a banister. McGonagall emerges from an office door to his left.
+
+Places: Defence Against the Dark Arts classroom, Moving staircases, McGonagall’s office.
 
 Evidence: explicit; state: First Monday of September term, 1995.
 
@@ -1298,6 +1506,8 @@ Model: Observed sequence includes an evasive detour from Peeves; not necessarily
 ## B05-044: McGonagall’s study
 
 The study door closes automatically behind Harry. McGonagall sits at a desk piled with papers and a tartan biscuit tin, with a visitor’s chair opposite. Student movement can be heard overhead and around the office when the bell rings.
+
+Places: McGonagall’s office.
 
 Evidence: explicit; state: First Monday of September term, 1995.
 
@@ -1315,6 +1525,8 @@ Model: Do not infer a precise floor from overhead footfalls; automatic closing i
 
 Umbridge’s office is on the third floor and is the office formerly occupied by Lockhart, Lupin and the impostor Moody: respectively self-portraits, dark creatures in cages or tanks, and detection instruments and artefacts.
 
+Places: Defence teacher’s office.
+
 Evidence: explicit; state: First school week, September 1995.
 
 Model: Identifies continuity of one room despite changing decor; retain historical occupant states.
@@ -1325,6 +1537,8 @@ Model: Identifies continuity of one room despite changing decor; retain historic
 ## B05-056: Umbridge’s office decor and detention furniture
 
 Lace covers and cloths drape the surfaces. Dried-flower vases stand on doilies, and wall plates depict brightly coloured kittens with different neck bows. A cloth covers her desk; a small lace-covered table and straight-backed chair hold Harry’s detention parchment. Her desk has drawers.
+
+Places: Defence teacher’s office.
 
 Evidence: explicit; state: First school week, September 1995.
 
@@ -1341,6 +1555,8 @@ Model: September occupation state; do not retain predecessors’ equipment witho
 ## B05-057: Umbridge’s detention quill
 
 A long thin black quill with an unusually sharp point writes with Harry’s blood without an ink supply and cuts matching words into his hand; repeated use eventually leaves lasting cuts.
+
+Places: Defence teacher’s office.
 
 Evidence: explicit; state: First school week, September 1995.
 
@@ -1359,6 +1575,8 @@ Model: Interactive office prop; effects belong to this quill, not the room’s a
 
 Her office has a window through which darkness falls. Moving his chair about an inch to the right gives Harry a distant view of Keeper trials and three high goalposts; individual identities remain too distant to resolve. The pitch disappears from view after nightfall.
 
+Places: Defence teacher’s office, Quidditch pitch.
+
 Evidence: explicit; state: First school week, September 1995.
 
 Model: Explicit third-floor office-to-pitch sightline; no compass direction or distance in yards.
@@ -1370,9 +1588,28 @@ Model: Explicit third-floor office-to-pitch sightline; no compass direction or d
 - [Book 5, ch. 13, “Detention with Dolores”, ref p. 322–323, ¶245 (B05-C013-P0245)](../../build/reader/book-05.html#B05-C013-P0245)
 - [Book 5, ch. 13, “Detention with Dolores”, ref p. 323, ¶248 (B05-C013-P0248)](../../build/reader/book-05.html#B05-C013-P0248)
 
+## B05-059: Seventh-floor Lachlan statue route
+
+Returning from Umbridge, Harry climbs a staircase to the seventh floor, turns right at its top and encounters Ron hiding behind a statue of Lachlan the Lanky. They continue to the Fat Lady.
+
+Places: Gryffindor Tower, Suits of armour and statues, Moving staircases, Defence teacher’s office.
+
+Evidence: explicit; state: First school week, September 1995.
+
+Model: Precise local floor and turn; does not fix total travel from the third floor or statue-to-portrait distance.
+
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 318, ¶203 (B05-C013-P0203)](../../build/reader/book-05.html#B05-C013-P0203)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 318, ¶205 (B05-C013-P0205)](../../build/reader/book-05.html#B05-C013-P0205)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 319, ¶210 (B05-C013-P0210)](../../build/reader/book-05.html#B05-C013-P0210)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 319–320, ¶218 (B05-C013-P0218)](../../build/reader/book-05.html#B05-C013-P0218)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 320, ¶225 (B05-C013-P0225)](../../build/reader/book-05.html#B05-C013-P0225)
+- [Book 5, ch. 13, “Detention with Dolores”, ref p. 321, ¶233 (B05-C013-P0233)](../../build/reader/book-05.html#B05-C013-P0233)
+
 ## B05-084: Dumbledore’s office sword and portraits
 
 Terry Boot reports seeing a sword in Dumbledore’s office and hearing one of the wall portraits tell of Harry using it to kill the Basilisk; Harry confirms the deed.
+
+Places: Headmaster’s office.
 
 Evidence: reported; state: Late September and first October Hogsmeade weekend, 1995.
 
@@ -1385,6 +1622,8 @@ Model: Reported office contents and talking wall portrait; this does not newly d
 
 Harry leaves History of Magic, follows its corridor past a window overlooking the grounds near Hagrid’s cabin, then goes downstairs to the staff room.
 
+Places: History of Magic classroom, Corridors in general, Staff room.
+
 Evidence: explicit; state: Early October 1995, after first Hogsmeade meeting.
 
 Model: The classroom is above the staff-room approach, without an exact floor difference.
@@ -1396,6 +1635,8 @@ Model: The classroom is above the staff-room approach, without an exact floor di
 ## B05-091: Staff-room entrance
 
 Two stone gargoyles flank the staff-room door and speak to Harry. Teachers open the door from inside; at break the adjacent corridor carries students in both directions and leads out into a courtyard with a sheltered corner.
+
+Places: Staff room, Courtyards.
 
 Evidence: explicit; state: Early October 1995, after first Hogsmeade meeting.
 
@@ -1415,6 +1656,8 @@ Model: Talking guards do not demonstrate a password or physically blocked entry.
 
 McGonagall says she is accustomed to keeping the Quidditch Cup in her study.
 
+Places: McGonagall’s office.
+
 Evidence: reported; state: Late October to first November Quidditch match, 1995.
 
 Model: Reported trophy location, without a display stand or case.
@@ -1424,6 +1667,8 @@ Model: Reported trophy location, without a display stand or case.
 ## B05-125: Pitch to McGonagall’s office
 
 After the fight Harry and George walk from the pitch uphill to the castle, through a quiet Entrance Hall, then along a corridor to McGonagall’s office; she approaches behind them.
+
+Places: Quidditch pitch, Entrance Hall, McGonagall’s office.
 
 Evidence: explicit; state: Late October to first November Quidditch match, 1995.
 
@@ -1438,6 +1683,8 @@ Model: Intervening floors and stairs are not described.
 
 McGonagall’s tartan biscuit tin slides off her desk and bursts open on the floor, scattering Ginger Newts; she has thrown her scarf onto the floor.
 
+Places: McGonagall’s office.
+
 Evidence: explicit; state: Late October to first November Quidditch match, 1995.
 
 Model: Temporary movable clutter; no permanent office damage.
@@ -1447,9 +1694,26 @@ Model: Temporary movable clutter; no permanent office damage.
 - [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 488–489, ¶162 (B05-C019-P0162)](../../build/reader/book-05.html#B05-C019-P0162)
 - [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 489, ¶166 (B05-C019-P0166)](../../build/reader/book-05.html#B05-C019-P0166)
 
+## B05-127: Confiscated broom storage order
+
+Umbridge announces that Harry’s, Fred’s and George’s brooms will be confiscated and kept in her office after their lifetime Quidditch bans.
+
+Places: Defence teacher’s office.
+
+Evidence: reported; state: Late October to first November Quidditch match, 1995.
+
+Model: Announced storage plan rather than a narrated transfer in this chapter.
+
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 490, ¶178 (B05-C019-P0178)](../../build/reader/book-05.html#B05-C019-P0178)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 490–491, ¶180 (B05-C019-P0180)](../../build/reader/book-05.html#B05-C019-P0180)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 491, ¶182 (B05-C019-P0182)](../../build/reader/book-05.html#B05-C019-P0182)
+- [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 491, ¶185 (B05-C019-P0185)](../../build/reader/book-05.html#B05-C019-P0185)
+
 ## B05-149: Gryffindor to Headmaster at night
 
 McGonagall leads Harry and Ron down the dormitory spiral stairs, across the common room and through the portrait hole along the Fat Lady’s moonlit corridor. After a few minutes they reach the office’s stone gargoyle.
+
+Places: Gryffindor boys’ dormitories, Gryffindor common room, Fat Lady portrait entrance, Headmaster’s office.
 
 Evidence: explicit; state: December 1995, night of Arthur Weasley’s attack and following day.
 
@@ -1461,6 +1725,8 @@ Model: Travel duration approximate; intervening corridor turns and floors not su
 ## B05-150: Headmaster staircase and door
 
 Fizzing Whizzbee makes the gargoyle leap aside and the wall split, exposing continuously ascending stone spiral stairs. The wall closes behind riders; tight circles bring them to a polished oak door with a brass griffin-shaped knocker. The door opens of itself after three knocks.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: December 1995, night of Arthur Weasley’s attack and following day.
 
@@ -1474,6 +1740,8 @@ Model: Password belongs to December 1995.
 ## B05-151: Headmaster office night fittings
 
 Tables hold fragile silver instruments, unusually still and smokeless tonight; former heads’ portraits cover the walls. Fawkes sleeps on a perch beside and behind the entrance door. A candle lights papers on Dumbledore’s desk, behind which stands his high-backed chair.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: December 1995, night of Arthur Weasley’s attack and following day.
 
@@ -1489,9 +1757,29 @@ Model: Fawkes perch position explicit; instrument activity varies with time.
 - [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 554, ¶36 (B05-C022-P0036)](../../build/reader/book-05.html#B05-C022-P0036)
 - [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 554–555, ¶40 (B05-C022-P0040)](../../build/reader/book-05.html#B05-C022-P0040)
 
+## B05-152: Portrait communication network
+
+Everard’s portrait hangs near the ceiling beside Dilys’s; after they leave their frames, one shows a dark curtain and the other a leather armchair. They return with reports from other institutions. Dumbledore explains they travel among their own portraits; Hogwarts subjects usually enter neighbouring pictures.
+
+Places: Headmaster’s office, Portraits and paintings.
+
+Evidence: explicit; state: December 1995, night of Arthur Weasley’s attack and following day.
+
+Model: Remote institutional connection, not a physical passage. Everard returns at the top of the wall to the visitors’ right.
+
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 552, ¶24 (B05-C022-P0024)](../../build/reader/book-05.html#B05-C022-P0024)
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 552, ¶25 (B05-C022-P0025)](../../build/reader/book-05.html#B05-C022-P0025)
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 552–553, ¶29 (B05-C022-P0029)](../../build/reader/book-05.html#B05-C022-P0029)
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 553, ¶30 (B05-C022-P0030)](../../build/reader/book-05.html#B05-C022-P0030)
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 554–555, ¶40 (B05-C022-P0040)](../../build/reader/book-05.html#B05-C022-P0040)
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 555, ¶43 (B05-C022-P0043)](../../build/reader/book-05.html#B05-C022-P0043)
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 555, ¶45 (B05-C022-P0045)](../../build/reader/book-05.html#B05-C022-P0045)
+
 ## B05-153: Conjured office visitor chairs
 
 McGonagall conjures three straight-backed wooden chairs for herself, Harry and Ron.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: December 1995, night of Arthur Weasley’s attack and following day.
 
@@ -1503,6 +1791,8 @@ Model: Event furniture, distinct from Dumbledore’s comfortable chintz chairs a
 ## B05-157: Fawkes office warning
 
 Fawkes disappears in a flash of fire; later flame appears in mid-office leaving one golden feather as a warning of an approaching visitor.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: December 1995, night of Arthur Weasley’s attack and following day.
 
@@ -1519,6 +1809,8 @@ Model: Remote phoenix warning transport, not an architectural passage.
 
 Dumbledore places a silver instrument from its spindly table onto his desk and activates it by wand. A tiny top tube emits pale-green smoke forming a serpent that divides into two; a second tap stops it and the smoke vanishes.
 
+Places: Headmaster’s office.
+
 Evidence: explicit; state: December 1995, night of Arthur Weasley’s attack and following day.
 
 Model: Function remains unexplained; do not label it a confirmed truth detector.
@@ -1532,6 +1824,8 @@ Model: Function remains unexplained; do not label it a confirmed truth detector.
 ## B05-156: Office cupboard and Portkey departure
 
 A cupboard behind Harry and Ron contains a blackened old kettle. Dumbledore enchants it blue momentarily with Portus; five pupils touch it at his desk and are transported to Grimmauld Place’s basement kitchen.
+
+Places: Headmaster’s office, Protections and security.
 
 Evidence: explicit; state: December 1995, night of Arthur Weasley’s attack and following day.
 
@@ -1548,9 +1842,35 @@ Model: Demonstrated authorised Portkey departure inside Hogwarts, distinct from 
 - [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 560, ¶84 (B05-C022-P0084)](../../build/reader/book-05.html#B05-C022-P0084)
 - [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 560, ¶87 (B05-C022-P0087)](../../build/reader/book-05.html#B05-C022-P0087)
 
+## B05-155: Phineas Nigellus portrait connection
+
+A portrait of pointed-bearded Phineas in Slytherin green and silver hangs in the office with a Slytherin banner backdrop. He moves to his other portrait in Harry’s Grimmauld Place bedroom to deliver a message, then returns.
+
+Places: Headmaster’s office, Portraits and paintings.
+
+Evidence: explicit; state: December 1995, night of Arthur Weasley’s attack and following day.
+
+Model: Specific remote portrait connection observed through departures/return and Dumbledore’s explanation; Armando Dippet also has an office portrait.
+
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 556, ¶54 (B05-C022-P0054)](../../build/reader/book-05.html#B05-C022-P0054)
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 556, ¶55 (B05-C022-P0055)](../../build/reader/book-05.html#B05-C022-P0055)
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 556–557, ¶56 (B05-C022-P0056)](../../build/reader/book-05.html#B05-C022-P0056)
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 557, ¶60 (B05-C022-P0060)](../../build/reader/book-05.html#B05-C022-P0060)
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 557, ¶61 (B05-C022-P0061)](../../build/reader/book-05.html#B05-C022-P0061)
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 557, ¶63 (B05-C022-P0063)](../../build/reader/book-05.html#B05-C022-P0063)
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 557, ¶64 (B05-C022-P0064)](../../build/reader/book-05.html#B05-C022-P0064)
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 557, ¶65 (B05-C022-P0065)](../../build/reader/book-05.html#B05-C022-P0065)
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 557, ¶66 (B05-C022-P0066)](../../build/reader/book-05.html#B05-C022-P0066)
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 557–558, ¶67 (B05-C022-P0067)](../../build/reader/book-05.html#B05-C022-P0067)
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 558, ¶68 (B05-C022-P0068)](../../build/reader/book-05.html#B05-C022-P0068)
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 558, ¶69 (B05-C022-P0069)](../../build/reader/book-05.html#B05-C022-P0069)
+- [Book 5, ch. 22, “St Mungo’s Hospital for Magical Maladies and Injuries”, ref p. 559, ¶77 (B05-C022-P0077)](../../build/reader/book-05.html#B05-C022-P0077)
+
 ## B05-164: Snape’s office stores and furniture
 
 The shadowy office has shelves of hundreds of glass jars containing slimy animal and plant parts in coloured potions, an ingredient cupboard in one corner, a desk in candlelight and a visitor’s chair opposite it. The desk has legs against which Harry strikes his knee.
+
+Places: Snape’s office and private stores.
 
 Evidence: explicit; state: January 1996 return and first Occlumency lesson.
 
@@ -1568,6 +1888,8 @@ Model: Distinguish private office cupboard from the classroom ingredient cupboar
 
 Dumbledore’s shallow stone Pensieve, engraved with runes and symbols, stands on Snape’s desk. Snape deposits three strands of memory into it, moves it to an out-of-the-way shelf and later retrieves the memories.
 
+Places: Snape’s office and private stores.
+
 Evidence: explicit; state: January 1996 return and first Occlumency lesson.
 
 Model: Temporary transfer for Occlumency, not a second independent permanent basin.
@@ -1580,6 +1902,8 @@ Model: Temporary transfer for Occlumency, not a second independent permanent bas
 ## B05-185: Snape office specimens and repaired jar
 
 Snape’s office collection includes a dead frog in purple liquid and a dead eel. Harry staggers several steps into wall shelves, breaking a specimen jar and spilling potion; Snape repairs it immediately with Reparo. The Pensieve remains in use.
+
+Places: Snape’s office and private stores.
 
 Evidence: explicit; state: February–early March 1996, Quibbler publication and Trelawney dismissal.
 
@@ -1597,6 +1921,8 @@ Model: Damage repaired; spilled potion is not explicitly recovered. Revealed chi
 
 A scream reaches Snape’s office from above. Harry follows him toward the stone steps up from the dungeons and emerges into the Entrance Hall, crowded with pupils from dinner in the Great Hall and on the marble staircase.
 
+Places: Snape’s office and private stores, Dungeon corridors, Entrance Hall.
+
 Evidence: explicit; state: February–early March 1996, Quibbler publication and Trelawney dismissal.
 
 Model: Confirms office below Entrance Hall acoustically and by travel; floor count unspecified.
@@ -1608,21 +1934,11 @@ Model: Confirms office below Entrance Hall acoustically and by travel; floor cou
 - [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 707, ¶240 (B05-C026-P0240)](../../build/reader/book-05.html#B05-C026-P0240)
 - [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 707, ¶241 (B05-C026-P0241)](../../build/reader/book-05.html#B05-C026-P0241)
 
-## B05-190: Trelawney office after dismissal
-
-Lavender reports visiting Trelawney’s office upstairs with daffodils; she distinguishes these flowers from Sprout’s honking daffodils.
-
-Evidence: reported; state: March–early April 1996, new Divination class and DA discovery.
-
-Model: Reported continued room access; do not put the honking flowers in Trelawney’s office.
-
-- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 712, ¶8 (B05-C027-P0008)](../../build/reader/book-05.html#B05-C027-P0008)
-- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 712, ¶9 (B05-C027-P0009)](../../build/reader/book-05.html#B05-C027-P0009)
-- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 712, ¶10 (B05-C027-P0010)](../../build/reader/book-05.html#B05-C027-P0010)
-
 ## B05-200: Captured pupil to Headmaster
 
 Within minutes Umbridge brings Harry to the gargoyle, uses Fizzing Whizzbee and ascends the moving stone stairs through the splitting wall to the polished door with griffin knocker.
+
+Places: Headmaster’s office, Seventh-floor corridor.
 
 Evidence: explicit; state: March–early April 1996, new Divination class and DA discovery.
 
@@ -1636,6 +1952,8 @@ Model: Umbridge claims he headed to Gryffindor; actual narration says he sought 
 ## B05-201: Headmaster office hearing layout
 
 Dumbledore is behind his desk with McGonagall beside him; Fudge stands by the fire, two Aurors flank the door, and Percy waits at a wall. Portraits watch and move into adjacent frames; Fortescue’s portrait is on the wall behind the desk.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: March–early April 1996, new Divination class and DA discovery.
 
@@ -1655,6 +1973,8 @@ Model: Confirms office fireplace, carpet and portrait position. Fudge twice near
 
 Umbridge reports Marietta seeing her own hexed face in the office mirror. She says Madam Edgecombe of the Floo Network office has helped police Hogwarts fires.
 
+Places: Defence teacher’s office, Protections and security.
+
 Evidence: reported; state: March–early April 1996, new Divination class and DA discovery.
 
 Model: Reported mirror fixture and surveillance mechanism; not all fires are necessarily physically sealed.
@@ -1665,6 +1985,8 @@ Model: Reported mirror fixture and surveillance mechanism; not all fires are nec
 ## B05-204: Headmaster office fight damage
 
 Silver flashes and gunshot-like bangs shake the floor and fill the office with dust. The desk overturns, all spindly tables fall and silver instruments break; glass shatters. Four officials lie on the floor while Fawkes circles above.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: March–early April 1996, new Divination class and DA discovery.
 
@@ -1680,9 +2002,31 @@ Model: Record damaged state; no repair occurs within this chapter.
 - [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 740, ¶247 (B05-C027-P0247)](../../build/reader/book-05.html#B05-C027-P0247)
 - [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 742, ¶264 (B05-C027-P0264)](../../build/reader/book-05.html#B05-C027-P0264)
 
+## B05-205: Phoenix-assisted departure and Apparition rule
+
+Dumbledore grasps Fawkes’s long tail; both vanish in a flash of fire. Umbridge says he cannot have Disapparated from inside school; officials instead search down the office stairs.
+
+Places: Headmaster’s office, Protections and security.
+
+Evidence: explicit; state: March–early April 1996, new Divination class and DA discovery.
+
+Model: Observed phoenix departure is separate from prohibited ordinary Disapparition. Destination not shown.
+
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 741, ¶253 (B05-C027-P0253)](../../build/reader/book-05.html#B05-C027-P0253)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 741, ¶254 (B05-C027-P0254)](../../build/reader/book-05.html#B05-C027-P0254)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 741, ¶256 (B05-C027-P0256)](../../build/reader/book-05.html#B05-C027-P0256)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 741, ¶257 (B05-C027-P0257)](../../build/reader/book-05.html#B05-C027-P0257)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 741, ¶258 (B05-C027-P0258)](../../build/reader/book-05.html#B05-C027-P0258)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 741, ¶259 (B05-C027-P0259)](../../build/reader/book-05.html#B05-C027-P0259)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 741, ¶260 (B05-C027-P0260)](../../build/reader/book-05.html#B05-C027-P0260)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 741, ¶261 (B05-C027-P0261)](../../build/reader/book-05.html#B05-C027-P0261)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 742, ¶266 (B05-C027-P0266)](../../build/reader/book-05.html#B05-C027-P0266)
+
 ## B05-207: Headmaster office sealed against Umbridge
 
 Ernie relays the Fat Friar’s report that Umbridge could not pass the gargoyle after searching the castle and grounds: the office sealed itself against her.
+
+Places: Headmaster’s office.
 
 Evidence: reported; state: Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified.
 
@@ -1693,6 +2037,8 @@ Model: Secondhand report, not Harry’s direct test; no new locking mechanism in
 ## B05-210: Entrance Hall to Umbridge office
 
 Filch takes Harry from the Entrance Hall up the marble staircase past its first landing to Umbridge’s office.
+
+Places: Entrance Hall, Marble staircase, Defence teacher’s office.
 
 Evidence: explicit; state: Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified.
 
@@ -1707,6 +2053,8 @@ Model: Third-floor location established elsewhere; this journey omits intervenin
 
 A large wooden HEADMISTRESS block with gold letters lies across the desk front. Harry’s Firebolt and the twins’ Cleansweeps are chained and padlocked to a stout iron wall peg behind the desk; kitten plates animate overhead.
 
+Places: Defence teacher’s office.
+
 Evidence: explicit; state: Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified.
 
 Model: Confiscated storage is now directly observed.
@@ -1720,6 +2068,8 @@ Model: Confiscated storage is now directly observed.
 
 Umbridge conjures drinks onto her desk and gives Harry tea in a cup and saucer. During the distraction he empties it into a nearby vase of dried flowers.
 
+Places: Defence teacher’s office.
+
 Evidence: explicit; state: Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified.
 
 Model: Tea contamination not established here; cup does not prove a permanent refreshment station.
@@ -1732,9 +2082,24 @@ Model: Tea contamination not established here; cup does not prove a permanent re
 - [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 751, ¶87 (B05-C028-P0087)](../../build/reader/book-05.html#B05-C028-P0087)
 - [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 751, ¶89 (B05-C028-P0089)](../../build/reader/book-05.html#B05-C028-P0089)
 
+## B05-213: School communication surveillance claim
+
+Umbridge says every Hogwarts fire except her own is watched by a Floo Network Regulator, the Squad reads all owl post and Filch monitors all secret routes into and out of the castle.
+
+Places: Protections and security, Secret passages out of the castle, Defence teacher’s office.
+
+Evidence: reported; state: Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified.
+
+Model: Reported surveillance scope and explicit office-fire exception; does not mean every passage is physically closed.
+
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 750, ¶82 (B05-C028-P0082)](../../build/reader/book-05.html#B05-C028-P0082)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 750–751, ¶85 (B05-C028-P0085)](../../build/reader/book-05.html#B05-C028-P0085)
+
 ## B05-218: Pensieve light in Snape’s office
 
 After the interrupted lesson the Pensieve stands on Snape’s desk, casting rippling silvery light onto the wall and doorframe. Harry views the Hall memory through its transparent contents, then enters it.
+
+Places: Snape’s office and private stores.
 
 Evidence: explicit; state: Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified.
 
@@ -1757,6 +2122,8 @@ Model: Memory-space access is magical, not a physical opening in the desk or sch
 
 Harry returns from the Pensieve to the study’s stone floor. Snape throws him down; a jar of dead cockroaches explodes over his head as he exits. Harry flees along the corridor and climbs until three floors separate them.
 
+Places: Snape’s office and private stores, Dungeon corridors.
+
 Evidence: explicit; state: Early April 1996; Pensieve scenes in Snape’s fifth-year O.W.L. summer where specified.
 
 Model: Local breakage and flight; stopping floor is not named and no repair is shown.
@@ -1772,6 +2139,8 @@ Model: Local breakage and flight; stopping floor is not named and no repair is s
 ## B05-229: McGonagall office above new Divination
 
 Harry leaves Divination and hurries back upstairs for careers advice in McGonagall’s office. Her desk is covered in pamphlets; Umbridge sits in a corner behind Harry, and their argument remains audible along the corridor as he leaves.
+
+Places: McGonagall’s office, Classroom eleven.
 
 Evidence: explicit; state: Easter and start of summer term, April 1996.
 
@@ -1793,6 +2162,8 @@ Model: Ground-floor Divination now in classroom eleven; no numerical office floo
 
 After Defence Harry hears uproar above; Umbridge runs in the opposite direction toward the east wing. In the deserted corridor to her office he hides behind a large suit of armour whose helmet turns to watch him.
 
+Places: Defence teacher’s office, Suits of armour and statues, Defence Against the Dark Arts classroom.
+
 Evidence: explicit; state: Easter and start of summer term, April 1996.
 
 Model: Animated armour and usable hiding space; not an exact distance or floor count.
@@ -1806,6 +2177,8 @@ Model: Animated armour and usable hiding space; not an exact distance or floor c
 ## B05-231: Umbridge office lock and Floo hearth
 
 Sirius’s magical knife opens the office door with a click. A small Floo-powder box sits by the empty grate, with stacked logs; powder ignites emerald flames. Harry kneels on a hard stone floor and sends only his head to Grimmauld Place, withdrawing it as the flames die.
+
+Places: Defence teacher’s office.
 
 Evidence: explicit; state: Easter and start of summer term, April 1996.
 
@@ -1828,6 +2201,8 @@ Model: Successful lock bypass observed; immunity to Alohomora was only Harry’s
 
 Filch enters the unlocked office and searches a desk drawer for a form. Harry follows him, removes his Cloak one landing below the office and descends the marble staircase to the Entrance Hall.
 
+Places: Defence teacher’s office, Marble staircase, Entrance Hall.
+
 Evidence: explicit; state: Easter and start of summer term, April 1996.
 
 Model: No assumption the first landing down is the only intermediate floor.
@@ -1839,9 +2214,29 @@ Model: No assumption the first landing down is the only intermediate floor.
 - [Book 5, ch. 29, “Careers Advice”, ref p. 802, ¶246 (B05-C029-P0246)](../../build/reader/book-05.html#B05-C029-P0246)
 - [Book 5, ch. 29, “Careers Advice”, ref p. 802, ¶247 (B05-C029-P0247)](../../build/reader/book-05.html#B05-C029-P0247)
 
+## B05-234: Broom retrieval and Entrance Hall escape
+
+Summoned brooms rip free with a distant crash and fly along a corridor to Harry’s left, turn left down the stairs and stop by the twins; one trails its heavy chain and iron peg over the flagged floor. They rise fifteen feet in the Hall and fly through open front doors into sunset.
+
+Places: Entrance Hall, Front steps and front doors, Defence teacher’s office.
+
+Evidence: explicit; state: Easter and start of summer term, April 1996.
+
+Model: Demonstrates vertical clearance and chained peg removal; Harry’s own broom is not retrieved in this scene.
+
+- [Book 5, ch. 29, “Careers Advice”, ref p. 803, ¶261 (B05-C029-P0261)](../../build/reader/book-05.html#B05-C029-P0261)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 803–804, ¶262 (B05-C029-P0262)](../../build/reader/book-05.html#B05-C029-P0262)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 804, ¶263 (B05-C029-P0263)](../../build/reader/book-05.html#B05-C029-P0263)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 804, ¶264 (B05-C029-P0264)](../../build/reader/book-05.html#B05-C029-P0264)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 804, ¶268 (B05-C029-P0268)](../../build/reader/book-05.html#B05-C029-P0268)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 804, ¶269 (B05-C029-P0269)](../../build/reader/book-05.html#B05-C029-P0269)
+- [Book 5, ch. 29, “Careers Advice”, ref p. 804–805, ¶270 (B05-C029-P0270)](../../build/reader/book-05.html#B05-C029-P0270)
+
 ## B05-236: Umbridge door replaced and broom moved
 
 Two broom-shaped holes remain in Umbridge’s office door until Filch replaces it. He moves Harry’s Firebolt to the dungeons; an armed security troll guarding it is rumoured.
+
+Places: Defence teacher’s office, Other dungeon rooms.
 
 Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
 
@@ -1852,6 +2247,8 @@ Model: Door replacement and broom relocation narrated; troll specifically unconf
 ## B05-237: Office Niffler and corridor air
 
 A Niffler tears Umbridge’s office apart seeking shiny objects and tries biting her rings. Frequent Dungbombs and Stink Pellets prompt pupils to wear Bubble-Head Charms for fresh air in corridors.
+
+Places: Defence teacher’s office, Castle interiors in general.
 
 Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
 
@@ -1865,6 +2262,8 @@ Model: Damage extent unspecified; do not model permanent poisonous corridors.
 
 Lee admits he put the Nifflers in Umbridge’s office by levitating them through her window.
 
+Places: Defence teacher’s office.
+
 Evidence: reported; state: Late May–June 1996 O.W.L. examinations and night raid.
 
 Model: Reported exterior-window access, explaining entry despite the new door.
@@ -1873,9 +2272,36 @@ Model: Reported exterior-window access, explaining entry despite the new door.
 - [Book 5, ch. 31, “O.W.L.s”, ref p. 865, ¶178 (B05-C031-P0178)](../../build/reader/book-05.html#B05-C031-P0178)
 - [Book 5, ch. 31, “O.W.L.s”, ref p. 865, ¶179 (B05-C031-P0179)](../../build/reader/book-05.html#B05-C031-P0179)
 
+## B05-271: Diversion routes and swivelling staircase
+
+Ron proposes sending Umbridge to the Transfiguration department, which he describes as far from her office. Lookouts redirect traffic around the office corridor by the swivelling staircase.
+
+Places: Moving staircases, Defence teacher’s office, Transfiguration classroom.
+
+Evidence: explicit; state: June 1996, immediately after final History of Magic exam.
+
+Model: Transfiguration distance is Ron’s qualitative report. Gas is a fabricated cover story, not an actual hazard.
+
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 878–879, ¶89 (B05-C032-P0089)](../../build/reader/book-05.html#B05-C032-P0089)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 879, ¶95 (B05-C032-P0095)](../../build/reader/book-05.html#B05-C032-P0095)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 879, ¶96 (B05-C032-P0096)](../../build/reader/book-05.html#B05-C032-P0096)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 879–880, ¶98 (B05-C032-P0098)](../../build/reader/book-05.html#B05-C032-P0098)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 880, ¶99 (B05-C032-P0099)](../../build/reader/book-05.html#B05-C032-P0099)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 880, ¶102 (B05-C032-P0102)](../../build/reader/book-05.html#B05-C032-P0102)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 880, ¶105 (B05-C032-P0105)](../../build/reader/book-05.html#B05-C032-P0105)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 881, ¶109 (B05-C032-P0109)](../../build/reader/book-05.html#B05-C032-P0109)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 881, ¶114 (B05-C032-P0114)](../../build/reader/book-05.html#B05-C032-P0114)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 881–882, ¶115 (B05-C032-P0115)](../../build/reader/book-05.html#B05-C032-P0115)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 882, ¶119 (B05-C032-P0119)](../../build/reader/book-05.html#B05-C032-P0119)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 882, ¶120 (B05-C032-P0120)](../../build/reader/book-05.html#B05-C032-P0120)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 882, ¶121 (B05-C032-P0121)](../../build/reader/book-05.html#B05-C032-P0121)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 882–883, ¶122 (B05-C032-P0122)](../../build/reader/book-05.html#B05-C032-P0122)
+
 ## B05-272: Gryffindor retrieval to Umbridge corridor
 
 From the empty classroom Harry goes up, meets Dean and Seamus two floors higher, then retrieves the Cloak and knife through Gryffindor’s portrait hole; a few minutes later he descends the last stairs to the office corridor.
+
+Places: Gryffindor Tower, Unnamed and unused classrooms, Moving staircases, Defence teacher’s office.
 
 Evidence: explicit; state: June 1996, immediately after final History of Magic exam.
 
@@ -1888,6 +2314,8 @@ Model: Do not equate the meeting floor with the portrait-hole floor unless indep
 ## B05-273: Office-corridor wizard bust
 
 A recess contains an ugly stone head of a medieval wizard on a column, muttering in Latin; Harry and Hermione conceal themselves behind it to don the Cloak.
+
+Places: Suits of armour and statues, Defence teacher’s office.
 
 Evidence: explicit; state: June 1996, immediately after final History of Magic exam.
 
@@ -1902,6 +2330,8 @@ Model: Stone talking bust and hiding recess, distinct from Paracelsus unless fut
 
 The magical knife again opens the lock. Late-afternoon sunshine warms the animated kitten plates. Hermione watches the grounds from the window, staying out of sight, while Harry uses Floo powder at the hearth.
 
+Places: Defence teacher’s office.
+
 Evidence: explicit; state: June 1996, immediately after final History of Magic exam.
 
 Model: Observed window-to-grounds view; no compass bearing.
@@ -1914,9 +2344,28 @@ Model: Observed window-to-grounds view; no compass bearing.
 - [Book 5, ch. 32, “Out of the Fire”, ref p. 885, ¶151 (B05-C032-P0151)](../../build/reader/book-05.html#B05-C032-P0151)
 - [Book 5, ch. 32, “Out of the Fire”, ref p. 886, ¶158 (B05-C032-P0158)](../../build/reader/book-05.html#B05-C032-P0158)
 
+## B05-275: Stealth detection and guarded Firebolt
+
+Umbridge catches Harry at the fireplace and says Stealth Sensoring Spells surround her doorway, installed after the last Niffler. She says the Firebolt is strictly guarded in the dungeons.
+
+Places: Defence teacher’s office, Other dungeon rooms.
+
+Evidence: reported; state: June 1996, immediately after final History of Magic exam.
+
+Model: Detection implementation and broom guarding reported by Umbridge; confirms neither a specific troll nor impermeability of the door.
+
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 885, ¶151 (B05-C032-P0151)](../../build/reader/book-05.html#B05-C032-P0151)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 885–886, ¶152 (B05-C032-P0152)](../../build/reader/book-05.html#B05-C032-P0152)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 886, ¶153 (B05-C032-P0153)](../../build/reader/book-05.html#B05-C032-P0153)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 886, ¶154 (B05-C032-P0154)](../../build/reader/book-05.html#B05-C032-P0154)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 886, ¶155 (B05-C032-P0155)](../../build/reader/book-05.html#B05-C032-P0155)
+- [Book 5, ch. 32, “Out of the Fire”, ref p. 886, ¶156 (B05-C032-P0156)](../../build/reader/book-05.html#B05-C032-P0156)
+
 ## B05-276: Umbridge office captivity furnishings
 
 The office contains a chintz-covered armchair and a carpet; Ron’s bleeding lip stains it. Malfoy sits or leans on the windowsill while captors pin Hermione against a wall.
+
+Places: Defence teacher’s office.
 
 Evidence: explicit; state: June 1996, immediately after final History of Magic exam.
 
@@ -1939,6 +2388,8 @@ Model: Temporary crowded custody arrangement; dimensions not inferred from headc
 
 Hermione leads from Umbridge’s corridor down stairs to the Entrance Hall, within about twenty feet of dinner through the Hall doors, then through oak front doors and down stone steps across the grass toward the Forest. The setting sun approaches the treetops ahead while shadows stretch behind them.
 
+Places: Defence teacher’s office, Entrance Hall, Front steps and front doors, Forbidden Forest.
+
 Evidence: explicit; state: June 1996 evening following final exam.
 
 Model: Observed sun/view relation; no exact date-based azimuth inferred.
@@ -1954,6 +2405,8 @@ Model: Observed sun/view relation; no exact date-based azimuth inferred.
 
 Ron says the rescued pupils saw Harry and Hermione head into the Forest from Umbridge’s office window and followed after escaping their captors.
 
+Places: Defence teacher’s office, Forbidden Forest.
+
 Evidence: reported; state: June 1996 evening following final exam.
 
 Model: Reported route and office-to-Forest sightline; exact tracking path unstated.
@@ -1968,6 +2421,8 @@ Model: Reported route and office-to-Forest sightline; exact tracking path unstat
 ## B05-297: Ministry-to-Headmaster office Portkey
 
 Dumbledore enchants the fallen golden statue head with Portus and sends Harry from the Ministry Atrium directly into his Hogwarts office, where the head lands on the floor.
+
+Places: Headmaster’s office, Protections and security.
 
 Evidence: explicit; state: June 1996 end of Ministry battle.
 
@@ -1985,6 +2440,8 @@ Model: Observed inbound Portkey access despite ordinary Apparition restriction; 
 ## B05-288: Headmaster office repaired state
 
 On returning Harry finds the office apparently repaired: silver instruments again puff and whir on spindle-legged tables, and portraits rest in frames. Dawn shows a pale-green horizon through the window; carpet and polished desk brighten as the sun rises over mountains. Distant voices are audible beyond the office walls; Harry guesses that students are heading down to the Hall for breakfast.
+
+Places: Headmaster’s office, Surrounding mountains and landscape.
 
 Evidence: explicit; state: June 1996 dawn after Ministry battle; historical interview where specified.
 
@@ -2006,6 +2463,8 @@ Model: Restoration is inferred from observed intact contents; no repair spell or
 ## B05-289: Headmaster office sealed door
 
 Phineas says the office should be barred to all but the rightful Headmaster. Harry twice finds its doorknob immovable and cannot exit; Dumbledore explicitly refuses release until he has spoken.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: June 1996 dawn after Ministry battle; historical interview where specified.
 
@@ -2029,6 +2488,8 @@ Model: Reported access rule and observed temporary confinement; Portkey admissio
 
 Dumbledore arrives bodily through emerald flames in the office fireplace, then places newborn Fawkes on soft ashes in a tray beneath the golden perch beside the door.
 
+Places: Headmaster’s office.
+
 Evidence: explicit; state: June 1996 dawn after Ministry battle; historical interview where specified.
 
 Model: Floo access now observed in this office; perch includes ash tray for phoenix rebirth.
@@ -2044,6 +2505,8 @@ Model: Floo access now observed in this office; perch includes ash tray for phoe
 
 Harry looks from the office window toward the distant Quidditch stadium and recalls Sirius watching there in black-dog form.
 
+Places: Headmaster’s office, Quidditch stands.
+
 Evidence: explicit; state: June 1996 dawn after Ministry battle; historical interview where specified.
 
 Model: Direct stadium sightline; recalled spectator presence does not supply a new entrance route.
@@ -2054,6 +2517,8 @@ Model: Direct stadium sightline; recalled spectator presence does not supply a n
 ## B05-292: Harry’s office damage
 
 Harry smashes a delicate silver instrument against the wall, throws a lunascope into the fireplace and breaks its spindle-legged table on the floor, scattering legs, wooden fragments and silver cogs before sitting opposite the desk.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: June 1996 dawn after Ministry battle; historical interview where specified.
 
@@ -2073,42 +2538,35 @@ Model: A second damage event after the initial repaired state; no subsequent rep
 
 A silver ink pot and handsome scarlet quill stand on Dumbledore’s polished desk.
 
+Places: Headmaster’s office.
+
 Evidence: explicit; state: June 1996 dawn after Ministry battle; historical interview where specified.
 
 Model: Specific desk fittings illuminated by morning sunlight.
 
 - [Book 5, ch. 37, “The Lost Prophecy”, ref p. 990–991, ¶86 (B05-C037-P0086)](../../build/reader/book-05.html#B05-C037-P0086)
 
-## B05-295: Snape’s Forest search account
+## B05-294: Sword case and Pensieve cabinet
 
-Dumbledore says Snape alerted the Order when pupils failed to return from the Forest and intended to search the Forest himself.
+The glass case containing Gryffindor’s sword gleams in full sunlight. A black cabinet beside Fawkes’s perch has a sliding catch and contains the rune-carved shallow stone Pensieve, which Dumbledore moves to the desk.
 
-Evidence: reported; state: June 1996 dawn after Ministry battle; historical interview where specified.
+Places: Headmaster’s office.
 
-Model: Reported intended search, without a verified search path or discovery.
+Evidence: explicit; state: June 1996 dawn after Ministry battle; historical interview where specified.
 
-- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 992–993, ¶98 (B05-C037-P0098)](../../build/reader/book-05.html#B05-C037-P0098)
-- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 993, ¶99 (B05-C037-P0099)](../../build/reader/book-05.html#B05-C037-P0099)
-- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 993, ¶100 (B05-C037-P0100)](../../build/reader/book-05.html#B05-C037-P0100)
-- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 993, ¶101 (B05-C037-P0101)](../../build/reader/book-05.html#B05-C037-P0101)
-- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 996, ¶119 (B05-C037-P0119)](../../build/reader/book-05.html#B05-C037-P0119)
+Model: Pensieve is back in its office storage; no duplicate assumed. It can project a speaking memory figure above the basin.
 
-## B05-300: Umbridge Forest rescue
-
-Dumbledore goes alone into the Forest and returns supporting Umbridge without visible injury; the rescue method is unknown.
-
-Evidence: explicit; state: June 1996 final school days and homeward journey.
-
-Model: Narrated outcome, no invented centaur settlement or rescue route.
-
-- [Book 5, ch. 38, “The Second War Begins”, ref p. 1016–1017, ¶27 (B05-C038-P0027)](../../build/reader/book-05.html#B05-C038-P0027)
-- [Book 5, ch. 38, “The Second War Begins”, ref p. 1017, ¶28 (B05-C038-P0028)](../../build/reader/book-05.html#B05-C038-P0028)
-- [Book 5, ch. 38, “The Second War Begins”, ref p. 1017, ¶35 (B05-C038-P0035)](../../build/reader/book-05.html#B05-C038-P0035)
-- [Book 5, ch. 38, “The Second War Begins”, ref p. 1017, ¶36 (B05-C038-P0036)](../../build/reader/book-05.html#B05-C038-P0036)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1006, ¶176 (B05-C037-P0176)](../../build/reader/book-05.html#B05-C037-P0176)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1007, ¶181 (B05-C037-P0181)](../../build/reader/book-05.html#B05-C037-P0181)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1007, ¶182 (B05-C037-P0182)](../../build/reader/book-05.html#B05-C037-P0182)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1008, ¶184 (B05-C037-P0184)](../../build/reader/book-05.html#B05-C037-P0184)
+- [Book 5, ch. 37, “The Lost Prophecy”, ref p. 1008, ¶185 (B05-C037-P0185)](../../build/reader/book-05.html#B05-C037-P0185)
 
 ## B05-302: Entrance Hall Slytherin and office routes
 
 Descending the last marble step into the Entrance Hall, Harry sees Malfoy’s group emerge from a door on his right known to lead down to Slytherin common room. Snape emerges from stairs down to his office; McGonagall arrives up the exterior stone steps and sends luggage upstairs toward her office via the marble staircase.
+
+Places: Entrance Hall, Slytherin common room, Snape’s office and private stores, McGonagall’s office.
 
 Evidence: explicit; state: June 1996 final school days and homeward journey.
 
@@ -2123,19 +2581,11 @@ Model: Right is from a descending-marble-stair viewpoint, not from entering the 
 - [Book 5, ch. 38, “The Second War Begins”, ref p. 1021, ¶73 (B05-C038-P0073)](../../build/reader/book-05.html#B05-C038-P0073)
 - [Book 5, ch. 38, “The Second War Begins”, ref p. 1022, ¶78 (B05-C038-P0078)](../../build/reader/book-05.html#B05-C038-P0078)
 
-## B05-307: Umbridge departure path
-
-During dinner Umbridge leaves the hospital wing and is chased from school by Peeves with a walking stick and chalk-filled sock. Students watch from the Entrance Hall as she runs down the path.
-
-Evidence: explicit; state: June 1996 final school days and homeward journey.
-
-Model: Departure and implement use narrated; no new attack damage to architecture.
-
-- [Book 5, ch. 38, “The Second War Begins”, ref p. 1027, ¶110 (B05-C038-P0110)](../../build/reader/book-05.html#B05-C038-P0110)
-
 ## B06-006: Headmaster’s office
 
 Harry recalls that conversations with Dumbledore at Hogwarts usually take place across a desk.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: Harry’s recollection in summer 1996.
 
@@ -2143,20 +2593,11 @@ Model: Furniture and conversational arrangement; do not infer office dimensions 
 
 - [Book 6, ch. 4, “Horace Slughorn”, ref p. 60–61, ¶1 (B06-C004-P0001)](../../build/reader/book-06.html#B06-C004-P0001)
 
-## B06-028: Defence classroom under Snape
-
-Drawn window curtains make the classroom gloomier than usual; candles light it. New wall pictures depict painful injuries and contorted bodies, including a shrieking witch, a blank-eyed wizard against a wall and a bloody mass on the ground.
-
-Evidence: explicit; state: First school day, September 1996.
-
-Model: Dated 1996–97 decoration and lighting state; pictured walls/bodies belong inside images, not the classroom geometry.
-
-- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 182–183, ¶47 (B06-C009-P0047)](../../build/reader/book-06.html#B06-C009-P0047)
-- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 184, ¶56 (B06-C009-P0056)](../../build/reader/book-06.html#B06-C009-P0056)
-
 ## B06-030: Headmaster’s gargoyle password
 
 Harry identifies Acid Pops as the password for passing the gargoyle outside Dumbledore’s study.
+
+Places: Headmaster’s office.
 
 Evidence: reported; state: First school day, September 1996.
 
@@ -2168,23 +2609,11 @@ Model: Password current for this invitation; confirmation by actual entry is def
 - [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 188, ¶94 (B06-C009-P0094)](../../build/reader/book-06.html#B06-C009-P0094)
 - [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 188, ¶95 (B06-C009-P0095)](../../build/reader/book-06.html#B06-C009-P0095)
 
-## B06-034: Corridors between Gryffindor and headmaster entrance
-
-An unnamed statue along Harry’s route is large enough to hide him crouching behind it while Trelawney passes and pauses on its other side.
-
-Evidence: explicit; state: First private lesson, September 1996.
-
-Model: Local concealment and circulation constraint only; statue subject, material and exact corridor unspecified.
-
-- [Book 6, ch. 10, “The House of Gaunt”, ref p. 202, ¶9 (B06-C010-P0009)](../../build/reader/book-06.html#B06-C010-P0009)
-- [Book 6, ch. 10, “The House of Gaunt”, ref p. 202, ¶10 (B06-C010-P0010)](../../build/reader/book-06.html#B06-C010-P0010)
-- [Book 6, ch. 10, “The House of Gaunt”, ref p. 202, ¶11 (B06-C010-P0011)](../../build/reader/book-06.html#B06-C010-P0011)
-- [Book 6, ch. 10, “The House of Gaunt”, ref p. 202, ¶12 (B06-C010-P0012)](../../build/reader/book-06.html#B06-C010-P0012)
-- [Book 6, ch. 10, “The House of Gaunt”, ref p. 202, ¶13 (B06-C010-P0013)](../../build/reader/book-06.html#B06-C010-P0013)
-
 ## B06-035: Headmaster entrance on seventh floor
 
 A single gargoyle stands against the wall in a seventh-floor corridor. Saying Acid Pops makes it leap aside and the wall slide apart, revealing a moving spiral stone staircase that carries Harry upwards in smooth circles to the office door, which has a brass knocker.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: First private lesson, September 1996.
 
@@ -2199,6 +2628,8 @@ Model: Office access begins on seventh floor and rises. Do not place the office 
 
 The office is circular. Delicate silver instruments smoke and whirr on spindle-legged tables; portraits of former headmasters and headmistresses hang in frames; Fawkes has a perch behind the door.
 
+Places: Headmaster’s office.
+
 Evidence: explicit; state: First private lesson, September 1996.
 
 Model: Shape, furnishings, light motion/sound and perch-to-door relationship; exact count and portrait wall arrangement unspecified.
@@ -2209,15 +2640,35 @@ Model: Shape, furnishings, light motion/sound and perch-to-door relationship; ex
 
 A cabinet beside the door holds a shallow stone Pensieve with unusual markings around its rim. Dumbledore walks around his desk past Harry to retrieve it, then puts it on the desk in front of Harry.
 
+Places: Headmaster’s office.
+
 Evidence: explicit; state: First private lesson, September 1996.
 
 Model: Cabinet-door adjacency, desk and visitor seating relationship. Pensieve is movable; do not turn its lesson position into a permanent built-in basin.
 
 - [Book 6, ch. 10, “The House of Gaunt”, ref p. 204–205, ¶34 (B06-C010-P0034)](../../build/reader/book-06.html#B06-C010-P0034)
 
+## B06-038: Pensieve memory access
+
+After a bottled silvery substance is poured into the Pensieve, Harry plunges his face into it and experiences falling into a memory scene. Dumbledore later takes his elbow and draws him out, returning them to their feet in the office.
+
+Places: Headmaster’s office.
+
+Evidence: explicit; state: First private lesson, September 1996.
+
+Model: Memory is a separate experiential space, not an actual geographical passage from the office to Little Hangleton.
+
+- [Book 6, ch. 10, “The House of Gaunt”, ref p. 205, ¶39 (B06-C010-P0039)](../../build/reader/book-06.html#B06-C010-P0039)
+- [Book 6, ch. 10, “The House of Gaunt”, ref p. 206, ¶48 (B06-C010-P0048)](../../build/reader/book-06.html#B06-C010-P0048)
+- [Book 6, ch. 10, “The House of Gaunt”, ref p. 206, ¶49 (B06-C010-P0049)](../../build/reader/book-06.html#B06-C010-P0049)
+- [Book 6, ch. 10, “The House of Gaunt”, ref p. 206, ¶50 (B06-C010-P0050)](../../build/reader/book-06.html#B06-C010-P0050)
+- [Book 6, ch. 10, “The House of Gaunt”, ref p. 219, ¶161 (B06-C010-P0161)](../../build/reader/book-06.html#B06-C010-P0161)
+
 ## B06-039: Headmaster office lamps and temporary display
 
 Extra lamps are lit by wand when the visitors return to the twilit office. A gold ring with a large cracked black stone stands on one of the small spindle-legged tables near Harry’s exit route.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: First private lesson, September 1996.
 
@@ -2230,6 +2681,8 @@ Model: Lamps are room fittings; ring is a dated display state rather than archit
 ## B06-058: Entrance Hall–McGonagall office
 
 McGonagall meets the group on the castle’s stone steps, takes them through the Entrance Hall and upstairs to her office. Afterward the students climb further stairs to the Gryffindor common room.
+
+Places: Entrance Hall, McGonagall’s office, Front steps and front doors, Gryffindor common room.
 
 Evidence: explicit; state: Mid-October 1996 Hogsmeade day.
 
@@ -2246,6 +2699,8 @@ Model: Office lies above Entrance Hall and below at least some of the route to G
 
 Sleet hits the windows, which rattle in their frames. The office remains chilly despite a fire in a grate. McGonagall closes the door and moves around her desk to face the visitors.
 
+Places: McGonagall’s office.
+
 Evidence: explicit; state: Mid-October 1996 Hogsmeade day.
 
 Model: Windows, fireplace, desk and door, plus storm-specific temperature/sound. Desk position gives no complete room plan.
@@ -2255,6 +2710,8 @@ Model: Windows, fireplace, desk and door, plus storm-specific temperature/sound.
 ## B06-060: McGonagall office–hospital wing
 
 McGonagall sends Leanne up to the hospital wing and later says she will go up there herself.
+
+Places: McGonagall’s office, Hospital wing.
 
 Evidence: reported; state: Mid-October 1996 Hogsmeade day.
 
@@ -2266,6 +2723,8 @@ Model: Upward route described from this office; do not infer an absolute hospita
 ## B06-062: Headmaster office Pensieve lighting and display
 
 The Pensieve stands on the desk and throws silver flecks of light over the ceiling. Dumbledore can raise a small revolving three-dimensional-looking memory figure above its swirling contents, then shake it back down.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: Second private lesson, October 1996.
 
@@ -2279,6 +2738,8 @@ Model: Magical visual state, distinct from fully entering a memory; figure is me
 
 Phineas Nigellus Black occupies one of the portraits on the office wall, can speak and rise from an apparent sleeping pose, and walks out of his frame.
 
+Places: Headmaster’s office.
+
 Evidence: explicit; state: Second private lesson, October 1996.
 
 Model: Narration supposes he is visiting his other portrait at Grimmauld Place; that destination is not visually followed here. Record frame exit as observed and destination as inferred by narration.
@@ -2289,6 +2750,8 @@ Model: Narration supposes he is visiting his other portrait at Grimmauld Place; 
 ## B06-064: Headmaster office windows and cleared table
 
 The office has windows through which Dumbledore indicates the dark sky. Marvolo’s ring, displayed on a little table at the previous lesson, is no longer there.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: Second private lesson, October 1996.
 
@@ -2301,6 +2764,8 @@ Model: Dated removal of a loose display object; the table remains. Window size, 
 ## B06-084: Entrance Hall–Slughorn office
 
 Harry meets Luna in the Entrance Hall, then leads her up the marble staircase to Slughorn’s office. Party music, laughter and conversation become louder as they approach.
+
+Places: Entrance Hall, Marble staircase, Slughorn’s office.
 
 Evidence: explicit; state: Before Christmas holidays, December 1996.
 
@@ -2315,6 +2780,8 @@ Model: Upward route from Entrance Hall; no total floors traversed or claim that 
 
 Slughorn’s office is much larger than an ordinary teacher’s study, though Harry cannot tell whether this is built space or magical enlargement. Emerald, crimson and gold hangings drape the walls and ceiling, making a tent-like interior.
 
+Places: Slughorn’s office.
+
 Evidence: explicit; state: Slughorn Christmas party, December 1996.
 
 Model: Preserve uncertainty about the room’s underlying size and magical expansion; fabric conceals the architectural surfaces.
@@ -2324,6 +2791,8 @@ Model: Preserve uncertainty about the room’s underlying size and magical expan
 ## B06-086: Slughorn office party lighting and service
 
 An ornate golden lamp hangs from the ceiling centre, filled with fluttering luminous fairies and bathing the crowded stuffy room in red light. Singing with mandolin-like accompaniment comes from a distant corner; pipe smoke hazes part of the room. House-elves carry heavy silver food platters through the crowd; mistletoe is present.
+
+Places: Slughorn’s office.
 
 Evidence: explicit; state: Slughorn Christmas party, December 1996.
 
@@ -2335,23 +2804,11 @@ Model: Event-specific lighting, atmosphere, food service and decorations; no per
 - [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 330, ¶129 (B06-C015-P0129)](../../build/reader/book-06.html#B06-C015-P0129)
 - [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 330, ¶130 (B06-C015-P0130)](../../build/reader/book-06.html#B06-C015-P0130)
 
-## B06-087: Last classroom in Slughorn office corridor
-
-Harry leaves the party into a deserted corridor, listens at successive doors, and hears Snape and Draco through the keyhole of the last classroom. Party noise masks Harry’s footsteps. Draco exits that classroom, passes Slughorn’s open office door and rounds a distant corner; Snape returns to the party.
-
-Evidence: explicit; state: Slughorn Christmas party, December 1996.
-
-Model: Classroom on the same corridor, with a sound-transmitting keyhole and a further corner. No room fittings described; do not invent a direct classroom-office door.
-
-- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 335–336, ¶178 (B06-C015-P0178)](../../build/reader/book-06.html#B06-C015-P0178)
-- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 337, ¶185 (B06-C015-P0185)](../../build/reader/book-06.html#B06-C015-P0185)
-- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 337, ¶190 (B06-C015-P0190)](../../build/reader/book-06.html#B06-C015-P0190)
-- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 338–339, ¶205 (B06-C015-P0205)](../../build/reader/book-06.html#B06-C015-P0205)
-- [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 339, ¶206 (B06-C015-P0206)](../../build/reader/book-06.html#B06-C015-P0206)
-
 ## B06-088: Snape office dungeon location
 
 While trying to find Snape, Harry considers his office in the dungeons as a possible destination.
+
+Places: Snape’s office and private stores.
 
 Evidence: explicit; state: Before Christmas holidays, December 1996.
 
@@ -2362,6 +2819,8 @@ Model: Narration supplies the office’s dungeon location as background; the pro
 ## B06-089: Temporary Floo arrival at McGonagall office
 
 A Ministry-arranged one-off Floo Network connection returns pupils to Hogwarts after New Year. Saying Hogwarts in the Burrow kitchen fire brings Harry into McGonagall’s office fireplace; he climbs over its grate, and she warns him about ash on the carpet.
+
+Places: McGonagall’s office, Protections and security.
 
 Evidence: explicit; state: Return after New Year 1997.
 
@@ -2375,6 +2834,8 @@ Model: Temporary network permission, destination fireplace, grate and carpet. Do
 ## B06-095: Headmaster office January light, sounds and rug
 
 Lamps provide soft golden light; former-headmaster portraits snore in their frames and Fawkes makes low musical cries behind Harry. A rug lies in front of the desk where returning Pensieve visitors land.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: January 1997.
 
@@ -2391,6 +2852,8 @@ Model: Repeated furnishing evidence with rug-to-desk relationship and phoenix so
 
 The ancient Sorting Hat sits unmoving on a shelf above Dumbledore’s head.
 
+Places: Headmaster’s office.
+
 Evidence: explicit; state: January 1997.
 
 Model: Shelf position relative to seated Headmaster; do not infer a specific wall or shelf height.
@@ -2400,6 +2863,8 @@ Model: Shelf position relative to seated Headmaster; do not infer a specific wal
 ## B06-098: Slughorn office in student-Riddle memory
 
 In the recollection, Slughorn sits in a comfortable winged armchair with his feet on a velvet pouffe, holding wine and crystallised pineapple. Half a dozen teenage boys sit around him on harder or lower seats. A small golden clock on the desk chimes eleven; Slughorn carries his glass to the desk as the boys leave.
+
+Places: Slughorn’s office.
 
 Evidence: explicit; state: Riddle’s teenage school years, memory viewed January 1997.
 
@@ -2419,6 +2884,8 @@ Model: The first view in chapter 17 is tampered with; the later genuine memory r
 
 Slughorn’s study is overheated and crowded. Ron trips over a tasselled footstool, then sits in an armchair. A table is loaded with drinks; another low table lies across Harry’s route to Slughorn’s open potion kit, which Harry jumps to reach.
 
+Places: Slughorn’s office.
+
 Evidence: explicit; state: Morning of 1 March 1997.
 
 Model: Footstool, armchair, drinks table, low table and kit locations constrain local circulation but do not establish the whole floor plan. Kit is movable and antidote supplies are a dated state.
@@ -2437,6 +2904,8 @@ Model: Footstool, armchair, drinks table, low table and kit locations constrain 
 
 Harry recounts that McGonagall and Pomfrey brought the poisoned Ron up from Slughorn’s room to the hospital wing.
 
+Places: Hospital wing, Slughorn’s office.
+
 Evidence: reported; state: 1 March 1997.
 
 Model: Reported upward transfer, no absolute floor numbers or full stair path.
@@ -2445,24 +2914,11 @@ Model: Reported upward transfer, no absolute floor numbers or full stair path.
 - [Book 6, ch. 19, “Elf Tails”, ref p. 417, ¶11 (B06-C019-P0011)](../../build/reader/book-06.html#B06-C019-P0011)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 417, ¶13 (B06-C019-P0013)](../../build/reader/book-06.html#B06-C019-P0013)
 
-## B06-116: Hospital nighttime controls and Pomfrey office
-
-Pomfrey’s office opens into the ward. At bedtime she waves her wand to close all curtains, the lamps dim, and she returns through her office door. Harry later casts Muffliato towards that door and no response follows the noisy disturbance in the ward.
-
-Evidence: explicit; state: Night after Hufflepuff match, March 1997.
-
-Model: Curtain referents may include bed screens or windows; the passage says all curtains, so do not arbitrarily choose. Spell does not prove a naturally soundproof office.
-
-- [Book 6, ch. 19, “Elf Tails”, ref p. 420, ¶38 (B06-C019-P0038)](../../build/reader/book-06.html#B06-C019-P0038)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 435, ¶160 (B06-C019-P0160)](../../build/reader/book-06.html#B06-C019-P0160)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 437, ¶179 (B06-C019-P0179)](../../build/reader/book-06.html#B06-C019-P0179)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶187 (B06-C019-P0187)](../../build/reader/book-06.html#B06-C019-P0187)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 439, ¶193 (B06-C019-P0193)](../../build/reader/book-06.html#B06-C019-P0193)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 440, ¶200 (B06-C019-P0200)](../../build/reader/book-06.html#B06-C019-P0200)
-
 ## B06-119: Headmaster entrance new password and clock
 
 Toffee eclairs makes the gargoyle leap aside. Harry climbs the spiral staircase two steps at a time and hears a clock inside the office chime eight. The door is opened from inside; Trelawney descends the same staircase.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: March 1997.
 
@@ -2474,9 +2930,23 @@ Model: Dated credential and walkable moving-stair route; no measured riser count
 - [Book 6, ch. 20, “Lord Voldemort’s Request”, ref p. 446, ¶36 (B06-C020-P0036)](../../build/reader/book-06.html#B06-C020-P0036)
 - [Book 6, ch. 20, “Lord Voldemort’s Request”, ref p. 446, ¶37 (B06-C020-P0037)](../../build/reader/book-06.html#B06-C020-P0037)
 
+## B06-120: Armando Dippet portrait
+
+Armando Dippet’s portrait hangs above Dumbledore’s head and makes little grunting snores.
+
+Places: Headmaster’s office.
+
+Evidence: explicit; state: March 1997.
+
+Model: Named portrait and position above Headmaster, without exact dimensions or wall coordinates.
+
+- [Book 6, ch. 20, “Lord Voldemort’s Request”, ref p. 448, ¶51 (B06-C020-P0051)](../../build/reader/book-06.html#B06-C020-P0051)
+
 ## B06-122: Headmaster office in Voldemort application memory
 
 The remembered office has Fawkes on his perch, Dumbledore’s desk and a visitor’s seat apparently the same as Harry’s current chair. Snow falls past a window and builds on its outside ledge. The cabinet now used for the Pensieve then holds bottles, from which Dumbledore serves wine.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: Undated snowy evening after Dumbledore becomes Headmaster, recalled March 1997.
 
@@ -2494,6 +2964,8 @@ Model: Historical layout continuity with changed cabinet contents and weather. �
 
 On an unanswered office visit Harry is sure he hears a quickly stifled old gramophone.
 
+Places: Slughorn’s office.
+
 Evidence: explicit; state: March–early April 1997.
 
 Model: Unconfirmed auditory identification; do not present the exact device or its position as visually inspected.
@@ -2503,6 +2975,8 @@ Model: Unconfirmed auditory identification; do not present the exact device or i
 ## B06-128: Headmaster entrance relative to Room corridor
 
 Harry tells Tonks that Dumbledore’s office is around the other side of the castle from this Room of Requirement corridor, behind the gargoyle.
+
+Places: Headmaster’s office, Seventh-floor corridor.
 
 Evidence: reported; state: March–early April 1997.
 
@@ -2517,6 +2991,8 @@ Model: Both entrances have seventh-floor evidence, but are geographically separa
 
 Every portrait around the office walls is awake and listening; one depicts a fat red-nosed wizard who uses an ear trumpet.
 
+Places: Headmaster’s office.
+
 Evidence: explicit; state: After Aragog burial, spring 1997.
 
 Model: Additional portrait subject/prop and animated reaction, not a real ear trumpet lying in the room.
@@ -2529,6 +3005,8 @@ Model: Additional portrait subject/prop and animated reaction, not a real ear tr
 
 A ruby-encrusted sword rests in a glass case on the wall behind Dumbledore; he identifies it as the surviving known Gryffindor relic.
 
+Places: Headmaster’s office.
+
 Evidence: explicit; state: After Aragog burial, spring 1997.
 
 Model: Observed wall position, glass enclosure and jewelled sword. Provenance is Dumbledore’s statement; no case dimensions supplied.
@@ -2539,6 +3017,8 @@ Model: Observed wall position, glass enclosure and jewelled sword. Provenance is
 ## B06-160: Dungeon office approach and acoustic isolation
 
 During the final match Harry descends stone steps into the dungeons and walks until crowd sounds disappear. Snape’s office remains in the dungeons although his teaching is now floors above. Leaving, Harry climbs the stone steps back towards the Great Hall and then the marble staircase to Gryffindor.
+
+Places: Snape’s office and private stores, Dungeon corridors, Marble staircase.
 
 Evidence: explicit; state: May 1997.
 
@@ -2552,6 +3032,8 @@ Model: Dated route and loss of distant pitch sound; no proof of purpose-built so
 ## B06-161: Snape dungeon office fixtures and detention files
 
 The dim office has slimy dead specimens suspended in coloured potions around the walls. Cobwebbed boxes of damaged, mouse-chewed or faded punishment record cards are piled on a table where Harry sits to copy them. A large clock ticks on the wall.
+
+Places: Snape’s office and private stores.
 
 Evidence: explicit; state: May 1997.
 
@@ -2571,6 +3053,8 @@ Model: Specimen display, worktable, clock and temporary files. Harry’s suspici
 
 Dumbledore stands at the office window looking out over the grounds. The setting sun casts gold then red light into the room and appears as a ruby-red glare along the horizon.
 
+Places: Headmaster’s office.
+
 Evidence: explicit; state: June 1997, departure evening.
 
 Model: Grounds and sunset line of sight from window. Do not assign a precise azimuth or identify which window from this alone.
@@ -2581,22 +3065,11 @@ Model: Grounds and sunset line of sight from window. Do not assign a precise azi
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 576, ¶150 (B06-C025-P0150)](../../build/reader/book-06.html#B06-C025-P0150)
 - [Book 6, ch. 25, “The Seer Overheard”, ref p. 580, ¶191 (B06-C025-P0191)](../../build/reader/book-06.html#B06-C025-P0191)
 
-## B06-168: Extra protection during Headmaster absence
-
-Dumbledore says he has never left Hogwarts unprotected during his absences that year and will put additional protection in place that evening.
-
-Evidence: reported; state: June 1997, departure evening.
-
-Model: Dated security preparation; unspecified personnel/spells here. Harry’s concern about circumvention is not proof that any particular barrier has failed.
-
-- [Book 6, ch. 25, “The Seer Overheard”, ref p. 579, ¶167 (B06-C025-P0167)](../../build/reader/book-06.html#B06-C025-P0167)
-- [Book 6, ch. 25, “The Seer Overheard”, ref p. 579, ¶169 (B06-C025-P0169)](../../build/reader/book-06.html#B06-C025-P0169)
-- [Book 6, ch. 25, “The Seer Overheard”, ref p. 579, ¶170 (B06-C025-P0170)](../../build/reader/book-06.html#B06-C025-P0170)
-- [Book 6, ch. 25, “The Seer Overheard”, ref p. 581, ¶196 (B06-C025-P0196)](../../build/reader/book-06.html#B06-C025-P0196)
-
 ## B06-172: Headmaster office scale comparison
 
 The small flat rocky island in the remote sea cave is described as no larger than Dumbledore’s office.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: June 1997 cave visit.
 
@@ -2608,6 +3081,8 @@ Model: Relative scale comparison only, with no numeric dimension. The distant ca
 ## B06-196: Snape office battle-night approach
 
 Hermione and Luna wait outside the dungeon office. Flitwick runs down from the fighting and enters it; Snape emerges, tells them to attend to Flitwick, and they find him unconscious on the office floor.
+
+Places: Snape’s office and private stores, Dungeon corridors.
 
 Evidence: reported; state: Night after tower attack, June 1997.
 
@@ -2621,6 +3096,8 @@ Model: Observed by reporting witnesses. Snape stunning Flitwick is their inferen
 
 The circular office remains much as before: silver instruments whir and smoke on spindle-legged tables, the sword in its case gleams in moonlight, and the Sorting Hat is on a shelf behind the desk. Fawkes’s perch is empty. A new sleeping portrait of Dumbledore in a golden frame hangs over the desk.
 
+Places: Headmaster’s office.
+
 Evidence: explicit; state: Night after tower attack, June 1997.
 
 Model: Office is now used by McGonagall; no black drapery or body is actually present—those are Harry’s expectations, explicitly contradicted by observation.
@@ -2632,6 +3109,8 @@ Model: Office is now used by McGonagall; no black drapery or body is actually pr
 ## B06-198: Everard portrait high on office wall
 
 A sallow-faced wizard with a short black fringe returns to his canvas high on the wall and speaks; McGonagall addresses him as Everard.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: Night after tower attack, June 1997.
 
@@ -2645,6 +3124,8 @@ Model: Portrait identity, appearance and height relationship; no precise frame d
 
 From the office window McGonagall looks down over the grounds to watch for the Minister and later sees him arriving with a delegation.
 
+Places: Headmaster’s office.
+
 Evidence: explicit; state: Night after tower attack, June 1997.
 
 Model: Confirmed downward exterior approach view; exact gates/path visible and viewing bearing unspecified.
@@ -2655,6 +3136,8 @@ Model: Confirmed downward exterior approach view; exact gates/path visible and v
 ## B07-001: Lupin’s Hogwarts office
 
 Harry and Lupin recall that a Grindylow in a tank stood in a corner of Lupin’s office on Harry’s first visit.
+
+Places: Defence teacher’s office.
 
 Evidence: reported; state: Lupin’s teaching year, recalled July 1997.
 
@@ -2668,6 +3151,8 @@ Model: Recollection used for an identity check and accepted by Lupin; establishe
 ## B07-004: Library Horcrux books removed to Headmaster study
 
 Hermione says Dumbledore removed all Horcrux books from the library shelves without destroying them, keeping them in his study. One recovered volume, Secrets of the Darkest Art, is large and bound in faded black leather.
+
+Places: Headmaster’s office, Library.
 
 Evidence: reported; state: July 1997 recollection.
 
@@ -2684,6 +3169,8 @@ Model: Collection/storage state before funeral and subsequent removal; exact off
 
 Hermione reports Summoning the removed books after Dumbledore’s funeral: they flew out of his study window and into the girls’ dormitory through its open window, where she packed them.
 
+Places: Headmaster’s office, Gryffindor girls’ dormitories.
+
 Evidence: reported; state: Immediately after June 1997 funeral, reported July 1997.
 
 Model: Exterior aerial connection and opening dormitory window. No window-to-window distance, compass bearing or full flight path specified; do not assume adjacent rooms.
@@ -2697,15 +3184,39 @@ Model: Exterior aerial connection and opening dormitory window. No window-to-win
 
 Scrimgeour says Dumbledore’s private library, magical instruments and most other personal effects were left to Hogwarts.
 
+Places: Headmaster’s office.
+
 Evidence: reported; state: 31 July 1997.
 
 Model: Disposition supports continued school ownership of the collection; no physical relocation or exact posthumous room arrangement is shown here.
 
 - [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 129, ¶148 (B07-C007-P0148)](../../build/reader/book-07.html#B07-C007-P0148)
 
+## B07-008: Gryffindor sword and Sorting Hat presentation
+
+Hermione recalls the sword coming to Harry out of the Sorting Hat. Scrimgeour says historical sources allow it to present itself to any worthy Gryffindor and refuses to transfer it under Dumbledore’s will. Harry recalls it hanging on the office wall during the previous year’s lessons.
+
+Places: Headmaster’s office.
+
+Evidence: reported; state: 31 July 1997.
+
+Model: Reported access behaviour and former display position, not proof of a current item’s authenticity or a visible sword-to-hat passage. No sword is produced at this meeting.
+
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 134, ¶194 (B07-C007-P0194)](../../build/reader/book-07.html#B07-C007-P0194)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 134, ¶195 (B07-C007-P0195)](../../build/reader/book-07.html#B07-C007-P0195)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 134, ¶196 (B07-C007-P0196)](../../build/reader/book-07.html#B07-C007-P0196)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 134, ¶197 (B07-C007-P0197)](../../build/reader/book-07.html#B07-C007-P0197)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 134, ¶198 (B07-C007-P0198)](../../build/reader/book-07.html#B07-C007-P0198)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 134, ¶199 (B07-C007-P0199)](../../build/reader/book-07.html#B07-C007-P0199)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 135, ¶200 (B07-C007-P0200)](../../build/reader/book-07.html#B07-C007-P0200)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 140, ¶249 (B07-C007-P0249)](../../build/reader/book-07.html#B07-C007-P0249)
+- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 140, ¶250 (B07-C007-P0250)](../../build/reader/book-07.html#B07-C007-P0250)
+
 ## B07-009: Headmaster’s study / Phineas Nigellus portrait
 
 Seeing Phineas Nigellus’s empty portrait at Grimmauld Place, Harry concludes that its subject is spending the night in the Headmaster’s study at Hogwarts.
+
+Places: Headmaster’s office, Portraits and paintings.
 
 Evidence: inference; state: August 1997.
 
@@ -2716,6 +3227,8 @@ Model: Establishes Harry’s understanding of linked portrait destinations; his 
 ## B07-013: Headmaster’s office / Phineas Nigellus portrait
 
 Phineas Nigellus can move between his framed portrait at Grimmauld Place and the one hanging in the Headmaster’s office. Hermione puts the portable frame in her enlarged handbag to prevent its subject seeing the house for Snape.
+
+Places: Headmaster’s office, Portraits and paintings.
 
 Evidence: explicit; state: 1 September 1997.
 
@@ -2730,6 +3243,8 @@ Model: Linked portrait travel and visual access depend on frame placement; no ph
 
 The Headmaster’s office is a circular room at the top of a tower. Harry associates it with Dumbledore’s delicate silver instruments, stone Pensieve, Sorting Hat and the sword of Gryffindor, whose continued presence he is unsure of.
 
+Places: Headmaster’s office.
+
 Evidence: explicit; state: Remembered office on 1 September 1997; Snape’s occupation anticipated.
 
 Model: Room form and remembered contents are narrated; Harry is imagining Snape there and explicitly allows that the sword may have moved. Do not treat this as a witnessed inventory under Snape.
@@ -2739,6 +3254,8 @@ Model: Room form and remembered contents are narrated; Harry is imagining Snape 
 ## B07-014: Umbridge’s former Hogwarts office
 
 Harry recognises the Ministry office as matching Umbridge’s Hogwarts office: lace draperies, doilies and dried flowers covering surfaces, ornamental wall plates with brightly coloured beribboned moving kittens, and a flouncy flowered desk cloth.
+
+Places: Defence teacher’s office.
 
 Evidence: explicit; state: Recollection in September 1997 of Umbridge’s 1995–96 Hogwarts office.
 
@@ -2750,6 +3267,8 @@ Model: The explicit comparison supports these shared decorations; the Ministry d
 
 A Ministry filing cabinet reminds Harry of Filch’s filing cabinets at Hogwarts, full of folders labelled with individual names.
 
+Places: Filch’s office.
+
 Evidence: explicit; state: Recollection in September 1997 of Umbridge’s 1995–96 Hogwarts office.
 
 Model: Confirms cabinets and folder organisation, without assigning their room position or number.
@@ -2759,6 +3278,8 @@ Model: Confirms cabinets and folder organisation, without assigning their room p
 ## B07-017: Headmaster’s office / sword display
 
 Dirk reports that Ginny and two friends entered Snape’s office, smashed the sword’s glass case and were caught carrying the sword down the staircase. He says Snape sent the displayed sword to Gringotts a couple of days later; Griphook identifies that deposited blade as a copy.
+
+Places: Headmaster’s office.
 
 Evidence: reported; state: Autumn 1997.
 
@@ -2775,6 +3296,8 @@ Model: Reported chain is Bill to Griphook to Dirk; preserve broken case and remo
 
 Hermione says Phineas Nigellus’s portrait hangs immediately beside the sword’s display case.
 
+Places: Headmaster’s office.
+
 Evidence: reported; state: Autumn 1997.
 
 Model: Relative adjacency, without compass direction or height.
@@ -2782,42 +3305,30 @@ Model: Relative adjacency, without compass direction or height.
 - [Book 7, ch. 15, “The Goblin’s Revenge”, ref p. 316–317, ¶159 (B07-C015-P0159)](../../build/reader/book-07.html#B07-C015-P0159)
 - [Book 7, ch. 15, “The Goblin’s Revenge”, ref p. 317, ¶160 (B07-C015-P0160)](../../build/reader/book-07.html#B07-C015-P0160)
 
-## B07-025: Dumbledore’s tomb
+## B07-071: Castle / hypothesised historical diadem deposition
 
-Harry identifies his parents’ white-marble headstone as the same material as Dumbledore’s tomb.
+Harry deduces that Riddle hid the diadem during his visit to request a teaching job, on the way to or from Dumbledore’s office.
 
-Evidence: explicit; state: Christmas Eve 1997 recollection.
+Places: Room of Requirement: Room of Hidden Things, Headmaster’s office.
 
-Model: Corroborates the Hogwarts tomb’s white marble only; graveyard row positions and visibility belong to Godric’s Hollow, not the school tomb.
+Evidence: inference; state: May 1998, Battle of Hogwarts before and just after midnight.
 
-- [Book 7, ch. 16, “Godric’s Hollow”, ref p. 346, ¶124 (B07-C016-P0124)](../../build/reader/book-07.html#B07-C016-P0124)
+Model: Reasoning links the hiding room to the remembered job interview, without proving an exact route or time of placement.
 
-## B07-030: Lakeside funeral site / Dumbledore’s tomb
-
-Harry remembers rows and rows of golden chairs at Dumbledore’s funeral, the Minister for Magic in the front row, and a stately white marble tomb.
-
-Evidence: explicit; state: March 1998 recollection of June 1997 funeral.
-
-Model: Adds chair colour and seating arrangement. The rough earth grave and bushes described in the present scene belong to Dobby’s remote Shell Cottage burial.
-
-- [Book 7, ch. 24, “The Wandmaker”, ref p. 507, ¶22 (B07-C024-P0022)](../../build/reader/book-07.html#B07-C024-P0022)
-
-## B07-033: Dumbledore’s lakeside tomb
-
-The white marble tomb stands beside the lake and is reflected in its dark water. Voldemort splits it open lengthwise from head to foot, revealing a shrouded, long thin body; the wrappings open and the wand is removed from beneath the folded hands on its chest.
-
-Evidence: explicit; state: March 1998 tomb desecration.
-
-Model: Dated open/broken state, not the intact funeral model. No lid thickness, cavity dimensions or repair yet established.
-
-- [Book 7, ch. 24, “The Wandmaker”, ref p. 530, ¶252 (B07-C024-P0252)](../../build/reader/book-07.html#B07-C024-P0252)
-- [Book 7, ch. 24, “The Wandmaker”, ref p. 530, ¶253 (B07-C024-P0253)](../../build/reader/book-07.html#B07-C024-P0253)
-- [Book 7, ch. 24, “The Wandmaker”, ref p. 530, ¶254 (B07-C024-P0254)](../../build/reader/book-07.html#B07-C024-P0254)
-- [Book 7, ch. 24, “The Wandmaker”, ref p. 530–531, ¶255 (B07-C024-P0255)](../../build/reader/book-07.html#B07-C024-P0255)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 653, ¶100 (B07-C031-P0100)](../../build/reader/book-07.html#B07-C031-P0100)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 653, ¶102 (B07-C031-P0102)](../../build/reader/book-07.html#B07-C031-P0102)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 653, ¶103 (B07-C031-P0103)](../../build/reader/book-07.html#B07-C031-P0103)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 653–654, ¶105 (B07-C031-P0105)](../../build/reader/book-07.html#B07-C031-P0105)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 654, ¶107 (B07-C031-P0107)](../../build/reader/book-07.html#B07-C031-P0107)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 656, ¶123 (B07-C031-P0123)](../../build/reader/book-07.html#B07-C031-P0123)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 656, ¶124 (B07-C031-P0124)](../../build/reader/book-07.html#B07-C031-P0124)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 656–657, ¶125 (B07-C031-P0125)](../../build/reader/book-07.html#B07-C031-P0125)
 
 ## B07-073: Staff-room entrance / stone gargoyles
 
 Two stone gargoyles normally guarding the staff-room entrance are smashed by a jinx entering through a broken window. Their fragments still stir and one detached head speaks from the floor.
+
+Places: Staff room.
 
 Evidence: explicit; state: May 1998, Battle of Hogwarts before and just after midnight.
 
@@ -2828,6 +3339,8 @@ Model: Establishes paired stone guardians and damaged animated remnants, without
 ## B07-104: Great Hall → Headmaster’s office / password
 
 Harry turns from the Great Hall doorway, runs up the marble staircase and through the empty castle to the stone gargoyle. Saying Dumbledore makes it slide aside and reveal the spiral staircase to the circular office.
+
+Places: Headmaster’s office, Great Hall, Marble staircase.
 
 Evidence: explicit; state: May 1998, battle ceasefire.
 
@@ -2844,6 +3357,8 @@ Model: Password works at this time; not proof of a permanent password or a measu
 
 Portraits hang all around the circular office, now empty; Dumbledore’s deserted frame is directly behind the Headmaster’s chair. The stone Pensieve is kept in its cabinet and is lifted onto the desk. Its wide basin has runic markings around the edge, and the office floor is carpeted.
 
+Places: Headmaster’s office.
+
 Evidence: explicit; state: May 1998, battle ceasefire.
 
 Model: Narration speculates that absent headmasters are watching battle events through castle pictures; absence is directly seen but their exact destinations are not.
@@ -2855,6 +3370,8 @@ Model: Narration speculates that absent headmasters are watching battle events t
 ## B07-113: Headmaster’s office / desk chairs and objects
 
 Dumbledore occupies a throne-like chair behind the desk, with a visitor’s chair across from him. The cracked Gaunt ring and Gryffindor sword lie together on the desk. Fawkes is present, audibly gnawing cuttlebone.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: Memories spanning 1981, 1991 and summer 1996; detailed desk scene summer 1996.
 
@@ -2873,6 +3390,8 @@ Model: Earlier office scenes corroborate seating but the throne-like shape, oppo
 
 In a later night office conversation, with dark windows and Fawkes sitting silently, Snape’s silver doe lands on the floor, bounds across the office and soars out of the window as Dumbledore watches.
 
+Places: Headmaster’s office.
+
 Evidence: explicit; state: 1996–97 memory.
 
 Model: A visible outward window route for a Patronus, not proof a solid body could pass without opening the window. No compass direction given.
@@ -2885,6 +3404,8 @@ Model: A visible outward window route for a Patronus, not proof a solid body cou
 ## B07-115: Headmaster’s office / portrait communication under Snape
 
 Snape consults Dumbledore’s portrait behind his desk. Phineas returns into his school frame with a location heard when Hermione opened her handbag, and Dumbledore’s portrait speaks from behind the Headmaster’s chair.
+
+Places: Headmaster’s office, Portraits and paintings.
 
 Evidence: explicit; state: 1997 and Christmas 1997 memories.
 
@@ -2902,6 +3423,8 @@ Model: Confirms functioning Dumbledore portrait and Phineas’s listening throug
 
 Snape pulls the side of Dumbledore’s portrait so it swings forwards, exposing a hidden cavity behind it from which he takes the real sword of Gryffindor before leaving through the office door.
 
+Places: Headmaster’s office.
+
 Evidence: explicit; state: Christmas 1997 memory.
 
 Model: Physical concealed sword store behind a movable portrait, directly observed through memory. Its construction date and dimensions are unspecified; this resolves the real sword’s storage before delivery, not the timing of the display-case substitution.
@@ -2917,6 +3440,8 @@ Model: Physical concealed sword store behind a movable portrait, directly observ
 ## B07-117: Headmaster’s office → Entrance Hall → front grounds
 
 Harry leaves the dusty carpeted office with portraits still absent, descends through the floors to the marble staircase, crosses the Entrance Hall and exits by the front doors and steps. Neville and Wood bring a body in from the grounds to the Great Hall; the grounds nearby hold other dead and wounded.
+
+Places: Headmaster’s office, Entrance Hall, Front steps and front doors, Front lawns and slopes.
 
 Evidence: explicit; state: May 1998, near four in the morning during the ceasefire.
 
@@ -2943,6 +3468,8 @@ Model: Narrated uninterrupted route but no turn or floor count. Near-four-o’cl
 
 The trio leave the Hall and climb marble stairs missing large chunks and part of the balustrade, with rubble and bloodstains every few steps. They continue through a doorway and along the castle route to the office, hearing Peeves’s victory song in distant corridors.
 
+Places: Marble staircase, Great Hall, Headmaster’s office.
+
 Evidence: explicit; state: May 1998, final battle at dawn.
 
 Model: Damage remains after table restoration. No wholesale castle repair is narrated.
@@ -2957,6 +3484,8 @@ Model: Damage remains after table restoration. No wholesale castle repair is nar
 
 The guarding gargoyle has been knocked aside and stands lopsided. It grants access conversationally; the trio climb over it onto the spiral stone staircase, which moves slowly upward like an escalator, then pass through the door at the top.
 
+Places: Headmaster’s office.
+
 Evidence: explicit; state: May 1998, final battle at dawn.
 
 Model: Current access bypasses the normal password request. Harry’s doubt whether it can distinguish passwords is speculation, not a diagnosed permanent loss.
@@ -2969,6 +3498,8 @@ Model: Current access bypasses the normal password request. Harry’s doubt whet
 ## B07-134: Headmaster’s office / returned portraits and desk
 
 The Pensieve still stands on the desk where Harry left it. The returned heads’ portraits surround the walls, their subjects standing on painted chairs and reaching between frames to shake hands. Dilys Derwent weeps, Dexter Fortescue waves an ear-trumpet and Phineas calls out; Dumbledore occupies the largest portrait directly behind the Headmaster’s chair.
+
+Places: Headmaster’s office.
 
 Evidence: explicit; state: May 1998, final battle at dawn.
 

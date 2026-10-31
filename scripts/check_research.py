@@ -10,7 +10,7 @@ import json
 from pathlib import Path
 import re
 
-from catalogue import ROOT, citation, load_json, read_research, validate, validate_model_constraints
+from catalogue import ROOT, assign_places, citation, load_json, read_research, validate, validate_model_constraints, validate_places
 
 
 def check(root: Path, require_complete: bool = False) -> dict:
@@ -27,6 +27,9 @@ def check(root: Path, require_complete: bool = False) -> dict:
     errors, coverage = validate(corpus, records)
     errors.extend(validate_model_constraints(corpus, load_json(root / "research/model-constraints.json")))
     expected = {entry["id"]: entry for record in records for entry in record["entries"]}
+    places = load_json(root / "research/places.json")
+    place_errors = validate_places(set(expected), places, load_json(root / "research/areas.json"))
+    errors.extend(place_errors)
     compiled = load_json(root / "research/catalogue.json")
     actual = {entry["id"]: entry for entry in compiled["entries"]}
     if len(actual) != len(compiled["entries"]):
@@ -65,6 +68,13 @@ def check(root: Path, require_complete: bool = False) -> dict:
                 errors.append(f"{ident}: citation page arithmetic is inconsistent")
             if ref["label"] != citation(ref):
                 errors.append(f"{ident}: displayed citation label is inconsistent")
+    if not place_errors and set(actual) == set(expected):
+        derived = {"entries": [{"id": ident} for ident in actual]}
+        assign_places(derived, places)
+        for entry in derived["entries"]:
+            result = actual[entry["id"]]
+            if result.get("places") != entry["places"] or result.get("areas") != entry["areas"]:
+                errors.append(f"{entry['id']}: compiled places or areas differ from places.json")
     if load_json(root / "research/coverage.json") != coverage:
         errors.append("Compiled coverage report differs from the review ledger")
     if require_complete and not coverage["complete"]:

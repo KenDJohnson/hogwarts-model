@@ -4,28 +4,11 @@
 
 All pages are project reference pages, ref250-v1. Group membership is a navigation aid; retain each record's certainty and dated state.
 
-## B02-091: Myrtle’s bathroom to Slytherin dungeon passages
-
-Leaving the bathroom, Harry and Ron descend the marble staircase, then stone steps from the dungeon entrance. They wander deeper through deserted labyrinthine passages under the school for about fifteen minutes; Percy emerges from a side room before Malfoy leads them into the next passage.
-
-Evidence: explicit; state: 25 December 1992 infiltration.
-
-Model: Observed dungeon circulation and side room; elapsed time includes searching and does not set corridor lengths.
-
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 221, ¶122 (B02-C012-P0122)](../../build/reader/book-02.html#B02-C012-P0122)
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 221, ¶128 (B02-C012-P0128)](../../build/reader/book-02.html#B02-C012-P0128)
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 222, ¶130 (B02-C012-P0130)](../../build/reader/book-02.html#B02-C012-P0130)
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 222, ¶134 (B02-C012-P0134)](../../build/reader/book-02.html#B02-C012-P0134)
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 222, ¶135 (B02-C012-P0135)](../../build/reader/book-02.html#B02-C012-P0135)
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 222, ¶137 (B02-C012-P0137)](../../build/reader/book-02.html#B02-C012-P0137)
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 223, ¶145 (B02-C012-P0145)](../../build/reader/book-02.html#B02-C012-P0145)
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 223, ¶151 (B02-C012-P0151)](../../build/reader/book-02.html#B02-C012-P0151)
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 223, ¶153 (B02-C012-P0153)](../../build/reader/book-02.html#B02-C012-P0153)
-- [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 223, ¶155 (B02-C012-P0155)](../../build/reader/book-02.html#B02-C012-P0155)
-
 ## B02-092: Slytherin common-room concealed stone door
 
 Malfoy stops at bare damp stone wall. The password Pure-blood makes a concealed stone door slide open, allowing entry into Slytherin’s common room.
+
+Places: Slytherin common room.
 
 Evidence: explicit; state: 25 December 1992.
 
@@ -40,6 +23,8 @@ Model: Password dated to Christmas 1992; no portrait, stair or visible handle is
 ## B02-093: Slytherin common room
 
 A long low underground room has rough stone walls and ceiling, with round greenish lamps suspended on chains. A fire burns under an elaborately carved mantelpiece ahead of the entry; pupils use carved chairs by it and a pair of chairs farther back.
+
+Places: Slytherin common room.
 
 Evidence: explicit; state: December 1992.
 
@@ -56,6 +41,8 @@ Model: Explicit underground height impression and finishes. Lake windows or unde
 
 The boys run the length of the common room, pass out through the stone-wall entrance, go up the passage and steps to the dark Entrance Hall, then climb the marble staircase towards Myrtle’s bathroom. After finding Hermione transformed there, they propose taking her up to the hospital wing.
 
+Places: Slytherin common room, Moaning Myrtle’s bathroom, Marble staircase, Hospital wing.
+
 Evidence: explicit; state: December 1992.
 
 Model: Observed return resolves no bathroom floor number. Hospital leg is proposed here and confirmed by later recovery scenes.
@@ -71,44 +58,11 @@ Model: Observed return resolves no bathroom floor number. Hospital leg is propos
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 229, ¶213 (B02-C012-P0213)](../../build/reader/book-02.html#B02-C012-P0213)
 - [Book 2, ch. 12, “The Polyjuice Potion”, ref p. 229, ¶214 (B02-C012-P0214)](../../build/reader/book-02.html#B02-C012-P0214)
 
-## B02-147: Chamber of Secrets — Slytherin statue and floor
-
-At the far end beyond the last pair of pillars, a statue as tall as the Chamber stands against the back wall. Its aged monkey-like face has a long thin beard descending almost to its sweeping stone robes; enormous grey feet rest on a smooth stone floor. Ginny lies between the feet and the diary near its toes.
-
-Evidence: explicit; state: Late May 1993, Chamber confrontation.
-
-Model: Monument establishes chamber axis and end wall; no unsupported pool, central dais, bridge or stair.
-
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 309, ¶4 (B02-C017-P0004)](../../build/reader/book-02.html#B02-C017-P0004)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 309, ¶5 (B02-C017-P0005)](../../build/reader/book-02.html#B02-C017-P0005)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 309–310, ¶6 (B02-C017-P0006)](../../build/reader/book-02.html#B02-C017-P0006)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 310, ¶10 (B02-C017-P0010)](../../build/reader/book-02.html#B02-C017-P0010)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 310, ¶18 (B02-C017-P0018)](../../build/reader/book-02.html#B02-C017-P0018)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 311, ¶28 (B02-C017-P0028)](../../build/reader/book-02.html#B02-C017-P0028)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶101 (B02-C017-P0101)](../../build/reader/book-02.html#B02-C017-P0101)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶103 (B02-C017-P0103)](../../build/reader/book-02.html#B02-C017-P0103)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 322, ¶107 (B02-C017-P0107)](../../build/reader/book-02.html#B02-C017-P0107)
-
-## B02-151: Slytherin statue — basilisk mouth exit
-
-Riddle addresses Slytherin in Parseltongue from between the pillars. The gigantic stone face moves and its mouth opens into a huge black hole; the basilisk slithers up from inside, drops to the stone floor and moves into the chamber.
-
-Evidence: explicit; state: Late May 1993, Chamber confrontation.
-
-Model: Statue conceals a creature route. Its interior depth, storage cavity and connection to other pipes remain unspecified.
-
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶101 (B02-C017-P0101)](../../build/reader/book-02.html#B02-C017-P0101)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶102 (B02-C017-P0102)](../../build/reader/book-02.html#B02-C017-P0102)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶103 (B02-C017-P0103)](../../build/reader/book-02.html#B02-C017-P0103)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶104 (B02-C017-P0104)](../../build/reader/book-02.html#B02-C017-P0104)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321, ¶105 (B02-C017-P0105)](../../build/reader/book-02.html#B02-C017-P0105)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 321–322, ¶106 (B02-C017-P0106)](../../build/reader/book-02.html#B02-C017-P0106)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 322, ¶107 (B02-C017-P0107)](../../build/reader/book-02.html#B02-C017-P0107)
-- [Book 2, ch. 17, “The Heir of Slytherin”, ref p. 322, ¶108 (B02-C017-P0108)](../../build/reader/book-02.html#B02-C017-P0108)
-
 ## B04-122: Slytherin common-room approach
 
 Slytherin pupils come up steps into the Entrance Hall from their dungeon common room.
+
+Places: Slytherin common room, Entrance Hall.
 
 Evidence: explicit; state: Christmas 1994.
 
@@ -120,6 +74,8 @@ Model: Narration explicitly identifies an underground common-room origin. The pa
 ## B05-302: Entrance Hall Slytherin and office routes
 
 Descending the last marble step into the Entrance Hall, Harry sees Malfoy’s group emerge from a door on his right known to lead down to Slytherin common room. Snape emerges from stairs down to his office; McGonagall arrives up the exterior stone steps and sends luggage upstairs toward her office via the marble staircase.
+
+Places: Entrance Hall, Slytherin common room, Snape’s office and private stores, McGonagall’s office.
 
 Evidence: explicit; state: June 1996 final school days and homeward journey.
 
@@ -138,15 +94,32 @@ Model: Right is from a descending-marble-stair viewpoint, not from entering the 
 
 Kreacher reports that Draco sleeps in a dormitory in the dungeons.
 
+Places: Slytherin dormitories.
+
 Evidence: reported; state: March–early April 1997.
 
 Model: Explicit reported vertical zone, not a measured depth or fully mapped entrance.
 
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 473–474, ¶51 (B06-C021-P0051)](../../build/reader/book-06.html#B06-C021-P0051)
 
+## B06-129: Common-room positions on the Map
+
+Inspecting the Map, Harry sees Gryffindors in one tower, Ravenclaws in another, Slytherins in the dungeons and Hufflepuffs in a basement near the kitchens.
+
+Places: Marauder’s Map, Approach to the Hufflepuff common room, Slytherin common room, Ravenclaw Tower.
+
+Evidence: explicit; state: March–early April 1997.
+
+Model: Narrated interpretation of a diegetic map; preserve distinct towers and basement/dungeon zones without supplying unshown coordinates or treating “near” as a shared wall.
+
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 487, ¶150 (B06-C021-P0150)](../../build/reader/book-06.html#B06-C021-P0150)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 487–488, ¶151 (B06-C021-P0151)](../../build/reader/book-06.html#B06-C021-P0151)
+
 ## B07-028: Slytherin common room
 
 Harry tells the Snatchers that the Slytherin common room is in the dungeons, entered through a wall, full of skulls and other things, and under the lake, which gives its light a green colour.
+
+Places: Slytherin common room.
 
 Evidence: reported; state: March 1998 account of remembered school space.
 

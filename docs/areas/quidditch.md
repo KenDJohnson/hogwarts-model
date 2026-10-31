@@ -8,6 +8,8 @@ All pages are project reference pages, ref250-v1. Group membership is a navigati
 
 Hundreds of seats stand raised around the pitch so spectators can see the aerial game. At each end three golden poles terminate in hoops, described as fifty feet high.
 
+Places: Quidditch pitch, Quidditch stands.
+
 Evidence: explicit; state: Autumn 1991.
 
 Model: Six goals, two ends, elevated spectators. No pitch outline, dimensions, individual stand count or roof is specified.
@@ -18,6 +20,8 @@ Model: Six goals, two ends, elevated spectators. No pitch outline, dimensions, i
 ## B01-055: Quidditch pitch to castle
 
 After practice Harry and Wood walk back up to the castle.
+
+Places: Quidditch pitch, Castle exterior.
 
 Evidence: explicit; state: Autumn 1991.
 
@@ -30,6 +34,8 @@ Model: Supports a higher castle relative to the pitch approach; slope and distan
 
 Mountains around the school turn icy grey, the lake resembles chilled steel and the ground frosts each morning. Upstairs castle windows overlook Hagrid defrosting brooms on the Quidditch pitch.
 
+Places: Grounds in general, Surrounding mountains and landscape, The lake, Quidditch pitch.
+
 Evidence: explicit; state: November 1991.
 
 Model: Confirms surrounding mountains and a castle-to-pitch line of sight; no particular window or tower is named.
@@ -39,6 +45,8 @@ Model: Confirms surrounding mountains and a castle-to-pitch line of sight; no pa
 ## B01-065: Quidditch stands and changing rooms
 
 The stands rise high around the pitch, with a top row and rows traversable behind seated or standing spectators. Teams change in changing rooms and walk out onto the pitch.
+
+Places: Quidditch stands, Quidditch changing rooms and broom shed.
 
 Evidence: explicit; state: November 1991.
 
@@ -57,6 +65,8 @@ Model: Opposed stands are established by the cross-pitch view of Snape. No unsup
 
 A banner high in the stands reads Potter for President above a Gryffindor lion; its painted colours flash magically.
 
+Places: Quidditch stands.
+
 Evidence: explicit; state: November 1991 Gryffindor–Slytherin match.
 
 Model: Match-specific decoration.
@@ -67,6 +77,8 @@ Model: Match-specific decoration.
 ## B01-067: Hagrid’s hut — view of Quidditch
 
 Hagrid says he had been watching the match from his hut before joining the crowd, carrying binoculars.
+
+Places: Hagrid’s cabin, Quidditch pitch.
 
 Evidence: reported; state: November 1991.
 
@@ -79,6 +91,8 @@ Model: Reported hut-to-game sightline; does not establish that ground-level play
 ## B01-085: Quidditch pitch — winter rain
 
 Endless rain replaces the snow; Quidditch practice takes place on wet muddy ground.
+
+Places: Quidditch pitch, Grounds in general.
 
 Evidence: explicit; state: Early 1992.
 
@@ -93,6 +107,8 @@ Model: Seasonal pitch surface state; no drainage system is described.
 
 After changing, Harry crosses damp grass to return his broom to a shed with a wooden door. From the shed he looks up at Hogwarts’ sunset-red windows and sees a hooded figure descend the castle’s front steps towards the Forest.
 
+Places: Quidditch changing rooms and broom shed, Castle exterior, Front steps and front doors.
+
 Evidence: explicit; state: Early 1992.
 
 Model: Broomshed is lower than the viewed castle and has a line of sight to the front steps; distance and bearing remain open.
@@ -101,51 +117,23 @@ Model: Broomshed is lower than the viewed castle and has a line of sight to the 
 - [Book 1, ch. 13, “Nicolas Flamel”, ref p. 229, ¶100 (B01-C013-P0100)](../../build/reader/book-01.html#B01-C013-P0100)
 - [Book 1, ch. 13, “Nicolas Flamel”, ref p. 229, ¶102 (B01-C013-P0102)](../../build/reader/book-01.html#B01-C013-P0102)
 
-## B01-089: Unnamed meeting room after Quidditch
+## B02-001: Hogwarts — summer recollection
 
-Harry and his friends find an empty room, check that Peeves is absent and close its door to talk privately.
+Harry recalls the castle’s secret passages and ghosts, Great Hall banquets, a four-poster in the tower dormitory, Hagrid’s cabin next to the Forbidden Forest, and six tall Quidditch goalposts.
 
-Evidence: explicit; state: Early 1992.
+Places: Great Hall, Gryffindor boys’ dormitories, Hagrid’s cabin, Quidditch pitch.
 
-Model: Unnamed room with a closable door; no floor, function or further furnishings established.
+Evidence: explicit; state: Summer 1992 recollection of 1991–92.
 
-- [Book 1, ch. 13, “Nicolas Flamel”, ref p. 231, ¶122 (B01-C013-P0122)](../../build/reader/book-01.html#B01-C013-P0122)
-- [Book 1, ch. 13, “Nicolas Flamel”, ref p. 231, ¶123 (B01-C013-P0123)](../../build/reader/book-01.html#B01-C013-P0123)
+Model: A narrated recap reaffirming established features; no new floor plan or numeric goalpost height.
 
-## B01-093: Hagrid’s hut — dragon incubation
-
-All curtains are shut and the door is promptly closed. A blazing grate makes the single room stiflingly hot despite warm weather; a huge black egg sits at the fire’s heart beneath the kettle. Hagrid refuses to open a window.
-
-Evidence: explicit; state: Spring 1992, Norbert episode.
-
-Model: Curtained operable windows and grate are confirmed; egg and excess heat are temporary.
-
-- [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 235, ¶29 (B01-C014-P0029)](../../build/reader/book-01.html#B01-C014-P0029)
-- [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 235, ¶30 (B01-C014-P0030)](../../build/reader/book-01.html#B01-C014-P0030)
-- [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 236, ¶43 (B01-C014-P0043)](../../build/reader/book-01.html#B01-C014-P0043)
-- [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 236, ¶44 (B01-C014-P0044)](../../build/reader/book-01.html#B01-C014-P0044)
-- [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 236–237, ¶46 (B01-C014-P0046)](../../build/reader/book-01.html#B01-C014-P0046)
-- [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 237, ¶51 (B01-C014-P0051)](../../build/reader/book-01.html#B01-C014-P0051)
-- [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 237, ¶53 (B01-C014-P0053)](../../build/reader/book-01.html#B01-C014-P0053)
-- [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 237, ¶54 (B01-C014-P0054)](../../build/reader/book-01.html#B01-C014-P0054)
-
-## B01-098: Hagrid’s hut — dragon-rearing state
-
-The darkened hut’s floor becomes strewn with empty brandy bottles and chicken feathers as Norbert grows. Later Hagrid speaks through an open window; the dragon’s tail strikes the wall hard enough to rattle the windows.
-
-Evidence: explicit; state: Spring 1992, Norbert episode.
-
-Model: Transient clutter and impact, without a stated broken wall/window. Harry’s prediction of house-length growth is not a dimension.
-
-- [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 239, ¶79 (B01-C014-P0079)](../../build/reader/book-01.html#B01-C014-P0079)
-- [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 240, ¶82 (B01-C014-P0082)](../../build/reader/book-01.html#B01-C014-P0082)
-- [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 243, ¶119 (B01-C014-P0119)](../../build/reader/book-01.html#B01-C014-P0119)
-- [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 243, ¶120 (B01-C014-P0120)](../../build/reader/book-01.html#B01-C014-P0120)
-- [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 243, ¶123 (B01-C014-P0123)](../../build/reader/book-01.html#B01-C014-P0123)
+- [Book 2, ch. 1, “The Worst Birthday”, ref p. 2–3, ¶26 (B02-C001-P0026)](../../build/reader/book-02.html#B02-C001-P0026)
 
 ## B02-025: Castle to Quidditch stadium — dawn route
 
 Harry descends the dormitory spiral stair, crosses the common room, exits the portrait hole and leaves the castle for dew-covered grass and sloping lawns down to the stadium changing rooms.
+
+Places: Gryffindor boys’ dormitories, Gryffindor common room, Grounds in general, Quidditch changing rooms and broom shed.
 
 Evidence: explicit; state: September 1992, first Saturday.
 
@@ -165,6 +153,8 @@ Model: Reaffirms downhill pitch route; dawn mist and birdsong are seasonal scene
 
 Players sit on opposite sides of the changing room with a wall behind one side; Wood presents three boards of pitch diagrams, with coloured arrows animated by a wand tap.
 
+Places: Quidditch changing rooms and broom shed.
+
 Evidence: explicit; state: September 1992, first Saturday.
 
 Model: Seating is observed without a specified bench form. Portable tactical boards do not fix pitch shape beyond the text.
@@ -180,6 +170,8 @@ Model: Seating is observed without a specified bench form. Portable tactical boa
 
 Colin occupies one of the highest spectator seats; his camera clicks sound strangely amplified across the otherwise deserted stadium. Players fly round the stadium and a corner.
 
+Places: Quidditch stands, Quidditch pitch.
+
 Evidence: explicit; state: September 1992, first Saturday.
 
 Model: Corner wording alone is insufficient for a rectangular field or square stands.
@@ -194,6 +186,8 @@ Model: Corner wording alone is insufficient for a rectangular field or square st
 ## B02-028: Stadium to Hagrid’s hut — nearby refuge
 
 Harry calls Hagrid’s the nearest place to take Ron. They leave the stadium, cross the grounds towards the Forest’s edge, and hide behind a nearby bush within twenty feet of the cabin when Lockhart emerges.
+
+Places: Quidditch pitch, Hagrid’s cabin.
 
 Evidence: explicit; state: September 1992, first Saturday.
 
@@ -211,6 +205,8 @@ Model: Observed route and bush proximity; nearest is Harry’s judgment, not a m
 ## B02-065: Quidditch pitch — rain, mud and rogue Bludger
 
 Heavy rain reduces visibility during the match and turns the landing surface muddy. One Bludger repeatedly pursues Harry despite being struck away; after the match the twins restrain it in a box.
+
+Places: Quidditch pitch.
 
 Evidence: explicit; state: November 1992.
 
@@ -238,6 +234,8 @@ Model: A temporary altered ball behaviour, not a change to the pitch’s normal 
 
 At the marble staircase after breakfast Harry hears the voice again. Hermione runs upstairs towards the library while other pupils leave the Great Hall through the front doors for the pitch. Harry collects his broom in Gryffindor Tower before crossing the grounds to the changing room.
 
+Places: Great Hall, Marble staircase, Library, Quidditch pitch.
+
 Evidence: explicit; state: Spring 1993.
 
 Model: Upstairs library route, front-door stadium route; voice location/mechanism still unresolved.
@@ -258,6 +256,8 @@ Model: Upstairs library route, front-door stadium route; voice location/mechanis
 
 After the match is cancelled, McGonagall leads the boys back to the castle and up the marble staircase to the hospital wing.
 
+Places: Quidditch pitch, Marble staircase, Hospital wing.
+
 Evidence: explicit; state: Spring 1993.
 
 Model: Adds direct stadium-to-ward journey; hospital floor is not named.
@@ -275,6 +275,8 @@ Model: Adds direct stadium-to-ward journey; hospital floor is not named.
 
 The goals include fifty-foot-high hoops at each end; the team meets in chilly changing rooms at the edge of the darkening pitch. Autumn training continues through mud, wind and rain.
 
+Places: Quidditch pitch, Quidditch changing rooms and broom shed.
+
 Evidence: explicit; state: October 1993.
 
 Model: Reaffirms height and places changing facilities at pitch edge, without a stand plan.
@@ -287,6 +289,8 @@ Model: Reaffirms height and places changing facilities at pitch edge, without a 
 ## B03-048: McGonagall’s office — pitch view and training guard
 
 From her office window McGonagall can see the Quidditch pitch through rain. She regards it as exposed and arranges Madam Hooch to supervise Harry’s evening practices; teachers and Percy also escort/watch him in corridors.
+
+Places: McGonagall’s office, Quidditch pitch.
 
 Evidence: explicit; state: After Hallowe’en 1993.
 
@@ -302,6 +306,8 @@ Model: Explicit office-to-pitch sightline; security judgment and supervision dat
 ## B03-051: Quidditch pitch — gale and umbrella shelter
 
 The school descends lawns to the pitch in strong wind. Players emerge from changing rooms on opposing sides; mud grips their feet, thunder masks cheers/commentary, and rain obscures teams and stands. During time-out Gryffindor shelters beneath a large umbrella at the pitch edge.
+
+Places: Quidditch pitch, Quidditch changing rooms and broom shed.
 
 Evidence: explicit; state: November 1993 Gryffindor–Hufflepuff match.
 
@@ -326,6 +332,8 @@ Model: Weather, visibility and temporary shelter; the water-repelling spectacle 
 
 Lightning reveals a large shaggy black dog silhouetted in the topmost otherwise empty row of seats; it has vanished when Harry looks again.
 
+Places: Quidditch stands.
+
 Evidence: explicit; state: After Hallowe’en 1993.
 
 Model: Observed brief stadium occupant, not proof of an omen or an access mechanism.
@@ -336,6 +344,8 @@ Model: Observed brief stadium occupant, not proof of an omen or an access mechan
 ## B03-053: Quidditch pitch — Dementor intrusion and hospital transfer
 
 At least a hundred Dementors gather below Harry on the pitch, bringing perceived silence and intense cold; he falls. His friends report Dumbledore slowing the fall, driving them out with silver magic and taking Harry uphill to school on a floating stretcher.
+
+Places: Quidditch pitch.
 
 Evidence: explicit; state: After Hallowe’en 1993.
 
@@ -360,6 +370,8 @@ Model: Observed incursion plus reported rescue. Fred’s fifty-foot fall estimat
 
 Madam Hooch and Ron sit in the stands during practice; Ron vaults the barrier from seating to meet Harry on the pitch. A Snitch later flies low beside one of the barriers.
 
+Places: Quidditch stands, Quidditch pitch.
+
 Evidence: explicit; state: February 1994.
 
 Model: Explicit separation between spectator area and pitch; barrier material and height unstated.
@@ -377,6 +389,8 @@ Model: Explicit separation between spectator area and pitch; barrier material an
 
 Halfway from the stadium to the castle, a tree stands to Harry’s left with budding leaves and Crookshanks in its branches. Stones lie on the grass beneath; the route ends at the lit Entrance Hall.
 
+Places: Front lawns and slopes, Quidditch pitch, Entrance Hall.
+
 Evidence: explicit; state: February 1994.
 
 Model: Side relative to inward travel; tree is not identified as the Willow or given a species.
@@ -391,6 +405,8 @@ Model: Side relative to inward travel; tree is not identified as the Willow or g
 ## B03-084: Quidditch match — false Dementors at pitch edge
 
 During a clear cool match with little breeze, Harry casts a large silver-white Patronus towards three apparent Dementors below him. They prove to be four Slytherins in hooded robes, one apparently on another’s shoulders, at the pitch edge.
+
+Places: Quidditch pitch.
 
 Evidence: explicit; state: February 1994.
 
@@ -419,6 +435,8 @@ Model: No actual Dementor incursion this time. Team-supporter ends and clear-wea
 
 At the final the ground is fairly hard, wind slight and sun bright enough to risk vision. From the pitch the team can see distant castle front doors opening and pupils emerging onto the lawn.
 
+Places: Quidditch pitch, Front steps and front doors.
+
 Evidence: explicit; state: Easter 1994 and Quidditch final.
 
 Model: Clear pitch-to-front-entrance line of sight and seasonal turf state; no numerical distance.
@@ -433,6 +451,8 @@ Model: Clear pitch-to-front-entrance line of sight and seasonal turf state; no n
 ## B03-106: Quidditch final — supporter areas and megaphone
 
 About three-quarters of supporters wear scarlet, flags and lion banners, while roughly two hundred green-clad Slytherins gather behind their goalposts, Snape in the front row. Lee uses a magical megaphone. At victory supporters pour over pitch barriers and the Cup waits with Dumbledore in the stands.
+
+Places: Quidditch stands, Quidditch pitch.
 
 Evidence: explicit; state: Easter 1994 and Quidditch final.
 
@@ -458,86 +478,37 @@ Model: Dated crowd distribution, sound fixture and trophy presentation. Scoring 
 - [Book 3, ch. 15, “The Quidditch Final”, ref p. 314–315, ¶207 (B03-C015-P0207)](../../build/reader/book-03.html#B03-C015-P0207)
 - [Book 3, ch. 15, “The Quidditch Final”, ref p. 315, ¶208 (B03-C015-P0208)](../../build/reader/book-03.html#B03-C015-P0208)
 
-## B03-131: Shrieking Shack: upstairs bedroom enclosure and confrontation
+## B04-091: First-task approach and champions’ tent
 
-The upstairs bedroom’s windows are boarded and it has only one door. The simultaneous disarming spells blast Snape against a wall and rattle the door on its hinges; his wand lands on the bed. Crookshanks later leads the party out of this room.
+McGonagall leads Harry down the front stone steps and around the Forest edge towards the dragon enclosure. A tent erected before the screening trees faces the approach and blocks the dragons from view. Inside are low wooden stools and space for pacing; the audience passes outside, and crowd noise and amplified commentary are audible inside. A short walk from the tent enters the trees.
 
-Evidence: explicit; state: End of third year; Shack confrontation.
+Places: First-task arena, Forest edge, Front steps and front doors.
 
-Model: The blast is observed, but no permanent breakage of the door or wall is stated. “Three strides” is Harry’s movement from his then position, not a room dimension.
+Evidence: explicit; state: 24 November 1994, first task.
 
-- [Book 3, ch. 19, “The Servant of Lord Voldemort”, ref p. 362, ¶23 (B03-C019-P0023)](../../build/reader/book-03.html#B03-C019-P0023)
-- [Book 3, ch. 19, “The Servant of Lord Voldemort”, ref p. 363, ¶30 (B03-C019-P0030)](../../build/reader/book-03.html#B03-C019-P0030)
-- [Book 3, ch. 19, “The Servant of Lord Voldemort”, ref p. 363, ¶31 (B03-C019-P0031)](../../build/reader/book-03.html#B03-C019-P0031)
-- [Book 3, ch. 19, “The Servant of Lord Voldemort”, ref p. 370, ¶94 (B03-C019-P0094)](../../build/reader/book-03.html#B03-C019-P0094)
-- [Book 3, ch. 19, “The Servant of Lord Voldemort”, ref p. 372, ¶111 (B03-C019-P0111)](../../build/reader/book-03.html#B03-C019-P0111)
-- [Book 3, ch. 19, “The Servant of Lord Voldemort”, ref p. 380, ¶193 (B03-C019-P0193)](../../build/reader/book-03.html#B03-C019-P0193)
+Model: The competition uses the place of the previously visited enclosure; no unexplained relocation is needed. Preserve the approach-facing tent and auditory connection.
 
-## B04-078: Forest perimeter to hidden dragon enclosure
-
-Hagrid leads the party around the Forest perimeter until the castle and lake are out of sight, then around a clump of trees to the dragon enclosure. On his return Harry skirts the Forest edge, encounters Karkaroff near the trees, and enters the castle front doors before climbing the marble stairs and continuing to Gryffindor.
-
-Evidence: explicit; state: November 1994, before first task.
-
-Model: Tree screening and route ordering are explicit; the exact enclosure bearing and distance from castle are not. The return takes Harry from under fifteen minutes remaining to under five at the castle, but his pace is unknown.
-
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 340, ¶92 (B04-C019-P0092)](../../build/reader/book-04.html#B04-C019-P0092)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 340, ¶96 (B04-C019-P0096)](../../build/reader/book-04.html#B04-C019-P0096)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 340, ¶97 (B04-C019-P0097)](../../build/reader/book-04.html#B04-C019-P0097)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 340–341, ¶98 (B04-C019-P0098)](../../build/reader/book-04.html#B04-C019-P0098)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 344, ¶124 (B04-C019-P0124)](../../build/reader/book-04.html#B04-C019-P0124)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 345, ¶126 (B04-C019-P0126)](../../build/reader/book-04.html#B04-C019-P0126)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 345, ¶129 (B04-C019-P0129)](../../build/reader/book-04.html#B04-C019-P0129)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 345–346, ¶130 (B04-C019-P0130)](../../build/reader/book-04.html#B04-C019-P0130)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 346, ¶132 (B04-C019-P0132)](../../build/reader/book-04.html#B04-C019-P0132)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 346, ¶133 (B04-C019-P0133)](../../build/reader/book-04.html#B04-C019-P0133)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 346, ¶134 (B04-C019-P0134)](../../build/reader/book-04.html#B04-C019-P0134)
-
-## B04-079: Dragon holding enclosure
-
-Four adult dragons occupy an enclosure fenced with thick wooden planks. About thirty keepers restrain them using chains fixed to heavy leather neck and leg straps; after Stunning them, the keepers secure chains to iron pegs driven deep into the ground. The rearing dragons’ extended mouths are fifty feet high and their fire lights the night.
-
-Evidence: explicit; state: November 1994, before first task.
-
-Model: Temporary first-task holding installation, separate from the later spectator arena unless further evidence connects them. Do not use the dragons’ rearing height as fence height.
-
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 341, ¶100 (B04-C019-P0100)](../../build/reader/book-04.html#B04-C019-P0100)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 341, ¶101 (B04-C019-P0101)](../../build/reader/book-04.html#B04-C019-P0101)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 342, ¶104 (B04-C019-P0104)](../../build/reader/book-04.html#B04-C019-P0104)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 342, ¶105 (B04-C019-P0105)](../../build/reader/book-04.html#B04-C019-P0105)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 342, ¶106 (B04-C019-P0106)](../../build/reader/book-04.html#B04-C019-P0106)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 342, ¶107 (B04-C019-P0107)](../../build/reader/book-04.html#B04-C019-P0107)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 342, ¶108 (B04-C019-P0108)](../../build/reader/book-04.html#B04-C019-P0108)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 342, ¶109 (B04-C019-P0109)](../../build/reader/book-04.html#B04-C019-P0109)
-
-## B04-080: Dragon enclosure occupants and eggs
-
-The enclosure holds a blue-grey horned Swedish Short-Snout, a smaller smooth green Welsh dragon, a red Chinese Fireball with facial gold spikes, and a black Hungarian Horntail with bronze tail spikes every few inches. Keepers lay huge granite-grey eggs beside the Horntail.
-
-Evidence: explicit; state: November 1994, before first task.
-
-Model: Includes visually distinctive creatures as the enclosure’s dated contents. Charlie supplies breed names and says nesting mothers were requested; biological details do not define permanent terrain.
-
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 341, ¶100 (B04-C019-P0100)](../../build/reader/book-04.html#B04-C019-P0100)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 343, ¶111 (B04-C019-P0111)](../../build/reader/book-04.html#B04-C019-P0111)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 343, ¶112 (B04-C019-P0112)](../../build/reader/book-04.html#B04-C019-P0112)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 343, ¶118 (B04-C019-P0118)](../../build/reader/book-04.html#B04-C019-P0118)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 343–344, ¶119 (B04-C019-P0119)](../../build/reader/book-04.html#B04-C019-P0119)
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 344, ¶120 (B04-C019-P0120)](../../build/reader/book-04.html#B04-C019-P0120)
-
-## B04-081: Dragon-fire clearance
-
-A keeper warns that the dragons can project fire twenty feet and that the Horntail has reached forty feet.
-
-Evidence: reported; state: November 1994, before first task.
-
-Model: Reported hazard ranges for modelling the temporary enclosure; do not confuse these horizontal fire ranges with the narrated fifty-foot rearing height.
-
-- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 341–342, ¶102 (B04-C019-P0102)](../../build/reader/book-04.html#B04-C019-P0102)
+- [Book 4, ch. 20, “The First Task”, ref p. 364, ¶93 (B04-C020-P0093)](../../build/reader/book-04.html#B04-C020-P0093)
+- [Book 4, ch. 20, “The First Task”, ref p. 365, ¶100 (B04-C020-P0100)](../../build/reader/book-04.html#B04-C020-P0100)
+- [Book 4, ch. 20, “The First Task”, ref p. 365–366, ¶103 (B04-C020-P0103)](../../build/reader/book-04.html#B04-C020-P0103)
+- [Book 4, ch. 20, “The First Task”, ref p. 366, ¶104 (B04-C020-P0104)](../../build/reader/book-04.html#B04-C020-P0104)
+- [Book 4, ch. 20, “The First Task”, ref p. 366, ¶105 (B04-C020-P0105)](../../build/reader/book-04.html#B04-C020-P0105)
+- [Book 4, ch. 20, “The First Task”, ref p. 366, ¶106 (B04-C020-P0106)](../../build/reader/book-04.html#B04-C020-P0106)
+- [Book 4, ch. 20, “The First Task”, ref p. 367, ¶110 (B04-C020-P0110)](../../build/reader/book-04.html#B04-C020-P0110)
+- [Book 4, ch. 20, “The First Task”, ref p. 367, ¶111 (B04-C020-P0111)](../../build/reader/book-04.html#B04-C020-P0111)
+- [Book 4, ch. 20, “The First Task”, ref p. 368, ¶116 (B04-C020-P0116)](../../build/reader/book-04.html#B04-C020-P0116)
+- [Book 4, ch. 20, “The First Task”, ref p. 368, ¶117 (B04-C020-P0117)](../../build/reader/book-04.html#B04-C020-P0117)
+- [Book 4, ch. 20, “The First Task”, ref p. 369, ¶126 (B04-C020-P0126)](../../build/reader/book-04.html#B04-C020-P0126)
+- [Book 4, ch. 20, “The First Task”, ref p. 369, ¶127 (B04-C020-P0127)](../../build/reader/book-04.html#B04-C020-P0127)
+- [Book 4, ch. 20, “The First Task”, ref p. 369–370, ¶128 (B04-C020-P0128)](../../build/reader/book-04.html#B04-C020-P0128)
+- [Book 4, ch. 20, “The First Task”, ref p. 370, ¶133 (B04-C020-P0133)](../../build/reader/book-04.html#B04-C020-P0133)
+- [Book 4, ch. 20, “The First Task”, ref p. 371, ¶140 (B04-C020-P0140)](../../build/reader/book-04.html#B04-C020-P0140)
 
 ## B04-092: First-task arena and stands
 
 From the tent Harry passes trees and a gap in the fence into the enclosure. Newly conjured spectator stands rise above him with hundreds of faces looking down. The Horntail crouches at the far end over her eggs on hard ground, cutting yard-long gouges with her tail.
+
+Places: First-task arena, Dragon enclosure.
 
 Evidence: explicit; state: 24 November 1994, first task.
 
@@ -547,9 +518,36 @@ Model: Explicitly adds stands to the earlier holding site. The yard measurement 
 - [Book 4, ch. 20, “The First Task”, ref p. 371–372, ¶141 (B04-C020-P0141)](../../build/reader/book-04.html#B04-C020-P0141)
 - [Book 4, ch. 20, “The First Task”, ref p. 373, ¶149 (B04-C020-P0149)](../../build/reader/book-04.html#B04-C020-P0149)
 
+## B04-093: First-task aerial clearance and Summoning route
+
+The summoned Firebolt approaches behind Harry around the edge of the woods and enters the enclosure. Harry flies high above the dragon, circles and dives, then flies over and back across the stands to land near the enclosure entrance.
+
+Places: First-task arena.
+
+Evidence: explicit; state: 24 November 1994, first task.
+
+Model: Observed open aerial route and magical object delivery from the castle. The text does not show the Firebolt’s entire path out of its storage place. The shimmering view before arrival is Harry’s stressed perception, not a confirmed magical barrier.
+
+- [Book 4, ch. 20, “The First Task”, ref p. 372, ¶143 (B04-C020-P0143)](../../build/reader/book-04.html#B04-C020-P0143)
+- [Book 4, ch. 20, “The First Task”, ref p. 372, ¶144 (B04-C020-P0144)](../../build/reader/book-04.html#B04-C020-P0144)
+- [Book 4, ch. 20, “The First Task”, ref p. 372, ¶145 (B04-C020-P0145)](../../build/reader/book-04.html#B04-C020-P0145)
+- [Book 4, ch. 20, “The First Task”, ref p. 372, ¶146 (B04-C020-P0146)](../../build/reader/book-04.html#B04-C020-P0146)
+- [Book 4, ch. 20, “The First Task”, ref p. 372, ¶147 (B04-C020-P0147)](../../build/reader/book-04.html#B04-C020-P0147)
+- [Book 4, ch. 20, “The First Task”, ref p. 373, ¶150 (B04-C020-P0150)](../../build/reader/book-04.html#B04-C020-P0150)
+- [Book 4, ch. 20, “The First Task”, ref p. 373, ¶152 (B04-C020-P0152)](../../build/reader/book-04.html#B04-C020-P0152)
+- [Book 4, ch. 20, “The First Task”, ref p. 373, ¶153 (B04-C020-P0153)](../../build/reader/book-04.html#B04-C020-P0153)
+- [Book 4, ch. 20, “The First Task”, ref p. 373–374, ¶154 (B04-C020-P0154)](../../build/reader/book-04.html#B04-C020-P0154)
+- [Book 4, ch. 20, “The First Task”, ref p. 374, ¶157 (B04-C020-P0157)](../../build/reader/book-04.html#B04-C020-P0157)
+- [Book 4, ch. 20, “The First Task”, ref p. 374, ¶158 (B04-C020-P0158)](../../build/reader/book-04.html#B04-C020-P0158)
+- [Book 4, ch. 20, “The First Task”, ref p. 374–375, ¶160 (B04-C020-P0160)](../../build/reader/book-04.html#B04-C020-P0160)
+- [Book 4, ch. 20, “The First Task”, ref p. 375, ¶161 (B04-C020-P0161)](../../build/reader/book-04.html#B04-C020-P0161)
+- [Book 4, ch. 20, “The First Task”, ref p. 375, ¶163 (B04-C020-P0163)](../../build/reader/book-04.html#B04-C020-P0163)
+
 ## B04-094: First-aid tent at first task
 
 A second tent outside the enclosure serves as first aid. It is divided into cubicles by canvas; Cedric’s sitting silhouette is visible through a partition. Pomfrey moves from Harry’s area to the adjacent treatment space.
+
+Places: First-task arena.
 
 Evidence: explicit; state: 24 November 1994, first task.
 
@@ -564,27 +562,56 @@ Model: Separate from the champions’ waiting tent. Preserve translucent canvas 
 - [Book 4, ch. 20, “The First Task”, ref p. 377, ¶175 (B04-C020-P0175)](../../build/reader/book-04.html#B04-C020-P0175)
 - [Book 4, ch. 20, “The First Task”, ref p. 378, ¶190 (B04-C020-P0190)](../../build/reader/book-04.html#B04-C020-P0190)
 
-## B04-158: Second-task lake approach and stands
+## B04-095: First-task terrain changes in other trials
 
-Harry descends from the library through corridors and stairs into the Entrance Hall, exits the double oak doors and front stone steps, then runs down the lawn and around the lake. The former dragon-arena spectator seats are now ranged along the opposite bank in full stands reflected in the water; voices echo across it. A gold-draped judges’ table stands at the muddy water’s edge.
+Ron reports that Cedric Transfigured a rock in the arena into a dog, while Krum’s eye spell caused his dragon to trample and crush about half the real eggs.
 
-Evidence: explicit; state: Late January–24 February 1995; second-task preparation and event.
+Places: First-task arena.
 
-Model: Preserve the lake circuit approach and relocated stands; opposite bank is relative to Harry’s initial approach.
+Evidence: reported; state: 24 November 1994, earlier competitors.
 
-- [Book 4, ch. 26, “The Second Task”, ref p. 518, ¶108 (B04-C026-P0108)](../../build/reader/book-04.html#B04-C026-P0108)
-- [Book 4, ch. 26, “The Second Task”, ref p. 518, ¶109 (B04-C026-P0109)](../../build/reader/book-04.html#B04-C026-P0109)
-- [Book 4, ch. 26, “The Second Task”, ref p. 518, ¶110 (B04-C026-P0110)](../../build/reader/book-04.html#B04-C026-P0110)
-- [Book 4, ch. 26, “The Second Task”, ref p. 518–519, ¶111 (B04-C026-P0111)](../../build/reader/book-04.html#B04-C026-P0111)
-- [Book 4, ch. 26, “The Second Task”, ref p. 519, ¶112 (B04-C026-P0112)](../../build/reader/book-04.html#B04-C026-P0112)
-- [Book 4, ch. 26, “The Second Task”, ref p. 519, ¶113 (B04-C026-P0113)](../../build/reader/book-04.html#B04-C026-P0113)
-- [Book 4, ch. 26, “The Second Task”, ref p. 519, ¶115 (B04-C026-P0115)](../../build/reader/book-04.html#B04-C026-P0115)
-- [Book 4, ch. 26, “The Second Task”, ref p. 519–520, ¶118 (B04-C026-P0118)](../../build/reader/book-04.html#B04-C026-P0118)
-- [Book 4, ch. 26, “The Second Task”, ref p. 520, ¶121 (B04-C026-P0121)](../../build/reader/book-04.html#B04-C026-P0121)
+Model: Reported earlier rounds; the rock supplies a terrain object and the eggs record temporary damage. Harry did not directly see those rounds.
+
+- [Book 4, ch. 20, “The First Task”, ref p. 378–379, ¶191 (B04-C020-P0191)](../../build/reader/book-04.html#B04-C020-P0191)
+
+## B04-096: First-task judges’ position
+
+After the Horntail is removed, five judges are visible at the opposite end of the enclosure in raised seats draped in gold. They display scores as large magical numerals in the air.
+
+Places: First-task arena.
+
+Evidence: explicit; state: 24 November 1994, judging.
+
+Model: Visibility is obstructed by the dragon until removal. The seats are raised but their supporting structure and height are unstated.
+
+- [Book 4, ch. 20, “The First Task”, ref p. 379, ¶192 (B04-C020-P0192)](../../build/reader/book-04.html#B04-C020-P0192)
+- [Book 4, ch. 20, “The First Task”, ref p. 379, ¶193 (B04-C020-P0193)](../../build/reader/book-04.html#B04-C020-P0193)
+- [Book 4, ch. 20, “The First Task”, ref p. 379, ¶195 (B04-C020-P0195)](../../build/reader/book-04.html#B04-C020-P0195)
+- [Book 4, ch. 20, “The First Task”, ref p. 379, ¶197 (B04-C020-P0197)](../../build/reader/book-04.html#B04-C020-P0197)
+- [Book 4, ch. 20, “The First Task”, ref p. 379, ¶198 (B04-C020-P0198)](../../build/reader/book-04.html#B04-C020-P0198)
+- [Book 4, ch. 20, “The First Task”, ref p. 380, ¶201 (B04-C020-P0201)](../../build/reader/book-04.html#B04-C020-P0201)
+
+## B04-097: First-task return route
+
+After revisiting the champions’ tent Harry and Ron return around the Forest edge and pass the clump of trees which screened the first dragon sighting before continuing to the castle.
+
+Places: First-task arena, Forest edge.
+
+Evidence: explicit; state: 24 November 1994, after first task.
+
+Model: Confirms the same screening clump on the return route; Rita’s hiding place is temporary.
+
+- [Book 4, ch. 20, “The First Task”, ref p. 380, ¶204 (B04-C020-P0204)](../../build/reader/book-04.html#B04-C020-P0204)
+- [Book 4, ch. 20, “The First Task”, ref p. 380–381, ¶205 (B04-C020-P0205)](../../build/reader/book-04.html#B04-C020-P0205)
+- [Book 4, ch. 20, “The First Task”, ref p. 381–382, ¶210 (B04-C020-P0210)](../../build/reader/book-04.html#B04-C020-P0210)
+- [Book 4, ch. 20, “The First Task”, ref p. 382, ¶211 (B04-C020-P0211)](../../build/reader/book-04.html#B04-C020-P0211)
+- [Book 4, ch. 20, “The First Task”, ref p. 382, ¶214 (B04-C020-P0214)](../../build/reader/book-04.html#B04-C020-P0214)
 
 ## B04-185: Castle to Quidditch pitch
 
 Harry and Cedric walk down the dark lawn to the Quidditch stadium and enter the pitch through a gap in the stands.
+
+Places: Quidditch pitch, Quidditch stands, Front lawns and slopes.
 
 Evidence: explicit; state: March–late May 1995; maze briefing and Crouch encounter in late May.
 
@@ -596,6 +623,8 @@ Model: Preserve the descending approach and stand gap without inventing a separa
 ## B04-186: Quidditch pitch growing maze
 
 The normally smooth flat pitch now carries long low hedges twisting and crossing all over it. The champions climb over them to reach Bagman in the middle. Bagman says Hagrid will have them twenty feet high in a month, the Cup will be at the centre, and creatures and spells will obstruct the routes; he promises restoration of the pitch afterwards.
+
+Places: Third-task maze, Quidditch pitch.
 
 Evidence: explicit; state: March–late May 1995; maze briefing and Crouch encounter in late May.
 
@@ -617,6 +646,8 @@ Model: Distinguish observed low hedges from reported planned final height, obsta
 
 Krum and Harry leave the stadium towards the Forest rather than the ship, pass Hagrid’s cabin and lit carriage, and stop in tree shade a short way beyond the horse paddock. Crouch emerges from behind a tall oak there.
 
+Places: Forest edge, Quidditch pitch, Hagrid’s cabin, Beauxbatons carriage and paddock.
+
 Evidence: explicit; state: March–late May 1995; maze briefing and Crouch encounter in late May.
 
 Model: A continuous route with a named tree species and local screening, not an established secret passage.
@@ -634,6 +665,8 @@ Model: A continuous route with a named tree species and local screening, not an 
 ## B04-210: Third-task maze exterior and safety patrol
 
 The Quidditch pitch is enclosed by a twenty-foot hedge with an entrance gap facing the arriving champions and a dark path beyond. Spectators occupy the stands. Four staff patrol outside the maze in separate directions, marked by luminous red stars, and explain that red sparks signal a rescue.
+
+Places: Third-task maze, Quidditch stands.
 
 Evidence: explicit; state: June 1995 preparation and 24 June third task; history where stated.
 
@@ -655,6 +688,8 @@ Model: The previously planned twenty-foot height is now observed. Rescue by spar
 
 High thick hedges shadow the path and silence the outside crowd immediately on entry, though subsequent starting whistles can be heard. Harry and Cedric reach a fork about fifty yards in; Harry takes left, Cedric right, and Harry then turns right. The maze darkens as the sky becomes navy.
 
+Places: Third-task maze.
+
 Evidence: explicit; state: June 1995 preparation and 24 June third task; history where stated.
 
 Model: The cause of crowd suppression may be hedge density or enchantment; narrator leaves it uncertain. Fifty yards measures entry to first fork only.
@@ -669,6 +704,8 @@ Model: The cause of crowd suppression may be hedge density or enchantment; narra
 ## B04-212: Maze north-west course and rejoining paths
 
 At a second fork Harry’s Four-Point Spell indicates north through the hedge to his right. He needs north-west for the centre, takes left and then an available right. Cedric emerges from a path on the right and departs down another path. Later Harry encounters left/right turns and dead ends, checks that he has strayed east, and backtracks.
+
+Places: Third-task maze.
 
 Evidence: explicit; state: June 1995 preparation and 24 June third task; history where stated.
 
@@ -686,6 +723,8 @@ Model: A compass constraint and ordered local route, not enough for a unique ful
 
 Around a corner a twelve-foot Dementor shape approaches Harry, producing cold and rattling breathing. A Patronus drives it back and it stumbles, exposing a Boggart; Riddikulus dispels it as smoke.
 
+Places: Third-task maze.
+
 Evidence: explicit; state: June 1995 preparation and 24 June third task; history where stated.
 
 Model: A tournament obstacle with transformed appearance, not a real Dementor permanently stationed in the grounds.
@@ -700,6 +739,8 @@ Model: A tournament obstacle with transformed appearance, not a real Dementor pe
 ## B04-214: Maze golden mist
 
 Golden mist blocks a path, unaffected by Reducto. Running through it makes Harry experience ground overhead and starry sky beneath him while his feet seem stuck to the grass. Pulling one foot free restores normal orientation and he emerges from the mist to a junction, taking right.
+
+Places: Third-task maze.
 
 Evidence: explicit; state: June 1995 preparation and 24 June third task; history where stated.
 
@@ -723,6 +764,8 @@ Model: Observed disorientation enchantment; the text does not prove the whole wo
 
 After ten minutes of dead ends and a repeated wrong turn, Harry rounds a corner into a ten-foot armoured Skrewt. Spells rebound from its armour until Impedimenta hits its soft underside. Harry escapes, finds more left/right dead ends, backtracks and selects a north-westward path.
 
+Places: Third-task maze.
+
 Evidence: explicit; state: June 1995 preparation and 24 June third task; history where stated.
 
 Model: Creature size and spell interaction govern local clearance and hazard design; its frozen state is temporary.
@@ -738,6 +781,8 @@ Model: Creature size and spell interaction govern local clearance and hazard des
 ## B04-216: Maze parallel path breach
 
 Harry hears Cedric and Krum in a parallel path but cannot find a connecting route. Reducto burns a small hole in the hedge; he kicks through thick brambles and branches, tears his robes passing through, and sees them to his right. After Krum is Stunned face-down in the grass, Cedric shoots red rescue sparks above him; the two continue and split left/right.
+
+Places: Third-task maze.
 
 Evidence: explicit; state: June 1995 preparation and 24 June third task; history where stated.
 
@@ -761,6 +806,8 @@ Model: A damaged local hedge connection, with audible voices across the barrier.
 ## B04-217: Maze sphinx checkpoint
 
 Past further dead ends a sphinx blocks a long straight path near the goal. It paces side to side, then sits in the middle and states that the quickest route passes it; a correct first riddle answer permits passage, a wrong answer provokes attack, and silence permits retreat. It moves aside when Harry answers spider.
+
+Places: Third-task maze.
 
 Evidence: explicit; state: June 1995 preparation and 24 June third task; history where stated.
 
@@ -803,6 +850,8 @@ Model: Creature checkpoint and conditional access; no permanent stone gateway is
 
 At a later fork Harry follows the wand-guided right-hand path and sees the gleaming Cup on a plinth a hundred yards ahead. Cedric joins from another route. A gigantic spider visible over the left hedge advances along an intersecting path; it lifts and drops Harry twelve feet, then combined Stunning Spells topple it sideways, flattening a hedge and filling the path with tangled legs. The Cup is only feet from Cedric after the fight.
 
+Places: Third-task maze.
+
 Evidence: explicit; state: June 1995 preparation and 24 June third task; history where stated.
 
 Model: Preserve local crossing, final straight view, plinth and temporary hedge damage. The twelve-foot fall is not a measured spider height.
@@ -831,6 +880,8 @@ Model: Preserve local crossing, final straight view, plinth and temporary hedge 
 
 When Harry and Cedric grasp the Cup’s handles together at its plinth, both are pulled off the ground and transported while unable to release it.
 
+Places: Third-task maze, Protections and security.
+
 Evidence: explicit; state: June 1995 preparation and 24 June third task; history where stated.
 
 Model: Observed Portkey effect inside Hogwarts grounds. This is distinct from Apparition restrictions and does not establish that all Portkeys are blocked or enabled.
@@ -847,9 +898,43 @@ Model: Observed Portkey effect inside Hogwarts grounds. This is distinct from Ap
 - [Book 4, ch. 31, “The Third Task”, ref p. 671, ¶268 (B04-C031-P0268)](../../build/reader/book-04.html#B04-C031-P0268)
 - [Book 4, ch. 31, “The Third Task”, ref p. 671, ¶269 (B04-C031-P0269)](../../build/reader/book-04.html#B04-C031-P0269)
 
+## B04-221: Triwizard Cup illicit Portkey alteration
+
+Voldemort says his agent at Hogwarts converted the Cup into a Portkey so that the first champion touching it would be transported beyond Dumbledore’s protection.
+
+Places: Third-task maze, Protections and security.
+
+Evidence: reported; state: 24 June 1995, after third-task departure.
+
+Model: A reported hostile modification, distinct from an ordinary route to the school. Other protective statements here are general and do not establish new castle walls or wards.
+
+- [Book 4, ch. 33, “The Death Eaters”, ref p. 687–688, ¶70 (B04-C033-P0070)](../../build/reader/book-04.html#B04-C033-P0070)
+- [Book 4, ch. 33, “The Death Eaters”, ref p. 694–695, ¶95 (B04-C033-P0095)](../../build/reader/book-04.html#B04-C033-P0095)
+- [Book 4, ch. 33, “The Death Eaters”, ref p. 695, ¶96 (B04-C033-P0096)](../../build/reader/book-04.html#B04-C033-P0096)
+
+## B04-222: Triwizard Cup return route
+
+James’s echo tells Harry the Cup will return him to Hogwarts. Harry summons it while holding Cedric’s body, grasps its handle, and the Portkey transports both away together.
+
+Places: Third-task maze.
+
+Evidence: explicit; state: 24 June 1995, after third-task departure.
+
+Model: Observed reuse and transport of a person/body in contact with the holder. Arrival location is supplied by the next chapter; the remote graveyard itself is outside the model scope.
+
+- [Book 4, ch. 34, “Priori Incantatem”, ref p. 706, ¶53 (B04-C034-P0053)](../../build/reader/book-04.html#B04-C034-P0053)
+- [Book 4, ch. 34, “Priori Incantatem”, ref p. 706, ¶55 (B04-C034-P0055)](../../build/reader/book-04.html#B04-C034-P0055)
+- [Book 4, ch. 34, “Priori Incantatem”, ref p. 707–708, ¶63 (B04-C034-P0063)](../../build/reader/book-04.html#B04-C034-P0063)
+- [Book 4, ch. 34, “Priori Incantatem”, ref p. 708, ¶65 (B04-C034-P0065)](../../build/reader/book-04.html#B04-C034-P0065)
+- [Book 4, ch. 34, “Priori Incantatem”, ref p. 708, ¶67 (B04-C034-P0067)](../../build/reader/book-04.html#B04-C034-P0067)
+- [Book 4, ch. 34, “Priori Incantatem”, ref p. 708, ¶68 (B04-C034-P0068)](../../build/reader/book-04.html#B04-C034-P0068)
+- [Book 4, ch. 34, “Priori Incantatem”, ref p. 708, ¶69 (B04-C034-P0069)](../../build/reader/book-04.html#B04-C034-P0069)
+
 ## B04-223: Portkey landing at maze edge
 
 The returning Cup deposits Harry and Cedric’s body on grass at the edge of the maze, below the spectator stands and open starry sky, where the crowd can close in around them.
+
+Places: Third-task maze, Quidditch stands.
 
 Evidence: explicit; state: 24 June 1995 return and interrogation; prior-year events where reported.
 
@@ -869,6 +954,8 @@ Model: The return target is the maze edge, rather than necessarily the central p
 
 The impostor takes Harry across the lawn past the lake and ship, up the castle stone steps, through the Entrance Hall, up the marble staircase and along a corridor into Moody’s office.
 
+Places: Third-task maze, Entrance Hall, Marble staircase, Defence teacher’s office.
+
 Evidence: explicit; state: 24 June 1995 return and interrogation; prior-year events where reported.
 
 Model: A contiguous sequence without an exact floor number. The destination is concealed from Harry under the claim of hospital care.
@@ -886,6 +973,8 @@ Model: A contiguous sequence without an exact floor number. The destination is c
 
 Crouch says his borrowed magical eye let him see through the outer maze hedges while patrolling and remove obstacles with curses. He says he Stunned Fleur and placed Krum under Imperius to attack Cedric.
 
+Places: Third-task maze.
+
 Evidence: reported; state: 24 June 1995 return and interrogation; prior-year events where reported.
 
 Model: Reported hostile intervention explains an unusually clear route; do not generalise Harry’s low obstacle count to the intended maze population.
@@ -899,6 +988,8 @@ Model: Reported hostile intervention explains an unusually clear route; do not g
 
 Crouch reports volunteering to carry the Cup into the maze before dinner and converting it into the Portkey.
 
+Places: Third-task maze.
+
 Evidence: reported; state: 24 June 1995 return and interrogation; prior-year events where reported.
 
 Model: Reported timing and means of illicit route creation; supports the observed transport and Voldemort’s account.
@@ -911,6 +1002,8 @@ Model: Reported timing and means of illicit route creation; supports the observe
 
 During the broom journey Harry recalls extreme cold while playing Hufflepuff in a storm in his third year.
 
+Places: Quidditch pitch.
+
 Evidence: explicit; state: Recollection in August 1995 of third-year Quidditch storm.
 
 Model: Narrated weather memory, without a new pitch layout or numerical temperature. The present broom flight ends in London and is not a Hogwarts access route.
@@ -921,6 +1014,8 @@ Model: Narrated weather memory, without a new pitch layout or numerical temperat
 
 Angelina says she has booked the pitch for Friday’s Keeper trials.
 
+Places: Quidditch pitch.
+
 Evidence: reported; state: First school week, September 1995.
 
 Model: Reported scheduled use, not permanent physical exclusivity.
@@ -930,6 +1025,8 @@ Model: Reported scheduled use, not permanent physical exclusivity.
 ## B05-058: Umbridge window and Quidditch sightline
 
 Her office has a window through which darkness falls. Moving his chair about an inch to the right gives Harry a distant view of Keeper trials and three high goalposts; individual identities remain too distant to resolve. The pitch disappears from view after nightfall.
+
+Places: Defence teacher’s office, Quidditch pitch.
 
 Evidence: explicit; state: First school week, September 1995.
 
@@ -946,6 +1043,8 @@ Model: Explicit third-floor office-to-pitch sightline; no compass direction or d
 
 Harry and Ron walk downhill over sloping lawns to the pitch. Approaching it, Harry sees the Forbidden Forest to his right and owls around the Owlery tower.
 
+Places: Front lawns and slopes, Quidditch pitch.
+
 Evidence: explicit; state: First September weekend, 1995.
 
 Model: Right is relative to this approach, not a compass direction. Preserve reciprocal castle/pitch travel.
@@ -957,6 +1056,8 @@ Model: Right is relative to this approach, not a compass direction. Preserve rec
 ## B05-067: Quidditch changing-room facilities
 
 A cupboard in the changing room stores balls. Angelina enters from the Captain’s office; players carry a ball crate onto the pitch and change back after practice.
+
+Places: Quidditch changing rooms and broom shed.
 
 Evidence: explicit; state: First September weekend, 1995.
 
@@ -974,6 +1075,8 @@ Model: Connect Captain’s office to changing-room circulation; no full room pla
 ## B05-068: Quidditch stadium goal and stand layout
 
 The pitch has three tall goalposts at the defended end, including left, middle and right hoops. Spectators halfway up the stands can jeer audibly across the stadium. Practice uses the opposite end and a ball crate on the ground.
+
+Places: Quidditch pitch, Quidditch stands.
 
 Evidence: explicit; state: First September weekend, 1995.
 
@@ -994,6 +1097,8 @@ Model: Goals at opposite ends are explicit in action; no dimensions inferred.
 
 Fred and George fly toward the castle supporting injured Katie between them after Angelina says she needs the hospital wing.
 
+Places: Quidditch pitch, Hospital wing.
+
 Evidence: explicit; state: First September weekend, 1995.
 
 Model: Airborne departure is observed; actual hospital entry and route inside are not narrated.
@@ -1006,6 +1111,8 @@ Model: Airborne departure is observed; actual hospital entry and route inside ar
 ## B05-102: Quidditch changing building
 
 The changing rooms are warm and lit, with a roof audibly struck by rain, a window, benches and cloak pegs. Angelina emerges from the Captain’s office.
+
+Places: Quidditch changing rooms and broom shed.
 
 Evidence: explicit; state: October 1995, first DA meeting and preceding storm.
 
@@ -1027,6 +1134,8 @@ Model: Building is exposed to wind and rain; no material of roof stated.
 
 Grass on the approach is sodden and slippery, the pitch centre deepens into mud, and fading light, wind and sweeping rain severely restrict visibility. Rain beating the lake can be heard from the pitch. Players return uphill over muddy lawns.
 
+Places: Quidditch pitch, Front lawns and slopes.
+
 Evidence: explicit; state: October 1995, first DA meeting and preceding storm.
 
 Model: October storm state; Impervius improves rain shedding without restoring useful visibility.
@@ -1041,6 +1150,8 @@ Model: October storm state; Impervius improves rain shedding without restoring u
 
 Snape books the pitch repeatedly for Slytherin practices, restricting Gryffindor access. Fourteen witnesses report Alicia being jinxed from behind while working in the library; she attends the hospital wing.
 
+Places: Quidditch pitch, Library, Hospital wing.
+
 Evidence: explicit; state: Late October to first November Quidditch match, 1995.
 
 Model: Pitch access is scheduled, not fenced by House. Library attack is a reported incident, with no asserted furniture damage.
@@ -1051,6 +1162,8 @@ Model: Pitch access is scheduled, not fenced by House. Library attack is a repor
 ## B05-122: Match-day stadium approach
 
 From the Hall the players cross the Entrance Hall, descend stone steps and follow frost-crunching sloping lawns down to the stadium and changing rooms.
+
+Places: Front lawns and slopes, Great Hall, Front steps and front doors, Quidditch changing rooms and broom shed.
 
 Evidence: explicit; state: Late October to first November Quidditch match, 1995.
 
@@ -1065,6 +1178,8 @@ Model: Repeated route with frozen ground; calm overcast conditions improve visib
 ## B05-123: Quidditch stands and circulation
 
 Banked benches in spectator stands receive hundreds of spectators. Players file from the changing room onto the pitch; supporters occupy identifiable Slytherin and Gryffindor sections, with Pansy at the front of the Slytherin stands.
+
+Places: Quidditch stands, Quidditch pitch, Quidditch changing rooms and broom shed.
 
 Evidence: explicit; state: Late October to first November Quidditch match, 1995.
 
@@ -1087,6 +1202,8 @@ Model: Sound carries throughout stadium. Three goalhoops at each defended end; n
 
 The Snitch flies near the foot of a goalpost toward the other side of the stands. Harry catches it only feet above the surface and falls five or six feet onto the frozen pitch after a Bludger strike.
 
+Places: Quidditch pitch.
+
 Evidence: explicit; state: Late October to first November Quidditch match, 1995.
 
 Model: Specific local flight and fall clearances, not goalpost height.
@@ -1103,6 +1220,8 @@ Model: Specific local flight and fall clearances, not goalpost height.
 
 After the fight Harry and George walk from the pitch uphill to the castle, through a quiet Entrance Hall, then along a corridor to McGonagall’s office; she approaches behind them.
 
+Places: Quidditch pitch, Entrance Hall, McGonagall’s office.
+
 Evidence: explicit; state: Late October to first November Quidditch match, 1995.
 
 Model: Intervening floors and stairs are not described.
@@ -1115,6 +1234,8 @@ Model: Intervening floors and stairs are not described.
 ## B05-175: Hogsmeade route past stadium
 
 Cho waits beside the oak front doors in the Entrance Hall. After Filch signs them out, she and Harry pass the stadium, seeing Ron and Ginny flying above the stands, then follow the drive downhill and leave through the gates for the village High Street.
+
+Places: Entrance Hall, Quidditch stands, Drive from the gates to the castle, Hogsmeade village.
 
 Evidence: explicit; state: January–14 February 1996.
 
@@ -1130,6 +1251,8 @@ Model: Stadium is visible from this school exit route; no exact lateral distance
 
 Harry and Hermione watch the Hufflepuff match from seats a few rows above Umbridge.
 
+Places: Quidditch stands.
+
 Evidence: explicit; state: February–early March 1996, Quibbler publication and Trelawney dismissal.
 
 Model: Relative tier seating; no dimensions added by the game result.
@@ -1140,26 +1263,11 @@ Model: Relative tier seating; no dimensions added by the game result.
 - [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 685, ¶65 (B05-C026-P0065)](../../build/reader/book-05.html#B05-C026-P0065)
 - [Book 5, ch. 26, “Seen and Unforeseen”, ref p. 685–686, ¶66 (B05-C026-P0066)](../../build/reader/book-05.html#B05-C026-P0066)
 
-## B05-199: Seventh-floor bathroom and dragon-vase niche
-
-Harry turns right from the Room of Requirement toward a boys’ bathroom ahead. A Trip Jinx makes him skid six feet; Malfoy hides behind him in a niche beneath an ugly dragon-shaped vase, and Umbridge approaches round the far corner.
-
-Evidence: explicit; state: March–early April 1996, new Divination class and DA discovery.
-
-Model: Do not assume this vase is the same man-sized vase used for the entrance ritual.
-
-- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶109 (B05-C027-P0109)](../../build/reader/book-05.html#B05-C027-P0109)
-- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶110 (B05-C027-P0110)](../../build/reader/book-05.html#B05-C027-P0110)
-- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶111 (B05-C027-P0111)](../../build/reader/book-05.html#B05-C027-P0111)
-- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶112 (B05-C027-P0112)](../../build/reader/book-05.html#B05-C027-P0112)
-- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶113 (B05-C027-P0113)](../../build/reader/book-05.html#B05-C027-P0113)
-- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724–725, ¶114 (B05-C027-P0114)](../../build/reader/book-05.html#B05-C027-P0114)
-- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 725, ¶115 (B05-C027-P0115)](../../build/reader/book-05.html#B05-C027-P0115)
-- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 725, ¶116 (B05-C027-P0116)](../../build/reader/book-05.html#B05-C027-P0116)
-
 ## B05-242: Stadium tiers and cabin route
 
 Harry and Hermione sit in the second-highest row; Hagrid reaches them along the row behind, then they edge along their seats to stairs down to the lawn. From the stand edge he checks the lawn to his cabin, and they cross it toward the Forest.
+
+Places: Quidditch stands, Front lawns and slopes, Hagrid’s cabin.
 
 Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
 
@@ -1181,6 +1289,8 @@ Model: Hagrid uses crowded spectator circulation; no width measurement.
 
 They skirt the same nettles, rejoin the path and walk another ten minutes until trees thin, sky appears, and the stadium is visible from the Forest shelter. They merge with matchgoers returning uphill to the castle.
 
+Places: Forbidden Forest, Forest edge, Quidditch stands.
+
 Evidence: explicit; state: May 1996, post-twins unrest and final Quidditch match.
 
 Model: Ten minutes begins after rejoining path; stadium/Forest reciprocal sightline explicit.
@@ -1199,6 +1309,8 @@ Model: Ten minutes begins after rejoining path; stadium/Forest reciprocal sightl
 
 Harry looks from the office window toward the distant Quidditch stadium and recalls Sirius watching there in black-dog form.
 
+Places: Headmaster’s office, Quidditch stands.
+
 Evidence: explicit; state: June 1996 dawn after Ministry battle; historical interview where specified.
 
 Model: Direct stadium sightline; recalled spectator presence does not supply a new entrance route.
@@ -1206,9 +1318,24 @@ Model: Direct stadium sightline; recalled spectator presence does not supply a n
 - [Book 5, ch. 37, “The Lost Prophecy”, ref p. 983–984, ¶29 (B05-C037-P0029)](../../build/reader/book-05.html#B05-C037-P0029)
 - [Book 5, ch. 37, “The Lost Prophecy”, ref p. 984, ¶32 (B05-C037-P0032)](../../build/reader/book-05.html#B05-C037-P0032)
 
+## B05-301: Upper corridor grounds panorama
+
+After leaving the hospital wing Harry sees from corridor windows people flying over the Quidditch pitch and students swimming in the lake beside the giant squid.
+
+Places: Corridors in general, Quidditch pitch, The lake.
+
+Evidence: explicit; state: June 1996 final school days and homeward journey.
+
+Model: Sunny end-of-term use and occupied lake; exact viewing window location not identified.
+
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1019, ¶46 (B05-C038-P0046)](../../build/reader/book-05.html#B05-C038-P0046)
+- [Book 5, ch. 38, “The Second War Begins”, ref p. 1019, ¶47 (B05-C038-P0047)](../../build/reader/book-05.html#B05-C038-P0047)
+
 ## B06-043: Castle–Quidditch stadium
 
 From breakfast in the Great Hall the group goes down through cool misty drizzle to the Quidditch stadium, where Hermione takes a place in the stands.
+
+Places: Great Hall, Quidditch pitch, Quidditch stands.
 
 Evidence: explicit; state: Quidditch trials morning, September 1996.
 
@@ -1219,6 +1346,8 @@ Model: Downward journey from castle to stadium; weather is a dated state, not pe
 ## B06-044: Quidditch pitch and spectator stands
 
 The stadium has a pitch with goalposts and groups of three goalhoops. Spectators sit in stands near the pitch edge, within view of applicants waiting there; Keeper trials take place airborne at the hoops.
+
+Places: Quidditch pitch, Quidditch stands.
 
 Evidence: explicit; state: Quidditch trials, September 1996.
 
@@ -1237,6 +1366,8 @@ Model: Three hoops are explicit in Harry’s hyperbole about McLaggen’s width;
 
 After the trials the group leaves towards Hagrid’s cabin; later they hurry back through dark, deserted grounds to the castle and Great Hall entrance.
 
+Places: Quidditch pitch, Hagrid’s cabin, Grounds in general, Great Hall.
+
 Evidence: explicit; state: Trials day, September 1996.
 
 Model: Grounds route connecting pitch, cabin and castle; no direct-distance or bearing claims. Weather clears to watery sunshine before dusk.
@@ -1249,6 +1380,8 @@ Model: Grounds route connecting pitch, cabin and castle; no direct-distance or b
 ## B06-069: Quidditch changing room
 
 The team uses a changing room before and after playing; it has a door and a place for Harry to hang up his robes.
+
+Places: Quidditch changing rooms and broom shed.
 
 Evidence: explicit; state: Late October–autumn 1996.
 
@@ -1263,9 +1396,28 @@ Model: Support room connected with pitch activity; no locker, bench, shower or e
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 312, ¶185 (B06-C014-P0185)](../../build/reader/book-06.html#B06-C014-P0185)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 312, ¶188 (B06-C014-P0188)](../../build/reader/book-06.html#B06-C014-P0188)
 
+## B06-072: First match frost and house colours
+
+Frosty grass crunches on the walk down to the stadium and the pitch ground is frozen. One stadium end is filled with red-and-gold supporters and the other with green-and-silver supporters under a clear blue sky.
+
+Places: Quidditch pitch, Quidditch stands.
+
+Evidence: explicit; state: First Gryffindor–Slytherin match, autumn 1996.
+
+Model: Seasonal surface and crowd arrangement; colours are supporters’ display, not proof of permanent stand decoration.
+
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 304, ¶109 (B06-C014-P0109)](../../build/reader/book-06.html#B06-C014-P0109)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 304, ¶110 (B06-C014-P0110)](../../build/reader/book-06.html#B06-C014-P0110)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 305, ¶132 (B06-C014-P0132)](../../build/reader/book-06.html#B06-C014-P0132)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 307, ¶145 (B06-C014-P0145)](../../build/reader/book-06.html#B06-C014-P0145)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 307, ¶148 (B06-C014-P0148)](../../build/reader/book-06.html#B06-C014-P0148)
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 309, ¶163 (B06-C014-P0163)](../../build/reader/book-06.html#B06-C014-P0163)
+
 ## B06-073: Quidditch commentator podium
 
 The commentator stands on a podium and speaks through a magical megaphone. Harry can look towards it from his broom over the playing area.
+
+Places: Quidditch stands.
 
 Evidence: explicit; state: First Gryffindor–Slytherin match, autumn 1996.
 
@@ -1274,3 +1426,34 @@ Model: Location within viewing range of flight/pitch; no height or exact side sp
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 307, ¶149 (B06-C014-P0149)](../../build/reader/book-06.html#B06-C014-P0149)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 307, ¶150 (B06-C014-P0150)](../../build/reader/book-06.html#B06-C014-P0150)
 - [Book 6, ch. 14, “Felix Felicis”, ref p. 307–308, ¶151 (B06-C014-P0151)](../../build/reader/book-06.html#B06-C014-P0151)
+
+## B06-074: Commentator podium collision damage
+
+Ginny crashes into the commentator’s podium, reducing it to wooden wreckage with Zacharias beneath it; the team lands beside the wreckage.
+
+Places: Quidditch stands.
+
+Evidence: explicit; state: End of first Gryffindor–Slytherin match, autumn 1996.
+
+Model: Establishes wood construction and dated destruction. No subsequent repair is yet described.
+
+- [Book 6, ch. 14, “Felix Felicis”, ref p. 310, ¶168 (B06-C014-P0168)](../../build/reader/book-06.html#B06-C014-P0168)
+
+## B06-114: Hufflepuff-match conditions and podium use
+
+At the Hufflepuff match there is little wind, broken cloud and intermittent dazzling sunlight. Luna and McGonagall occupy a commentator’s podium below Harry’s aerial viewpoint, using the magical megaphone.
+
+Places: Quidditch pitch, Quidditch stands.
+
+Evidence: explicit; state: Gryffindor–Hufflepuff match, March 1997.
+
+Model: A podium is functioning again after the earlier collision; text does not say whether repaired or replaced. Do not infer repair method. Match sound carries over the grounds.
+
+- [Book 6, ch. 19, “Elf Tails”, ref p. 430, ¶120 (B06-C019-P0120)](../../build/reader/book-06.html#B06-C019-P0120)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 431, ¶132 (B06-C019-P0132)](../../build/reader/book-06.html#B06-C019-P0132)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 431, ¶133 (B06-C019-P0133)](../../build/reader/book-06.html#B06-C019-P0133)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 431, ¶136 (B06-C019-P0136)](../../build/reader/book-06.html#B06-C019-P0136)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 432, ¶138 (B06-C019-P0138)](../../build/reader/book-06.html#B06-C019-P0138)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 432, ¶139 (B06-C019-P0139)](../../build/reader/book-06.html#B06-C019-P0139)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 432, ¶141 (B06-C019-P0141)](../../build/reader/book-06.html#B06-C019-P0141)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 433, ¶148 (B06-C019-P0148)](../../build/reader/book-06.html#B06-C019-P0148)

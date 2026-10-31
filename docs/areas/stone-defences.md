@@ -8,6 +8,8 @@ All pages are project reference pages, ref250-v1. Group membership is a navigati
 
 Dumbledore declares the third-floor corridor on the right-hand side out of bounds for this year, warning of lethal danger.
 
+Places: Forbidden third-floor corridor.
+
 Evidence: reported; state: 1991–92 school year.
 
 Model: The announcement does not identify which direction supplies the reference for right-hand side. Keep this as a time-dependent restriction.
@@ -18,6 +20,8 @@ Model: The announcement does not identify which direction supplies the reference
 
 Harry and Ron, lost on their first morning, try to force a door that turns out to enter the forbidden third-floor corridor.
 
+Places: Forbidden third-floor corridor.
+
 Evidence: explicit; state: September 1991, first school week.
 
 Model: Confirms a physical door and resistance at this point, without fixing its position on the floor.
@@ -27,6 +31,8 @@ Model: Confirms a physical door and resistance at this point, without fixing its
 ## B01-050: Charms corridor to forbidden third-floor corridor
 
 Within about a dozen paces after regrouping near Charms, Peeves emerges from a classroom. The pupils flee to a locked door at the corridor’s end; Alohomora opens it onto the forbidden third-floor corridor.
+
+Places: Charms corridor, Forbidden third-floor corridor.
 
 Evidence: explicit; state: September 1991.
 
@@ -40,9 +46,27 @@ Model: Connects Charms-corridor end to restricted corridor. Its geometry and exa
 - [Book 1, ch. 9, “The Midnight Duel”, ref p. 163, ¶187 (B01-C009-P0187)](../../build/reader/book-01.html#B01-C009-P0187)
 - [Book 1, ch. 9, “The Midnight Duel”, ref p. 164, ¶196 (B01-C009-P0196)](../../build/reader/book-01.html#B01-C009-P0196)
 
+## B01-051: Forbidden corridor — dog guard
+
+A monstrous three-headed dog stands in the forbidden corridor and fills the space from floor to ceiling; its growls are thunderous.
+
+Places: Forbidden third-floor corridor.
+
+Evidence: explicit; state: 1991–92 protection of the Stone.
+
+Model: A living obstruction for the Stone’s protection; apparent scale is relative to an unspecified corridor height.
+
+- [Book 1, ch. 9, “The Midnight Duel”, ref p. 164, ¶196 (B01-C009-P0196)](../../build/reader/book-01.html#B01-C009-P0196)
+- [Book 1, ch. 9, “The Midnight Duel”, ref p. 164, ¶197 (B01-C009-P0197)](../../build/reader/book-01.html#B01-C009-P0197)
+- [Book 1, ch. 9, “The Midnight Duel”, ref p. 164, ¶198 (B01-C009-P0198)](../../build/reader/book-01.html#B01-C009-P0198)
+- [Book 1, ch. 9, “The Midnight Duel”, ref p. 164, ¶199 (B01-C009-P0199)](../../build/reader/book-01.html#B01-C009-P0199)
+- [Book 1, ch. 9, “The Midnight Duel”, ref p. 164–165, ¶200 (B01-C009-P0200)](../../build/reader/book-01.html#B01-C009-P0200)
+
 ## B01-052: Forbidden corridor — trapdoor report
 
 Hermione says the dog was standing on a trapdoor, and concludes that it is guarding something.
+
+Places: Forbidden third-floor corridor.
 
 Evidence: reported; state: September 1991 discovery.
 
@@ -57,6 +81,8 @@ Model: Trapdoor is Hermione’s observed report here; purpose is her deduction, 
 
 Hagrid confirms that the three-headed dog is his, named Fluffy, lent to Dumbledore to guard the secret object.
 
+Places: Forbidden third-floor corridor.
+
 Evidence: reported; state: 1991–92 Stone protection.
 
 Model: Character confirmation of the temporary guard arrangement; acquisition in a pub supplies no Hogwarts pub location.
@@ -70,15 +96,35 @@ Model: Character confirmation of the temporary guard arrangement; acquisition in
 
 The pupils repeatedly listen at the third-floor door and hear Fluffy growling beyond it.
 
+Places: Forbidden third-floor corridor.
+
 Evidence: explicit; state: Spring 1992, Norbert episode.
 
 Model: Confirms audible occupancy over subsequent weeks; no successful entry is described.
 
 - [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 232, ¶2 (B01-C014-P0002)](../../build/reader/book-01.html#B01-C014-P0002)
 
+## B01-094: Stone protection — teachers’ enchantments
+
+Hagrid says Sprout, Flitwick, McGonagall, Quirrell, Dumbledore and Snape contributed enchantments, in addition to his loan of Fluffy. He claims only he and Dumbledore know how to get past the dog.
+
+Places: Stone defences as a whole, Forbidden third-floor corridor.
+
+Evidence: reported; state: 1991–92 Stone protection.
+
+Model: Reported participants, not yet an observed obstacle ordering or chamber count.
+
+- [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 235, ¶34 (B01-C014-P0034)](../../build/reader/book-01.html#B01-C014-P0034)
+- [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 236, ¶37 (B01-C014-P0037)](../../build/reader/book-01.html#B01-C014-P0037)
+- [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 236, ¶39 (B01-C014-P0039)](../../build/reader/book-01.html#B01-C014-P0039)
+- [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 236, ¶41 (B01-C014-P0041)](../../build/reader/book-01.html#B01-C014-P0041)
+- [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 236, ¶42 (B01-C014-P0042)](../../build/reader/book-01.html#B01-C014-P0042)
+
 ## B01-120: Fluffy — music vulnerability
 
 Hagrid says that playing music makes Fluffy fall asleep. The later flute performance visibly puts him to sleep; he stirs and growls during a pause and sleeps again when playing resumes.
+
+Places: Forbidden third-floor corridor.
 
 Evidence: explicit; state: June 1992, approach to the Stone.
 
@@ -98,6 +144,8 @@ Model: Reported mechanism subsequently observed. Guard remains physically danger
 
 The pupils pass statue shadows, then climb a first set of stairs around Mrs Norris. They encounter Peeves halfway up the staircase to the third floor, loosening its carpet, and shortly reach the forbidden corridor’s ajar door.
 
+Places: Moving staircases, Suits of armour and statues, Forbidden third-floor corridor.
+
 Evidence: explicit; state: June 1992, approach to the Stone.
 
 Model: Explicit carpeted third-floor approach stair; full route from seventh-floor Gryffindor is omitted, so local ascents must not be treated as a complete floor sequence.
@@ -114,6 +162,8 @@ Model: Explicit carpeted third-floor approach stair; full route from seventh-flo
 ## B01-124: Forbidden corridor — harp, dog and ringed trapdoor
 
 A harp lies at Fluffy’s feet. Once the dog sleeps, pupils step over its legs to a trapdoor opened by pulling a ring; it swings upward. The dark opening has no visible bottom or means of climbing down.
+
+Places: Forbidden third-floor corridor.
 
 Evidence: explicit; state: June 1992, approach to the Stone.
 
@@ -135,6 +185,8 @@ Model: Observed guard installation; no harp-playing automation is described here
 
 Harry lowers himself by his fingertips and drops through cold damp air onto a soft plant. From below the open trapdoor appears postage-stamp-sized; Ron and Hermione land beside him.
 
+Places: Trapdoor shaft and Devil’s Snare chamber, Forbidden third-floor corridor.
+
 Evidence: explicit; state: June 1992, approach to the Stone.
 
 Model: A substantial vertical shaft is supported. Hermione’s claim of being miles underground is an impression and must not set a metric depth.
@@ -152,6 +204,8 @@ Model: A substantial vertical shaft is supported. Hermione’s claim of being mi
 
 The landing plant entwines pupils in long snake-like creepers, tightening as they struggle. Hermione escapes to a damp wall, recalls its preference for dark damp conditions, and blue magical flames cause it to recoil from light and warmth and release the boys.
 
+Places: Trapdoor shaft and Devil’s Snare chamber.
+
 Evidence: explicit; state: June 1992, approach to the Stone.
 
 Model: Observed plant defence with reported botanical explanation; no invented bed depth or room diameter.
@@ -166,9 +220,72 @@ Model: Observed plant defence with reported botanical explanation; no invented b
 - [Book 1, ch. 16, “Through the Trapdoor”, ref p. 283, ¶192 (B01-C016-P0192)](../../build/reader/book-01.html#B01-C016-P0192)
 - [Book 1, ch. 16, “Through the Trapdoor”, ref p. 283, ¶193 (B01-C016-P0193)](../../build/reader/book-01.html#B01-C016-P0193)
 
+## B01-127: Plant chamber to winged-key chamber
+
+The sole onward route is a stone passage sloping downward, with trickling water on its walls and audible dripping. Rustling, clinking, wings and light precede its opening into the next chamber.
+
+Places: Trapdoor shaft and Devil’s Snare chamber, Winged-key chamber, Stone defences as a whole.
+
+Evidence: explicit; state: June 1992, approach to the Stone.
+
+Model: One onward passage from the landing chamber; downward slope is explicit.
+
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 283, ¶195 (B01-C016-P0195)](../../build/reader/book-01.html#B01-C016-P0195)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 283, ¶196 (B01-C016-P0196)](../../build/reader/book-01.html#B01-C016-P0196)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 283, ¶197 (B01-C016-P0197)](../../build/reader/book-01.html#B01-C016-P0197)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 283–284, ¶198 (B01-C016-P0198)](../../build/reader/book-01.html#B01-C016-P0198)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 284, ¶200 (B01-C016-P0200)](../../build/reader/book-01.html#B01-C016-P0200)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 284, ¶201 (B01-C016-P0201)](../../build/reader/book-01.html#B01-C016-P0201)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 284, ¶202 (B01-C016-P0202)](../../build/reader/book-01.html#B01-C016-P0202)
+
+## B01-128: Winged-key chamber — architecture and lock
+
+The brilliantly lit chamber has a high arched ceiling, stone walls and a heavy wooden door opposite the entry. Its silver-handled lock resists force and Alohomora. Broomsticks are available in the room.
+
+Places: Winged-key chamber.
+
+Evidence: explicit; state: June 1992, approach to the Stone.
+
+Model: Room permits three simultaneous broom riders and a collision with its high ceiling; no numeric size or light-source fixtures described.
+
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 284, ¶202 (B01-C016-P0202)](../../build/reader/book-01.html#B01-C016-P0202)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 284, ¶205 (B01-C016-P0205)](../../build/reader/book-01.html#B01-C016-P0205)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 284, ¶206 (B01-C016-P0206)](../../build/reader/book-01.html#B01-C016-P0206)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 284–285, ¶210 (B01-C016-P0210)](../../build/reader/book-01.html#B01-C016-P0210)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 285, ¶212 (B01-C016-P0212)](../../build/reader/book-01.html#B01-C016-P0212)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 285, ¶213 (B01-C016-P0213)](../../build/reader/book-01.html#B01-C016-P0213)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 285, ¶214 (B01-C016-P0214)](../../build/reader/book-01.html#B01-C016-P0214)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 285, ¶217 (B01-C016-P0217)](../../build/reader/book-01.html#B01-C016-P0217)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 285–286, ¶219 (B01-C016-P0219)](../../build/reader/book-01.html#B01-C016-P0219)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 286, ¶220 (B01-C016-P0220)](../../build/reader/book-01.html#B01-C016-P0220)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 286, ¶221 (B01-C016-P0221)](../../build/reader/book-01.html#B01-C016-P0221)
+
+## B01-129: Winged-key defence
+
+Hundreds of fluttering jewellike forms prove to be keys with rainbow-feathered wings. The working key is large and silver with bright-blue wings, one crumpled/bent; after unlocking the door it flies away again.
+
+Places: Winged-key chamber.
+
+Evidence: explicit; state: June 1992, approach to the Stone.
+
+Model: A temporary enchantment population and identifiable target key; damage predates Harry’s capture and increases afterwards.
+
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 284, ¶202 (B01-C016-P0202)](../../build/reader/book-01.html#B01-C016-P0202)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 284, ¶209 (B01-C016-P0209)](../../build/reader/book-01.html#B01-C016-P0209)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 284–285, ¶210 (B01-C016-P0210)](../../build/reader/book-01.html#B01-C016-P0210)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 285, ¶211 (B01-C016-P0211)](../../build/reader/book-01.html#B01-C016-P0211)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 285, ¶214 (B01-C016-P0214)](../../build/reader/book-01.html#B01-C016-P0214)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 285, ¶215 (B01-C016-P0215)](../../build/reader/book-01.html#B01-C016-P0215)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 285, ¶216 (B01-C016-P0216)](../../build/reader/book-01.html#B01-C016-P0216)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 285, ¶218 (B01-C016-P0218)](../../build/reader/book-01.html#B01-C016-P0218)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 285–286, ¶219 (B01-C016-P0219)](../../build/reader/book-01.html#B01-C016-P0219)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 286, ¶220 (B01-C016-P0220)](../../build/reader/book-01.html#B01-C016-P0220)
+
 ## B01-130: Giant chess chamber — architecture
 
 Through the key-room door is a dark chamber that lights when entered. A huge chessboard begins behind black pieces taller than the pupils and apparently carved of black stone; faceless white pieces stand across it, with another door behind them.
+
+Places: Giant chess chamber.
 
 Evidence: explicit; state: June 1992, approach to the Stone.
 
@@ -184,6 +301,8 @@ Model: Defines entry side and onward side. Apparent stone is later supported by 
 ## B01-131: Giant chess defence and damage
 
 The pieces animate, accept three human substitutes for a black knight, bishop and rook, and move on command. Captured pieces are struck and dragged to the edge; limp black pieces accumulate along the wall. After checkmate the king discards his crown and the pieces part and bow to clear the onward door.
+
+Places: Giant chess chamber.
 
 Evidence: explicit; state: June 1992, approach to the Stone.
 
@@ -209,6 +328,8 @@ Model: Models a dangerous interactive chess state and displaced pieces, without 
 
 After crossing the chess room, Harry and Hermione take the next passage to another door. Beyond is a foul-smelling chamber with an unconscious troll larger than the Hallowe’en troll, lying on the floor with a bloody head lump; they step over its leg to the next door.
 
+Places: Troll chamber, Giant chess chamber.
+
 Evidence: explicit; state: June 1992, approach to the Stone.
 
 Model: Passage wording does not provide a measured rise. Troll is already disabled when observed, so its active defence is not witnessed.
@@ -221,9 +342,41 @@ Model: Passage wording does not provide a measured rise. Troll is already disabl
 - [Book 1, ch. 16, “Through the Trapdoor”, ref p. 289, ¶268 (B01-C016-P0268)](../../build/reader/book-01.html#B01-C016-P0268)
 - [Book 1, ch. 16, “Through the Trapdoor”, ref p. 289, ¶269 (B01-C016-P0269)](../../build/reader/book-01.html#B01-C016-P0269)
 
+## B01-133: Potion chamber — table and flame thresholds
+
+Beyond the troll room is a table bearing seven differently shaped bottles in one line, with a written riddle beside them. Crossing the threshold triggers purple fire in the entry doorway and black flames in the onward doorway.
+
+Places: Potion chamber.
+
+Evidence: explicit; state: June 1992, approach to the Stone.
+
+Model: Temporary defence installation, two distinct thresholds. The riddle constrains bottle order but supplies insufficient visual dimensions to reconstruct every shape.
+
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 289, ¶269 (B01-C016-P0269)](../../build/reader/book-01.html#B01-C016-P0269)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 289–290, ¶271 (B01-C016-P0271)](../../build/reader/book-01.html#B01-C016-P0271)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 290, ¶272 (B01-C016-P0272)](../../build/reader/book-01.html#B01-C016-P0272)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 290, ¶273 (B01-C016-P0273)](../../build/reader/book-01.html#B01-C016-P0273)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 290, ¶274 (B01-C016-P0274)](../../build/reader/book-01.html#B01-C016-P0274)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 290, ¶275 (B01-C016-P0275)](../../build/reader/book-01.html#B01-C016-P0275)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 290, ¶276 (B01-C016-P0276)](../../build/reader/book-01.html#B01-C016-P0276)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 290, ¶277 (B01-C016-P0277)](../../build/reader/book-01.html#B01-C016-P0277)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 290, ¶278 (B01-C016-P0278)](../../build/reader/book-01.html#B01-C016-P0278)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 290, ¶279 (B01-C016-P0279)](../../build/reader/book-01.html#B01-C016-P0279)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 290, ¶280 (B01-C016-P0280)](../../build/reader/book-01.html#B01-C016-P0280)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 290, ¶281 (B01-C016-P0281)](../../build/reader/book-01.html#B01-C016-P0281)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 290, ¶282 (B01-C016-P0282)](../../build/reader/book-01.html#B01-C016-P0282)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 290, ¶283 (B01-C016-P0283)](../../build/reader/book-01.html#B01-C016-P0283)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 290, ¶284 (B01-C016-P0284)](../../build/reader/book-01.html#B01-C016-P0284)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 290, ¶285 (B01-C016-P0285)](../../build/reader/book-01.html#B01-C016-P0285)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 290, ¶286 (B01-C016-P0286)](../../build/reader/book-01.html#B01-C016-P0286)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 290, ¶287 (B01-C016-P0287)](../../build/reader/book-01.html#B01-C016-P0287)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 290, ¶288 (B01-C016-P0288)](../../build/reader/book-01.html#B01-C016-P0288)
+
 ## B01-134: Potion chamber — bottle selection and passage
 
 The riddle specifies three poisons, two nettle wines and two passage-enabling drinks; wine has poison on its left side as worded, end bottles differ, neither end leads onward, smallest/largest are safe, and second from each end taste alike. Hermione identifies the tiny smallest bottle for black fire and a rounded bottle at the right end for purple fire. The cold-tasting drinks allow her to retreat and Harry to enter the last chamber unburnt.
+
+Places: Potion chamber.
 
 Evidence: explicit; state: June 1992, approach to the Stone.
 
@@ -257,9 +410,77 @@ Model: Positions of smallest and largest within the line are not numbered in the
 - [Book 1, ch. 16, “Through the Trapdoor”, ref p. 292, ¶319 (B01-C016-P0319)](../../build/reader/book-01.html#B01-C016-P0319)
 - [Book 1, ch. 16, “Through the Trapdoor”, ref p. 292, ¶320 (B01-C016-P0320)](../../build/reader/book-01.html#B01-C016-P0320)
 
+## B01-135: Planned escape from underground defences
+
+Harry instructs Hermione to retrieve Ron and use brooms from the key chamber to fly out through the trapdoor past Fluffy, then send an owl from the owlery.
+
+Places: Stone defences as a whole, Winged-key chamber, Forbidden third-floor corridor, Owlery.
+
+Evidence: reported; state: June 1992, approach to the Stone.
+
+Model: A proposed escape route, not a witnessed complete traversal. No owlery floor or direct tunnel to it established.
+
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 291, ¶302 (B01-C016-P0302)](../../build/reader/book-01.html#B01-C016-P0302)
+
+## B01-139: Hallowe’en incursion and disabled chamber troll
+
+Quirrell admits introducing the Hallowe’en troll as a diversion to examine the Stone’s guards, and claims responsibility for disabling the larger troll in the underground chamber.
+
+Places: Troll chamber, Stone defences as a whole.
+
+Evidence: reported; state: June 1992, end of first year.
+
+Model: Retrospective character admission resolves the security incident; it supplies no entry gate or troll delivery route.
+
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 293, ¶13 (B01-C017-P0013)](../../build/reader/book-01.html#B01-C017-P0013)
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 294, ¶14 (B01-C017-P0014)](../../build/reader/book-01.html#B01-C017-P0014)
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 294, ¶15 (B01-C017-P0015)](../../build/reader/book-01.html#B01-C017-P0015)
+
+## B01-136: Last underground chamber — mirror and flame entrance
+
+The final chamber holds the Mirror of Erised, with enough space for Quirrell to walk around its frame and behind it. The flame doorway remains Harry’s attempted exit.
+
+Places: Last chamber of the Stone.
+
+Evidence: explicit; state: June 1992, end of first year.
+
+Model: Movable mirror relocated from the disused classroom. No pedestal, stair, pit or final chamber dimensions described.
+
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 294, ¶17 (B01-C017-P0017)](../../build/reader/book-01.html#B01-C017-P0017)
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 294, ¶18 (B01-C017-P0018)](../../build/reader/book-01.html#B01-C017-P0018)
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 294, ¶21 (B01-C017-P0021)](../../build/reader/book-01.html#B01-C017-P0021)
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 294, ¶22 (B01-C017-P0022)](../../build/reader/book-01.html#B01-C017-P0022)
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 296, ¶34 (B01-C017-P0034)](../../build/reader/book-01.html#B01-C017-P0034)
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 296, ¶37 (B01-C017-P0037)](../../build/reader/book-01.html#B01-C017-P0037)
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 296, ¶44 (B01-C017-P0044)](../../build/reader/book-01.html#B01-C017-P0044)
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 297, ¶47 (B01-C017-P0047)](../../build/reader/book-01.html#B01-C017-P0047)
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 297, ¶48 (B01-C017-P0048)](../../build/reader/book-01.html#B01-C017-P0048)
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 297, ¶53 (B01-C017-P0053)](../../build/reader/book-01.html#B01-C017-P0053)
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 297, ¶54 (B01-C017-P0054)](../../build/reader/book-01.html#B01-C017-P0054)
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 298–299, ¶69 (B01-C017-P0069)](../../build/reader/book-01.html#B01-C017-P0069)
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 299, ¶72 (B01-C017-P0072)](../../build/reader/book-01.html#B01-C017-P0072)
+
+## B01-137: Mirror of Erised — Stone concealment rule
+
+Harry’s reflection takes a blood-red stone from its pocket and replaces it; the real Stone appears in Harry’s pocket. Dumbledore explains that only someone wanting to find the Stone without using it could obtain it.
+
+Places: Last chamber of the Stone.
+
+Evidence: explicit; state: June 1992, end of first year.
+
+Model: Observed transfer plus reported access rule; do not make a physical compartment in the mirror an established fact.
+
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 297, ¶47 (B01-C017-P0047)](../../build/reader/book-01.html#B01-C017-P0047)
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 297, ¶48 (B01-C017-P0048)](../../build/reader/book-01.html#B01-C017-P0048)
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 297, ¶53 (B01-C017-P0053)](../../build/reader/book-01.html#B01-C017-P0053)
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 305, ¶137 (B01-C017-P0137)](../../build/reader/book-01.html#B01-C017-P0137)
+- [Book 1, ch. 17, “The Man with Two Faces”, ref p. 305–306, ¶138 (B01-C017-P0138)](../../build/reader/book-01.html#B01-C017-P0138)
+
 ## B01-138: Stone chambers — dungeon classification and removal
 
 Dumbledore calls Harry’s encounter with Quirrell an event down in the dungeons, says he interrupted it and later states that the Stone has been destroyed.
+
+Places: Stone defences as a whole.
 
 Evidence: reported; state: June 1992, end of first year.
 
@@ -278,75 +499,11 @@ Model: Reported dungeon identification and end of the Stone’s purpose. No stat
 
 Hermione reports returning through the defences, reviving Ron and hurrying up towards the owlery; they meet Dumbledore in the Entrance Hall, and he heads to the third floor.
 
+Places: Stone defences as a whole, Entrance Hall, Forbidden third-floor corridor, Owlery.
+
 Evidence: reported; state: June 1992, end of first year.
 
 Model: Reported actual return, but no explicit confirmation of the proposed broom method or exact owlery position.
 
 - [Book 1, ch. 17, “The Man with Two Faces”, ref p. 307, ¶157 (B01-C017-P0157)](../../build/reader/book-01.html#B01-C017-P0157)
 - [Book 1, ch. 17, “The Man with Two Faces”, ref p. 307, ¶158 (B01-C017-P0158)](../../build/reader/book-01.html#B01-C017-P0158)
-
-## B03-059: Third-floor one-eyed witch and neighbouring classroom
-
-Halfway along the third-floor corridor stands a humpbacked one-eyed witch statue. An empty classroom lies to its left; it contains desks and a closable door used by the twins for presenting the map.
-
-Evidence: explicit; state: November–December 1993.
-
-Model: Left is approach-relative; statue and classroom floor explicit.
-
-- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 189–190, ¶61 (B03-C010-P0061)](../../build/reader/book-03.html#B03-C010-P0061)
-- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 190, ¶63 (B03-C010-P0063)](../../build/reader/book-03.html#B03-C010-P0063)
-- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 190, ¶65 (B03-C010-P0065)](../../build/reader/book-03.html#B03-C010-P0065)
-- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 190, ¶66 (B03-C010-P0066)](../../build/reader/book-03.html#B03-C010-P0066)
-- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 190, ¶67 (B03-C010-P0067)](../../build/reader/book-03.html#B03-C010-P0067)
-- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 190, ¶68 (B03-C010-P0068)](../../build/reader/book-03.html#B03-C010-P0068)
-- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 193, ¶106 (B03-C010-P0106)](../../build/reader/book-03.html#B03-C010-P0106)
-- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 194, ¶112 (B03-C010-P0112)](../../build/reader/book-03.html#B03-C010-P0112)
-- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 194, ¶113 (B03-C010-P0113)](../../build/reader/book-03.html#B03-C010-P0113)
-
-## B03-065: Honeydukes cellar — hidden trapdoor and shop stairs
-
-The trapdoor blends invisibly into the dusty cellar floor among wooden crates and boxes. A wooden staircase rises to a door behind the shop counter; Harry hides behind a large crate as an owner descends to stock stored by the opposite wall.
-
-Evidence: explicit; state: November–December 1993.
-
-Model: Observed tunnel endpoint and commercial circulation. No exact cellar dimensions or entrance-to-stairs spacing.
-
-- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 196, ¶121 (B03-C010-P0121)](../../build/reader/book-03.html#B03-C010-P0121)
-- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 196, ¶122 (B03-C010-P0122)](../../build/reader/book-03.html#B03-C010-P0122)
-- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 196, ¶123 (B03-C010-P0123)](../../build/reader/book-03.html#B03-C010-P0123)
-- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 196, ¶124 (B03-C010-P0124)](../../build/reader/book-03.html#B03-C010-P0124)
-- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 196, ¶125 (B03-C010-P0125)](../../build/reader/book-03.html#B03-C010-P0125)
-- [Book 3, ch. 10, “The Marauder’s Map”, ref p. 196–197, ¶126 (B03-C010-P0126)](../../build/reader/book-03.html#B03-C010-P0126)
-
-## B03-090: Third-floor witch — remaining unguarded passage
-
-The one-eyed statue remains unblocked and unguarded despite security work. Doorways stand to either side nearby; Snape inspects the statue but later returns to his office as shown on the map.
-
-Evidence: explicit; state: After the February 1994 dormitory intrusion.
-
-Model: Observed availability, not proof nobody else knows it. Both-side doorways add to the previously described left classroom.
-
-- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 271, ¶3 (B03-C014-P0003)](../../build/reader/book-03.html#B03-C014-P0003)
-- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 271, ¶5 (B03-C014-P0005)](../../build/reader/book-03.html#B03-C014-P0005)
-- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 271, ¶6 (B03-C014-P0006)](../../build/reader/book-03.html#B03-C014-P0006)
-- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 276, ¶50 (B03-C014-P0050)](../../build/reader/book-03.html#B03-C014-P0050)
-- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 277–278, ¶64 (B03-C014-P0064)](../../build/reader/book-03.html#B03-C014-P0064)
-- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 278, ¶65 (B03-C014-P0065)](../../build/reader/book-03.html#B03-C014-P0065)
-- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 278, ¶74 (B03-C014-P0074)](../../build/reader/book-03.html#B03-C014-P0074)
-- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 278, ¶75 (B03-C014-P0075)](../../build/reader/book-03.html#B03-C014-P0075)
-- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 278, ¶76 (B03-C014-P0076)](../../build/reader/book-03.html#B03-C014-P0076)
-- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 278–279, ¶78 (B03-C014-P0078)](../../build/reader/book-03.html#B03-C014-P0078)
-- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 279, ¶79 (B03-C014-P0079)](../../build/reader/book-03.html#B03-C014-P0079)
-- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 279, ¶81 (B03-C014-P0081)](../../build/reader/book-03.html#B03-C014-P0081)
-- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 279, ¶82 (B03-C014-P0082)](../../build/reader/book-03.html#B03-C014-P0082)
-
-## B06-145: Front door–third-floor shortcut–Gryffindor
-
-The front door remains unlocked on Harry’s return after the burial. On the third floor he dodges Peeves through a sideways shortcut, then climbs higher to the Fat Lady’s portrait and the hard corridor floor outside it.
-
-Evidence: explicit; state: After Aragog burial, spring 1997.
-
-Model: Third-floor shortcut on upward route; no complete internal shortcut shape or exact travel time.
-
-- [Book 6, ch. 23, “Horcruxes”, ref p. 515–516, ¶1 (B06-C023-P0001)](../../build/reader/book-06.html#B06-C023-P0001)
-- [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶7 (B06-C023-P0007)](../../build/reader/book-06.html#B06-C023-P0007)

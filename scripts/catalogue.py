@@ -14,6 +14,7 @@ import sys
 ROOT = Path(__file__).resolve().parents[1]
 CATEGORIES = {"exterior", "interior", "grounds", "route", "furnishing", "magic", "temporary", "history"}
 CERTAINTIES = {"explicit", "reported", "inference"}
+PLACE_KINDS = {"place", "group"}
 REQUIRED = {"id", "location", "category", "description", "evidence", "certainty", "temporal", "model_notes"}
 
 
@@ -364,34 +365,71 @@ def write_model_guide(corpus: dict, model: dict, destination: Path) -> None:
     destination.write_text("\n".join(lines).rstrip() + "\n")
 
 
-def write_area_pages(catalogue: dict, area_config: dict, folder: Path) -> None:
+def validate_places(entry_ids: set, places: dict, area_config: dict) -> list[str]:
+    """Check the navigation layer: every place has an area, every record a place."""
+    errors = []
+    areas = {area["id"] for area in area_config["areas"]}
+    known = set()
+    for place in places["places"]:
+        ident = place.get("id", "<missing>")
+        if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", ident) or ident in known:
+            errors.append(f"{ident}: invalid or duplicate place ID")
+        known.add(ident)
+        if place.get("area") not in areas:
+            errors.append(f"{ident}: unknown area {place.get('area')}")
+        if place.get("kind") not in PLACE_KINDS:
+            errors.append(f"{ident}: unknown place kind {place.get('kind')}")
+        if not place.get("title") or not place.get("scope"):
+            errors.append(f"{ident}: place needs a title and scope")
+    assignments = places["assignments"]
+    for ident in sorted(entry_ids - assignments.keys()):
+        errors.append(f"{ident}: record has no place")
+    for ident in sorted(assignments.keys() - entry_ids):
+        errors.append(f"{ident}: place assignment for unknown record")
+    used = set()
+    for ident, assigned in assignments.items():
+        if not 1 <= len(assigned) <= 4 or len(set(assigned)) != len(assigned):
+            errors.append(f"{ident}: needs one to four distinct places")
+        for place in assigned:
+            if place not in known:
+                errors.append(f"{ident}: unknown place {place}")
+        used.update(assigned)
+    for ident in sorted(known - used):
+        errors.append(f"{ident}: place has no records")
+    return errors
+
+
+def assign_places(catalogue: dict, places: dict) -> None:
+    """Attach each record's places, and the areas those places belong to."""
+    areas = {place["id"]: place["area"] for place in places["places"]}
+    for entry in catalogue["entries"]:
+        entry["places"] = places["assignments"][entry["id"]]
+        entry["areas"] = list(dict.fromkeys(areas[place] for place in entry["places"]))
+
+
+def write_area_pages(catalogue: dict, area_config: dict, places: dict, folder: Path) -> None:
     """Provide overlapping cross-book navigation without merging room identities."""
     folder.mkdir(parents=True, exist_ok=True)
+    titles = {place["id"]: place["title"] for place in places["places"]}
     groups = {area["id"]: [] for area in area_config["areas"]}
-    groups["other"] = []
-    patterns = {area["id"]: [re.compile(p, re.I) for p in area["location_patterns"]]
-                for area in area_config["areas"]}
     for entry in catalogue["entries"]:
-        matches = [ident for ident, regexes in patterns.items() if any(r.search(entry["location"]) for r in regexes)]
-        entry["areas"] = matches or ["other"]
         for ident in entry["areas"]:
             groups[ident].append(entry)
-    areas = area_config["areas"] + [{"id": "other", "title": "Other or ungrouped locations"}]
     index_lines = ["# Browse descriptions by area", "",
                    "These overlapping navigation groups gather records across all seven books. "
-                   "They are matched against location labels and do not assert room identity or "
-                   "adjacency. The exact-label [location index](../location-index.md) and full "
+                   "A record joins an area through the places assigned to it in "
+                   "[places.json](../../research/places.json); this does not assert room identity "
+                   "or adjacency. The exact-label [location index](../location-index.md) and full "
                    "[chronological catalogue](../catalogue.md) remain available.", ""]
-    for area in areas:
+    for area in area_config["areas"]:
         entries = groups[area["id"]]
-        if not entries:
-            continue
         index_lines.append(f"- [{area['title']}]({area['id']}.md): {len(entries)} records.")
         lines = [f"# {area['title']}", "", "[All areas](index.md) · [Full catalogue](../catalogue.md)", "",
                  "All pages are project reference pages, ref250-v1. Group membership is a "
                  "navigation aid; retain each record's certainty and dated state.", ""]
         for entry in entries:
             lines += [f"## {entry['id']}: {entry['location']}", "", entry["description"], "",
+                      f"Places: {', '.join(titles[place] for place in entry['places'])}.", "",
                       f"Evidence: {entry['certainty']}; state: {entry['temporal']}.", "",
                       f"Model: {entry['model_notes']}", ""]
             for p in entry["citations"]:
@@ -443,6 +481,9 @@ def main() -> None:
     model_path = ROOT / "research/model-constraints.json"
     model = load_json(model_path) if model_path.exists() else {"constraints": []}
     errors.extend(validate_model_constraints(corpus, model))
+    places = load_json(ROOT / "research/places.json")
+    area_config = load_json(ROOT / "research/areas.json")
+    errors.extend(validate_places({entry["id"] for book in research for entry in book["entries"]}, places, area_config))
     for error in errors:
         print(error, file=sys.stderr)
     if errors:
@@ -453,15 +494,14 @@ def main() -> None:
             raise SystemExit(2)
         return
     catalogue = compile_catalogue(corpus, research)
+    assign_places(catalogue, places)
     if args.command == "search":
         for entry in catalogue["entries"]:
             if (not args.book or entry["citations"][0]["book"] == args.book) and args.query.casefold() in json.dumps(entry, ensure_ascii=False).casefold():
                 print(f"{entry['id']} · {entry['location']}\n{entry['description']}")
                 print("\n".join(c["label"] for c in entry["citations"]) + "\n")
         return
-    area_path = ROOT / "research/areas.json"
-    if area_path.exists():
-        write_area_pages(catalogue, load_json(area_path), args.docs / "areas")
+    write_area_pages(catalogue, area_config, places, args.docs / "areas")
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(json.dumps(catalogue, ensure_ascii=False, indent=2) + "\n")
     (args.output.parent / "coverage.json").write_text(json.dumps(coverage, ensure_ascii=False, indent=2) + "\n")

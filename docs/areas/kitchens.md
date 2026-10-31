@@ -8,6 +8,8 @@ All pages are project reference pages, ref250-v1. Group membership is a navigati
 
 After fleeing the library Harry stops at a tall suit of armour in an unfamiliar narrow corridor. He remembers another suit near the kitchens and thinks he must be five floors above it. Filch and Snape approach round a corner; an ajar door on Harry’s left provides refuge.
 
+Places: Corridors in general, Suits of armour and statues, Kitchens, Library.
+
 Evidence: explicit; state: December 1991, Christmas period.
 
 Model: Five floors is Harry’s uncertain estimate, not a verified kitchen or library floor. Armour here is distinct from the remembered kitchen suit.
@@ -23,30 +25,19 @@ Model: Five floors is Harry’s uncertain estimate, not a verified kitchen or li
 
 Ron reports that Fred and George obtained cakes and other party food from the kitchens.
 
+Places: Kitchens.
+
 Evidence: reported; state: Early 1992.
 
 Model: Confirms use as food source, but no entrance, layout or location is supplied.
 
 - [Book 1, ch. 13, “Nicolas Flamel”, ref p. 231, ¶121 (B01-C013-P0121)](../../build/reader/book-01.html#B01-C013-P0121)
 
-## B02-067: Hospital wing — Dobby’s disappearance
-
-Dobby appears at Harry’s bedside during the dark night and, hearing approaching footsteps, vanishes with a loud crack while Harry is holding his wrist.
-
-Evidence: explicit; state: November 1992.
-
-Model: Observed departure inside Hogwarts. Arrival itself is not witnessed and the mechanism is not named here.
-
-- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 177, ¶130 (B02-C010-P0130)](../../build/reader/book-02.html#B02-C010-P0130)
-- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 177–178, ¶131 (B02-C010-P0131)](../../build/reader/book-02.html#B02-C010-P0131)
-- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 178, ¶132 (B02-C010-P0132)](../../build/reader/book-02.html#B02-C010-P0132)
-- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 178, ¶134 (B02-C010-P0134)](../../build/reader/book-02.html#B02-C010-P0134)
-- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 181, ¶161 (B02-C010-P0161)](../../build/reader/book-02.html#B02-C010-P0161)
-- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 181, ¶162 (B02-C010-P0162)](../../build/reader/book-02.html#B02-C010-P0162)
-
 ## B04-015: Hogwarts kitchens
 
 Nearly Headless Nick reports that Peeves threw pots and pans around and left the kitchens flooded with soup before the feast.
+
+Places: Kitchens.
 
 Evidence: reported; state: 1 September 1994.
 
@@ -60,6 +51,8 @@ Model: A reported disruption earlier the same evening, not the normal kitchen st
 
 Nearly Headless Nick says Hogwarts has over a hundred house-elves, normally in the kitchens by day, emerging at night to clean and attend to fires.
 
+Places: Kitchens, Castle interiors in general.
+
 Evidence: reported; state: 1 September 1994.
 
 Model: The stated count and work pattern are reported. They imply staffing and nighttime activity, not a proven kitchen capacity or plan.
@@ -70,6 +63,8 @@ Model: The stated count and work pattern are reported. They imply staffing and n
 ## B04-040: House-elf maintenance
 
 Hermione describes house-elves changing bed sheets, lighting fires, cleaning classrooms and cooking food. George says he and Fred have repeatedly visited the kitchens for food.
+
+Places: Castle interiors in general, Kitchens.
 
 Evidence: reported; state: September–October 1994.
 
@@ -83,6 +78,8 @@ Model: Reported servicing and student kitchen access. This passage supplies no k
 ## B04-106: Gryffindor Tower to kitchen corridor
 
 Hermione leads Harry and Ron from the Gryffindor portrait corridor down through six floors, then down the marble staircase into the Entrance Hall. Turning left at its foot, they take the door Cedric used and descend a flight of stone steps into a broad, brightly torch-lit stone corridor decorated mainly with cheerful food paintings.
+
+Places: Kitchens, Gryffindor Tower, Marble staircase, Entrance Hall.
 
 Evidence: explicit; state: Late November–early December 1994.
 
@@ -100,6 +97,8 @@ Model: Left is from the descending-stair viewpoint, consistent with the earlier 
 
 A painting showing a gigantic silver fruit bowl stands partway down the corridor. Tickling its huge green pear makes it wriggle and laugh, then transform into a large green door handle; pulling the handle opens the concealed kitchen door.
 
+Places: Kitchens.
+
 Evidence: explicit; state: Late November–early December 1994.
 
 Model: This directly observed operation confirms Fred’s earlier directions in this chapter. Keep the handle transformation and opening action distinct.
@@ -111,6 +110,8 @@ Model: This directly observed operation confirms Fred’s earlier directions in 
 ## B04-108: Hogwarts kitchen structure
 
 The kitchen is an enormous high-ceilinged room as large as the Great Hall above it, with stone walls and a flagged stone floor. Glittering brass pots and pans are piled around the walls. A great brick fireplace occupies the far end, with a stool by it.
+
+Places: Kitchens.
 
 Evidence: explicit; state: Late November–early December 1994.
 
@@ -125,6 +126,8 @@ Model: Explicit scale relation to the Great Hall and far-end fireplace placement
 ## B04-109: Kitchen tables and staffing
 
 Four long wooden kitchen tables stand exactly beneath the corresponding four house tables in the Great Hall. They are bare after dinner. At least a hundred house-elves in Hogwarts-crested tea-towels occupy the kitchen, serve tea on a silver tray, and gather at the door when visitors leave.
+
+Places: Kitchens.
 
 Evidence: explicit; state: Late November–early December 1994.
 
@@ -141,6 +144,8 @@ Model: Table alignment is narrated as an observation. No separate fifth staff-se
 
 Harry supposes that before dinner the lower tables carried the dishes which were then sent through the ceiling to their counterparts in the Great Hall.
 
+Places: Kitchens, Great Hall.
+
 Evidence: inference; state: Late November–early December 1994.
 
 Model: Explicitly Harry’s deduction from the observed alignment and timing; the actual transfer is not witnessed in this scene.
@@ -150,6 +155,8 @@ Model: Explicitly Harry’s deduction from the observed alignment and timing; th
 ## B04-179: Kitchen hearth condition
 
 The brick behind Winky’s stool is smoke-blackened. She falls asleep on the hearth and elves cover her with a large checked tablecloth, while a Butterbeer bottle rolls across the flagged floor.
+
+Places: Kitchens.
 
 Evidence: explicit; state: March–late May 1995; maze briefing and Crouch encounter in late May.
 
@@ -161,21 +168,11 @@ Model: Adds soot and a temporary hearth obstruction to the earlier kitchen descr
 - [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 568, ¶32 (B04-C028-P0032)](../../build/reader/book-04.html#B04-C028-P0032)
 - [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 569, ¶40 (B04-C028-P0040)](../../build/reader/book-04.html#B04-C028-P0040)
 
-## B05-116: Room of Requirement disappearing door
-
-After the final three pupils leave, the door melts back into stone behind them.
-
-Evidence: explicit; state: October 1995, first DA meeting and preceding storm.
-
-Model: Observed closure effect; does not prove the contents cease to exist.
-
-- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 466–467, ¶259 (B05-C018-P0259)](../../build/reader/book-05.html#B05-C018-P0259)
-- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 467, ¶260 (B05-C018-P0260)](../../build/reader/book-05.html#B05-C018-P0260)
-- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 467, ¶264 (B05-C018-P0264)](../../build/reader/book-05.html#B05-C018-P0264)
-
 ## B06-002: Hogwarts kitchens
 
 Dumbledore identifies the Hogwarts kitchen as a workplace for the resident house-elves; Harry sends Kreacher to join them.
+
+Places: Kitchens.
 
 Evidence: reported; state: Summer 1996.
 
@@ -184,45 +181,11 @@ Model: Functional and occupancy information only; this passage gives no kitchen 
 - [Book 6, ch. 3, “Will and Won’t”, ref p. 56–57, ¶109 (B06-C003-P0109)](../../build/reader/book-06.html#B06-C003-P0109)
 - [Book 6, ch. 3, “Will and Won’t”, ref p. 57, ¶110 (B06-C003-P0110)](../../build/reader/book-06.html#B06-C003-P0110)
 
-## B06-117: House-elf arrival in hospital wing
-
-Calling Kreacher’s name produces a loud crack followed by Kreacher and Dobby wrestling on the ward floor. Peeves appears in midair above them and swoops around a lamp.
-
-Evidence: explicit; state: Night after Hufflepuff match, March 1997.
-
-Model: Observed instantaneous elf arrival inside the castle despite human Apparition restrictions. This scene does not explicitly name the travel mechanism or show their origin.
-
-- [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶183 (B06-C019-P0183)](../../build/reader/book-06.html#B06-C019-P0183)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶184 (B06-C019-P0184)](../../build/reader/book-06.html#B06-C019-P0184)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶185 (B06-C019-P0185)](../../build/reader/book-06.html#B06-C019-P0185)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶187 (B06-C019-P0187)](../../build/reader/book-06.html#B06-C019-P0187)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 438, ¶188 (B06-C019-P0188)](../../build/reader/book-06.html#B06-C019-P0188)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 438–439, ¶189 (B06-C019-P0189)](../../build/reader/book-06.html#B06-C019-P0189)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 439, ¶193 (B06-C019-P0193)](../../build/reader/book-06.html#B06-C019-P0193)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 439, ¶194 (B06-C019-P0194)](../../build/reader/book-06.html#B06-C019-P0194)
-- [Book 6, ch. 19, “Elf Tails”, ref p. 440, ¶199 (B06-C019-P0199)](../../build/reader/book-06.html#B06-C019-P0199)
-
-## B06-133: House-elf Disapparition in Gryffindor common room
-
-Kreacher and Dobby appear with cracks by the common-room fire, then Kreacher explicitly Disapparates and Dobby vanishes after giving their reports.
-
-Evidence: explicit; state: March–early April 1997.
-
-Model: Confirms elf Disapparition inside castle independently of human anti-Apparition rules. Arrival position is near the group/fire, not an invented fixed teleport point.
-
-- [Book 6, ch. 21, “The Unknowable Room”, ref p. 472, ¶29 (B06-C021-P0029)](../../build/reader/book-06.html#B06-C021-P0029)
-- [Book 6, ch. 21, “The Unknowable Room”, ref p. 472, ¶30 (B06-C021-P0030)](../../build/reader/book-06.html#B06-C021-P0030)
-- [Book 6, ch. 21, “The Unknowable Room”, ref p. 472, ¶31 (B06-C021-P0031)](../../build/reader/book-06.html#B06-C021-P0031)
-- [Book 6, ch. 21, “The Unknowable Room”, ref p. 472, ¶34 (B06-C021-P0034)](../../build/reader/book-06.html#B06-C021-P0034)
-- [Book 6, ch. 21, “The Unknowable Room”, ref p. 472, ¶35 (B06-C021-P0035)](../../build/reader/book-06.html#B06-C021-P0035)
-- [Book 6, ch. 21, “The Unknowable Room”, ref p. 473, ¶47 (B06-C021-P0047)](../../build/reader/book-06.html#B06-C021-P0047)
-- [Book 6, ch. 21, “The Unknowable Room”, ref p. 475, ¶63 (B06-C021-P0063)](../../build/reader/book-06.html#B06-C021-P0063)
-- [Book 6, ch. 21, “The Unknowable Room”, ref p. 475, ¶64 (B06-C021-P0064)](../../build/reader/book-06.html#B06-C021-P0064)
-- [Book 6, ch. 21, “The Unknowable Room”, ref p. 477, ¶82 (B06-C021-P0082)](../../build/reader/book-06.html#B06-C021-P0082)
-
 ## B07-079: Hogwarts kitchens / house-elves
 
 Ron expects the house-elves to be down in the kitchen during the battle and urges warning them to escape.
+
+Places: Kitchens.
 
 Evidence: reported; state: May 1998, Battle of Hogwarts before and just after midnight.
 
@@ -237,6 +200,8 @@ Model: Expectation of occupied kitchen, not a witnessed headcount or an evacuati
 ## B07-128: Front steps → Entrance Hall → Great Hall / kitchen route
 
 The crowd enters through the front doors and Harry is swept into the Entrance Hall, where Voldemort backs across into the Great Hall. Further reinforcements climb the front steps, centaurs enter, and the door leading to the kitchens is blasted off its hinges as armed house-elves swarm into the Entrance Hall.
+
+Places: Entrance Hall, Front steps and front doors, Great Hall, Kitchens.
 
 Evidence: explicit; state: May 1998, final battle at dawn.
 

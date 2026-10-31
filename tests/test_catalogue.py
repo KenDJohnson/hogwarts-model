@@ -110,5 +110,49 @@ class CatalogueTests(unittest.TestCase):
             self.assertEqual(parser.words["page-2"], ["small", "room."])
 
 
+class PlaceTests(unittest.TestCase):
+    def setUp(self):
+        self.areas = {"areas": [{"id": "castle", "title": "Castle"}, {"id": "grounds", "title": "Grounds"}]}
+        self.places = {"places": [
+            {"id": "hall", "title": "Hall", "area": "castle", "kind": "place", "scope": "One room."},
+            {"id": "lawn", "title": "Lawn", "area": "grounds", "kind": "group", "scope": "Open ground."}],
+            "assignments": {"B01-001": ["lawn", "hall"]}}
+
+    def test_complete_assignment_passes(self):
+        self.assertEqual(catalogue.validate_places({"B01-001"}, self.places, self.areas), [])
+
+    def test_unplaced_unknown_and_unused_fail(self):
+        self.places["assignments"] = {"B01-001": ["hall", "hall"], "B01-002": ["cellar"]}
+        errors = catalogue.validate_places({"B01-001", "B01-003"}, self.places, self.areas)
+        self.assertEqual(errors, ["B01-003: record has no place",
+                                  "B01-002: place assignment for unknown record",
+                                  "B01-001: needs one to four distinct places",
+                                  "B01-002: unknown place cellar",
+                                  "lawn: place has no records"])
+
+    def test_bad_place_definition_fails(self):
+        self.places["places"][0].update(area="tower", kind="room")
+        errors = catalogue.validate_places({"B01-001"}, self.places, self.areas)
+        self.assertEqual(errors, ["hall: unknown area tower", "hall: unknown place kind room"])
+
+    def test_areas_follow_places_in_order(self):
+        compiled = {"entries": [{"id": "B01-001"}]}
+        catalogue.assign_places(compiled, self.places)
+        self.assertEqual(compiled["entries"][0]["places"], ["lawn", "hall"])
+        self.assertEqual(compiled["entries"][0]["areas"], ["grounds", "castle"])
+
+    def test_area_pages_list_a_record_in_each_of_its_areas(self):
+        corpus, record = fixture()
+        compiled = catalogue.compile_catalogue(corpus, [record])
+        catalogue.assign_places(compiled, self.places)
+        with tempfile.TemporaryDirectory() as tmp:
+            catalogue.write_area_pages(compiled, self.areas, self.places, Path(tmp))
+            for area in ("castle", "grounds"):
+                page = (Path(tmp) / f"{area}.md").read_text()
+                self.assertIn("## B01-001: A room", page)
+                self.assertIn("Places: Lawn, Hall.", page)
+            self.assertIn("[Castle](castle.md): 1 records.", (Path(tmp) / "index.md").read_text())
+
+
 if __name__ == "__main__":
     unittest.main()

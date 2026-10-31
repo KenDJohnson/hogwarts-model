@@ -4,9 +4,39 @@
 
 All pages are project reference pages, ref250-v1. Group membership is a navigation aid; retain each record's certainty and dated state.
 
+## B05-115: House routes after DA meeting
+
+The Marauder’s Map shows Hufflepuffs returning to the basement corridor that also leads to the kitchens, Ravenclaws to a tower on the west side, and Gryffindors along the corridor to the Fat Lady.
+
+Places: Approach to the Hufflepuff common room, Ravenclaw Tower, Gryffindor Tower, Marauder’s Map.
+
+Evidence: explicit; state: October 1995, first DA meeting and preceding storm.
+
+Model: Narrated observation through the map; no complete Hufflepuff entrance or Ravenclaw interior supplied.
+
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 458, ¶181 (B05-C018-P0181)](../../build/reader/book-05.html#B05-C018-P0181)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 458, ¶182 (B05-C018-P0182)](../../build/reader/book-05.html#B05-C018-P0182)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 458, ¶184 (B05-C018-P0184)](../../build/reader/book-05.html#B05-C018-P0184)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 466, ¶258 (B05-C018-P0258)](../../build/reader/book-05.html#B05-C018-P0258)
+
+## B06-129: Common-room positions on the Map
+
+Inspecting the Map, Harry sees Gryffindors in one tower, Ravenclaws in another, Slytherins in the dungeons and Hufflepuffs in a basement near the kitchens.
+
+Places: Marauder’s Map, Approach to the Hufflepuff common room, Slytherin common room, Ravenclaw Tower.
+
+Evidence: explicit; state: March–early April 1997.
+
+Model: Narrated interpretation of a diegetic map; preserve distinct towers and basement/dungeon zones without supplying unshown coordinates or treating “near” as a shared wall.
+
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 487, ¶150 (B06-C021-P0150)](../../build/reader/book-06.html#B06-C021-P0150)
+- [Book 6, ch. 21, “The Unknowable Room”, ref p. 487–488, ¶151 (B06-C021-P0151)](../../build/reader/book-06.html#B06-C021-P0151)
+
 ## B07-055: Ravenclaw common room / Rowena statue and adjoining door
 
 Opposite the entrance, a niche contains a tall white-marble statue of Rowena Ravenclaw on a plinth. Beside it is a door Harry guesses leads to dormitories above. The statue has a beautiful, slightly intimidating quizzical half-smile and a delicate marble circlet etched with the motto “Wit beyond measure is man’s greatest treasure.”
+
+Places: Ravenclaw common room.
 
 Evidence: explicit; state: May 1998 return to Hogwarts.
 
@@ -21,6 +51,8 @@ Model: Dormitory destination and upward relation are Harry’s guess, distinct f
 
 With Filch a corridor ahead, Harry and Luna traverse moonlit squares, corners and suits of armour whose helmets creak at their footsteps, pausing for two passing ghosts. Luna leads them onto a spiral staircase, which rises in tight dizzying circles to Ravenclaw’s door.
 
+Places: Corridors in general, Ravenclaw Tower, Suits of armour and statues.
+
 Evidence: explicit; state: May 1998 return to Hogwarts.
 
 Model: No count of floors, turns, armour suits or total stairs supplied; the Map gives only the starting fifth floor.
@@ -33,6 +65,8 @@ Model: No count of floors, turns, armour suits or total stairs supplied; the Map
 ## B07-053: Ravenclaw common-room entrance
 
 The entrance is aged wood with neither handle nor keyhole, only a bronze eagle knocker. A knock makes its beak speak musically and ask a question. Luna says a wrong answer requires waiting for somebody who answers correctly; her answer about a circle’s lack of beginning opens it.
+
+Places: Ravenclaw Tower.
 
 Evidence: explicit; state: May 1998 return to Hogwarts.
 
@@ -53,6 +87,8 @@ Model: Reasoning challenge rather than a fixed password; one observed question d
 
 The wide circular room is exceptionally airy, with graceful arched windows between blue-and-bronze silk wall hangings. Surrounding mountains can be seen by day. A domed ceiling painted with stars is echoed by the midnight-blue carpet; tables, chairs and bookcases occupy the room.
 
+Places: Ravenclaw common room.
+
 Evidence: explicit; state: May 1998 return to Hogwarts.
 
 Model: Night visit with narrated daytime view potential. No window count, compass orientation or room diameter.
@@ -62,6 +98,8 @@ Model: Night visit with narrated daytime view potential. No window count, compas
 ## B07-056: Ravenclaw common room / dormitory staircase
 
 Alecto’s fall rattles glass in bookcases; the ceiling trembles with running feet from sleepers above, who enter through the dormitory door. Students retreat back up the staircase to their beds.
+
+Places: Ravenclaw common room.
 
 Evidence: explicit; state: May 1998, preparations for the battle.
 
@@ -77,6 +115,8 @@ Model: Confirms the previous chapter’s guessed dormitories above and stair acc
 ## B07-057: Ravenclaw entrance / reasoning challenge
 
 Amycus cannot open the door by shouting, shaking or loud bangs. McGonagall answers the eagle’s question about vanished objects with an explanation of non-being, and the door opens. She says Flitwick previously admitted Alecto at Amycus’s request.
+
+Places: Ravenclaw Tower.
 
 Evidence: explicit; state: May 1998, preparations for the battle.
 
@@ -96,6 +136,8 @@ Model: Correct reasoning admits a non-Ravenclaw teacher. Prior admission of Alec
 
 Amycus is thrown into a glass-fronted bookcase, smashing the glass. McGonagall binds the Carrows with silver rope and hoists their netted bodies to hang under the ceiling, here described as blue and gold.
 
+Places: Ravenclaw common room.
+
 Evidence: explicit; state: May 1998, preparations for the battle.
 
 Model: Dated broken furniture and suspended prisoners. Preserve this blue-and-gold ceiling wording alongside the preceding star-painted dome and bronze wall silks rather than silently standardising colours.
@@ -108,6 +150,8 @@ Model: Dated broken furniture and suspended prisoners. Preserve this blue-and-go
 ## B07-060: Ravenclaw spiral stair → lower corridor / unnamed classroom
 
 The group descends the spiral staircase and travels along corridors, then descends two additional floors before meeting Snape concealed behind armour. A wall torch sits in a bracket. Snape flees through a classroom door farther along that corridor and escapes through its window, flying towards the perimeter wall.
+
+Places: Ravenclaw Tower, Corridors in general, Unnamed and unused classrooms.
 
 Evidence: explicit; state: May 1998, preparations for the battle.
 
@@ -131,6 +175,8 @@ Model: Do not equate “two more floors” with a surveyed tower height. The cla
 
 Kingsley names Ravenclaw, Astronomy and Gryffindor as the three highest towers and assigns defenders there for their good overview and spell-casting positions, with other groups covering the grounds and passage entrances.
 
+Places: Astronomy Tower, Ravenclaw Tower, Gryffindor Tower.
+
 Evidence: reported; state: May 1998, Battle of Hogwarts before and just after midnight.
 
 Model: Names the three highest without ranking them individually here; previous highest-Astronomy evidence remains separate.
@@ -138,16 +184,3 @@ Model: Names the three highest without ranking them individually here; previous 
 - [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 646–647, ¶28 (B07-C031-P0028)](../../build/reader/book-07.html#B07-C031-P0028)
 - [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 647, ¶29 (B07-C031-P0029)](../../build/reader/book-07.html#B07-C031-P0029)
 - [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 647, ¶30 (B07-C031-P0030)](../../build/reader/book-07.html#B07-C031-P0030)
-
-## B07-087: Ravenclaw diadem / destruction outside hiding room
-
-The recovered old diadem is blackened and hot, its tiny wisdom motto still legible. A dark tarry fluid leaks out before it vibrates and breaks into fragments in Harry’s hands.
-
-Evidence: explicit; state: May 1998, Battle of Hogwarts before and just after midnight.
-
-Model: Dated destruction of the formerly stored object; its material is not specified in these paragraphs.
-
-- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 673, ¶267 (B07-C031-P0267)](../../build/reader/book-07.html#B07-C031-P0267)
-- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 673, ¶268 (B07-C031-P0268)](../../build/reader/book-07.html#B07-C031-P0268)
-- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 673, ¶269 (B07-C031-P0269)](../../build/reader/book-07.html#B07-C031-P0269)
-- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 673, ¶271 (B07-C031-P0271)](../../build/reader/book-07.html#B07-C031-P0271)

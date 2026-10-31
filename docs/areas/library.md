@@ -8,6 +8,8 @@ All pages are project reference pages, ref250-v1. Group membership is a navigati
 
 The library contains tens of thousands of books on thousands of shelves arranged in hundreds of narrow rows. A corridor runs outside its entrance.
 
+Places: Library.
+
 Evidence: explicit; state: December 1991, Christmas period.
 
 Model: Narrated approximate abundance, not a measured shelf inventory.
@@ -22,6 +24,8 @@ Model: Narrated approximate abundance, not a measured shelf inventory.
 
 The Restricted Section contains powerful Dark Magic books and requires a specially signed teacher’s note for access.
 
+Places: Restricted Section.
+
 Evidence: explicit; state: December 1991, Christmas period.
 
 Model: Administrative access rule, not proof of an impassable magical barrier.
@@ -31,6 +35,8 @@ Model: Administrative access rule, not proof of an impassable magical barrier.
 ## B01-079: Library — Restricted Section position and books
 
 The Restricted Section lies at the back of the library behind a separating rope. Nighttime shelves are unlit until Harry carries a lamp; volumes have peeling faded gold titles, unfamiliar languages or no titles, and one apparent bloodstain.
+
+Places: Restricted Section, Library.
 
 Evidence: explicit; state: December 1991, Christmas period.
 
@@ -45,6 +51,8 @@ Model: Low rope can be stepped over. The stain only looks like blood, and possib
 
 Opening a heavy black-and-silver book from a bottom shelf produces a piercing continuous scream, which continues when it is shut. Harry puts it back while fleeing past Filch at the library doorway.
 
+Places: Restricted Section, Library.
+
 Evidence: explicit; state: December 1991, Christmas period.
 
 Model: An acoustic alarm-like effect, not evidence that every restricted volume screams.
@@ -55,6 +63,8 @@ Model: An acoustic alarm-like effect, not evidence that every restricted volume 
 ## B01-081: Library escape corridor — armour and kitchens relation
 
 After fleeing the library Harry stops at a tall suit of armour in an unfamiliar narrow corridor. He remembers another suit near the kitchens and thinks he must be five floors above it. Filch and Snape approach round a corner; an ajar door on Harry’s left provides refuge.
+
+Places: Corridors in general, Suits of armour and statues, Kitchens, Library.
 
 Evidence: explicit; state: December 1991, Christmas period.
 
@@ -67,9 +77,28 @@ Model: Five floors is Harry’s uncertain estimate, not a verified kitchen or li
 - [Book 1, ch. 12, “The Mirror of Erised”, ref p. 211, ¶120 (B01-C012-P0120)](../../build/reader/book-01.html#B01-C012-P0120)
 - [Book 1, ch. 12, “The Mirror of Erised”, ref p. 211, ¶121 (B01-C012-P0121)](../../build/reader/book-01.html#B01-C012-P0121)
 
+## B01-083: Mirror classroom — return route
+
+Retracing the library route with Ron takes nearly an hour of wandering; recognising the suit of armour finally locates the mirror-room door again.
+
+Places: Disused classroom of the Mirror of Erised, Library, Suits of armour and statues.
+
+Evidence: explicit; state: December 1991, Christmas period.
+
+Model: The elapsed hour includes getting lost, so it must not become a route length.
+
+- [Book 1, ch. 12, “The Mirror of Erised”, ref p. 214, ¶144 (B01-C012-P0144)](../../build/reader/book-01.html#B01-C012-P0144)
+- [Book 1, ch. 12, “The Mirror of Erised”, ref p. 214, ¶145 (B01-C012-P0145)](../../build/reader/book-01.html#B01-C012-P0145)
+- [Book 1, ch. 12, “The Mirror of Erised”, ref p. 214, ¶146 (B01-C012-P0146)](../../build/reader/book-01.html#B01-C012-P0146)
+- [Book 1, ch. 12, “The Mirror of Erised”, ref p. 214, ¶147 (B01-C012-P0147)](../../build/reader/book-01.html#B01-C012-P0147)
+- [Book 1, ch. 12, “The Mirror of Erised”, ref p. 214–215, ¶148 (B01-C012-P0148)](../../build/reader/book-01.html#B01-C012-P0148)
+- [Book 1, ch. 12, “The Mirror of Erised”, ref p. 215, ¶149 (B01-C012-P0149)](../../build/reader/book-01.html#B01-C012-P0149)
+
 ## B01-092: Library — table and daylight window
 
 Pupils work with books and quills at a library table; Ron can look out through a window at the clear spring sky.
+
+Places: Library.
 
 Evidence: explicit; state: Spring 1992, Norbert episode.
 
@@ -80,23 +109,11 @@ Model: Window and study table are observed; external bearing and window height u
 - [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 234, ¶21 (B01-C014-P0021)](../../build/reader/book-01.html#B01-C014-P0021)
 - [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 234, ¶22 (B01-C014-P0022)](../../build/reader/book-01.html#B01-C014-P0022)
 
-## B01-105: Unnamed classroom near library route
-
-Returning from the library, Harry hears Quirrell in a classroom ahead. After Quirrell leaves he sees an empty room with a second door ajar at the other end.
-
-Evidence: explicit; state: Late spring 1992.
-
-Model: A through-room arrangement near the route, not a demonstrated shortcut or proof that Snape used the far door.
-
-- [Book 1, ch. 15, “The Forbidden Forest”, ref p. 250, ¶29 (B01-C015-P0029)](../../build/reader/book-01.html#B01-C015-P0029)
-- [Book 1, ch. 15, “The Forbidden Forest”, ref p. 250, ¶30 (B01-C015-P0030)](../../build/reader/book-01.html#B01-C015-P0030)
-- [Book 1, ch. 15, “The Forbidden Forest”, ref p. 250, ¶32 (B01-C015-P0032)](../../build/reader/book-01.html#B01-C015-P0032)
-- [Book 1, ch. 15, “The Forbidden Forest”, ref p. 250, ¶33 (B01-C015-P0033)](../../build/reader/book-01.html#B01-C015-P0033)
-- [Book 1, ch. 15, “The Forbidden Forest”, ref p. 251, ¶35 (B01-C015-P0035)](../../build/reader/book-01.html#B01-C015-P0035)
-
 ## B02-060: Restricted library books — borrowing rule
 
 Borrowing a book from the Restricted Section requires a teacher’s signed permission note.
+
+Places: Restricted Section.
 
 Evidence: explicit; state: November 1992, after first attack.
 
@@ -111,6 +128,8 @@ Model: Repeated rule now explicitly concerns checking out a book; not a magical 
 ## B02-061: Library — permission and lofty shelves
 
 Pince inspects the teacher’s note against the light, then retrieves the restricted potion book from among lofty shelves. The library is markedly quiet.
+
+Places: Library, Restricted Section.
 
 Evidence: explicit; state: November 1992.
 
@@ -129,6 +148,8 @@ Model: Observed administrative access, no automatic magical authentication or me
 
 Within five minutes of leaving the library the trio barricade themselves in the out-of-order bathroom. Myrtle occupies her own cubicle; Hermione chooses the room because other pupils avoid it.
 
+Places: Moaning Myrtle’s bathroom, Library.
+
 Evidence: explicit; state: November 1992.
 
 Model: Five minutes is this narrated transition, not a measured distance or direct adjacency.
@@ -141,6 +162,8 @@ Model: Five minutes is this narrated transition, not a measured distance or dire
 ## B02-079: Library — Invisibility section
 
 Hufflepuffs sit at the back of the library between long lines of high shelves. Harry listens from concealment in the Invisibility section.
+
+Places: Library.
 
 Evidence: explicit; state: November–December 1992.
 
@@ -155,6 +178,8 @@ Model: A subject shelving section, not a literal invisibility spell or separate 
 ## B02-109: Great Hall to library and pitch
 
 At the marble staircase after breakfast Harry hears the voice again. Hermione runs upstairs towards the library while other pupils leave the Great Hall through the front doors for the pitch. Harry collects his broom in Gryffindor Tower before crossing the grounds to the changing room.
+
+Places: Great Hall, Marble staircase, Library, Quidditch pitch.
 
 Evidence: explicit; state: Spring 1993.
 
@@ -176,6 +201,8 @@ Model: Upstairs library route, front-door stadium route; voice location/mechanis
 
 Hermione lies petrified in the bed next to Penelope Clearwater. McGonagall says they were found near the library with a small round mirror on the floor.
 
+Places: Hospital wing, Library.
+
 Evidence: explicit; state: Spring 1993 double attack.
 
 Model: Ward arrangement observed; attack location and mirror discovery reported by the teacher.
@@ -193,6 +220,8 @@ Model: Ward arrangement observed; attack location and mirror discovery reported 
 
 Groups of pupils watch Krum from behind the library bookshelves while others read; their giggling is audible enough to distract Hermione.
 
+Places: Library.
+
 Evidence: explicit; state: November 1994, before first task.
 
 Model: Establishes shelving used as visual cover and shared reading space, without a complete shelf plan.
@@ -200,9 +229,24 @@ Model: Establishes shelving used as visual cover and shared reading space, witho
 - [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 330–331, ¶26 (B04-C019-P0026)](../../build/reader/book-04.html#B04-C019-P0026)
 - [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 331, ¶27 (B04-C019-P0027)](../../build/reader/book-04.html#B04-C019-P0027)
 
+## B04-083: Lake circuit
+
+Harry and Hermione walk three times around the lake before returning to the library.
+
+Places: Lakeshore and beech tree, The lake, Library.
+
+Evidence: explicit; state: November 1994, first-task preparation.
+
+Model: Establishes that a complete walking circuit is possible in this state, not that it is a surfaced path of uniform width or known length.
+
+- [Book 4, ch. 20, “The First Task”, ref p. 353, ¶1 (B04-C020-P0001)](../../build/reader/book-04.html#B04-C020-P0001)
+- [Book 4, ch. 20, “The First Task”, ref p. 353, ¶4 (B04-C020-P0004)](../../build/reader/book-04.html#B04-C020-P0004)
+
 ## B04-105: Library shelving rows
 
 Ron watches Krum from behind bookshelves and finds six or seven girls hidden in the next row of books doing the same.
+
+Places: Library.
 
 Evidence: explicit; state: Late November–early December 1994.
 
@@ -213,6 +257,8 @@ Model: Adds multiple neighbouring shelving rows and inter-row hiding space witho
 ## B04-152: Library access and closing
 
 Harry obtains McGonagall’s permission to search the Restricted Section. The library has desks amid bookshelves, movable candles and lamps which Pince extinguishes at the eight-o’clock closing. Harry later re-enters through its door under his Cloak and reads by wandlight until falling asleep.
+
+Places: Library, Restricted Section.
 
 Evidence: explicit; state: Late January–24 February 1995; second-task preparation and event.
 
@@ -233,6 +279,8 @@ Model: Permission is required for the Restricted Section. After-hours entry does
 
 The twins collect Ron and Hermione from the library, saying they must take them down to McGonagall’s office.
 
+Places: Library, McGonagall’s office.
+
 Evidence: reported; state: Late January–24 February 1995; second-task preparation and event.
 
 Model: Reported downward route, not a traced staircase or floor number.
@@ -242,9 +290,50 @@ Model: Reported downward route, not a traced staircase or floor number.
 - [Book 4, ch. 26, “The Second Task”, ref p. 514, ¶64 (B04-C026-P0064)](../../build/reader/book-04.html#B04-C026-P0064)
 - [Book 4, ch. 26, “The Second Task”, ref p. 514, ¶66 (B04-C026-P0066)](../../build/reader/book-04.html#B04-C026-P0066)
 
+## B04-158: Second-task lake approach and stands
+
+Harry descends from the library through corridors and stairs into the Entrance Hall, exits the double oak doors and front stone steps, then runs down the lawn and around the lake. The former dragon-arena spectator seats are now ranged along the opposite bank in full stands reflected in the water; voices echo across it. A gold-draped judges’ table stands at the muddy water’s edge.
+
+Places: Lakeshore and beech tree, Library, Entrance Hall, Front steps and front doors.
+
+Evidence: explicit; state: Late January–24 February 1995; second-task preparation and event.
+
+Model: Preserve the lake circuit approach and relocated stands; opposite bank is relative to Harry’s initial approach.
+
+- [Book 4, ch. 26, “The Second Task”, ref p. 518, ¶108 (B04-C026-P0108)](../../build/reader/book-04.html#B04-C026-P0108)
+- [Book 4, ch. 26, “The Second Task”, ref p. 518, ¶109 (B04-C026-P0109)](../../build/reader/book-04.html#B04-C026-P0109)
+- [Book 4, ch. 26, “The Second Task”, ref p. 518, ¶110 (B04-C026-P0110)](../../build/reader/book-04.html#B04-C026-P0110)
+- [Book 4, ch. 26, “The Second Task”, ref p. 518–519, ¶111 (B04-C026-P0111)](../../build/reader/book-04.html#B04-C026-P0111)
+- [Book 4, ch. 26, “The Second Task”, ref p. 519, ¶112 (B04-C026-P0112)](../../build/reader/book-04.html#B04-C026-P0112)
+- [Book 4, ch. 26, “The Second Task”, ref p. 519, ¶113 (B04-C026-P0113)](../../build/reader/book-04.html#B04-C026-P0113)
+- [Book 4, ch. 26, “The Second Task”, ref p. 519, ¶115 (B04-C026-P0115)](../../build/reader/book-04.html#B04-C026-P0115)
+- [Book 4, ch. 26, “The Second Task”, ref p. 519–520, ¶118 (B04-C026-P0118)](../../build/reader/book-04.html#B04-C026-P0118)
+- [Book 4, ch. 26, “The Second Task”, ref p. 520, ¶121 (B04-C026-P0121)](../../build/reader/book-04.html#B04-C026-P0121)
+
+## B05-085: Proposed Defence practice rooms
+
+Katie suggests the library, Dean an unused classroom, and Ron recalls McGonagall permitting use of her room for Harry’s Triwizard practice. No meeting room is selected here.
+
+Places: Library, Unnamed and unused classrooms, Transfiguration classroom.
+
+Evidence: reported; state: Late September and first October Hogsmeade weekend, 1995.
+
+Model: Separate proposed venues from confirmed use; Ron’s past-use recollection is reported.
+
+- [Book 5, ch. 16, “In the Hog’s Head”, ref p. 408, ¶163 (B05-C016-P0163)](../../build/reader/book-05.html#B05-C016-P0163)
+- [Book 5, ch. 16, “In the Hog’s Head”, ref p. 408, ¶164 (B05-C016-P0164)](../../build/reader/book-05.html#B05-C016-P0164)
+- [Book 5, ch. 16, “In the Hog’s Head”, ref p. 408, ¶165 (B05-C016-P0165)](../../build/reader/book-05.html#B05-C016-P0165)
+- [Book 5, ch. 16, “In the Hog’s Head”, ref p. 408, ¶166 (B05-C016-P0166)](../../build/reader/book-05.html#B05-C016-P0166)
+- [Book 5, ch. 16, “In the Hog’s Head”, ref p. 408, ¶167 (B05-C016-P0167)](../../build/reader/book-05.html#B05-C016-P0167)
+- [Book 5, ch. 16, “In the Hog’s Head”, ref p. 408, ¶168 (B05-C016-P0168)](../../build/reader/book-05.html#B05-C016-P0168)
+- [Book 5, ch. 16, “In the Hog’s Head”, ref p. 408, ¶169 (B05-C016-P0169)](../../build/reader/book-05.html#B05-C016-P0169)
+- [Book 5, ch. 16, “In the Hog’s Head”, ref p. 408, ¶170 (B05-C016-P0170)](../../build/reader/book-05.html#B05-C016-P0170)
+
 ## B05-120: Pitch scheduling and library jinx
 
 Snape books the pitch repeatedly for Slytherin practices, restricting Gryffindor access. Fourteen witnesses report Alicia being jinxed from behind while working in the library; she attends the hospital wing.
+
+Places: Quidditch pitch, Library, Hospital wing.
 
 Evidence: explicit; state: Late October to first November Quidditch match, 1995.
 
@@ -256,6 +345,8 @@ Model: Pitch access is scheduled, not fenced by House. Library attack is a repor
 ## B05-163: Entrance Hall to library approach
 
 Hermione takes Ron from the Entrance Hall toward the marble staircase to go to the library; Cho ascends the same stair and Harry catches her halfway up before going to the library himself.
+
+Places: Entrance Hall, Marble staircase, Library.
 
 Evidence: explicit; state: January 1996 return and first Occlumency lesson.
 
@@ -273,6 +364,8 @@ Model: Library lies along this upward route, with no stated floor or direct stai
 
 Students work at lamp-lit tables while the sky darkens beyond mullioned windows; Madam Pince patrols the aisles. A window opposite Harry reflects his face.
 
+Places: Library.
+
 Evidence: explicit; state: January 1996 return and first Occlumency lesson.
 
 Model: Specific glazing pattern and reflective evening state; table/chair layout otherwise unspecified.
@@ -282,9 +375,28 @@ Model: Specific glazing pattern and reflective evening state; table/chair layout
 - [Book 5, ch. 24, “Occlumency”, ref p. 640, ¶249 (B05-C024-P0249)](../../build/reader/book-05.html#B05-C024-P0249)
 - [Book 5, ch. 24, “Occlumency”, ref p. 641, ¶262 (B05-C024-P0262)](../../build/reader/book-05.html#B05-C024-P0262)
 
+## B05-198: Room of Requirement evacuation bottleneck
+
+Pupils rush into a scrum at the exit, forming a queue and spilling into both ends of the corridor. At ten to nine Harry considers the library and Owlery nearer refuges than dormitories; he orders Dobby back down to the kitchen.
+
+Places: Seventh-floor corridor, Room of Requirement: DA practice room, Library, Owlery.
+
+Evidence: explicit; state: March–early April 1996, new Divination class and DA discovery.
+
+Model: Harry’s relative-distance assessment is contextual, not a measured path-length table.
+
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 723, ¶104 (B05-C027-P0104)](../../build/reader/book-05.html#B05-C027-P0104)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 723, ¶105 (B05-C027-P0105)](../../build/reader/book-05.html#B05-C027-P0105)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 723–724, ¶106 (B05-C027-P0106)](../../build/reader/book-05.html#B05-C027-P0106)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶107 (B05-C027-P0107)](../../build/reader/book-05.html#B05-C027-P0107)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶108 (B05-C027-P0108)](../../build/reader/book-05.html#B05-C027-P0108)
+- [Book 5, ch. 27, “The Centaur and the Sneak”, ref p. 724, ¶109 (B05-C027-P0109)](../../build/reader/book-05.html#B05-C027-P0109)
+
 ## B05-224: Library loans and food prohibition
 
 Pince stamps books several shelves away from the table. Discovering Harry and Ginny eating chocolate, she enchants his books, bag and ink bottle to chase and strike them out of the library.
+
+Places: Library.
 
 Evidence: explicit; state: Easter and start of summer term, April 1996.
 
@@ -304,6 +416,8 @@ Model: Observed enforcement enchantment; no permanent self-attacking furniture.
 
 Harry and Hermione work at a table with bookshelves behind them. The shelves are dark enough for someone nearby to remain unseen until Madam Pince comes around a corner carrying a lamp. Conversations are whispered and the library closes at night.
 
+Places: Library.
+
 Evidence: explicit; state: Before Christmas holidays, December 1996.
 
 Model: Shelf/table relationship, local concealment, portable lighting and use constraints. No shelf rows, room outline or full lighting plan established.
@@ -320,6 +434,8 @@ Model: Shelf/table relationship, local concealment, portable lighting and use co
 
 After library closing Harry and Hermione return along deserted lamp-lit corridors to the Fat Lady. The current festive password is Baubles; the portrait swings forwards and they climb through its hole.
 
+Places: Fat Lady portrait entrance, Library, Corridors in general.
+
 Evidence: explicit; state: Before Christmas holidays, December 1996.
 
 Model: Artificial corridor lighting and dated access credential; no exact floors or stair sequence in this route.
@@ -329,9 +445,24 @@ Model: Artificial corridor lighting and dated access credential; no exact floors
 - [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 321, ¶43 (B06-C015-P0043)](../../build/reader/book-06.html#B06-C015-P0043)
 - [Book 6, ch. 15, “The Unbreakable Vow”, ref p. 321, ¶44 (B06-C015-P0044)](../../build/reader/book-06.html#B06-C015-P0044)
 
+## B06-101: Restricted-section books
+
+Hermione reports searching the library’s restricted section for Horcrux explanations. An old borrowed book, Magick Moste Evile, gives a ghostly wail when slammed shut.
+
+Places: Restricted Section.
+
+Evidence: explicit; state: January–February 1997.
+
+Model: Book behaviour directly observed; completeness of her search is reported. No restricted-section entrance or shelving geometry is described here.
+
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 398, ¶69 (B06-C018-P0069)](../../build/reader/book-06.html#B06-C018-P0069)
+- [Book 6, ch. 18, “Birthday Surprises”, ref p. 398–399, ¶70 (B06-C018-P0070)](../../build/reader/book-06.html#B06-C018-P0070)
+
 ## B06-163: Library newspaper archive
 
 Hermione reports a whole collection of old Daily Prophets in the library, from which she obtains Eileen Prince’s school photograph and news item.
+
+Places: Library.
 
 Evidence: reported; state: Early June 1997.
 
@@ -348,6 +479,8 @@ Model: Archival collection, not evidence of where within the library it is shelv
 
 Hermione says Dumbledore removed all Horcrux books from the library shelves without destroying them, keeping them in his study. One recovered volume, Secrets of the Darkest Art, is large and bound in faded black leather.
 
+Places: Headmaster’s office, Library.
+
 Evidence: reported; state: July 1997 recollection.
 
 Model: Collection/storage state before funeral and subsequent removal; exact office shelf/cabinet is not identified and the time of original removal is explicitly uncertain.
@@ -358,13 +491,3 @@ Model: Collection/storage state before funeral and subsequent removal; exact off
 - [Book 7, ch. 6, “The Ghoul in Pyjamas”, ref p. 106, ¶161 (B07-C006-P0161)](../../build/reader/book-07.html#B07-C006-P0161)
 - [Book 7, ch. 6, “The Ghoul in Pyjamas”, ref p. 106–107, ¶166 (B07-C006-P0166)](../../build/reader/book-07.html#B07-C006-P0166)
 - [Book 7, ch. 6, “The Ghoul in Pyjamas”, ref p. 107, ¶167 (B07-C006-P0167)](../../build/reader/book-07.html#B07-C006-P0167)
-
-## B07-007: Dumbledore’s library and instruments bequeathed to school
-
-Scrimgeour says Dumbledore’s private library, magical instruments and most other personal effects were left to Hogwarts.
-
-Evidence: reported; state: 31 July 1997.
-
-Model: Disposition supports continued school ownership of the collection; no physical relocation or exact posthumous room arrangement is shown here.
-
-- [Book 7, ch. 7, “The Will of Albus Dumbledore”, ref p. 129, ¶148 (B07-C007-P0148)](../../build/reader/book-07.html#B07-C007-P0148)
