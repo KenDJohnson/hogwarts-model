@@ -165,6 +165,7 @@ try {
     return {
       quote: card.querySelector('.para p').textContent === HOGWARTS_DATA.passages[entry.citations[0].id],
       citation: card.querySelector('.meta dd').textContent,
+      gutter: card.querySelector('.para-ref span').textContent,
       index: card.querySelector('.entry-index').textContent,
       tags: card.querySelector('.entry-tags').textContent,
       state: card.textContent.includes(entry.temporal),
@@ -173,6 +174,7 @@ try {
   })()`);
   check('card quotes the actual text', first.quote);
   check('card shows citation', first.citation.includes('Book 1, ch. 4, “The Keeper of the Keys”, ref p. 57, ¶107'), first.citation);
+  check('gutter marks reference pages, not print pages', first.gutter === 'ref 57', first.gutter);
   check('card shows the index', first.index.includes('B01-001') && first.index.includes('No. 1 of 1,380'), first.index);
   check('card shows categorisation', first.tags.includes('History') && first.tags.includes('Reported'), first.tags);
   check('card shows state and model note', first.state && first.note);

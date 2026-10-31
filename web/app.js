@@ -220,7 +220,7 @@
           out += '<p class="passage-gap" title="Paragraphs between these are not part of this description">⋯</p>';
         }
       }
-      out += `<div class="para"><a class="para-ref" href="${readerHref(citation)}" target="_blank">¶${citation.paragraph ?? '–'}<span>p. ${pageSpan(citation)}</span></a><p>${highlight(DATA.passages[citation.id])}</p></div>`;
+      out += `<div class="para"><a class="para-ref" href="${readerHref(citation)}" target="_blank">¶${citation.paragraph ?? '–'}<span title="Project reference page, not a print page">ref ${pageSpan(citation)}</span></a><p>${highlight(DATA.passages[citation.id])}</p></div>`;
       previous = citation;
     }
     return out;
