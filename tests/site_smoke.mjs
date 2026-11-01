@@ -1,11 +1,12 @@
 #!/usr/bin/env node
-// Drives the built site in headless Chrome from its file:// URL, with real input
-// events, and checks the behaviour a reader relies on. Needs the ebook-derived
+// Drives both built editions in headless Chrome from their file:// URLs, with real
+// input events, and checks the behaviour a reader relies on. Needs the ebook-derived
 // build, so it is not part of `nix flake check`:
 //
-//   python scripts/build_site.py && node tests/site_smoke.mjs
+//   python scripts/build_site.py && python scripts/build_site.py --public && node tests/site_smoke.mjs
 //
-// Screenshots land in build/site-screens/. Set CHROME to use another binary.
+// Screenshots land in build/site-screens/. Set CHROME to use another binary, and
+// PUBLIC_SITE to check the published edition at its URL instead of the local build.
 import {spawn} from 'node:child_process';
 import {existsSync, mkdirSync, mkdtempSync, rmSync, writeFileSync} from 'node:fs';
 import {tmpdir} from 'node:os';
@@ -14,10 +15,13 @@ import {fileURLToPath, pathToFileURL} from 'node:url';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const PAGE = pathToFileURL(join(ROOT, 'build/site/index.html')).href;
+const PUBLIC_PAGE = process.env.PUBLIC_SITE ?? pathToFileURL(join(ROOT, 'build/public-site/index.html')).href;
 const SCREENS = join(ROOT, 'build/site-screens');
 const CHROME = process.env.CHROME ?? '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';
 
 class Browser {
+  url = PAGE;
+
   async launch() {
     this.profile = mkdtempSync(join(tmpdir(), 'hogwarts-smoke-'));
     this.process = spawn(CHROME, ['--headless=new', '--disable-gpu', '--no-first-run', '--no-default-browser-check',
@@ -69,7 +73,7 @@ class Browser {
 
   async open(hash = '') {
     await this.send('Page.navigate', {url: 'about:blank'});
-    await this.send('Page.navigate', {url: PAGE + hash});
+    await this.send('Page.navigate', {url: this.url + hash});
     await this.until("document.querySelector('.entry, .area-tile, .about, .empty') !== null");
   }
 
@@ -149,6 +153,18 @@ mkdirSync(SCREENS, {recursive: true});
 await browser.launch();
 const page = browser;
 
+// Unrendered cards use an estimated height; a poor estimate makes the scrollbar jump.
+async function checkHeightEstimate(name) {
+  const estimated = await page.eval('document.documentElement.scrollHeight');
+  await page.eval("document.querySelectorAll('.entry').forEach(item => { item.style.contentVisibility = 'visible'; })");
+  const actual = await page.eval('document.documentElement.scrollHeight');
+  const spread = await page.eval(`(() => {
+    const heights = [...document.querySelectorAll('.entry')].map(item => item.getBoundingClientRect().height);
+    return {mean: Math.round(heights.reduce((a, b) => a + b) / heights.length), max: Math.round(Math.max(...heights))};
+  })()`);
+  check(name, Math.abs(estimated - actual) / actual < 0.05, `${estimated} estimated, ${actual} actual, card mean ${spread.mean}px max ${spread.max}px`);
+}
+
 try {
   // Chronological view
   await page.size(1500, 1000);
@@ -180,15 +196,7 @@ try {
   check('card shows state and model note', first.state && first.note);
   await page.screenshot('chronological');
 
-  // Unrendered cards use an estimated height; a poor estimate makes the scrollbar jump.
-  const estimated = await page.eval('document.documentElement.scrollHeight');
-  await page.eval("document.querySelectorAll('.entry').forEach(item => { item.style.contentVisibility = 'visible'; })");
-  const actual = await page.eval('document.documentElement.scrollHeight');
-  const spread = await page.eval(`(() => {
-    const heights = [...document.querySelectorAll('.entry')].map(item => item.getBoundingClientRect().height);
-    return {mean: Math.round(heights.reduce((a, b) => a + b) / heights.length), max: Math.round(Math.max(...heights))};
-  })()`);
-  check('height estimate is close', Math.abs(estimated - actual) / actual < 0.05, `${estimated} estimated, ${actual} actual, card mean ${spread.mean}px max ${spread.max}px`);
+  await checkHeightEstimate('height estimate is close');
   await page.open();
 
   // Jumps land on the right card even though most cards have not been laid out yet.
@@ -410,6 +418,75 @@ try {
   await page.screenshot('phone-menu');
 
   check('no console errors', browser.errors.length === 0, browser.errors.slice(0, 5).join(' | '));
+
+  // Public edition: the same site with no book text anywhere in the page.
+  browser.errors.length = 0;
+  page.url = PUBLIC_PAGE;
+  await page.size(1500, 1000);
+  await page.open();
+  check('public: all entries render', await page.eval("document.querySelectorAll('.entry').length") === 1380);
+  check('public: no book text is shipped', await page.eval("Object.keys(HOGWARTS_DATA.passages).length === 0 && HOGWARTS_DATA.meta.quotedWords === 0"));
+  check('public: no quotation, reader link or passage control', await page.eval(`document.querySelectorAll('.passage, .para-ref, [href*="reader/"], [data-action="collapse"]').length === 0`));
+  const paraphrased = await page.eval(`(() => {
+    const card = document.querySelector('.entry');
+    const entry = HOGWARTS_DATA.entries[0];
+    return {
+      summary: card.querySelector('.entry-summary').textContent === entry.description,
+      citation: card.querySelector('.meta dd').textContent,
+      index: card.querySelector('.entry-index').textContent,
+      tags: card.querySelector('.entry-tags').textContent,
+      state: card.textContent.includes(entry.temporal),
+      note: card.textContent.includes(entry.notes),
+    };
+  })()`);
+  check('public: card leads with the paraphrase', paraphrased.summary);
+  check('public: card keeps citation, index, tags, state and note', paraphrased.citation.includes('Book 1, ch. 4, “The Keeper of the Keys”, ref p. 57, ¶107')
+    && paraphrased.index.includes('No. 1 of 1,380') && paraphrased.tags.includes('History') && paraphrased.state && paraphrased.note, paraphrased.citation);
+  check('public: says it is unofficial and has no book text', await page.eval("document.querySelector('.result-bar').textContent.includes('Unofficial fan catalogue')"));
+  await page.screenshot('public-chronological');
+  await checkHeightEstimate('public: height estimate is close');
+  await page.open();
+
+  await page.hash('#/books?entry=B05-147');
+  const publicLanded = await page.eval("document.getElementById('e-B05-147').getBoundingClientRect().top");
+  check('public: deep link lands on the entry', publicLanded > 40 && publicLanded < 160, `top ${Math.round(publicLanded)}px`);
+
+  await page.hash('#/books?entry=B01-014');
+  await page.click('#e-B01-014 .place-chip');
+  check('public: same-place panel opens', await page.eval("document.querySelectorAll('#panel .mini').length > 1"));
+  await page.click('#panel .mini:not(.is-source) summary');
+  check('public: panel row opens to its details', await page.eval(`(() => {
+    const body = document.querySelector('#panel .mini[open] .mini-body');
+    return Boolean(body) && !body.querySelector('.passage') && body.textContent.includes('Book ');
+  })()`));
+  await page.screenshot('public-panel');
+  check('public: expand-all button does not promise text', await page.eval(`document.querySelector('[data-action="expand-all"]').textContent === 'Show all details'`));
+  await page.click('[data-action="expand-all"]');
+  check('public: expand-all opens every row', await page.eval("[...document.querySelectorAll('#panel .mini')].every(row => row.open && row.querySelector('.mini-body'))"));
+  await page.key('Escape');
+
+  await page.click('#e-B01-014 .locators summary');
+  check('public: locators are not links to the reader', await page.eval("document.querySelector('#e-B01-014 .locators td').textContent.startsWith('B01-C') && !document.querySelector('#e-B01-014 .locators td a')"));
+
+  await page.click('#search');
+  await page.type('Pig snout');
+  const publicMatches = await page.eval("document.querySelectorAll('.entry').length");
+  check('public: search finds paraphrases', publicMatches > 0 && publicMatches < 1380, `${publicMatches} matches`);
+  check('public: search highlights the match', await page.eval("document.querySelector('.entry mark') !== null"));
+  await page.key('Escape');
+
+  await page.hash('#/areas');
+  check('public: area view opens', await page.eval("document.querySelectorAll('.area-tile').length") === 28);
+  await page.hash('#/about');
+  const publicAbout = await page.eval("document.querySelector('.about').textContent");
+  check('public: about page explains the edition', publicAbout.includes('No book text') && publicAbout.includes('not affiliated') && !publicAbout.includes('Local only'));
+
+  await page.size(390, 844, true);
+  await page.hash('#/books?entry=B01-014');
+  check('public: no sideways scrolling on a phone', await page.eval("document.documentElement.scrollWidth <= innerWidth"));
+  await page.screenshot('public-phone');
+
+  check('public: no console errors', browser.errors.length === 0, browser.errors.slice(0, 5).join(' | '));
 } catch (error) {
   failures++;
   console.log(`FAIL ${error.stack}`);

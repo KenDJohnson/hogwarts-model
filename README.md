@@ -5,6 +5,13 @@ a future explorable 3D model of Hogwarts and its grounds. The supplied British
 English Pottermore omnibus is the source. The ebook stays local and is ignored
 by Git, together with its complete extracted text.
 
+This is an unofficial, non-commercial fan project, not affiliated with or
+endorsed by J.K. Rowling, her publishers or Warner Bros. Harry Potter names and
+characters belong to their owners. The repository contains no ebook or book
+text: its catalogue holds paraphrases and locators.
+
+**[Browse the catalogue](https://kendjohnson.github.io/hogwarts-model/)**
+
 ## Reproduce the corpus
 
 ```sh
@@ -35,24 +42,31 @@ contain paraphrases and locators.
 
 ## Browse the descriptions
 
-After `catalogue.py build`, generate the browsing site:
+The [public edition](https://kendjohnson.github.io/hogwarts-model/) has a
+chronological view that follows book and chapter order, and an area view that
+groups descriptions by area and place. Every entry shows its paraphrase,
+citation, category, evidence type, index number, dated state and model note.
+From any entry, the place buttons open the other descriptions of that place
+beside the list, so you keep your position; you can step through them in book
+order. Search, filters and links to any entry all work too.
+
+With your own copy of the ebook, after `catalogue.py build`, generate the local
+edition. It adds the text of every cited paragraph, and each ¶ opens that
+paragraph in the reader:
 
 ```sh
 python scripts/build_site.py
 open build/site/index.html
 ```
 
-The site also works directly from disk. Its chronological view follows book
-and chapter order, and its area view groups descriptions by area and place.
-Every entry shows the cited book text, citation, category, evidence type, index
-number, dated state and model note, and each ¶ opens that paragraph in the
-reader. From any entry, the place buttons open the other descriptions of that
-place beside the list, so you keep your position; you can step through them in
-book order. Search, filters and links to any entry all work too.
+The local edition quotes about a quarter of the series, so it stays under ignored
+`build/`. Keep it local: do not commit or publish `build/site/`.
 
-The site's source is in `web/` and its generated copy stays under ignored
-`build/`, because it quotes every cited paragraph. Keep it local: do not commit
-or publish `build/site/`.
+`python scripts/build_site.py --public` builds the public edition into
+`build/public-site/` from committed files alone. The
+[Pages workflow](.github/workflows/pages.yml) runs it on every push to `master`.
+That job has neither the ebook nor the extracted text, so it cannot publish them.
+Both editions work directly from disk, and their source is in `web/`.
 
 Find and inspect evidence from the command line:
 
@@ -133,11 +147,12 @@ nix flake check
 No external Python packages or network services are needed to extract or query
 the ebook. Nix uses the committed lockfile for its development tools.
 
-`node tests/site_smoke.mjs` drives the built site in headless Chrome from its
-`file://` URL, with real clicks and key presses, and writes screenshots to
+`node tests/site_smoke.mjs` drives both built editions in headless Chrome from
+their `file://` URLs, with real clicks and key presses, and writes screenshots to
 `build/site-screens/`. It needs the ebook-derived build, Node and a local
 Chrome, so it runs on demand and is not part of `nix flake check`. Set `CHROME`
-to use another Chrome binary.
+to use another Chrome binary, and `PUBLIC_SITE` to check the published edition at
+its URL.
 
 `nix flake check` runs tool tests and validates the committed evidence bounds,
 source identity, review ledger, page arithmetic and generated JSON export

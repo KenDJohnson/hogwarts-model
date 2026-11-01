@@ -18,6 +18,9 @@
     ['inference', 'Inference', 'A deduction, explained in the model note'],
   ];
   const LONG_PASSAGE_WORDS = 180;
+  // The public edition has no book text, so entries rest on their paraphrases and citations.
+  const quoted = DATA.meta.quotedWords > 0;
+  const EXPAND_ALL = quoted ? ['Show all text', 'Hide all text'] : ['Show all details', 'Hide all details'];
 
   const $ = (selector, root = document) => root.querySelector(selector);
   const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
@@ -226,6 +229,12 @@
     return out;
   }
 
+  function passageBlock(entry) {
+    if (!quoted) return '';
+    const long = entry.words > LONG_PASSAGE_WORDS;
+    return `<div class="passage${long ? ' long' : ''}"><p class="passage-label">Source text · ${plural(entry.words, 'word')}</p>${passageHtml(entry)}${long ? '<button class="passage-more" data-action="expand">Show whole passage</button>' : ''}</div>`;
+  }
+
   function placeChip(entry, id) {
     const place = places.get(id);
     const others = placeEntries.get(id).length - 1;
@@ -234,13 +243,12 @@
   }
 
   // Skipped cards take this height until the browser lays them out, which keeps the scrollbar honest.
-  const estimatedHeight = entry => 256 + Math.ceil(entry.words / 12.5) * 27 + entry.citations.length * 13
+  const estimatedHeight = entry => (quoted ? 256 + Math.ceil(entry.words / 12.5) * 27 + entry.citations.length * 13 : 217)
     + Math.ceil((entry.description.length + entry.notes.length + entry.temporal.length) / 80) * 21;
 
   function card(entry, seen) {
     const first = !seen.has(entry.id);
     seen.add(entry.id);
-    const long = entry.words > LONG_PASSAGE_WORDS;
     const category = CATEGORIES.find(([key]) => key === entry.category);
     const certainty = CERTAINTIES.find(([key]) => key === entry.certainty);
     return `<article class="entry" data-entry="${entry.id}" ${first ? `id="e-${entry.id}"` : ''} style="contain-intrinsic-block-size:auto ${estimatedHeight(entry)}px">
@@ -251,7 +259,7 @@
 <h4 class="entry-title">${highlight(entry.location)}</h4>
 <div class="entry-places"><span class="row-label">Other descriptions</span>${entry.places.map(id => placeChip(entry, id)).join('')}</div>
 <p class="entry-summary">${highlight(entry.description)}</p>
-<div class="passage${long ? ' long' : ''}"><p class="passage-label">Source text · ${plural(entry.words, 'word')}</p>${passageHtml(entry)}${long ? '<button class="passage-more" data-action="expand">Show whole passage</button>' : ''}</div>
+${passageBlock(entry)}
 <dl class="meta">
   <div><dt>Citation</dt><dd>${esc(citationText(entry))} <button class="text-button" data-action="copy" data-entry="${entry.id}">Copy</button></dd></div>
   <div><dt>State</dt><dd>${highlight(entry.temporal)}</dd></div>
@@ -263,7 +271,7 @@
   }
 
   function locatorTable(entry) {
-    const rows = entry.citations.map(c => `<tr><td><a href="${readerHref(c)}" target="_blank">${c.id}</a></td><td>${pageSpan(c)}</td><td>${esc(c.member)} · ${esc(c.element)} (${esc(c.slot)})</td></tr>`);
+    const rows = entry.citations.map(c => `<tr><td>${quoted ? `<a href="${readerHref(c)}" target="_blank">${c.id}</a>` : c.id}</td><td>${pageSpan(c)}</td><td>${esc(c.member)} · ${esc(c.element)} (${esc(c.slot)})</td></tr>`);
     return `<table><thead><tr><th>Paragraph</th><th>Ref page</th><th>EPUB source</th></tr></thead><tbody>${rows.join('')}</tbody></table>`;
   }
 
@@ -272,7 +280,8 @@
   function resultBar(noun) {
     const shown = filtering() ? `<strong>${number(visible.length)}</strong> of ${number(entries.length)} descriptions match` : `<strong>${number(entries.length)}</strong> descriptions ${noun}`;
     const clear = filtering() ? ' <button class="text-button" data-action="clear-filters">Clear filters</button>' : '';
-    return `<p class="result-bar">${shown}.${clear}</p>`;
+    const edition = quoted ? '' : ' Unofficial fan catalogue: paraphrases and citations, not the novels’ text.';
+    return `<p class="result-bar">${shown}.${clear}${edition}</p>`;
   }
 
   const emptyState = () => '<div class="empty"><h2>No descriptions match</h2><p>Try fewer words, or clear the filters.</p><button class="button" data-action="clear-filters">Clear filters</button></div>';
@@ -350,9 +359,9 @@
     const {meta} = DATA;
     return `<article class="about">
 <h2>About this site</h2>
-<p>This site gathers every description of Hogwarts and its surroundings recorded in the catalogue, alongside the book paragraphs each one rests on. There are ${number(entries.length)} descriptions, reviewed against all ${number(meta.paragraphs)} paragraphs of the seven novels.</p>
+<p>This site gathers every description of Hogwarts and its surroundings recorded in the catalogue, ${quoted ? 'alongside' : 'with a citation to'} the book paragraphs each one rests on. There are ${number(entries.length)} descriptions, reviewed against all ${number(meta.paragraphs)} paragraphs of the seven novels.</p>
 <h3>Reference pages</h3>
-<p>The ebook has no print-page map, so page numbers here are project reference pages (${esc(meta.pagination.scheme)}): ${meta.pagination.words_per_page} narrative words per page, restarting in each book. They do not match any printed edition. Paragraph numbers and IDs such as <code>B01-C007-P0012</code> identify the exact source text, and each ¶ link opens that paragraph in the full-text reader.</p>
+<p>The ebook has no print-page map, so page numbers here are project reference pages (${esc(meta.pagination.scheme)}): ${meta.pagination.words_per_page} narrative words per page, restarting in each book. They do not match any printed edition. Paragraph numbers and IDs such as <code>B01-C007-P0012</code> identify the exact source text${quoted ? ', and each ¶ link opens that paragraph in the full-text reader' : ''}.</p>
 <h3>Index numbers</h3>
 <p>A record ID such as <code>B01-023</code> is the catalogue’s stable identifier. “No. 23 of ${number(entries.length)}” is the description’s position in book order. Chapters show the chapter of a description’s first cited paragraph.</p>
 <h3>Categories</h3>${definitions(CATEGORIES)}
@@ -368,8 +377,11 @@
   <div><dt><kbd>[</kbd> <kbd>]</kbd></dt><dd>Earlier or later description of the open place</dd></div>
   <div><dt><kbd>Esc</kbd></dt><dd>Close the side panel, or clear the search</dd></div>
 </dl>
-<h3>Local only</h3>
-<p>The site quotes ${number(meta.quotedWords)} words from your copy of the novels, so it is generated under the ignored <code>build/</code> folder and stays out of Git.</p>
+${quoted ? `<h3>Local only</h3>
+<p>The site quotes ${number(meta.quotedWords)} words from your copy of the novels, so it is generated under the ignored <code>build/</code> folder and stays out of Git.</p>` : `<h3>No book text</h3>
+<p>Entries are paraphrases with citations, so this edition does not contain the novels’ text. To read a passage, go to the cited book and chapter in your own copy. The catalogue was compiled from the British English Pottermore ebooks, and other editions can differ in wording.</p>
+<h3>Unofficial</h3>
+<p>This is an unofficial, non-commercial fan project, not affiliated with or endorsed by J.K. Rowling, her publishers or Warner Bros. Harry Potter names and characters belong to their owners. The <a href="https://github.com/KenDJohnson/hogwarts-model">source and method are on GitHub</a>.</p>`}
 </article>`;
   }
 
@@ -392,7 +404,7 @@
 ${facet('books', 'Book', DATA.books.map(book => pill('books', book.number, book.number, undefined, `${book.title}: ${number(bookCounts.get(book.number) ?? 0)}`)))}
 ${facet('cats', 'Category', CATEGORIES.map(([key, label, text]) => pill('cats', key, label, catCounts.get(key) ?? 0, text)))}
 ${facet('certs', 'Evidence', CERTAINTIES.map(([key, label, text]) => pill('certs', key, label, certCounts.get(key) ?? 0, text)))}
-<label class="switch"><input type="checkbox" data-action="collapse" ${document.body.classList.contains('collapse-long') ? 'checked' : ''}> Collapse long passages</label>
+${quoted ? `<label class="switch"><input type="checkbox" data-action="collapse" ${document.body.classList.contains('collapse-long') ? 'checked' : ''}> Collapse long passages</label>` : ''}
 </section>`;
   }
 
@@ -566,7 +578,7 @@ ${facet('certs', 'Evidence', CERTAINTIES.map(([key, label, text]) => pill('certs
   }
 
   function miniBody(entry) {
-    return `<div class="mini-body"><div class="passage">${passageHtml(entry)}</div><p class="mini-note">${esc(citationText(entry))}</p><p class="mini-note">State: ${esc(entry.temporal)}</p><p class="mini-actions"><a href="#/books?entry=${entry.id}" data-action="show-entry" data-entry="${entry.id}">Go to this entry</a><button class="text-button" data-action="copy" data-entry="${entry.id}">Copy citation</button></p></div>`;
+    return `<div class="mini-body">${quoted ? `<div class="passage">${passageHtml(entry)}</div>` : ''}<p class="mini-note">${esc(citationText(entry))}</p><p class="mini-note">State: ${esc(entry.temporal)}</p><p class="mini-actions"><a href="#/books?entry=${entry.id}" data-action="show-entry" data-entry="${entry.id}">Go to this entry</a><button class="text-button" data-action="copy" data-entry="${entry.id}">Copy citation</button></p></div>`;
   }
 
   function renderPanel() {
@@ -609,7 +621,7 @@ ${scopes.length > 1 ? `<div class="panel-tabs" role="group" aria-label="Show des
 <div class="panel-tools">
 <div class="stepper"><button class="button" data-action="step-place" data-direction="-1" ${position > 0 ? '' : 'disabled'} title="Previous description of this place ([)">‹ Earlier</button><button class="button" data-action="step-place" data-direction="1" ${position < list.length - 1 ? '' : 'disabled'} title="Next description of this place (])">Later ›</button></div>
 <label class="switch"><input type="checkbox" data-action="main-only" ${panel.mainOnly ? 'checked' : ''}> Main subject only</label>
-<button class="text-button" data-action="expand-all">Show all text</button>
+<button class="text-button" data-action="expand-all">${EXPAND_ALL[0]}</button>
 <a class="panel-full" href="${esc(fullListHref(panel.scope))}">Open as full list</a>
 </div></header>
 <div class="panel-list">${rows}</section></div>`;
@@ -756,7 +768,7 @@ ${scopes.length > 1 ? `<div class="panel-tabs" role="group" aria-label="Show des
       const rows = $$('.mini', panelElement);
       const open = rows.some(row => !row.open);
       rows.forEach(row => { row.open = open; });
-      button.textContent = open ? 'Hide all text' : 'Show all text';
+      button.textContent = EXPAND_ALL[open ? 1 : 0];
     },
     'show-entry'(element, event) {
       event.preventDefault();
@@ -860,5 +872,7 @@ ${scopes.length > 1 ? `<div class="panel-tabs" role="group" aria-label="Show des
   addEventListener('hashchange', onRoute);
 
   try { document.body.classList.toggle('collapse-long', Boolean(localStorage.getItem('hogwarts-collapse'))); } catch {}
+  document.body.classList.toggle('paraphrased', !quoted);
+  if (!quoted) search.placeholder = 'Search descriptions, places, notes';
   onRoute();
 })();

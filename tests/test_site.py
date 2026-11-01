@@ -45,18 +45,51 @@ def fixture():
     return corpus, catalogue, areas, places
 
 
+def inventory_of(corpus):
+    return {"source_sha256": corpus["source_sha256"], "books": [
+        {"number": book["number"], "title": book["title"], "chapters": [
+            {"number": ch["number"], "title": ch["title"], "is_epilogue": ch["is_epilogue"],
+             "paragraph_count": len(ch["paragraphs"])} for ch in book["chapters"]]}
+        for book in corpus["books"]]}
+
+
+def local_site():
+    corpus, catalogue, areas, places = fixture()
+    return build_site.site_data(inventory_of(corpus), catalogue, areas, places, build_site.cited_passages(corpus, catalogue))
+
+
+def public_site():
+    corpus, catalogue, areas, places = fixture()
+    return build_site.site_data(inventory_of(corpus), catalogue, areas, places)
+
+
 class SiteDataTests(unittest.TestCase):
     def test_only_cited_paragraphs_are_shipped(self):
-        data = build_site.site_data(*fixture())
+        data = local_site()
         self.assertEqual(data["passages"], {"B01-C001-P0001": "The cited hall.", "B01-C001-P0003": "A cited lawn."})
         self.assertEqual(data["meta"]["quotedWords"], 6)
 
+    def test_public_edition_holds_no_book_text(self):
+        data = public_site()
+        self.assertEqual(data["passages"], {})
+        self.assertEqual(data["meta"]["quotedWords"], 0)
+        payload = json.dumps(data)
+        for text in ("The cited hall.", "Never cited anywhere.", "A cited lawn."):
+            self.assertNotIn(text, payload)
+
+    def test_public_edition_differs_only_in_the_text(self):
+        local, public = local_site(), public_site()
+        for edition in (local, public):
+            del edition["passages"]
+            del edition["meta"]["quotedWords"]
+        self.assertEqual(local, public)
+
     def test_catalogue_order_is_preserved_for_the_chronological_view(self):
-        data = build_site.site_data(*fixture())
+        data = local_site()
         self.assertEqual([entry["id"] for entry in data["entries"]], ["B01-002", "B01-001"])
 
     def test_entry_carries_citation_locators_and_navigation(self):
-        entry = build_site.site_data(*fixture())["entries"][0]
+        entry = local_site()["entries"][0]
         self.assertEqual(entry["places"], ["hall"])
         self.assertEqual(entry["notes"], "Note.")
         ref = entry["citations"][0]
@@ -64,7 +97,7 @@ class SiteDataTests(unittest.TestCase):
         self.assertEqual(ref["member"], "1/ch.html")
 
     def test_book_titles_are_shortened_for_navigation(self):
-        book = build_site.site_data(*fixture())["books"][0]
+        book = local_site()["books"][0]
         self.assertEqual(book["shortTitle"], "Fixture Stone")
         self.assertEqual(book["chapters"][0]["title"], "Arrival")
 
@@ -72,10 +105,12 @@ class SiteDataTests(unittest.TestCase):
         corpus, catalogue, areas, places = fixture()
         catalogue["source_sha256"] = "other"
         with self.assertRaises(ValueError):
-            build_site.site_data(corpus, catalogue, areas, places)
+            build_site.cited_passages(corpus, catalogue)
+        with self.assertRaises(ValueError):
+            build_site.site_data(inventory_of(corpus), catalogue, areas, places)
 
     def test_written_site_loads_from_disk_without_a_server(self):
-        data = build_site.site_data(*fixture())
+        data = local_site()
         with tempfile.TemporaryDirectory() as tmp:
             output = Path(tmp) / "site"
             build_site.write_site(data, ASSETS, output)

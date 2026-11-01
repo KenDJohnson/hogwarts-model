@@ -422,6 +422,7 @@ mark { background: var(--mark); color: inherit; border-radius: 2px; padding: 0 .
 .place-chip:disabled { border-color: var(--line); color: var(--muted); }
 
 .entry-summary { margin: .6rem 0 .7rem; color: var(--muted); font-size: .92rem; }
+.paraphrased .entry-summary { color: var(--ink); font-family: var(--serif); font-size: 1.06rem; line-height: 1.6; }
 
 .passage {
   position: relative;
