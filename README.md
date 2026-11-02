@@ -50,6 +50,11 @@ From any entry, the place buttons open the other descriptions of that place
 beside the list, so you keep your position; you can step through them in book
 order. Search, filters and links to any entry all work too.
 
+The Overview tab gathers what the books establish about the castle as a whole, with
+a floor-by-floor table. Every area and place also opens with its own consolidated
+description. The same text is in [docs/overviews/](docs/overviews/index.md) and
+[overviews.json](research/overviews.json).
+
 With your own copy of the ebook, after `catalogue.py build`, generate the local
 edition. It adds the text of every cited paragraph, and each ¶ opens that
 paragraph in the reader:
@@ -110,7 +115,7 @@ modelling choices.
 The complete seven-book narrative has been reviewed: **199 chapter files
 including the epilogue, 38,426 paragraphs and 33 additional text fragments**.
 The corpus contains **1,101,442 words** and **4,410 project reference pages**.
-The catalogue contains **1,380 records**. All chapter and supplementary-text
+The catalogue contains **1,443 records**. All chapter and supplementary-text
 review ranges are complete. A second pass inspected **283 uncited discovery
 candidates** across all seven books; its decisions are recorded in
 [the audit log](research/audit-log.json).
@@ -119,7 +124,13 @@ Full-text coverage and reference validity are checked mechanically. Semantic
 exhaustiveness remains a research judgement: the complete review, explicit
 inclusion rules, source links and omission audit make that judgement inspectable.
 
-The [model foundation](docs/model-foundation.md) records 51 selected
+The [overviews](docs/overviews/index.md) consolidate those records: 2,014 cited
+facts about the castle, its 28 areas and its 131 places, labelled as explicit,
+reported, inferred or estimated. Read them, and the
+[generation brief](docs/generation-brief.md), before making any image or model.
+The brief lists the size checks that every attempt has to meet.
+
+The [model foundation](docs/model-foundation.md) records 62 selected
 source-backed constraints, conflicts and changing states. Its editable,
 machine-readable source is [model-constraints.json](research/model-constraints.json).
 It is a starting constraint set rather than a unique castle plan.

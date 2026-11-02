@@ -154,6 +154,53 @@ await browser.launch();
 const page = browser;
 
 // Unrendered cards use an estimated height; a poor estimate makes the scrollbar jump.
+async function checkOverviews(edition, shot) {
+  await page.hash('#/overview');
+  const castle = await page.eval(`(() => {
+    const rows = [...document.querySelectorAll('.levels tbody tr')];
+    return {
+      rows: rows.map(row => row.querySelector('th').firstChild.textContent),
+      seventh: rows.find(row => row.querySelector('th').textContent.startsWith('Seventh floor')).textContent,
+      text: document.querySelector('.castle').textContent,
+      noSidebar: document.getElementById('layout').classList.contains('no-sidebar'),
+      current: document.querySelector('#nav-overview').getAttribute('aria-current'),
+    };
+  })()`);
+  check(`${edition}overview page lists every level from top to bottom`, castle.rows[0] === 'Above the seventh floor' && castle.rows.includes('First floor') && castle.rows.at(-1) === 'Deeper, unplaced', castle.rows.join(', '));
+  check(`${edition}seventh floor carries Gryffindor and the Room of Requirement`, castle.seventh.includes('Gryffindor common room') && castle.seventh.includes('Room of Requirement'));
+  check(`${edition}overview page gives the headline counts`, castle.text.includes('142 staircases') && castle.text.includes('hundreds of narrow rows') && castle.text.includes('British'));
+  check(`${edition}overview tab is current and needs no sidebar`, castle.current === 'page' && castle.noSidebar);
+  await page.screenshot(`${shot}overview`);
+  await page.click('.levels tbody a[href*="gryffindor-common-room"]');
+  check(`${edition}floor table links to the place`, await page.eval("location.hash.startsWith('#/areas/gryffindor/gryffindor-common-room')"));
+  const tower = await page.eval(`(() => {
+    const top = document.querySelector('#content > .overview.top-level');
+    return {
+      summary: top?.querySelector('.overview-summary').textContent ?? '',
+      size: top?.querySelectorAll('.fact').length ?? 0,
+      estimate: Boolean(top?.querySelector('.cert-estimate')),
+      places: document.querySelectorAll('.place-section .overview').length,
+      firstEntry: document.querySelector('.place-section .entry') !== null,
+    };
+  })()`);
+  check(`${edition}area opens with its consolidated description`, tower.summary.includes('seventh floor') && tower.summary.includes('15 storeys'), tower.summary.slice(0, 80));
+  check(`${edition}area shows size facts outright, with estimates labelled`, tower.size >= 5 && tower.estimate, `${tower.size} facts`);
+  check(`${edition}every place keeps its own overview above its entries`, tower.places === 5 && tower.firstEntry, `${tower.places} places`);
+  await page.screenshot(`${shot}area-overview`);
+  await page.click('#content > .overview .overview-more summary');
+  check(`${edition}overview unfolds the rest of the facts`, await page.eval("document.querySelector('#content > .overview .overview-more').open && document.querySelectorAll('#content > .overview .fact-why').length > 0"));
+  await page.hash('#/areas/kitchens');
+  check(`${edition}a one-place area leads with the place overview`, await page.eval("document.querySelector('.place-section .overview.top-level .overview-summary').textContent.includes('Great Hall')"));
+  await page.hash('#/books?entry=B01-014');
+  await page.click('#e-B01-014 .place-chip');
+  check(`${edition}side panel opens with the place overview`, await page.eval("document.querySelector('#panel .panel-overview').open && document.querySelector('#panel .panel-overview p').textContent.length > 100"));
+  await page.click('#panel .panel-overview summary');
+  await page.click('#panel [data-action="step-place"][data-direction="1"]');
+  check(`${edition}side panel keeps the overview folded while stepping`, await page.eval("!document.querySelector('#panel .panel-overview').open"));
+  await page.click('#panel .panel-overview summary');
+  await page.key('Escape');
+}
+
 async function checkHeightEstimate(name) {
   const estimated = await page.eval('document.documentElement.scrollHeight');
   await page.eval("document.querySelectorAll('.entry').forEach(item => { item.style.contentVisibility = 'visible'; })");
@@ -171,13 +218,13 @@ try {
   await page.open();
   await page.until("performance.getEntriesByType('navigation')[0].loadEventEnd > 0");
   const load = await page.eval("Math.round(performance.getEntriesByType('navigation')[0].loadEventEnd)");
-  check('all entries render', await page.eval("document.querySelectorAll('.entry').length") === 1380);
+  check('all entries render', await page.eval("document.querySelectorAll('.entry').length") === 1443);
   check('loads quickly', load < 2500, `${load} ms to loaded`);
   check('seven books in order', await page.eval("[...document.querySelectorAll('.book')].map(item => item.id).join()") === 'book-1,book-2,book-3,book-4,book-5,book-6,book-7');
   check('entries follow catalogue order', await page.eval("[...document.querySelectorAll('.entry')].every((item, i) => item.dataset.entry === HOGWARTS_DATA.entries[i].id)"));
   const first = await page.eval(`(() => {
-    const card = document.querySelector('.entry');
-    const entry = HOGWARTS_DATA.entries[0];
+    const card = document.getElementById('e-B01-001');
+    const entry = HOGWARTS_DATA.entries.find(item => item.id === 'B01-001');
     return {
       quote: card.querySelector('.para p').textContent === HOGWARTS_DATA.passages[entry.citations[0].id],
       citation: card.querySelector('.meta dd').textContent,
@@ -191,7 +238,7 @@ try {
   check('card quotes the actual text', first.quote);
   check('card shows citation', first.citation.includes('Book 1, ch. 4, “The Keeper of the Keys”, ref p. 57, ¶107'), first.citation);
   check('gutter marks reference pages, not print pages', first.gutter === 'ref 57', first.gutter);
-  check('card shows the index', first.index.includes('B01-001') && first.index.includes('No. 1 of 1,380'), first.index);
+  check('card shows the index', first.index.includes('B01-001') && first.index.includes('No. 3 of 1,443'), first.index);
   check('card shows categorisation', first.tags.includes('History') && first.tags.includes('Reported'), first.tags);
   check('card shows state and model note', first.state && first.note);
   await page.screenshot('chronological');
@@ -303,12 +350,12 @@ try {
   check('slash focuses search', await page.eval("document.activeElement.id") === 'search');
   await page.type("Filch's");
   const straight = await page.eval("document.querySelectorAll('.entry').length");
-  check('straight apostrophe finds curly text', straight > 0 && straight < 1380, `${straight} results`);
+  check('straight apostrophe finds curly text', straight > 0 && straight < 1443, `${straight} results`);
   check('matches are highlighted', await page.eval("document.querySelectorAll('.entry mark').length") > 0);
-  check('result count is shown', await page.eval("document.querySelector('.result-bar').textContent").then(text => text.includes(`${straight} of 1,380`)));
+  check('result count is shown', await page.eval("document.querySelector('.result-bar').textContent").then(text => text.includes(`${straight} of 1,443`)));
   await page.screenshot('search');
   await page.key('Escape');
-  check('escape clears the search', await page.eval("document.querySelectorAll('.entry').length") === 1380);
+  check('escape clears the search', await page.eval("document.querySelectorAll('.entry').length") === 1443);
   await page.type('"marble staircase"');
   const phrase = await page.eval("document.querySelectorAll('.entry').length");
   check('quoted phrase search works', phrase > 0 && phrase < 300, `${phrase} results`);
@@ -319,7 +366,7 @@ try {
   await page.type('zzzznothing');
   check('no results shows an empty state', await page.eval("document.querySelector('.empty') !== null"));
   await page.click('.empty [data-action="clear-filters"]');
-  check('clear filters restores everything', await page.eval("document.querySelectorAll('.entry').length") === 1380);
+  check('clear filters restores everything', await page.eval("document.querySelectorAll('.entry').length") === 1443);
 
   // Filters
   await page.eval("document.activeElement.blur()");
@@ -342,6 +389,9 @@ try {
   // Area view
   await page.hash('#/areas');
   check('area index lists all areas', await page.eval("document.querySelectorAll('.area-tile').length") === 28);
+
+  await checkOverviews('', '');
+  await page.hash('#/areas');
   await page.screenshot('areas');
   await page.click('.area-tile[href*="great-hall"]');
   check('area page opens', await page.eval("document.querySelector('.view-intro h2').textContent") === 'Great Hall and adjoining rooms');
@@ -424,12 +474,12 @@ try {
   page.url = PUBLIC_PAGE;
   await page.size(1500, 1000);
   await page.open();
-  check('public: all entries render', await page.eval("document.querySelectorAll('.entry').length") === 1380);
+  check('public: all entries render', await page.eval("document.querySelectorAll('.entry').length") === 1443);
   check('public: no book text is shipped', await page.eval("Object.keys(HOGWARTS_DATA.passages).length === 0 && HOGWARTS_DATA.meta.quotedWords === 0"));
   check('public: no quotation, reader link or passage control', await page.eval(`document.querySelectorAll('.passage, .para-ref, [href*="reader/"], [data-action="collapse"]').length === 0`));
   const paraphrased = await page.eval(`(() => {
-    const card = document.querySelector('.entry');
-    const entry = HOGWARTS_DATA.entries[0];
+    const card = document.getElementById('e-B01-001');
+    const entry = HOGWARTS_DATA.entries.find(item => item.id === 'B01-001');
     return {
       summary: card.querySelector('.entry-summary').textContent === entry.description,
       citation: card.querySelector('.meta dd').textContent,
@@ -441,7 +491,7 @@ try {
   })()`);
   check('public: card leads with the paraphrase', paraphrased.summary);
   check('public: card keeps citation, index, tags, state and note', paraphrased.citation.includes('Book 1, ch. 4, “The Keeper of the Keys”, ref p. 57, ¶107')
-    && paraphrased.index.includes('No. 1 of 1,380') && paraphrased.tags.includes('History') && paraphrased.state && paraphrased.note, paraphrased.citation);
+    && paraphrased.index.includes('No. 3 of 1,443') && paraphrased.tags.includes('History') && paraphrased.state && paraphrased.note, paraphrased.citation);
   check('public: says it is unofficial and has no book text', await page.eval("document.querySelector('.result-bar').textContent.includes('Unofficial fan catalogue')"));
   await page.screenshot('public-chronological');
   await checkHeightEstimate('public: height estimate is close');
@@ -471,12 +521,14 @@ try {
   await page.click('#search');
   await page.type('Pig snout');
   const publicMatches = await page.eval("document.querySelectorAll('.entry').length");
-  check('public: search finds paraphrases', publicMatches > 0 && publicMatches < 1380, `${publicMatches} matches`);
+  check('public: search finds paraphrases', publicMatches > 0 && publicMatches < 1443, `${publicMatches} matches`);
   check('public: search highlights the match', await page.eval("document.querySelector('.entry mark') !== null"));
   await page.key('Escape');
 
   await page.hash('#/areas');
   check('public: area view opens', await page.eval("document.querySelectorAll('.area-tile').length") === 28);
+
+  await checkOverviews('public: ', 'public-');
   await page.hash('#/about');
   const publicAbout = await page.eval("document.querySelector('.about').textContent");
   check('public: about page explains the edition', publicAbout.includes('No book text') && publicAbout.includes('not affiliated') && !publicAbout.includes('Local only'));

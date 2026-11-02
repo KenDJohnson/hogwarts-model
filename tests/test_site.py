@@ -42,7 +42,10 @@ def fixture():
         record("B01-001", "B01-C001-P0003", "A cited lawn.")]}
     areas = {"areas": [{"id": "castle", "title": "Castle"}]}
     places = {"places": [{"id": "hall", "title": "Hall", "area": "castle", "kind": "place", "scope": "Room."}]}
-    return corpus, catalogue, areas, places
+    overview = {"summary": "A big room.", "facts": [{"aspect": "scale", "text": "Large.", "certainty": "explicit", "records": ["B01-001"]}]}
+    overviews = {"schema_version": 1, "note": "Internal.", "castle": {**overview, "conventions": [], "levels": []},
+                 "areas": {}, "places": {"hall": overview}}
+    return corpus, catalogue, areas, places, overviews
 
 
 def inventory_of(corpus):
@@ -54,13 +57,13 @@ def inventory_of(corpus):
 
 
 def local_site():
-    corpus, catalogue, areas, places = fixture()
-    return build_site.site_data(inventory_of(corpus), catalogue, areas, places, build_site.cited_passages(corpus, catalogue))
+    corpus, catalogue, areas, places, overviews = fixture()
+    return build_site.site_data(inventory_of(corpus), catalogue, areas, places, overviews, build_site.cited_passages(corpus, catalogue))
 
 
 def public_site():
-    corpus, catalogue, areas, places = fixture()
-    return build_site.site_data(inventory_of(corpus), catalogue, areas, places)
+    corpus, catalogue, areas, places, overviews = fixture()
+    return build_site.site_data(inventory_of(corpus), catalogue, areas, places, overviews)
 
 
 class SiteDataTests(unittest.TestCase):
@@ -102,12 +105,17 @@ class SiteDataTests(unittest.TestCase):
         self.assertEqual(book["chapters"][0]["title"], "Arrival")
 
     def test_mismatched_sources_are_refused(self):
-        corpus, catalogue, areas, places = fixture()
+        corpus, catalogue, areas, places, overviews = fixture()
         catalogue["source_sha256"] = "other"
         with self.assertRaises(ValueError):
             build_site.cited_passages(corpus, catalogue)
         with self.assertRaises(ValueError):
-            build_site.site_data(inventory_of(corpus), catalogue, areas, places)
+            build_site.site_data(inventory_of(corpus), catalogue, areas, places, overviews)
+
+    def test_overviews_reach_both_editions(self):
+        for data in (local_site(), public_site()):
+            self.assertEqual(sorted(data["overviews"]), ["areas", "castle", "places"])
+            self.assertEqual(data["overviews"]["places"]["hall"]["summary"], "A big room.")
 
     def test_written_site_loads_from_disk_without_a_server(self):
         data = local_site()

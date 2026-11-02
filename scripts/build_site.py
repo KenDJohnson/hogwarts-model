@@ -44,7 +44,8 @@ def cited_passages(corpus: dict, catalogue: dict) -> dict:
     return {ref: index[ref]["text"] for entry in catalogue["entries"] for ref in entry["evidence"]}
 
 
-def site_data(inventory: dict, catalogue: dict, area_config: dict, places: dict, passages: dict | None = None) -> dict:
+def site_data(inventory: dict, catalogue: dict, area_config: dict, places: dict, overviews: dict,
+              passages: dict | None = None) -> dict:
     """Assemble the site from committed records. Without passages it holds no book text."""
     if inventory["source_sha256"] != catalogue["source_sha256"]:
         raise ValueError("Inventory and compiled catalogue come from different sources")
@@ -60,6 +61,7 @@ def site_data(inventory: dict, catalogue: dict, area_config: dict, places: dict,
                   for book in inventory["books"]],
         "areas": area_config["areas"],
         "places": places["places"],
+        "overviews": {key: overviews[key] for key in ("castle", "areas", "places")},
         "passages": passages,
         "entries": [{"id": entry["id"], "location": entry["location"], "category": entry["category"],
                      "certainty": entry["certainty"], "temporal": entry["temporal"],
@@ -93,7 +95,8 @@ def main() -> None:
             sys.exit(f"Missing {args.corpus}: run scripts/corpus.py on the ebook first")
         passages = cited_passages(load_json(args.corpus), catalogue)
     data = site_data(load_json(ROOT / "research/source-inventory.json"), catalogue,
-                     load_json(ROOT / "research/areas.json"), load_json(ROOT / "research/places.json"), passages)
+                     load_json(ROOT / "research/areas.json"), load_json(ROOT / "research/places.json"),
+                     load_json(ROOT / "research/overviews.json"), passages)
     output = args.output or ROOT / ("build/public-site" if args.public else "build/site")
     write_site(data, args.assets, output)
     print(f"Built {len(data['entries'])} entries quoting {data['meta']['quotedWords']:,} words: {output / 'index.html'}")

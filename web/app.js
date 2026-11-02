@@ -17,6 +17,15 @@
     ['reported', 'Reported', 'A character’s statement, legend or explanation'],
     ['inference', 'Inference', 'A deduction, explained in the model note'],
   ];
+  const FACT_LABELS = [...CERTAINTIES, ['estimate', 'Estimate', 'A modelling minimum resting on an assumption the books do not give']];
+  const ASPECTS = [
+    ['scale', 'Size and numbers'],
+    ['location', 'Where it is'],
+    ['form', 'Shape and structure'],
+    ['access', 'Getting there'],
+    ['contents', 'What is inside'],
+    ['changes', 'How it changes'],
+  ];
   const LONG_PASSAGE_WORDS = 180;
   // The public edition has no book text, so entries rest on their paraphrases and citations.
   const quoted = DATA.meta.quotedWords > 0;
@@ -56,6 +65,7 @@
   let visible = entries;
   let renderedKey = null;
   let currentEntry = null;
+  let panelOverviewOpen = true;
 
   // Text helpers
 
@@ -178,6 +188,7 @@
 
   function routePath() {
     if (route.view === 'about') return '/about';
+    if (route.view === 'overview') return '/overview';
     if (route.view === 'areas') return ['/areas', route.area, route.place].filter(Boolean).join('/');
     return ['/books', route.book, route.chapter].filter(Boolean).join('/');
   }
@@ -194,7 +205,7 @@
     filters.books = new Set(list('book').map(Number));
     filters.cats = new Set(list('cat'));
     filters.certs = new Set(list('ev'));
-    const next = {view: ['books', 'areas', 'about'].includes(view) ? view : 'books', entry: params.get('entry')};
+    const next = {view: ['books', 'areas', 'about', 'overview'].includes(view) ? view : 'books', entry: params.get('entry')};
     if (next.view === 'books') {
       next.book = books.has(Number(first)) ? Number(first) : null;
       next.chapter = next.book && chapterOf(next.book, Number(second)) ? Number(second) : null;
@@ -275,6 +286,65 @@ ${passageBlock(entry)}
     return `<table><thead><tr><th>Paragraph</th><th>Ref page</th><th>EPUB source</th></tr></thead><tbody>${rows.join('')}</tbody></table>`;
   }
 
+  // Consolidated descriptions
+
+  function recordLinks(records) {
+    return records.map(id => `<a href="#/books?entry=${id}" data-action="show-entry" data-entry="${id}" title="${esc(byId.get(id).location)}">${id}</a>`).join(' ');
+  }
+
+  function evidenceTag(certainty) {
+    const [key, label, text] = FACT_LABELS.find(([name]) => name === certainty);
+    return `<span class="tag certainty cert-${key}" title="${esc(text)}">${label}</span>`;
+  }
+
+  const factRow = fact => `<li class="fact">${evidenceTag(fact.certainty)} <span class="fact-text">${highlight(fact.text)}</span>${fact.because ? `<span class="fact-why">${highlight(fact.because)}</span>` : ''}<span class="fact-records">${recordLinks(fact.records)}</span></li>`;
+
+  function factGroups(overview, keys) {
+    return ASPECTS.filter(([key]) => keys.includes(key)).map(([key, title]) => {
+      const facts = overview.facts.filter(fact => fact.aspect === key);
+      return facts.length ? `<h4 class="overview-heading">${title}</h4><ul class="facts">${facts.map(factRow).join('')}</ul>` : '';
+    }).join('');
+  }
+
+  function overviewExtras(overview) {
+    const conflicts = overview.conflicts ?? [];
+    const open = overview.open ?? [];
+    return (conflicts.length ? `<h4 class="overview-heading">Where the books disagree</h4><ul class="facts">${conflicts.map(conflict => `<li class="fact"><span class="fact-text">${highlight(conflict.text)}</span><span class="fact-records">${recordLinks(conflict.records)}</span></li>`).join('')}</ul>` : '')
+      + (open.length ? `<h4 class="overview-heading">Left open</h4><ul class="facts open">${open.map(question => `<li class="fact"><span class="fact-text">${highlight(question)}</span></li>`).join('')}</ul>` : '');
+  }
+
+  // A top-level overview shows its size facts outright, and a place keeps all its facts folded.
+  function overviewBlock(overview, topLevel) {
+    if (!overview) return '';
+    const shown = topLevel ? ['scale'] : [];
+    const folded = ASPECTS.map(([key]) => key).filter(key => !shown.includes(key));
+    const count = overview.facts.filter(fact => folded.includes(fact.aspect)).length;
+    const extras = [plural(count, 'fact')];
+    if (overview.conflicts?.length) extras.push(plural(overview.conflicts.length, 'disagreement'));
+    return `<section class="overview${topLevel ? ' top-level' : ''}"><p class="kicker">Overview</p><p class="overview-summary">${highlight(overview.summary)}</p>${factGroups(overview, shown)}
+<details class="overview-more"><summary>${topLevel ? 'More' : 'All'}: ${extras.join(', ')}</summary>${factGroups(overview, folded)}${overviewExtras(overview)}</details></section>`;
+  }
+
+  function castleView() {
+    const {castle} = DATA.overviews;
+    const placeHref = id => link(`/areas/${places.get(id).area}/${id}`);
+    const levels = castle.levels.map(level => `<tr><th scope="row">${esc(level.level)}${level.note ? `<small>${esc(level.note)}</small>` : ''}</th><td><ul>${level.items.map(item =>
+      `<li>${evidenceTag(item.certainty)} <a href="${placeHref(item.place)}">${esc(item.text)}</a> <span class="fact-records">${recordLinks(item.records)}</span></li>`).join('')}</ul></td></tr>`).join('');
+    const tiles = DATA.areas.map(area => `<li><a href="${link(`/areas/${area.id}`)}">${esc(area.title)}</a></li>`).join('');
+    return `<article class="castle">
+<header class="view-intro"><h2>Hogwarts at a glance</h2><p>Everything the catalogue establishes about the castle as a whole. Each area and place has its own overview too.</p></header>
+<section class="overview top-level"><p class="overview-summary">${highlight(castle.summary)}</p></section>
+<h3>Floor by floor</h3>
+<p>Top to bottom, in British floor numbering. Where the books disagree, a room appears on each floor they give it.</p>
+<table class="levels"><thead><tr><th scope="col">Level</th><th scope="col">What the books put there</th></tr></thead><tbody>${levels}</tbody></table>
+<section class="overview top-level">${factGroups(castle, ['scale'])}<details class="overview-more"><summary>More about the castle as a whole</summary>${factGroups(castle, ASPECTS.map(([key]) => key).slice(1))}${overviewExtras(castle)}</details></section>
+<h3>How to read these overviews</h3>
+<dl class="definitions">${castle.conventions.map(item => `<div><dt>${esc(item.title)}</dt><dd>${esc(item.text)}</dd></div>`).join('')}</dl>
+<h3>Areas</h3>
+<ul class="castle-areas">${tiles}</ul>
+</article>`;
+  }
+
   // Views
 
   function resultBar(noun) {
@@ -342,7 +412,7 @@ ${passageBlock(entry)}
     };
     const badge = place.kind === 'group' ? '<span class="kind-badge" title="Similar locations gathered for navigation. This does not claim they are one room.">Group</span>' : '';
     const alsoHtml = also.length ? `<details class="also"${filtering() || !main.length ? ' open' : ''}><summary>${plural(also.length, 'description')} mainly about somewhere else that also ${also.length === 1 ? 'covers' : 'cover'} this place</summary>${byBook(also)}</details>` : '';
-    return `<section class="place-section" id="place-${place.id}" data-spy="place-${place.id}"><header class="place-head"><h3>${esc(place.title)} ${badge}</h3><p>${esc(place.scope)}</p><p class="place-count">${number(main.length)} mainly here${also.length ? `, ${number(also.length)} also here` : ''}</p></header>${byBook(main)}${alsoHtml}</section>`;
+    return `<section class="place-section" id="place-${place.id}" data-spy="place-${place.id}"><header class="place-head"><h3>${esc(place.title)} ${badge}</h3><p>${esc(place.scope)}</p><p class="place-count">${number(main.length)} mainly here${also.length ? `, ${number(also.length)} also here` : ''}</p></header>${overviewBlock(DATA.overviews.places[place.id], !DATA.overviews.areas[place.area])}${byBook(main)}${alsoHtml}</section>`;
   }
 
   function areaView(area) {
@@ -351,7 +421,7 @@ ${passageBlock(entry)}
     const links = DATA.places.filter(place => place.area === area.id && placeEntries.get(place.id).some(entry => passes(entry)))
       .map(place => `<a href="${link(`/areas/${area.id}/${place.id}`)}">${esc(place.title)}</a>`).join('');
     const count = areaEntries.get(area.id).filter(entry => passes(entry)).length;
-    return `<header class="view-intro"><p class="kicker"><a href="${link('/areas')}">All areas</a></p><h2>${esc(area.title)}</h2><p>${plural(count, 'description')}${filtering() ? ' match' : ''}, in book order within each place.${filtering() ? ' <button class="text-button" data-action="clear-filters">Clear filters</button>' : ''}</p><nav class="place-links" aria-label="Places in this area">${links}</nav></header>${sections || emptyState()}`;
+    return `<header class="view-intro"><p class="kicker"><a href="${link('/areas')}">All areas</a></p><h2>${esc(area.title)}</h2><p>${plural(count, 'description')}${filtering() ? ' match' : ''}, in book order within each place.${filtering() ? ' <button class="text-button" data-action="clear-filters">Clear filters</button>' : ''}</p><nav class="place-links" aria-label="Places in this area">${links}</nav></header>${overviewBlock(DATA.overviews.areas[area.id], true)}${sections || emptyState()}`;
   }
 
   function aboutView() {
@@ -366,6 +436,8 @@ ${passageBlock(entry)}
 <p>A record ID such as <code>B01-023</code> is the catalogue’s stable identifier. “No. 23 of ${number(entries.length)}” is the description’s position in book order. Chapters show the chapter of a description’s first cited paragraph.</p>
 <h3>Categories</h3>${definitions(CATEGORIES)}
 <h3>Evidence</h3>${definitions(CERTAINTIES)}
+<h3>Overviews</h3>
+<p>The <a href="${link('/overview')}">castle</a>, each area and each place have a consolidated overview: a description built from all their records, followed by individual facts with their citations. Facts are labelled as above, with one addition. An <strong>estimate</strong> is a modelling minimum resting on an assumption the books do not give, with the arithmetic shown. It is there to stop a model being made far too small, and it is not a figure from the books. Floors use British numbering: the first floor is one flight above the ground floor.</p>
 <h3>Places, groups and areas</h3>
 <p>Almost every location label is unique to its scene, so descriptions are also filed under ${number(places.size)} named places. A <strong>place</strong> is one location the text treats as the same, in any state. A <strong>group</strong>, shown with a dashed outline, gathers similar locations or a school-wide subject and does not claim they are one room. Unnamed rooms stay in groups rather than being matched to a likely named room.</p>
 <p>A description can be filed under up to four places. The first is its main subject; the others are places it also covers, such as the far end of a route. <strong>Areas</strong> are broader groups of places, for navigation only.</p>
@@ -458,10 +530,13 @@ ${quoted ? `<label class="switch"><input type="checkbox" data-action="collapse" 
   function renderAll() {
     applyFilters();
     if (route.view === 'about') content.innerHTML = aboutView();
+    else if (route.view === 'overview') content.innerHTML = castleView();
     else if (route.view === 'areas') content.innerHTML = route.area ? areaView(areas.get(route.area)) : areaIndexView();
     else content.innerHTML = bookOrderView();
-    sidebar.innerHTML = route.view === 'about' ? '' : filtersHtml() + (route.view === 'areas' ? areaTree() : bookTree());
-    layout.classList.toggle('no-sidebar', route.view === 'about');
+    const plainPage = route.view === 'about' || route.view === 'overview';
+    sidebar.innerHTML = plainPage ? '' : filtersHtml() + (route.view === 'areas' ? areaTree() : bookTree());
+    layout.classList.toggle('no-sidebar', plainPage);
+    $('#nav-overview').href = link('/overview');
     $('#nav-books').href = link('/books');
     $('#nav-areas').href = link('/areas');
     $('#brand').href = link('/books');
@@ -524,12 +599,13 @@ ${quoted ? `<label class="switch"><input type="checkbox" data-action="collapse" 
   function onRoute() {
     const previousView = `${route.view}:${route.area}`;
     route = readRoute();
-    if (route.view === 'about') panel.entry = null;
+    if (route.view === 'about' || route.view === 'overview') panel.entry = null;
     if (renderKey() !== renderedKey) renderAll();
     renderPanel();
     scrollForRoute(previousView !== `${route.view}:${route.area}`);
     closeDrawer();
     document.title = route.view === 'about' ? 'About · Hogwarts descriptions'
+      : route.view === 'overview' ? 'Overview · Hogwarts descriptions'
       : route.area ? `${areas.get(route.area).title} · Hogwarts descriptions` : 'Hogwarts descriptions';
   }
 
@@ -602,6 +678,7 @@ ${quoted ? `<label class="switch"><input type="checkbox" data-action="collapse" 
     const list = panelList();
     const position = list.findIndex(item => item.id === panel.entry);
     const kicker = kind === 'area' ? 'Same area' : subject.kind === 'group' ? 'Related, not one room' : 'Same place';
+    const overview = (kind === 'area' ? DATA.overviews.areas : DATA.overviews.places)[id];
     let rows = '';
     let book = null;
     for (const item of list) {
@@ -617,6 +694,7 @@ ${quoted ? `<label class="switch"><input type="checkbox" data-action="collapse" 
 <h2 tabindex="-1">${esc(subject.title)}</h2>
 ${subject.scope ? `<p class="panel-scope">${esc(subject.scope)}</p>` : ''}
 <p class="panel-stats">${plural(all.length, 'description')} in ${plural(bookCount, 'book')}, ${number(mainCount)} mainly about it</p>
+${overview ? `<details class="panel-overview"${panelOverviewOpen ? ' open' : ''}><summary>Overview</summary><p>${esc(overview.summary)}</p><a href="${esc(fullListHref(panel.scope))}">All facts about this ${kind}</a></details>` : ''}
 ${scopes.length > 1 ? `<div class="panel-tabs" role="group" aria-label="Show descriptions of">${scopes.map(panelTab).join('')}</div>` : ''}
 <div class="panel-tools">
 <div class="stepper"><button class="button" data-action="step-place" data-direction="-1" ${position > 0 ? '' : 'disabled'} title="Previous description of this place ([)">‹ Earlier</button><button class="button" data-action="step-place" data-direction="1" ${position < list.length - 1 ? '' : 'disabled'} title="Next description of this place (])">Later ›</button></div>
@@ -810,6 +888,7 @@ ${scopes.length > 1 ? `<div class="panel-tabs" role="group" aria-label="Show des
   // <details> toggles do not bubble, so these listen in the capture phase.
   document.addEventListener('toggle', event => {
     const item = event.target;
+    if (item.matches?.('.panel-overview')) panelOverviewOpen = item.open;
     if (!item.open || item.dataset.filled || !item.dataset?.entry) return;
     const entry = byId.get(item.dataset.entry);
     if (item.matches('.mini')) item.insertAdjacentHTML('beforeend', miniBody(entry));
