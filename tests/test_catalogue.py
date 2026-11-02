@@ -154,5 +154,56 @@ class PlaceTests(unittest.TestCase):
             self.assertIn("[Castle](castle.md): 1 records.", (Path(tmp) / "index.md").read_text())
 
 
+class OverviewTests(unittest.TestCase):
+    def setUp(self):
+        self.areas = {"areas": [{"id": "keep", "title": "Keep"}, {"id": "yard", "title": "Yard"}]}
+        self.places = {"places": [{"id": "hall", "title": "Hall", "area": "keep", "kind": "place", "scope": "x"},
+                                  {"id": "cellar", "title": "Cellar", "area": "keep", "kind": "place", "scope": "x"},
+                                  {"id": "lawn", "title": "Lawn", "area": "yard", "kind": "place", "scope": "x"}]}
+        overview = lambda: {"summary": "Summary.", "facts": [
+            {"aspect": "scale", "text": "Big.", "certainty": "explicit", "records": ["B01-001"]},
+            {"aspect": "location", "text": "Low.", "certainty": "estimate", "records": ["B01-001"], "because": "Sum."}]}
+        self.overviews = {"castle": {**overview(), "conventions": [], "levels": [
+            {"level": "Ground floor", "note": None, "items": [
+                {"text": "Hall", "place": "hall", "certainty": "explicit", "records": ["B01-001"]}]}]},
+            "areas": {"keep": overview()},
+            "places": {place: overview() for place in ("hall", "cellar", "lawn")}}
+
+    def errors(self):
+        return catalogue.validate_overviews({"B01-001"}, self.overviews, self.places, self.areas)
+
+    def test_complete_overviews_pass(self):
+        self.assertEqual(self.errors(), [])
+
+    def test_every_place_needs_an_overview(self):
+        del self.overviews["places"]["cellar"]
+        self.assertEqual(self.errors(), ["cellar: place has no overview"])
+
+    def test_an_area_of_one_place_has_no_overview_of_its_own(self):
+        self.overviews["areas"]["yard"] = self.overviews["places"]["lawn"]
+        self.assertEqual(self.errors(), ["yard: overview for unknown area"])
+
+    def test_inferences_and_estimates_must_give_a_reason(self):
+        del self.overviews["places"]["hall"]["facts"][1]["because"]
+        self.assertEqual(self.errors(), ["hall: estimate needs a reason: Low."])
+
+    def test_facts_must_cite_real_records(self):
+        self.overviews["places"]["hall"]["facts"][0]["records"] = ["B09-999"]
+        self.assertEqual(self.errors(), ["hall: unknown record B09-999"])
+
+    def test_floor_table_must_name_real_places(self):
+        self.overviews["castle"]["levels"][0]["items"][0]["place"] = "attic"
+        self.assertEqual(self.errors(), ["Ground floor: unknown place attic"])
+
+    def test_pages_lead_with_the_overview_and_keep_size_first(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            catalogue.write_overview_pages(self.overviews, self.areas, self.places, Path(tmp))
+            page = (Path(tmp) / "keep.md").read_text()
+            self.assertLess(page.index("Size and numbers"), page.index("Where it is"))
+            self.assertIn("## Cellar", page)
+            self.assertIn("Because: Sum.", page)
+            self.assertIn("### Ground floor", (Path(tmp) / "index.md").read_text())
+
+
 if __name__ == "__main__":
     unittest.main()

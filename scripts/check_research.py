@@ -10,7 +10,8 @@ import json
 from pathlib import Path
 import re
 
-from catalogue import ROOT, assign_places, citation, load_json, read_research, validate, validate_model_constraints, validate_places
+from catalogue import (ROOT, assign_places, citation, load_json, read_research, validate, validate_model_constraints,
+                       validate_overviews, validate_places)
 
 
 def check(root: Path, require_complete: bool = False) -> dict:
@@ -28,8 +29,10 @@ def check(root: Path, require_complete: bool = False) -> dict:
     errors.extend(validate_model_constraints(corpus, load_json(root / "research/model-constraints.json")))
     expected = {entry["id"]: entry for record in records for entry in record["entries"]}
     places = load_json(root / "research/places.json")
-    place_errors = validate_places(set(expected), places, load_json(root / "research/areas.json"))
+    area_config = load_json(root / "research/areas.json")
+    place_errors = validate_places(set(expected), places, area_config)
     errors.extend(place_errors)
+    errors.extend(validate_overviews(set(expected), load_json(root / "research/overviews.json"), places, area_config))
     compiled = load_json(root / "research/catalogue.json")
     actual = {entry["id"]: entry for entry in compiled["entries"]}
     if len(actual) != len(compiled["entries"]):

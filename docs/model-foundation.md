@@ -20,6 +20,166 @@ Treat named compass directions and floor levels as local constraints with a sour
 
 The full review's reconciliation notes cover additional state and route details: [books 1–3](../research/notes/books-1-2-3.md), [books 4–5](../research/notes/books-4-5.md), and [books 6–7](../research/notes/books-6-7.md).
 
+## Scale and capacity
+
+### M052: Main body of the castle
+
+Floors use British numbering. From the seventh floor it is six floors down and then the marble staircase to the Entrance Hall; seven staircases link the ground and seventh floors; and the dungeons are eight floors below the seventh floor, which puts them one storey under the ground floor.
+
+Relation: `Main body of the castle` → `has_levels` → `Ground floor, seven numbered floors and a dungeon level`.
+
+Evidence: inference; state: All books.
+
+Model implication: The main body must read as eight storeys above a dungeon level, before any tower begins. No floor above the seventh is numbered, so anything higher stands inside a tower.
+
+- [Book 4, ch. 21, “The House-Elf Liberation Front”, ref p. 393, ¶97 (B04-C021-P0097)](../build/reader/book-04.html#B04-C021-P0097)
+- [Book 4, ch. 17, “The Four Champions”, ref p. 295–296, ¶105 (B04-C017-P0105)](../build/reader/book-04.html#B04-C017-P0105)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 458–459, ¶190 (B05-C018-P0190)](../build/reader/book-05.html#B05-C018-P0190)
+- [Book 1, ch. 9, “The Midnight Duel”, ref p. 164–165, ¶200 (B01-C009-P0200)](../build/reader/book-01.html#B01-C009-P0200)
+
+### M053: Castle staircases
+
+The count of 142 applies to the whole castle. Over seven gaps between the ground and seventh floors that averages about 20 staircases per gap, or about 16 after setting aside 30 for towers and shortcuts. One climb from ground to seventh uses seven of them.
+
+Relation: `Castle staircases` → `number` → `142 separate staircases`.
+
+Evidence: explicit; state: All books.
+
+Model implication: Model separate physical flights spread across a wide plan. Counting one stair shaft once per storey does not satisfy this. The average per gap is an estimate.
+
+- [Book 1, ch. 8, “The Potions Master”, ref p. 134, ¶8 (B01-C008-P0008)](../build/reader/book-01.html#B01-C008-P0008)
+- [Book 4, ch. 17, “The Four Champions”, ref p. 295–296, ¶105 (B04-C017-P0105)](../build/reader/book-04.html#B04-C017-P0105)
+
+### M054: Gryffindor Tower
+
+The portrait hole is on the seventh floor. A round common room lies behind it, with separate boys' and girls' spiral stairs. Harry's cohort keeps one circular room of five beds at the top of the Tower from year to year, the door sign changing, and other dormitory doors open along the stair below it.
+
+Relation: `Gryffindor Tower` → `rises_above` → `Seventh-floor entrance, with dormitory levels over the common room`.
+
+Evidence: explicit; state: Books 1 to 5.
+
+Model implication: No height is stated. One room per year on its own level gives a top floor of 14, 15 storeys counting the ground floor, which is the best modelling figure. The strict minimum is top floor 9. A round room cannot hold both stairs at every level, so use two stacks or two turrets above the common room.
+
+- [Book 1, ch. 9, “The Midnight Duel”, ref p. 164–165, ¶200 (B01-C009-P0200)](../build/reader/book-01.html#B01-C009-P0200)
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 85, ¶187 (B02-C005-P0187)](../build/reader/book-02.html#B02-C005-P0187)
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 85–86, ¶189 (B02-C005-P0189)](../build/reader/book-02.html#B02-C005-P0189)
+- [Book 3, ch. 5, “The Dementor”, ref p. 95–96, ¶271 (B03-C005-P0271)](../build/reader/book-03.html#B03-C005-P0271)
+- [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 268, ¶127 (B03-C013-P0127)](../build/reader/book-03.html#B03-C013-P0127)
+- [Book 4, ch. 12, “The Triwizard Tournament”, ref p. 200–201, ¶191 (B04-C012-P0191)](../build/reader/book-04.html#B04-C012-P0191)
+
+### M055: Castle towers
+
+Astronomy is called the tallest and the highest tower. A battle plan names Ravenclaw, Astronomy and Gryffindor as the three highest. West and North Towers are named too, and both rise above the seventh floor.
+
+Relation: `Castle towers` → `ranked_by_height` → `Astronomy tallest, with Ravenclaw and Gryffindor the three highest`.
+
+Evidence: explicit; state: Books 1, 6 and 7.
+
+Model implication: Astronomy must overtop the top of Gryffindor Tower. Which of Ravenclaw and Gryffindor is the taller is not stated.
+
+- [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 241, ¶102 (B01-C014-P0102)](../build/reader/book-01.html#B01-C014-P0102)
+- [Book 6, ch. 27, “The Lightning-Struck Tower”, ref p. 614, ¶36 (B06-C027-P0036)](../build/reader/book-06.html#B06-C027-P0036)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 646–647, ¶28 (B07-C031-P0028)](../build/reader/book-07.html#B07-C031-P0028)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 322, ¶53 (B03-C016-P0053)](../build/reader/book-03.html#B03-C016-P0053)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 418, ¶335 (B03-C021-P0335)](../build/reader/book-03.html#B03-C021-P0335)
+
+### M056: Seventh floor
+
+The seventh floor holds the Fat Lady's portrait, the wall of the Room of Requirement facing the Barnabas tapestry, the gargoyle at the foot of the Headmaster's stair, Flitwick's office and the foot of the spiral to the Divination classroom.
+
+Relation: `Seventh floor` → `carries` → `Gryffindor entrance, Room of Requirement, gargoyle, Flitwick and the North Tower stair`.
+
+Evidence: explicit; state: All books.
+
+Model implication: This is a full, long storey with several tower bases, not a narrow attic level. Books 2 and 4 read as placing the gargoyle lower: see the overview for the headmaster's office.
+
+- [Book 1, ch. 9, “The Midnight Duel”, ref p. 164–165, ¶200 (B01-C009-P0200)](../build/reader/book-01.html#B01-C009-P0200)
+- [Book 5, ch. 18, “Dumbledore’s Army”, ref p. 456, ¶169 (B05-C018-P0169)](../build/reader/book-05.html#B05-C018-P0169)
+- [Book 6, ch. 10, “The House of Gaunt”, ref p. 202, ¶13 (B06-C010-P0013)](../build/reader/book-06.html#B06-C010-P0013)
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 396, ¶82 (B03-C021-P0082)](../build/reader/book-03.html#B03-C021-P0082)
+- [Book 3, ch. 16, “Professor Trelawney’s Prediction”, ref p. 322, ¶53 (B03-C016-P0053)](../build/reader/book-03.html#B03-C016-P0053)
+
+### M057: Library
+
+The three counts are given together when the size of the library is the problem at hand.
+
+Relation: `Library` → `contains` → `Hundreds of narrow rows, thousands of shelves, tens of thousands of books`.
+
+Evidence: explicit; state: Book 1.
+
+Model implication: At an assumed 1.5 m per row, 200 rows need 300 m of row spacing and at least about 1,500 m² of floor, as one hall or a suite. Showing a dozen rows in one room fails this. The figures in metres are estimates.
+
+- [Book 1, ch. 12, “The Mirror of Erised”, ref p. 200, ¶32 (B01-C012-P0032)](../build/reader/book-01.html#B01-C012-P0032)
+
+### M058: Great Hall
+
+About a hundred lantern-lit tables of about a dozen people each stood in the Hall at the Yule Ball. More than a hundred separate exam tables, hundreds of sleeping bags and four long house tables have also filled it.
+
+Relation: `Great Hall` → `holds` → `The school at once: about 1,200 seats at one ball`.
+
+Evidence: explicit; state: Books 1, 3, 4 and 5.
+
+Model implication: Allow at least 1,200 m² of floor, about 50 by 24 m, and at least 12 m to the ceiling. The metre figures are estimates. The kitchens directly below match the Hall.
+
+- [Book 4, ch. 23, “The Yule Ball”, ref p. 436, ¶87 (B04-C023-P0087)](../build/reader/book-04.html#B04-C023-P0087)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 762, ¶181 (B05-C028-P0181)](../build/reader/book-05.html#B05-C028-P0181)
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 161, ¶4 (B03-C009-P0004)](../build/reader/book-03.html#B03-C009-P0004)
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 119–120, ¶28 (B01-C007-P0028)](../build/reader/book-01.html#B01-C007-P0028)
+
+### M059: Room of Hidden Things
+
+The room is a city of objects with roads between towering walls, lit by high windows. One wall of objects is about fifty feet high.
+
+Relation: `Room of Hidden Things` → `measures` → `The size of a large cathedral`.
+
+Evidence: explicit; state: Books 6 and 7.
+
+Model implication: It cannot fit behind a seventh-floor wall, so treat it as a separate volume reached by the door. It should be far bigger than the Great Hall.
+
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 553–554, ¶104 (B06-C024-P0104)](../build/reader/book-06.html#B06-C024-P0104)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 663–664, ¶198 (B07-C031-P0198)](../build/reader/book-07.html#B07-C031-P0198)
+
+### M060: Owlery
+
+Owls roost on perches and rafters rising to the top of a circular stone room with glassless windows.
+
+Relation: `Owlery` → `houses` → `Hundreds upon hundreds of owls`.
+
+Evidence: explicit; state: Books 4 and 5.
+
+Model implication: This needs a tall tower room with perches filling its height. A few dozen birds fails this.
+
+- [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 238, ¶6 (B04-C015-P0006)](../build/reader/book-04.html#B04-C015-P0006)
+- [Book 5, ch. 14, “Percy and Padfoot”, ref p. 331, ¶21 (B05-C014-P0021)](../build/reader/book-05.html#B05-C014-P0021)
+
+### M061: Prefects' bathroom
+
+On the fifth floor, an empty rectangular white marble pool is sunk into the floor, with about a hundred golden taps around its edge and a diving board.
+
+Relation: `Prefects' bathroom` → `contains` → `A bath like a swimming pool with about a hundred taps`.
+
+Evidence: explicit; state: Book 4.
+
+Model implication: About a hundred taps need a long perimeter, so a bath of at least about 15 by 5 m. The size in metres is an estimate.
+
+- [Book 4, ch. 23, “The Yule Ball”, ref p. 455, ¶241 (B04-C023-P0241)](../build/reader/book-04.html#B04-C023-P0241)
+- [Book 4, ch. 25, “The Egg and the Eye”, ref p. 483, ¶6 (B04-C025-P0006)](../build/reader/book-04.html#B04-C025-P0006)
+- [Book 4, ch. 25, “The Egg and the Eye”, ref p. 485, ¶12 (B04-C025-P0012)](../build/reader/book-04.html#B04-C025-P0012)
+
+### M062: School population
+
+Pupils are only ever counted in hundreds. About a hundred coaches carry the older years from the station, and more than a hundred exam tables have stood in the Great Hall.
+
+Relation: `School population` → `number` → `Hundreds of pupils, with no stated roll`.
+
+Evidence: explicit; state: All books.
+
+Model implication: Plan on about 300 to 800, an estimate. Size shared rooms and the stadium for the top of the range, and classrooms for the twenty or so pupils of a normal class.
+
+- [Book 4, ch. 11, “Aboard the Hogwarts Express”, ref p. 179, ¶121 (B04-C011-P0121)](../build/reader/book-04.html#B04-C011-P0121)
+- [Book 5, ch. 28, “Snape’s Worst Memory”, ref p. 762, ¶181 (B05-C028-P0181)](../build/reader/book-05.html#B05-C028-P0181)
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 174–175, ¶115 (B06-C008-P0115)](../build/reader/book-06.html#B06-C008-P0115)
+
 ## Terrain and arrival
 
 ### M001: Castle

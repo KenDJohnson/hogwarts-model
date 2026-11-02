@@ -103,3 +103,33 @@ rooms go in a group rather than a likely named room.
 Each place belongs to one area in `research/areas.json`. A record's `areas` in
 the compiled catalogue are derived from its places, so areas overlap and do not
 assert identity or adjacency.
+
+## Overviews
+
+`research/overviews.json` holds the consolidated top-level descriptions: `castle`,
+`areas` (each area of two or more places) and `places` (all of them). Each has a prose
+`summary` and a list of `facts`, with optional `conflicts` and `open` questions. The
+castle overview also has `conventions` and a floor-by-floor `levels` table.
+
+```json
+{
+  "aspect": "scale",
+  "text": "A short consolidated statement in original wording.",
+  "certainty": "estimate",
+  "records": ["B01-073"],
+  "because": "Required for inference and estimate: the reasoning, or the arithmetic and its assumption."
+}
+```
+
+Aspects: `scale` (size, counts, capacity, comparisons), `location` (floor, wing,
+neighbours, views), `form` (shape, structure, materials), `access` (routes, doors,
+rules), `contents` (furniture, fixtures, decoration) and `changes` (dated states,
+damage, magical behaviour).
+
+Certainty adds `estimate` to the catalogue's three values: a modelling minimum resting
+on an assumption the books do not give. An estimate exists to stop a model being made
+far too small, and must never be presented as a figure from the books. Every fact cites
+catalogue records. A fact the catalogue lacks needs a new record first.
+
+Floors are British throughout. A floor number leaves out the ground floor and a storey
+count includes it, so the fourteenth floor is the fifteenth storey.

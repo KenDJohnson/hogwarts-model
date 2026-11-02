@@ -16,6 +16,10 @@ CATEGORIES = {"exterior", "interior", "grounds", "route", "furnishing", "magic",
 CERTAINTIES = {"explicit", "reported", "inference"}
 PLACE_KINDS = {"place", "group"}
 REQUIRED = {"id", "location", "category", "description", "evidence", "certainty", "temporal", "model_notes"}
+# Overview facts, in reading order. Size comes first because it is what generators get wrong.
+OVERVIEW_ASPECTS = {"scale": "Size and numbers", "location": "Where it is", "form": "Shape and structure",
+                    "access": "Getting there", "contents": "What is inside", "changes": "How it changes"}
+OVERVIEW_CERTAINTIES = CERTAINTIES | {"estimate"}
 
 
 def load_json(path: Path):
@@ -399,6 +403,55 @@ def validate_places(entry_ids: set, places: dict, area_config: dict) -> list[str
     return errors
 
 
+def validate_overview(label: str, overview: dict, entry_ids: set) -> list[str]:
+    """Check one overview: every fact is labelled, cited, and explains any deduction."""
+    errors = []
+    if not overview.get("summary"):
+        errors.append(f"{label}: overview needs a summary")
+    if not overview.get("facts"):
+        errors.append(f"{label}: overview needs facts")
+    for fact in overview.get("facts", []):
+        if fact.get("aspect") not in OVERVIEW_ASPECTS:
+            errors.append(f"{label}: unknown fact aspect {fact.get('aspect')}")
+        if fact.get("certainty") not in OVERVIEW_CERTAINTIES:
+            errors.append(f"{label}: unknown fact certainty {fact.get('certainty')}")
+        if fact.get("certainty") in ("inference", "estimate") and not fact.get("because"):
+            errors.append(f"{label}: {fact.get('certainty')} needs a reason: {fact.get('text', '')[:50]}")
+        if not fact.get("text") or not fact.get("records"):
+            errors.append(f"{label}: fact needs text and records")
+    for conflict in overview.get("conflicts", []):
+        if not conflict.get("text") or not conflict.get("records"):
+            errors.append(f"{label}: conflict needs text and records")
+    cited = [ref for group in ("facts", "conflicts") for item in overview.get(group, []) for ref in item.get("records", [])]
+    for ref in sorted(set(cited) - entry_ids):
+        errors.append(f"{label}: unknown record {ref}")
+    return errors
+
+
+def validate_overviews(entry_ids: set, overviews: dict, places: dict, area_config: dict) -> list[str]:
+    """Require one overview per place, per area of several places, and for the castle."""
+    errors = validate_overview("castle", overviews["castle"], entry_ids)
+    place_ids = {place["id"] for place in places["places"]}
+    sizes = Counter(place["area"] for place in places["places"])
+    wanted = {area["id"] for area in area_config["areas"] if sizes[area["id"]] > 1}
+    for kind, have, want in (("place", overviews["places"], place_ids), ("area", overviews["areas"], wanted)):
+        for ident in sorted(want - have.keys()):
+            errors.append(f"{ident}: {kind} has no overview")
+        for ident in sorted(have.keys() - want):
+            errors.append(f"{ident}: overview for unknown {kind}")
+        for ident, overview in have.items():
+            errors.extend(validate_overview(ident, overview, entry_ids))
+    for level in overviews["castle"].get("levels", []):
+        for item in level["items"]:
+            if item["place"] not in place_ids:
+                errors.append(f"{level['level']}: unknown place {item['place']}")
+            if item["certainty"] not in OVERVIEW_CERTAINTIES:
+                errors.append(f"{level['level']}: unknown certainty {item['certainty']}")
+            for ref in sorted(set(item["records"]) - entry_ids):
+                errors.append(f"{level['level']}: unknown record {ref}")
+    return errors
+
+
 def assign_places(catalogue: dict, places: dict) -> None:
     """Attach each record's places, and the areas those places belong to."""
     areas = {place["id"]: place["area"] for place in places["places"]}
@@ -437,6 +490,65 @@ def write_area_pages(catalogue: dict, area_config: dict, places: dict, folder: P
             lines.append("")
         (folder / f"{area['id']}.md").write_text("\n".join(lines).rstrip() + "\n")
     (folder / "index.md").write_text("\n".join(index_lines).rstrip() + "\n")
+
+
+def overview_lines(overview: dict, depth: str) -> list[str]:
+    """Render an overview as Markdown: the prose, then facts grouped by aspect."""
+    lines = [overview["summary"], ""]
+    for aspect, title in OVERVIEW_ASPECTS.items():
+        facts = [fact for fact in overview["facts"] if fact["aspect"] == aspect]
+        if facts:
+            lines += [f"{depth} {title}", ""]
+        for fact in facts:
+            reason = f" Because: {fact['because']}" if fact.get("because") else ""
+            lines.append(f"- **{fact['certainty'].capitalize()}.** {fact['text']}{reason} ({', '.join(fact['records'])})")
+        if facts:
+            lines.append("")
+    if overview.get("conflicts"):
+        lines += [f"{depth} Conflicts", ""]
+        lines += [f"- {conflict['text']} ({', '.join(conflict['records'])})" for conflict in overview["conflicts"]]
+        lines.append("")
+    if overview.get("open"):
+        lines += [f"{depth} Open questions", ""]
+        lines += [f"- {question}" for question in overview["open"]]
+        lines.append("")
+    return lines
+
+
+def write_overview_pages(overviews: dict, area_config: dict, places: dict, folder: Path) -> None:
+    """Write the consolidated descriptions as one page per area, plus the castle page."""
+    folder.mkdir(parents=True, exist_ok=True)
+    in_area = defaultdict(list)
+    for place in places["places"]:
+        in_area[place["area"]].append(place)
+    castle = overviews["castle"]
+    lines = ["# Hogwarts: consolidated overview", "",
+             "The top-level description of the castle, built from every catalogue record. Read this "
+             "before generating an image or model, then the page for the area you are working on. The "
+             "[generation brief](../generation-brief.md) says what any attempt must meet. Each fact cites "
+             "catalogue records, and [overviews.json](../../research/overviews.json) holds the same data.", ""]
+    lines += overview_lines({key: castle[key] for key in ("summary",)} | {"facts": []}, "##")
+    lines += ["## Conventions", ""]
+    lines += [f"- **{item['title']}.** {item['text']}" for item in castle["conventions"]]
+    lines += ["", "## Floor by floor", "", "Top to bottom, in British floor numbering.", ""]
+    for level in castle["levels"]:
+        lines += [f"### {level['level']}", ""]
+        if level.get("note"):
+            lines += [level["note"], ""]
+        lines += [f"- {item['text']} ({item['certainty']}: {', '.join(item['records'])})" for item in level["items"]]
+        lines.append("")
+    lines += overview_lines({key: value for key, value in castle.items() if key != "summary"} | {"summary": "## The castle as a whole"}, "###")
+    lines += ["## Areas", ""]
+    lines += [f"- [{area['title']}]({area['id']}.md): {len(in_area[area['id']])} places." for area in area_config["areas"]]
+    (folder / "index.md").write_text("\n".join(lines).rstrip() + "\n")
+    for area in area_config["areas"]:
+        lines = [f"# {area['title']}", "", "[Castle overview](index.md) · [All records for this area](../areas/"
+                 f"{area['id']}.md)", ""]
+        if area["id"] in overviews["areas"]:
+            lines += overview_lines(overviews["areas"][area["id"]], "##")
+        for place in in_area[area["id"]]:
+            lines += [f"## {place['title']}", ""] + overview_lines(overviews["places"][place["id"]], "###")
+        (folder / f"{area['id']}.md").write_text("\n".join(lines).rstrip() + "\n")
 
 
 def main() -> None:
@@ -483,7 +595,10 @@ def main() -> None:
     errors.extend(validate_model_constraints(corpus, model))
     places = load_json(ROOT / "research/places.json")
     area_config = load_json(ROOT / "research/areas.json")
-    errors.extend(validate_places({entry["id"] for book in research for entry in book["entries"]}, places, area_config))
+    entry_ids = {entry["id"] for book in research for entry in book["entries"]}
+    errors.extend(validate_places(entry_ids, places, area_config))
+    overviews = load_json(ROOT / "research/overviews.json")
+    errors.extend(validate_overviews(entry_ids, overviews, places, area_config))
     for error in errors:
         print(error, file=sys.stderr)
     if errors:
@@ -502,6 +617,7 @@ def main() -> None:
                 print("\n".join(c["label"] for c in entry["citations"]) + "\n")
         return
     write_area_pages(catalogue, area_config, places, args.docs / "areas")
+    write_overview_pages(overviews, area_config, places, args.docs / "overviews")
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(json.dumps(catalogue, ensure_ascii=False, indent=2) + "\n")
     (args.output.parent / "coverage.json").write_text(json.dumps(coverage, ensure_ascii=False, indent=2) + "\n")
