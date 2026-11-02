@@ -298,6 +298,19 @@ Model: Furniture shapes are observed during a temporary welcome crowd; password 
 - [Book 2, ch. 5, “The Whomping Willow”, ref p. 84, ¶183 (B02-C005-P0183)](../../build/reader/book-02.html#B02-C005-P0183)
 - [Book 2, ch. 5, “The Whomping Willow”, ref p. 84–85, ¶184 (B02-C005-P0184)](../../build/reader/book-02.html#B02-C005-P0184)
 
+## B02-165: Gryffindor common room capacity
+
+Apparently the whole House is awake and packed into the round common room, standing on its tables and chairs. In 1993 the House again packs in to hear McGonagall.
+
+Places: Gryffindor common room.
+
+Evidence: explicit; state: September 1992 and 1993.
+
+Model: A capacity statement without a head count. The room must hold the full House, however large that is.
+
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 84–85, ¶184 (B02-C005-P0184)](../../build/reader/book-02.html#B02-C005-P0184)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 260, ¶84 (B02-C014-P0084)](../../build/reader/book-02.html#B02-C014-P0084)
+
 ## B02-016: Gryffindor second-year dormitory
 
 A door across the common room leads to a spiral stair. Climbing right to its top reaches the same circular dormitory as last year, now signed second-years, with five red-velvet-hung four-posters and high narrow windows. Trunks stand at bed ends.
@@ -331,6 +344,18 @@ Model: Reaffirms downhill pitch route; dawn mist and birdsong are seasonal scene
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 108, ¶30 (B02-C007-P0030)](../../build/reader/book-02.html#B02-C007-P0030)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 108, ¶31 (B02-C007-P0031)](../../build/reader/book-02.html#B02-C007-P0031)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 109–110, ¶42 (B02-C007-P0042)](../../build/reader/book-02.html#B02-C007-P0042)
+
+## B02-164: Gryffindor boys’ stair
+
+A first-year boy comes running down the same spiral stair that a second-year has just used from his dormitory.
+
+Places: Gryffindor boys’ dormitories, Gryffindor common room.
+
+Evidence: explicit; state: September 1992.
+
+Model: Boys of different years share the stair.
+
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 106, ¶10 (B02-C007-P0010)](../../build/reader/book-02.html#B02-C007-P0010)
 
 ## B02-040: Gryffindor common room — salamander fireworks
 
@@ -674,6 +699,18 @@ Model: Access depends on password knowledge; the list is a security weakness, no
 - [Book 3, ch. 12, “The Patronus”, ref p. 251, ¶163 (B03-C012-P0163)](../../build/reader/book-03.html#B03-C012-P0163)
 - [Book 3, ch. 12, “The Patronus”, ref p. 251, ¶164 (B03-C012-P0164)](../../build/reader/book-03.html#B03-C012-P0164)
 
+## B03-168: Gryffindor boys' stair, acoustic link
+
+A strangled yell from the dormitory comes echoing down the boys' stair and silences the crowded common room, which turns to the stair's foot as footsteps grow louder.
+
+Places: Gryffindor boys’ dormitories, Gryffindor common room.
+
+Evidence: explicit; state: January to February 1994.
+
+Model: The stair carries sound from the top room to the common room, and its foot is in view of the room.
+
+- [Book 3, ch. 12, “The Patronus”, ref p. 252, ¶186 (B03-C012-P0186)](../../build/reader/book-03.html#B03-C012-P0186)
+
 ## B03-085: Gryffindor common room — victory party and stair division
 
 Celebrations run all day until one in the morning, with tables used for bottle juggling and supplies obtained from Hogsmeade. Hermione runs up the girls’ stair; boys ascend their own. Later the room is deserted, littered with party debris and lit only by dying hearth glow.
@@ -743,6 +780,18 @@ Model: Demonstrates knowledge-based access without identity authentication and o
 - [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 270, ¶156 (B03-C013-P0156)](../../build/reader/book-03.html#B03-C013-P0156)
 - [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 270, ¶157 (B03-C013-P0157)](../../build/reader/book-03.html#B03-C013-P0157)
 - [Book 3, ch. 13, “Gryffindor versus Ravenclaw”, ref p. 270, ¶158 (B03-C013-P0158)](../../build/reader/book-03.html#B03-C013-P0158)
+
+## B03-167: Gryffindor common room capacity
+
+The whole House stays up all night together in the common room.
+
+Places: Gryffindor common room.
+
+Evidence: explicit; state: February 1994 night.
+
+Model: A capacity statement without a head count.
+
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 270, ¶1 (B03-C014-P0001)](../../build/reader/book-03.html#B03-C014-P0001)
 
 ## B03-089: Gryffindor entrance — restored Fat Lady and trolls
 
@@ -929,6 +978,18 @@ Model: Observed movement and shared frames establish portrait travel. The specif
 - [Book 4, ch. 17, “The Four Champions”, ref p. 295–296, ¶105 (B04-C017-P0105)](../../build/reader/book-04.html#B04-C017-P0105)
 - [Book 4, ch. 17, “The Four Champions”, ref p. 296, ¶106 (B04-C017-P0106)](../../build/reader/book-04.html#B04-C017-P0106)
 - [Book 4, ch. 17, “The Four Champions”, ref p. 296, ¶109 (B04-C017-P0109)](../../build/reader/book-04.html#B04-C017-P0109)
+
+## B04-244: Gryffindor common room capacity
+
+Coming through the portrait hole, Harry faces the whole House in the common room.
+
+Places: Gryffindor common room.
+
+Evidence: explicit; state: October 1994.
+
+Model: A capacity statement without a head count.
+
+- [Book 4, ch. 17, “The Four Champions”, ref p. 296, ¶110 (B04-C017-P0110)](../../build/reader/book-04.html#B04-C017-P0110)
 
 ## B04-063: Gryffindor boys’ dormitory curtains
 
@@ -1213,6 +1274,19 @@ Evidence: explicit; state: 1 September 1995 start-of-term feast and night.
 Model: Dormitories are above the common room according to pupils going up; no precise spiral route is supplied here.
 
 - [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 252–253, ¶206 (B05-C011-P0206)](../../build/reader/book-05.html#B05-C011-P0206)
+
+## B05-314: Gryffindor boys’ door
+
+A seventh-year goes up to bed through the same doorway to the boys’ dormitories that a fifth-year uses.
+
+Places: Gryffindor boys’ dormitories, Gryffindor common room.
+
+Evidence: explicit; state: Autumn 1995.
+
+Model: Supports a single shared stair with several dormitories off it, not a separate stair for each year.
+
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 252–253, ¶206 (B05-C011-P0206)](../../build/reader/book-05.html#B05-C011-P0206)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 434–435, ¶206 (B05-C017-P0206)](../../build/reader/book-05.html#B05-C017-P0206)
 
 ## B05-027: Fifth-year boys’ dormitory fittings
 
@@ -1900,6 +1974,19 @@ Model: An aperture requiring a climb, not merely a conventional full-height door
 - [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 177, ¶5 (B06-C009-P0005)](../../build/reader/book-06.html#B06-C009-P0005)
 - [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 177, ¶7 (B06-C009-P0007)](../../build/reader/book-06.html#B06-C009-P0007)
 
+## B06-213: Gryffindor common room
+
+Small groups of seventh-years are seen using the Gryffindor common room.
+
+Places: Gryffindor common room, Gryffindor Tower.
+
+Evidence: explicit; state: 1996 to 1997.
+
+Model: Shows that the oldest year lives in the same House space, so all seven years need dormitories here.
+
+- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 181, ¶36 (B06-C009-P0036)](../../build/reader/book-06.html#B06-C009-P0036)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 542, ¶31 (B06-C024-P0031)](../../build/reader/book-06.html#B06-C024-P0031)
+
 ## B06-026: Gryffindor common-room tapestry and light
 
 The common room contains a tapestry, which a flying Fanged Frisbee tries to bite, and is sunlit when Harry and Ron leave.
@@ -2146,6 +2233,19 @@ Model: Route sequence only; does not prove each described segment is adjacent or
 - [Book 6, ch. 19, “Elf Tails”, ref p. 424, ¶80 (B06-C019-P0080)](../../build/reader/book-06.html#B06-C019-P0080)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 424, ¶81 (B06-C019-P0081)](../../build/reader/book-06.html#B06-C019-P0081)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 424–425, ¶84 (B06-C019-P0084)](../../build/reader/book-06.html#B06-C019-P0084)
+
+## B06-214: Gryffindor common room, distant chair
+
+Late at night, in low firelight, Harry is sure the common room is empty until a large boy rises from a distant chair, where he had fallen asleep.
+
+Places: Gryffindor common room.
+
+Evidence: explicit; state: 1 March 1997.
+
+Model: A size hint: the room is wide enough for a far seat to go unnoticed in dim light. No measurement.
+
+- [Book 6, ch. 19, “Elf Tails”, ref p. 425–426, ¶88 (B06-C019-P0088)](../../build/reader/book-06.html#B06-C019-P0088)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 426, ¶89 (B06-C019-P0089)](../../build/reader/book-06.html#B06-C019-P0089)
 
 ## B06-133: House-elf Disapparition in Gryffindor common room
 

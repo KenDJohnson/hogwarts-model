@@ -61,6 +61,18 @@ Model: Opposed stands are established by the cross-pitch view of Snape. No unsup
 - [Book 1, ch. 11, “Quidditch”, ref p. 194, ¶113 (B01-C011-P0113)](../../build/reader/book-01.html#B01-C011-P0113)
 - [Book 1, ch. 11, “Quidditch”, ref p. 194–195, ¶114 (B01-C011-P0114)](../../build/reader/book-01.html#B01-C011-P0114)
 
+## B01-156: Quidditch stadium attendance
+
+The whole school seems to be in the stands. Many pupils have binoculars, because the raised seats do not always give a good view.
+
+Places: Quidditch stands.
+
+Evidence: explicit; state: November 1991.
+
+Model: The capacity must cover the school. This passage hedges with seemed.
+
+- [Book 1, ch. 11, “Quidditch”, ref p. 187, ¶42 (B01-C011-P0042)](../../build/reader/book-01.html#B01-C011-P0042)
+
 ## B01-066: Quidditch stands — supporter banner
 
 A banner high in the stands reads Potter for President above a Gryffindor lion; its painted colours flash magically.
@@ -128,6 +140,22 @@ Evidence: explicit; state: Summer 1992 recollection of 1991–92.
 Model: A narrated recap reaffirming established features; no new floor plan or numeric goalpost height.
 
 - [Book 2, ch. 1, “The Worst Birthday”, ref p. 2–3, ¶26 (B02-C001-P0026)](../../build/reader/book-02.html#B02-C001-P0026)
+
+## B02-171: Dormitory to pitch time allowance
+
+Wood rouses Harry in his dormitory at dawn and tells him to reach the pitch within fifteen minutes, which has to cover dressing and the walk down.
+
+Places: Quidditch pitch.
+
+Evidence: reported; state: September 1992.
+
+Model: A captain's allowance, not a timed walk. It caps the journey from Gryffindor Tower to the pitch.
+
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 105, ¶4 (B02-C007-P0004)](../../build/reader/book-02.html#B02-C007-P0004)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 105, ¶7 (B02-C007-P0007)](../../build/reader/book-02.html#B02-C007-P0007)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 105, ¶8 (B02-C007-P0008)](../../build/reader/book-02.html#B02-C007-P0008)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 105–106, ¶9 (B02-C007-P0009)](../../build/reader/book-02.html#B02-C007-P0009)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 106, ¶10 (B02-C007-P0010)](../../build/reader/book-02.html#B02-C007-P0010)
 
 ## B02-025: Castle to Quidditch stadium — dawn route
 
@@ -202,6 +230,19 @@ Model: Observed route and bush proximity; nearest is Harry’s judgment, not a m
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 114–115, ¶94 (B02-C007-P0094)](../../build/reader/book-02.html#B02-C007-P0094)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 115, ¶95 (B02-C007-P0095)](../../build/reader/book-02.html#B02-C007-P0095)
 
+## B02-170: Quidditch stadium attendance
+
+The whole school goes down to the stadium, which is later described as packed.
+
+Places: Quidditch stands.
+
+Evidence: explicit; state: Autumn 1992 and 1993.
+
+Model: The capacity must cover the school.
+
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 168, ¶45 (B02-C010-P0045)](../../build/reader/book-02.html#B02-C010-P0045)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 258, ¶65 (B02-C014-P0065)](../../build/reader/book-02.html#B02-C014-P0065)
+
 ## B02-065: Quidditch pitch — rain, mud and rogue Bludger
 
 Heavy rain reduces visibility during the match and turns the landing surface muddy. One Bludger repeatedly pursues Harry despite being struck away; after the match the twins restrain it in a box.
@@ -229,6 +270,18 @@ Model: A temporary altered ball behaviour, not a change to the pitch’s normal 
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 173–174, ¶88 (B02-C010-P0088)](../../build/reader/book-02.html#B02-C010-P0088)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 174, ¶91 (B02-C010-P0091)](../../build/reader/book-02.html#B02-C010-P0091)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 174, ¶100 (B02-C010-P0100)](../../build/reader/book-02.html#B02-C010-P0100)
+
+## B02-167: Pitch to hospital wing
+
+At the Quidditch pitch, Lockhart sends Harry up to the Hospital Wing with two friends as escort.
+
+Places: Hospital wing, Quidditch pitch.
+
+Evidence: reported; state: November 1992.
+
+Model: Upward wording only. The castle stands above the pitch as well, so this does not fix a floor.
+
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 175, ¶104 (B02-C010-P0104)](../../build/reader/book-02.html#B02-C010-P0104)
 
 ## B02-109: Great Hall to library and pitch
 
@@ -327,6 +380,30 @@ Model: Weather, visibility and temporary shelter; the water-repelling spectacle 
 - [Book 3, ch. 9, “Grim Defeat”, ref p. 176–177, ¶150 (B03-C009-P0150)](../../build/reader/book-03.html#B03-C009-P0150)
 - [Book 3, ch. 9, “Grim Defeat”, ref p. 177, ¶153 (B03-C009-P0153)](../../build/reader/book-03.html#B03-C009-P0153)
 - [Book 3, ch. 9, “Grim Defeat”, ref p. 177, ¶154 (B03-C009-P0154)](../../build/reader/book-03.html#B03-C009-P0154)
+
+## B03-171: Quidditch stadium attendance
+
+The whole school turns out for a match even in a gale.
+
+Places: Quidditch stands.
+
+Evidence: explicit; state: November 1993.
+
+Model: The capacity must cover the school.
+
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 174, ¶134 (B03-C009-P0134)](../../build/reader/book-03.html#B03-C009-P0134)
+
+## B03-172: Team changing rooms
+
+In a match the opposing team walks out from the far side of the pitch.
+
+Places: Quidditch changing rooms and broom shed.
+
+Evidence: explicit; state: November 1993.
+
+Model: Points to changing rooms on more than one side. Does not say whether each house has its own.
+
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 175, ¶137 (B03-C009-P0137)](../../build/reader/book-03.html#B03-C009-P0137)
 
 ## B03-052: Quidditch stands — black dog sighting
 
@@ -477,6 +554,18 @@ Model: Dated crowd distribution, sound fixture and trophy presentation. Scoring 
 - [Book 3, ch. 15, “The Quidditch Final”, ref p. 314, ¶206 (B03-C015-P0206)](../../build/reader/book-03.html#B03-C015-P0206)
 - [Book 3, ch. 15, “The Quidditch Final”, ref p. 314–315, ¶207 (B03-C015-P0207)](../../build/reader/book-03.html#B03-C015-P0207)
 - [Book 3, ch. 15, “The Quidditch Final”, ref p. 315, ¶208 (B03-C015-P0208)](../../build/reader/book-03.html#B03-C015-P0208)
+
+## B04-257: World Cup pitch as a comparison
+
+The World Cup pitch is a long oval with three fifty-foot hoops at each end. It is the only Quidditch pitch given a plan shape.
+
+Places: Quidditch pitch.
+
+Evidence: explicit; state: August 1994.
+
+Model: Not Hogwarts. It shows the hoop height is the game's standard; it does not settle the Hogwarts pitch outline.
+
+- [Book 4, ch. 8, “The Quidditch World Cup”, ref p. 101–102, ¶5 (B04-C008-P0005)](../../build/reader/book-04.html#B04-C008-P0005)
 
 ## B04-091: First-task approach and champions’ tent
 
@@ -1231,6 +1320,18 @@ Model: Intervening floors and stairs are not described.
 - [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 488, ¶154 (B05-C019-P0154)](../../build/reader/book-05.html#B05-C019-P0154)
 - [Book 5, ch. 19, “The Lion and the Serpent”, ref p. 488, ¶155 (B05-C019-P0155)](../../build/reader/book-05.html#B05-C019-P0155)
 
+## B05-320: Team changing rooms
+
+A room is named as the Gryffindor changing room.
+
+Places: Quidditch changing rooms and broom shed.
+
+Evidence: explicit; state: Spring 1996.
+
+Model: Points to more than one room. Does not say whether each house has its own.
+
+- [Book 5, ch. 24, “Occlumency”, ref p. 643–644, ¶285 (B05-C024-P0285)](../../build/reader/book-05.html#B05-C024-P0285)
+
 ## B05-175: Hogsmeade route past stadium
 
 Cho waits beside the oak front doors in the Entrance Hall. After Filch signs them out, she and Harry pass the stadium, seeing Ron and Ginny flying above the stands, then follow the drive downhill and leave through the gates for the village High Street.
@@ -1457,3 +1558,27 @@ Model: A podium is functioning again after the earlier collision; text does not 
 - [Book 6, ch. 19, “Elf Tails”, ref p. 432, ¶139 (B06-C019-P0139)](../../build/reader/book-06.html#B06-C019-P0139)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 432, ¶141 (B06-C019-P0141)](../../build/reader/book-06.html#B06-C019-P0141)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 433, ¶148 (B06-C019-P0148)](../../build/reader/book-06.html#B06-C019-P0148)
+
+## B06-220: Quidditch stadium attendance
+
+On a match day the whole school is outside, seated in the stadium or on the way down.
+
+Places: Quidditch stands.
+
+Evidence: explicit; state: Spring 1997.
+
+Model: The capacity must cover the school.
+
+- [Book 6, ch. 19, “Elf Tails”, ref p. 430, ¶120 (B06-C019-P0120)](../../build/reader/book-06.html#B06-C019-P0120)
+
+## B06-215: Hospital wing — commentary heard from the pitch
+
+Ron says he could hear the Quidditch match commentary from his bed in the ward.
+
+Places: Hospital wing, Quidditch pitch.
+
+Evidence: reported; state: March 1997.
+
+Model: A hearing range only. The text gives no bearing or distance, and match commentary may be magically loud.
+
+- [Book 6, ch. 19, “Elf Tails”, ref p. 435, ¶166 (B06-C019-P0166)](../../build/reader/book-06.html#B06-C019-P0166)

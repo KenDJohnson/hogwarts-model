@@ -70,6 +70,24 @@ Model: Sorting stool is a temporary installation. Slytherin occupying the remain
 - [Book 1, ch. 7, “The Sorting Hat”, ref p. 122, ¶76 (B01-C007-P0076)](../../build/reader/book-01.html#B01-C007-P0076)
 - [Book 1, ch. 7, “The Sorting Hat”, ref p. 122, ¶77 (B01-C007-P0077)](../../build/reader/book-01.html#B01-C007-P0077)
 
+## B01-152: Sorting rolls and Harry’s year
+
+The 1991 roll calls 21 named first-years aloud, while Crabbe and Goyle are already seated when Malfoy is called. Few remain after Malfoy and only three after Harry.
+
+Places: Castle interiors in general, Great Hall.
+
+Evidence: explicit; state: September 1991.
+
+Model: The list skips names, since Dean Thomas is never called yet shares Harry’s dormitory, so the true count is higher. The roll is a lower limit for a year’s size.
+
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 122, ¶77 (B01-C007-P0077)](../../build/reader/book-01.html#B01-C007-P0077)
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 123, ¶85 (B01-C007-P0085)](../../build/reader/book-01.html#B01-C007-P0085)
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 123, ¶89 (B01-C007-P0089)](../../build/reader/book-01.html#B01-C007-P0089)
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 123, ¶90 (B01-C007-P0090)](../../build/reader/book-01.html#B01-C007-P0090)
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 123, ¶91 (B01-C007-P0091)](../../build/reader/book-01.html#B01-C007-P0091)
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 125, ¶102 (B01-C007-P0102)](../../build/reader/book-01.html#B01-C007-P0102)
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 125, ¶104 (B01-C007-P0104)](../../build/reader/book-01.html#B01-C007-P0104)
+
 ## B01-017: Great Hall — High Table chair
 
 Dumbledore occupies a large gold chair at the centre of the High Table.
@@ -780,6 +798,19 @@ Model: Retain the stated bronze Ravenclaw eagle and the location of the larger s
 
 - [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 246, ¶66 (B04-C015-P0066)](../../build/reader/book-04.html#B04-C015-P0066)
 
+## B04-250: Visiting pupils in the Great Hall
+
+Around a dozen Beauxbatons pupils arrive in October 1994. With the Durmstrang party the two schools add only about twenty pupils to the Great Hall, which still looks fuller because their uniforms stand out.
+
+Places: Great Hall, Castle interiors in general.
+
+Evidence: explicit; state: October 1994 to June 1995.
+
+Model: Visitor numbers are too small to affect Hall capacity. They matter only as a share of the Yule Ball seating.
+
+- [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 254–255, ¶128 (B04-C015-P0128)](../../build/reader/book-04.html#B04-C015-P0128)
+- [Book 4, ch. 16, “The Goblet of Fire”, ref p. 261–262, ¶33 (B04-C016-P0033)](../../build/reader/book-04.html#B04-C016-P0033)
+
 ## B04-046: Great Hall guest seating
 
 Beauxbatons pupils sit at the Ravenclaw table and Durmstrang at Slytherin. Filch adds four staff chairs, two on either side of Dumbledore: Maxime sits to his left with Crouch beyond her, and Bagman sits beyond Karkaroff on the other side. The ceiling shows a black starry sky.
@@ -939,6 +970,18 @@ Evidence: explicit; state: December 1994, end of term.
 Model: Dated decorations and triggered armour audio. Icicles are magical persistent decorations, not evidence of a frozen interior.
 
 - [Book 4, ch. 22, “The Unexpected Task”, ref p. 415–416, ¶95 (B04-C022-P0095)](../../build/reader/book-04.html#B04-C022-P0095)
+
+## B04-245: Great Hall and kitchens — Christmas lunch quantities
+
+The Christmas Day meal in the Hall ran to no fewer than a hundred turkeys and Christmas puddings, with big heaps of crackers.
+
+Places: Great Hall, Kitchens.
+
+Evidence: explicit; state: 25 December 1994.
+
+Model: A catering scale for the kitchens, not a seat count. The number may apply to the turkeys alone or to the puddings as well.
+
+- [Book 4, ch. 23, “The Yule Ball”, ref p. 431, ¶59 (B04-C023-P0059)](../../build/reader/book-04.html#B04-C023-P0059)
 
 ## B04-124: Great Hall ball dining layout
 
@@ -1728,6 +1771,18 @@ Model: Corroborates opposite-side Gryffindor/Slytherin seating decades earlier; 
 - [Book 7, ch. 33, “The Prince’s Tale”, ref p. 712–713, ¶151 (B07-C033-P0151)](../../build/reader/book-07.html#B07-C033-P0151)
 - [Book 7, ch. 33, “The Prince’s Tale”, ref p. 713, ¶152 (B07-C033-P0152)](../../build/reader/book-07.html#B07-C033-P0152)
 - [Book 7, ch. 33, “The Prince’s Tale”, ref p. 713, ¶153 (B07-C033-P0153)](../../build/reader/book-07.html#B07-C033-P0153)
+
+## B07-141: Sorting rolls in a memory
+
+In a 1971 memory about a dozen pupils are still to be sorted when the roll reaches Snape.
+
+Places: Castle interiors in general, Great Hall.
+
+Evidence: explicit; state: September 1971 memory.
+
+Model: A lower limit for one year’s size.
+
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 712–713, ¶151 (B07-C033-P0151)](../../build/reader/book-07.html#B07-C033-P0151)
 
 ## B07-110: Great Hall → grounds beech tree
 

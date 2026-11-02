@@ -5251,6 +5251,105 @@
       "certainty": "explicit",
       "temporal": "1996 spring term",
       "model_notes": "A dated sky appearance, supplementing the black and rain-grey ceiling states; retain the sky-matching behaviour rather than a single fixed texture."
+    },
+    {
+      "id": "B05-313",
+      "location": "Hogwarts year groups",
+      "category": "history",
+      "description": "McGonagall speaks of a sixth and a seventh year of study still to come after the fifth.",
+      "evidence": [
+        "B05-C029-P0116"
+      ],
+      "certainty": "reported",
+      "temporal": "1996",
+      "model_notes": "Confirms seven numbered year groups in use."
+    },
+    {
+      "id": "B05-314",
+      "location": "Gryffindor boys’ door",
+      "category": "route",
+      "description": "A seventh-year goes up to bed through the same doorway to the boys’ dormitories that a fifth-year uses.",
+      "evidence": [
+        "B05-C011-P0206",
+        "B05-C017-P0206"
+      ],
+      "certainty": "explicit",
+      "temporal": "Autumn 1995",
+      "model_notes": "Supports a single shared stair with several dormitories off it, not a separate stair for each year."
+    },
+    {
+      "id": "B05-315",
+      "location": "School population",
+      "category": "interior",
+      "description": "At the lesson bell hundreds of pupils can be heard moving overhead and all around.",
+      "evidence": [
+        "B05-C012-P0323"
+      ],
+      "certainty": "explicit",
+      "temporal": "Autumn 1995",
+      "model_notes": "Counts the school only as hundreds."
+    },
+    {
+      "id": "B05-316",
+      "location": "Hagrid’s stature",
+      "category": "interior",
+      "description": "Hagrid is double a normal man’s size.",
+      "evidence": [
+        "B05-C020-P0012"
+      ],
+      "certainty": "explicit",
+      "temporal": "Autumn 1995",
+      "model_notes": "Sets the scale of the cabin’s furniture."
+    },
+    {
+      "id": "B05-317",
+      "location": "Hagrid’s height against other people",
+      "category": "interior",
+      "description": "Umbridge, in his doorway, barely reaches his navel. Bent double among younger pupils he still rises at least four feet above them.",
+      "evidence": [
+        "B05-C020-P0189",
+        "B05-C030-P0067"
+      ],
+      "certainty": "explicit",
+      "temporal": "1995 to 1996",
+      "model_notes": "Relative checks. The navel comparison reads lower than twice a normal man."
+    },
+    {
+      "id": "B05-318",
+      "location": "Centaur clearing — position in the Forest",
+      "category": "grounds",
+      "description": "After the centaurs are driven off, Harry judges that he and Hermione are stranded at the centre of the Forbidden Forest with no way out.",
+      "evidence": [
+        "B05-C033-P0083"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1996",
+      "model_notes": "Harry’s judgement, not a survey; the clearing’s true position in the Forest is unknown."
+    },
+    {
+      "id": "B05-319",
+      "location": "Grawp’s clearing — empty surrounding Forest",
+      "category": "grounds",
+      "description": "Harry realises that the giant’s presence explains why no other creature has been met on the way in through this part of the Forest.",
+      "evidence": [
+        "B05-C030-P0107",
+        "B05-C030-P0164"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1996",
+      "model_notes": "Harry’s explanation for the absence of animals, not a stated exclusion zone."
+    },
+    {
+      "id": "B05-320",
+      "location": "Team changing rooms",
+      "category": "interior",
+      "description": "A room is named as the Gryffindor changing room.",
+      "evidence": [
+        "B05-C024-P0285"
+      ],
+      "certainty": "explicit",
+      "temporal": "Spring 1996",
+      "model_notes": "Points to more than one room. Does not say whether each house has its own."
     }
   ],
   "chapter_reviews": [

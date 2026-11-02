@@ -2,11 +2,11 @@
 
 This reports the reviewers' declared reading ranges. Structural validation checks that those ranges cover the corpus; it cannot prove semantic completeness or that every description has been captured.
 
-Reviewed: **38,426/38,426 paragraphs**. Additional text fragments: **33/33**. Records: **1380**.
+Reviewed: **38,426/38,426 paragraphs**. Additional text fragments: **33/33**. Records: **1443**.
 
 ## Book 1: Harry Potter and the Philosopher's Stone
 
-3,094/3,094 paragraphs; 145 records.
+3,094/3,094 paragraphs; 157 records.
 
 - Chapter 1, The Boy Who Lived: Reviewed (111/111).
 - Chapter 2, The Vanishing Glass: Reviewed (100/100).
@@ -28,7 +28,7 @@ Reviewed: **38,426/38,426 paragraphs**. Additional text fragments: **33/33**. Re
 
 ## Book 2: Harry Potter and the Chamber of Secrets
 
-3,217/3,217 paragraphs; 163 records.
+3,217/3,217 paragraphs; 171 records.
 
 - Chapter 1, The Worst Birthday: Reviewed (95/95).
 - Chapter 2, Dobby’s Warning: Reviewed (128/128).
@@ -51,7 +51,7 @@ Reviewed: **38,426/38,426 paragraphs**. Additional text fragments: **33/33**. Re
 
 ## Book 3: Harry Potter and the Prisoner of Azkaban
 
-4,227/4,227 paragraphs; 166 records.
+4,227/4,227 paragraphs; 173 records.
 
 - Chapter 1, Owl Post: Reviewed (101/101).
 - Chapter 2, Aunt Marge’s Big Mistake: Reviewed (134/134).
@@ -78,7 +78,7 @@ Reviewed: **38,426/38,426 paragraphs**. Additional text fragments: **33/33**. Re
 
 ## Book 4: Harry Potter and the Goblet of Fire
 
-6,131/6,131 paragraphs; 243 records.
+6,131/6,131 paragraphs; 260 records.
 
 - Chapter 1, The Riddle House: Reviewed (108/108).
 - Chapter 2, The Scar: Reviewed (43/43).
@@ -120,7 +120,7 @@ Reviewed: **38,426/38,426 paragraphs**. Additional text fragments: **33/33**. Re
 
 ## Book 5: Harry Potter and the Order of the Phoenix
 
-9,069/9,069 paragraphs; 312 records.
+9,069/9,069 paragraphs; 320 records.
 
 - Chapter 1, Dudley Demented: Reviewed (184/184).
 - Chapter 2, A Peck of Owls: Reviewed (253/253).
@@ -163,7 +163,7 @@ Reviewed: **38,426/38,426 paragraphs**. Additional text fragments: **33/33**. Re
 
 ## Book 6: Harry Potter and the Half-Blood Prince
 
-5,809/5,809 paragraphs; 212 records.
+5,809/5,809 paragraphs; 221 records.
 
 - Chapter 1, The Other Minister: Reviewed (135/135).
 - Chapter 2, Spinner’s End: Reviewed (175/175).
@@ -198,7 +198,7 @@ Reviewed: **38,426/38,426 paragraphs**. Additional text fragments: **33/33**. Re
 
 ## Book 7: Harry Potter and the Deathly Hallows
 
-6,879/6,879 paragraphs; 139 records.
+6,879/6,879 paragraphs; 141 records.
 
 - Chapter 1, The Dark Lord Ascending: Reviewed (108/108).
 - Chapter 2, In Memoriam: Reviewed (63/63).

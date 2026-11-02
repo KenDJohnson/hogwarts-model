@@ -10,6 +10,110 @@
   },
   "entries": [
     {
+      "id": "B01-154",
+      "location": "Hagrid’s stature",
+      "category": "interior",
+      "description": "Hagrid is given as almost double a normal man’s height and five or more times his width, and later as twice as tall as anyone around him.",
+      "evidence": [
+        "B01-C001-P0089",
+        "B01-C005-P0054"
+      ],
+      "certainty": "explicit",
+      "temporal": "1981 and July 1991",
+      "model_notes": "No height in feet is given for the adult. These figures set the scale of the cabin’s doors, ceiling and furniture.",
+      "citations": [
+        {
+          "id": "B01-C001-P0089",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 1,
+          "chapter_title": "The Boy Who Lived",
+          "is_epilogue": false,
+          "paragraph": 89,
+          "page_start": 16,
+          "page_end": 16,
+          "source_member": "1/OEBPS/hp01_ch001_en-gb.html",
+          "source_p_ordinal": 92,
+          "source_element_id": null,
+          "word_start": 3860,
+          "word_count": 87,
+          "label": "Book 1, ch. 1, “The Boy Who Lived”, ref p. 16, ¶89 (B01-C001-P0089)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 92,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B01-C005-P0054",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 5,
+          "chapter_title": "Diagon Alley",
+          "is_epilogue": false,
+          "paragraph": 54,
+          "page_start": 68,
+          "page_end": 68,
+          "source_member": "1/OEBPS/hp01_ch005_en-gb.html",
+          "source_p_ordinal": 57,
+          "source_element_id": null,
+          "word_start": 16784,
+          "word_count": 52,
+          "label": "Book 1, ch. 5, “Diagon Alley”, ref p. 68, ¶54 (B01-C005-P0054)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 57,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "hagrid-cabin"
+      ],
+      "areas": [
+        "hagrid"
+      ]
+    },
+    {
+      "id": "B01-147",
+      "location": "Entrance Hall — the house used as its size comparison",
+      "category": "interior",
+      "description": "The Dursleys’ house, the yardstick given for the size of the Entrance Hall, has four bedrooms upstairs: one for the couple, one for visitors and two used by Dudley.",
+      "evidence": [
+        "B01-C003-P0066"
+      ],
+      "certainty": "explicit",
+      "temporal": "Summer 1991",
+      "model_notes": "Shows the comparison house is a two-storey, four-bedroom home. No dimensions are given.",
+      "citations": [
+        {
+          "id": "B01-C003-P0066",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 3,
+          "chapter_title": "The Letters from No One",
+          "is_epilogue": false,
+          "paragraph": 66,
+          "page_start": 39,
+          "page_end": 40,
+          "source_member": "1/OEBPS/hp01_ch003_en-gb.html",
+          "source_p_ordinal": 71,
+          "source_element_id": null,
+          "word_start": 9670,
+          "word_count": 177,
+          "label": "Book 1, ch. 3, “The Letters from No One”, ref p. 39–40, ¶66 (B01-C003-P0066)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 71,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "entrance-hall"
+      ],
+      "areas": [
+        "entrance-hall"
+      ]
+    },
+    {
       "id": "B01-001",
       "location": "Hogwarts — historical security",
       "category": "history",
@@ -45,6 +149,47 @@
       ],
       "places": [
         "castle-protections"
+      ],
+      "areas": [
+        "castle-and-terrain"
+      ]
+    },
+    {
+      "id": "B01-146",
+      "location": "Hogwarts year groups",
+      "category": "history",
+      "description": "Hagrid gives the school course as seven years.",
+      "evidence": [
+        "B01-C004-P0135"
+      ],
+      "certainty": "reported",
+      "temporal": "July 1991",
+      "model_notes": "Basis for counting year groups. Says nothing about how many pupils or rooms a year has.",
+      "citations": [
+        {
+          "id": "B01-C004-P0135",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 4,
+          "chapter_title": "The Keeper of the Keys",
+          "is_epilogue": false,
+          "paragraph": 135,
+          "page_start": 62,
+          "page_end": 62,
+          "source_member": "1/OEBPS/hp01_ch004_en-gb.html",
+          "source_p_ordinal": 146,
+          "source_element_id": null,
+          "word_start": 15306,
+          "word_count": 79,
+          "label": "Book 1, ch. 4, “The Keeper of the Keys”, ref p. 62, ¶135 (B01-C004-P0135)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 146,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "castle-interior-general"
       ],
       "areas": [
         "castle-and-terrain"
@@ -328,6 +473,48 @@
       "areas": [
         "arrival-and-gates",
         "castle-and-terrain"
+      ]
+    },
+    {
+      "id": "B01-153",
+      "location": "Train announcement and luggage",
+      "category": "route",
+      "description": "A voice carried through the train announces arrival in five minutes and tells pupils to leave their luggage aboard, since it reaches the school by another route.",
+      "evidence": [
+        "B01-C006-P0270"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991",
+      "model_notes": "Trunks do not travel in the coaches or boats. How they reach the dormitories is not stated.",
+      "citations": [
+        {
+          "id": "B01-C006-P0270",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 6,
+          "chapter_title": "The Journey from Platform Nine and Three-Quarters",
+          "is_epilogue": false,
+          "paragraph": 270,
+          "page_start": 114,
+          "page_end": 114,
+          "source_member": "1/OEBPS/hp01_ch006_en-gb.html",
+          "source_p_ordinal": 275,
+          "source_element_id": null,
+          "word_start": 28267,
+          "word_count": 30,
+          "label": "Book 1, ch. 6, “The Journey from Platform Nine and Three-Quarters”, ref p. 114, ¶270 (B01-C006-P0270)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 275,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "hogwarts-express",
+        "hogsmeade-station"
+      ],
+      "areas": [
+        "arrival-and-gates"
       ]
     },
     {
@@ -1103,6 +1290,47 @@
       ]
     },
     {
+      "id": "B01-151",
+      "location": "School population",
+      "category": "interior",
+      "description": "At the first Sorting the Hall holds hundreds of pupils’ faces.",
+      "evidence": [
+        "B01-C007-P0028"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991",
+      "model_notes": "No exact roll is stated anywhere. The living school is never called a thousand.",
+      "citations": [
+        {
+          "id": "B01-C007-P0028",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 7,
+          "chapter_title": "The Sorting Hat",
+          "is_epilogue": false,
+          "paragraph": 28,
+          "page_start": 119,
+          "page_end": 120,
+          "source_member": "1/OEBPS/hp01_ch007_en-gb.html",
+          "source_p_ordinal": 31,
+          "source_element_id": "HP01CH07M01E",
+          "word_start": 29607,
+          "word_count": 154,
+          "label": "Book 1, ch. 7, “The Sorting Hat”, ref p. 119–120, ¶28 (B01-C007-P0028)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 31,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "castle-interior-general"
+      ],
+      "areas": [
+        "castle-and-terrain"
+      ]
+    },
+    {
       "id": "B01-016",
       "location": "Great Hall — sorting furniture and house table order",
       "category": "furnishing",
@@ -1228,6 +1456,181 @@
         "great-hall"
       ],
       "areas": [
+        "great-hall"
+      ]
+    },
+    {
+      "id": "B01-152",
+      "location": "Sorting rolls and Harry’s year",
+      "category": "interior",
+      "description": "The 1991 roll calls 21 named first-years aloud, while Crabbe and Goyle are already seated when Malfoy is called. Few remain after Malfoy and only three after Harry.",
+      "evidence": [
+        "B01-C007-P0077",
+        "B01-C007-P0085",
+        "B01-C007-P0089",
+        "B01-C007-P0090",
+        "B01-C007-P0091",
+        "B01-C007-P0102",
+        "B01-C007-P0104"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991",
+      "model_notes": "The list skips names, since Dean Thomas is never called yet shares Harry’s dormitory, so the true count is higher. The roll is a lower limit for a year’s size.",
+      "citations": [
+        {
+          "id": "B01-C007-P0077",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 7,
+          "chapter_title": "The Sorting Hat",
+          "is_epilogue": false,
+          "paragraph": 77,
+          "page_start": 122,
+          "page_end": 122,
+          "source_member": "1/OEBPS/hp01_ch007_en-gb.html",
+          "source_p_ordinal": 82,
+          "source_element_id": null,
+          "word_start": 30344,
+          "word_count": 31,
+          "label": "Book 1, ch. 7, “The Sorting Hat”, ref p. 122, ¶77 (B01-C007-P0077)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 82,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B01-C007-P0085",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 7,
+          "chapter_title": "The Sorting Hat",
+          "is_epilogue": false,
+          "paragraph": 85,
+          "page_start": 123,
+          "page_end": 123,
+          "source_member": "1/OEBPS/hp01_ch007_en-gb.html",
+          "source_p_ordinal": 90,
+          "source_element_id": null,
+          "word_start": 30513,
+          "word_count": 6,
+          "label": "Book 1, ch. 7, “The Sorting Hat”, ref p. 123, ¶85 (B01-C007-P0085)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 90,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B01-C007-P0089",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 7,
+          "chapter_title": "The Sorting Hat",
+          "is_epilogue": false,
+          "paragraph": 89,
+          "page_start": 123,
+          "page_end": 123,
+          "source_member": "1/OEBPS/hp01_ch007_en-gb.html",
+          "source_p_ordinal": 94,
+          "source_element_id": null,
+          "word_start": 30660,
+          "word_count": 13,
+          "label": "Book 1, ch. 7, “The Sorting Hat”, ref p. 123, ¶89 (B01-C007-P0089)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 94,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B01-C007-P0090",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 7,
+          "chapter_title": "The Sorting Hat",
+          "is_epilogue": false,
+          "paragraph": 90,
+          "page_start": 123,
+          "page_end": 123,
+          "source_member": "1/OEBPS/hp01_ch007_en-gb.html",
+          "source_p_ordinal": 95,
+          "source_element_id": null,
+          "word_start": 30673,
+          "word_count": 6,
+          "label": "Book 1, ch. 7, “The Sorting Hat”, ref p. 123, ¶90 (B01-C007-P0090)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 95,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B01-C007-P0091",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 7,
+          "chapter_title": "The Sorting Hat",
+          "is_epilogue": false,
+          "paragraph": 91,
+          "page_start": 123,
+          "page_end": 123,
+          "source_member": "1/OEBPS/hp01_ch007_en-gb.html",
+          "source_p_ordinal": 96,
+          "source_element_id": null,
+          "word_start": 30679,
+          "word_count": 25,
+          "label": "Book 1, ch. 7, “The Sorting Hat”, ref p. 123, ¶91 (B01-C007-P0091)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 96,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B01-C007-P0102",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 7,
+          "chapter_title": "The Sorting Hat",
+          "is_epilogue": false,
+          "paragraph": 102,
+          "page_start": 125,
+          "page_end": 125,
+          "source_member": "1/OEBPS/hp01_ch007_en-gb.html",
+          "source_p_ordinal": 107,
+          "source_element_id": null,
+          "word_start": 31078,
+          "word_count": 44,
+          "label": "Book 1, ch. 7, “The Sorting Hat”, ref p. 125, ¶102 (B01-C007-P0102)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 107,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B01-C007-P0104",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 7,
+          "chapter_title": "The Sorting Hat",
+          "is_epilogue": false,
+          "paragraph": 104,
+          "page_start": 125,
+          "page_end": 125,
+          "source_member": "1/OEBPS/hp01_ch007_en-gb.html",
+          "source_p_ordinal": 109,
+          "source_element_id": null,
+          "word_start": 31137,
+          "word_count": 29,
+          "label": "Book 1, ch. 7, “The Sorting Hat”, ref p. 125, ¶104 (B01-C007-P0104)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 109,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "castle-interior-general",
+        "great-hall"
+      ],
+      "areas": [
+        "castle-and-terrain",
         "great-hall"
       ]
     },
@@ -2229,6 +2632,69 @@
       ]
     },
     {
+      "id": "B01-155",
+      "location": "Castle to Hagrid’s cabin — walking time",
+      "category": "route",
+      "description": "Hagrid invites Harry to tea at around three; Harry and Ron leave the castle at five minutes to three and walk across the grounds to his house.",
+      "evidence": [
+        "B01-C008-P0028",
+        "B01-C008-P0066"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991, first school week",
+      "model_notes": "Implies a walk of roughly five minutes if they arrive on time. The arrival time itself is not stated.",
+      "citations": [
+        {
+          "id": "B01-C008-P0028",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 8,
+          "chapter_title": "The Potions Master",
+          "is_epilogue": false,
+          "paragraph": 28,
+          "page_start": 139,
+          "page_end": 139,
+          "source_member": "1/OEBPS/hp01_ch008_en-gb.html",
+          "source_p_ordinal": 32,
+          "source_element_id": null,
+          "word_start": 34557,
+          "word_count": 39,
+          "label": "Book 1, ch. 8, “The Potions Master”, ref p. 139, ¶28 (B01-C008-P0028)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 32,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B01-C008-P0066",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 8,
+          "chapter_title": "The Potions Master",
+          "is_epilogue": false,
+          "paragraph": 66,
+          "page_start": 143,
+          "page_end": 143,
+          "source_member": "1/OEBPS/hp01_ch008_en-gb.html",
+          "source_p_ordinal": 71,
+          "source_element_id": "HP01CH08M03S",
+          "word_start": 35638,
+          "word_count": 41,
+          "label": "Book 1, ch. 8, “The Potions Master”, ref p. 143, ¶66 (B01-C008-P0066)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 71,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "hagrid-cabin"
+      ],
+      "areas": [
+        "hagrid"
+      ]
+    },
+    {
       "id": "B01-034",
       "location": "Potions dungeon",
       "category": "interior",
@@ -2842,6 +3308,69 @@
           "is_extra": false,
           "source_element_tag": "p",
           "source_element_ordinal": 49,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "flying-lawn"
+      ],
+      "areas": [
+        "greenhouses"
+      ]
+    },
+    {
+      "id": "B01-157",
+      "location": "Fifty-foot dive at the flying lawn",
+      "category": "grounds",
+      "description": "McGonagall tells Wood that Harry caught the falling ball after a fifty-foot dive during the flying lesson.",
+      "evidence": [
+        "B01-C009-P0057",
+        "B01-C009-P0081"
+      ],
+      "certainty": "reported",
+      "temporal": "September 1991",
+      "model_notes": "McGonagall's figure. With Malfoy hovering level with the oak's top branches, it gives a rough idea of the tree's height.",
+      "citations": [
+        {
+          "id": "B01-C009-P0057",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 9,
+          "chapter_title": "The Midnight Duel",
+          "is_epilogue": false,
+          "paragraph": 57,
+          "page_start": 152,
+          "page_end": 152,
+          "source_member": "1/OEBPS/hp01_ch009_en-gb.html",
+          "source_p_ordinal": 60,
+          "source_element_id": null,
+          "word_start": 37897,
+          "word_count": 94,
+          "label": "Book 1, ch. 9, “The Midnight Duel”, ref p. 152, ¶57 (B01-C009-P0057)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 60,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B01-C009-P0081",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 9,
+          "chapter_title": "The Midnight Duel",
+          "is_epilogue": false,
+          "paragraph": 81,
+          "page_start": 154,
+          "page_end": 154,
+          "source_member": "1/OEBPS/hp01_ch009_en-gb.html",
+          "source_p_ordinal": 84,
+          "source_element_id": null,
+          "word_start": 38463,
+          "word_count": 25,
+          "label": "Book 1, ch. 9, “The Midnight Duel”, ref p. 154, ¶81 (B01-C009-P0081)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 84,
           "source_text_slot": "text"
         }
       ],
@@ -4614,6 +5143,93 @@
       ]
     },
     {
+      "id": "B01-148",
+      "location": "Girls' toilets — troll clearance",
+      "category": "temporary",
+      "description": "A troll twelve feet tall, carrying a huge club, goes through the doorway of the girls' toilets and moves about inside.",
+      "evidence": [
+        "B01-C010-P0111",
+        "B01-C010-P0112",
+        "B01-C010-P0122"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1991",
+      "model_notes": "The height is narrated. How the creature fitted the doorway or ceiling is not: it slouches in, so either the opening is very tall or it stooped.",
+      "citations": [
+        {
+          "id": "B01-C010-P0111",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 10,
+          "chapter_title": "Hallowe’en",
+          "is_epilogue": false,
+          "paragraph": 111,
+          "page_start": 177,
+          "page_end": 178,
+          "source_member": "1/OEBPS/hp01_ch010_en-gb.html",
+          "source_p_ordinal": 116,
+          "source_element_id": null,
+          "word_start": 44205,
+          "word_count": 70,
+          "label": "Book 1, ch. 10, “Hallowe’en”, ref p. 177–178, ¶111 (B01-C010-P0111)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 116,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B01-C010-P0112",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 10,
+          "chapter_title": "Hallowe’en",
+          "is_epilogue": false,
+          "paragraph": 112,
+          "page_start": 178,
+          "page_end": 178,
+          "source_member": "1/OEBPS/hp01_ch010_en-gb.html",
+          "source_p_ordinal": 117,
+          "source_element_id": null,
+          "word_start": 44275,
+          "word_count": 26,
+          "label": "Book 1, ch. 10, “Hallowe’en”, ref p. 178, ¶112 (B01-C010-P0112)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 117,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B01-C010-P0122",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 10,
+          "chapter_title": "Hallowe’en",
+          "is_epilogue": false,
+          "paragraph": 122,
+          "page_start": 178,
+          "page_end": 178,
+          "source_member": "1/OEBPS/hp01_ch010_en-gb.html",
+          "source_p_ordinal": 127,
+          "source_element_id": null,
+          "word_start": 44456,
+          "word_count": 31,
+          "label": "Book 1, ch. 10, “Hallowe’en”, ref p. 178, ¶122 (B01-C010-P0122)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 127,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "troll-toilets",
+        "troll-chamber"
+      ],
+      "areas": [
+        "washrooms",
+        "stone-defences"
+      ]
+    },
+    {
       "id": "B01-058",
       "location": "Girls’ toilets — door and fixtures",
       "category": "interior",
@@ -5542,6 +6158,47 @@
       "places": [
         "quidditch-stands",
         "quidditch-changing-rooms"
+      ],
+      "areas": [
+        "quidditch"
+      ]
+    },
+    {
+      "id": "B01-156",
+      "location": "Quidditch stadium attendance",
+      "category": "grounds",
+      "description": "The whole school seems to be in the stands. Many pupils have binoculars, because the raised seats do not always give a good view.",
+      "evidence": [
+        "B01-C011-P0042"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1991",
+      "model_notes": "The capacity must cover the school. This passage hedges with seemed.",
+      "citations": [
+        {
+          "id": "B01-C011-P0042",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 11,
+          "chapter_title": "Quidditch",
+          "is_epilogue": false,
+          "paragraph": 42,
+          "page_start": 187,
+          "page_end": 187,
+          "source_member": "1/OEBPS/hp01_ch011_en-gb.html",
+          "source_p_ordinal": 45,
+          "source_element_id": "HP01CH11M02S",
+          "word_start": 46640,
+          "word_count": 42,
+          "label": "Book 1, ch. 11, “Quidditch”, ref p. 187, ¶42 (B01-C011-P0042)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 45,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "quidditch-stands"
       ],
       "areas": [
         "quidditch"
@@ -9873,6 +10530,47 @@
       ]
     },
     {
+      "id": "B01-149",
+      "location": "Library — books around the readers",
+      "category": "interior",
+      "description": "Sitting in the library, Ron gazes upward at the many thousands of volumes around them.",
+      "evidence": [
+        "B01-C015-P0038"
+      ],
+      "certainty": "explicit",
+      "temporal": "Spring 1992",
+      "model_notes": "A loose impression that agrees with the general count. It suggests shelving rising above seated eye level near a reading place.",
+      "citations": [
+        {
+          "id": "B01-C015-P0038",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 15,
+          "chapter_title": "The Forbidden Forest",
+          "is_epilogue": false,
+          "paragraph": 38,
+          "page_start": 251,
+          "page_end": 251,
+          "source_member": "1/OEBPS/hp01_ch015_en-gb.html",
+          "source_p_ordinal": 41,
+          "source_element_id": null,
+          "word_start": 62548,
+          "word_count": 47,
+          "label": "Book 1, ch. 15, “The Forbidden Forest”, ref p. 251, ¶38 (B01-C015-P0038)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 41,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "library"
+      ],
+      "areas": [
+        "library"
+      ]
+    },
+    {
       "id": "B01-107",
       "location": "Entrance Hall to forest-edge rendezvous",
       "category": "route",
@@ -12301,6 +12999,69 @@
       "areas": [
         "entrance-hall",
         "arrival-and-gates",
+        "offices"
+      ]
+    },
+    {
+      "id": "B01-150",
+      "location": "Entrance Hall — search for the Headmaster's office",
+      "category": "route",
+      "description": "Near the end of their first year Harry, Ron and Hermione look around the Entrance Hall for any sign to Dumbledore's office. They have never been told where he lives and know nobody who has been sent to see him.",
+      "evidence": [
+        "B01-C016-P0039",
+        "B01-C016-P0040"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992",
+      "model_notes": "Establishes that the office is unsigned and off any everyday pupil route. No location is given here.",
+      "citations": [
+        {
+          "id": "B01-C016-P0039",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 16,
+          "chapter_title": "Through the Trapdoor",
+          "is_epilogue": false,
+          "paragraph": 39,
+          "page_start": 271,
+          "page_end": 271,
+          "source_member": "1/OEBPS/hp01_ch016_en-gb.html",
+          "source_p_ordinal": 42,
+          "source_element_id": null,
+          "word_start": 67677,
+          "word_count": 56,
+          "label": "Book 1, ch. 16, “Through the Trapdoor”, ref p. 271, ¶39 (B01-C016-P0039)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 42,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B01-C016-P0040",
+          "book": 1,
+          "book_title": "Harry Potter and the Philosopher's Stone",
+          "chapter": 16,
+          "chapter_title": "Through the Trapdoor",
+          "is_epilogue": false,
+          "paragraph": 40,
+          "page_start": 271,
+          "page_end": 272,
+          "source_member": "1/OEBPS/hp01_ch016_en-gb.html",
+          "source_p_ordinal": 43,
+          "source_element_id": null,
+          "word_start": 67733,
+          "word_count": 36,
+          "label": "Book 1, ch. 16, “Through the Trapdoor”, ref p. 271–272, ¶40 (B01-C016-P0040)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 43,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "headmasters-office"
+      ],
+      "areas": [
         "offices"
       ]
     },
@@ -17229,6 +17990,47 @@
       ]
     },
     {
+      "id": "B02-169",
+      "location": "Hagrid’s height against other people",
+      "category": "interior",
+      "description": "In a crowded street Hagrid shows head and shoulders above everyone else.",
+      "evidence": [
+        "B02-C004-P0140"
+      ],
+      "certainty": "explicit",
+      "temporal": "August 1992",
+      "model_notes": "A relative check. This reads lower than twice a normal man.",
+      "citations": [
+        {
+          "id": "B02-C004-P0140",
+          "book": 2,
+          "book_title": "Harry Potter and the Chamber of Secrets",
+          "chapter": 4,
+          "chapter_title": "At Flourish and Blotts",
+          "is_epilogue": false,
+          "paragraph": 140,
+          "page_start": 56,
+          "page_end": 56,
+          "source_member": "2/OEBPS/hp02_ch004_en-gb.html",
+          "source_p_ordinal": 147,
+          "source_element_id": null,
+          "word_start": 13840,
+          "word_count": 42,
+          "label": "Book 2, ch. 4, “At Flourish and Blotts”, ref p. 56, ¶140 (B02-C004-P0140)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 147,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "hagrid-cabin"
+      ],
+      "areas": [
+        "hagrid"
+      ]
+    },
+    {
       "id": "B02-003",
       "location": "King’s Cross — sealed school gateway",
       "category": "temporary",
@@ -18825,6 +19627,49 @@
       ]
     },
     {
+      "id": "B02-168",
+      "location": "Named points on the flight north",
+      "category": "route",
+      "description": "A 1992 newspaper item about the flying car reports sightings over London, at noon in Norfolk, and by a man from Peebles. These are the only named places on the journey north; no passage puts the school in a named county or country.",
+      "evidence": [
+        "B02-C005-P0132"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1992",
+      "model_notes": "Places on a route, not the school's location. Do not state a country for Hogwarts from outside knowledge.",
+      "citations": [
+        {
+          "id": "B02-C005-P0132",
+          "book": 2,
+          "book_title": "Harry Potter and the Chamber of Secrets",
+          "chapter": 5,
+          "chapter_title": "The Whomping Willow",
+          "is_epilogue": false,
+          "paragraph": 132,
+          "page_start": 79,
+          "page_end": 79,
+          "source_member": "2/OEBPS/hp02_ch005_en-gb.html",
+          "source_p_ordinal": 134,
+          "source_element_id": null,
+          "word_start": 19537,
+          "word_count": 94,
+          "label": "Book 2, ch. 5, “The Whomping Willow”, ref p. 79, ¶132 (B02-C005-P0132)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 134,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "hogwarts-express",
+        "surrounding-mountains"
+      ],
+      "areas": [
+        "arrival-and-gates",
+        "castle-and-terrain"
+      ]
+    },
+    {
       "id": "B02-008",
       "location": "Whomping Willow — collision damage",
       "category": "temporary",
@@ -19297,6 +20142,69 @@
       "places": [
         "gryffindor-common-room",
         "fat-lady-portrait"
+      ],
+      "areas": [
+        "gryffindor"
+      ]
+    },
+    {
+      "id": "B02-165",
+      "location": "Gryffindor common room capacity",
+      "category": "interior",
+      "description": "Apparently the whole House is awake and packed into the round common room, standing on its tables and chairs. In 1993 the House again packs in to hear McGonagall.",
+      "evidence": [
+        "B02-C005-P0184",
+        "B02-C014-P0084"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1992 and 1993",
+      "model_notes": "A capacity statement without a head count. The room must hold the full House, however large that is.",
+      "citations": [
+        {
+          "id": "B02-C005-P0184",
+          "book": 2,
+          "book_title": "Harry Potter and the Chamber of Secrets",
+          "chapter": 5,
+          "chapter_title": "The Whomping Willow",
+          "is_epilogue": false,
+          "paragraph": 184,
+          "page_start": 84,
+          "page_end": 85,
+          "source_member": "2/OEBPS/hp02_ch005_en-gb.html",
+          "source_p_ordinal": 186,
+          "source_element_id": null,
+          "word_start": 20930,
+          "word_count": 73,
+          "label": "Book 2, ch. 5, “The Whomping Willow”, ref p. 84–85, ¶184 (B02-C005-P0184)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 186,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B02-C014-P0084",
+          "book": 2,
+          "book_title": "Harry Potter and the Chamber of Secrets",
+          "chapter": 14,
+          "chapter_title": "Cornelius Fudge",
+          "is_epilogue": false,
+          "paragraph": 84,
+          "page_start": 260,
+          "page_end": 260,
+          "source_member": "2/OEBPS/hp02_ch014_en-gb.html",
+          "source_p_ordinal": 86,
+          "source_element_id": null,
+          "word_start": 64760,
+          "word_count": 74,
+          "label": "Book 2, ch. 14, “Cornelius Fudge”, ref p. 260, ¶84 (B02-C014-P0084)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 86,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "gryffindor-common-room"
       ],
       "areas": [
         "gryffindor"
@@ -20975,6 +21883,135 @@
       ]
     },
     {
+      "id": "B02-171",
+      "location": "Dormitory to pitch time allowance",
+      "category": "route",
+      "description": "Wood rouses Harry in his dormitory at dawn and tells him to reach the pitch within fifteen minutes, which has to cover dressing and the walk down.",
+      "evidence": [
+        "B02-C007-P0004",
+        "B02-C007-P0007",
+        "B02-C007-P0008",
+        "B02-C007-P0009",
+        "B02-C007-P0010"
+      ],
+      "certainty": "reported",
+      "temporal": "September 1992",
+      "model_notes": "A captain's allowance, not a timed walk. It caps the journey from Gryffindor Tower to the pitch.",
+      "citations": [
+        {
+          "id": "B02-C007-P0004",
+          "book": 2,
+          "book_title": "Harry Potter and the Chamber of Secrets",
+          "chapter": 7,
+          "chapter_title": "Mudbloods and Murmurs",
+          "is_epilogue": false,
+          "paragraph": 4,
+          "page_start": 105,
+          "page_end": 105,
+          "source_member": "2/OEBPS/hp02_ch007_en-gb.html",
+          "source_p_ordinal": 6,
+          "source_element_id": null,
+          "word_start": 26123,
+          "word_count": 6,
+          "label": "Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 105, ¶4 (B02-C007-P0004)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 6,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B02-C007-P0007",
+          "book": 2,
+          "book_title": "Harry Potter and the Chamber of Secrets",
+          "chapter": 7,
+          "chapter_title": "Mudbloods and Murmurs",
+          "is_epilogue": false,
+          "paragraph": 7,
+          "page_start": 105,
+          "page_end": 105,
+          "source_member": "2/OEBPS/hp02_ch007_en-gb.html",
+          "source_p_ordinal": 9,
+          "source_element_id": null,
+          "word_start": 26173,
+          "word_count": 60,
+          "label": "Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 105, ¶7 (B02-C007-P0007)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 9,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B02-C007-P0008",
+          "book": 2,
+          "book_title": "Harry Potter and the Chamber of Secrets",
+          "chapter": 7,
+          "chapter_title": "Mudbloods and Murmurs",
+          "is_epilogue": false,
+          "paragraph": 8,
+          "page_start": 105,
+          "page_end": 105,
+          "source_member": "2/OEBPS/hp02_ch007_en-gb.html",
+          "source_p_ordinal": 10,
+          "source_element_id": null,
+          "word_start": 26233,
+          "word_count": 16,
+          "label": "Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 105, ¶8 (B02-C007-P0008)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 10,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B02-C007-P0009",
+          "book": 2,
+          "book_title": "Harry Potter and the Chamber of Secrets",
+          "chapter": 7,
+          "chapter_title": "Mudbloods and Murmurs",
+          "is_epilogue": false,
+          "paragraph": 9,
+          "page_start": 105,
+          "page_end": 106,
+          "source_member": "2/OEBPS/hp02_ch007_en-gb.html",
+          "source_p_ordinal": 11,
+          "source_element_id": null,
+          "word_start": 26249,
+          "word_count": 12,
+          "label": "Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 105–106, ¶9 (B02-C007-P0009)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 11,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B02-C007-P0010",
+          "book": 2,
+          "book_title": "Harry Potter and the Chamber of Secrets",
+          "chapter": 7,
+          "chapter_title": "Mudbloods and Murmurs",
+          "is_epilogue": false,
+          "paragraph": 10,
+          "page_start": 106,
+          "page_end": 106,
+          "source_member": "2/OEBPS/hp02_ch007_en-gb.html",
+          "source_p_ordinal": 12,
+          "source_element_id": null,
+          "word_start": 26261,
+          "word_count": 77,
+          "label": "Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 106, ¶10 (B02-C007-P0010)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 12,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "quidditch-pitch"
+      ],
+      "areas": [
+        "quidditch"
+      ]
+    },
+    {
       "id": "B02-025",
       "location": "Castle to Quidditch stadium — dawn route",
       "category": "route",
@@ -21194,6 +22231,48 @@
         "gryffindor",
         "castle-and-terrain",
         "quidditch"
+      ]
+    },
+    {
+      "id": "B02-164",
+      "location": "Gryffindor boys’ stair",
+      "category": "route",
+      "description": "A first-year boy comes running down the same spiral stair that a second-year has just used from his dormitory.",
+      "evidence": [
+        "B02-C007-P0010"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1992",
+      "model_notes": "Boys of different years share the stair.",
+      "citations": [
+        {
+          "id": "B02-C007-P0010",
+          "book": 2,
+          "book_title": "Harry Potter and the Chamber of Secrets",
+          "chapter": 7,
+          "chapter_title": "Mudbloods and Murmurs",
+          "is_epilogue": false,
+          "paragraph": 10,
+          "page_start": 106,
+          "page_end": 106,
+          "source_member": "2/OEBPS/hp02_ch007_en-gb.html",
+          "source_p_ordinal": 12,
+          "source_element_id": null,
+          "word_start": 26261,
+          "word_count": 77,
+          "label": "Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 106, ¶10 (B02-C007-P0010)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 12,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "gryffindor-boys-dormitory",
+        "gryffindor-common-room"
+      ],
+      "areas": [
+        "gryffindor"
       ]
     },
     {
@@ -27023,6 +28102,48 @@
       ]
     },
     {
+      "id": "B02-166",
+      "location": "Library — fetching a restricted book",
+      "category": "interior",
+      "description": "After accepting a signed note, the librarian walks away among the tall shelves and is gone for several minutes before she returns with the requested volume.",
+      "evidence": [
+        "B02-C010-P0026"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1992",
+      "model_notes": "An elapsed time for one fetch, including finding the book. No distance is stated, but it rules out a Restricted Section a few steps from where she received the note.",
+      "citations": [
+        {
+          "id": "B02-C010-P0026",
+          "book": 2,
+          "book_title": "Harry Potter and the Chamber of Secrets",
+          "chapter": 10,
+          "chapter_title": "The Rogue Bludger",
+          "is_epilogue": false,
+          "paragraph": 26,
+          "page_start": 164,
+          "page_end": 165,
+          "source_member": "2/OEBPS/hp02_ch010_en-gb.html",
+          "source_p_ordinal": 28,
+          "source_element_id": null,
+          "word_start": 40998,
+          "word_count": 59,
+          "label": "Book 2, ch. 10, “The Rogue Bludger”, ref p. 164–165, ¶26 (B02-C010-P0026)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 28,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "library",
+        "restricted-section"
+      ],
+      "areas": [
+        "library"
+      ]
+    },
+    {
       "id": "B02-063",
       "location": "Potion ingredients — student cupboard and private stores",
       "category": "furnishing",
@@ -27129,6 +28250,69 @@
       "areas": [
         "offices",
         "other"
+      ]
+    },
+    {
+      "id": "B02-170",
+      "location": "Quidditch stadium attendance",
+      "category": "grounds",
+      "description": "The whole school goes down to the stadium, which is later described as packed.",
+      "evidence": [
+        "B02-C010-P0045",
+        "B02-C014-P0065"
+      ],
+      "certainty": "explicit",
+      "temporal": "Autumn 1992 and 1993",
+      "model_notes": "The capacity must cover the school.",
+      "citations": [
+        {
+          "id": "B02-C010-P0045",
+          "book": 2,
+          "book_title": "Harry Potter and the Chamber of Secrets",
+          "chapter": 10,
+          "chapter_title": "The Rogue Bludger",
+          "is_epilogue": false,
+          "paragraph": 45,
+          "page_start": 168,
+          "page_end": 168,
+          "source_member": "2/OEBPS/hp02_ch010_en-gb.html",
+          "source_p_ordinal": 47,
+          "source_element_id": null,
+          "word_start": 41756,
+          "word_count": 68,
+          "label": "Book 2, ch. 10, “The Rogue Bludger”, ref p. 168, ¶45 (B02-C010-P0045)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 47,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B02-C014-P0065",
+          "book": 2,
+          "book_title": "Harry Potter and the Chamber of Secrets",
+          "chapter": 14,
+          "chapter_title": "Cornelius Fudge",
+          "is_epilogue": false,
+          "paragraph": 65,
+          "page_start": 258,
+          "page_end": 258,
+          "source_member": "2/OEBPS/hp02_ch014_en-gb.html",
+          "source_p_ordinal": 67,
+          "source_element_id": null,
+          "word_start": 64338,
+          "word_count": 35,
+          "label": "Book 2, ch. 14, “Cornelius Fudge”, ref p. 258, ¶65 (B02-C014-P0065)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 67,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "quidditch-stands"
+      ],
+      "areas": [
+        "quidditch"
       ]
     },
     {
@@ -27651,6 +28835,49 @@
       ],
       "areas": [
         "offices"
+      ]
+    },
+    {
+      "id": "B02-167",
+      "location": "Pitch to hospital wing",
+      "category": "route",
+      "description": "At the Quidditch pitch, Lockhart sends Harry up to the Hospital Wing with two friends as escort.",
+      "evidence": [
+        "B02-C010-P0104"
+      ],
+      "certainty": "reported",
+      "temporal": "November 1992",
+      "model_notes": "Upward wording only. The castle stands above the pitch as well, so this does not fix a floor.",
+      "citations": [
+        {
+          "id": "B02-C010-P0104",
+          "book": 2,
+          "book_title": "Harry Potter and the Chamber of Secrets",
+          "chapter": 10,
+          "chapter_title": "The Rogue Bludger",
+          "is_epilogue": false,
+          "paragraph": 104,
+          "page_start": 175,
+          "page_end": 175,
+          "source_member": "2/OEBPS/hp02_ch010_en-gb.html",
+          "source_p_ordinal": 106,
+          "source_element_id": null,
+          "word_start": 43587,
+          "word_count": 61,
+          "label": "Book 2, ch. 10, “The Rogue Bludger”, ref p. 175, ¶104 (B02-C010-P0104)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 106,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "hospital-wing",
+        "quidditch-pitch"
+      ],
+      "areas": [
+        "hospital",
+        "quidditch"
       ]
     },
     {
@@ -57155,6 +58382,88 @@
       ]
     },
     {
+      "id": "B03-171",
+      "location": "Quidditch stadium attendance",
+      "category": "grounds",
+      "description": "The whole school turns out for a match even in a gale.",
+      "evidence": [
+        "B03-C009-P0134"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1993",
+      "model_notes": "The capacity must cover the school.",
+      "citations": [
+        {
+          "id": "B03-C009-P0134",
+          "book": 3,
+          "book_title": "Harry Potter and the Prisoner of Azkaban",
+          "chapter": 9,
+          "chapter_title": "Grim Defeat",
+          "is_epilogue": false,
+          "paragraph": 134,
+          "page_start": 174,
+          "page_end": 174,
+          "source_member": "3/OEBPS/hp03_ch009_en-gb.html",
+          "source_p_ordinal": 137,
+          "source_element_id": null,
+          "word_start": 43381,
+          "word_count": 83,
+          "label": "Book 3, ch. 9, “Grim Defeat”, ref p. 174, ¶134 (B03-C009-P0134)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 137,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "quidditch-stands"
+      ],
+      "areas": [
+        "quidditch"
+      ]
+    },
+    {
+      "id": "B03-172",
+      "location": "Team changing rooms",
+      "category": "interior",
+      "description": "In a match the opposing team walks out from the far side of the pitch.",
+      "evidence": [
+        "B03-C009-P0137"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1993",
+      "model_notes": "Points to changing rooms on more than one side. Does not say whether each house has its own.",
+      "citations": [
+        {
+          "id": "B03-C009-P0137",
+          "book": 3,
+          "book_title": "Harry Potter and the Prisoner of Azkaban",
+          "chapter": 9,
+          "chapter_title": "Grim Defeat",
+          "is_epilogue": false,
+          "paragraph": 137,
+          "page_start": 175,
+          "page_end": 175,
+          "source_member": "3/OEBPS/hp03_ch009_en-gb.html",
+          "source_p_ordinal": 140,
+          "source_element_id": null,
+          "word_start": 43554,
+          "word_count": 93,
+          "label": "Book 3, ch. 9, “Grim Defeat”, ref p. 175, ¶137 (B03-C009-P0137)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 140,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "quidditch-changing-rooms"
+      ],
+      "areas": [
+        "quidditch"
+      ]
+    },
+    {
       "id": "B03-052",
       "location": "Quidditch stands — black dog sighting",
       "category": "temporary",
@@ -60830,6 +62139,47 @@
       ]
     },
     {
+      "id": "B03-169",
+      "location": "Hagrid’s stature",
+      "category": "interior",
+      "description": "Hagrid is at least double a normal man’s size, so that he nearly collapses a boy who is supporting him.",
+      "evidence": [
+        "B03-C011-P0059"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1993",
+      "model_notes": "Sets the scale of the cabin’s furniture.",
+      "citations": [
+        {
+          "id": "B03-C011-P0059",
+          "book": 3,
+          "book_title": "Harry Potter and the Prisoner of Azkaban",
+          "chapter": 11,
+          "chapter_title": "The Firebolt",
+          "is_epilogue": false,
+          "paragraph": 59,
+          "page_start": 217,
+          "page_end": 217,
+          "source_member": "3/OEBPS/hp03_ch011_en-gb.html",
+          "source_p_ordinal": 62,
+          "source_element_id": null,
+          "word_start": 54097,
+          "word_count": 73,
+          "label": "Book 3, ch. 11, “The Firebolt”, ref p. 217, ¶59 (B03-C011-P0059)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 62,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "hagrid-cabin"
+      ],
+      "areas": [
+        "hagrid"
+      ]
+    },
+    {
       "id": "B03-073",
       "location": "Castle and Great Hall — Christmas 1993 decorations",
       "category": "temporary",
@@ -62685,6 +64035,48 @@
       ]
     },
     {
+      "id": "B03-168",
+      "location": "Gryffindor boys' stair, acoustic link",
+      "category": "route",
+      "description": "A strangled yell from the dormitory comes echoing down the boys' stair and silences the crowded common room, which turns to the stair's foot as footsteps grow louder.",
+      "evidence": [
+        "B03-C012-P0186"
+      ],
+      "certainty": "explicit",
+      "temporal": "January to February 1994",
+      "model_notes": "The stair carries sound from the top room to the common room, and its foot is in view of the room.",
+      "citations": [
+        {
+          "id": "B03-C012-P0186",
+          "book": 3,
+          "book_title": "Harry Potter and the Prisoner of Azkaban",
+          "chapter": 12,
+          "chapter_title": "The Patronus",
+          "is_epilogue": false,
+          "paragraph": 186,
+          "page_start": 252,
+          "page_end": 252,
+          "source_member": "3/OEBPS/hp03_ch012_en-gb.html",
+          "source_p_ordinal": 189,
+          "source_element_id": null,
+          "word_start": 62919,
+          "word_count": 55,
+          "label": "Book 3, ch. 12, “The Patronus”, ref p. 252, ¶186 (B03-C012-P0186)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 189,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "gryffindor-boys-dormitory",
+        "gryffindor-common-room"
+      ],
+      "areas": [
+        "gryffindor"
+      ]
+    },
+    {
       "id": "B03-082",
       "location": "Quidditch stadium — barrier and seating",
       "category": "grounds",
@@ -64389,6 +65781,47 @@
       ]
     },
     {
+      "id": "B03-167",
+      "location": "Gryffindor common room capacity",
+      "category": "interior",
+      "description": "The whole House stays up all night together in the common room.",
+      "evidence": [
+        "B03-C014-P0001"
+      ],
+      "certainty": "explicit",
+      "temporal": "February 1994 night",
+      "model_notes": "A capacity statement without a head count.",
+      "citations": [
+        {
+          "id": "B03-C014-P0001",
+          "book": 3,
+          "book_title": "Harry Potter and the Prisoner of Azkaban",
+          "chapter": 14,
+          "chapter_title": "Snape’s Grudge",
+          "is_epilogue": false,
+          "paragraph": 1,
+          "page_start": 270,
+          "page_end": 270,
+          "source_member": "3/OEBPS/hp03_ch014_en-gb.html",
+          "source_p_ordinal": 4,
+          "source_element_id": null,
+          "word_start": 67386,
+          "word_count": 49,
+          "label": "Book 3, ch. 14, “Snape’s Grudge”, ref p. 270, ¶1 (B03-C014-P0001)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 4,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "gryffindor-common-room"
+      ],
+      "areas": [
+        "gryffindor"
+      ]
+    },
+    {
       "id": "B03-089",
       "location": "Gryffindor entrance — restored Fat Lady and trolls",
       "category": "temporary",
@@ -65620,6 +67053,158 @@
       ],
       "places": [
         "shrieking-shack"
+      ],
+      "areas": [
+        "hogsmeade-and-tunnels"
+      ]
+    },
+    {
+      "id": "B03-173",
+      "location": "Honeydukes tunnel and Hogsmeade road — race back to the castle",
+      "category": "route",
+      "description": "After Malfoy runs from the Shrieking Shack, Harry sprints from Honeydukes through the tunnel to the third floor and has only just left the witch statue when Snape arrives. In his office Snape says Malfoy has already reached him with the story.",
+      "evidence": [
+        "B03-C014-P0119",
+        "B03-C014-P0122",
+        "B03-C014-P0124",
+        "B03-C014-P0125",
+        "B03-C014-P0133",
+        "B03-C014-P0135"
+      ],
+      "certainty": "explicit",
+      "temporal": "After the February 1994 dormitory intrusion",
+      "model_notes": "A rough timing comparison only: Malfoy covers the road from the Shack to the dungeons and Snape then climbs to the third floor in about the time Harry takes to run the tunnel. Exact durations are not given.",
+      "citations": [
+        {
+          "id": "B03-C014-P0119",
+          "book": 3,
+          "book_title": "Harry Potter and the Prisoner of Azkaban",
+          "chapter": 14,
+          "chapter_title": "Snape’s Grudge",
+          "is_epilogue": false,
+          "paragraph": 119,
+          "page_start": 283,
+          "page_end": 283,
+          "source_member": "3/OEBPS/hp03_ch014_en-gb.html",
+          "source_p_ordinal": 124,
+          "source_element_id": null,
+          "word_start": 70527,
+          "word_count": 25,
+          "label": "Book 3, ch. 14, “Snape’s Grudge”, ref p. 283, ¶119 (B03-C014-P0119)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 124,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B03-C014-P0122",
+          "book": 3,
+          "book_title": "Harry Potter and the Prisoner of Azkaban",
+          "chapter": 14,
+          "chapter_title": "Snape’s Grudge",
+          "is_epilogue": false,
+          "paragraph": 122,
+          "page_start": 283,
+          "page_end": 283,
+          "source_member": "3/OEBPS/hp03_ch014_en-gb.html",
+          "source_p_ordinal": 127,
+          "source_element_id": null,
+          "word_start": 70597,
+          "word_count": 17,
+          "label": "Book 3, ch. 14, “Snape’s Grudge”, ref p. 283, ¶122 (B03-C014-P0122)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 127,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B03-C014-P0124",
+          "book": 3,
+          "book_title": "Harry Potter and the Prisoner of Azkaban",
+          "chapter": 14,
+          "chapter_title": "Snape’s Grudge",
+          "is_epilogue": false,
+          "paragraph": 124,
+          "page_start": 283,
+          "page_end": 284,
+          "source_member": "3/OEBPS/hp03_ch014_en-gb.html",
+          "source_p_ordinal": 129,
+          "source_element_id": null,
+          "word_start": 70652,
+          "word_count": 155,
+          "label": "Book 3, ch. 14, “Snape’s Grudge”, ref p. 283–284, ¶124 (B03-C014-P0124)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 129,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B03-C014-P0125",
+          "book": 3,
+          "book_title": "Harry Potter and the Prisoner of Azkaban",
+          "chapter": 14,
+          "chapter_title": "Snape’s Grudge",
+          "is_epilogue": false,
+          "paragraph": 125,
+          "page_start": 284,
+          "page_end": 284,
+          "source_member": "3/OEBPS/hp03_ch014_en-gb.html",
+          "source_p_ordinal": 130,
+          "source_element_id": null,
+          "word_start": 70807,
+          "word_count": 20,
+          "label": "Book 3, ch. 14, “Snape’s Grudge”, ref p. 284, ¶125 (B03-C014-P0125)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 130,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B03-C014-P0133",
+          "book": 3,
+          "book_title": "Harry Potter and the Prisoner of Azkaban",
+          "chapter": 14,
+          "chapter_title": "Snape’s Grudge",
+          "is_epilogue": false,
+          "paragraph": 133,
+          "page_start": 284,
+          "page_end": 284,
+          "source_member": "3/OEBPS/hp03_ch014_en-gb.html",
+          "source_p_ordinal": 138,
+          "source_element_id": null,
+          "word_start": 70958,
+          "word_count": 15,
+          "label": "Book 3, ch. 14, “Snape’s Grudge”, ref p. 284, ¶133 (B03-C014-P0133)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 138,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B03-C014-P0135",
+          "book": 3,
+          "book_title": "Harry Potter and the Prisoner of Azkaban",
+          "chapter": 14,
+          "chapter_title": "Snape’s Grudge",
+          "is_epilogue": false,
+          "paragraph": 135,
+          "page_start": 284,
+          "page_end": 284,
+          "source_member": "3/OEBPS/hp03_ch014_en-gb.html",
+          "source_p_ordinal": 140,
+          "source_element_id": null,
+          "word_start": 70977,
+          "word_count": 19,
+          "label": "Book 3, ch. 14, “Snape’s Grudge”, ref p. 284, ¶135 (B03-C014-P0135)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 140,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "one-eyed-witch-passage",
+        "hogsmeade-village"
       ],
       "areas": [
         "hogsmeade-and-tunnels"
@@ -76068,6 +77653,47 @@
       ]
     },
     {
+      "id": "B03-170",
+      "location": "Far bank at night",
+      "category": "grounds",
+      "description": "Harry later reflects that the figure he saw across the lake was too far away to make out properly.",
+      "evidence": [
+        "B03-C021-P0259"
+      ],
+      "certainty": "reported",
+      "temporal": "6 June, third year",
+      "model_notes": "A distance judgement, at night and with failing sight. Other passages the same night show actions on that bank were still visible.",
+      "citations": [
+        {
+          "id": "B03-C021-P0259",
+          "book": 3,
+          "book_title": "Harry Potter and the Prisoner of Azkaban",
+          "chapter": 21,
+          "chapter_title": "Hermione’s Secret",
+          "is_epilogue": false,
+          "paragraph": 259,
+          "page_start": 410,
+          "page_end": 410,
+          "source_member": "3/OEBPS/hp03_ch021_en-gb.html",
+          "source_p_ordinal": 262,
+          "source_element_id": null,
+          "word_start": 102400,
+          "word_count": 85,
+          "label": "Book 3, ch. 21, “Hermione’s Secret”, ref p. 410, ¶259 (B03-C021-P0259)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 262,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "lake"
+      ],
+      "areas": [
+        "lake"
+      ]
+    },
+    {
       "id": "B03-149",
       "location": "Forest to Hagrid’s cabin: refuge and sight limitation",
       "category": "route",
@@ -79497,6 +81123,47 @@
       ]
     },
     {
+      "id": "B04-257",
+      "location": "World Cup pitch as a comparison",
+      "category": "grounds",
+      "description": "The World Cup pitch is a long oval with three fifty-foot hoops at each end. It is the only Quidditch pitch given a plan shape.",
+      "evidence": [
+        "B04-C008-P0005"
+      ],
+      "certainty": "explicit",
+      "temporal": "August 1994",
+      "model_notes": "Not Hogwarts. It shows the hoop height is the game's standard; it does not settle the Hogwarts pitch outline.",
+      "citations": [
+        {
+          "id": "B04-C008-P0005",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 8,
+          "chapter_title": "The Quidditch World Cup",
+          "is_epilogue": false,
+          "paragraph": 5,
+          "page_start": 101,
+          "page_end": 102,
+          "source_member": "4/OEBPS/hp04_ch008_en-gb.html",
+          "source_p_ordinal": 8,
+          "source_element_id": null,
+          "word_start": 25225,
+          "word_count": 107,
+          "label": "Book 4, ch. 8, “The Quidditch World Cup”, ref p. 101–102, ¶5 (B04-C008-P0005)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 8,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "quidditch-pitch"
+      ],
+      "areas": [
+        "quidditch"
+      ]
+    },
+    {
       "id": "B04-003",
       "location": "London to Hogsmeade station",
       "category": "route",
@@ -80503,6 +82170,47 @@
       ],
       "areas": [
         "great-hall"
+      ]
+    },
+    {
+      "id": "B04-251",
+      "location": "Hagrid’s stature",
+      "category": "interior",
+      "description": "Hagrid is about double a normal man’s height and three or more times his breadth.",
+      "evidence": [
+        "B04-C012-P0087"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1994",
+      "model_notes": "Breadth varies between three and five times normal across the books.",
+      "citations": [
+        {
+          "id": "B04-C012-P0087",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 12,
+          "chapter_title": "The Triwizard Tournament",
+          "is_epilogue": false,
+          "paragraph": 87,
+          "page_start": 187,
+          "page_end": 187,
+          "source_member": "4/OEBPS/hp04_ch012_en-gb.html",
+          "source_p_ordinal": 92,
+          "source_element_id": null,
+          "word_start": 46583,
+          "word_count": 101,
+          "label": "Book 4, ch. 12, “The Triwizard Tournament”, ref p. 187, ¶87 (B04-C012-P0087)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 92,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "hagrid-cabin"
+      ],
+      "areas": [
+        "hagrid"
       ]
     },
     {
@@ -83053,6 +84761,47 @@
       ]
     },
     {
+      "id": "B04-249",
+      "location": "Sorting rolls and Harry’s year",
+      "category": "interior",
+      "description": "Parvati Patil is among the Gryffindors of Harry’s year, addressed by McGonagall as they line up.",
+      "evidence": [
+        "B04-C015-P0100"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1994",
+      "model_notes": "Adds a Gryffindor girl to the count for this year.",
+      "citations": [
+        {
+          "id": "B04-C015-P0100",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 15,
+          "chapter_title": "Beauxbatons and Durmstrang",
+          "is_epilogue": false,
+          "paragraph": 100,
+          "page_start": 251,
+          "page_end": 251,
+          "source_member": "4/OEBPS/hp04_ch015_en-gb.html",
+          "source_p_ordinal": 111,
+          "source_element_id": null,
+          "word_start": 62565,
+          "word_count": 19,
+          "label": "Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 251, ¶100 (B04-C015-P0100)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 111,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "castle-interior-general"
+      ],
+      "areas": [
+        "castle-and-terrain"
+      ]
+    },
+    {
       "id": "B04-041",
       "location": "Castle forecourt and grounds sightlines",
       "category": "exterior",
@@ -83465,6 +85214,156 @@
       "areas": [
         "hagrid",
         "greenhouses"
+      ]
+    },
+    {
+      "id": "B04-252",
+      "location": "Beauxbatons carriage — headmistress and party",
+      "category": "temporary",
+      "description": "Madame Maxime is within an inch of Hagrid’s height, with a shoe as big as a child’s sled, and her size is said to account for the scale of the carriage and horses. About a dozen pupils in their late teens come with her.",
+      "evidence": [
+        "B04-C015-P0120",
+        "B04-C015-P0121",
+        "B04-C015-P0128"
+      ],
+      "certainty": "explicit",
+      "temporal": "30 October 1994",
+      "model_notes": "Sets the minimum clearance of the carriage door, steps and rooms. The party’s number is approximate.",
+      "citations": [
+        {
+          "id": "B04-C015-P0120",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 15,
+          "chapter_title": "Beauxbatons and Durmstrang",
+          "is_epilogue": false,
+          "paragraph": 120,
+          "page_start": 253,
+          "page_end": 253,
+          "source_member": "4/OEBPS/hp04_ch015_en-gb.html",
+          "source_p_ordinal": 131,
+          "source_element_id": null,
+          "word_start": 63096,
+          "word_count": 89,
+          "label": "Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 253, ¶120 (B04-C015-P0120)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 131,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C015-P0121",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 15,
+          "chapter_title": "Beauxbatons and Durmstrang",
+          "is_epilogue": false,
+          "paragraph": 121,
+          "page_start": 253,
+          "page_end": 254,
+          "source_member": "4/OEBPS/hp04_ch015_en-gb.html",
+          "source_p_ordinal": 132,
+          "source_element_id": null,
+          "word_start": 63185,
+          "word_count": 131,
+          "label": "Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 253–254, ¶121 (B04-C015-P0121)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 132,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C015-P0128",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 15,
+          "chapter_title": "Beauxbatons and Durmstrang",
+          "is_epilogue": false,
+          "paragraph": 128,
+          "page_start": 254,
+          "page_end": 255,
+          "source_member": "4/OEBPS/hp04_ch015_en-gb.html",
+          "source_p_ordinal": 139,
+          "source_element_id": null,
+          "word_start": 63415,
+          "word_count": 107,
+          "label": "Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 254–255, ¶128 (B04-C015-P0128)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 139,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "beauxbatons-carriage"
+      ],
+      "areas": [
+        "hagrid"
+      ]
+    },
+    {
+      "id": "B04-250",
+      "location": "Visiting pupils in the Great Hall",
+      "category": "interior",
+      "description": "Around a dozen Beauxbatons pupils arrive in October 1994. With the Durmstrang party the two schools add only about twenty pupils to the Great Hall, which still looks fuller because their uniforms stand out.",
+      "evidence": [
+        "B04-C015-P0128",
+        "B04-C016-P0033"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1994 to June 1995",
+      "model_notes": "Visitor numbers are too small to affect Hall capacity. They matter only as a share of the Yule Ball seating.",
+      "citations": [
+        {
+          "id": "B04-C015-P0128",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 15,
+          "chapter_title": "Beauxbatons and Durmstrang",
+          "is_epilogue": false,
+          "paragraph": 128,
+          "page_start": 254,
+          "page_end": 255,
+          "source_member": "4/OEBPS/hp04_ch015_en-gb.html",
+          "source_p_ordinal": 139,
+          "source_element_id": null,
+          "word_start": 63415,
+          "word_count": 107,
+          "label": "Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 254–255, ¶128 (B04-C015-P0128)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 139,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C016-P0033",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 16,
+          "chapter_title": "The Goblet of Fire",
+          "is_epilogue": false,
+          "paragraph": 33,
+          "page_start": 261,
+          "page_end": 262,
+          "source_member": "4/OEBPS/hp04_ch016_en-gb.html",
+          "source_p_ordinal": 36,
+          "source_element_id": null,
+          "word_start": 65245,
+          "word_count": 59,
+          "label": "Book 4, ch. 16, “The Goblet of Fire”, ref p. 261–262, ¶33 (B04-C016-P0033)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 36,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "great-hall",
+        "castle-interior-general"
+      ],
+      "areas": [
+        "great-hall",
+        "castle-and-terrain"
       ]
     },
     {
@@ -85279,6 +87178,69 @@
       ]
     },
     {
+      "id": "B04-248",
+      "location": "School population",
+      "category": "interior",
+      "description": "Hundreds of pupils are audible through the wall of the Hall’s side chamber, and hundreds later file into the stands.",
+      "evidence": [
+        "B04-C017-P0024",
+        "B04-C031-P0126"
+      ],
+      "certainty": "explicit",
+      "temporal": "1994 to 1995",
+      "model_notes": "Counts the school only as hundreds.",
+      "citations": [
+        {
+          "id": "B04-C017-P0024",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 17,
+          "chapter_title": "The Four Champions",
+          "is_epilogue": false,
+          "paragraph": 24,
+          "page_start": 286,
+          "page_end": 286,
+          "source_member": "4/OEBPS/hp04_ch017_en-gb.html",
+          "source_p_ordinal": 27,
+          "source_element_id": null,
+          "word_start": 71320,
+          "word_count": 52,
+          "label": "Book 4, ch. 17, “The Four Champions”, ref p. 286, ¶24 (B04-C017-P0024)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 27,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C031-P0126",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 31,
+          "chapter_title": "The Third Task",
+          "is_epilogue": false,
+          "paragraph": 126,
+          "page_start": 655,
+          "page_end": 655,
+          "source_member": "4/OEBPS/hp04_ch031_en-gb.html",
+          "source_p_ordinal": 133,
+          "source_element_id": null,
+          "word_start": 163524,
+          "word_count": 88,
+          "label": "Book 4, ch. 31, “The Third Task”, ref p. 655, ¶126 (B04-C031-P0126)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 133,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "castle-interior-general"
+      ],
+      "areas": [
+        "castle-and-terrain"
+      ]
+    },
+    {
       "id": "B04-061",
       "location": "Great Hall and Entrance Hall after selection",
       "category": "temporary",
@@ -85385,6 +87347,47 @@
       "areas": [
         "entrance-hall",
         "hufflepuff"
+      ]
+    },
+    {
+      "id": "B04-244",
+      "location": "Gryffindor common room capacity",
+      "category": "interior",
+      "description": "Coming through the portrait hole, Harry faces the whole House in the common room.",
+      "evidence": [
+        "B04-C017-P0110"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1994",
+      "model_notes": "A capacity statement without a head count.",
+      "citations": [
+        {
+          "id": "B04-C017-P0110",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 17,
+          "chapter_title": "The Four Champions",
+          "is_epilogue": false,
+          "paragraph": 110,
+          "page_start": 296,
+          "page_end": 296,
+          "source_member": "4/OEBPS/hp04_ch017_en-gb.html",
+          "source_p_ordinal": 113,
+          "source_element_id": null,
+          "word_start": 73871,
+          "word_count": 51,
+          "label": "Book 4, ch. 17, “The Four Champions”, ref p. 296, ¶110 (B04-C017-P0110)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 113,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "gryffindor-common-room"
+      ],
+      "areas": [
+        "gryffindor"
       ]
     },
     {
@@ -87160,6 +89163,93 @@
       ]
     },
     {
+      "id": "B04-253",
+      "location": "Gryffindor Tower to Hagrid’s cabin and dragon enclosure — timetable",
+      "category": "route",
+      "description": "Hagrid asks Harry to come to the cabin at midnight. Harry leaves the common room at about half past eleven and says he must be back at the castle by one o’clock.",
+      "evidence": [
+        "B04-C019-P0072",
+        "B04-C019-P0078",
+        "B04-C019-P0086"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before the first task",
+      "model_notes": "Brackets the night walk to the enclosure: the outward walk and the viewing fit between midnight and about a quarter to one.",
+      "citations": [
+        {
+          "id": "B04-C019-P0072",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 19,
+          "chapter_title": "The Hungarian Horntail",
+          "is_epilogue": false,
+          "paragraph": 72,
+          "page_start": 337,
+          "page_end": 337,
+          "source_member": "4/OEBPS/hp04_ch019_en-gb.html",
+          "source_p_ordinal": 79,
+          "source_element_id": null,
+          "word_start": 84126,
+          "word_count": 39,
+          "label": "Book 4, ch. 19, “The Hungarian Horntail”, ref p. 337, ¶72 (B04-C019-P0072)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 79,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C019-P0078",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 19,
+          "chapter_title": "The Hungarian Horntail",
+          "is_epilogue": false,
+          "paragraph": 78,
+          "page_start": 338,
+          "page_end": 338,
+          "source_member": "4/OEBPS/hp04_ch019_en-gb.html",
+          "source_p_ordinal": 85,
+          "source_element_id": null,
+          "word_start": 84313,
+          "word_count": 135,
+          "label": "Book 4, ch. 19, “The Hungarian Horntail”, ref p. 338, ¶78 (B04-C019-P0078)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 85,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C019-P0086",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 19,
+          "chapter_title": "The Hungarian Horntail",
+          "is_epilogue": false,
+          "paragraph": 86,
+          "page_start": 339,
+          "page_end": 339,
+          "source_member": "4/OEBPS/hp04_ch019_en-gb.html",
+          "source_p_ordinal": 93,
+          "source_element_id": null,
+          "word_start": 84633,
+          "word_count": 20,
+          "label": "Book 4, ch. 19, “The Hungarian Horntail”, ref p. 339, ¶86 (B04-C019-P0086)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 93,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "hagrid-cabin",
+        "dragon-enclosure"
+      ],
+      "areas": [
+        "hagrid",
+        "forest"
+      ]
+    },
+    {
       "id": "B04-077",
       "location": "Night route from castle to carriage",
       "category": "route",
@@ -88425,6 +90515,113 @@
         "entrance-hall",
         "circulation",
         "offices"
+      ]
+    },
+    {
+      "id": "B04-258",
+      "location": "Moody's office to Greenhouse Three",
+      "category": "route",
+      "description": "After talking to Moody in his office, Harry hurries to greenhouse three and arrives ten minutes later.",
+      "evidence": [
+        "B04-C020-P0041",
+        "B04-C020-P0043",
+        "B04-C020-P0073",
+        "B04-C020-P0074"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994",
+      "model_notes": "A hurried journey from an upper corridor out to the greenhouses, with the end of the talk included in the ten minutes.",
+      "citations": [
+        {
+          "id": "B04-C020-P0041",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 20,
+          "chapter_title": "The First Task",
+          "is_epilogue": false,
+          "paragraph": 41,
+          "page_start": 358,
+          "page_end": 358,
+          "source_member": "4/OEBPS/hp04_ch020_en-gb.html",
+          "source_p_ordinal": 44,
+          "source_element_id": null,
+          "word_start": 89358,
+          "word_count": 9,
+          "label": "Book 4, ch. 20, “The First Task”, ref p. 358, ¶41 (B04-C020-P0041)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 44,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C020-P0043",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 20,
+          "chapter_title": "The First Task",
+          "is_epilogue": false,
+          "paragraph": 43,
+          "page_start": 358,
+          "page_end": 358,
+          "source_member": "4/OEBPS/hp04_ch020_en-gb.html",
+          "source_p_ordinal": 46,
+          "source_element_id": null,
+          "word_start": 89441,
+          "word_count": 30,
+          "label": "Book 4, ch. 20, “The First Task”, ref p. 358, ¶43 (B04-C020-P0043)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 46,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C020-P0073",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 20,
+          "chapter_title": "The First Task",
+          "is_epilogue": false,
+          "paragraph": 73,
+          "page_start": 361,
+          "page_end": 361,
+          "source_member": "4/OEBPS/hp04_ch020_en-gb.html",
+          "source_p_ordinal": 76,
+          "source_element_id": null,
+          "word_start": 90216,
+          "word_count": 30,
+          "label": "Book 4, ch. 20, “The First Task”, ref p. 361, ¶73 (B04-C020-P0073)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 76,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C020-P0074",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 20,
+          "chapter_title": "The First Task",
+          "is_epilogue": false,
+          "paragraph": 74,
+          "page_start": 361,
+          "page_end": 362,
+          "source_member": "4/OEBPS/hp04_ch020_en-gb.html",
+          "source_p_ordinal": 77,
+          "source_element_id": null,
+          "word_start": 90246,
+          "word_count": 32,
+          "label": "Book 4, ch. 20, “The First Task”, ref p. 361–362, ¶74 (B04-C020-P0074)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 77,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "greenhouses"
+      ],
+      "areas": [
+        "greenhouses"
       ]
     },
     {
@@ -90198,6 +92395,245 @@
       "areas": [
         "quidditch",
         "forest"
+      ]
+    },
+    {
+      "id": "B04-255",
+      "location": "Library to second-task bank in ten minutes",
+      "category": "route",
+      "description": "Woken in the library at twenty past nine with the task due at half past, Harry runs through the castle, down the lawn and round the far side of the lake, reaching the judges just before the start, out of breath and with a stitch.",
+      "evidence": [
+        "B04-C020-P0209",
+        "B04-C026-P0086",
+        "B04-C026-P0088",
+        "B04-C026-P0108",
+        "B04-C026-P0110",
+        "B04-C026-P0111",
+        "B04-C026-P0112",
+        "B04-C026-P0113",
+        "B04-C026-P0114",
+        "B04-C026-P0118"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 February 1995",
+      "model_notes": "An upper limit on the route: castle interior, lawn and part of the shore inside ten minutes at a sprint, less the time spent talking to Dobby.",
+      "citations": [
+        {
+          "id": "B04-C020-P0209",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 20,
+          "chapter_title": "The First Task",
+          "is_epilogue": false,
+          "paragraph": 209,
+          "page_start": 381,
+          "page_end": 381,
+          "source_member": "4/OEBPS/hp04_ch020_en-gb.html",
+          "source_p_ordinal": 212,
+          "source_element_id": null,
+          "word_start": 95079,
+          "word_count": 126,
+          "label": "Book 4, ch. 20, “The First Task”, ref p. 381, ¶209 (B04-C020-P0209)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 212,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C026-P0086",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 26,
+          "chapter_title": "The Second Task",
+          "is_epilogue": false,
+          "paragraph": 86,
+          "page_start": 517,
+          "page_end": 517,
+          "source_member": "4/OEBPS/hp04_ch026_en-gb.html",
+          "source_p_ordinal": 91,
+          "source_element_id": null,
+          "word_start": 129001,
+          "word_count": 18,
+          "label": "Book 4, ch. 26, “The Second Task”, ref p. 517, ¶86 (B04-C026-P0086)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 91,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C026-P0088",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 26,
+          "chapter_title": "The Second Task",
+          "is_epilogue": false,
+          "paragraph": 88,
+          "page_start": 517,
+          "page_end": 517,
+          "source_member": "4/OEBPS/hp04_ch026_en-gb.html",
+          "source_p_ordinal": 93,
+          "source_element_id": null,
+          "word_start": 129027,
+          "word_count": 27,
+          "label": "Book 4, ch. 26, “The Second Task”, ref p. 517, ¶88 (B04-C026-P0088)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 93,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C026-P0108",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 26,
+          "chapter_title": "The Second Task",
+          "is_epilogue": false,
+          "paragraph": 108,
+          "page_start": 518,
+          "page_end": 518,
+          "source_member": "4/OEBPS/hp04_ch026_en-gb.html",
+          "source_p_ordinal": 113,
+          "source_element_id": null,
+          "word_start": 129393,
+          "word_count": 38,
+          "label": "Book 4, ch. 26, “The Second Task”, ref p. 518, ¶108 (B04-C026-P0108)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 113,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C026-P0110",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 26,
+          "chapter_title": "The Second Task",
+          "is_epilogue": false,
+          "paragraph": 110,
+          "page_start": 518,
+          "page_end": 518,
+          "source_member": "4/OEBPS/hp04_ch026_en-gb.html",
+          "source_p_ordinal": 115,
+          "source_element_id": null,
+          "word_start": 129460,
+          "word_count": 20,
+          "label": "Book 4, ch. 26, “The Second Task”, ref p. 518, ¶110 (B04-C026-P0110)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 115,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C026-P0111",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 26,
+          "chapter_title": "The Second Task",
+          "is_epilogue": false,
+          "paragraph": 111,
+          "page_start": 518,
+          "page_end": 519,
+          "source_member": "4/OEBPS/hp04_ch026_en-gb.html",
+          "source_p_ordinal": 116,
+          "source_element_id": null,
+          "word_start": 129480,
+          "word_count": 53,
+          "label": "Book 4, ch. 26, “The Second Task”, ref p. 518–519, ¶111 (B04-C026-P0111)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 116,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C026-P0112",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 26,
+          "chapter_title": "The Second Task",
+          "is_epilogue": false,
+          "paragraph": 112,
+          "page_start": 519,
+          "page_end": 519,
+          "source_member": "4/OEBPS/hp04_ch026_en-gb.html",
+          "source_p_ordinal": 117,
+          "source_element_id": null,
+          "word_start": 129533,
+          "word_count": 92,
+          "label": "Book 4, ch. 26, “The Second Task”, ref p. 519, ¶112 (B04-C026-P0112)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 117,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C026-P0113",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 26,
+          "chapter_title": "The Second Task",
+          "is_epilogue": false,
+          "paragraph": 113,
+          "page_start": 519,
+          "page_end": 519,
+          "source_member": "4/OEBPS/hp04_ch026_en-gb.html",
+          "source_p_ordinal": 118,
+          "source_element_id": null,
+          "word_start": 129625,
+          "word_count": 18,
+          "label": "Book 4, ch. 26, “The Second Task”, ref p. 519, ¶113 (B04-C026-P0113)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 118,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C026-P0114",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 26,
+          "chapter_title": "The Second Task",
+          "is_epilogue": false,
+          "paragraph": 114,
+          "page_start": 519,
+          "page_end": 519,
+          "source_member": "4/OEBPS/hp04_ch026_en-gb.html",
+          "source_p_ordinal": 119,
+          "source_element_id": null,
+          "word_start": 129643,
+          "word_count": 14,
+          "label": "Book 4, ch. 26, “The Second Task”, ref p. 519, ¶114 (B04-C026-P0114)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 119,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C026-P0118",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 26,
+          "chapter_title": "The Second Task",
+          "is_epilogue": false,
+          "paragraph": 118,
+          "page_start": 519,
+          "page_end": 520,
+          "source_member": "4/OEBPS/hp04_ch026_en-gb.html",
+          "source_p_ordinal": 123,
+          "source_element_id": null,
+          "word_start": 129733,
+          "word_count": 79,
+          "label": "Book 4, ch. 26, “The Second Task”, ref p. 519–520, ¶118 (B04-C026-P0118)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 123,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "lake-shore"
+      ],
+      "areas": [
+        "lake"
       ]
     },
     {
@@ -91983,6 +94419,49 @@
       ],
       "areas": [
         "gryffindor"
+      ]
+    },
+    {
+      "id": "B04-245",
+      "location": "Great Hall and kitchens — Christmas lunch quantities",
+      "category": "temporary",
+      "description": "The Christmas Day meal in the Hall ran to no fewer than a hundred turkeys and Christmas puddings, with big heaps of crackers.",
+      "evidence": [
+        "B04-C023-P0059"
+      ],
+      "certainty": "explicit",
+      "temporal": "25 December 1994",
+      "model_notes": "A catering scale for the kitchens, not a seat count. The number may apply to the turkeys alone or to the puddings as well.",
+      "citations": [
+        {
+          "id": "B04-C023-P0059",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 23,
+          "chapter_title": "The Yule Ball",
+          "is_epilogue": false,
+          "paragraph": 59,
+          "page_start": 431,
+          "page_end": 431,
+          "source_member": "4/OEBPS/hp04_ch023_en-gb.html",
+          "source_p_ordinal": 66,
+          "source_element_id": null,
+          "word_start": 107500,
+          "word_count": 60,
+          "label": "Book 4, ch. 23, “The Yule Ball”, ref p. 431, ¶59 (B04-C023-P0059)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 66,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "great-hall",
+        "kitchens"
+      ],
+      "areas": [
+        "great-hall",
+        "kitchens"
       ]
     },
     {
@@ -95359,6 +97838,48 @@
       ],
       "areas": [
         "washrooms",
+        "lake"
+      ]
+    },
+    {
+      "id": "B04-254",
+      "location": "Lake as Harry imagines it",
+      "category": "grounds",
+      "description": "Before the second task Harry thinks of the lake as both huge and extremely deep, and supposes that merpeople would live on its bed.",
+      "evidence": [
+        "B04-C025-P0052"
+      ],
+      "certainty": "reported",
+      "temporal": "January 1995, before the second task",
+      "model_notes": "Harry's impression only; he has not yet been in deep water. A size word, not a measurement.",
+      "citations": [
+        {
+          "id": "B04-C025-P0052",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 25,
+          "chapter_title": "The Egg and the Eye",
+          "is_epilogue": false,
+          "paragraph": 52,
+          "page_start": 489,
+          "page_end": 489,
+          "source_member": "4/OEBPS/hp04_ch025_en-gb.html",
+          "source_p_ordinal": 57,
+          "source_element_id": null,
+          "word_start": 122054,
+          "word_count": 98,
+          "label": "Book 4, ch. 25, “The Egg and the Eye”, ref p. 489, ¶52 (B04-C025-P0052)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 57,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "lake",
+        "lake-underwater"
+      ],
+      "areas": [
         "lake"
       ]
     },
@@ -99255,6 +101776,136 @@
       ]
     },
     {
+      "id": "B04-259",
+      "location": "Second-task timings",
+      "category": "route",
+      "description": "Cedric, who got lost on the way, is first back with his hostage, one minute over the hour. Harry is first to reach the hostages but returns last, well over the hour. The events are placed on the lake bed.",
+      "evidence": [
+        "B04-C026-P0165",
+        "B04-C026-P0166",
+        "B04-C026-P0210",
+        "B04-C026-P0214",
+        "B04-C026-P0218"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 February 1995",
+      "model_notes": "An hour covers a round trip with time at the village; it gives a rough scale for the swim.",
+      "citations": [
+        {
+          "id": "B04-C026-P0165",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 26,
+          "chapter_title": "The Second Task",
+          "is_epilogue": false,
+          "paragraph": 165,
+          "page_start": 528,
+          "page_end": 528,
+          "source_member": "4/OEBPS/hp04_ch026_en-gb.html",
+          "source_p_ordinal": 174,
+          "source_element_id": null,
+          "word_start": 131850,
+          "word_count": 38,
+          "label": "Book 4, ch. 26, “The Second Task”, ref p. 528, ¶165 (B04-C026-P0165)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 174,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C026-P0166",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 26,
+          "chapter_title": "The Second Task",
+          "is_epilogue": false,
+          "paragraph": 166,
+          "page_start": 528,
+          "page_end": 528,
+          "source_member": "4/OEBPS/hp04_ch026_en-gb.html",
+          "source_p_ordinal": 175,
+          "source_element_id": null,
+          "word_start": 131888,
+          "word_count": 11,
+          "label": "Book 4, ch. 26, “The Second Task”, ref p. 528, ¶166 (B04-C026-P0166)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 175,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C026-P0210",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 26,
+          "chapter_title": "The Second Task",
+          "is_epilogue": false,
+          "paragraph": 210,
+          "page_start": 535,
+          "page_end": 535,
+          "source_member": "4/OEBPS/hp04_ch026_en-gb.html",
+          "source_p_ordinal": 219,
+          "source_element_id": null,
+          "word_start": 133581,
+          "word_count": 41,
+          "label": "Book 4, ch. 26, “The Second Task”, ref p. 535, ¶210 (B04-C026-P0210)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 219,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C026-P0214",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 26,
+          "chapter_title": "The Second Task",
+          "is_epilogue": false,
+          "paragraph": 214,
+          "page_start": 535,
+          "page_end": 535,
+          "source_member": "4/OEBPS/hp04_ch026_en-gb.html",
+          "source_p_ordinal": 223,
+          "source_element_id": null,
+          "word_start": 133668,
+          "word_count": 50,
+          "label": "Book 4, ch. 26, “The Second Task”, ref p. 535, ¶214 (B04-C026-P0214)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 223,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C026-P0218",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 26,
+          "chapter_title": "The Second Task",
+          "is_epilogue": false,
+          "paragraph": 218,
+          "page_start": 536,
+          "page_end": 536,
+          "source_member": "4/OEBPS/hp04_ch026_en-gb.html",
+          "source_p_ordinal": 227,
+          "source_element_id": null,
+          "word_start": 133767,
+          "word_count": 58,
+          "label": "Book 4, ch. 26, “The Second Task”, ref p. 536, ¶218 (B04-C026-P0218)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 227,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "lake-underwater",
+        "merpeople-village"
+      ],
+      "areas": [
+        "lake"
+      ]
+    },
+    {
       "id": "B04-170",
       "location": "Lake ascent and landing after second task",
       "category": "route",
@@ -101174,6 +103825,47 @@
       ]
     },
     {
+      "id": "B04-256",
+      "location": "Greenhouse door and castle steps",
+      "category": "grounds",
+      "description": "Leaving a greenhouse for Care of Magical Creatures, Harry and Ron see Malfoy's group coming down the castle's stone steps, and Pansy Parkinson calls across to Harry.",
+      "evidence": [
+        "B04-C028-P0066"
+      ],
+      "certainty": "explicit",
+      "temporal": "Spring 1995",
+      "model_notes": "Sightline and calling range between the way out of the greenhouses and the steps; no distance is given.",
+      "citations": [
+        {
+          "id": "B04-C028-P0066",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 28,
+          "chapter_title": "The Madness of Mr Crouch",
+          "is_epilogue": false,
+          "paragraph": 66,
+          "page_start": 573,
+          "page_end": 573,
+          "source_member": "4/OEBPS/hp04_ch028_en-gb.html",
+          "source_p_ordinal": 71,
+          "source_element_id": null,
+          "word_start": 143058,
+          "word_count": 68,
+          "label": "Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 573, ¶66 (B04-C028-P0066)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 71,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "greenhouses"
+      ],
+      "areas": [
+        "greenhouses"
+      ]
+    },
+    {
       "id": "B04-182",
       "location": "Beauxbatons carriage window view",
       "category": "exterior",
@@ -102003,6 +104695,47 @@
         "forest",
         "quidditch",
         "hagrid"
+      ]
+    },
+    {
+      "id": "B04-260",
+      "location": "Size of the Durmstrang party",
+      "category": "temporary",
+      "description": "In his confused state Crouch says that Karkaroff has made his party a round dozen students.",
+      "evidence": [
+        "B04-C028-P0179"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1995",
+      "model_notes": "A deranged speech but the only count of students living aboard the ship.",
+      "citations": [
+        {
+          "id": "B04-C028-P0179",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 28,
+          "chapter_title": "The Madness of Mr Crouch",
+          "is_epilogue": false,
+          "paragraph": 179,
+          "page_start": 586,
+          "page_end": 586,
+          "source_member": "4/OEBPS/hp04_ch028_en-gb.html",
+          "source_p_ordinal": 186,
+          "source_element_id": null,
+          "word_start": 146253,
+          "word_count": 62,
+          "label": "Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 586, ¶179 (B04-C028-P0179)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 186,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "durmstrang-ship"
+      ],
+      "areas": [
+        "lake"
       ]
     },
     {
@@ -105312,6 +108045,69 @@
       ],
       "places": [
         "transfiguration-classroom"
+      ],
+      "areas": [
+        "classrooms"
+      ]
+    },
+    {
+      "id": "B04-247",
+      "location": "North Tower — height above the grounds",
+      "category": "exterior",
+      "description": "Harry says the Divination window was open. Hermione objects that from the top of North Tower his voice could not have carried down to the grounds.",
+      "evidence": [
+        "B04-C031-P0061",
+        "B04-C031-P0062"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1995",
+      "model_notes": "A character's sense of the tower's height above the grounds. Gives no measurement.",
+      "citations": [
+        {
+          "id": "B04-C031-P0061",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 31,
+          "chapter_title": "The Third Task",
+          "is_epilogue": false,
+          "paragraph": 61,
+          "page_start": 647,
+          "page_end": 647,
+          "source_member": "4/OEBPS/hp04_ch031_en-gb.html",
+          "source_p_ordinal": 68,
+          "source_element_id": null,
+          "word_start": 161699,
+          "word_count": 11,
+          "label": "Book 4, ch. 31, “The Third Task”, ref p. 647, ¶61 (B04-C031-P0061)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 68,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C031-P0062",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 31,
+          "chapter_title": "The Third Task",
+          "is_epilogue": false,
+          "paragraph": 62,
+          "page_start": 647,
+          "page_end": 647,
+          "source_member": "4/OEBPS/hp04_ch031_en-gb.html",
+          "source_p_ordinal": 69,
+          "source_element_id": null,
+          "word_start": 161710,
+          "word_count": 22,
+          "label": "Book 4, ch. 31, “The Third Task”, ref p. 647, ¶62 (B04-C031-P0062)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 69,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "divination-classroom"
       ],
       "areas": [
         "classrooms"
@@ -110952,6 +113748,71 @@
       ]
     },
     {
+      "id": "B04-246",
+      "location": "Hospital wing above the Defence office",
+      "category": "route",
+      "description": "Speaking in the Defence teacher's office, Dumbledore asks for the matron to come down there; later, in the ward, he asks her to go down to that office.",
+      "evidence": [
+        "B04-C036-P0004",
+        "B04-C036-P0170"
+      ],
+      "certainty": "reported",
+      "temporal": "Night of 24–25 June 1995",
+      "model_notes": "Two direction words in dialogue, both placing the ward above the Defence office. No count of floors is given.",
+      "citations": [
+        {
+          "id": "B04-C036-P0004",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 36,
+          "chapter_title": "The Parting of the Ways",
+          "is_epilogue": false,
+          "paragraph": 4,
+          "page_start": 733,
+          "page_end": 733,
+          "source_member": "4/OEBPS/hp04_ch036_en-gb.html",
+          "source_p_ordinal": 7,
+          "source_element_id": null,
+          "word_start": 183071,
+          "word_count": 65,
+          "label": "Book 4, ch. 36, “The Parting of the Ways”, ref p. 733, ¶4 (B04-C036-P0004)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 7,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B04-C036-P0170",
+          "book": 4,
+          "book_title": "Harry Potter and the Goblet of Fire",
+          "chapter": 36,
+          "chapter_title": "The Parting of the Ways",
+          "is_epilogue": false,
+          "paragraph": 170,
+          "page_start": 754,
+          "page_end": 754,
+          "source_member": "4/OEBPS/hp04_ch036_en-gb.html",
+          "source_p_ordinal": 173,
+          "source_element_id": null,
+          "word_start": 188307,
+          "word_count": 53,
+          "label": "Book 4, ch. 36, “The Parting of the Ways”, ref p. 754, ¶170 (B04-C036-P0170)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 173,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "hospital-wing",
+        "defence-office"
+      ],
+      "areas": [
+        "hospital",
+        "offices"
+      ]
+    },
+    {
       "id": "B04-234",
       "location": "Headmaster’s office to hospital wing",
       "category": "route",
@@ -115365,6 +118226,70 @@
       ]
     },
     {
+      "id": "B05-314",
+      "location": "Gryffindor boys’ door",
+      "category": "route",
+      "description": "A seventh-year goes up to bed through the same doorway to the boys’ dormitories that a fifth-year uses.",
+      "evidence": [
+        "B05-C011-P0206",
+        "B05-C017-P0206"
+      ],
+      "certainty": "explicit",
+      "temporal": "Autumn 1995",
+      "model_notes": "Supports a single shared stair with several dormitories off it, not a separate stair for each year.",
+      "citations": [
+        {
+          "id": "B05-C011-P0206",
+          "book": 5,
+          "book_title": "Harry Potter and the Order of the Phoenix",
+          "chapter": 11,
+          "chapter_title": "The Sorting Hat’s New Song",
+          "is_epilogue": false,
+          "paragraph": 206,
+          "page_start": 252,
+          "page_end": 253,
+          "source_member": "5/OEBPS/hp05_ch011_en-gb.html",
+          "source_p_ordinal": 211,
+          "source_element_id": null,
+          "word_start": 62961,
+          "word_count": 96,
+          "label": "Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 252–253, ¶206 (B05-C011-P0206)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 211,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B05-C017-P0206",
+          "book": 5,
+          "book_title": "Harry Potter and the Order of the Phoenix",
+          "chapter": 17,
+          "chapter_title": "Educational Decree Number Twenty-four",
+          "is_epilogue": false,
+          "paragraph": 206,
+          "page_start": 434,
+          "page_end": 435,
+          "source_member": "5/OEBPS/hp05_ch017_en-gb.html",
+          "source_p_ordinal": 218,
+          "source_element_id": null,
+          "word_start": 108419,
+          "word_count": 111,
+          "label": "Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 434–435, ¶206 (B05-C017-P0206)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 218,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "gryffindor-boys-dormitory",
+        "gryffindor-common-room"
+      ],
+      "areas": [
+        "gryffindor"
+      ]
+    },
+    {
       "id": "B05-027",
       "location": "Fifth-year boys’ dormitory fittings",
       "category": "furnishing",
@@ -117265,6 +120190,47 @@
       ],
       "areas": [
         "offices"
+      ]
+    },
+    {
+      "id": "B05-315",
+      "location": "School population",
+      "category": "interior",
+      "description": "At the lesson bell hundreds of pupils can be heard moving overhead and all around.",
+      "evidence": [
+        "B05-C012-P0323"
+      ],
+      "certainty": "explicit",
+      "temporal": "Autumn 1995",
+      "model_notes": "Counts the school only as hundreds.",
+      "citations": [
+        {
+          "id": "B05-C012-P0323",
+          "book": 5,
+          "book_title": "Harry Potter and the Order of the Phoenix",
+          "chapter": 12,
+          "chapter_title": "Professor Umbridge",
+          "is_epilogue": false,
+          "paragraph": 323,
+          "page_start": 290,
+          "page_end": 290,
+          "source_member": "5/OEBPS/hp05_ch012_en-gb.html",
+          "source_p_ordinal": 334,
+          "source_element_id": null,
+          "word_start": 72474,
+          "word_count": 24,
+          "label": "Book 5, ch. 12, “Professor Umbridge”, ref p. 290, ¶323 (B05-C012-P0323)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 334,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "castle-interior-general"
+      ],
+      "areas": [
+        "castle-and-terrain"
       ]
     },
     {
@@ -128516,6 +131482,47 @@
       ]
     },
     {
+      "id": "B05-316",
+      "location": "Hagrid’s stature",
+      "category": "interior",
+      "description": "Hagrid is double a normal man’s size.",
+      "evidence": [
+        "B05-C020-P0012"
+      ],
+      "certainty": "explicit",
+      "temporal": "Autumn 1995",
+      "model_notes": "Sets the scale of the cabin’s furniture.",
+      "citations": [
+        {
+          "id": "B05-C020-P0012",
+          "book": 5,
+          "book_title": "Harry Potter and the Order of the Phoenix",
+          "chapter": 20,
+          "chapter_title": "Hagrid’s Tale",
+          "is_epilogue": false,
+          "paragraph": 12,
+          "page_start": 496,
+          "page_end": 496,
+          "source_member": "5/OEBPS/hp05_ch020_en-gb.html",
+          "source_p_ordinal": 15,
+          "source_element_id": null,
+          "word_start": 123820,
+          "word_count": 113,
+          "label": "Book 5, ch. 20, “Hagrid’s Tale”, ref p. 496, ¶12 (B05-C020-P0012)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 15,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "hagrid-cabin"
+      ],
+      "areas": [
+        "hagrid"
+      ]
+    },
+    {
       "id": "B05-131",
       "location": "Hagrid cabin central table",
       "category": "furnishing",
@@ -128939,6 +131946,69 @@
           "is_extra": false,
           "source_element_tag": "p",
           "source_element_ordinal": 206,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "hagrid-cabin"
+      ],
+      "areas": [
+        "hagrid"
+      ]
+    },
+    {
+      "id": "B05-317",
+      "location": "Hagrid’s height against other people",
+      "category": "interior",
+      "description": "Umbridge, in his doorway, barely reaches his navel. Bent double among younger pupils he still rises at least four feet above them.",
+      "evidence": [
+        "B05-C020-P0189",
+        "B05-C030-P0067"
+      ],
+      "certainty": "explicit",
+      "temporal": "1995 to 1996",
+      "model_notes": "Relative checks. The navel comparison reads lower than twice a normal man.",
+      "citations": [
+        {
+          "id": "B05-C020-P0189",
+          "book": 5,
+          "book_title": "Harry Potter and the Order of the Phoenix",
+          "chapter": 20,
+          "chapter_title": "Hagrid’s Tale",
+          "is_epilogue": false,
+          "paragraph": 189,
+          "page_start": 513,
+          "page_end": 513,
+          "source_member": "5/OEBPS/hp05_ch020_en-gb.html",
+          "source_p_ordinal": 192,
+          "source_element_id": null,
+          "word_start": 128016,
+          "word_count": 34,
+          "label": "Book 5, ch. 20, “Hagrid’s Tale”, ref p. 513, ¶189 (B05-C020-P0189)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 192,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B05-C030-P0067",
+          "book": 5,
+          "book_title": "Harry Potter and the Order of the Phoenix",
+          "chapter": 30,
+          "chapter_title": "Grawp",
+          "is_epilogue": false,
+          "paragraph": 67,
+          "page_start": 815,
+          "page_end": 816,
+          "source_member": "5/OEBPS/hp05_ch030_en-gb.html",
+          "source_p_ordinal": 72,
+          "source_element_id": null,
+          "word_start": 203693,
+          "word_count": 66,
+          "label": "Book 5, ch. 30, “Grawp”, ref p. 815–816, ¶67 (B05-C030-P0067)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 72,
           "source_text_slot": "text"
         }
       ],
@@ -134750,6 +137820,47 @@
       ],
       "areas": [
         "gryffindor"
+      ]
+    },
+    {
+      "id": "B05-320",
+      "location": "Team changing rooms",
+      "category": "interior",
+      "description": "A room is named as the Gryffindor changing room.",
+      "evidence": [
+        "B05-C024-P0285"
+      ],
+      "certainty": "explicit",
+      "temporal": "Spring 1996",
+      "model_notes": "Points to more than one room. Does not say whether each house has its own.",
+      "citations": [
+        {
+          "id": "B05-C024-P0285",
+          "book": 5,
+          "book_title": "Harry Potter and the Order of the Phoenix",
+          "chapter": 24,
+          "chapter_title": "Occlumency",
+          "is_epilogue": false,
+          "paragraph": 285,
+          "page_start": 643,
+          "page_end": 644,
+          "source_member": "5/OEBPS/hp05_ch024_en-gb.html",
+          "source_p_ordinal": 288,
+          "source_element_id": null,
+          "word_start": 160714,
+          "word_count": 56,
+          "label": "Book 5, ch. 24, “Occlumency”, ref p. 643–644, ¶285 (B05-C024-P0285)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 288,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "quidditch-changing-rooms"
+      ],
+      "areas": [
+        "quidditch"
       ]
     },
     {
@@ -144316,6 +147427,47 @@
       ]
     },
     {
+      "id": "B05-313",
+      "location": "Hogwarts year groups",
+      "category": "history",
+      "description": "McGonagall speaks of a sixth and a seventh year of study still to come after the fifth.",
+      "evidence": [
+        "B05-C029-P0116"
+      ],
+      "certainty": "reported",
+      "temporal": "1996",
+      "model_notes": "Confirms seven numbered year groups in use.",
+      "citations": [
+        {
+          "id": "B05-C029-P0116",
+          "book": 5,
+          "book_title": "Harry Potter and the Order of the Phoenix",
+          "chapter": 29,
+          "chapter_title": "Careers Advice",
+          "is_epilogue": false,
+          "paragraph": 116,
+          "page_start": 788,
+          "page_end": 788,
+          "source_member": "5/OEBPS/hp05_ch029_en-gb.html",
+          "source_p_ordinal": 121,
+          "source_element_id": null,
+          "word_start": 196803,
+          "word_count": 49,
+          "label": "Book 5, ch. 29, “Careers Advice”, ref p. 788, ¶116 (B05-C029-P0116)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 121,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "castle-interior-general"
+      ],
+      "areas": [
+        "castle-and-terrain"
+      ]
+    },
+    {
       "id": "B05-230",
       "location": "Defence to office diversion route",
       "category": "route",
@@ -146385,6 +149537,69 @@
       "places": [
         "forest-general",
         "thestral-clearing"
+      ],
+      "areas": [
+        "forest"
+      ]
+    },
+    {
+      "id": "B05-319",
+      "location": "Grawp’s clearing — empty surrounding Forest",
+      "category": "grounds",
+      "description": "Harry realises that the giant’s presence explains why no other creature has been met on the way in through this part of the Forest.",
+      "evidence": [
+        "B05-C030-P0107",
+        "B05-C030-P0164"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1996",
+      "model_notes": "Harry’s explanation for the absence of animals, not a stated exclusion zone.",
+      "citations": [
+        {
+          "id": "B05-C030-P0107",
+          "book": 5,
+          "book_title": "Harry Potter and the Order of the Phoenix",
+          "chapter": 30,
+          "chapter_title": "Grawp",
+          "is_epilogue": false,
+          "paragraph": 107,
+          "page_start": 819,
+          "page_end": 820,
+          "source_member": "5/OEBPS/hp05_ch030_en-gb.html",
+          "source_p_ordinal": 112,
+          "source_element_id": null,
+          "word_start": 204696,
+          "word_count": 163,
+          "label": "Book 5, ch. 30, “Grawp”, ref p. 819–820, ¶107 (B05-C030-P0107)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 112,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B05-C030-P0164",
+          "book": 5,
+          "book_title": "Harry Potter and the Order of the Phoenix",
+          "chapter": 30,
+          "chapter_title": "Grawp",
+          "is_epilogue": false,
+          "paragraph": 164,
+          "page_start": 826,
+          "page_end": 826,
+          "source_member": "5/OEBPS/hp05_ch030_en-gb.html",
+          "source_p_ordinal": 169,
+          "source_element_id": null,
+          "word_start": 206300,
+          "word_count": 22,
+          "label": "Book 5, ch. 30, “Grawp”, ref p. 826, ¶164 (B05-C030-P0164)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 169,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "grawps-clearing"
       ],
       "areas": [
         "forest"
@@ -153830,6 +157045,47 @@
       ]
     },
     {
+      "id": "B05-318",
+      "location": "Centaur clearing — position in the Forest",
+      "category": "grounds",
+      "description": "After the centaurs are driven off, Harry judges that he and Hermione are stranded at the centre of the Forbidden Forest with no way out.",
+      "evidence": [
+        "B05-C033-P0083"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1996",
+      "model_notes": "Harry’s judgement, not a survey; the clearing’s true position in the Forest is unknown.",
+      "citations": [
+        {
+          "id": "B05-C033-P0083",
+          "book": 5,
+          "book_title": "Harry Potter and the Order of the Phoenix",
+          "chapter": 33,
+          "chapter_title": "Fight and Flight",
+          "is_epilogue": false,
+          "paragraph": 83,
+          "page_start": 906,
+          "page_end": 907,
+          "source_member": "5/OEBPS/hp05_ch033_en-gb.html",
+          "source_p_ordinal": 86,
+          "source_element_id": null,
+          "word_start": 226482,
+          "word_count": 50,
+          "label": "Book 5, ch. 33, “Fight and Flight”, ref p. 906–907, ¶83 (B05-C033-P0083)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 86,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "centaur-territory"
+      ],
+      "areas": [
+        "forest"
+      ]
+    },
+    {
       "id": "B05-284",
       "location": "Office window to Forest pursuit",
       "category": "route",
@@ -161193,6 +164449,69 @@
       ]
     },
     {
+      "id": "B06-217",
+      "location": "School population",
+      "category": "interior",
+      "description": "Hundreds of pupils leave the Great Hall after the feast, and Hagrid speaks of hundreds of under-age wizards shut up together at the school.",
+      "evidence": [
+        "B06-C008-P0115",
+        "B06-C019-P0059"
+      ],
+      "certainty": "explicit",
+      "temporal": "1996 to 1997",
+      "model_notes": "Counts the school only as hundreds. The second clue is dialogue.",
+      "citations": [
+        {
+          "id": "B06-C008-P0115",
+          "book": 6,
+          "book_title": "Harry Potter and the Half-Blood Prince",
+          "chapter": 8,
+          "chapter_title": "Snape Victorious",
+          "is_epilogue": false,
+          "paragraph": 115,
+          "page_start": 174,
+          "page_end": 175,
+          "source_member": "6/OEBPS/hp06_ch008_en-gb.html",
+          "source_p_ordinal": 118,
+          "source_element_id": null,
+          "word_start": 43484,
+          "word_count": 96,
+          "label": "Book 6, ch. 8, “Snape Victorious”, ref p. 174–175, ¶115 (B06-C008-P0115)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 118,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B06-C019-P0059",
+          "book": 6,
+          "book_title": "Harry Potter and the Half-Blood Prince",
+          "chapter": 19,
+          "chapter_title": "Elf Tails",
+          "is_epilogue": false,
+          "paragraph": 59,
+          "page_start": 422,
+          "page_end": 422,
+          "source_member": "6/OEBPS/hp06_ch019_en-gb.html",
+          "source_p_ordinal": 62,
+          "source_element_id": null,
+          "word_start": 105397,
+          "word_count": 55,
+          "label": "Book 6, ch. 19, “Elf Tails”, ref p. 422, ¶59 (B06-C019-P0059)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 62,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "castle-interior-general"
+      ],
+      "areas": [
+        "castle-and-terrain"
+      ]
+    },
+    {
       "id": "B06-023",
       "location": "Grawp’s mountain cave",
       "category": "grounds",
@@ -161336,6 +164655,70 @@
       ],
       "areas": [
         "great-hall"
+      ]
+    },
+    {
+      "id": "B06-213",
+      "location": "Gryffindor common room",
+      "category": "interior",
+      "description": "Small groups of seventh-years are seen using the Gryffindor common room.",
+      "evidence": [
+        "B06-C009-P0036",
+        "B06-C024-P0031"
+      ],
+      "certainty": "explicit",
+      "temporal": "1996 to 1997",
+      "model_notes": "Shows that the oldest year lives in the same House space, so all seven years need dormitories here.",
+      "citations": [
+        {
+          "id": "B06-C009-P0036",
+          "book": 6,
+          "book_title": "Harry Potter and the Half-Blood Prince",
+          "chapter": 9,
+          "chapter_title": "The Half-Blood Prince",
+          "is_epilogue": false,
+          "paragraph": 36,
+          "page_start": 181,
+          "page_end": 181,
+          "source_member": "6/OEBPS/hp06_ch009_en-gb.html",
+          "source_p_ordinal": 39,
+          "source_element_id": null,
+          "word_start": 45214,
+          "word_count": 36,
+          "label": "Book 6, ch. 9, “The Half-Blood Prince”, ref p. 181, ¶36 (B06-C009-P0036)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 39,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B06-C024-P0031",
+          "book": 6,
+          "book_title": "Harry Potter and the Half-Blood Prince",
+          "chapter": 24,
+          "chapter_title": "Sectumsempra",
+          "is_epilogue": false,
+          "paragraph": 31,
+          "page_start": 542,
+          "page_end": 542,
+          "source_member": "6/OEBPS/hp06_ch024_en-gb.html",
+          "source_p_ordinal": 34,
+          "source_element_id": null,
+          "word_start": 135326,
+          "word_count": 37,
+          "label": "Book 6, ch. 24, “Sectumsempra”, ref p. 542, ¶31 (B06-C024-P0031)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 34,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "gryffindor-common-room",
+        "gryffindor-tower"
+      ],
+      "areas": [
+        "gryffindor"
       ]
     },
     {
@@ -161872,6 +165255,49 @@
       "areas": [
         "gryffindor",
         "classrooms"
+      ]
+    },
+    {
+      "id": "B06-218",
+      "location": "N.E.W.T. Potions class size",
+      "category": "interior",
+      "description": "Only a dozen sixth-years qualify for N.E.W.T. Potions in 1996: four Slytherins, four Ravenclaws, one Hufflepuff and the three Gryffindors.",
+      "evidence": [
+        "B06-C009-P0097"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1996",
+      "model_notes": "An advanced class filtered by exam grade, so it is not the size of a year group.",
+      "citations": [
+        {
+          "id": "B06-C009-P0097",
+          "book": 6,
+          "book_title": "Harry Potter and the Half-Blood Prince",
+          "chapter": 9,
+          "chapter_title": "The Half-Blood Prince",
+          "is_epilogue": false,
+          "paragraph": 97,
+          "page_start": 189,
+          "page_end": 189,
+          "source_member": "6/OEBPS/hp06_ch009_en-gb.html",
+          "source_p_ordinal": 102,
+          "source_element_id": null,
+          "word_start": 47033,
+          "word_count": 57,
+          "label": "Book 6, ch. 9, “The Half-Blood Prince”, ref p. 189, ¶97 (B06-C009-P0097)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 102,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "potions-classroom",
+        "castle-interior-general"
+      ],
+      "areas": [
+        "classrooms",
+        "castle-and-terrain"
       ]
     },
     {
@@ -171455,6 +174881,69 @@
       ]
     },
     {
+      "id": "B06-214",
+      "location": "Gryffindor common room, distant chair",
+      "category": "interior",
+      "description": "Late at night, in low firelight, Harry is sure the common room is empty until a large boy rises from a distant chair, where he had fallen asleep.",
+      "evidence": [
+        "B06-C019-P0088",
+        "B06-C019-P0089"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 March 1997",
+      "model_notes": "A size hint: the room is wide enough for a far seat to go unnoticed in dim light. No measurement.",
+      "citations": [
+        {
+          "id": "B06-C019-P0088",
+          "book": 6,
+          "book_title": "Harry Potter and the Half-Blood Prince",
+          "chapter": 19,
+          "chapter_title": "Elf Tails",
+          "is_epilogue": false,
+          "paragraph": 88,
+          "page_start": 425,
+          "page_end": 426,
+          "source_member": "6/OEBPS/hp06_ch019_en-gb.html",
+          "source_p_ordinal": 93,
+          "source_element_id": null,
+          "word_start": 106201,
+          "word_count": 52,
+          "label": "Book 6, ch. 19, “Elf Tails”, ref p. 425–426, ¶88 (B06-C019-P0088)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 93,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B06-C019-P0089",
+          "book": 6,
+          "book_title": "Harry Potter and the Half-Blood Prince",
+          "chapter": 19,
+          "chapter_title": "Elf Tails",
+          "is_epilogue": false,
+          "paragraph": 89,
+          "page_start": 426,
+          "page_end": 426,
+          "source_member": "6/OEBPS/hp06_ch019_en-gb.html",
+          "source_p_ordinal": 94,
+          "source_element_id": null,
+          "word_start": 106253,
+          "word_count": 39,
+          "label": "Book 6, ch. 19, “Elf Tails”, ref p. 426, ¶89 (B06-C019-P0089)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 94,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "gryffindor-common-room"
+      ],
+      "areas": [
+        "gryffindor"
+      ]
+    },
+    {
       "id": "B06-113",
       "location": "Disguised wall door shortcut to Potions",
       "category": "route",
@@ -171694,6 +175183,47 @@
       ]
     },
     {
+      "id": "B06-220",
+      "location": "Quidditch stadium attendance",
+      "category": "grounds",
+      "description": "On a match day the whole school is outside, seated in the stadium or on the way down.",
+      "evidence": [
+        "B06-C019-P0120"
+      ],
+      "certainty": "explicit",
+      "temporal": "Spring 1997",
+      "model_notes": "The capacity must cover the school.",
+      "citations": [
+        {
+          "id": "B06-C019-P0120",
+          "book": 6,
+          "book_title": "Harry Potter and the Half-Blood Prince",
+          "chapter": 19,
+          "chapter_title": "Elf Tails",
+          "is_epilogue": false,
+          "paragraph": 120,
+          "page_start": 430,
+          "page_end": 430,
+          "source_member": "6/OEBPS/hp06_ch019_en-gb.html",
+          "source_p_ordinal": 125,
+          "source_element_id": null,
+          "word_start": 107265,
+          "word_count": 67,
+          "label": "Book 6, ch. 19, “Elf Tails”, ref p. 430, ¶120 (B06-C019-P0120)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 125,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "quidditch-stands"
+      ],
+      "areas": [
+        "quidditch"
+      ]
+    },
+    {
       "id": "B06-115",
       "location": "Hospital bed light and exterior sky",
       "category": "interior",
@@ -171820,6 +175350,49 @@
       ],
       "areas": [
         "hospital"
+      ]
+    },
+    {
+      "id": "B06-215",
+      "location": "Hospital wing — commentary heard from the pitch",
+      "category": "interior",
+      "description": "Ron says he could hear the Quidditch match commentary from his bed in the ward.",
+      "evidence": [
+        "B06-C019-P0166"
+      ],
+      "certainty": "reported",
+      "temporal": "March 1997",
+      "model_notes": "A hearing range only. The text gives no bearing or distance, and match commentary may be magically loud.",
+      "citations": [
+        {
+          "id": "B06-C019-P0166",
+          "book": 6,
+          "book_title": "Harry Potter and the Half-Blood Prince",
+          "chapter": 19,
+          "chapter_title": "Elf Tails",
+          "is_epilogue": false,
+          "paragraph": 166,
+          "page_start": 435,
+          "page_end": 435,
+          "source_member": "6/OEBPS/hp06_ch019_en-gb.html",
+          "source_p_ordinal": 171,
+          "source_element_id": null,
+          "word_start": 108679,
+          "word_count": 28,
+          "label": "Book 6, ch. 19, “Elf Tails”, ref p. 435, ¶166 (B06-C019-P0166)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 171,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "hospital-wing",
+        "quidditch-pitch"
+      ],
+      "areas": [
+        "hospital",
+        "quidditch"
       ]
     },
     {
@@ -175050,6 +178623,69 @@
       ]
     },
     {
+      "id": "B06-219",
+      "location": "Hagrid’s height against other people",
+      "category": "interior",
+      "description": "Harry and Slughorn can reach no higher than his elbow.",
+      "evidence": [
+        "B06-C022-P0134",
+        "B06-C022-P0156"
+      ],
+      "certainty": "explicit",
+      "temporal": "Spring 1997",
+      "model_notes": "A relative check that fits twice a normal man.",
+      "citations": [
+        {
+          "id": "B06-C022-P0134",
+          "book": 6,
+          "book_title": "Harry Potter and the Half-Blood Prince",
+          "chapter": 22,
+          "chapter_title": "After the Burial",
+          "is_epilogue": false,
+          "paragraph": 134,
+          "page_start": 505,
+          "page_end": 505,
+          "source_member": "6/OEBPS/hp06_ch022_en-gb.html",
+          "source_p_ordinal": 139,
+          "source_element_id": null,
+          "word_start": 126099,
+          "word_count": 49,
+          "label": "Book 6, ch. 22, “After the Burial”, ref p. 505, ¶134 (B06-C022-P0134)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 139,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B06-C022-P0156",
+          "book": 6,
+          "book_title": "Harry Potter and the Half-Blood Prince",
+          "chapter": 22,
+          "chapter_title": "After the Burial",
+          "is_epilogue": false,
+          "paragraph": 156,
+          "page_start": 508,
+          "page_end": 508,
+          "source_member": "6/OEBPS/hp06_ch022_en-gb.html",
+          "source_p_ordinal": 161,
+          "source_element_id": null,
+          "word_start": 126888,
+          "word_count": 35,
+          "label": "Book 6, ch. 22, “After the Burial”, ref p. 508, ¶156 (B06-C022-P0156)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 161,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "hagrid-cabin"
+      ],
+      "areas": [
+        "hagrid"
+      ]
+    },
+    {
       "id": "B06-139",
       "location": "Hagrid rear window and back garden",
       "category": "interior",
@@ -176237,6 +179873,93 @@
       "areas": [
         "astronomy",
         "other"
+      ]
+    },
+    {
+      "id": "B06-216",
+      "location": "Fat Lady's corridor to Headmaster's gargoyle",
+      "category": "route",
+      "description": "Harry runs back along the corridor from the Fat Lady and within minutes is giving the password to the gargoyle.",
+      "evidence": [
+        "B06-C023-P0015",
+        "B06-C023-P0016",
+        "B06-C023-P0017"
+      ],
+      "certainty": "explicit",
+      "temporal": "Spring 1997",
+      "model_notes": "Supports a short same-level link from the Gryffindor entrance to the gargoyle. No stairs are mentioned, but he is running and the route is not traced.",
+      "citations": [
+        {
+          "id": "B06-C023-P0015",
+          "book": 6,
+          "book_title": "Harry Potter and the Half-Blood Prince",
+          "chapter": 23,
+          "chapter_title": "Horcruxes",
+          "is_epilogue": false,
+          "paragraph": 15,
+          "page_start": 517,
+          "page_end": 517,
+          "source_member": "6/OEBPS/hp06_ch023_en-gb.html",
+          "source_p_ordinal": 18,
+          "source_element_id": null,
+          "word_start": 129043,
+          "word_count": 37,
+          "label": "Book 6, ch. 23, “Horcruxes”, ref p. 517, ¶15 (B06-C023-P0015)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 18,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B06-C023-P0016",
+          "book": 6,
+          "book_title": "Harry Potter and the Half-Blood Prince",
+          "chapter": 23,
+          "chapter_title": "Horcruxes",
+          "is_epilogue": false,
+          "paragraph": 16,
+          "page_start": 517,
+          "page_end": 517,
+          "source_member": "6/OEBPS/hp06_ch023_en-gb.html",
+          "source_p_ordinal": 19,
+          "source_element_id": null,
+          "word_start": 129080,
+          "word_count": 17,
+          "label": "Book 6, ch. 23, “Horcruxes”, ref p. 517, ¶16 (B06-C023-P0016)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 19,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B06-C023-P0017",
+          "book": 6,
+          "book_title": "Harry Potter and the Half-Blood Prince",
+          "chapter": 23,
+          "chapter_title": "Horcruxes",
+          "is_epilogue": false,
+          "paragraph": 17,
+          "page_start": 517,
+          "page_end": 517,
+          "source_member": "6/OEBPS/hp06_ch023_en-gb.html",
+          "source_p_ordinal": 20,
+          "source_element_id": null,
+          "word_start": 129097,
+          "word_count": 31,
+          "label": "Book 6, ch. 23, “Horcruxes”, ref p. 517, ¶17 (B06-C023-P0017)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 20,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "headmasters-office",
+        "seventh-floor-corridor"
+      ],
+      "areas": [
+        "offices",
+        "room-of-requirement"
       ]
     },
     {
@@ -184082,6 +187805,91 @@
       ]
     },
     {
+      "id": "B06-221",
+      "location": "Funeral seating before the school sat",
+      "category": "temporary",
+      "description": "Some pupils had been taken home by their parents. When the school reached the funeral site, outside mourners already filled half of the chairs, and the crowd went on growing.",
+      "evidence": [
+        "B06-C030-P0001",
+        "B06-C030-P0049",
+        "B06-C030-P0050"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1997",
+      "model_notes": "Half the chairs are taken before the school sits, so the chair count is about double what the school needed.",
+      "citations": [
+        {
+          "id": "B06-C030-P0001",
+          "book": 6,
+          "book_title": "Harry Potter and the Half-Blood Prince",
+          "chapter": 30,
+          "chapter_title": "The White Tomb",
+          "is_epilogue": false,
+          "paragraph": 1,
+          "page_start": 666,
+          "page_end": 666,
+          "source_member": "6/OEBPS/hp06_ch030_en-gb.html",
+          "source_p_ordinal": 4,
+          "source_element_id": null,
+          "word_start": 166306,
+          "word_count": 116,
+          "label": "Book 6, ch. 30, “The White Tomb”, ref p. 666, ¶1 (B06-C030-P0001)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 4,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B06-C030-P0049",
+          "book": 6,
+          "book_title": "Harry Potter and the Half-Blood Prince",
+          "chapter": 30,
+          "chapter_title": "The White Tomb",
+          "is_epilogue": false,
+          "paragraph": 49,
+          "page_start": 675,
+          "page_end": 676,
+          "source_member": "6/OEBPS/hp06_ch030_en-gb.html",
+          "source_p_ordinal": 52,
+          "source_element_id": null,
+          "word_start": 168577,
+          "word_count": 186,
+          "label": "Book 6, ch. 30, “The White Tomb”, ref p. 675–676, ¶49 (B06-C030-P0049)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 52,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B06-C030-P0050",
+          "book": 6,
+          "book_title": "Harry Potter and the Half-Blood Prince",
+          "chapter": 30,
+          "chapter_title": "The White Tomb",
+          "is_epilogue": false,
+          "paragraph": 50,
+          "page_start": 676,
+          "page_end": 676,
+          "source_member": "6/OEBPS/hp06_ch030_en-gb.html",
+          "source_p_ordinal": 53,
+          "source_element_id": null,
+          "word_start": 168763,
+          "word_count": 114,
+          "label": "Book 6, ch. 30, “The White Tomb”, ref p. 676, ¶50 (B06-C030-P0050)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 53,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "dumbledores-tomb"
+      ],
+      "areas": [
+        "lake"
+      ]
+    },
+    {
       "id": "B06-202",
       "location": "Forest-edge visiting carriage",
       "category": "temporary",
@@ -191710,6 +195518,69 @@
       "areas": [
         "castle-and-terrain",
         "hogsmeade-and-tunnels"
+      ]
+    },
+    {
+      "id": "B07-140",
+      "location": "School population",
+      "category": "interior",
+      "description": "McGonagall speaks of hundreds of pupils to evacuate, and Aberforth of hundreds passing through his pub.",
+      "evidence": [
+        "B07-C030-P0066",
+        "B07-C031-P0136"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998",
+      "model_notes": "Counts the school only as hundreds.",
+      "citations": [
+        {
+          "id": "B07-C030-P0066",
+          "book": 7,
+          "book_title": "Harry Potter and the Deathly Hallows",
+          "chapter": 30,
+          "chapter_title": "The Sacking of Severus Snape",
+          "is_epilogue": false,
+          "paragraph": 66,
+          "page_start": 631,
+          "page_end": 631,
+          "source_member": "7/OEBPS/hp07_ch030_en-gb.html",
+          "source_p_ordinal": 69,
+          "source_element_id": null,
+          "word_start": 157553,
+          "word_count": 8,
+          "label": "Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 631, ¶66 (B07-C030-P0066)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 69,
+          "source_text_slot": "text"
+        },
+        {
+          "id": "B07-C031-P0136",
+          "book": 7,
+          "book_title": "Harry Potter and the Deathly Hallows",
+          "chapter": 31,
+          "chapter_title": "The Battle of Hogwarts",
+          "is_epilogue": false,
+          "paragraph": 136,
+          "page_start": 658,
+          "page_end": 658,
+          "source_member": "7/OEBPS/hp07_ch031_en-gb.html",
+          "source_p_ordinal": 139,
+          "source_element_id": null,
+          "word_start": 164375,
+          "word_count": 10,
+          "label": "Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 658, ¶136 (B07-C031-P0136)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 139,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "castle-interior-general"
+      ],
+      "areas": [
+        "castle-and-terrain"
       ]
     },
     {
@@ -200466,6 +204337,49 @@
         "great-hall"
       ],
       "areas": [
+        "great-hall"
+      ]
+    },
+    {
+      "id": "B07-141",
+      "location": "Sorting rolls in a memory",
+      "category": "interior",
+      "description": "In a 1971 memory about a dozen pupils are still to be sorted when the roll reaches Snape.",
+      "evidence": [
+        "B07-C033-P0151"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1971 memory",
+      "model_notes": "A lower limit for one year’s size.",
+      "citations": [
+        {
+          "id": "B07-C033-P0151",
+          "book": 7,
+          "book_title": "Harry Potter and the Deathly Hallows",
+          "chapter": 33,
+          "chapter_title": "The Prince’s Tale",
+          "is_epilogue": false,
+          "paragraph": 151,
+          "page_start": 712,
+          "page_end": 713,
+          "source_member": "7/OEBPS/hp07_ch033_en-gb.html",
+          "source_p_ordinal": 154,
+          "source_element_id": null,
+          "word_start": 177970,
+          "word_count": 34,
+          "label": "Book 7, ch. 33, “The Prince’s Tale”, ref p. 712–713, ¶151 (B07-C033-P0151)",
+          "is_extra": false,
+          "source_element_tag": "p",
+          "source_element_ordinal": 154,
+          "source_text_slot": "text"
+        }
+      ],
+      "places": [
+        "castle-interior-general",
+        "great-hall"
+      ],
+      "areas": [
+        "castle-and-terrain",
         "great-hall"
       ]
     },

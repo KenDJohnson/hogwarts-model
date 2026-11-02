@@ -2999,6 +2999,108 @@
       "certainty": "explicit",
       "temporal": "Late May–June 1993",
       "model_notes": "School-to-station transfer mode is omitted this year; do not reuse book 1’s boat detail as a fresh observation."
+    },
+    {
+      "id": "B02-164",
+      "location": "Gryffindor boys’ stair",
+      "category": "route",
+      "description": "A first-year boy comes running down the same spiral stair that a second-year has just used from his dormitory.",
+      "evidence": [
+        "B02-C007-P0010"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1992",
+      "model_notes": "Boys of different years share the stair."
+    },
+    {
+      "id": "B02-165",
+      "location": "Gryffindor common room capacity",
+      "category": "interior",
+      "description": "Apparently the whole House is awake and packed into the round common room, standing on its tables and chairs. In 1993 the House again packs in to hear McGonagall.",
+      "evidence": [
+        "B02-C005-P0184",
+        "B02-C014-P0084"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1992 and 1993",
+      "model_notes": "A capacity statement without a head count. The room must hold the full House, however large that is."
+    },
+    {
+      "id": "B02-166",
+      "location": "Library — fetching a restricted book",
+      "category": "interior",
+      "description": "After accepting a signed note, the librarian walks away among the tall shelves and is gone for several minutes before she returns with the requested volume.",
+      "evidence": [
+        "B02-C010-P0026"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1992",
+      "model_notes": "An elapsed time for one fetch, including finding the book. No distance is stated, but it rules out a Restricted Section a few steps from where she received the note."
+    },
+    {
+      "id": "B02-167",
+      "location": "Pitch to hospital wing",
+      "category": "route",
+      "description": "At the Quidditch pitch, Lockhart sends Harry up to the Hospital Wing with two friends as escort.",
+      "evidence": [
+        "B02-C010-P0104"
+      ],
+      "certainty": "reported",
+      "temporal": "November 1992",
+      "model_notes": "Upward wording only. The castle stands above the pitch as well, so this does not fix a floor."
+    },
+    {
+      "id": "B02-168",
+      "location": "Named points on the flight north",
+      "category": "route",
+      "description": "A 1992 newspaper item about the flying car reports sightings over London, at noon in Norfolk, and by a man from Peebles. These are the only named places on the journey north; no passage puts the school in a named county or country.",
+      "evidence": [
+        "B02-C005-P0132"
+      ],
+      "certainty": "reported",
+      "temporal": "1 September 1992",
+      "model_notes": "Places on a route, not the school's location. Do not state a country for Hogwarts from outside knowledge."
+    },
+    {
+      "id": "B02-169",
+      "location": "Hagrid’s height against other people",
+      "category": "interior",
+      "description": "In a crowded street Hagrid shows head and shoulders above everyone else.",
+      "evidence": [
+        "B02-C004-P0140"
+      ],
+      "certainty": "explicit",
+      "temporal": "August 1992",
+      "model_notes": "A relative check. This reads lower than twice a normal man."
+    },
+    {
+      "id": "B02-170",
+      "location": "Quidditch stadium attendance",
+      "category": "grounds",
+      "description": "The whole school goes down to the stadium, which is later described as packed.",
+      "evidence": [
+        "B02-C010-P0045",
+        "B02-C014-P0065"
+      ],
+      "certainty": "explicit",
+      "temporal": "Autumn 1992 and 1993",
+      "model_notes": "The capacity must cover the school."
+    },
+    {
+      "id": "B02-171",
+      "location": "Dormitory to pitch time allowance",
+      "category": "route",
+      "description": "Wood rouses Harry in his dormitory at dawn and tells him to reach the pitch within fifteen minutes, which has to cover dressing and the walk down.",
+      "evidence": [
+        "B02-C007-P0004",
+        "B02-C007-P0007",
+        "B02-C007-P0008",
+        "B02-C007-P0009",
+        "B02-C007-P0010"
+      ],
+      "certainty": "reported",
+      "temporal": "September 1992",
+      "model_notes": "A captain's allowance, not a timed walk. It caps the journey from Gryffindor Tower to the pitch."
     }
   ],
   "chapter_reviews": [

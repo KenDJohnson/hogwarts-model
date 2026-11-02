@@ -1265,6 +1265,19 @@ Model: Specific window sightline; no bearing or whole-ground panorama is stated.
 - [Book 4, ch. 31, “The Third Task”, ref p. 643, ¶29 (B04-C031-P0029)](../../build/reader/book-04.html#B04-C031-P0029)
 - [Book 4, ch. 31, “The Third Task”, ref p. 643, ¶30 (B04-C031-P0030)](../../build/reader/book-04.html#B04-C031-P0030)
 
+## B04-247: North Tower — height above the grounds
+
+Harry says the Divination window was open. Hermione objects that from the top of North Tower his voice could not have carried down to the grounds.
+
+Places: North Tower and Divination classroom.
+
+Evidence: reported; state: June 1995.
+
+Model: A character's sense of the tower's height above the grounds. Gives no measurement.
+
+- [Book 4, ch. 31, “The Third Task”, ref p. 647, ¶61 (B04-C031-P0061)](../../build/reader/book-04.html#B04-C031-P0061)
+- [Book 4, ch. 31, “The Third Task”, ref p. 647, ¶62 (B04-C031-P0062)](../../build/reader/book-04.html#B04-C031-P0062)
+
 ## B04-242: Skeeter’s beetle access points
 
 Hermione says she caught Rita’s beetle form on a hospital-wing sill and identifies her as an unregistered Animagus. Harry recalls the beetle on the stone reindeer; Hermione links it to the lakeside conversation, Malfoy’s hand beneath the tree and probably the Divination window-sill.
@@ -2012,6 +2025,18 @@ Model: Downward route and dungeon function; no exact stair sequence or total des
 - [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 188–189, ¶96 (B06-C009-P0096)](../../build/reader/book-06.html#B06-C009-P0096)
 - [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 189, ¶97 (B06-C009-P0097)](../../build/reader/book-06.html#B06-C009-P0097)
 - [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 189, ¶99 (B06-C009-P0099)](../../build/reader/book-06.html#B06-C009-P0099)
+
+## B06-218: N.E.W.T. Potions class size
+
+Only a dozen sixth-years qualify for N.E.W.T. Potions in 1996: four Slytherins, four Ravenclaws, one Hufflepuff and the three Gryffindors.
+
+Places: Potions classroom, Castle interiors in general.
+
+Evidence: explicit; state: September 1996.
+
+Model: An advanced class filtered by exam grade, so it is not the size of a year group.
+
+- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 189, ¶97 (B06-C009-P0097)](../../build/reader/book-06.html#B06-C009-P0097)
 
 ## B06-032: Potions dungeon worktables and storage
 

@@ -3981,6 +3981,234 @@
       "certainty": "explicit",
       "temporal": "Late June–end of school year 1995",
       "model_notes": "Completes regional school-access context. Train compartments have sliding doors; their later confrontation causes no stated permanent carriage damage."
+    },
+    {
+      "id": "B04-244",
+      "location": "Gryffindor common room capacity",
+      "category": "interior",
+      "description": "Coming through the portrait hole, Harry faces the whole House in the common room.",
+      "evidence": [
+        "B04-C017-P0110"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1994",
+      "model_notes": "A capacity statement without a head count."
+    },
+    {
+      "id": "B04-245",
+      "location": "Great Hall and kitchens — Christmas lunch quantities",
+      "category": "temporary",
+      "description": "The Christmas Day meal in the Hall ran to no fewer than a hundred turkeys and Christmas puddings, with big heaps of crackers.",
+      "evidence": [
+        "B04-C023-P0059"
+      ],
+      "certainty": "explicit",
+      "temporal": "25 December 1994",
+      "model_notes": "A catering scale for the kitchens, not a seat count. The number may apply to the turkeys alone or to the puddings as well."
+    },
+    {
+      "id": "B04-246",
+      "location": "Hospital wing above the Defence office",
+      "category": "route",
+      "description": "Speaking in the Defence teacher's office, Dumbledore asks for the matron to come down there; later, in the ward, he asks her to go down to that office.",
+      "evidence": [
+        "B04-C036-P0004",
+        "B04-C036-P0170"
+      ],
+      "certainty": "reported",
+      "temporal": "Night of 24–25 June 1995",
+      "model_notes": "Two direction words in dialogue, both placing the ward above the Defence office. No count of floors is given."
+    },
+    {
+      "id": "B04-247",
+      "location": "North Tower — height above the grounds",
+      "category": "exterior",
+      "description": "Harry says the Divination window was open. Hermione objects that from the top of North Tower his voice could not have carried down to the grounds.",
+      "evidence": [
+        "B04-C031-P0061",
+        "B04-C031-P0062"
+      ],
+      "certainty": "reported",
+      "temporal": "June 1995",
+      "model_notes": "A character's sense of the tower's height above the grounds. Gives no measurement."
+    },
+    {
+      "id": "B04-248",
+      "location": "School population",
+      "category": "interior",
+      "description": "Hundreds of pupils are audible through the wall of the Hall’s side chamber, and hundreds later file into the stands.",
+      "evidence": [
+        "B04-C017-P0024",
+        "B04-C031-P0126"
+      ],
+      "certainty": "explicit",
+      "temporal": "1994 to 1995",
+      "model_notes": "Counts the school only as hundreds."
+    },
+    {
+      "id": "B04-249",
+      "location": "Sorting rolls and Harry’s year",
+      "category": "interior",
+      "description": "Parvati Patil is among the Gryffindors of Harry’s year, addressed by McGonagall as they line up.",
+      "evidence": [
+        "B04-C015-P0100"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1994",
+      "model_notes": "Adds a Gryffindor girl to the count for this year."
+    },
+    {
+      "id": "B04-250",
+      "location": "Visiting pupils in the Great Hall",
+      "category": "interior",
+      "description": "Around a dozen Beauxbatons pupils arrive in October 1994. With the Durmstrang party the two schools add only about twenty pupils to the Great Hall, which still looks fuller because their uniforms stand out.",
+      "evidence": [
+        "B04-C015-P0128",
+        "B04-C016-P0033"
+      ],
+      "certainty": "explicit",
+      "temporal": "October 1994 to June 1995",
+      "model_notes": "Visitor numbers are too small to affect Hall capacity. They matter only as a share of the Yule Ball seating."
+    },
+    {
+      "id": "B04-251",
+      "location": "Hagrid’s stature",
+      "category": "interior",
+      "description": "Hagrid is about double a normal man’s height and three or more times his breadth.",
+      "evidence": [
+        "B04-C012-P0087"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1994",
+      "model_notes": "Breadth varies between three and five times normal across the books."
+    },
+    {
+      "id": "B04-252",
+      "location": "Beauxbatons carriage — headmistress and party",
+      "category": "temporary",
+      "description": "Madame Maxime is within an inch of Hagrid’s height, with a shoe as big as a child’s sled, and her size is said to account for the scale of the carriage and horses. About a dozen pupils in their late teens come with her.",
+      "evidence": [
+        "B04-C015-P0120",
+        "B04-C015-P0121",
+        "B04-C015-P0128"
+      ],
+      "certainty": "explicit",
+      "temporal": "30 October 1994",
+      "model_notes": "Sets the minimum clearance of the carriage door, steps and rooms. The party’s number is approximate."
+    },
+    {
+      "id": "B04-253",
+      "location": "Gryffindor Tower to Hagrid’s cabin and dragon enclosure — timetable",
+      "category": "route",
+      "description": "Hagrid asks Harry to come to the cabin at midnight. Harry leaves the common room at about half past eleven and says he must be back at the castle by one o’clock.",
+      "evidence": [
+        "B04-C019-P0072",
+        "B04-C019-P0078",
+        "B04-C019-P0086"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994, before the first task",
+      "model_notes": "Brackets the night walk to the enclosure: the outward walk and the viewing fit between midnight and about a quarter to one."
+    },
+    {
+      "id": "B04-254",
+      "location": "Lake as Harry imagines it",
+      "category": "grounds",
+      "description": "Before the second task Harry thinks of the lake as both huge and extremely deep, and supposes that merpeople would live on its bed.",
+      "evidence": [
+        "B04-C025-P0052"
+      ],
+      "certainty": "reported",
+      "temporal": "January 1995, before the second task",
+      "model_notes": "Harry's impression only; he has not yet been in deep water. A size word, not a measurement."
+    },
+    {
+      "id": "B04-255",
+      "location": "Library to second-task bank in ten minutes",
+      "category": "route",
+      "description": "Woken in the library at twenty past nine with the task due at half past, Harry runs through the castle, down the lawn and round the far side of the lake, reaching the judges just before the start, out of breath and with a stitch.",
+      "evidence": [
+        "B04-C020-P0209",
+        "B04-C026-P0086",
+        "B04-C026-P0088",
+        "B04-C026-P0108",
+        "B04-C026-P0110",
+        "B04-C026-P0111",
+        "B04-C026-P0112",
+        "B04-C026-P0113",
+        "B04-C026-P0114",
+        "B04-C026-P0118"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 February 1995",
+      "model_notes": "An upper limit on the route: castle interior, lawn and part of the shore inside ten minutes at a sprint, less the time spent talking to Dobby."
+    },
+    {
+      "id": "B04-256",
+      "location": "Greenhouse door and castle steps",
+      "category": "grounds",
+      "description": "Leaving a greenhouse for Care of Magical Creatures, Harry and Ron see Malfoy's group coming down the castle's stone steps, and Pansy Parkinson calls across to Harry.",
+      "evidence": [
+        "B04-C028-P0066"
+      ],
+      "certainty": "explicit",
+      "temporal": "Spring 1995",
+      "model_notes": "Sightline and calling range between the way out of the greenhouses and the steps; no distance is given."
+    },
+    {
+      "id": "B04-257",
+      "location": "World Cup pitch as a comparison",
+      "category": "grounds",
+      "description": "The World Cup pitch is a long oval with three fifty-foot hoops at each end. It is the only Quidditch pitch given a plan shape.",
+      "evidence": [
+        "B04-C008-P0005"
+      ],
+      "certainty": "explicit",
+      "temporal": "August 1994",
+      "model_notes": "Not Hogwarts. It shows the hoop height is the game's standard; it does not settle the Hogwarts pitch outline."
+    },
+    {
+      "id": "B04-258",
+      "location": "Moody's office to Greenhouse Three",
+      "category": "route",
+      "description": "After talking to Moody in his office, Harry hurries to greenhouse three and arrives ten minutes later.",
+      "evidence": [
+        "B04-C020-P0041",
+        "B04-C020-P0043",
+        "B04-C020-P0073",
+        "B04-C020-P0074"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1994",
+      "model_notes": "A hurried journey from an upper corridor out to the greenhouses, with the end of the talk included in the ten minutes."
+    },
+    {
+      "id": "B04-259",
+      "location": "Second-task timings",
+      "category": "route",
+      "description": "Cedric, who got lost on the way, is first back with his hostage, one minute over the hour. Harry is first to reach the hostages but returns last, well over the hour. The events are placed on the lake bed.",
+      "evidence": [
+        "B04-C026-P0165",
+        "B04-C026-P0166",
+        "B04-C026-P0210",
+        "B04-C026-P0214",
+        "B04-C026-P0218"
+      ],
+      "certainty": "explicit",
+      "temporal": "24 February 1995",
+      "model_notes": "An hour covers a round trip with time at the village; it gives a rough scale for the swim."
+    },
+    {
+      "id": "B04-260",
+      "location": "Size of the Durmstrang party",
+      "category": "temporary",
+      "description": "In his confused state Crouch says that Karkaroff has made his party a round dozen students.",
+      "evidence": [
+        "B04-C028-P0179"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1995",
+      "model_notes": "A deranged speech but the only count of students living aboard the ship."
     }
   ],
   "chapter_reviews": [

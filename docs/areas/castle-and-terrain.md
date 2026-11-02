@@ -16,6 +16,18 @@ Model: A historical security claim, not evidence of a particular wall, ward, or 
 
 - [Book 1, ch. 4, “The Keeper of the Keys”, ref p. 57, ¶107 (B01-C004-P0107)](../../build/reader/book-01.html#B01-C004-P0107)
 
+## B01-146: Hogwarts year groups
+
+Hagrid gives the school course as seven years.
+
+Places: Castle interiors in general.
+
+Evidence: reported; state: July 1991.
+
+Model: Basis for counting year groups. Says nothing about how many pupils or rooms a year has.
+
+- [Book 1, ch. 4, “The Keeper of the Keys”, ref p. 62, ¶135 (B01-C004-P0135)](../../build/reader/book-01.html#B01-C004-P0135)
+
 ## B01-004: Hogwarts Express — approach landscape
 
 After London and agricultural fields, the train passes woods, winding rivers and dark green hills; close to arrival, mountains and forests are visible in the evening darkness.
@@ -42,6 +54,36 @@ Model: Preserve the high relief and cross-lake vista. No tower count, compass di
 
 - [Book 1, ch. 6, “The Journey from Platform Nine and Three-Quarters”, ref p. 114–115, ¶278 (B01-C006-P0278)](../../build/reader/book-01.html#B01-C006-P0278)
 - [Book 1, ch. 6, “The Journey from Platform Nine and Three-Quarters”, ref p. 115, ¶281 (B01-C006-P0281)](../../build/reader/book-01.html#B01-C006-P0281)
+
+## B01-151: School population
+
+At the first Sorting the Hall holds hundreds of pupils’ faces.
+
+Places: Castle interiors in general.
+
+Evidence: explicit; state: September 1991.
+
+Model: No exact roll is stated anywhere. The living school is never called a thousand.
+
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 119–120, ¶28 (B01-C007-P0028)](../../build/reader/book-01.html#B01-C007-P0028)
+
+## B01-152: Sorting rolls and Harry’s year
+
+The 1991 roll calls 21 named first-years aloud, while Crabbe and Goyle are already seated when Malfoy is called. Few remain after Malfoy and only three after Harry.
+
+Places: Castle interiors in general, Great Hall.
+
+Evidence: explicit; state: September 1991.
+
+Model: The list skips names, since Dean Thomas is never called yet shares Harry’s dormitory, so the true count is higher. The roll is a lower limit for a year’s size.
+
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 122, ¶77 (B01-C007-P0077)](../../build/reader/book-01.html#B01-C007-P0077)
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 123, ¶85 (B01-C007-P0085)](../../build/reader/book-01.html#B01-C007-P0085)
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 123, ¶89 (B01-C007-P0089)](../../build/reader/book-01.html#B01-C007-P0089)
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 123, ¶90 (B01-C007-P0090)](../../build/reader/book-01.html#B01-C007-P0090)
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 123, ¶91 (B01-C007-P0091)](../../build/reader/book-01.html#B01-C007-P0091)
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 125, ¶102 (B01-C007-P0102)](../../build/reader/book-01.html#B01-C007-P0102)
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 125, ¶104 (B01-C007-P0104)](../../build/reader/book-01.html#B01-C007-P0104)
 
 ## B01-026: Castle doors, portraits and armour
 
@@ -225,6 +267,18 @@ Model: Exterior visibility of Hall interior is a significant constraint. No wind
 - [Book 2, ch. 5, “The Whomping Willow”, ref p. 76–77, ¶115 (B02-C005-P0115)](../../build/reader/book-02.html#B02-C005-P0115)
 - [Book 2, ch. 5, “The Whomping Willow”, ref p. 77, ¶116 (B02-C005-P0116)](../../build/reader/book-02.html#B02-C005-P0116)
 - [Book 2, ch. 5, “The Whomping Willow”, ref p. 77, ¶117 (B02-C005-P0117)](../../build/reader/book-02.html#B02-C005-P0117)
+
+## B02-168: Named points on the flight north
+
+A 1992 newspaper item about the flying car reports sightings over London, at noon in Norfolk, and by a man from Peebles. These are the only named places on the journey north; no passage puts the school in a named county or country.
+
+Places: Hogwarts Express, Surrounding mountains and landscape.
+
+Evidence: reported; state: 1 September 1992.
+
+Model: Places on a route, not the school's location. Do not state a country for Hogwarts from outside knowledge.
+
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 79, ¶132 (B02-C005-P0132)](../../build/reader/book-02.html#B02-C005-P0132)
 
 ## B02-022: Courtyard — stone step and side-door route
 
@@ -783,6 +837,18 @@ Model: Reported servicing and student kitchen access. This passage supplies no k
 - [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 249, ¶87 (B04-C015-P0087)](../../build/reader/book-04.html#B04-C015-P0087)
 - [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 249, ¶88 (B04-C015-P0088)](../../build/reader/book-04.html#B04-C015-P0088)
 
+## B04-249: Sorting rolls and Harry’s year
+
+Parvati Patil is among the Gryffindors of Harry’s year, addressed by McGonagall as they line up.
+
+Places: Castle interiors in general.
+
+Evidence: explicit; state: October 1994.
+
+Model: Adds a Gryffindor girl to the count for this year.
+
+- [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 251, ¶100 (B04-C015-P0100)](../../build/reader/book-04.html#B04-C015-P0100)
+
 ## B04-042: Hogwarts grounds Apparition restriction
 
 Hermione states that Apparition cannot be performed inside the Hogwarts grounds.
@@ -795,6 +861,32 @@ Model: A reported magical boundary condition; no perimeter dimensions or excepti
 
 - [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 251, ¶108 (B04-C015-P0108)](../../build/reader/book-04.html#B04-C015-P0108)
 - [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 251–252, ¶109 (B04-C015-P0109)](../../build/reader/book-04.html#B04-C015-P0109)
+
+## B04-250: Visiting pupils in the Great Hall
+
+Around a dozen Beauxbatons pupils arrive in October 1994. With the Durmstrang party the two schools add only about twenty pupils to the Great Hall, which still looks fuller because their uniforms stand out.
+
+Places: Great Hall, Castle interiors in general.
+
+Evidence: explicit; state: October 1994 to June 1995.
+
+Model: Visitor numbers are too small to affect Hall capacity. They matter only as a share of the Yule Ball seating.
+
+- [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 254–255, ¶128 (B04-C015-P0128)](../../build/reader/book-04.html#B04-C015-P0128)
+- [Book 4, ch. 16, “The Goblet of Fire”, ref p. 261–262, ¶33 (B04-C016-P0033)](../../build/reader/book-04.html#B04-C016-P0033)
+
+## B04-248: School population
+
+Hundreds of pupils are audible through the wall of the Hall’s side chamber, and hundreds later file into the stands.
+
+Places: Castle interiors in general.
+
+Evidence: explicit; state: 1994 to 1995.
+
+Model: Counts the school only as hundreds.
+
+- [Book 4, ch. 17, “The Four Champions”, ref p. 286, ¶24 (B04-C017-P0024)](../../build/reader/book-04.html#B04-C017-P0024)
+- [Book 4, ch. 31, “The Third Task”, ref p. 655, ¶126 (B04-C031-P0126)](../../build/reader/book-04.html#B04-C031-P0126)
 
 ## B04-100: Castle and lake in early winter
 
@@ -1113,6 +1205,18 @@ Model: Descending route from the courtyard; floors unspecified.
 - [Book 5, ch. 12, “Professor Umbridge”, ref p. 269–270, ¶133 (B05-C012-P0133)](../../build/reader/book-05.html#B05-C012-P0133)
 - [Book 5, ch. 12, “Professor Umbridge”, ref p. 270, ¶134 (B05-C012-P0134)](../../build/reader/book-05.html#B05-C012-P0134)
 
+## B05-315: School population
+
+At the lesson bell hundreds of pupils can be heard moving overhead and all around.
+
+Places: Castle interiors in general.
+
+Evidence: explicit; state: Autumn 1995.
+
+Model: Counts the school only as hundreds.
+
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 290, ¶323 (B05-C012-P0323)](../../build/reader/book-05.html#B05-C012-P0323)
+
 ## B05-091: Staff-room entrance
 
 Two stone gargoyles flank the staff-room door and speak to Harry. Teachers open the door from inside; at break the adjacent corridor carries students in both directions and leads out into a courtyard with a sheltered corner.
@@ -1425,6 +1529,18 @@ Model: Seasonal transition; not a claimed lake temperature.
 - [Book 5, ch. 29, “Careers Advice”, ref p. 784–785, ¶96 (B05-C029-P0096)](../../build/reader/book-05.html#B05-C029-P0096)
 - [Book 5, ch. 29, “Careers Advice”, ref p. 804–805, ¶270 (B05-C029-P0270)](../../build/reader/book-05.html#B05-C029-P0270)
 
+## B05-313: Hogwarts year groups
+
+McGonagall speaks of a sixth and a seventh year of study still to come after the fifth.
+
+Places: Castle interiors in general.
+
+Evidence: reported; state: 1996.
+
+Model: Confirms seven numbered year groups in use.
+
+- [Book 5, ch. 29, “Careers Advice”, ref p. 788, ¶116 (B05-C029-P0116)](../../build/reader/book-05.html#B05-C029-P0116)
+
 ## B05-237: Office Niffler and corridor air
 
 A Niffler tears Umbridge’s office apart seeking shiny objects and tries biting her rings. Frequent Dungbombs and Stink Pellets prompt pupils to wear Bubble-Head Charms for fresh air in corridors.
@@ -1662,6 +1778,19 @@ Model: Broad security state, independent of the more specific gates and walls. D
 
 - [Book 6, ch. 8, “Snape Victorious”, ref p. 174, ¶112 (B06-C008-P0112)](../../build/reader/book-06.html#B06-C008-P0112)
 
+## B06-217: School population
+
+Hundreds of pupils leave the Great Hall after the feast, and Hagrid speaks of hundreds of under-age wizards shut up together at the school.
+
+Places: Castle interiors in general.
+
+Evidence: explicit; state: 1996 to 1997.
+
+Model: Counts the school only as hundreds. The second clue is dialogue.
+
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 174–175, ¶115 (B06-C008-P0115)](../../build/reader/book-06.html#B06-C008-P0115)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 422, ¶59 (B06-C019-P0059)](../../build/reader/book-06.html#B06-C019-P0059)
+
 ## B06-023: Grawp’s mountain cave
 
 Hagrid reports that Dumbledore has arranged a new home for Grawp in a large cave up in the mountains, replacing his Forest home.
@@ -1673,6 +1802,18 @@ Evidence: reported; state: Evening arrival, 1 September 1996.
 Model: Mountain habitat beyond the Forest; no exact mountain, cave entrance, route or distance is supplied.
 
 - [Book 6, ch. 8, “Snape Victorious”, ref p. 176, ¶127 (B06-C008-P0127)](../../build/reader/book-06.html#B06-C008-P0127)
+
+## B06-218: N.E.W.T. Potions class size
+
+Only a dozen sixth-years qualify for N.E.W.T. Potions in 1996: four Slytherins, four Ravenclaws, one Hufflepuff and the three Gryffindors.
+
+Places: Potions classroom, Castle interiors in general.
+
+Evidence: explicit; state: September 1996.
+
+Model: An advanced class filtered by exam grade, so it is not the size of a year group.
+
+- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 189, ¶97 (B06-C009-P0097)](../../build/reader/book-06.html#B06-C009-P0097)
 
 ## B06-045: Quidditch pitch–Hagrid cabin
 
@@ -2276,6 +2417,19 @@ Model: Grounds prohibition and observed town street failure do not preclude the 
 - [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 631, ¶66 (B07-C030-P0066)](../../build/reader/book-07.html#B07-C030-P0066)
 - [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 631, ¶67 (B07-C030-P0067)](../../build/reader/book-07.html#B07-C030-P0067)
 
+## B07-140: School population
+
+McGonagall speaks of hundreds of pupils to evacuate, and Aberforth of hundreds passing through his pub.
+
+Places: Castle interiors in general.
+
+Evidence: reported; state: May 1998.
+
+Model: Counts the school only as hundreds.
+
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 631, ¶66 (B07-C030-P0066)](../../build/reader/book-07.html#B07-C030-P0066)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 658, ¶136 (B07-C031-P0136)](../../build/reader/book-07.html#B07-C031-P0136)
+
 ## B07-062: Grounds defensive enchantments
 
 From the broken classroom window Flitwick directs complex protective incantations into the grounds, producing a rushing sound like wind; Protego horribilis is named. The teachers expect to delay Voldemort rather than exclude him indefinitely.
@@ -2413,6 +2567,18 @@ Model: Visible scale and reach, without assigning a numbered floor to the broken
 - [Book 7, ch. 32, “The Elder Wand”, ref p. 686, ¶81 (B07-C032-P0081)](../../build/reader/book-07.html#B07-C032-P0081)
 - [Book 7, ch. 32, “The Elder Wand”, ref p. 686, ¶83 (B07-C032-P0083)](../../build/reader/book-07.html#B07-C032-P0083)
 - [Book 7, ch. 32, “The Elder Wand”, ref p. 686–687, ¶84 (B07-C032-P0084)](../../build/reader/book-07.html#B07-C032-P0084)
+
+## B07-141: Sorting rolls in a memory
+
+In a 1971 memory about a dozen pupils are still to be sorted when the roll reaches Snape.
+
+Places: Castle interiors in general, Great Hall.
+
+Evidence: explicit; state: September 1971 memory.
+
+Model: A lower limit for one year’s size.
+
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 712–713, ¶151 (B07-C033-P0151)](../../build/reader/book-07.html#B07-C033-P0151)
 
 ## B07-108: Castle courtyard / pillar
 

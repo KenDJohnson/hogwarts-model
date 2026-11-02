@@ -2241,6 +2241,162 @@
       "certainty": "explicit",
       "temporal": "June 1992, end of first year",
       "model_notes": "End-of-first-year route uses lake boats; do not assume later-year carriage arrangements here. Station-to-boat intermediate steps are omitted."
+    },
+    {
+      "id": "B01-146",
+      "location": "Hogwarts year groups",
+      "category": "history",
+      "description": "Hagrid gives the school course as seven years.",
+      "evidence": [
+        "B01-C004-P0135"
+      ],
+      "certainty": "reported",
+      "temporal": "July 1991",
+      "model_notes": "Basis for counting year groups. Says nothing about how many pupils or rooms a year has."
+    },
+    {
+      "id": "B01-147",
+      "location": "Entrance Hall — the house used as its size comparison",
+      "category": "interior",
+      "description": "The Dursleys’ house, the yardstick given for the size of the Entrance Hall, has four bedrooms upstairs: one for the couple, one for visitors and two used by Dudley.",
+      "evidence": [
+        "B01-C003-P0066"
+      ],
+      "certainty": "explicit",
+      "temporal": "Summer 1991",
+      "model_notes": "Shows the comparison house is a two-storey, four-bedroom home. No dimensions are given."
+    },
+    {
+      "id": "B01-148",
+      "location": "Girls' toilets — troll clearance",
+      "category": "temporary",
+      "description": "A troll twelve feet tall, carrying a huge club, goes through the doorway of the girls' toilets and moves about inside.",
+      "evidence": [
+        "B01-C010-P0111",
+        "B01-C010-P0112",
+        "B01-C010-P0122"
+      ],
+      "certainty": "explicit",
+      "temporal": "31 October 1991",
+      "model_notes": "The height is narrated. How the creature fitted the doorway or ceiling is not: it slouches in, so either the opening is very tall or it stooped."
+    },
+    {
+      "id": "B01-149",
+      "location": "Library — books around the readers",
+      "category": "interior",
+      "description": "Sitting in the library, Ron gazes upward at the many thousands of volumes around them.",
+      "evidence": [
+        "B01-C015-P0038"
+      ],
+      "certainty": "explicit",
+      "temporal": "Spring 1992",
+      "model_notes": "A loose impression that agrees with the general count. It suggests shelving rising above seated eye level near a reading place."
+    },
+    {
+      "id": "B01-150",
+      "location": "Entrance Hall — search for the Headmaster's office",
+      "category": "route",
+      "description": "Near the end of their first year Harry, Ron and Hermione look around the Entrance Hall for any sign to Dumbledore's office. They have never been told where he lives and know nobody who has been sent to see him.",
+      "evidence": [
+        "B01-C016-P0039",
+        "B01-C016-P0040"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1992",
+      "model_notes": "Establishes that the office is unsigned and off any everyday pupil route. No location is given here."
+    },
+    {
+      "id": "B01-151",
+      "location": "School population",
+      "category": "interior",
+      "description": "At the first Sorting the Hall holds hundreds of pupils’ faces.",
+      "evidence": [
+        "B01-C007-P0028"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991",
+      "model_notes": "No exact roll is stated anywhere. The living school is never called a thousand."
+    },
+    {
+      "id": "B01-152",
+      "location": "Sorting rolls and Harry’s year",
+      "category": "interior",
+      "description": "The 1991 roll calls 21 named first-years aloud, while Crabbe and Goyle are already seated when Malfoy is called. Few remain after Malfoy and only three after Harry.",
+      "evidence": [
+        "B01-C007-P0077",
+        "B01-C007-P0085",
+        "B01-C007-P0089",
+        "B01-C007-P0090",
+        "B01-C007-P0091",
+        "B01-C007-P0102",
+        "B01-C007-P0104"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991",
+      "model_notes": "The list skips names, since Dean Thomas is never called yet shares Harry’s dormitory, so the true count is higher. The roll is a lower limit for a year’s size."
+    },
+    {
+      "id": "B01-153",
+      "location": "Train announcement and luggage",
+      "category": "route",
+      "description": "A voice carried through the train announces arrival in five minutes and tells pupils to leave their luggage aboard, since it reaches the school by another route.",
+      "evidence": [
+        "B01-C006-P0270"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 September 1991",
+      "model_notes": "Trunks do not travel in the coaches or boats. How they reach the dormitories is not stated."
+    },
+    {
+      "id": "B01-154",
+      "location": "Hagrid’s stature",
+      "category": "interior",
+      "description": "Hagrid is given as almost double a normal man’s height and five or more times his width, and later as twice as tall as anyone around him.",
+      "evidence": [
+        "B01-C001-P0089",
+        "B01-C005-P0054"
+      ],
+      "certainty": "explicit",
+      "temporal": "1981 and July 1991",
+      "model_notes": "No height in feet is given for the adult. These figures set the scale of the cabin’s doors, ceiling and furniture."
+    },
+    {
+      "id": "B01-155",
+      "location": "Castle to Hagrid’s cabin — walking time",
+      "category": "route",
+      "description": "Hagrid invites Harry to tea at around three; Harry and Ron leave the castle at five minutes to three and walk across the grounds to his house.",
+      "evidence": [
+        "B01-C008-P0028",
+        "B01-C008-P0066"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1991, first school week",
+      "model_notes": "Implies a walk of roughly five minutes if they arrive on time. The arrival time itself is not stated."
+    },
+    {
+      "id": "B01-156",
+      "location": "Quidditch stadium attendance",
+      "category": "grounds",
+      "description": "The whole school seems to be in the stands. Many pupils have binoculars, because the raised seats do not always give a good view.",
+      "evidence": [
+        "B01-C011-P0042"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1991",
+      "model_notes": "The capacity must cover the school. This passage hedges with seemed."
+    },
+    {
+      "id": "B01-157",
+      "location": "Fifty-foot dive at the flying lawn",
+      "category": "grounds",
+      "description": "McGonagall tells Wood that Harry caught the falling ball after a fifty-foot dive during the flying lesson.",
+      "evidence": [
+        "B01-C009-P0057",
+        "B01-C009-P0081"
+      ],
+      "certainty": "reported",
+      "temporal": "September 1991",
+      "model_notes": "McGonagall's figure. With Malfoy hovering level with the oak's top branches, it gives a rough idea of the tree's height."
     }
   ],
   "chapter_reviews": [

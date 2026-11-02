@@ -200,6 +200,18 @@ Model: Harry’s view is blurred and his identification incomplete at this stage
 - [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 388, ¶74 (B03-C020-P0074)](../../build/reader/book-03.html#B03-C020-P0074)
 - [Book 3, ch. 20, “The Dementors’ Kiss”, ref p. 388, ¶75 (B03-C020-P0075)](../../build/reader/book-03.html#B03-C020-P0075)
 
+## B03-170: Far bank at night
+
+Harry later reflects that the figure he saw across the lake was too far away to make out properly.
+
+Places: The lake.
+
+Evidence: reported; state: 6 June, third year.
+
+Model: A distance judgement, at night and with failing sight. Other passages the same night show actions on that bank were still visible.
+
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 410, ¶259 (B03-C021-P0259)](../../build/reader/book-03.html#B03-C021-P0259)
+
 ## B03-150: Hagrid’s cabin to opposite lake bank: bush lookout
 
 From outside the cabin Harry sees Dementors moving around the lake edges away from him toward the opposite bank. He runs to the water and hides behind a bush growing at its very edge, looking through its leaves at silver Patronus glimmers and the surrounding Dementors across the lake.
@@ -390,6 +402,27 @@ Model: Establishes that a complete walking circuit is possible in this state, no
 - [Book 4, ch. 20, “The First Task”, ref p. 353, ¶1 (B04-C020-P0001)](../../build/reader/book-04.html#B04-C020-P0001)
 - [Book 4, ch. 20, “The First Task”, ref p. 353, ¶4 (B04-C020-P0004)](../../build/reader/book-04.html#B04-C020-P0004)
 
+## B04-255: Library to second-task bank in ten minutes
+
+Woken in the library at twenty past nine with the task due at half past, Harry runs through the castle, down the lawn and round the far side of the lake, reaching the judges just before the start, out of breath and with a stitch.
+
+Places: Lakeshore and beech tree.
+
+Evidence: explicit; state: 24 February 1995.
+
+Model: An upper limit on the route: castle interior, lawn and part of the shore inside ten minutes at a sprint, less the time spent talking to Dobby.
+
+- [Book 4, ch. 20, “The First Task”, ref p. 381, ¶209 (B04-C020-P0209)](../../build/reader/book-04.html#B04-C020-P0209)
+- [Book 4, ch. 26, “The Second Task”, ref p. 517, ¶86 (B04-C026-P0086)](../../build/reader/book-04.html#B04-C026-P0086)
+- [Book 4, ch. 26, “The Second Task”, ref p. 517, ¶88 (B04-C026-P0088)](../../build/reader/book-04.html#B04-C026-P0088)
+- [Book 4, ch. 26, “The Second Task”, ref p. 518, ¶108 (B04-C026-P0108)](../../build/reader/book-04.html#B04-C026-P0108)
+- [Book 4, ch. 26, “The Second Task”, ref p. 518, ¶110 (B04-C026-P0110)](../../build/reader/book-04.html#B04-C026-P0110)
+- [Book 4, ch. 26, “The Second Task”, ref p. 518–519, ¶111 (B04-C026-P0111)](../../build/reader/book-04.html#B04-C026-P0111)
+- [Book 4, ch. 26, “The Second Task”, ref p. 519, ¶112 (B04-C026-P0112)](../../build/reader/book-04.html#B04-C026-P0112)
+- [Book 4, ch. 26, “The Second Task”, ref p. 519, ¶113 (B04-C026-P0113)](../../build/reader/book-04.html#B04-C026-P0113)
+- [Book 4, ch. 26, “The Second Task”, ref p. 519, ¶114 (B04-C026-P0114)](../../build/reader/book-04.html#B04-C026-P0114)
+- [Book 4, ch. 26, “The Second Task”, ref p. 519–520, ¶118 (B04-C026-P0118)](../../build/reader/book-04.html#B04-C026-P0118)
+
 ## B04-100: Castle and lake in early winter
 
 Wind and sleet arrive in December. The castle is draughty but has thick walls and fires; on the lake the Durmstrang ship pitches in high winds with black sails billowing.
@@ -484,6 +517,18 @@ Model: Physical/ghost plumbing connection to the lake is reported, not a human-t
 - [Book 4, ch. 25, “The Egg and the Eye”, ref p. 490, ¶61 (B04-C025-P0061)](../../build/reader/book-04.html#B04-C025-P0061)
 - [Book 4, ch. 25, “The Egg and the Eye”, ref p. 490–491, ¶64 (B04-C025-P0064)](../../build/reader/book-04.html#B04-C025-P0064)
 - [Book 4, ch. 25, “The Egg and the Eye”, ref p. 491, ¶66 (B04-C025-P0066)](../../build/reader/book-04.html#B04-C025-P0066)
+
+## B04-254: Lake as Harry imagines it
+
+Before the second task Harry thinks of the lake as both huge and extremely deep, and supposes that merpeople would live on its bed.
+
+Places: The lake, Underwater lake terrain.
+
+Evidence: reported; state: January 1995, before the second task.
+
+Model: Harry's impression only; he has not yet been in deep water. A size word, not a measurement.
+
+- [Book 4, ch. 25, “The Egg and the Eye”, ref p. 489, ¶52 (B04-C025-P0052)](../../build/reader/book-04.html#B04-C025-P0052)
 
 ## B04-153: Classroom views of lake
 
@@ -721,6 +766,22 @@ Model: Dated task behaviour, not an intrinsic ban on entering the square. Bubble
 - [Book 4, ch. 26, “The Second Task”, ref p. 530, ¶177 (B04-C026-P0177)](../../build/reader/book-04.html#B04-C026-P0177)
 - [Book 4, ch. 26, “The Second Task”, ref p. 530, ¶178 (B04-C026-P0178)](../../build/reader/book-04.html#B04-C026-P0178)
 
+## B04-259: Second-task timings
+
+Cedric, who got lost on the way, is first back with his hostage, one minute over the hour. Harry is first to reach the hostages but returns last, well over the hour. The events are placed on the lake bed.
+
+Places: Underwater lake terrain, Merpeople village.
+
+Evidence: explicit; state: 24 February 1995.
+
+Model: An hour covers a round trip with time at the village; it gives a rough scale for the swim.
+
+- [Book 4, ch. 26, “The Second Task”, ref p. 528, ¶165 (B04-C026-P0165)](../../build/reader/book-04.html#B04-C026-P0165)
+- [Book 4, ch. 26, “The Second Task”, ref p. 528, ¶166 (B04-C026-P0166)](../../build/reader/book-04.html#B04-C026-P0166)
+- [Book 4, ch. 26, “The Second Task”, ref p. 535, ¶210 (B04-C026-P0210)](../../build/reader/book-04.html#B04-C026-P0210)
+- [Book 4, ch. 26, “The Second Task”, ref p. 535, ¶214 (B04-C026-P0214)](../../build/reader/book-04.html#B04-C026-P0214)
+- [Book 4, ch. 26, “The Second Task”, ref p. 536, ¶218 (B04-C026-P0218)](../../build/reader/book-04.html#B04-C026-P0218)
+
 ## B04-170: Lake ascent and landing after second task
 
 Harry ascends through darkness which lightens near the surface, noticing daylight about ten feet above as Gillyweed expires. On surfacing the hostages awaken; they swim back to the judges’ bank escorted by about twenty merpeople. Pomfrey treats the rescued competitors on shore with blankets and Pepper-Up, and later leads them uphill back to the castle steps.
@@ -759,6 +820,18 @@ Model: One observed elevated panorama; it does not establish a compass bearing o
 - [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 570, ¶43 (B04-C028-P0043)](../../build/reader/book-04.html#B04-C028-P0043)
 - [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 570–571, ¶44 (B04-C028-P0044)](../../build/reader/book-04.html#B04-C028-P0044)
 - [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 571, ¶45 (B04-C028-P0045)](../../build/reader/book-04.html#B04-C028-P0045)
+
+## B04-260: Size of the Durmstrang party
+
+In his confused state Crouch says that Karkaroff has made his party a round dozen students.
+
+Places: Durmstrang ship.
+
+Evidence: reported; state: May 1995.
+
+Model: A deranged speech but the only count of students living aboard the ship.
+
+- [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 586, ¶179 (B04-C028-P0179)](../../build/reader/book-04.html#B04-C028-P0179)
 
 ## B04-194: Defence classroom lake sightline
 
@@ -973,6 +1046,20 @@ Model: Explicit cross-lake relation between two event sites; no shoreline distan
 - [Book 5, ch. 38, “The Second War Begins”, ref p. 1025–1026, ¶105 (B05-C038-P0105)](../../build/reader/book-05.html#B05-C038-P0105)
 - [Book 5, ch. 38, “The Second War Begins”, ref p. 1026, ¶106 (B05-C038-P0106)](../../build/reader/book-05.html#B05-C038-P0106)
 - [Book 5, ch. 38, “The Second War Begins”, ref p. 1026, ¶107 (B05-C038-P0107)](../../build/reader/book-05.html#B05-C038-P0107)
+
+## B06-221: Funeral seating before the school sat
+
+Some pupils had been taken home by their parents. When the school reached the funeral site, outside mourners already filled half of the chairs, and the crowd went on growing.
+
+Places: Dumbledore’s tomb and funeral site.
+
+Evidence: explicit; state: June 1997.
+
+Model: Half the chairs are taken before the school sits, so the chair count is about double what the school needed.
+
+- [Book 6, ch. 30, “The White Tomb”, ref p. 666, ¶1 (B06-C030-P0001)](../../build/reader/book-06.html#B06-C030-P0001)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 675–676, ¶49 (B06-C030-P0049)](../../build/reader/book-06.html#B06-C030-P0049)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 676, ¶50 (B06-C030-P0050)](../../build/reader/book-06.html#B06-C030-P0050)
 
 ## B06-205: Great Hall–lakeshore ceremony route
 

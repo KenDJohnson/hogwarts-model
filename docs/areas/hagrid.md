@@ -4,6 +4,19 @@
 
 All pages are project reference pages, ref250-v1. Group membership is a navigation aid; retain each record's certainty and dated state.
 
+## B01-154: Hagrid’s stature
+
+Hagrid is given as almost double a normal man’s height and five or more times his width, and later as twice as tall as anyone around him.
+
+Places: Hagrid’s cabin.
+
+Evidence: explicit; state: 1981 and July 1991.
+
+Model: No height in feet is given for the adult. These figures set the scale of the cabin’s doors, ceiling and furniture.
+
+- [Book 1, ch. 1, “The Boy Who Lived”, ref p. 16, ¶89 (B01-C001-P0089)](../../build/reader/book-01.html#B01-C001-P0089)
+- [Book 1, ch. 5, “Diagon Alley”, ref p. 68, ¶54 (B01-C005-P0054)](../../build/reader/book-01.html#B01-C005-P0054)
+
 ## B01-002: Hagrid’s hut
 
 The boy later identified as Malfoy says Hagrid lives in a hut in the school grounds; he also alleges that Hagrid sometimes sets his bed alight while drunk and attempting magic.
@@ -15,6 +28,19 @@ Evidence: reported; state: Reported July 1991; alleged recurring events undated.
 Model: Hostile second-hand report. Hut residence and a bed are provisional until observed; alleged bed fires are not an established damage state.
 
 - [Book 1, ch. 5, “Diagon Alley”, ref p. 80–81, ¶204 (B01-C005-P0204)](../../build/reader/book-01.html#B01-C005-P0204)
+
+## B01-155: Castle to Hagrid’s cabin — walking time
+
+Hagrid invites Harry to tea at around three; Harry and Ron leave the castle at five minutes to three and walk across the grounds to his house.
+
+Places: Hagrid’s cabin.
+
+Evidence: explicit; state: September 1991, first school week.
+
+Model: Implies a walk of roughly five minutes if they arrive on time. The arrival time itself is not stated.
+
+- [Book 1, ch. 8, “The Potions Master”, ref p. 139, ¶28 (B01-C008-P0028)](../../build/reader/book-01.html#B01-C008-P0028)
+- [Book 1, ch. 8, “The Potions Master”, ref p. 143, ¶66 (B01-C008-P0066)](../../build/reader/book-01.html#B01-C008-P0066)
 
 ## B01-037: Castle to Hagrid’s house
 
@@ -188,6 +214,18 @@ Evidence: explicit; state: Summer 1992 recollection of 1991–92.
 Model: A narrated recap reaffirming established features; no new floor plan or numeric goalpost height.
 
 - [Book 2, ch. 1, “The Worst Birthday”, ref p. 2–3, ¶26 (B02-C001-P0026)](../../build/reader/book-02.html#B02-C001-P0026)
+
+## B02-169: Hagrid’s height against other people
+
+In a crowded street Hagrid shows head and shoulders above everyone else.
+
+Places: Hagrid’s cabin.
+
+Evidence: explicit; state: August 1992.
+
+Model: A relative check. This reads lower than twice a normal man.
+
+- [Book 2, ch. 4, “At Flourish and Blotts”, ref p. 56, ¶140 (B02-C004-P0140)](../../build/reader/book-02.html#B02-C004-P0140)
 
 ## B02-028: Stadium to Hagrid’s hut — nearby refuge
 
@@ -527,6 +565,18 @@ Model: Observed indoor occupancy versus reported official restraint condition. H
 - [Book 3, ch. 11, “The Firebolt”, ref p. 220, ¶92 (B03-C011-P0092)](../../build/reader/book-03.html#B03-C011-P0092)
 - [Book 3, ch. 11, “The Firebolt”, ref p. 220, ¶94 (B03-C011-P0094)](../../build/reader/book-03.html#B03-C011-P0094)
 
+## B03-169: Hagrid’s stature
+
+Hagrid is at least double a normal man’s size, so that he nearly collapses a boy who is supporting him.
+
+Places: Hagrid’s cabin.
+
+Evidence: explicit; state: December 1993.
+
+Model: Sets the scale of the cabin’s furniture.
+
+- [Book 3, ch. 11, “The Firebolt”, ref p. 217, ¶59 (B03-C011-P0059)](../../build/reader/book-03.html#B03-C011-P0059)
+
 ## B03-076: Grounds — salamander bonfire lesson
 
 On a raw January morning Hagrid provides an outdoor bonfire containing salamanders; pupils collect dry leaves and wood as the lizards run on crumbling white-hot logs.
@@ -864,6 +914,18 @@ Model: Links the cabin-side approach with the shore opposite the original attack
 - [Book 3, ch. 21, “Hermione’s Secret”, ref p. 415, ¶311 (B03-C021-P0311)](../../build/reader/book-03.html#B03-C021-P0311)
 - [Book 3, ch. 21, “Hermione’s Secret”, ref p. 415, ¶312 (B03-C021-P0312)](../../build/reader/book-03.html#B03-C021-P0312)
 
+## B04-251: Hagrid’s stature
+
+Hagrid is about double a normal man’s height and three or more times his breadth.
+
+Places: Hagrid’s cabin.
+
+Evidence: explicit; state: September 1994.
+
+Model: Breadth varies between three and five times normal across the books.
+
+- [Book 4, ch. 12, “The Triwizard Tournament”, ref p. 187, ¶87 (B04-C012-P0087)](../../build/reader/book-04.html#B04-C012-P0087)
+
 ## B04-024: Greenhouses to Hagrid’s cabin
 
 A booming castle bell is audible in the grounds. After Herbology the Hufflepuffs go up stone steps for Transfiguration, while the Gryffindors head in the other direction down a sloping lawn towards Hagrid’s small wooden cabin at the Forbidden Forest edge. They later walk back uphill to the castle for lunch.
@@ -908,6 +970,20 @@ Model: Temporary guest transport and its landing clearance. The exact standing p
 - [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 252–253, ¶118 (B04-C015-P0118)](../../build/reader/book-04.html#B04-C015-P0118)
 - [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 253, ¶119 (B04-C015-P0119)](../../build/reader/book-04.html#B04-C015-P0119)
 - [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 253, ¶120 (B04-C015-P0120)](../../build/reader/book-04.html#B04-C015-P0120)
+
+## B04-252: Beauxbatons carriage — headmistress and party
+
+Madame Maxime is within an inch of Hagrid’s height, with a shoe as big as a child’s sled, and her size is said to account for the scale of the carriage and horses. About a dozen pupils in their late teens come with her.
+
+Places: Beauxbatons carriage and paddock.
+
+Evidence: explicit; state: 30 October 1994.
+
+Model: Sets the minimum clearance of the carriage door, steps and rooms. The party’s number is approximate.
+
+- [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 253, ¶120 (B04-C015-P0120)](../../build/reader/book-04.html#B04-C015-P0120)
+- [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 253–254, ¶121 (B04-C015-P0121)](../../build/reader/book-04.html#B04-C015-P0121)
+- [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 254–255, ¶128 (B04-C015-P0128)](../../build/reader/book-04.html#B04-C015-P0128)
 
 ## B04-044: Beauxbatons horse care
 
@@ -1007,6 +1083,20 @@ Model: A dated outdoor lesson. The crates come from behind the cabin, not explic
 - [Book 4, ch. 18, “The Weighing of the Wands”, ref p. 306–307, ¶48 (B04-C018-P0048)](../../build/reader/book-04.html#B04-C018-P0048)
 - [Book 4, ch. 18, “The Weighing of the Wands”, ref p. 307, ¶56 (B04-C018-P0056)](../../build/reader/book-04.html#B04-C018-P0056)
 - [Book 4, ch. 18, “The Weighing of the Wands”, ref p. 307–308, ¶57 (B04-C018-P0057)](../../build/reader/book-04.html#B04-C018-P0057)
+
+## B04-253: Gryffindor Tower to Hagrid’s cabin and dragon enclosure — timetable
+
+Hagrid asks Harry to come to the cabin at midnight. Harry leaves the common room at about half past eleven and says he must be back at the castle by one o’clock.
+
+Places: Hagrid’s cabin, Dragon enclosure.
+
+Evidence: explicit; state: November 1994, before the first task.
+
+Model: Brackets the night walk to the enclosure: the outward walk and the viewing fit between midnight and about a quarter to one.
+
+- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 337, ¶72 (B04-C019-P0072)](../../build/reader/book-04.html#B04-C019-P0072)
+- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 338, ¶78 (B04-C019-P0078)](../../build/reader/book-04.html#B04-C019-P0078)
+- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 339, ¶86 (B04-C019-P0086)](../../build/reader/book-04.html#B04-C019-P0086)
 
 ## B04-077: Night route from castle to carriage
 
@@ -1462,6 +1552,18 @@ Model: Travel equipment marks recent return; curtains and fire are fittings.
 - [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 498, ¶38 (B05-C020-P0038)](../../build/reader/book-05.html#B05-C020-P0038)
 - [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 498, ¶39 (B05-C020-P0039)](../../build/reader/book-05.html#B05-C020-P0039)
 
+## B05-316: Hagrid’s stature
+
+Hagrid is double a normal man’s size.
+
+Places: Hagrid’s cabin.
+
+Evidence: explicit; state: Autumn 1995.
+
+Model: Sets the scale of the cabin’s furniture.
+
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 496, ¶12 (B05-C020-P0012)](../../build/reader/book-05.html#B05-C020-P0012)
+
 ## B05-131: Hagrid cabin central table
 
 An enormous wooden table stands in the cabin centre. A tea towel initially covers a raw dragon steak slightly larger than a car tyre; Hagrid uses it as a cold dressing and it later falls to the floor.
@@ -1501,6 +1603,19 @@ Model: Preserve door-adjacent window, dog basket and temporary china fragments.
 - [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 513–514, ¶201 (B05-C020-P0201)](../../build/reader/book-05.html#B05-C020-P0201)
 - [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 514, ¶202 (B05-C020-P0202)](../../build/reader/book-05.html#B05-C020-P0202)
 - [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 514, ¶203 (B05-C020-P0203)](../../build/reader/book-05.html#B05-C020-P0203)
+
+## B05-317: Hagrid’s height against other people
+
+Umbridge, in his doorway, barely reaches his navel. Bent double among younger pupils he still rises at least four feet above them.
+
+Places: Hagrid’s cabin.
+
+Evidence: explicit; state: 1995 to 1996.
+
+Model: Relative checks. The navel comparison reads lower than twice a normal man.
+
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 513, ¶189 (B05-C020-P0189)](../../build/reader/book-05.html#B05-C020-P0189)
+- [Book 5, ch. 30, “Grawp”, ref p. 815–816, ¶67 (B05-C030-P0067)](../../build/reader/book-05.html#B05-C030-P0067)
 
 ## B05-134: Cabin-to-castle sightline and snow tracks
 
@@ -1864,6 +1979,19 @@ Model: Patch is a detour, with a low stone concealment wall and views towards Fo
 - [Book 6, ch. 22, “After the Burial”, ref p. 504, ¶124 (B06-C022-P0124)](../../build/reader/book-06.html#B06-C022-P0124)
 - [Book 6, ch. 22, “After the Burial”, ref p. 504–505, ¶129 (B06-C022-P0129)](../../build/reader/book-06.html#B06-C022-P0129)
 - [Book 6, ch. 22, “After the Burial”, ref p. 505, ¶130 (B06-C022-P0130)](../../build/reader/book-06.html#B06-C022-P0130)
+
+## B06-219: Hagrid’s height against other people
+
+Harry and Slughorn can reach no higher than his elbow.
+
+Places: Hagrid’s cabin.
+
+Evidence: explicit; state: Spring 1997.
+
+Model: A relative check that fits twice a normal man.
+
+- [Book 6, ch. 22, “After the Burial”, ref p. 505, ¶134 (B06-C022-P0134)](../../build/reader/book-06.html#B06-C022-P0134)
+- [Book 6, ch. 22, “After the Burial”, ref p. 508, ¶156 (B06-C022-P0156)](../../build/reader/book-06.html#B06-C022-P0156)
 
 ## B06-139: Hagrid rear window and back garden
 

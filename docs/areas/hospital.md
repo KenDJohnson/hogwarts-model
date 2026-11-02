@@ -55,6 +55,18 @@ Model: Vertical relation is explicit without a hospital floor number.
 - [Book 1, ch. 17, “The Man with Two Faces”, ref p. 309–310, ¶182 (B01-C017-P0182)](../../build/reader/book-01.html#B01-C017-P0182)
 - [Book 1, ch. 17, “The Man with Two Faces”, ref p. 310, ¶183 (B01-C017-P0183)](../../build/reader/book-01.html#B01-C017-P0183)
 
+## B02-167: Pitch to hospital wing
+
+At the Quidditch pitch, Lockhart sends Harry up to the Hospital Wing with two friends as escort.
+
+Places: Hospital wing, Quidditch pitch.
+
+Evidence: reported; state: November 1992.
+
+Model: Upward wording only. The castle stands above the pitch as well, so this does not fix a floor.
+
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 175, ¶104 (B02-C010-P0104)](../../build/reader/book-02.html#B02-C010-P0104)
+
 ## B02-066: Hospital wing — privacy curtains and bedside supplies
 
 A curtain can be drawn around Harry’s bed for changing. A bedside table holds a water jug; bed pillows and supplies for water and medicine are available. Visitors enter through the ward door.
@@ -459,6 +471,19 @@ Model: An upward direction is reported; the scene does not trace the stairs or s
 - [Book 4, ch. 16, “The Goblet of Fire”, ref p. 271–272, ¶110 (B04-C016-P0110)](../../build/reader/book-04.html#B04-C016-P0110)
 - [Book 4, ch. 16, “The Goblet of Fire”, ref p. 272, ¶111 (B04-C016-P0111)](../../build/reader/book-04.html#B04-C016-P0111)
 
+## B04-246: Hospital wing above the Defence office
+
+Speaking in the Defence teacher's office, Dumbledore asks for the matron to come down there; later, in the ward, he asks her to go down to that office.
+
+Places: Hospital wing, Defence teacher’s office.
+
+Evidence: reported; state: Night of 24–25 June 1995.
+
+Model: Two direction words in dialogue, both placing the ward above the Defence office. No count of floors is given.
+
+- [Book 4, ch. 36, “The Parting of the Ways”, ref p. 733, ¶4 (B04-C036-P0004)](../../build/reader/book-04.html#B04-C036-P0004)
+- [Book 4, ch. 36, “The Parting of the Ways”, ref p. 754, ¶170 (B04-C036-P0170)](../../build/reader/book-04.html#B04-C036-P0170)
+
 ## B04-234: Headmaster’s office to hospital wing
 
 Harry, Dumbledore and Sirius leave the office and descend a flight of stairs to the hospital-wing entrance.
@@ -745,6 +770,18 @@ Model: Local bed adjacency and light effect. Ron’s statement that he heard the
 - [Book 6, ch. 19, “Elf Tails”, ref p. 434, ¶155 (B06-C019-P0155)](../../build/reader/book-06.html#B06-C019-P0155)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 435, ¶165 (B06-C019-P0165)](../../build/reader/book-06.html#B06-C019-P0165)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 437, ¶177 (B06-C019-P0177)](../../build/reader/book-06.html#B06-C019-P0177)
+
+## B06-215: Hospital wing — commentary heard from the pitch
+
+Ron says he could hear the Quidditch match commentary from his bed in the ward.
+
+Places: Hospital wing, Quidditch pitch.
+
+Evidence: reported; state: March 1997.
+
+Model: A hearing range only. The text gives no bearing or distance, and match commentary may be magically loud.
+
+- [Book 6, ch. 19, “Elf Tails”, ref p. 435, ¶166 (B06-C019-P0166)](../../build/reader/book-06.html#B06-C019-P0166)
 
 ## B06-117: House-elf arrival in hospital wing
 

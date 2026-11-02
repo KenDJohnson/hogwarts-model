@@ -428,6 +428,20 @@ Model: Both entrances have seventh-floor evidence, but are geographically separa
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 489, ¶161 (B06-C021-P0161)](../../build/reader/book-06.html#B06-C021-P0161)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 489, ¶162 (B06-C021-P0162)](../../build/reader/book-06.html#B06-C021-P0162)
 
+## B06-216: Fat Lady's corridor to Headmaster's gargoyle
+
+Harry runs back along the corridor from the Fat Lady and within minutes is giving the password to the gargoyle.
+
+Places: Headmaster’s office, Seventh-floor corridor.
+
+Evidence: explicit; state: Spring 1997.
+
+Model: Supports a short same-level link from the Gryffindor entrance to the gargoyle. No stairs are mentioned, but he is running and the route is not traced.
+
+- [Book 6, ch. 23, “Horcruxes”, ref p. 517, ¶15 (B06-C023-P0015)](../../build/reader/book-06.html#B06-C023-P0015)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 517, ¶16 (B06-C023-P0016)](../../build/reader/book-06.html#B06-C023-P0016)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 517, ¶17 (B06-C023-P0017)](../../build/reader/book-06.html#B06-C023-P0017)
+
 ## B06-152: Sixth-floor boys’ bathroom approach
 
 From a seventh-floor detour Harry sees Draco’s Map dot in a boys’ bathroom one floor below. After colliding with a suit of armour, he runs down a marble staircase and along the lower passage to the bathroom door; he later returns there from the Room’s seventh-floor corridor.

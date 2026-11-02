@@ -73,6 +73,19 @@ Model: Season-dependent perception and a route direction; no staff-room entrance
 - [Book 1, ch. 16, “Through the Trapdoor”, ref p. 273–274, ¶73 (B01-C016-P0073)](../../build/reader/book-01.html#B01-C016-P0073)
 - [Book 1, ch. 16, “Through the Trapdoor”, ref p. 274, ¶74 (B01-C016-P0074)](../../build/reader/book-01.html#B01-C016-P0074)
 
+## B01-150: Entrance Hall — search for the Headmaster's office
+
+Near the end of their first year Harry, Ron and Hermione look around the Entrance Hall for any sign to Dumbledore's office. They have never been told where he lives and know nobody who has been sent to see him.
+
+Places: Headmaster’s office.
+
+Evidence: explicit; state: June 1992.
+
+Model: Establishes that the office is unsigned and off any everyday pupil route. No location is given here.
+
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 271, ¶39 (B01-C016-P0039)](../../build/reader/book-01.html#B01-C016-P0039)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 271–272, ¶40 (B01-C016-P0040)](../../build/reader/book-01.html#B01-C016-P0040)
+
 ## B02-011: Entrance Hall to Snape’s office
 
 Snape takes them up the steps into the vast torchlit echoing Entrance Hall, then down a narrow stone staircase into the dungeons, opening a door halfway along a cold passage to his office.
@@ -1425,6 +1438,19 @@ Model: The destination is described as up; no intervening floor count is given.
 - [Book 4, ch. 36, “The Parting of the Ways”, ref p. 734, ¶14 (B04-C036-P0014)](../../build/reader/book-04.html#B04-C036-P0014)
 - [Book 4, ch. 36, “The Parting of the Ways”, ref p. 735, ¶17 (B04-C036-P0017)](../../build/reader/book-04.html#B04-C036-P0017)
 - [Book 4, ch. 36, “The Parting of the Ways”, ref p. 735, ¶19 (B04-C036-P0019)](../../build/reader/book-04.html#B04-C036-P0019)
+
+## B04-246: Hospital wing above the Defence office
+
+Speaking in the Defence teacher's office, Dumbledore asks for the matron to come down there; later, in the ward, he asks her to go down to that office.
+
+Places: Hospital wing, Defence teacher’s office.
+
+Evidence: reported; state: Night of 24–25 June 1995.
+
+Model: Two direction words in dialogue, both placing the ward above the Defence office. No count of floors is given.
+
+- [Book 4, ch. 36, “The Parting of the Ways”, ref p. 733, ¶4 (B04-C036-P0004)](../../build/reader/book-04.html#B04-C036-P0004)
+- [Book 4, ch. 36, “The Parting of the Ways”, ref p. 754, ¶170 (B04-C036-P0170)](../../build/reader/book-04.html#B04-C036-P0170)
 
 ## B04-234: Headmaster’s office to hospital wing
 
@@ -2986,6 +3012,20 @@ Model: Both entrances have seventh-floor evidence, but are geographically separa
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 489, ¶159 (B06-C021-P0159)](../../build/reader/book-06.html#B06-C021-P0159)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 489, ¶161 (B06-C021-P0161)](../../build/reader/book-06.html#B06-C021-P0161)
 - [Book 6, ch. 21, “The Unknowable Room”, ref p. 489, ¶162 (B06-C021-P0162)](../../build/reader/book-06.html#B06-C021-P0162)
+
+## B06-216: Fat Lady's corridor to Headmaster's gargoyle
+
+Harry runs back along the corridor from the Fat Lady and within minutes is giving the password to the gargoyle.
+
+Places: Headmaster’s office, Seventh-floor corridor.
+
+Evidence: explicit; state: Spring 1997.
+
+Model: Supports a short same-level link from the Gryffindor entrance to the gargoyle. No stairs are mentioned, but he is running and the route is not traced.
+
+- [Book 6, ch. 23, “Horcruxes”, ref p. 517, ¶15 (B06-C023-P0015)](../../build/reader/book-06.html#B06-C023-P0015)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 517, ¶16 (B06-C023-P0016)](../../build/reader/book-06.html#B06-C023-P0016)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 517, ¶17 (B06-C023-P0017)](../../build/reader/book-06.html#B06-C023-P0017)
 
 ## B06-148: Headmaster office listening portraits
 

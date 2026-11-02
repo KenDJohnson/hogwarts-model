@@ -43,6 +43,19 @@ Model: Oak presence is observed; no numeric tree height. Brooms are a lesson ins
 - [Book 1, ch. 9, “The Midnight Duel”, ref p. 150, ¶30 (B01-C009-P0030)](../../build/reader/book-01.html#B01-C009-P0030)
 - [Book 1, ch. 9, “The Midnight Duel”, ref p. 151, ¶46 (B01-C009-P0046)](../../build/reader/book-01.html#B01-C009-P0046)
 
+## B01-157: Fifty-foot dive at the flying lawn
+
+McGonagall tells Wood that Harry caught the falling ball after a fifty-foot dive during the flying lesson.
+
+Places: Flying-lesson lawn.
+
+Evidence: reported; state: September 1991.
+
+Model: McGonagall's figure. With Malfoy hovering level with the oak's top branches, it gives a rough idea of the tree's height.
+
+- [Book 1, ch. 9, “The Midnight Duel”, ref p. 152, ¶57 (B01-C009-P0057)](../../build/reader/book-01.html#B01-C009-P0057)
+- [Book 1, ch. 9, “The Midnight Duel”, ref p. 154, ¶81 (B01-C009-P0081)](../../build/reader/book-01.html#B01-C009-P0081)
+
 ## B01-042: Flying lawn to classrooms
 
 McGonagall takes Harry back up the front steps, up the marble staircase, through doors and corridors to Flitwick’s classroom, then farther along the corridor to an unoccupied classroom.
@@ -568,6 +581,21 @@ Model: Preserve both this auditory description and the earlier two-hundred-yard 
 - [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 339–340, ¶91 (B04-C019-P0091)](../../build/reader/book-04.html#B04-C019-P0091)
 - [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 340, ¶92 (B04-C019-P0092)](../../build/reader/book-04.html#B04-C019-P0092)
 
+## B04-258: Moody's office to Greenhouse Three
+
+After talking to Moody in his office, Harry hurries to greenhouse three and arrives ten minutes later.
+
+Places: Greenhouses.
+
+Evidence: explicit; state: November 1994.
+
+Model: A hurried journey from an upper corridor out to the greenhouses, with the end of the talk included in the ten minutes.
+
+- [Book 4, ch. 20, “The First Task”, ref p. 358, ¶41 (B04-C020-P0041)](../../build/reader/book-04.html#B04-C020-P0041)
+- [Book 4, ch. 20, “The First Task”, ref p. 358, ¶43 (B04-C020-P0043)](../../build/reader/book-04.html#B04-C020-P0043)
+- [Book 4, ch. 20, “The First Task”, ref p. 361, ¶73 (B04-C020-P0073)](../../build/reader/book-04.html#B04-C020-P0073)
+- [Book 4, ch. 20, “The First Task”, ref p. 361–362, ¶74 (B04-C020-P0074)](../../build/reader/book-04.html#B04-C020-P0074)
+
 ## B04-088: Greenhouse three Flutterby Bush
 
 Hermione prunes a quivering Flutterby Bush in greenhouse three.
@@ -639,6 +667,18 @@ Evidence: explicit; state: January 1995.
 Model: A seasonal loss of visibility, not opaque glazing or a permanent greenhouse alteration.
 
 - [Book 4, ch. 24, “Rita Skeeter’s Scoop”, ref p. 458, ¶8 (B04-C024-P0008)](../../build/reader/book-04.html#B04-C024-P0008)
+
+## B04-256: Greenhouse door and castle steps
+
+Leaving a greenhouse for Care of Magical Creatures, Harry and Ron see Malfoy's group coming down the castle's stone steps, and Pansy Parkinson calls across to Harry.
+
+Places: Greenhouses.
+
+Evidence: explicit; state: Spring 1995.
+
+Model: Sightline and calling range between the way out of the greenhouses and the steps; no distance is given.
+
+- [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 573, ¶66 (B04-C028-P0066)](../../build/reader/book-04.html#B04-C028-P0066)
 
 ## B04-185: Castle to Quidditch pitch
 

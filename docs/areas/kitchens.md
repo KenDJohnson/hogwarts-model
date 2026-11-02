@@ -152,6 +152,18 @@ Model: Explicitly Harry’s deduction from the observed alignment and timing; th
 
 - [Book 4, ch. 21, “The House-Elf Liberation Front”, ref p. 396, ¶118 (B04-C021-P0118)](../../build/reader/book-04.html#B04-C021-P0118)
 
+## B04-245: Great Hall and kitchens — Christmas lunch quantities
+
+The Christmas Day meal in the Hall ran to no fewer than a hundred turkeys and Christmas puddings, with big heaps of crackers.
+
+Places: Great Hall, Kitchens.
+
+Evidence: explicit; state: 25 December 1994.
+
+Model: A catering scale for the kitchens, not a seat count. The number may apply to the turkeys alone or to the puddings as well.
+
+- [Book 4, ch. 23, “The Yule Ball”, ref p. 431, ¶59 (B04-C023-P0059)](../../build/reader/book-04.html#B04-C023-P0059)
+
 ## B04-179: Kitchen hearth condition
 
 The brick behind Winky’s stool is smoke-blackened. She falls asleep on the hearth and elves cover her with a large checked tablecloth, while a Butterbeer bottle rolls across the flagged floor.

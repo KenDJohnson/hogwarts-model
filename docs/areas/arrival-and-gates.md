@@ -35,6 +35,18 @@ Model: Journey sequence; the book does not identify these individual landforms o
 - [Book 1, ch. 6, “The Journey from Platform Nine and Three-Quarters”, ref p. 107, ¶194 (B01-C006-P0194)](../../build/reader/book-01.html#B01-C006-P0194)
 - [Book 1, ch. 6, “The Journey from Platform Nine and Three-Quarters”, ref p. 113, ¶268 (B01-C006-P0268)](../../build/reader/book-01.html#B01-C006-P0268)
 
+## B01-153: Train announcement and luggage
+
+A voice carried through the train announces arrival in five minutes and tells pupils to leave their luggage aboard, since it reaches the school by another route.
+
+Places: Hogwarts Express, Hogsmeade station.
+
+Evidence: explicit; state: 1 September 1991.
+
+Model: Trunks do not travel in the coaches or boats. How they reach the dormitories is not stated.
+
+- [Book 1, ch. 6, “The Journey from Platform Nine and Three-Quarters”, ref p. 114, ¶270 (B01-C006-P0270)](../../build/reader/book-01.html#B01-C006-P0270)
+
 ## B01-005: Arrival station to lake
 
 The train stops at a tiny dark platform. First-years follow Hagrid’s lamp down an apparently steep, narrow path, round a bend to the lakeside. Harry thinks thick trees flank the dark path.
@@ -206,6 +218,18 @@ Model: Confirms a lower crash area relative to the entrance approach; no distanc
 - [Book 2, ch. 5, “The Whomping Willow”, ref p. 76, ¶109 (B02-C005-P0109)](../../build/reader/book-02.html#B02-C005-P0109)
 - [Book 2, ch. 5, “The Whomping Willow”, ref p. 76, ¶110 (B02-C005-P0110)](../../build/reader/book-02.html#B02-C005-P0110)
 - [Book 2, ch. 5, “The Whomping Willow”, ref p. 76, ¶111 (B02-C005-P0111)](../../build/reader/book-02.html#B02-C005-P0111)
+
+## B02-168: Named points on the flight north
+
+A 1992 newspaper item about the flying car reports sightings over London, at noon in Norfolk, and by a man from Peebles. These are the only named places on the journey north; no passage puts the school in a named county or country.
+
+Places: Hogwarts Express, Surrounding mountains and landscape.
+
+Evidence: reported; state: 1 September 1992.
+
+Model: Places on a route, not the school's location. Do not state a country for Hogwarts from outside knowledge.
+
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 79, ¶132 (B02-C005-P0132)](../../build/reader/book-02.html#B02-C005-P0132)
 
 ## B02-068: Sealed school gateway — Dobby’s admission
 

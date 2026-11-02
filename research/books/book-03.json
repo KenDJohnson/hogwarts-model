@@ -3149,6 +3149,95 @@
       "certainty": "explicit",
       "temporal": "1994 January term",
       "model_notes": "A recurrent study setup within the existing common room, with portable books and papers; it does not imply a separate permanent study room."
+    },
+    {
+      "id": "B03-167",
+      "location": "Gryffindor common room capacity",
+      "category": "interior",
+      "description": "The whole House stays up all night together in the common room.",
+      "evidence": [
+        "B03-C014-P0001"
+      ],
+      "certainty": "explicit",
+      "temporal": "February 1994 night",
+      "model_notes": "A capacity statement without a head count."
+    },
+    {
+      "id": "B03-168",
+      "location": "Gryffindor boys' stair, acoustic link",
+      "category": "route",
+      "description": "A strangled yell from the dormitory comes echoing down the boys' stair and silences the crowded common room, which turns to the stair's foot as footsteps grow louder.",
+      "evidence": [
+        "B03-C012-P0186"
+      ],
+      "certainty": "explicit",
+      "temporal": "January to February 1994",
+      "model_notes": "The stair carries sound from the top room to the common room, and its foot is in view of the room."
+    },
+    {
+      "id": "B03-169",
+      "location": "Hagrid’s stature",
+      "category": "interior",
+      "description": "Hagrid is at least double a normal man’s size, so that he nearly collapses a boy who is supporting him.",
+      "evidence": [
+        "B03-C011-P0059"
+      ],
+      "certainty": "explicit",
+      "temporal": "December 1993",
+      "model_notes": "Sets the scale of the cabin’s furniture."
+    },
+    {
+      "id": "B03-170",
+      "location": "Far bank at night",
+      "category": "grounds",
+      "description": "Harry later reflects that the figure he saw across the lake was too far away to make out properly.",
+      "evidence": [
+        "B03-C021-P0259"
+      ],
+      "certainty": "reported",
+      "temporal": "6 June, third year",
+      "model_notes": "A distance judgement, at night and with failing sight. Other passages the same night show actions on that bank were still visible."
+    },
+    {
+      "id": "B03-171",
+      "location": "Quidditch stadium attendance",
+      "category": "grounds",
+      "description": "The whole school turns out for a match even in a gale.",
+      "evidence": [
+        "B03-C009-P0134"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1993",
+      "model_notes": "The capacity must cover the school."
+    },
+    {
+      "id": "B03-172",
+      "location": "Team changing rooms",
+      "category": "interior",
+      "description": "In a match the opposing team walks out from the far side of the pitch.",
+      "evidence": [
+        "B03-C009-P0137"
+      ],
+      "certainty": "explicit",
+      "temporal": "November 1993",
+      "model_notes": "Points to changing rooms on more than one side. Does not say whether each house has its own."
+    },
+    {
+      "id": "B03-173",
+      "location": "Honeydukes tunnel and Hogsmeade road — race back to the castle",
+      "category": "route",
+      "description": "After Malfoy runs from the Shrieking Shack, Harry sprints from Honeydukes through the tunnel to the third floor and has only just left the witch statue when Snape arrives. In his office Snape says Malfoy has already reached him with the story.",
+      "evidence": [
+        "B03-C014-P0119",
+        "B03-C014-P0122",
+        "B03-C014-P0124",
+        "B03-C014-P0125",
+        "B03-C014-P0133",
+        "B03-C014-P0135"
+      ],
+      "certainty": "explicit",
+      "temporal": "After the February 1994 dormitory intrusion",
+      "model_notes": "A rough timing comparison only: Malfoy covers the road from the Shack to the dungeons and Snape then climbs to the third floor in about the time Harry takes to run the tunnel. Exact durations are not given."
     }
   ],
   "chapter_reviews": [

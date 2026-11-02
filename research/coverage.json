@@ -5,12 +5,12 @@
   "additional_text_blocks": 33,
   "reviewed_additional_text_blocks": 33,
   "complete": true,
-  "entries": 1380,
+  "entries": 1443,
   "books": [
     {
       "book": 1,
       "title": "Harry Potter and the Philosopher's Stone",
-      "entries": 145,
+      "entries": 157,
       "paragraphs": 3094,
       "reviewed": 3094,
       "additional_text_blocks": 0,
@@ -191,7 +191,7 @@
     {
       "book": 2,
       "title": "Harry Potter and the Chamber of Secrets",
-      "entries": 163,
+      "entries": 171,
       "paragraphs": 3217,
       "reviewed": 3217,
       "additional_text_blocks": 4,
@@ -382,7 +382,7 @@
     {
       "book": 3,
       "title": "Harry Potter and the Prisoner of Azkaban",
-      "entries": 166,
+      "entries": 173,
       "paragraphs": 4227,
       "reviewed": 4227,
       "additional_text_blocks": 0,
@@ -613,7 +613,7 @@
     {
       "book": 4,
       "title": "Harry Potter and the Goblet of Fire",
-      "entries": 243,
+      "entries": 260,
       "paragraphs": 6131,
       "reviewed": 6131,
       "additional_text_blocks": 0,
@@ -994,7 +994,7 @@
     {
       "book": 5,
       "title": "Harry Potter and the Order of the Phoenix",
-      "entries": 312,
+      "entries": 320,
       "paragraphs": 9069,
       "reviewed": 9069,
       "additional_text_blocks": 0,
@@ -1385,7 +1385,7 @@
     {
       "book": 6,
       "title": "Harry Potter and the Half-Blood Prince",
-      "entries": 212,
+      "entries": 221,
       "paragraphs": 5809,
       "reviewed": 5809,
       "additional_text_blocks": 26,
@@ -1696,7 +1696,7 @@
     {
       "book": 7,
       "title": "Harry Potter and the Deathly Hallows",
-      "entries": 139,
+      "entries": 141,
       "paragraphs": 6879,
       "reviewed": 6879,
       "additional_text_blocks": 3,

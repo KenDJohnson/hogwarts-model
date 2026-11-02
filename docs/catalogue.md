@@ -1,12 +1,31 @@
 # Hogwarts description catalogue
 
-1380 reviewed description records. Reading ledger: 38,426/38,426 paragraphs plus 33/33 additional text fragments.
+1443 reviewed description records. Reading ledger: 38,426/38,426 paragraphs plus 33/33 additional text fragments.
 
 All pages below are **project reference pages (ref250-v1, 250 words)**, not print pages. Book titles and exact source paths are in the machine-readable catalogue. Rebuild the local reader to open source-text links.
 
 [Location index](location-index.md) · [Coverage and unread ranges](coverage.md)
 
 ## Book 1: Harry Potter and the Philosopher's Stone
+
+<a id="b01-154"></a>
+### B01-154 · Hagrid’s stature
+
+Hagrid is given as almost double a normal man’s height and five or more times his width, and later as twice as tall as anyone around him.
+
+- Category: interior; evidence: explicit; state: 1981 and July 1991.
+- Model: No height in feet is given for the adult. These figures set the scale of the cabin’s doors, ceiling and furniture.
+- [Book 1, ch. 1, “The Boy Who Lived”, ref p. 16, ¶89 (B01-C001-P0089)](../build/reader/book-01.html#B01-C001-P0089)
+- [Book 1, ch. 5, “Diagon Alley”, ref p. 68, ¶54 (B01-C005-P0054)](../build/reader/book-01.html#B01-C005-P0054)
+
+<a id="b01-147"></a>
+### B01-147 · Entrance Hall — the house used as its size comparison
+
+The Dursleys’ house, the yardstick given for the size of the Entrance Hall, has four bedrooms upstairs: one for the couple, one for visitors and two used by Dudley.
+
+- Category: interior; evidence: explicit; state: Summer 1991.
+- Model: Shows the comparison house is a two-storey, four-bedroom home. No dimensions are given.
+- [Book 1, ch. 3, “The Letters from No One”, ref p. 39–40, ¶66 (B01-C003-P0066)](../build/reader/book-01.html#B01-C003-P0066)
 
 <a id="b01-001"></a>
 ### B01-001 · Hogwarts — historical security
@@ -16,6 +35,15 @@ Hagrid reports that Hogwarts was among the few safe places during Voldemort’s 
 - Category: history; evidence: reported; state: First rise of Voldemort, before October 1981; reported July 1991.
 - Model: A historical security claim, not evidence of a particular wall, ward, or physical defensive mechanism.
 - [Book 1, ch. 4, “The Keeper of the Keys”, ref p. 57, ¶107 (B01-C004-P0107)](../build/reader/book-01.html#B01-C004-P0107)
+
+<a id="b01-146"></a>
+### B01-146 · Hogwarts year groups
+
+Hagrid gives the school course as seven years.
+
+- Category: history; evidence: reported; state: July 1991.
+- Model: Basis for counting year groups. Says nothing about how many pupils or rooms a year has.
+- [Book 1, ch. 4, “The Keeper of the Keys”, ref p. 62, ¶135 (B01-C004-P0135)](../build/reader/book-01.html#B01-C004-P0135)
 
 <a id="b01-002"></a>
 ### B01-002 · Hagrid’s hut
@@ -50,6 +78,15 @@ After London and agricultural fields, the train passes woods, winding rivers and
 - [Book 1, ch. 6, “The Journey from Platform Nine and Three-Quarters”, ref p. 103, ¶163 (B01-C006-P0163)](../build/reader/book-01.html#B01-C006-P0163)
 - [Book 1, ch. 6, “The Journey from Platform Nine and Three-Quarters”, ref p. 107, ¶194 (B01-C006-P0194)](../build/reader/book-01.html#B01-C006-P0194)
 - [Book 1, ch. 6, “The Journey from Platform Nine and Three-Quarters”, ref p. 113, ¶268 (B01-C006-P0268)](../build/reader/book-01.html#B01-C006-P0268)
+
+<a id="b01-153"></a>
+### B01-153 · Train announcement and luggage
+
+A voice carried through the train announces arrival in five minutes and tells pupils to leave their luggage aboard, since it reaches the school by another route.
+
+- Category: route; evidence: explicit; state: 1 September 1991.
+- Model: Trunks do not travel in the coaches or boats. How they reach the dormitories is not stated.
+- [Book 1, ch. 6, “The Journey from Platform Nine and Three-Quarters”, ref p. 114, ¶270 (B01-C006-P0270)](../build/reader/book-01.html#B01-C006-P0270)
 
 <a id="b01-005"></a>
 ### B01-005 · Arrival station to lake
@@ -164,6 +201,15 @@ Hermione says she read that the ceiling is enchanted to resemble the sky outside
 - Model: Character reporting a school history; do not equate appearance with an actual opening.
 - [Book 1, ch. 7, “The Sorting Hat”, ref p. 119–120, ¶28 (B01-C007-P0028)](../build/reader/book-01.html#B01-C007-P0028)
 
+<a id="b01-151"></a>
+### B01-151 · School population
+
+At the first Sorting the Hall holds hundreds of pupils’ faces.
+
+- Category: interior; evidence: explicit; state: September 1991.
+- Model: No exact roll is stated anywhere. The living school is never called a thousand.
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 119–120, ¶28 (B01-C007-P0028)](../build/reader/book-01.html#B01-C007-P0028)
+
 <a id="b01-016"></a>
 ### B01-016 · Great Hall — sorting furniture and house table order
 
@@ -176,6 +222,21 @@ A four-legged stool is set before the first-years for the Sorting Hat. From thei
 - [Book 1, ch. 7, “The Sorting Hat”, ref p. 122, ¶71 (B01-C007-P0071)](../build/reader/book-01.html#B01-C007-P0071)
 - [Book 1, ch. 7, “The Sorting Hat”, ref p. 122, ¶76 (B01-C007-P0076)](../build/reader/book-01.html#B01-C007-P0076)
 - [Book 1, ch. 7, “The Sorting Hat”, ref p. 122, ¶77 (B01-C007-P0077)](../build/reader/book-01.html#B01-C007-P0077)
+
+<a id="b01-152"></a>
+### B01-152 · Sorting rolls and Harry’s year
+
+The 1991 roll calls 21 named first-years aloud, while Crabbe and Goyle are already seated when Malfoy is called. Few remain after Malfoy and only three after Harry.
+
+- Category: interior; evidence: explicit; state: September 1991.
+- Model: The list skips names, since Dean Thomas is never called yet shares Harry’s dormitory, so the true count is higher. The roll is a lower limit for a year’s size.
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 122, ¶77 (B01-C007-P0077)](../build/reader/book-01.html#B01-C007-P0077)
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 123, ¶85 (B01-C007-P0085)](../build/reader/book-01.html#B01-C007-P0085)
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 123, ¶89 (B01-C007-P0089)](../build/reader/book-01.html#B01-C007-P0089)
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 123, ¶90 (B01-C007-P0090)](../build/reader/book-01.html#B01-C007-P0090)
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 123, ¶91 (B01-C007-P0091)](../build/reader/book-01.html#B01-C007-P0091)
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 125, ¶102 (B01-C007-P0102)](../build/reader/book-01.html#B01-C007-P0102)
+- [Book 1, ch. 7, “The Sorting Hat”, ref p. 125, ¶104 (B01-C007-P0104)](../build/reader/book-01.html#B01-C007-P0104)
 
 <a id="b01-017"></a>
 ### B01-017 · Great Hall — High Table chair
@@ -343,6 +404,16 @@ About a hundred owls stream into the Great Hall at breakfast, circle the tables 
 - [Book 1, ch. 8, “The Potions Master”, ref p. 138, ¶25 (B01-C008-P0025)](../build/reader/book-01.html#B01-C008-P0025)
 - [Book 1, ch. 8, “The Potions Master”, ref p. 138–139, ¶26 (B01-C008-P0026)](../build/reader/book-01.html#B01-C008-P0026)
 
+<a id="b01-155"></a>
+### B01-155 · Castle to Hagrid’s cabin — walking time
+
+Hagrid invites Harry to tea at around three; Harry and Ron leave the castle at five minutes to three and walk across the grounds to his house.
+
+- Category: route; evidence: explicit; state: September 1991, first school week.
+- Model: Implies a walk of roughly five minutes if they arrive on time. The arrival time itself is not stated.
+- [Book 1, ch. 8, “The Potions Master”, ref p. 139, ¶28 (B01-C008-P0028)](../build/reader/book-01.html#B01-C008-P0028)
+- [Book 1, ch. 8, “The Potions Master”, ref p. 143, ¶66 (B01-C008-P0066)](../build/reader/book-01.html#B01-C008-P0066)
+
 <a id="b01-034"></a>
 ### B01-034 · Potions dungeon
 
@@ -427,6 +498,16 @@ Twenty school broomsticks lie in neat lines on the lawn for the lesson. A nearby
 - [Book 1, ch. 9, “The Midnight Duel”, ref p. 149, ¶22 (B01-C009-P0022)](../build/reader/book-01.html#B01-C009-P0022)
 - [Book 1, ch. 9, “The Midnight Duel”, ref p. 150, ¶30 (B01-C009-P0030)](../build/reader/book-01.html#B01-C009-P0030)
 - [Book 1, ch. 9, “The Midnight Duel”, ref p. 151, ¶46 (B01-C009-P0046)](../build/reader/book-01.html#B01-C009-P0046)
+
+<a id="b01-157"></a>
+### B01-157 · Fifty-foot dive at the flying lawn
+
+McGonagall tells Wood that Harry caught the falling ball after a fifty-foot dive during the flying lesson.
+
+- Category: grounds; evidence: reported; state: September 1991.
+- Model: McGonagall's figure. With Malfoy hovering level with the oak's top branches, it gives a rough idea of the tree's height.
+- [Book 1, ch. 9, “The Midnight Duel”, ref p. 152, ¶57 (B01-C009-P0057)](../build/reader/book-01.html#B01-C009-P0057)
+- [Book 1, ch. 9, “The Midnight Duel”, ref p. 154, ¶81 (B01-C009-P0081)](../build/reader/book-01.html#B01-C009-P0081)
 
 <a id="b01-042"></a>
 ### B01-042 · Flying lawn to classrooms
@@ -621,6 +702,17 @@ Leaving the feast, pupils climb stairs. Harry and Ron double back with Hufflepuf
 - [Book 1, ch. 10, “Hallowe’en”, ref p. 178, ¶112 (B01-C010-P0112)](../build/reader/book-01.html#B01-C010-P0112)
 - [Book 1, ch. 10, “Hallowe’en”, ref p. 178, ¶119 (B01-C010-P0119)](../build/reader/book-01.html#B01-C010-P0119)
 
+<a id="b01-148"></a>
+### B01-148 · Girls' toilets — troll clearance
+
+A troll twelve feet tall, carrying a huge club, goes through the doorway of the girls' toilets and moves about inside.
+
+- Category: temporary; evidence: explicit; state: 31 October 1991.
+- Model: The height is narrated. How the creature fitted the doorway or ceiling is not: it slouches in, so either the opening is very tall or it stooped.
+- [Book 1, ch. 10, “Hallowe’en”, ref p. 177–178, ¶111 (B01-C010-P0111)](../build/reader/book-01.html#B01-C010-P0111)
+- [Book 1, ch. 10, “Hallowe’en”, ref p. 178, ¶112 (B01-C010-P0112)](../build/reader/book-01.html#B01-C010-P0112)
+- [Book 1, ch. 10, “Hallowe’en”, ref p. 178, ¶122 (B01-C010-P0122)](../build/reader/book-01.html#B01-C010-P0122)
+
 <a id="b01-058"></a>
 ### B01-058 · Girls’ toilets — door and fixtures
 
@@ -719,6 +811,15 @@ The stands rise high around the pitch, with a top row and rows traversable behin
 - [Book 1, ch. 11, “Quidditch”, ref p. 193–194, ¶107 (B01-C011-P0107)](../build/reader/book-01.html#B01-C011-P0107)
 - [Book 1, ch. 11, “Quidditch”, ref p. 194, ¶113 (B01-C011-P0113)](../build/reader/book-01.html#B01-C011-P0113)
 - [Book 1, ch. 11, “Quidditch”, ref p. 194–195, ¶114 (B01-C011-P0114)](../build/reader/book-01.html#B01-C011-P0114)
+
+<a id="b01-156"></a>
+### B01-156 · Quidditch stadium attendance
+
+The whole school seems to be in the stands. Many pupils have binoculars, because the raised seats do not always give a good view.
+
+- Category: grounds; evidence: explicit; state: November 1991.
+- Model: The capacity must cover the school. This passage hedges with seemed.
+- [Book 1, ch. 11, “Quidditch”, ref p. 187, ¶42 (B01-C011-P0042)](../build/reader/book-01.html#B01-C011-P0042)
 
 <a id="b01-066"></a>
 ### B01-066 · Quidditch stands — supporter banner
@@ -1200,6 +1301,15 @@ Returning from the library, Harry hears Quirrell in a classroom ahead. After Qui
 - [Book 1, ch. 15, “The Forbidden Forest”, ref p. 250, ¶33 (B01-C015-P0033)](../build/reader/book-01.html#B01-C015-P0033)
 - [Book 1, ch. 15, “The Forbidden Forest”, ref p. 251, ¶35 (B01-C015-P0035)](../build/reader/book-01.html#B01-C015-P0035)
 
+<a id="b01-149"></a>
+### B01-149 · Library — books around the readers
+
+Sitting in the library, Ron gazes upward at the many thousands of volumes around them.
+
+- Category: interior; evidence: explicit; state: Spring 1992.
+- Model: A loose impression that agrees with the general count. It suggests shelving rising above seated eye level near a reading place.
+- [Book 1, ch. 15, “The Forbidden Forest”, ref p. 251, ¶38 (B01-C015-P0038)](../build/reader/book-01.html#B01-C015-P0038)
+
 <a id="b01-107"></a>
 ### B01-107 · Entrance Hall to forest-edge rendezvous
 
@@ -1423,6 +1533,16 @@ Returning from sunlit grounds, the Entrance Hall feels cold and gloomy. Snape le
 - [Book 1, ch. 16, “Through the Trapdoor”, ref p. 273, ¶71 (B01-C016-P0071)](../build/reader/book-01.html#B01-C016-P0071)
 - [Book 1, ch. 16, “Through the Trapdoor”, ref p. 273–274, ¶73 (B01-C016-P0073)](../build/reader/book-01.html#B01-C016-P0073)
 - [Book 1, ch. 16, “Through the Trapdoor”, ref p. 274, ¶74 (B01-C016-P0074)](../build/reader/book-01.html#B01-C016-P0074)
+
+<a id="b01-150"></a>
+### B01-150 · Entrance Hall — search for the Headmaster's office
+
+Near the end of their first year Harry, Ron and Hermione look around the Entrance Hall for any sign to Dumbledore's office. They have never been told where he lives and know nobody who has been sent to see him.
+
+- Category: route; evidence: explicit; state: June 1992.
+- Model: Establishes that the office is unsigned and off any everyday pupil route. No location is given here.
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 271, ¶39 (B01-C016-P0039)](../build/reader/book-01.html#B01-C016-P0039)
+- [Book 1, ch. 16, “Through the Trapdoor”, ref p. 271–272, ¶40 (B01-C016-P0040)](../build/reader/book-01.html#B01-C016-P0040)
 
 <a id="b01-122"></a>
 ### B01-122 · Gryffindor common room — grandfather clock
@@ -1834,6 +1954,15 @@ Hagrid says flesh-eating slugs are ruining the school cabbages and that he is bu
 - Model: Establishes school cabbage-growing and a pest problem, without identifying a bed, greenhouse or location beside Hagrid’s hut.
 - [Book 2, ch. 4, “At Flourish and Blotts”, ref p. 55, ¶120 (B02-C004-P0120)](../build/reader/book-02.html#B02-C004-P0120)
 
+<a id="b02-169"></a>
+### B02-169 · Hagrid’s height against other people
+
+In a crowded street Hagrid shows head and shoulders above everyone else.
+
+- Category: interior; evidence: explicit; state: August 1992.
+- Model: A relative check. This reads lower than twice a normal man.
+- [Book 2, ch. 4, “At Flourish and Blotts”, ref p. 56, ¶140 (B02-C004-P0140)](../build/reader/book-02.html#B02-C004-P0140)
+
 <a id="b02-003"></a>
 ### B02-003 · King’s Cross — sealed school gateway
 
@@ -1970,6 +2099,15 @@ Shelves of large specimen jars line the shadowy walls. A large slimy object in g
 - [Book 2, ch. 5, “The Whomping Willow”, ref p. 80–81, ¶147 (B02-C005-P0147)](../build/reader/book-02.html#B02-C005-P0147)
 - [Book 2, ch. 5, “The Whomping Willow”, ref p. 83, ¶167 (B02-C005-P0167)](../build/reader/book-02.html#B02-C005-P0167)
 
+<a id="b02-168"></a>
+### B02-168 · Named points on the flight north
+
+A 1992 newspaper item about the flying car reports sightings over London, at noon in Norfolk, and by a man from Peebles. These are the only named places on the journey north; no passage puts the school in a named county or country.
+
+- Category: route; evidence: reported; state: 1 September 1992.
+- Model: Places on a route, not the school's location. Do not state a country for Hogwarts from outside knowledge.
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 79, ¶132 (B02-C005-P0132)](../build/reader/book-02.html#B02-C005-P0132)
+
 <a id="b02-008"></a>
 ### B02-008 · Whomping Willow — collision damage
 
@@ -2019,6 +2157,16 @@ The new password Wattlebird opens the portrait onto the crowded circular common 
 - [Book 2, ch. 5, “The Whomping Willow”, ref p. 84, ¶182 (B02-C005-P0182)](../build/reader/book-02.html#B02-C005-P0182)
 - [Book 2, ch. 5, “The Whomping Willow”, ref p. 84, ¶183 (B02-C005-P0183)](../build/reader/book-02.html#B02-C005-P0183)
 - [Book 2, ch. 5, “The Whomping Willow”, ref p. 84–85, ¶184 (B02-C005-P0184)](../build/reader/book-02.html#B02-C005-P0184)
+
+<a id="b02-165"></a>
+### B02-165 · Gryffindor common room capacity
+
+Apparently the whole House is awake and packed into the round common room, standing on its tables and chairs. In 1993 the House again packs in to hear McGonagall.
+
+- Category: interior; evidence: explicit; state: September 1992 and 1993.
+- Model: A capacity statement without a head count. The room must hold the full House, however large that is.
+- [Book 2, ch. 5, “The Whomping Willow”, ref p. 84–85, ¶184 (B02-C005-P0184)](../build/reader/book-02.html#B02-C005-P0184)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 260, ¶84 (B02-C014-P0084)](../build/reader/book-02.html#B02-C014-P0084)
 
 <a id="b02-016"></a>
 ### B02-016 · Gryffindor second-year dormitory
@@ -2160,6 +2308,19 @@ Released Cornish pixies shatter a window, spray ink, shred papers and books, tea
 - [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 104, ¶141 (B02-C006-P0141)](../build/reader/book-02.html#B02-C006-P0141)
 - [Book 2, ch. 6, “Gilderoy Lockhart”, ref p. 104, ¶142 (B02-C006-P0142)](../build/reader/book-02.html#B02-C006-P0142)
 
+<a id="b02-171"></a>
+### B02-171 · Dormitory to pitch time allowance
+
+Wood rouses Harry in his dormitory at dawn and tells him to reach the pitch within fifteen minutes, which has to cover dressing and the walk down.
+
+- Category: route; evidence: reported; state: September 1992.
+- Model: A captain's allowance, not a timed walk. It caps the journey from Gryffindor Tower to the pitch.
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 105, ¶4 (B02-C007-P0004)](../build/reader/book-02.html#B02-C007-P0004)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 105, ¶7 (B02-C007-P0007)](../build/reader/book-02.html#B02-C007-P0007)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 105, ¶8 (B02-C007-P0008)](../build/reader/book-02.html#B02-C007-P0008)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 105–106, ¶9 (B02-C007-P0009)](../build/reader/book-02.html#B02-C007-P0009)
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 106, ¶10 (B02-C007-P0010)](../build/reader/book-02.html#B02-C007-P0010)
+
 <a id="b02-025"></a>
 ### B02-025 · Castle to Quidditch stadium — dawn route
 
@@ -2176,6 +2337,15 @@ Harry descends the dormitory spiral stair, crosses the common room, exits the po
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 108, ¶30 (B02-C007-P0030)](../build/reader/book-02.html#B02-C007-P0030)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 108, ¶31 (B02-C007-P0031)](../build/reader/book-02.html#B02-C007-P0031)
 - [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 109–110, ¶42 (B02-C007-P0042)](../build/reader/book-02.html#B02-C007-P0042)
+
+<a id="b02-164"></a>
+### B02-164 · Gryffindor boys’ stair
+
+A first-year boy comes running down the same spiral stair that a second-year has just used from his dormitory.
+
+- Category: route; evidence: explicit; state: September 1992.
+- Model: Boys of different years share the stair.
+- [Book 2, ch. 7, “Mudbloods and Murmurs”, ref p. 106, ¶10 (B02-C007-P0010)](../build/reader/book-02.html#B02-C007-P0010)
 
 <a id="b02-026"></a>
 ### B02-026 · Quidditch changing room — seating and tactics boards
@@ -2704,6 +2874,15 @@ Within five minutes of leaving the library the trio barricade themselves in the 
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 165, ¶28 (B02-C010-P0028)](../build/reader/book-02.html#B02-C010-P0028)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 167, ¶42 (B02-C010-P0042)](../build/reader/book-02.html#B02-C010-P0042)
 
+<a id="b02-166"></a>
+### B02-166 · Library — fetching a restricted book
+
+After accepting a signed note, the librarian walks away among the tall shelves and is gone for several minutes before she returns with the requested volume.
+
+- Category: interior; evidence: explicit; state: November 1992.
+- Model: An elapsed time for one fetch, including finding the book. No distance is stated, but it rules out a Restricted Section a few steps from where she received the note.
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 164–165, ¶26 (B02-C010-P0026)](../build/reader/book-02.html#B02-C010-P0026)
+
 <a id="b02-063"></a>
 ### B02-063 · Potion ingredients — student cupboard and private stores
 
@@ -2715,6 +2894,16 @@ Hermione says common ingredients can be taken from the student store-cupboard. H
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 166, ¶35 (B02-C010-P0035)](../build/reader/book-02.html#B02-C010-P0035)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 167, ¶39 (B02-C010-P0039)](../build/reader/book-02.html#B02-C010-P0039)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 167, ¶40 (B02-C010-P0040)](../build/reader/book-02.html#B02-C010-P0040)
+
+<a id="b02-170"></a>
+### B02-170 · Quidditch stadium attendance
+
+The whole school goes down to the stadium, which is later described as packed.
+
+- Category: grounds; evidence: explicit; state: Autumn 1992 and 1993.
+- Model: The capacity must cover the school.
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 168, ¶45 (B02-C010-P0045)](../build/reader/book-02.html#B02-C010-P0045)
+- [Book 2, ch. 14, “Cornelius Fudge”, ref p. 258, ¶65 (B02-C014-P0065)](../build/reader/book-02.html#B02-C014-P0065)
 
 <a id="b02-065"></a>
 ### B02-065 · Quidditch pitch — rain, mud and rogue Bludger
@@ -2753,6 +2942,15 @@ Wood says the Bludgers have been kept locked in Madam Hooch’s office since the
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 170–171, ¶65 (B02-C010-P0065)](../build/reader/book-02.html#B02-C010-P0065)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 171, ¶66 (B02-C010-P0066)](../build/reader/book-02.html#B02-C010-P0066)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 171, ¶67 (B02-C010-P0067)](../build/reader/book-02.html#B02-C010-P0067)
+
+<a id="b02-167"></a>
+### B02-167 · Pitch to hospital wing
+
+At the Quidditch pitch, Lockhart sends Harry up to the Hospital Wing with two friends as escort.
+
+- Category: route; evidence: reported; state: November 1992.
+- Model: Upward wording only. The castle stands above the pitch as well, so this does not fix a floor.
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 175, ¶104 (B02-C010-P0104)](../build/reader/book-02.html#B02-C010-P0104)
 
 <a id="b02-066"></a>
 ### B02-066 · Hospital wing — privacy curtains and bedside supplies
@@ -5152,6 +5350,24 @@ The school descends lawns to the pitch in strong wind. Players emerge from chang
 - [Book 3, ch. 9, “Grim Defeat”, ref p. 177, ¶153 (B03-C009-P0153)](../build/reader/book-03.html#B03-C009-P0153)
 - [Book 3, ch. 9, “Grim Defeat”, ref p. 177, ¶154 (B03-C009-P0154)](../build/reader/book-03.html#B03-C009-P0154)
 
+<a id="b03-171"></a>
+### B03-171 · Quidditch stadium attendance
+
+The whole school turns out for a match even in a gale.
+
+- Category: grounds; evidence: explicit; state: November 1993.
+- Model: The capacity must cover the school.
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 174, ¶134 (B03-C009-P0134)](../build/reader/book-03.html#B03-C009-P0134)
+
+<a id="b03-172"></a>
+### B03-172 · Team changing rooms
+
+In a match the opposing team walks out from the far side of the pitch.
+
+- Category: interior; evidence: explicit; state: November 1993.
+- Model: Points to changing rooms on more than one side. Does not say whether each house has its own.
+- [Book 3, ch. 9, “Grim Defeat”, ref p. 175, ¶137 (B03-C009-P0137)](../build/reader/book-03.html#B03-C009-P0137)
+
 <a id="b03-052"></a>
 ### B03-052 · Quidditch stands — black dog sighting
 
@@ -5468,6 +5684,15 @@ Buckbeak lies in a cabin corner eating bloody food that leaks over the floor, mo
 - [Book 3, ch. 11, “The Firebolt”, ref p. 220, ¶92 (B03-C011-P0092)](../build/reader/book-03.html#B03-C011-P0092)
 - [Book 3, ch. 11, “The Firebolt”, ref p. 220, ¶94 (B03-C011-P0094)](../build/reader/book-03.html#B03-C011-P0094)
 
+<a id="b03-169"></a>
+### B03-169 · Hagrid’s stature
+
+Hagrid is at least double a normal man’s size, so that he nearly collapses a boy who is supporting him.
+
+- Category: interior; evidence: explicit; state: December 1993.
+- Model: Sets the scale of the cabin’s furniture.
+- [Book 3, ch. 11, “The Firebolt”, ref p. 217, ¶59 (B03-C011-P0059)](../build/reader/book-03.html#B03-C011-P0059)
+
 <a id="b03-073"></a>
 ### B03-073 · Castle and Great Hall — Christmas 1993 decorations
 
@@ -5623,6 +5848,15 @@ Neville is refused entry after losing the written week’s passwords that Cadoga
 - [Book 3, ch. 12, “The Patronus”, ref p. 251, ¶163 (B03-C012-P0163)](../build/reader/book-03.html#B03-C012-P0163)
 - [Book 3, ch. 12, “The Patronus”, ref p. 251, ¶164 (B03-C012-P0164)](../build/reader/book-03.html#B03-C012-P0164)
 
+<a id="b03-168"></a>
+### B03-168 · Gryffindor boys' stair, acoustic link
+
+A strangled yell from the dormitory comes echoing down the boys' stair and silences the crowded common room, which turns to the stair's foot as footsteps grow louder.
+
+- Category: route; evidence: explicit; state: January to February 1994.
+- Model: The stair carries sound from the top room to the common room, and its foot is in view of the room.
+- [Book 3, ch. 12, “The Patronus”, ref p. 252, ¶186 (B03-C012-P0186)](../build/reader/book-03.html#B03-C012-P0186)
+
 <a id="b03-082"></a>
 ### B03-082 · Quidditch stadium — barrier and seating
 
@@ -5750,6 +5984,15 @@ After another all-night search Flitwick teaches the front doors to recognise Bla
 - [Book 3, ch. 14, “Snape’s Grudge”, ref p. 270, ¶1 (B03-C014-P0001)](../build/reader/book-03.html#B03-C014-P0001)
 - [Book 3, ch. 14, “Snape’s Grudge”, ref p. 270–271, ¶2 (B03-C014-P0002)](../build/reader/book-03.html#B03-C014-P0002)
 
+<a id="b03-167"></a>
+### B03-167 · Gryffindor common room capacity
+
+The whole House stays up all night together in the common room.
+
+- Category: interior; evidence: explicit; state: February 1994 night.
+- Model: A capacity statement without a head count.
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 270, ¶1 (B03-C014-P0001)](../build/reader/book-03.html#B03-C014-P0001)
+
 <a id="b03-089"></a>
 ### B03-089 · Gryffindor entrance — restored Fat Lady and trolls
 
@@ -5855,6 +6098,20 @@ Ron reports Nick saying the ghosts avoid the Shack because of its rough spectral
 - Category: history; evidence: reported; state: After the February 1994 dormitory intrusion.
 - Model: Second-hand haunting and failed-entry account, not verified ghost population or proof against the later tunnel.
 - [Book 3, ch. 14, “Snape’s Grudge”, ref p. 280, ¶93 (B03-C014-P0093)](../build/reader/book-03.html#B03-C014-P0093)
+
+<a id="b03-173"></a>
+### B03-173 · Honeydukes tunnel and Hogsmeade road — race back to the castle
+
+After Malfoy runs from the Shrieking Shack, Harry sprints from Honeydukes through the tunnel to the third floor and has only just left the witch statue when Snape arrives. In his office Snape says Malfoy has already reached him with the story.
+
+- Category: route; evidence: explicit; state: After the February 1994 dormitory intrusion.
+- Model: A rough timing comparison only: Malfoy covers the road from the Shack to the dungeons and Snape then climbs to the third floor in about the time Harry takes to run the tunnel. Exact durations are not given.
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 283, ¶119 (B03-C014-P0119)](../build/reader/book-03.html#B03-C014-P0119)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 283, ¶122 (B03-C014-P0122)](../build/reader/book-03.html#B03-C014-P0122)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 283–284, ¶124 (B03-C014-P0124)](../build/reader/book-03.html#B03-C014-P0124)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 284, ¶125 (B03-C014-P0125)](../build/reader/book-03.html#B03-C014-P0125)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 284, ¶133 (B03-C014-P0133)](../build/reader/book-03.html#B03-C014-P0133)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 284, ¶135 (B03-C014-P0135)](../build/reader/book-03.html#B03-C014-P0135)
 
 <a id="b03-096"></a>
 ### B03-096 · Honeydukes return — stone cellar floor and witch exit
@@ -6705,6 +6962,15 @@ From the Forest edge they see the Willow stop when Crookshanks reaches its knot,
 - [Book 3, ch. 21, “Hermione’s Secret”, ref p. 408, ¶231 (B03-C021-P0231)](../build/reader/book-03.html#B03-C021-P0231)
 - [Book 3, ch. 21, “Hermione’s Secret”, ref p. 408, ¶234 (B03-C021-P0234)](../build/reader/book-03.html#B03-C021-P0234)
 
+<a id="b03-170"></a>
+### B03-170 · Far bank at night
+
+Harry later reflects that the figure he saw across the lake was too far away to make out properly.
+
+- Category: grounds; evidence: reported; state: 6 June, third year.
+- Model: A distance judgement, at night and with failing sight. Other passages the same night show actions on that bank were still visible.
+- [Book 3, ch. 21, “Hermione’s Secret”, ref p. 410, ¶259 (B03-C021-P0259)](../build/reader/book-03.html#B03-C021-P0259)
+
 <a id="b03-149"></a>
 ### B03-149 · Forest to Hagrid’s cabin: refuge and sight limitation
 
@@ -6990,6 +7256,15 @@ The Weasleys’ former Ford Anglia is described as running wild in the Forbidden
 - Model: A mobile inhabitant of the Forest at this date, not a fixed parked vehicle or a constraint on the Forest’s dimensions.
 - [Book 4, ch. 4, “Back to The Burrow”, ref p. 44, ¶9 (B04-C004-P0009)](../build/reader/book-04.html#B04-C004-P0009)
 
+<a id="b04-257"></a>
+### B04-257 · World Cup pitch as a comparison
+
+The World Cup pitch is a long oval with three fifty-foot hoops at each end. It is the only Quidditch pitch given a plan shape.
+
+- Category: grounds; evidence: explicit; state: August 1994.
+- Model: Not Hogwarts. It shows the hoop height is the game's standard; it does not settle the Hogwarts pitch outline.
+- [Book 4, ch. 8, “The Quidditch World Cup”, ref p. 101–102, ¶5 (B04-C008-P0005)](../build/reader/book-04.html#B04-C008-P0005)
+
 <a id="b04-003"></a>
 ### B04-003 · London to Hogsmeade station
 
@@ -7112,6 +7387,15 @@ Hagrid enters through a door behind the teachers’ table.
 
 - Category: route; evidence: explicit; state: 1 September 1994.
 - Model: The door’s destination and dimensions are unstated; keep a usable connection without inventing its route.
+- [Book 4, ch. 12, “The Triwizard Tournament”, ref p. 187, ¶87 (B04-C012-P0087)](../build/reader/book-04.html#B04-C012-P0087)
+
+<a id="b04-251"></a>
+### B04-251 · Hagrid’s stature
+
+Hagrid is about double a normal man’s height and three or more times his breadth.
+
+- Category: interior; evidence: explicit; state: September 1994.
+- Model: Breadth varies between three and five times normal across the books.
 - [Book 4, ch. 12, “The Triwizard Tournament”, ref p. 187, ¶87 (B04-C012-P0087)](../build/reader/book-04.html#B04-C012-P0087)
 
 <a id="b04-013"></a>
@@ -7428,6 +7712,15 @@ Hermione describes house-elves changing bed sheets, lighting fires, cleaning cla
 - [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 249, ¶87 (B04-C015-P0087)](../build/reader/book-04.html#B04-C015-P0087)
 - [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 249, ¶88 (B04-C015-P0088)](../build/reader/book-04.html#B04-C015-P0088)
 
+<a id="b04-249"></a>
+### B04-249 · Sorting rolls and Harry’s year
+
+Parvati Patil is among the Gryffindors of Harry’s year, addressed by McGonagall as they line up.
+
+- Category: interior; evidence: explicit; state: October 1994.
+- Model: Adds a Gryffindor girl to the count for this year.
+- [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 251, ¶100 (B04-C015-P0100)](../build/reader/book-04.html#B04-C015-P0100)
+
 <a id="b04-041"></a>
 ### B04-041 · Castle forecourt and grounds sightlines
 
@@ -7467,6 +7760,27 @@ A house-sized powder-blue carriage flies over the Forest canopy and lands near t
 - [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 252–253, ¶118 (B04-C015-P0118)](../build/reader/book-04.html#B04-C015-P0118)
 - [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 253, ¶119 (B04-C015-P0119)](../build/reader/book-04.html#B04-C015-P0119)
 - [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 253, ¶120 (B04-C015-P0120)](../build/reader/book-04.html#B04-C015-P0120)
+
+<a id="b04-252"></a>
+### B04-252 · Beauxbatons carriage — headmistress and party
+
+Madame Maxime is within an inch of Hagrid’s height, with a shoe as big as a child’s sled, and her size is said to account for the scale of the carriage and horses. About a dozen pupils in their late teens come with her.
+
+- Category: temporary; evidence: explicit; state: 30 October 1994.
+- Model: Sets the minimum clearance of the carriage door, steps and rooms. The party’s number is approximate.
+- [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 253, ¶120 (B04-C015-P0120)](../build/reader/book-04.html#B04-C015-P0120)
+- [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 253–254, ¶121 (B04-C015-P0121)](../build/reader/book-04.html#B04-C015-P0121)
+- [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 254–255, ¶128 (B04-C015-P0128)](../build/reader/book-04.html#B04-C015-P0128)
+
+<a id="b04-250"></a>
+### B04-250 · Visiting pupils in the Great Hall
+
+Around a dozen Beauxbatons pupils arrive in October 1994. With the Durmstrang party the two schools add only about twenty pupils to the Great Hall, which still looks fuller because their uniforms stand out.
+
+- Category: interior; evidence: explicit; state: October 1994 to June 1995.
+- Model: Visitor numbers are too small to affect Hall capacity. They matter only as a share of the Yule Ball seating.
+- [Book 4, ch. 15, “Beauxbatons and Durmstrang”, ref p. 254–255, ¶128 (B04-C015-P0128)](../build/reader/book-04.html#B04-C015-P0128)
+- [Book 4, ch. 16, “The Goblet of Fire”, ref p. 261–262, ¶33 (B04-C016-P0033)](../build/reader/book-04.html#B04-C016-P0033)
 
 <a id="b04-044"></a>
 ### B04-044 · Beauxbatons horse care
@@ -7671,6 +7985,16 @@ A wizened witch moves from her painting into the adjacent frame containing a wal
 - [Book 4, ch. 17, “The Four Champions”, ref p. 296, ¶106 (B04-C017-P0106)](../build/reader/book-04.html#B04-C017-P0106)
 - [Book 4, ch. 17, “The Four Champions”, ref p. 296, ¶109 (B04-C017-P0109)](../build/reader/book-04.html#B04-C017-P0109)
 
+<a id="b04-248"></a>
+### B04-248 · School population
+
+Hundreds of pupils are audible through the wall of the Hall’s side chamber, and hundreds later file into the stands.
+
+- Category: interior; evidence: explicit; state: 1994 to 1995.
+- Model: Counts the school only as hundreds.
+- [Book 4, ch. 17, “The Four Champions”, ref p. 286, ¶24 (B04-C017-P0024)](../build/reader/book-04.html#B04-C017-P0024)
+- [Book 4, ch. 31, “The Third Task”, ref p. 655, ¶126 (B04-C031-P0126)](../build/reader/book-04.html#B04-C031-P0126)
+
 <a id="b04-061"></a>
 ### B04-061 · Great Hall and Entrance Hall after selection
 
@@ -7689,6 +8013,15 @@ Cedric takes a door to the right of the marble staircase and descends stone step
 - Category: route; evidence: explicit; state: 31 October 1994, after selection.
 - Model: This is Cedric’s departure towards his house celebrations; the text does not yet explicitly identify the steps’ destination. Do not conflate the door with the Great Hall’s right-hand entrance.
 - [Book 4, ch. 17, “The Four Champions”, ref p. 294, ¶98 (B04-C017-P0098)](../build/reader/book-04.html#B04-C017-P0098)
+
+<a id="b04-244"></a>
+### B04-244 · Gryffindor common room capacity
+
+Coming through the portrait hole, Harry faces the whole House in the common room.
+
+- Category: interior; evidence: explicit; state: October 1994.
+- Model: A capacity statement without a head count.
+- [Book 4, ch. 17, “The Four Champions”, ref p. 296, ¶110 (B04-C017-P0110)](../build/reader/book-04.html#B04-C017-P0110)
 
 <a id="b04-063"></a>
 ### B04-063 · Gryffindor boys’ dormitory curtains
@@ -7870,6 +8203,17 @@ Moody recognises Harry beneath his Invisibility Cloak in the pub and states that
 - [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 337, ¶70 (B04-C019-P0070)](../build/reader/book-04.html#B04-C019-P0070)
 - [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 337, ¶71 (B04-C019-P0071)](../build/reader/book-04.html#B04-C019-P0071)
 
+<a id="b04-253"></a>
+### B04-253 · Gryffindor Tower to Hagrid’s cabin and dragon enclosure — timetable
+
+Hagrid asks Harry to come to the cabin at midnight. Harry leaves the common room at about half past eleven and says he must be back at the castle by one o’clock.
+
+- Category: route; evidence: explicit; state: November 1994, before the first task.
+- Model: Brackets the night walk to the enclosure: the outward walk and the viewing fit between midnight and about a quarter to one.
+- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 337, ¶72 (B04-C019-P0072)](../build/reader/book-04.html#B04-C019-P0072)
+- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 338, ¶78 (B04-C019-P0078)](../build/reader/book-04.html#B04-C019-P0078)
+- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 339, ¶86 (B04-C019-P0086)](../build/reader/book-04.html#B04-C019-P0086)
+
 <a id="b04-077"></a>
 ### B04-077 · Night route from castle to carriage
 
@@ -7983,6 +8327,18 @@ Harry follows Cedric up the marble staircase from the Entrance Hall towards the 
 - [Book 4, ch. 20, “The First Task”, ref p. 358, ¶39 (B04-C020-P0039)](../build/reader/book-04.html#B04-C020-P0039)
 - [Book 4, ch. 20, “The First Task”, ref p. 358, ¶41 (B04-C020-P0041)](../build/reader/book-04.html#B04-C020-P0041)
 - [Book 4, ch. 20, “The First Task”, ref p. 358, ¶43 (B04-C020-P0043)](../build/reader/book-04.html#B04-C020-P0043)
+
+<a id="b04-258"></a>
+### B04-258 · Moody's office to Greenhouse Three
+
+After talking to Moody in his office, Harry hurries to greenhouse three and arrives ten minutes later.
+
+- Category: route; evidence: explicit; state: November 1994.
+- Model: A hurried journey from an upper corridor out to the greenhouses, with the end of the talk included in the ten minutes.
+- [Book 4, ch. 20, “The First Task”, ref p. 358, ¶41 (B04-C020-P0041)](../build/reader/book-04.html#B04-C020-P0041)
+- [Book 4, ch. 20, “The First Task”, ref p. 358, ¶43 (B04-C020-P0043)](../build/reader/book-04.html#B04-C020-P0043)
+- [Book 4, ch. 20, “The First Task”, ref p. 361, ¶73 (B04-C020-P0073)](../build/reader/book-04.html#B04-C020-P0073)
+- [Book 4, ch. 20, “The First Task”, ref p. 361–362, ¶74 (B04-C020-P0074)](../build/reader/book-04.html#B04-C020-P0074)
 
 <a id="b04-086"></a>
 ### B04-086 · Moody’s office furnishings
@@ -8156,6 +8512,24 @@ After revisiting the champions’ tent Harry and Ron return around the Forest ed
 - [Book 4, ch. 20, “The First Task”, ref p. 381–382, ¶210 (B04-C020-P0210)](../build/reader/book-04.html#B04-C020-P0210)
 - [Book 4, ch. 20, “The First Task”, ref p. 382, ¶211 (B04-C020-P0211)](../build/reader/book-04.html#B04-C020-P0211)
 - [Book 4, ch. 20, “The First Task”, ref p. 382, ¶214 (B04-C020-P0214)](../build/reader/book-04.html#B04-C020-P0214)
+
+<a id="b04-255"></a>
+### B04-255 · Library to second-task bank in ten minutes
+
+Woken in the library at twenty past nine with the task due at half past, Harry runs through the castle, down the lawn and round the far side of the lake, reaching the judges just before the start, out of breath and with a stitch.
+
+- Category: route; evidence: explicit; state: 24 February 1995.
+- Model: An upper limit on the route: castle interior, lawn and part of the shore inside ten minutes at a sprint, less the time spent talking to Dobby.
+- [Book 4, ch. 20, “The First Task”, ref p. 381, ¶209 (B04-C020-P0209)](../build/reader/book-04.html#B04-C020-P0209)
+- [Book 4, ch. 26, “The Second Task”, ref p. 517, ¶86 (B04-C026-P0086)](../build/reader/book-04.html#B04-C026-P0086)
+- [Book 4, ch. 26, “The Second Task”, ref p. 517, ¶88 (B04-C026-P0088)](../build/reader/book-04.html#B04-C026-P0088)
+- [Book 4, ch. 26, “The Second Task”, ref p. 518, ¶108 (B04-C026-P0108)](../build/reader/book-04.html#B04-C026-P0108)
+- [Book 4, ch. 26, “The Second Task”, ref p. 518, ¶110 (B04-C026-P0110)](../build/reader/book-04.html#B04-C026-P0110)
+- [Book 4, ch. 26, “The Second Task”, ref p. 518–519, ¶111 (B04-C026-P0111)](../build/reader/book-04.html#B04-C026-P0111)
+- [Book 4, ch. 26, “The Second Task”, ref p. 519, ¶112 (B04-C026-P0112)](../build/reader/book-04.html#B04-C026-P0112)
+- [Book 4, ch. 26, “The Second Task”, ref p. 519, ¶113 (B04-C026-P0113)](../build/reader/book-04.html#B04-C026-P0113)
+- [Book 4, ch. 26, “The Second Task”, ref p. 519, ¶114 (B04-C026-P0114)](../build/reader/book-04.html#B04-C026-P0114)
+- [Book 4, ch. 26, “The Second Task”, ref p. 519–520, ¶118 (B04-C026-P0118)](../build/reader/book-04.html#B04-C026-P0118)
 
 <a id="b04-098"></a>
 ### B04-098 · Owlery exterior clearance
@@ -8393,6 +8767,15 @@ Harry and friends sit apart from the crowd beside a dark common-room window that
 - Category: temporary; evidence: explicit; state: Christmas 1994.
 - Model: A dated external snow-accumulation state at a window; no bearing or additional floor is given.
 - [Book 4, ch. 23, “The Yule Ball”, ref p. 426, ¶22 (B04-C023-P0022)](../build/reader/book-04.html#B04-C023-P0022)
+
+<a id="b04-245"></a>
+### B04-245 · Great Hall and kitchens — Christmas lunch quantities
+
+The Christmas Day meal in the Hall ran to no fewer than a hundred turkeys and Christmas puddings, with big heaps of crackers.
+
+- Category: temporary; evidence: explicit; state: 25 December 1994.
+- Model: A catering scale for the kitchens, not a seat count. The number may apply to the turkeys alone or to the puddings as well.
+- [Book 4, ch. 23, “The Yule Ball”, ref p. 431, ¶59 (B04-C023-P0059)](../build/reader/book-04.html#B04-C023-P0059)
 
 <a id="b04-121"></a>
 ### B04-121 · Fat Lady portrait Christmas state
@@ -8739,6 +9122,15 @@ Myrtle appears perched on a tap, later disappears up it, and normally haunts a t
 - [Book 4, ch. 25, “The Egg and the Eye”, ref p. 490–491, ¶64 (B04-C025-P0064)](../build/reader/book-04.html#B04-C025-P0064)
 - [Book 4, ch. 25, “The Egg and the Eye”, ref p. 491, ¶66 (B04-C025-P0066)](../build/reader/book-04.html#B04-C025-P0066)
 
+<a id="b04-254"></a>
+### B04-254 · Lake as Harry imagines it
+
+Before the second task Harry thinks of the lake as both huge and extremely deep, and supposes that merpeople would live on its bed.
+
+- Category: grounds; evidence: reported; state: January 1995, before the second task.
+- Model: Harry's impression only; he has not yet been in deep water. A size word, not a measurement.
+- [Book 4, ch. 25, “The Egg and the Eye”, ref p. 489, ¶52 (B04-C025-P0052)](../build/reader/book-04.html#B04-C025-P0052)
+
 <a id="b04-147"></a>
 ### B04-147 · Bathroom-to-lower-floors shortcut
 
@@ -9079,6 +9471,19 @@ Harry cuts Ron’s bindings with a jagged stone and Ron floats just above the bo
 - [Book 4, ch. 26, “The Second Task”, ref p. 530, ¶177 (B04-C026-P0177)](../build/reader/book-04.html#B04-C026-P0177)
 - [Book 4, ch. 26, “The Second Task”, ref p. 530, ¶178 (B04-C026-P0178)](../build/reader/book-04.html#B04-C026-P0178)
 
+<a id="b04-259"></a>
+### B04-259 · Second-task timings
+
+Cedric, who got lost on the way, is first back with his hostage, one minute over the hour. Harry is first to reach the hostages but returns last, well over the hour. The events are placed on the lake bed.
+
+- Category: route; evidence: explicit; state: 24 February 1995.
+- Model: An hour covers a round trip with time at the village; it gives a rough scale for the swim.
+- [Book 4, ch. 26, “The Second Task”, ref p. 528, ¶165 (B04-C026-P0165)](../build/reader/book-04.html#B04-C026-P0165)
+- [Book 4, ch. 26, “The Second Task”, ref p. 528, ¶166 (B04-C026-P0166)](../build/reader/book-04.html#B04-C026-P0166)
+- [Book 4, ch. 26, “The Second Task”, ref p. 535, ¶210 (B04-C026-P0210)](../build/reader/book-04.html#B04-C026-P0210)
+- [Book 4, ch. 26, “The Second Task”, ref p. 535, ¶214 (B04-C026-P0214)](../build/reader/book-04.html#B04-C026-P0214)
+- [Book 4, ch. 26, “The Second Task”, ref p. 536, ¶218 (B04-C026-P0218)](../build/reader/book-04.html#B04-C026-P0218)
+
 <a id="b04-170"></a>
 ### B04-170 · Lake ascent and landing after second task
 
@@ -9251,6 +9656,15 @@ A large patch of fresh earth in front of Hagrid’s cabin is prepared with a hun
 - [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 575, ¶81 (B04-C028-P0081)](../build/reader/book-04.html#B04-C028-P0081)
 - [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 576, ¶86 (B04-C028-P0086)](../build/reader/book-04.html#B04-C028-P0086)
 
+<a id="b04-256"></a>
+### B04-256 · Greenhouse door and castle steps
+
+Leaving a greenhouse for Care of Magical Creatures, Harry and Ron see Malfoy's group coming down the castle's stone steps, and Pansy Parkinson calls across to Harry.
+
+- Category: grounds; evidence: explicit; state: Spring 1995.
+- Model: Sightline and calling range between the way out of the greenhouses and the steps; no distance is given.
+- [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 573, ¶66 (B04-C028-P0066)](../build/reader/book-04.html#B04-C028-P0066)
+
 <a id="b04-182"></a>
 ### B04-182 · Beauxbatons carriage window view
 
@@ -9330,6 +9744,15 @@ Krum and Harry leave the stadium towards the Forest rather than the ship, pass H
 - [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 585, ¶177 (B04-C028-P0177)](../build/reader/book-04.html#B04-C028-P0177)
 - [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 586, ¶179 (B04-C028-P0179)](../build/reader/book-04.html#B04-C028-P0179)
 - [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 586, ¶181 (B04-C028-P0181)](../build/reader/book-04.html#B04-C028-P0181)
+
+<a id="b04-260"></a>
+### B04-260 · Size of the Durmstrang party
+
+In his confused state Crouch says that Karkaroff has made his party a round dozen students.
+
+- Category: temporary; evidence: reported; state: May 1995.
+- Model: A deranged speech but the only count of students living aboard the ship.
+- [Book 4, ch. 28, “The Madness of Mr Crouch”, ref p. 586, ¶179 (B04-C028-P0179)](../build/reader/book-04.html#B04-C028-P0179)
 
 <a id="b04-188"></a>
 ### B04-188 · Forest to Headmaster’s entrance
@@ -9608,6 +10031,16 @@ McGonagall permits lunchtime use of the empty Transfiguration classroom. Its win
 - [Book 4, ch. 31, “The Third Task”, ref p. 643, ¶28 (B04-C031-P0028)](../build/reader/book-04.html#B04-C031-P0028)
 - [Book 4, ch. 31, “The Third Task”, ref p. 643, ¶29 (B04-C031-P0029)](../build/reader/book-04.html#B04-C031-P0029)
 - [Book 4, ch. 31, “The Third Task”, ref p. 643, ¶30 (B04-C031-P0030)](../build/reader/book-04.html#B04-C031-P0030)
+
+<a id="b04-247"></a>
+### B04-247 · North Tower — height above the grounds
+
+Harry says the Divination window was open. Hermione objects that from the top of North Tower his voice could not have carried down to the grounds.
+
+- Category: exterior; evidence: reported; state: June 1995.
+- Model: A character's sense of the tower's height above the grounds. Gives no measurement.
+- [Book 4, ch. 31, “The Third Task”, ref p. 647, ¶61 (B04-C031-P0061)](../build/reader/book-04.html#B04-C031-P0061)
+- [Book 4, ch. 31, “The Third Task”, ref p. 647, ¶62 (B04-C031-P0062)](../build/reader/book-04.html#B04-C031-P0062)
 
 <a id="b04-206"></a>
 ### B04-206 · Sir Cadogan and Violet portraits
@@ -10063,6 +10496,16 @@ Dumbledore takes Harry from Moody’s office along a dark passage to the gargoyl
 - [Book 4, ch. 36, “The Parting of the Ways”, ref p. 734, ¶14 (B04-C036-P0014)](../build/reader/book-04.html#B04-C036-P0014)
 - [Book 4, ch. 36, “The Parting of the Ways”, ref p. 735, ¶17 (B04-C036-P0017)](../build/reader/book-04.html#B04-C036-P0017)
 - [Book 4, ch. 36, “The Parting of the Ways”, ref p. 735, ¶19 (B04-C036-P0019)](../build/reader/book-04.html#B04-C036-P0019)
+
+<a id="b04-246"></a>
+### B04-246 · Hospital wing above the Defence office
+
+Speaking in the Defence teacher's office, Dumbledore asks for the matron to come down there; later, in the ward, he asks her to go down to that office.
+
+- Category: route; evidence: reported; state: Night of 24–25 June 1995.
+- Model: Two direction words in dialogue, both placing the ward above the Defence office. No count of floors is given.
+- [Book 4, ch. 36, “The Parting of the Ways”, ref p. 733, ¶4 (B04-C036-P0004)](../build/reader/book-04.html#B04-C036-P0004)
+- [Book 4, ch. 36, “The Parting of the Ways”, ref p. 754, ¶170 (B04-C036-P0170)](../build/reader/book-04.html#B04-C036-P0170)
 
 <a id="b04-234"></a>
 ### B04-234 · Headmaster’s office to hospital wing
@@ -10529,6 +10972,16 @@ The cosy circular tower room contains dilapidated squashy armchairs, rickety tab
 - Model: Dormitories are above the common room according to pupils going up; no precise spiral route is supplied here.
 - [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 252–253, ¶206 (B05-C011-P0206)](../build/reader/book-05.html#B05-C011-P0206)
 
+<a id="b05-314"></a>
+### B05-314 · Gryffindor boys’ door
+
+A seventh-year goes up to bed through the same doorway to the boys’ dormitories that a fifth-year uses.
+
+- Category: route; evidence: explicit; state: Autumn 1995.
+- Model: Supports a single shared stair with several dormitories off it, not a separate stair for each year.
+- [Book 5, ch. 11, “The Sorting Hat’s New Song”, ref p. 252–253, ¶206 (B05-C011-P0206)](../build/reader/book-05.html#B05-C011-P0206)
+- [Book 5, ch. 17, “Educational Decree Number Twenty-four”, ref p. 434–435, ¶206 (B05-C017-P0206)](../build/reader/book-05.html#B05-C017-P0206)
+
 <a id="b05-027"></a>
 ### B05-027 · Fifth-year boys’ dormitory fittings
 
@@ -10735,6 +11188,15 @@ The study door closes automatically behind Harry. McGonagall sits at a desk pile
 - [Book 5, ch. 12, “Professor Umbridge”, ref p. 290, ¶323 (B05-C012-P0323)](../build/reader/book-05.html#B05-C012-P0323)
 - [Book 5, ch. 12, “Professor Umbridge”, ref p. 291, ¶339 (B05-C012-P0339)](../build/reader/book-05.html#B05-C012-P0339)
 - [Book 5, ch. 12, “Professor Umbridge”, ref p. 291–292, ¶340 (B05-C012-P0340)](../build/reader/book-05.html#B05-C012-P0340)
+
+<a id="b05-315"></a>
+### B05-315 · School population
+
+At the lesson bell hundreds of pupils can be heard moving overhead and all around.
+
+- Category: interior; evidence: explicit; state: Autumn 1995.
+- Model: Counts the school only as hundreds.
+- [Book 5, ch. 12, “Professor Umbridge”, ref p. 290, ¶323 (B05-C012-P0323)](../build/reader/book-05.html#B05-C012-P0323)
 
 <a id="b05-045"></a>
 ### B05-045 · Feast-to-tower corridor and cabin view
@@ -11856,6 +12318,15 @@ Hagrid closes curtains after admitting them. A travelling cloak lies over a chai
 - [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 498, ¶38 (B05-C020-P0038)](../build/reader/book-05.html#B05-C020-P0038)
 - [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 498, ¶39 (B05-C020-P0039)](../build/reader/book-05.html#B05-C020-P0039)
 
+<a id="b05-316"></a>
+### B05-316 · Hagrid’s stature
+
+Hagrid is double a normal man’s size.
+
+- Category: interior; evidence: explicit; state: Autumn 1995.
+- Model: Sets the scale of the cabin’s furniture.
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 496, ¶12 (B05-C020-P0012)](../build/reader/book-05.html#B05-C020-P0012)
+
 <a id="b05-131"></a>
 ### B05-131 · Hagrid cabin central table
 
@@ -11889,6 +12360,16 @@ A thin-curtained window beside the doorway shows Umbridge’s shadow before entr
 - [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 513–514, ¶201 (B05-C020-P0201)](../build/reader/book-05.html#B05-C020-P0201)
 - [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 514, ¶202 (B05-C020-P0202)](../build/reader/book-05.html#B05-C020-P0202)
 - [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 514, ¶203 (B05-C020-P0203)](../build/reader/book-05.html#B05-C020-P0203)
+
+<a id="b05-317"></a>
+### B05-317 · Hagrid’s height against other people
+
+Umbridge, in his doorway, barely reaches his navel. Bent double among younger pupils he still rises at least four feet above them.
+
+- Category: interior; evidence: explicit; state: 1995 to 1996.
+- Model: Relative checks. The navel comparison reads lower than twice a normal man.
+- [Book 5, ch. 20, “Hagrid’s Tale”, ref p. 513, ¶189 (B05-C020-P0189)](../build/reader/book-05.html#B05-C020-P0189)
+- [Book 5, ch. 30, “Grawp”, ref p. 815–816, ¶67 (B05-C030-P0067)](../build/reader/book-05.html#B05-C030-P0067)
 
 <a id="b05-134"></a>
 ### B05-134 · Cabin-to-castle sightline and snow tracks
@@ -12415,6 +12896,15 @@ The crowded common room hosts Headless Hat demonstrations: a pink-feathered poin
 - [Book 5, ch. 24, “Occlumency”, ref p. 642–643, ¶276 (B05-C024-P0276)](../build/reader/book-05.html#B05-C024-P0276)
 - [Book 5, ch. 24, “Occlumency”, ref p. 643, ¶280 (B05-C024-P0280)](../build/reader/book-05.html#B05-C024-P0280)
 - [Book 5, ch. 24, “Occlumency”, ref p. 644, ¶287 (B05-C024-P0287)](../build/reader/book-05.html#B05-C024-P0287)
+
+<a id="b05-320"></a>
+### B05-320 · Team changing rooms
+
+A room is named as the Gryffindor changing room.
+
+- Category: interior; evidence: explicit; state: Spring 1996.
+- Model: Points to more than one room. Does not say whether each house has its own.
+- [Book 5, ch. 24, “Occlumency”, ref p. 643–644, ¶285 (B05-C024-P0285)](../build/reader/book-05.html#B05-C024-P0285)
 
 <a id="b05-170"></a>
 ### B05-170 · Great Hall staff seating in January
@@ -13283,6 +13773,15 @@ Harry places an Invigoration Draught sample at Snape’s desk; it is smashed on 
 - [Book 5, ch. 29, “Careers Advice”, ref p. 787, ¶108 (B05-C029-P0108)](../build/reader/book-05.html#B05-C029-P0108)
 - [Book 5, ch. 29, “Careers Advice”, ref p. 787, ¶109 (B05-C029-P0109)](../build/reader/book-05.html#B05-C029-P0109)
 
+<a id="b05-313"></a>
+### B05-313 · Hogwarts year groups
+
+McGonagall speaks of a sixth and a seventh year of study still to come after the fifth.
+
+- Category: history; evidence: reported; state: 1996.
+- Model: Confirms seven numbered year groups in use.
+- [Book 5, ch. 29, “Careers Advice”, ref p. 788, ¶116 (B05-C029-P0116)](../build/reader/book-05.html#B05-C029-P0116)
+
 <a id="b05-230"></a>
 ### B05-230 · Defence to office diversion route
 
@@ -13482,6 +13981,16 @@ They follow an increasingly overgrown path through protruding roots, low branche
 - [Book 5, ch. 30, “Grawp”, ref p. 820, ¶109 (B05-C030-P0109)](../build/reader/book-05.html#B05-C030-P0109)
 - [Book 5, ch. 30, “Grawp”, ref p. 820, ¶110 (B05-C030-P0110)](../build/reader/book-05.html#B05-C030-P0110)
 - [Book 5, ch. 30, “Grawp”, ref p. 820, ¶112 (B05-C030-P0112)](../build/reader/book-05.html#B05-C030-P0112)
+
+<a id="b05-319"></a>
+### B05-319 · Grawp’s clearing — empty surrounding Forest
+
+Harry realises that the giant’s presence explains why no other creature has been met on the way in through this part of the Forest.
+
+- Category: grounds; evidence: reported; state: May 1996.
+- Model: Harry’s explanation for the absence of animals, not a stated exclusion zone.
+- [Book 5, ch. 30, “Grawp”, ref p. 819–820, ¶107 (B05-C030-P0107)](../build/reader/book-05.html#B05-C030-P0107)
+- [Book 5, ch. 30, “Grawp”, ref p. 826, ¶164 (B05-C030-P0164)](../build/reader/book-05.html#B05-C030-P0164)
 
 <a id="b05-245"></a>
 ### B05-245 · Approach to Grawp clearing
@@ -14096,6 +14605,15 @@ After sheltering among trees Harry kicks a nearby tree and a Bowtruckle chatters
 - [Book 5, ch. 33, “Fight and Flight”, ref p. 907, ¶89 (B05-C033-P0089)](../build/reader/book-05.html#B05-C033-P0089)
 - [Book 5, ch. 33, “Fight and Flight”, ref p. 907, ¶90 (B05-C033-P0090)](../build/reader/book-05.html#B05-C033-P0090)
 - [Book 5, ch. 33, “Fight and Flight”, ref p. 907, ¶91 (B05-C033-P0091)](../build/reader/book-05.html#B05-C033-P0091)
+
+<a id="b05-318"></a>
+### B05-318 · Centaur clearing — position in the Forest
+
+After the centaurs are driven off, Harry judges that he and Hermione are stranded at the centre of the Forbidden Forest with no way out.
+
+- Category: grounds; evidence: reported; state: June 1996.
+- Model: Harry’s judgement, not a survey; the clearing’s true position in the Forest is unknown.
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 906–907, ¶83 (B05-C033-P0083)](../build/reader/book-05.html#B05-C033-P0083)
 
 <a id="b05-284"></a>
 ### B05-284 · Office window to Forest pursuit
@@ -14788,6 +15306,16 @@ Dumbledore tells the assembled school that the castle’s magical fortifications
 - Model: Broad security state, independent of the more specific gates and walls. Do not invent visible fortification additions.
 - [Book 6, ch. 8, “Snape Victorious”, ref p. 174, ¶112 (B06-C008-P0112)](../build/reader/book-06.html#B06-C008-P0112)
 
+<a id="b06-217"></a>
+### B06-217 · School population
+
+Hundreds of pupils leave the Great Hall after the feast, and Hagrid speaks of hundreds of under-age wizards shut up together at the school.
+
+- Category: interior; evidence: explicit; state: 1996 to 1997.
+- Model: Counts the school only as hundreds. The second clue is dialogue.
+- [Book 6, ch. 8, “Snape Victorious”, ref p. 174–175, ¶115 (B06-C008-P0115)](../build/reader/book-06.html#B06-C008-P0115)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 422, ¶59 (B06-C019-P0059)](../build/reader/book-06.html#B06-C019-P0059)
+
 <a id="b06-023"></a>
 ### B06-023 · Grawp’s mountain cave
 
@@ -14815,6 +15343,16 @@ The ceiling shows blue sky and thin wispy clouds matching the real sky visible t
 - Category: interior; evidence: explicit; state: First school day, September 1996.
 - Model: Matching magical sky appearance and high subdivided windows; no statement of structural openness to weather.
 - [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 178, ¶12 (B06-C009-P0012)](../build/reader/book-06.html#B06-C009-P0012)
+
+<a id="b06-213"></a>
+### B06-213 · Gryffindor common room
+
+Small groups of seventh-years are seen using the Gryffindor common room.
+
+- Category: interior; evidence: explicit; state: 1996 to 1997.
+- Model: Shows that the oldest year lives in the same House space, so all seven years need dormitories here.
+- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 181, ¶36 (B06-C009-P0036)](../build/reader/book-06.html#B06-C009-P0036)
+- [Book 6, ch. 24, “Sectumsempra”, ref p. 542, ¶31 (B06-C024-P0031)](../build/reader/book-06.html#B06-C024-P0031)
 
 <a id="b06-026"></a>
 ### B06-026 · Gryffindor common-room tapestry and light
@@ -14882,6 +15420,15 @@ After the common-room study period the students follow a familiar path down to t
 - [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 188–189, ¶96 (B06-C009-P0096)](../build/reader/book-06.html#B06-C009-P0096)
 - [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 189, ¶97 (B06-C009-P0097)](../build/reader/book-06.html#B06-C009-P0097)
 - [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 189, ¶99 (B06-C009-P0099)](../build/reader/book-06.html#B06-C009-P0099)
+
+<a id="b06-218"></a>
+### B06-218 · N.E.W.T. Potions class size
+
+Only a dozen sixth-years qualify for N.E.W.T. Potions in 1996: four Slytherins, four Ravenclaws, one Hufflepuff and the three Gryffindors.
+
+- Category: interior; evidence: explicit; state: September 1996.
+- Model: An advanced class filtered by exam grade, so it is not the size of a year group.
+- [Book 6, ch. 9, “The Half-Blood Prince”, ref p. 189, ¶97 (B06-C009-P0097)](../build/reader/book-06.html#B06-C009-P0097)
 
 <a id="b06-032"></a>
 ### B06-032 · Potions dungeon worktables and storage
@@ -15900,6 +16447,16 @@ Leaving the ward, Harry, Hermione and Hagrid walk along a corridor towards the m
 - [Book 6, ch. 19, “Elf Tails”, ref p. 424, ¶81 (B06-C019-P0081)](../build/reader/book-06.html#B06-C019-P0081)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 424–425, ¶84 (B06-C019-P0084)](../build/reader/book-06.html#B06-C019-P0084)
 
+<a id="b06-214"></a>
+### B06-214 · Gryffindor common room, distant chair
+
+Late at night, in low firelight, Harry is sure the common room is empty until a large boy rises from a distant chair, where he had fallen asleep.
+
+- Category: interior; evidence: explicit; state: 1 March 1997.
+- Model: A size hint: the room is wide enough for a far seat to go unnoticed in dim light. No measurement.
+- [Book 6, ch. 19, “Elf Tails”, ref p. 425–426, ¶88 (B06-C019-P0088)](../build/reader/book-06.html#B06-C019-P0088)
+- [Book 6, ch. 19, “Elf Tails”, ref p. 426, ¶89 (B06-C019-P0089)](../build/reader/book-06.html#B06-C019-P0089)
+
 <a id="b06-113"></a>
 ### B06-113 · Disguised wall door shortcut to Potions
 
@@ -15925,6 +16482,15 @@ At the Hufflepuff match there is little wind, broken cloud and intermittent dazz
 - [Book 6, ch. 19, “Elf Tails”, ref p. 432, ¶141 (B06-C019-P0141)](../build/reader/book-06.html#B06-C019-P0141)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 433, ¶148 (B06-C019-P0148)](../build/reader/book-06.html#B06-C019-P0148)
 
+<a id="b06-220"></a>
+### B06-220 · Quidditch stadium attendance
+
+On a match day the whole school is outside, seated in the stadium or on the way down.
+
+- Category: grounds; evidence: explicit; state: Spring 1997.
+- Model: The capacity must cover the school.
+- [Book 6, ch. 19, “Elf Tails”, ref p. 430, ¶120 (B06-C019-P0120)](../build/reader/book-06.html#B06-C019-P0120)
+
 <a id="b06-115"></a>
 ### B06-115 · Hospital bed light and exterior sky
 
@@ -15937,6 +16503,15 @@ Harry wakes in a warm comfortable hospital bed with Ron on his left; a lamp cast
 - [Book 6, ch. 19, “Elf Tails”, ref p. 434, ¶155 (B06-C019-P0155)](../build/reader/book-06.html#B06-C019-P0155)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 435, ¶165 (B06-C019-P0165)](../build/reader/book-06.html#B06-C019-P0165)
 - [Book 6, ch. 19, “Elf Tails”, ref p. 437, ¶177 (B06-C019-P0177)](../build/reader/book-06.html#B06-C019-P0177)
+
+<a id="b06-215"></a>
+### B06-215 · Hospital wing — commentary heard from the pitch
+
+Ron says he could hear the Quidditch match commentary from his bed in the ward.
+
+- Category: interior; evidence: reported; state: March 1997.
+- Model: A hearing range only. The text gives no bearing or distance, and match commentary may be magically loud.
+- [Book 6, ch. 19, “Elf Tails”, ref p. 435, ¶166 (B06-C019-P0166)](../build/reader/book-06.html#B06-C019-P0166)
 
 <a id="b06-117"></a>
 ### B06-117 · House-elf arrival in hospital wing
@@ -16240,6 +16815,16 @@ Hagrid reports that after Aragog dies the other spiders no longer let him near t
 - [Book 6, ch. 22, “After the Burial”, ref p. 505, ¶137 (B06-C022-P0137)](../build/reader/book-06.html#B06-C022-P0137)
 - [Book 6, ch. 22, “After the Burial”, ref p. 505–506, ¶138 (B06-C022-P0138)](../build/reader/book-06.html#B06-C022-P0138)
 
+<a id="b06-219"></a>
+### B06-219 · Hagrid’s height against other people
+
+Harry and Slughorn can reach no higher than his elbow.
+
+- Category: interior; evidence: explicit; state: Spring 1997.
+- Model: A relative check that fits twice a normal man.
+- [Book 6, ch. 22, “After the Burial”, ref p. 505, ¶134 (B06-C022-P0134)](../build/reader/book-06.html#B06-C022-P0134)
+- [Book 6, ch. 22, “After the Burial”, ref p. 508, ¶156 (B06-C022-P0156)](../build/reader/book-06.html#B06-C022-P0156)
+
 <a id="b06-139"></a>
 ### B06-139 · Hagrid rear window and back garden
 
@@ -16357,6 +16942,17 @@ Nearly Headless Nick says the Bloody Baron is groaning and clanking up on the As
 - [Book 6, ch. 23, “Horcruxes”, ref p. 516, ¶11 (B06-C023-P0011)](../build/reader/book-06.html#B06-C023-P0011)
 - [Book 6, ch. 23, “Horcruxes”, ref p. 516–517, ¶12 (B06-C023-P0012)](../build/reader/book-06.html#B06-C023-P0012)
 - [Book 6, ch. 23, “Horcruxes”, ref p. 517, ¶13 (B06-C023-P0013)](../build/reader/book-06.html#B06-C023-P0013)
+
+<a id="b06-216"></a>
+### B06-216 · Fat Lady's corridor to Headmaster's gargoyle
+
+Harry runs back along the corridor from the Fat Lady and within minutes is giving the password to the gargoyle.
+
+- Category: route; evidence: explicit; state: Spring 1997.
+- Model: Supports a short same-level link from the Gryffindor entrance to the gargoyle. No stairs are mentioned, but he is running and the route is not traced.
+- [Book 6, ch. 23, “Horcruxes”, ref p. 517, ¶15 (B06-C023-P0015)](../build/reader/book-06.html#B06-C023-P0015)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 517, ¶16 (B06-C023-P0016)](../build/reader/book-06.html#B06-C023-P0016)
+- [Book 6, ch. 23, “Horcruxes”, ref p. 517, ¶17 (B06-C023-P0017)](../build/reader/book-06.html#B06-C023-P0017)
 
 <a id="b06-148"></a>
 ### B06-148 · Headmaster office listening portraits
@@ -17103,6 +17699,17 @@ Visitors fill Hogsmeade lodging, Ministry officials are accommodated in the cast
 - [Book 6, ch. 30, “The White Tomb”, ref p. 666, ¶1 (B06-C030-P0001)](../build/reader/book-06.html#B06-C030-P0001)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 666–667, ¶2 (B06-C030-P0002)](../build/reader/book-06.html#B06-C030-P0002)
 - [Book 6, ch. 30, “The White Tomb”, ref p. 673, ¶43 (B06-C030-P0043)](../build/reader/book-06.html#B06-C030-P0043)
+
+<a id="b06-221"></a>
+### B06-221 · Funeral seating before the school sat
+
+Some pupils had been taken home by their parents. When the school reached the funeral site, outside mourners already filled half of the chairs, and the crowd went on growing.
+
+- Category: temporary; evidence: explicit; state: June 1997.
+- Model: Half the chairs are taken before the school sits, so the chair count is about double what the school needed.
+- [Book 6, ch. 30, “The White Tomb”, ref p. 666, ¶1 (B06-C030-P0001)](../build/reader/book-06.html#B06-C030-P0001)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 675–676, ¶49 (B06-C030-P0049)](../build/reader/book-06.html#B06-C030-P0049)
+- [Book 6, ch. 30, “The White Tomb”, ref p. 676, ¶50 (B06-C030-P0050)](../build/reader/book-06.html#B06-C030-P0050)
 
 <a id="b06-202"></a>
 ### B06-202 · Forest-edge visiting carriage
@@ -17949,6 +18556,16 @@ McGonagall says the Floo Network is watched and Apparition impossible within the
 - [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 631, ¶66 (B07-C030-P0066)](../build/reader/book-07.html#B07-C030-P0066)
 - [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 631, ¶67 (B07-C030-P0067)](../build/reader/book-07.html#B07-C030-P0067)
 
+<a id="b07-140"></a>
+### B07-140 · School population
+
+McGonagall speaks of hundreds of pupils to evacuate, and Aberforth of hundreds passing through his pub.
+
+- Category: interior; evidence: reported; state: May 1998.
+- Model: Counts the school only as hundreds.
+- [Book 7, ch. 30, “The Sacking of Severus Snape”, ref p. 631, ¶66 (B07-C030-P0066)](../build/reader/book-07.html#B07-C030-P0066)
+- [Book 7, ch. 31, “The Battle of Hogwarts”, ref p. 658, ¶136 (B07-C031-P0136)](../build/reader/book-07.html#B07-C031-P0136)
+
 <a id="b07-060"></a>
 ### B07-060 · Ravenclaw spiral stair → lower corridor / unnamed classroom
 
@@ -18685,6 +19302,15 @@ Candlelit house tables and benches face the Sorting area with a rickety stool on
 - [Book 7, ch. 33, “The Prince’s Tale”, ref p. 712–713, ¶151 (B07-C033-P0151)](../build/reader/book-07.html#B07-C033-P0151)
 - [Book 7, ch. 33, “The Prince’s Tale”, ref p. 713, ¶152 (B07-C033-P0152)](../build/reader/book-07.html#B07-C033-P0152)
 - [Book 7, ch. 33, “The Prince’s Tale”, ref p. 713, ¶153 (B07-C033-P0153)](../build/reader/book-07.html#B07-C033-P0153)
+
+<a id="b07-141"></a>
+### B07-141 · Sorting rolls in a memory
+
+In a 1971 memory about a dozen pupils are still to be sorted when the roll reaches Snape.
+
+- Category: interior; evidence: explicit; state: September 1971 memory.
+- Model: A lower limit for one year’s size.
+- [Book 7, ch. 33, “The Prince’s Tale”, ref p. 712–713, ¶151 (B07-C033-P0151)](../build/reader/book-07.html#B07-C033-P0151)
 
 <a id="b07-108"></a>
 ### B07-108 · Castle courtyard / pillar

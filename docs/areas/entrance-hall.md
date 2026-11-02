@@ -4,6 +4,18 @@
 
 All pages are project reference pages, ref250-v1. Group membership is a navigation aid; retain each record's certainty and dated state.
 
+## B01-147: Entrance Hall — the house used as its size comparison
+
+The Dursleys’ house, the yardstick given for the size of the Entrance Hall, has four bedrooms upstairs: one for the couple, one for visitors and two used by Dudley.
+
+Places: Entrance Hall.
+
+Evidence: explicit; state: Summer 1991.
+
+Model: Shows the comparison house is a two-storey, four-bedroom home. No dimensions are given.
+
+- [Book 1, ch. 3, “The Letters from No One”, ref p. 39–40, ¶66 (B01-C003-P0066)](../../build/reader/book-01.html#B01-C003-P0066)
+
 ## B01-010: Entrance Hall
 
 The enormous hall has stone walls lit by flaming torches, a flagged stone floor and a ceiling too high to distinguish. A magnificent marble staircase faces the arriving first-years and leads to upper floors.

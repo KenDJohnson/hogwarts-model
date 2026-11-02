@@ -3306,6 +3306,122 @@
       "certainty": "explicit",
       "temporal": "Dumbledore funeral, June 1997",
       "model_notes": "Dated occupancy, school use and departure timetable; no invented guest-room locations or special train platform changes."
+    },
+    {
+      "id": "B06-213",
+      "location": "Gryffindor common room",
+      "category": "interior",
+      "description": "Small groups of seventh-years are seen using the Gryffindor common room.",
+      "evidence": [
+        "B06-C009-P0036",
+        "B06-C024-P0031"
+      ],
+      "certainty": "explicit",
+      "temporal": "1996 to 1997",
+      "model_notes": "Shows that the oldest year lives in the same House space, so all seven years need dormitories here."
+    },
+    {
+      "id": "B06-214",
+      "location": "Gryffindor common room, distant chair",
+      "category": "interior",
+      "description": "Late at night, in low firelight, Harry is sure the common room is empty until a large boy rises from a distant chair, where he had fallen asleep.",
+      "evidence": [
+        "B06-C019-P0088",
+        "B06-C019-P0089"
+      ],
+      "certainty": "explicit",
+      "temporal": "1 March 1997",
+      "model_notes": "A size hint: the room is wide enough for a far seat to go unnoticed in dim light. No measurement."
+    },
+    {
+      "id": "B06-215",
+      "location": "Hospital wing — commentary heard from the pitch",
+      "category": "interior",
+      "description": "Ron says he could hear the Quidditch match commentary from his bed in the ward.",
+      "evidence": [
+        "B06-C019-P0166"
+      ],
+      "certainty": "reported",
+      "temporal": "March 1997",
+      "model_notes": "A hearing range only. The text gives no bearing or distance, and match commentary may be magically loud."
+    },
+    {
+      "id": "B06-216",
+      "location": "Fat Lady's corridor to Headmaster's gargoyle",
+      "category": "route",
+      "description": "Harry runs back along the corridor from the Fat Lady and within minutes is giving the password to the gargoyle.",
+      "evidence": [
+        "B06-C023-P0015",
+        "B06-C023-P0016",
+        "B06-C023-P0017"
+      ],
+      "certainty": "explicit",
+      "temporal": "Spring 1997",
+      "model_notes": "Supports a short same-level link from the Gryffindor entrance to the gargoyle. No stairs are mentioned, but he is running and the route is not traced."
+    },
+    {
+      "id": "B06-217",
+      "location": "School population",
+      "category": "interior",
+      "description": "Hundreds of pupils leave the Great Hall after the feast, and Hagrid speaks of hundreds of under-age wizards shut up together at the school.",
+      "evidence": [
+        "B06-C008-P0115",
+        "B06-C019-P0059"
+      ],
+      "certainty": "explicit",
+      "temporal": "1996 to 1997",
+      "model_notes": "Counts the school only as hundreds. The second clue is dialogue."
+    },
+    {
+      "id": "B06-218",
+      "location": "N.E.W.T. Potions class size",
+      "category": "interior",
+      "description": "Only a dozen sixth-years qualify for N.E.W.T. Potions in 1996: four Slytherins, four Ravenclaws, one Hufflepuff and the three Gryffindors.",
+      "evidence": [
+        "B06-C009-P0097"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1996",
+      "model_notes": "An advanced class filtered by exam grade, so it is not the size of a year group."
+    },
+    {
+      "id": "B06-219",
+      "location": "Hagrid’s height against other people",
+      "category": "interior",
+      "description": "Harry and Slughorn can reach no higher than his elbow.",
+      "evidence": [
+        "B06-C022-P0134",
+        "B06-C022-P0156"
+      ],
+      "certainty": "explicit",
+      "temporal": "Spring 1997",
+      "model_notes": "A relative check that fits twice a normal man."
+    },
+    {
+      "id": "B06-220",
+      "location": "Quidditch stadium attendance",
+      "category": "grounds",
+      "description": "On a match day the whole school is outside, seated in the stadium or on the way down.",
+      "evidence": [
+        "B06-C019-P0120"
+      ],
+      "certainty": "explicit",
+      "temporal": "Spring 1997",
+      "model_notes": "The capacity must cover the school."
+    },
+    {
+      "id": "B06-221",
+      "location": "Funeral seating before the school sat",
+      "category": "temporary",
+      "description": "Some pupils had been taken home by their parents. When the school reached the funeral site, outside mourners already filled half of the chairs, and the crowd went on growing.",
+      "evidence": [
+        "B06-C030-P0001",
+        "B06-C030-P0049",
+        "B06-C030-P0050"
+      ],
+      "certainty": "explicit",
+      "temporal": "June 1997",
+      "model_notes": "Half the chairs are taken before the school sits, so the chair count is about double what the school needed."
     }
   ],
   "chapter_reviews": [

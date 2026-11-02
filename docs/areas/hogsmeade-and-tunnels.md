@@ -492,6 +492,23 @@ Model: Second-hand haunting and failed-entry account, not verified ghost populat
 
 - [Book 3, ch. 14, “Snape’s Grudge”, ref p. 280, ¶93 (B03-C014-P0093)](../../build/reader/book-03.html#B03-C014-P0093)
 
+## B03-173: Honeydukes tunnel and Hogsmeade road — race back to the castle
+
+After Malfoy runs from the Shrieking Shack, Harry sprints from Honeydukes through the tunnel to the third floor and has only just left the witch statue when Snape arrives. In his office Snape says Malfoy has already reached him with the story.
+
+Places: One-eyed witch passage, Hogsmeade village.
+
+Evidence: explicit; state: After the February 1994 dormitory intrusion.
+
+Model: A rough timing comparison only: Malfoy covers the road from the Shack to the dungeons and Snape then climbs to the third floor in about the time Harry takes to run the tunnel. Exact durations are not given.
+
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 283, ¶119 (B03-C014-P0119)](../../build/reader/book-03.html#B03-C014-P0119)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 283, ¶122 (B03-C014-P0122)](../../build/reader/book-03.html#B03-C014-P0122)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 283–284, ¶124 (B03-C014-P0124)](../../build/reader/book-03.html#B03-C014-P0124)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 284, ¶125 (B03-C014-P0125)](../../build/reader/book-03.html#B03-C014-P0125)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 284, ¶133 (B03-C014-P0133)](../../build/reader/book-03.html#B03-C014-P0133)
+- [Book 3, ch. 14, “Snape’s Grudge”, ref p. 284, ¶135 (B03-C014-P0135)](../../build/reader/book-03.html#B03-C014-P0135)
+
 ## B03-096: Honeydukes return — stone cellar floor and witch exit
 
 Harry runs down the cellar steps across a stone floor to the trapdoor and back along the tunnel. He hides his Cloak in a shadowy corner at the chute, climbs its slippery sides, taps the hump from within and emerges; it closes behind him.

@@ -77,6 +77,20 @@ Model: Trapdoor is Hermione’s observed report here; purpose is her deduction, 
 - [Book 1, ch. 9, “The Midnight Duel”, ref p. 165, ¶208 (B01-C009-P0208)](../../build/reader/book-01.html#B01-C009-P0208)
 - [Book 1, ch. 9, “The Midnight Duel”, ref p. 165–166, ¶213 (B01-C009-P0213)](../../build/reader/book-01.html#B01-C009-P0213)
 
+## B01-148: Girls' toilets — troll clearance
+
+A troll twelve feet tall, carrying a huge club, goes through the doorway of the girls' toilets and moves about inside.
+
+Places: Girls’ toilets of the troll attack, Troll chamber.
+
+Evidence: explicit; state: 31 October 1991.
+
+Model: The height is narrated. How the creature fitted the doorway or ceiling is not: it slouches in, so either the opening is very tall or it stooped.
+
+- [Book 1, ch. 10, “Hallowe’en”, ref p. 177–178, ¶111 (B01-C010-P0111)](../../build/reader/book-01.html#B01-C010-P0111)
+- [Book 1, ch. 10, “Hallowe’en”, ref p. 178, ¶112 (B01-C010-P0112)](../../build/reader/book-01.html#B01-C010-P0112)
+- [Book 1, ch. 10, “Hallowe’en”, ref p. 178, ¶122 (B01-C010-P0122)](../../build/reader/book-01.html#B01-C010-P0122)
+
 ## B01-068: Forbidden corridor — Fluffy’s purpose
 
 Hagrid confirms that the three-headed dog is his, named Fluffy, lent to Dumbledore to guard the secret object.

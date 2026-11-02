@@ -109,6 +109,18 @@ Model: Window and study table are observed; external bearing and window height u
 - [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 234, ¶21 (B01-C014-P0021)](../../build/reader/book-01.html#B01-C014-P0021)
 - [Book 1, ch. 14, “Norbert the Norwegian Ridgeback”, ref p. 234, ¶22 (B01-C014-P0022)](../../build/reader/book-01.html#B01-C014-P0022)
 
+## B01-149: Library — books around the readers
+
+Sitting in the library, Ron gazes upward at the many thousands of volumes around them.
+
+Places: Library.
+
+Evidence: explicit; state: Spring 1992.
+
+Model: A loose impression that agrees with the general count. It suggests shelving rising above seated eye level near a reading place.
+
+- [Book 1, ch. 15, “The Forbidden Forest”, ref p. 251, ¶38 (B01-C015-P0038)](../../build/reader/book-01.html#B01-C015-P0038)
+
 ## B02-060: Restricted library books — borrowing rule
 
 Borrowing a book from the Restricted Section requires a teacher’s signed permission note.
@@ -158,6 +170,18 @@ Model: Five minutes is this narrated transition, not a measured distance or dire
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 165, ¶27 (B02-C010-P0027)](../../build/reader/book-02.html#B02-C010-P0027)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 165, ¶28 (B02-C010-P0028)](../../build/reader/book-02.html#B02-C010-P0028)
 - [Book 2, ch. 10, “The Rogue Bludger”, ref p. 167, ¶42 (B02-C010-P0042)](../../build/reader/book-02.html#B02-C010-P0042)
+
+## B02-166: Library — fetching a restricted book
+
+After accepting a signed note, the librarian walks away among the tall shelves and is gone for several minutes before she returns with the requested volume.
+
+Places: Library, Restricted Section.
+
+Evidence: explicit; state: November 1992.
+
+Model: An elapsed time for one fetch, including finding the book. No distance is stated, but it rules out a Restricted Section a few steps from where she received the note.
+
+- [Book 2, ch. 10, “The Rogue Bludger”, ref p. 164–165, ¶26 (B02-C010-P0026)](../../build/reader/book-02.html#B02-C010-P0026)
 
 ## B02-079: Library — Invisibility section
 

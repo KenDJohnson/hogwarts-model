@@ -2361,6 +2361,31 @@
       "certainty": "reported",
       "temporal": "1997–98 school year, before Neville’s refuge in late April 1998",
       "model_notes": "Physical restraint in the school’s punishment regime; no room, chain anchorage or prisoner position is identified. Do not invent a dedicated dungeon cell."
+    },
+    {
+      "id": "B07-140",
+      "location": "School population",
+      "category": "interior",
+      "description": "McGonagall speaks of hundreds of pupils to evacuate, and Aberforth of hundreds passing through his pub.",
+      "evidence": [
+        "B07-C030-P0066",
+        "B07-C031-P0136"
+      ],
+      "certainty": "reported",
+      "temporal": "May 1998",
+      "model_notes": "Counts the school only as hundreds."
+    },
+    {
+      "id": "B07-141",
+      "location": "Sorting rolls in a memory",
+      "category": "interior",
+      "description": "In a 1971 memory about a dozen pupils are still to be sorted when the roll reaches Snape.",
+      "evidence": [
+        "B07-C033-P0151"
+      ],
+      "certainty": "explicit",
+      "temporal": "September 1971 memory",
+      "model_notes": "A lower limit for one year’s size."
     }
   ],
   "chapter_reviews": [

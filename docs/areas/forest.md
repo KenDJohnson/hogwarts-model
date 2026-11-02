@@ -589,6 +589,20 @@ Model: Institutional access rules at this date, not an impassable physical barri
 
 - [Book 4, ch. 12, “The Triwizard Tournament”, ref p. 192, ¶138 (B04-C012-P0138)](../../build/reader/book-04.html#B04-C012-P0138)
 
+## B04-253: Gryffindor Tower to Hagrid’s cabin and dragon enclosure — timetable
+
+Hagrid asks Harry to come to the cabin at midnight. Harry leaves the common room at about half past eleven and says he must be back at the castle by one o’clock.
+
+Places: Hagrid’s cabin, Dragon enclosure.
+
+Evidence: explicit; state: November 1994, before the first task.
+
+Model: Brackets the night walk to the enclosure: the outward walk and the viewing fit between midnight and about a quarter to one.
+
+- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 337, ¶72 (B04-C019-P0072)](../../build/reader/book-04.html#B04-C019-P0072)
+- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 338, ¶78 (B04-C019-P0078)](../../build/reader/book-04.html#B04-C019-P0078)
+- [Book 4, ch. 19, “The Hungarian Horntail”, ref p. 339, ¶86 (B04-C019-P0086)](../../build/reader/book-04.html#B04-C019-P0086)
+
 ## B04-078: Forest perimeter to hidden dragon enclosure
 
 Hagrid leads the party around the Forest perimeter until the castle and lake are out of sight, then around a clump of trees to the dragon enclosure. On his return Harry skirts the Forest edge, encounters Karkaroff near the trees, and enters the castle front doors before climbing the marble stairs and continuing to Gryffindor.
@@ -1056,6 +1070,19 @@ Model: No creatures encountered initially; cause only later inferred by Harry.
 - [Book 5, ch. 30, “Grawp”, ref p. 820, ¶110 (B05-C030-P0110)](../../build/reader/book-05.html#B05-C030-P0110)
 - [Book 5, ch. 30, “Grawp”, ref p. 820, ¶112 (B05-C030-P0112)](../../build/reader/book-05.html#B05-C030-P0112)
 
+## B05-319: Grawp’s clearing — empty surrounding Forest
+
+Harry realises that the giant’s presence explains why no other creature has been met on the way in through this part of the Forest.
+
+Places: Grawp’s clearing.
+
+Evidence: reported; state: May 1996.
+
+Model: Harry’s explanation for the absence of animals, not a stated exclusion zone.
+
+- [Book 5, ch. 30, “Grawp”, ref p. 819–820, ¶107 (B05-C030-P0107)](../../build/reader/book-05.html#B05-C030-P0107)
+- [Book 5, ch. 30, “Grawp”, ref p. 826, ¶164 (B05-C030-P0164)](../../build/reader/book-05.html#B05-C030-P0164)
+
 ## B05-245: Approach to Grawp clearing
 
 After a pause they continue another fifteen minutes past nettles and arrive behind a barricade of uprooted trunks and branches on a bare patch of ground.
@@ -1342,6 +1369,18 @@ Model: Actual Bowtruckle-in-tree habitat beyond the classroom specimens.
 - [Book 5, ch. 33, “Fight and Flight”, ref p. 907, ¶89 (B05-C033-P0089)](../../build/reader/book-05.html#B05-C033-P0089)
 - [Book 5, ch. 33, “Fight and Flight”, ref p. 907, ¶90 (B05-C033-P0090)](../../build/reader/book-05.html#B05-C033-P0090)
 - [Book 5, ch. 33, “Fight and Flight”, ref p. 907, ¶91 (B05-C033-P0091)](../../build/reader/book-05.html#B05-C033-P0091)
+
+## B05-318: Centaur clearing — position in the Forest
+
+After the centaurs are driven off, Harry judges that he and Hermione are stranded at the centre of the Forbidden Forest with no way out.
+
+Places: Centaur territory.
+
+Evidence: reported; state: June 1996.
+
+Model: Harry’s judgement, not a survey; the clearing’s true position in the Forest is unknown.
+
+- [Book 5, ch. 33, “Fight and Flight”, ref p. 906–907, ¶83 (B05-C033-P0083)](../../build/reader/book-05.html#B05-C033-P0083)
 
 ## B05-284: Office window to Forest pursuit
 
